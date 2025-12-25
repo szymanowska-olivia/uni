@@ -1,5 +1,4 @@
-//Olivia Szymanowska 353133
-//Lista 1 zadanie 1
+
 #include <stdio.h>
 
 long long factorials_imp(int n) {
