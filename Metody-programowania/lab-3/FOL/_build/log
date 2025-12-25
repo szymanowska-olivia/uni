@@ -1,0 +1,17 @@
+# dune exec bin/main.exe -- examples/test1.fol
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/szymka/.cache/dune/db
+# Workspace root: /home/szymka/uwr/2sem/mp/3pracownia/FOL
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_c2ff6a_output
+$ (cd /home/szymka/uwr/2sem/mp/3pracownia/FOL && /home/szymka/uwr/2sem/mp/3pracownia/FOL/_build/default/bin/main.exe examples/test1.fol)

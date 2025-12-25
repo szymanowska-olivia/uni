@@ -1,0 +1,7 @@
+(library
+  (name calc)
+  (modules ast parser lexer main))
+  
+(menhir (modules parser))
+
+(ocamllex lexer)
