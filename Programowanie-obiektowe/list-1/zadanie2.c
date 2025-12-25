@@ -1,5 +1,3 @@
-//Olivia Szymanowska 353133
-//Lista 1 zadanie 2
 
 //w drugim podpunkcie tego zadania nie byłam pewna czy chodzi o znalezienie par liczb względnie pierwszych, nie większych niż n 
 //czy liczb nie większych od n, względnie pierwszych z n 
