@@ -1,0 +1,19 @@
+var Person = ...
+var Worker = ...
+Worker.prototype = Object.create( Person.prototype );
+
+// object.create tworzy nowa instancje tego prototypu - dobrze bo nie chcemy zeby to bylo dokladnie to samo w swietle referencji tylko zeby dziedziczylo wlasnosci, nie chcemy wspoldzielenia
+
+
+var Person = ...
+var Worker = ...
+Worker.prototype = Person.prototype;
+
+// teraz te prototypu wskazuja na ten sam obiekt, nie ma dziedziczenia, jezeli cos zmienimy w jednym (np. dodamy jakąś metode) to w drugim też- mamy wspolldzielenie
+
+
+var Person = ...
+var Worker = ...
+Worker.prototype = new Person();
+
+// prototyp nie powinien byc instancja konstruktora bo konstruktor moze cos jeszcze zawierac np. pola, efekty uboczne itp.
