@@ -1,0 +1,24 @@
+# dune build
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/szymka/.cache/dune/db
+# Workspace root: /home/szymka/uwr/2sem/mp/lista11/fun5
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_dcd6cf_output
+$ (cd _build/.sandbox/1578a21ef69a439be763a5a36d51ef70/default && /home/szymka/.opam/default/bin/menhir src/parser.mly --base src/parser --infer-write-query src/parser__mock.ml.mock)
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/tc&simpl.ml) > _build/default/src/.fun.objs/fun__Tc&simpl.impl.d
+$ (cd _build/default && /usr/bin/ocamllex -q -o src/lexer.ml src/lexer.mll)
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/ast.ml) > _build/default/src/.fun.objs/fun__Ast.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/rawAst.ml) > _build/default/src/.fun.objs/fun__RawAst.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/interp.ml) > _build/default/src/.fun.objs/fun__Interp.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/lexer.ml) > _build/default/src/.fun.objs/fun__Lexer.impl.d
+$ (cd _build/default && /usr/bin/ocamldep.opt -modules -impl src/parser__mock.ml.mock) > _build/default/src/.fun.objs/parser__mock.impl.d

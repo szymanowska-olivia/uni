@@ -1,0 +1,24 @@
+interp "let mult = fun m1 m2 ->
+  let a = fst (fst m1) in
+  let b = snd (fst m1) in
+  let c = fst (snd m1) in
+  let d = snd (snd m1) in
+  let e = fst (fst m2) in
+  let f = snd (fst m2) in
+  let g = fst (snd m2) in
+  let h = snd (snd m2) in
+  ((a*e + b*g, a*f + b*h), (c*e + d*g, c*f + d*h))
+in mult"
+
+let rec matrix_expt_fast m n =
+  if n = 0 then
+    ((1,0), (0,1))
+  else if n mod 2 = 0 then
+    let half = matrix_expt_fast m (n / 2) in
+    mult half half
+  else
+    mult m (matrix_expt_fast m (n - 1)) in matrix_expt_fast
+
+let fib_fast n =
+  let m = ((1, 1), (1, 0)) in
+  fst (fst (matrix_expt_fast m n)) in fib_fast

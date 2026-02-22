@@ -1,0 +1,44 @@
+Require Import List.
+Require Import Utf8.
+Import ListNotations.
+
+
+(*------------4------------*)
+
+Inductive Perm {A : Type} : list A -> list A -> Prop :=
+| perm_nil : Perm [] []
+| perm_cons : forall x xs ys,
+    Perm xs ys -> Perm (x :: xs) (x :: ys)
+| perm_swap : forall x y xs,
+    Perm (x :: y :: xs) (y :: x :: xs)
+| perm_trans : forall xs ys zs,
+    Perm xs ys -> Perm ys zs -> Perm xs zs.
+
+Theorem perm_reflex {A : Type} (xs : list A) :
+     Perm xs xs.
+   Proof.
+     induction xs.
+     + apply perm_nil.
+     + apply perm_cons. apply IHxs.
+     Qed.
+     
+     
+Theorem perm_sym {A : Type} (xs ys : list A) :
+  Perm xs ys -> Perm ys xs.
+  Proof.
+    intro H.
+    induction H.
+    + apply perm_nil.
+    + apply perm_cons. apply IHPerm.
+    + apply perm_swap.
+    + apply perm_trans with (ys0 := ys).
+      - apply IHPerm2.
+      - apply IHPerm1.
+Qed.
+
+Theorem perm_transitivity {A : Type} (xs ys zs : list A) :
+  Perm xs ys -> Perm ys zs -> Perm xs zs.
+Proof.
+  intros Hxy Hyz.
+  apply (perm_trans xs ys zs Hxy Hyz).
+Qed.

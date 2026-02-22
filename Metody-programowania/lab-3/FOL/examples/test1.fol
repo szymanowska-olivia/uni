@@ -1,0 +1,4 @@
+theorem forall_shadow : ∀ x, P(x) → ∀ x, P(x)
+proof
+  fun [x] -> fun (px : P(x)) -> px
+qed

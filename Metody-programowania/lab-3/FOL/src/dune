@@ -1,0 +1,8 @@
+(library
+  (name fol))
+
+(menhir (modules parser))
+
+(ocamllex lexer)
+
+

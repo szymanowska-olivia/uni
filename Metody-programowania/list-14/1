@@ -1,0 +1,20 @@
+Binop(Add, PostInc(PreInc(Var "x")), PostInc(PreInc(Var "x")))
+
+x = 1
+
+++x++ + ++x++:
+
+++x = 2 i zwraca 2
+x++ = 2++ = 3, ale zwraca 2 bo post inkrementacja wiec
+lewa strona = 2 i mamy: 
+
+2 + ++x++
+
+teraz ++x = ++2 = 3 i zwraca 3
+x++ = 3++ = 4, ale zwraca 3
+
+prawa strona = 3 wiec mamy
+
+2 + 3
+
+2 + 3 = 5

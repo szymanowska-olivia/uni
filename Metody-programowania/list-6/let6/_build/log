@@ -1,0 +1,18 @@
+# dune utop
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/szymka/.cache/dune/db
+# Workspace root: /home/szymka/uwr/2sem/mp/lista6/let5
+# Auto-detected concurrency: 16
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /usr/bin/ocamlc.opt -config > /tmp/dune_984832_output
+$ (cd _build/default && /usr/bin/ocamlc.opt -w @1..3@5..28@31..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -24 -g -bin-annot -I .utop/.utop.eobjs/byte -I /home/szymka/.opam/default/lib/bytes -I /home/szymka/.opam/default/lib/findlib -I /home/szymka/.opam/default/lib/lambda-term -I /home/szymka/.opam/default/lib/logs -I /home/szymka/.opam/default/lib/logs/lwt -I /home/szymka/.opam/default/lib/lwt -I /home/szymka/.opam/default/lib/lwt/unix -I /home/szymka/.opam/default/lib/lwt_react -I /home/szymka/.opam/default/lib/mew -I /home/szymka/.opam/default/lib/mew_vi -I /home/szymka/.opam/default/lib/ocplib-endian -I /home/szymka/.opam/default/lib/ocplib-endian/bigstring -I /home/szymka/.opam/default/lib/react -I /home/szymka/.opam/default/lib/result -I /home/szymka/.opam/default/lib/trie -I /home/szymka/.opam/default/lib/uchar -I /home/szymka/.opam/default/lib/utop -I /home/szymka/.opam/default/lib/uucp -I /home/szymka/.opam/default/lib/uuseg -I /home/szymka/.opam/default/lib/uutf -I /home/szymka/.opam/default/lib/xdg -I /home/szymka/.opam/default/lib/zed -I /usr/lib/ocaml/compiler-libs -I /usr/lib/ocaml/threads -I src/.let.objs/byte -no-alias-deps -o .utop/.utop.eobjs/byte/dune__exe__Utop.cmo -c -impl .utop/utop.ml-gen)
+$ (cd _build/default && /usr/bin/ocamlc.opt -w @1..3@5..28@31..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -w -24 -g -o .utop/utop.bc /usr/lib/ocaml/compiler-libs/ocamlcommon.cma /usr/lib/ocaml/compiler-libs/ocamlbytecomp.cma /usr/lib/ocaml/compiler-libs/ocamltoplevel.cma /home/szymka/.opam/default/lib/findlib/findlib.cma /home/szymka/.opam/default/lib/findlib/findlib_top.cma /home/szymka/.opam/default/lib/logs/logs.cma /home/szymka/.opam/default/lib/lwt/lwt.cma /home/szymka/.opam/default/lib/logs/lwt/logs_lwt.cma /usr/lib/ocaml/unix.cma /usr/lib/ocaml/bigarray.cma /home/szymka/.opam/default/lib/ocplib-endian/ocplib_endian.cma /home/szymka/.opam/default/lib/ocplib-endian/bigstring/ocplib_endian_bigstring.cma /usr/lib/ocaml/threads/threads.cma /home/szymka/.opam/default/lib/lwt/unix/lwt_unix.cma -I /home/szymka/.opam/default/lib/lwt/../stublibs /home/szymka/.opam/default/lib/react/react.cma /home/szymka/.opam/default/lib/lwt_react/lwt_react.cma /home/szymka/.opam/default/lib/result/result.cma /home/szymka/.opam/default/lib/uutf/uutf.cma /home/szymka/.opam/default/lib/uucp/uucp.cma /home/szymka/.opam/default/lib/uuseg/uuseg.cma /home/szymka/.opam/default/lib/zed/zed.cma /home/szymka/.opam/default/lib/trie/trie.cma /home/szymka/.opam/default/lib/mew/mew.cma /home/szymka/.opam/default/lib/mew_vi/mew_vi.cma /home/szymka/.opam/default/lib/lambda-term/lambda_term.cma -I /home/szymka/.opam/default/lib/lambda-term/../stublibs /home/szymka/.opam/default/lib/xdg/xdg.cma -I /home/szymka/.opam/default/lib/xdg/../stublibs /home/szymka/.opam/default/lib/utop/uTop.cma src/let.cma .utop/.utop.eobjs/byte/dune__exe__Utop.cmo -linkall -warn-error -31)
