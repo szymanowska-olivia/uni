@@ -1,5 +1,5 @@
 # uni
-University coursework
+I upload some university coursework in here
 
 # All attended courses
 not all are included in the files so far
