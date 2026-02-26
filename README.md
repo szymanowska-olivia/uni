@@ -6,7 +6,6 @@ not all are included in the files so far
 
 ## 1 sem
 - Analiza matematyczna
-- Język angielski
 - Logika dla informatyków
 - Metody implementacji algorytmów
 - O ekonomii i gospodarce inaczej
