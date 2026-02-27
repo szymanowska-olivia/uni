@@ -2,7 +2,7 @@
 I upload some university coursework in here
 
 # All attended courses
-not all are included in the files so far - especially math courses, my digital notes are difficult to export and some of them were written on paper
+not all are included in the files so far - especially math courses, my digital notes are quite troublesome to export and some of them were written on paper
 
 ## 1 sem
 - Analiza matematyczna
