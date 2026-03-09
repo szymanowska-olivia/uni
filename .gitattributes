@@ -1,0 +1,46 @@
+
+# Force language detection
+
+*.c linguist-language=C
+*.h linguist-language=C
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.cc linguist-language=C++
+*.hh linguist-language=C++
+
+
+*.cs linguist-language=C#
+
+
+*.py linguist-language=Python
+
+
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+
+
+*.ml linguist-language=OCaml
+*.mli linguist-language=OCaml
+
+
+*.rb linguist-language=Ruby
+
+
+*.out linguist-vendored
+*.exe linguist-vendored
+*.class linguist-vendored
+*.o linguist-vendored
+*.obj linguist-vendored
+*.dll linguist-vendored
+*.so linguist-vendored
+*.pyc linguist-vendored
+*.pyo linguist-vendored
+
+.vscode/* linguist-vendored
+.idea/* linguist-vendored
+node_modules/* linguist-vendored
+__pycache__/* linguist-vendored
+bin/* linguist-vendored
+obj/* linguist-vendored
+dist/* linguist-vendored
+build/* linguist-vendored
