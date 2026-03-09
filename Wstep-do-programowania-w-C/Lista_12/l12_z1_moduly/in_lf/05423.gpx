@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:28Z</time>
+    <bounds maxlat="49.581678" maxlon="20.013179" minlat="49.580891" minlon="20.009467"/>
+  </metadata>
+  <wpt lat="49.581678" lon="20.009467">
+    <ele>843</ele>
+    <name>Las Panski</name>
+    <link href="https://mapa-turystyczna.pl/node/113">
+      <text>Las Panski</text>
+    </link>
+  </wpt>
+  <wpt lat="49.580891" lon="20.013179">
+    <ele>887</ele>
+    <name>Pod Wierchowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3830">
+      <text>Pod Wierchowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Panski - Pod Wierchowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.581678,20.009467;49.58129650000215,20.011400500000004;49.580891,20.013179">
+    <text>Las Panski - Pod Wierchowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.581678" lon="20.009467">
+      <ele>843</ele>
+      <time>2022-01-17T21:55:28Z</time>
+    </trkpt>
+    <trkpt lat="49.581656" lon="20.00988">
+      <ele>846</ele>
+      <time>2022-01-17T21:56:31Z</time>
+    </trkpt>
+    <trkpt lat="49.581602" lon="20.010207">
+      <ele>849</ele>
+      <time>2022-01-17T21:57:22Z</time>
+    </trkpt>
+    <trkpt lat="49.581501" lon="20.010491">
+      <ele>854</ele>
+      <time>2022-01-17T21:58:12Z</time>
+    </trkpt>
+    <trkpt lat="49.581379" lon="20.01089">
+      <ele>859</ele>
+      <time>2022-01-17T21:59:19Z</time>
+    </trkpt>
+    <trkpt lat="49.581311" lon="20.011297">
+      <ele>863</ele>
+      <time>2022-01-17T22:00:23Z</time>
+    </trkpt>
+    <trkpt lat="49.581282" lon="20.011504">
+      <ele>866</ele>
+      <time>2022-01-17T22:00:55Z</time>
+    </trkpt>
+    <trkpt lat="49.581242" lon="20.0118">
+      <ele>871</ele>
+      <time>2022-01-17T22:01:42Z</time>
+    </trkpt>
+    <trkpt lat="49.581162" lon="20.012149">
+      <ele>877</ele>
+      <time>2022-01-17T22:02:39Z</time>
+    </trkpt>
+    <trkpt lat="49.580891" lon="20.013179">
+      <ele>887</ele>
+      <time>2022-01-17T22:05:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

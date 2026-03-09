@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:27Z</time>
+    <bounds maxlat="51.4008467" maxlon="16.204547" minlat="51.39965" minlon="16.2017974"/>
+  </metadata>
+  <wpt lat="51.39965" lon="16.204547">
+    <ele>128</ele>
+    <name>Lubin, ul. Armii Krajowej</name>
+    <link href="https://mapa-turystyczna.pl/node/13128">
+      <text>Lubin, ul. Armii Krajowej</text>
+    </link>
+  </wpt>
+  <wpt lat="51.400847" lon="16.201797">
+    <ele>128</ele>
+    <name>Lubin, ul. Marii Sklodowskiej-Curie</name>
+    <link href="https://mapa-turystyczna.pl/node/13129">
+      <text>Lubin, ul. Marii Sklodowskiej-Curie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, ul. Armii Krajowej - Lubin, ul. Marii Sklodowskiej-Curie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.39965,16.204547;51.400194151964826,16.203363899999967;51.4008467,16.2017974">
+    <text>Lubin, ul. Armii Krajowej - Lubin, ul. Marii Sklodowskiej-Curie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.39965" lon="16.204547">
+      <ele>128</ele>
+      <time>2022-01-18T01:48:27Z</time>
+    </trkpt>
+    <trkpt lat="51.3997702" lon="16.2042964">
+      <ele>128</ele>
+      <time>2022-01-18T01:48:55Z</time>
+    </trkpt>
+    <trkpt lat="51.4006181" lon="16.2024314">
+      <ele>127</ele>
+      <time>2022-01-18T01:52:21Z</time>
+    </trkpt>
+    <trkpt lat="51.4006716" lon="16.2022007">
+      <ele>128</ele>
+      <time>2022-01-18T01:52:43Z</time>
+    </trkpt>
+    <trkpt lat="51.4008467" lon="16.2017974">
+      <ele>128</ele>
+      <time>2022-01-18T01:53:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

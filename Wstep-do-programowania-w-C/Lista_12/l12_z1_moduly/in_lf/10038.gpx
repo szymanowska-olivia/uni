@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:00Z</time>
+    <bounds maxlat="50.0706213" maxlon="17.2410706" minlat="50.0704638" minlon="17.2395954"/>
+  </metadata>
+  <wpt lat="50.070621" lon="17.239595">
+    <ele>1305</ele>
+    <name>Ovcarna, chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7064">
+      <text>Ovcarna, chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.070464" lon="17.241071">
+    <ele>1295</ele>
+    <name>Ovcarna, chata bus</name>
+    <link href="https://mapa-turystyczna.pl/node/7065">
+      <text>Ovcarna, chata bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ovcarna, chata - Ovcarna, chata bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0706213,17.2395954;50.07054255006464,17.240333000000007;50.0704638,17.2410706">
+    <text>Ovcarna, chata - Ovcarna, chata bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0706213" lon="17.2395954">
+      <ele>1305</ele>
+      <time>2022-01-17T23:09:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0704638" lon="17.2410706">
+      <ele>1295</ele>
+      <time>2022-01-17T23:11:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

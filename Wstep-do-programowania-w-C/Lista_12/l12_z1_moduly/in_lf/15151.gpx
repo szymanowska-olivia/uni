@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:06Z</time>
+    <bounds maxlat="51.2446361" maxlon="16.8562598" minlat="51.2444958" minlon="16.8523706"/>
+  </metadata>
+  <wpt lat="51.244542" lon="16.852371">
+    <ele>110</ele>
+    <name>Uraz</name>
+    <link href="https://mapa-turystyczna.pl/node/10331">
+      <text>Uraz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.244636" lon="16.85626">
+    <ele>110</ele>
+    <name>Uraz, ul. Mlynska</name>
+    <link href="https://mapa-turystyczna.pl/node/10332">
+      <text>Uraz, ul. Mlynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Uraz - Uraz, ul. Mlynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2445421,16.8523706;51.24456595005349,16.854456649999996;51.2446361,16.8562598">
+    <text>Uraz - Uraz, ul. Mlynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2445421" lon="16.8523706">
+      <ele>110</ele>
+      <time>2022-01-18T00:34:06Z</time>
+    </trkpt>
+    <trkpt lat="51.2445126" lon="16.8524872">
+      <ele>111</ele>
+      <time>2022-01-18T00:34:16Z</time>
+    </trkpt>
+    <trkpt lat="51.2444958" lon="16.8526535">
+      <ele>111</ele>
+      <time>2022-01-18T00:34:29Z</time>
+    </trkpt>
+    <trkpt lat="51.2446361" lon="16.8562598">
+      <ele>110</ele>
+      <time>2022-01-18T00:39:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

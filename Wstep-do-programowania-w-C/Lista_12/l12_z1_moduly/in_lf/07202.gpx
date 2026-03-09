@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:23Z</time>
+    <bounds maxlat="50.3878878" maxlon="16.3605738" minlat="50.3866801" minlon="16.356016"/>
+  </metadata>
+  <wpt lat="50.387888" lon="16.356016">
+    <ele>772</ele>
+    <name>Skrzyzowanie nad Kozia Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/4891">
+      <text>Skrzyzowanie nad Kozia Hala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.38668" lon="16.360574">
+    <ele>743</ele>
+    <name>Kozia Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/1879">
+      <text>Kozia Hala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie nad Kozia Hala - Kozia Hala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3878878,16.356016;50.38730655006979,16.358670249999992;50.3866801,16.3605738">
+    <text>Skrzyzowanie nad Kozia Hala - Kozia Hala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3878878" lon="16.356016">
+      <ele>772</ele>
+      <time>2022-01-17T22:19:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3877816" lon="16.3561821">
+      <ele>771</ele>
+      <time>2022-01-17T22:19:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3876832" lon="16.3565343">
+      <ele>767</ele>
+      <time>2022-01-17T22:20:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3876713" lon="16.3572203">
+      <ele>762</ele>
+      <time>2022-01-17T22:20:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3876379" lon="16.3575625">
+      <ele>760</ele>
+      <time>2022-01-17T22:21:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3875959" lon="16.3576998">
+      <ele>760</ele>
+      <time>2022-01-17T22:21:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3873879" lon="16.3582939">
+      <ele>760</ele>
+      <time>2022-01-17T22:21:50Z</time>
+    </trkpt>
+    <trkpt lat="50.3872252" lon="16.3590466">
+      <ele>759</ele>
+      <time>2022-01-17T22:22:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3868434" lon="16.3600548">
+      <ele>751</ele>
+      <time>2022-01-17T22:23:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3866829" lon="16.3603966">
+      <ele>747</ele>
+      <time>2022-01-17T22:24:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3866801" lon="16.3605738">
+      <ele>743</ele>
+      <time>2022-01-17T22:24:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

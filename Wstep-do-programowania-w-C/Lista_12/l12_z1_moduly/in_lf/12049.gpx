@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:43:53Z</time>
+    <bounds maxlat="50.5673373" maxlon="16.7625227" minlat="50.5649059" minlon="16.7611601"/>
+  </metadata>
+  <wpt lat="50.564906" lon="16.761162">
+    <ele>432</ele>
+    <name>Grochowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/8334">
+      <text>Grochowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.567337" lon="16.762471">
+    <ele>376</ele>
+    <name>Pod Grochowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2205">
+      <text>Pod Grochowcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grochowiec - Pod Grochowcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5649059,16.7611621;50.56610715120763,16.7619916;50.5673373,16.7624706">
+    <text>Grochowiec - Pod Grochowcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5649059" lon="16.7611621">
+      <ele>432</ele>
+      <time>2022-01-17T23:43:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5649112" lon="16.7611601">
+      <ele>432</ele>
+      <time>2022-01-17T23:43:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5651497" lon="16.7612459">
+      <ele>430</ele>
+      <time>2022-01-17T23:44:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5653678" lon="16.7614498">
+      <ele>425</ele>
+      <time>2022-01-17T23:44:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5654836" lon="16.7615785">
+      <ele>422</ele>
+      <time>2022-01-17T23:45:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5657698" lon="16.7616966">
+      <ele>412</ele>
+      <time>2022-01-17T23:45:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5664445" lon="16.7622866">
+      <ele>399</ele>
+      <time>2022-01-17T23:47:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5667239" lon="16.762469">
+      <ele>391</ele>
+      <time>2022-01-17T23:47:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5668875" lon="16.7625227">
+      <ele>386</ele>
+      <time>2022-01-17T23:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5671396" lon="16.7625119">
+      <ele>380</ele>
+      <time>2022-01-17T23:48:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5673373" lon="16.7624706">
+      <ele>376</ele>
+      <time>2022-01-17T23:48:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

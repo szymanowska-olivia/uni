@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:58Z</time>
+    <bounds maxlat="50.2273352" maxlon="17.3691273" minlat="50.2246926" minlon="17.3634785"/>
+  </metadata>
+  <wpt lat="50.227335" lon="17.363478">
+    <ele>905</ele>
+    <name>Taborske skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/6331">
+      <text>Taborske skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.224693" lon="17.369127">
+    <ele>943</ele>
+    <name>Olovena stola, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6332">
+      <text>Olovena stola, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Taborske skaly - Olovena stola, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2273352,17.3634785;50.22627990038045,17.366284150000027;50.2246926,17.3691273">
+    <text>Taborske skaly - Olovena stola, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2273352" lon="17.3634785">
+      <ele>905</ele>
+      <time>2022-01-17T22:50:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2270366" lon="17.3643047">
+      <ele>911</ele>
+      <time>2022-01-17T22:52:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2269165" lon="17.3648196">
+      <ele>918</ele>
+      <time>2022-01-17T22:53:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2264704" lon="17.3659462">
+      <ele>928</ele>
+      <time>2022-01-17T22:54:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2260894" lon="17.3666221">
+      <ele>928</ele>
+      <time>2022-01-17T22:56:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2254271" lon="17.3677969">
+      <ele>931</ele>
+      <time>2022-01-17T22:58:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2246926" lon="17.3691273">
+      <ele>943</ele>
+      <time>2022-01-17T23:00:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

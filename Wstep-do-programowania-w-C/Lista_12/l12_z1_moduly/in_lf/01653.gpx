@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:59Z</time>
+    <bounds maxlat="50.7198301" maxlon="15.453303" minlat="50.7170224" minlon="15.4489646"/>
+  </metadata>
+  <wpt lat="50.717022" lon="15.453303">
+    <ele>732</ele>
+    <name>Na Strazi</name>
+    <link href="https://mapa-turystyczna.pl/node/1220">
+      <text>Na Strazi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.71983" lon="15.448965">
+    <ele>782</ele>
+    <name>Straz</name>
+    <link href="https://mapa-turystyczna.pl/node/1379">
+      <text>Straz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Strazi - Straz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7170224,15.453303;50.71843485043556,15.451127099999988;50.7198301,15.4489646">
+    <text>Na Strazi - Straz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7170224" lon="15.453303">
+      <ele>732</ele>
+      <time>2022-01-17T21:03:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7171933" lon="15.4527927">
+      <ele>747</ele>
+      <time>2022-01-17T21:05:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7176113" lon="15.4522653">
+      <ele>762</ele>
+      <time>2022-01-17T21:07:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7182328" lon="15.4516567">
+      <ele>776</ele>
+      <time>2022-01-17T21:10:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7186369" lon="15.4505975">
+      <ele>787</ele>
+      <time>2022-01-17T21:13:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7188253" lon="15.4503146">
+      <ele>791</ele>
+      <time>2022-01-17T21:14:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7191632" lon="15.4500318">
+      <ele>791</ele>
+      <time>2022-01-17T21:15:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7194586" lon="15.4496377">
+      <ele>789</ele>
+      <time>2022-01-17T21:16:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7196678" lon="15.449146">
+      <ele>787</ele>
+      <time>2022-01-17T21:18:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7198301" lon="15.4489646">
+      <ele>782</ele>
+      <time>2022-01-17T21:18:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

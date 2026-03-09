@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:03Z</time>
+    <bounds maxlat="50.7862209" maxlon="16.3000846" minlat="50.785653" minlon="16.2997198"/>
+  </metadata>
+  <wpt lat="50.786221" lon="16.29972">
+    <ele>536</ele>
+    <name>Skrzyzowanie pod Ptasia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2554">
+      <text>Skrzyzowanie pod Ptasia Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.785653" lon="16.299974">
+    <ele>533</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7214">
+      <text>Skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Ptasia Kopa - Skrzyzowanie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7862209,16.2997198;50.78604385033524,16.29985930000002;50.785653,16.2999742">
+    <text>Skrzyzowanie pod Ptasia Kopa - Skrzyzowanie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7862209" lon="16.2997198">
+      <ele>536</ele>
+      <time>2022-01-17T23:13:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7858668" lon="16.2999988">
+      <ele>534</ele>
+      <time>2022-01-17T23:13:39Z</time>
+    </trkpt>
+    <trkpt lat="50.785704" lon="16.3000846">
+      <ele>535</ele>
+      <time>2022-01-17T23:13:55Z</time>
+    </trkpt>
+    <trkpt lat="50.785653" lon="16.2999742">
+      <ele>533</ele>
+      <time>2022-01-17T23:14:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

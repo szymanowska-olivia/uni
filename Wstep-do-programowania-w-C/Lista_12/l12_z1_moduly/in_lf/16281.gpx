@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:11Z</time>
+    <bounds maxlat="49.3064256" maxlon="22.2483504" minlat="49.3059919" minlon="22.2448021"/>
+  </metadata>
+  <wpt lat="49.306072" lon="22.244802">
+    <ele>527</ele>
+    <name>Zrodlo Rabskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11108">
+      <text>Zrodlo Rabskie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.3063" lon="22.24835">
+    <ele>548</ele>
+    <name>Rezerwat Goloborze</name>
+    <link href="https://mapa-turystyczna.pl/node/11109">
+      <text>Rezerwat Goloborze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodlo Rabskie - Rezerwat Goloborze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3060725,22.2448021;49.30623670001244,22.246583049999973;49.3062998,22.2483504">
+    <text>Zrodlo Rabskie - Rezerwat Goloborze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3060725" lon="22.2448021">
+      <ele>527</ele>
+      <time>2022-01-18T00:54:11Z</time>
+    </trkpt>
+    <trkpt lat="49.3059919" lon="22.2451508">
+      <ele>524</ele>
+      <time>2022-01-18T00:54:41Z</time>
+    </trkpt>
+    <trkpt lat="49.3060478" lon="22.2457087">
+      <ele>528</ele>
+      <time>2022-01-18T00:55:26Z</time>
+    </trkpt>
+    <trkpt lat="49.3062017" lon="22.2462344">
+      <ele>534</ele>
+      <time>2022-01-18T00:56:13Z</time>
+    </trkpt>
+    <trkpt lat="49.3062717" lon="22.2469317">
+      <ele>545</ele>
+      <time>2022-01-18T00:57:11Z</time>
+    </trkpt>
+    <trkpt lat="49.3063906" lon="22.2474896">
+      <ele>548</ele>
+      <time>2022-01-18T00:57:58Z</time>
+    </trkpt>
+    <trkpt lat="49.3064256" lon="22.2479939">
+      <ele>546</ele>
+      <time>2022-01-18T00:58:38Z</time>
+    </trkpt>
+    <trkpt lat="49.3062998" lon="22.2483504">
+      <ele>548</ele>
+      <time>2022-01-18T00:59:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

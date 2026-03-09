@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:04:34Z</time>
+    <bounds maxlat="52.0370366" maxlon="21.3852568" minlat="52.0317564" minlon="21.384102"/>
+  </metadata>
+  <wpt lat="52.031756" lon="21.385257">
+    <ele>136</ele>
+    <name>Jezioro Zolw</name>
+    <link href="https://mapa-turystyczna.pl/node/11553">
+      <text>Jezioro Zolw</text>
+    </link>
+  </wpt>
+  <wpt lat="52.037037" lon="21.384554">
+    <ele>135</ele>
+    <name>Regut</name>
+    <link href="https://mapa-turystyczna.pl/node/11554">
+      <text>Regut</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Zolw - Regut</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0317564,21.3852568;52.03407130227774,21.384214649999976;52.0370366,21.384554">
+    <text>Jezioro Zolw - Regut</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0317564" lon="21.3852568">
+      <ele>136</ele>
+      <time>2022-01-18T01:04:34Z</time>
+    </trkpt>
+    <trkpt lat="52.0329665" lon="21.3845901">
+      <ele>136</ele>
+      <time>2022-01-18T01:06:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0334087" lon="21.3841824">
+      <ele>132</ele>
+      <time>2022-01-18T01:07:48Z</time>
+    </trkpt>
+    <trkpt lat="52.03362" lon="21.384102">
+      <ele>131</ele>
+      <time>2022-01-18T01:08:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0345226" lon="21.3843273">
+      <ele>135</ele>
+      <time>2022-01-18T01:09:51Z</time>
+    </trkpt>
+    <trkpt lat="52.0351034" lon="21.3848315">
+      <ele>135</ele>
+      <time>2022-01-18T01:11:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0352522" lon="21.3848852">
+      <ele>134</ele>
+      <time>2022-01-18T01:11:19Z</time>
+    </trkpt>
+    <trkpt lat="52.0364105" lon="21.3847618">
+      <ele>133</ele>
+      <time>2022-01-18T01:13:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0369253" lon="21.3845687">
+      <ele>135</ele>
+      <time>2022-01-18T01:14:22Z</time>
+    </trkpt>
+    <trkpt lat="52.0370366" lon="21.384554">
+      <ele>135</ele>
+      <time>2022-01-18T01:14:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

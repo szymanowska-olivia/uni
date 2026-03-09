@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:48Z</time>
+    <bounds maxlat="50.1615614" maxlon="19.0822746" minlat="50.1582311" minlon="19.0583818"/>
+  </metadata>
+  <wpt lat="50.158231" lon="19.058382">
+    <ele>262</ele>
+    <name>Lesny Krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9444">
+      <text>Lesny Krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.15992" lon="19.082275">
+    <ele>261</ele>
+    <name>Plone Bagno</name>
+    <link href="https://mapa-turystyczna.pl/node/9431">
+      <text>Plone Bagno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesny Krzyz - Plone Bagno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1582311,19.0583818;50.15997370083057,19.07167424999999;50.1599195,19.0822746">
+    <text>Lesny Krzyz - Plone Bagno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1582311" lon="19.0583818">
+      <ele>262</ele>
+      <time>2022-01-18T00:11:48Z</time>
+    </trkpt>
+    <trkpt lat="50.158929" lon="19.0619541">
+      <ele>268</ele>
+      <time>2022-01-18T00:16:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1593207" lon="19.0661489">
+      <ele>264</ele>
+      <time>2022-01-18T00:21:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1594307" lon="19.066857">
+      <ele>265</ele>
+      <time>2022-01-18T00:22:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1596919" lon="19.0698611">
+      <ele>259</ele>
+      <time>2022-01-18T00:25:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1602555" lon="19.0734874">
+      <ele>267</ele>
+      <time>2022-01-18T00:30:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1607366" lon="19.0750753">
+      <ele>268</ele>
+      <time>2022-01-18T00:32:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1615064" lon="19.076749">
+      <ele>265</ele>
+      <time>2022-01-18T00:34:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1615614" lon="19.076985">
+      <ele>266</ele>
+      <time>2022-01-18T00:34:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1614652" lon="19.0772211">
+      <ele>265</ele>
+      <time>2022-01-18T00:35:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1599195" lon="19.0822746">
+      <ele>261</ele>
+      <time>2022-01-18T00:41:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

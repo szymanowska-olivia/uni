@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:08Z</time>
+    <bounds maxlat="50.1302766" maxlon="16.5000701" minlat="50.1282889" minlon="16.4991206"/>
+  </metadata>
+  <wpt lat="50.128289" lon="16.50007">
+    <ele>474</ele>
+    <name>Kunvald, poczta</name>
+    <link href="https://mapa-turystyczna.pl/node/1958">
+      <text>Kunvald, poczta</text>
+    </link>
+  </wpt>
+  <wpt lat="50.130277" lon="16.499147">
+    <ele>466</ele>
+    <name>Kunvald, Bratrska lipa</name>
+    <link href="https://mapa-turystyczna.pl/node/2003">
+      <text>Kunvald, Bratrska lipa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kunvald, poczta - Kunvald, Bratrska lipa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1282889,16.5000701;50.129424607584134,16.49913399999999;50.1302766,16.4991474">
+    <text>Kunvald, poczta - Kunvald, Bratrska lipa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1282889" lon="16.5000701">
+      <ele>474</ele>
+      <time>2022-01-17T21:21:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1283405" lon="16.4994586">
+      <ele>470</ele>
+      <time>2022-01-17T21:21:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1285726" lon="16.4991206">
+      <ele>470</ele>
+      <time>2022-01-17T21:22:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1302766" lon="16.4991474">
+      <ele>466</ele>
+      <time>2022-01-17T21:26:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

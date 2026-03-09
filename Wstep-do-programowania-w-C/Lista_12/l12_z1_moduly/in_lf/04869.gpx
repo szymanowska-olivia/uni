@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:36Z</time>
+    <bounds maxlat="50.915448" maxlon="15.6224459" minlat="50.9147416" minlon="15.6205308"/>
+  </metadata>
+  <wpt lat="50.914742" lon="15.620531">
+    <ele>392</ele>
+    <name>Rybnica, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/3396">
+      <text>Rybnica, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.915448" lon="15.622446">
+    <ele>392</ele>
+    <name>Rybnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3391">
+      <text>Rybnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnica, kosciol - Rybnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9147416,15.6205308;50.91501460080074,15.621316700000003;50.915448,15.6224459">
+    <text>Rybnica, kosciol - Rybnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9147416" lon="15.6205308">
+      <ele>392</ele>
+      <time>2022-01-17T21:47:36Z</time>
+    </trkpt>
+    <trkpt lat="50.9152876" lon="15.6221026">
+      <ele>392</ele>
+      <time>2022-01-17T21:49:13Z</time>
+    </trkpt>
+    <trkpt lat="50.915448" lon="15.6224459">
+      <ele>392</ele>
+      <time>2022-01-17T21:49:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:35Z</time>
+    <bounds maxlat="50.9387401" maxlon="15.2980542" minlat="50.9374389" minlon="15.2958982"/>
+  </metadata>
+  <wpt lat="50.937439" lon="15.295898">
+    <ele>448</ele>
+    <name>Pobiedna, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/8005">
+      <text>Pobiedna, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.93874" lon="15.298054">
+    <ele>442</ele>
+    <name>Pobiedna</name>
+    <link href="https://mapa-turystyczna.pl/node/3433">
+      <text>Pobiedna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pobiedna, skrzyzowanie - Pobiedna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9374389,15.2958982;50.938015451621695,15.296680949999994;50.9387401,15.2980542">
+    <text>Pobiedna, skrzyzowanie - Pobiedna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9374389" lon="15.2958982">
+      <ele>448</ele>
+      <time>2022-01-17T23:33:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9376271" lon="15.2962089">
+      <ele>448</ele>
+      <time>2022-01-17T23:34:01Z</time>
+    </trkpt>
+    <trkpt lat="50.9384038" lon="15.297153">
+      <ele>443</ele>
+      <time>2022-01-17T23:35:33Z</time>
+    </trkpt>
+    <trkpt lat="50.9387401" lon="15.2980542">
+      <ele>442</ele>
+      <time>2022-01-17T23:36:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

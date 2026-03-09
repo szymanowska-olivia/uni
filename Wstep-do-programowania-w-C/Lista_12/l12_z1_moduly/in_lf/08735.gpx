@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:15Z</time>
+    <bounds maxlat="50.3995014" maxlon="16.1368722" minlat="50.3940232" minlon="16.1279243"/>
+  </metadata>
+  <wpt lat="50.394023" lon="16.127924">
+    <ele>401</ele>
+    <name>Vaclavice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6080">
+      <text>Vaclavice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.399501" lon="16.136872">
+    <ele>435</ele>
+    <name>Branka, bojiste</name>
+    <link href="https://mapa-turystyczna.pl/node/6081">
+      <text>Branka, bojiste</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vaclavice, rozc. - Branka, bojiste</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3940232,16.1279243;50.396832450134326,16.132363350000016;50.3995014,16.1368722">
+    <text>Vaclavice, rozc. - Branka, bojiste</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3940232" lon="16.1279243">
+      <ele>401</ele>
+      <time>2022-01-17T22:44:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3951602" lon="16.1298555">
+      <ele>410</ele>
+      <time>2022-01-17T22:47:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3955979" lon="16.13051">
+      <ele>413</ele>
+      <time>2022-01-17T22:48:32Z</time>
+    </trkpt>
+    <trkpt lat="50.395851" lon="16.1307782">
+      <ele>415</ele>
+      <time>2022-01-17T22:49:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3963502" lon="16.1313522">
+      <ele>420</ele>
+      <time>2022-01-17T22:50:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3967196" lon="16.1319798">
+      <ele>421</ele>
+      <time>2022-01-17T22:51:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3969453" lon="16.1327469">
+      <ele>424</ele>
+      <time>2022-01-17T22:52:17Z</time>
+    </trkpt>
+    <trkpt lat="50.397212" lon="16.1334068">
+      <ele>425</ele>
+      <time>2022-01-17T22:53:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3976634" lon="16.1341578">
+      <ele>426</ele>
+      <time>2022-01-17T22:54:27Z</time>
+    </trkpt>
+    <trkpt lat="50.3980259" lon="16.1348552">
+      <ele>429</ele>
+      <time>2022-01-17T22:55:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3989013" lon="16.1363733">
+      <ele>431</ele>
+      <time>2022-01-17T22:57:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3995014" lon="16.1368722">
+      <ele>435</ele>
+      <time>2022-01-17T22:59:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

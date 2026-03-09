@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:46Z</time>
+    <bounds maxlat="51.697953" maxlon="21.5638876" minlat="51.6959762" minlon="21.5614361"/>
+  </metadata>
+  <wpt lat="51.695976" lon="21.561436">
+    <ele>107</ele>
+    <name>Maciejowice, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/12325">
+      <text>Maciejowice, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.697953" lon="21.563888">
+    <ele>113</ele>
+    <name>Maciejowice, ul. Polikowska</name>
+    <link href="https://mapa-turystyczna.pl/node/12323">
+      <text>Maciejowice, ul. Polikowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maciejowice, ul. Kosciuszki - Maciejowice, ul. Polikowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6959762,21.5614361;51.696929355593966,21.56266395000003;51.697953,21.5638876">
+    <text>Maciejowice, ul. Kosciuszki - Maciejowice, ul. Polikowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6959762" lon="21.5614361">
+      <ele>107</ele>
+      <time>2022-01-18T01:25:46Z</time>
+    </trkpt>
+    <trkpt lat="51.6961114" lon="21.5614493">
+      <ele>106</ele>
+      <time>2022-01-18T01:26:02Z</time>
+    </trkpt>
+    <trkpt lat="51.6962178" lon="21.5615458">
+      <ele>106</ele>
+      <time>2022-01-18T01:26:16Z</time>
+    </trkpt>
+    <trkpt lat="51.6976409" lon="21.5637821">
+      <ele>110</ele>
+      <time>2022-01-18T01:30:09Z</time>
+    </trkpt>
+    <trkpt lat="51.697953" lon="21.5638876">
+      <ele>113</ele>
+      <time>2022-01-18T01:30:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

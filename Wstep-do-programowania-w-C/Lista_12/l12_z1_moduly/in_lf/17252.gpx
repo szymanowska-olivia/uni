@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:23Z</time>
+    <bounds maxlat="52.1891477" maxlon="21.233073" minlat="52.1882103" minlon="21.2325028"/>
+  </metadata>
+  <wpt lat="52.18821" lon="21.23263">
+    <ele>115</ele>
+    <name>Jezioro Torfy</name>
+    <link href="https://mapa-turystyczna.pl/node/11744">
+      <text>Jezioro Torfy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.189148" lon="21.232503">
+    <ele>117</ele>
+    <name>Jezioro Torfy</name>
+    <link href="https://mapa-turystyczna.pl/node/11565">
+      <text>Jezioro Torfy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Torfy - Jezioro Torfy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1882103,21.2326297;52.18861785010943,21.233051550000003;52.1891477,21.2325028">
+    <text>Jezioro Torfy - Jezioro Torfy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1882103" lon="21.2326297">
+      <ele>115</ele>
+      <time>2022-01-18T01:10:23Z</time>
+    </trkpt>
+    <trkpt lat="52.1885192" lon="21.2330301">
+      <ele>115</ele>
+      <time>2022-01-18T01:11:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1887165" lon="21.233073">
+      <ele>116</ele>
+      <time>2022-01-18T01:11:25Z</time>
+    </trkpt>
+    <trkpt lat="52.1888415" lon="21.2329872">
+      <ele>116</ele>
+      <time>2022-01-18T01:11:39Z</time>
+    </trkpt>
+    <trkpt lat="52.1891477" lon="21.2325028">
+      <ele>117</ele>
+      <time>2022-01-18T01:12:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

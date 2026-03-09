@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:14Z</time>
+    <bounds maxlat="50.7635505" maxlon="15.4448247" minlat="50.7631147" minlon="15.4444285"/>
+  </metadata>
+  <wpt lat="50.763115" lon="15.444825">
+    <ele>733</ele>
+    <name>Ryzoviste, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1347">
+      <text>Ryzoviste, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.763551" lon="15.444429">
+    <ele>726</ele>
+    <name>Ryzoviste</name>
+    <link href="https://mapa-turystyczna.pl/node/10122">
+      <text>Ryzoviste</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ryzoviste, rozc. - Ryzoviste</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7631147,15.4448247;50.76342585016604,15.444547999999996;50.7635505,15.4444285">
+    <text>Ryzoviste, rozc. - Ryzoviste</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7631147" lon="15.4448247">
+      <ele>733</ele>
+      <time>2022-01-18T00:29:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7633012" lon="15.4446675">
+      <ele>731</ele>
+      <time>2022-01-18T00:29:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7635505" lon="15.4444285">
+      <ele>726</ele>
+      <time>2022-01-18T00:30:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

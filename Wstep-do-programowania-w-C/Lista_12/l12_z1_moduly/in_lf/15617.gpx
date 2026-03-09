@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:13Z</time>
+    <bounds maxlat="49.9637871" maxlon="17.1021466" minlat="49.9624138" minlon="17.1000009"/>
+  </metadata>
+  <wpt lat="49.962414" lon="17.102147">
+    <ele>938</ele>
+    <name>Kamenec, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10657">
+      <text>Kamenec, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.96376" lon="17.100001">
+    <ele>955</ele>
+    <name>Kamenny vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/10656">
+      <text>Kamenny vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamenec, rozc. - Kamenny vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9624138,17.1021466;49.96304860316592,17.1012584;49.9637596,17.1000009">
+    <text>Kamenec, rozc. - Kamenny vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9624138" lon="17.1021466">
+      <ele>938</ele>
+      <time>2022-01-18T00:42:13Z</time>
+    </trkpt>
+    <trkpt lat="49.9624965" lon="17.1018109">
+      <ele>940</ele>
+      <time>2022-01-18T00:42:47Z</time>
+    </trkpt>
+    <trkpt lat="49.9636007" lon="17.1007059">
+      <ele>955</ele>
+      <time>2022-01-18T00:45:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9637871" lon="17.1002445">
+      <ele>956</ele>
+      <time>2022-01-18T00:46:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9637596" lon="17.1000009">
+      <ele>955</ele>
+      <time>2022-01-18T00:47:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:35Z</time>
+    <bounds maxlat="49.605223" maxlon="20.298023" minlat="49.603401" minlon="20.296697"/>
+  </metadata>
+  <wpt lat="49.605223" lon="20.296697">
+    <ele>514</ele>
+    <name>Szczawa, most</name>
+    <link href="https://mapa-turystyczna.pl/node/4126">
+      <text>Szczawa, most</text>
+    </link>
+  </wpt>
+  <wpt lat="49.603401" lon="20.298023">
+    <ele>531</ele>
+    <name>Szczawa</name>
+    <link href="https://mapa-turystyczna.pl/node/120">
+      <text>Szczawa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczawa, most - Szczawa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.605223,20.296697;49.60434500005924,20.297465500000023;49.603401,20.298023">
+    <text>Szczawa, most - Szczawa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.605223" lon="20.296697">
+      <ele>514</ele>
+      <time>2022-01-17T22:32:35Z</time>
+    </trkpt>
+    <trkpt lat="49.60513" lon="20.296784">
+      <ele>515</ele>
+      <time>2022-01-17T22:32:51Z</time>
+    </trkpt>
+    <trkpt lat="49.604923" lon="20.296976">
+      <ele>517</ele>
+      <time>2022-01-17T22:33:27Z</time>
+    </trkpt>
+    <trkpt lat="49.604761" lon="20.297126">
+      <ele>519</ele>
+      <time>2022-01-17T22:33:55Z</time>
+    </trkpt>
+    <trkpt lat="49.604522" lon="20.297338">
+      <ele>522</ele>
+      <time>2022-01-17T22:34:36Z</time>
+    </trkpt>
+    <trkpt lat="49.604421" lon="20.297412">
+      <ele>524</ele>
+      <time>2022-01-17T22:34:53Z</time>
+    </trkpt>
+    <trkpt lat="49.604269" lon="20.297519">
+      <ele>525</ele>
+      <time>2022-01-17T22:35:17Z</time>
+    </trkpt>
+    <trkpt lat="49.604135" lon="20.297591">
+      <ele>526</ele>
+      <time>2022-01-17T22:35:39Z</time>
+    </trkpt>
+    <trkpt lat="49.603858" lon="20.297739">
+      <ele>527</ele>
+      <time>2022-01-17T22:36:22Z</time>
+    </trkpt>
+    <trkpt lat="49.603757" lon="20.297794">
+      <ele>528</ele>
+      <time>2022-01-17T22:36:38Z</time>
+    </trkpt>
+    <trkpt lat="49.603738" lon="20.297804">
+      <ele>528</ele>
+      <time>2022-01-17T22:36:41Z</time>
+    </trkpt>
+    <trkpt lat="49.603401" lon="20.298023">
+      <ele>531</ele>
+      <time>2022-01-17T22:37:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

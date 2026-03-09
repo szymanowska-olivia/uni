@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:52Z</time>
+    <bounds maxlat="49.679808" maxlon="19.221227" minlat="49.677115" minlon="19.21796"/>
+  </metadata>
+  <wpt lat="49.679808" lon="19.21796">
+    <ele>360</ele>
+    <name>Zywiec, ul. Grunwaldzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13171">
+      <text>Zywiec, ul. Grunwaldzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.677115" lon="19.221227">
+    <ele>360</ele>
+    <name>Zywiec Sporysz, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12282">
+      <text>Zywiec Sporysz, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zywiec, ul. Grunwaldzka - Zywiec Sporysz, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.679808,19.21796;49.67847350080325,19.219679500000034;49.677115,19.221227">
+    <text>Zywiec, ul. Grunwaldzka - Zywiec Sporysz, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.679808" lon="19.21796">
+      <ele>360</ele>
+      <time>2022-01-18T01:49:52Z</time>
+    </trkpt>
+    <trkpt lat="49.679677" lon="19.218141">
+      <ele>361</ele>
+      <time>2022-01-18T01:50:07Z</time>
+    </trkpt>
+    <trkpt lat="49.679572" lon="19.218287">
+      <ele>362</ele>
+      <time>2022-01-18T01:50:19Z</time>
+    </trkpt>
+    <trkpt lat="49.679482" lon="19.218412">
+      <ele>362</ele>
+      <time>2022-01-18T01:50:30Z</time>
+    </trkpt>
+    <trkpt lat="49.67899" lon="19.219094">
+      <ele>361</ele>
+      <time>2022-01-18T01:51:27Z</time>
+    </trkpt>
+    <trkpt lat="49.678753" lon="19.219404">
+      <ele>360</ele>
+      <time>2022-01-18T01:51:54Z</time>
+    </trkpt>
+    <trkpt lat="49.678194" lon="19.219955">
+      <ele>362</ele>
+      <time>2022-01-18T01:52:51Z</time>
+    </trkpt>
+    <trkpt lat="49.678121" lon="19.220026">
+      <ele>362</ele>
+      <time>2022-01-18T01:52:59Z</time>
+    </trkpt>
+    <trkpt lat="49.677676" lon="19.22046">
+      <ele>359</ele>
+      <time>2022-01-18T01:53:45Z</time>
+    </trkpt>
+    <trkpt lat="49.677585" lon="19.220551">
+      <ele>359</ele>
+      <time>2022-01-18T01:53:54Z</time>
+    </trkpt>
+    <trkpt lat="49.677173" lon="19.220967">
+      <ele>360</ele>
+      <time>2022-01-18T01:54:37Z</time>
+    </trkpt>
+    <trkpt lat="49.677115" lon="19.221227">
+      <ele>360</ele>
+      <time>2022-01-18T01:54:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

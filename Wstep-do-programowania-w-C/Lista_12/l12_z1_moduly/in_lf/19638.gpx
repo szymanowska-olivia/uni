@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:59Z</time>
+    <bounds maxlat="50.4543022" maxlon="16.6830293" minlat="50.4516341" minlon="16.6812742"/>
+  </metadata>
+  <wpt lat="50.451634" lon="16.683029">
+    <ele>327</ele>
+    <name>Wojciechowice</name>
+    <link href="https://mapa-turystyczna.pl/node/13247">
+      <text>Wojciechowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.454302" lon="16.68143">
+    <ele>355</ele>
+    <name>Nad Wojciechowicami</name>
+    <link href="https://mapa-turystyczna.pl/node/13246">
+      <text>Nad Wojciechowicami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wojciechowice - Nad Wojciechowicami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4516341,16.6830293;50.45314220095497,16.6816443;50.4543022,16.68143">
+    <text>Wojciechowice - Nad Wojciechowicami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4516341" lon="16.6830293">
+      <ele>327</ele>
+      <time>2022-01-18T01:51:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4521995" lon="16.6824865">
+      <ele>333</ele>
+      <time>2022-01-18T01:54:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4523225" lon="16.682229">
+      <ele>336</ele>
+      <time>2022-01-18T01:54:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4524796" lon="16.6820681">
+      <ele>337</ele>
+      <time>2022-01-18T01:55:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4528416" lon="16.6818535">
+      <ele>341</ele>
+      <time>2022-01-18T01:56:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4534428" lon="16.6814351">
+      <ele>347</ele>
+      <time>2022-01-18T01:59:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4540712" lon="16.6812742">
+      <ele>354</ele>
+      <time>2022-01-18T02:01:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4543022" lon="16.68143">
+      <ele>355</ele>
+      <time>2022-01-18T02:01:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

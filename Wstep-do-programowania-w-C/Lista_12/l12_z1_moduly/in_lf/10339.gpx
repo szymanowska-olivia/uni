@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:30Z</time>
+    <bounds maxlat="51.0667985" maxlon="20.7513442" minlat="51.0643819" minlon="20.7420372"/>
+  </metadata>
+  <wpt lat="51.064382" lon="20.751344">
+    <ele>360</ele>
+    <name>Skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7274">
+      <text>Skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.066798" lon="20.742037">
+    <ele>332</ele>
+    <name>Rezerwat Dalejow</name>
+    <link href="https://mapa-turystyczna.pl/node/3200">
+      <text>Rezerwat Dalejow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / czarny - Rezerwat Dalejow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0643819,20.7513442;51.06504075468879,20.74856829999997;51.0667985,20.7420372">
+    <text>Skrzyzowanie szlakow czerwony / czarny - Rezerwat Dalejow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0643819" lon="20.7513442">
+      <ele>360</ele>
+      <time>2022-01-17T23:14:30Z</time>
+    </trkpt>
+    <trkpt lat="51.0656996" lon="20.7457924">
+      <ele>347</ele>
+      <time>2022-01-17T23:20:23Z</time>
+    </trkpt>
+    <trkpt lat="51.0667985" lon="20.7420372">
+      <ele>332</ele>
+      <time>2022-01-17T23:24:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

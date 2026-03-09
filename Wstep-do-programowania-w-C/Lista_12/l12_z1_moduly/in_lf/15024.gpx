@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:09Z</time>
+    <bounds maxlat="52.2720606" maxlon="16.8622622" minlat="52.2699859" minlon="16.8617016"/>
+  </metadata>
+  <wpt lat="52.269986" lon="16.861702">
+    <ele>63</ele>
+    <name>Puszczykowko, ul. Wspolna</name>
+    <link href="https://mapa-turystyczna.pl/node/10241">
+      <text>Puszczykowko, ul. Wspolna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.272061" lon="16.862262">
+    <ele>63</ele>
+    <name>Puszczykowko, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10242">
+      <text>Puszczykowko, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowko, ul. Wspolna - Puszczykowko, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2699859,16.8617016;52.27092415992918,16.861941549999994;52.2720606,16.8622622">
+    <text>Puszczykowko, ul. Wspolna - Puszczykowko, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2699859" lon="16.8617016">
+      <ele>63</ele>
+      <time>2022-01-18T00:32:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2718624" lon="16.8621815">
+      <ele>61</ele>
+      <time>2022-01-18T00:36:40Z</time>
+    </trkpt>
+    <trkpt lat="52.2720606" lon="16.8622622">
+      <ele>63</ele>
+      <time>2022-01-18T00:37:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

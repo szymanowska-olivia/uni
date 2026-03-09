@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:33Z</time>
+    <bounds maxlat="50.4105853" maxlon="18.4625401" minlat="50.4101268" minlon="18.4621203"/>
+  </metadata>
+  <wpt lat="50.410127" lon="18.46212">
+    <ele>222</ele>
+    <name>Poniszowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9567">
+      <text>Poniszowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.410585" lon="18.46254">
+    <ele>218</ele>
+    <name>Poniszowice, ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9665">
+      <text>Poniszowice, ul. Parkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poniszowice - Poniszowice, ul. Parkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4101268,18.4621203;50.41035605055461,18.462330199999986;50.4105853,18.4625401">
+    <text>Poniszowice - Poniszowice, ul. Parkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4101268" lon="18.4621203">
+      <ele>222</ele>
+      <time>2022-01-18T00:17:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4105853" lon="18.4625401">
+      <ele>218</ele>
+      <time>2022-01-18T00:18:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

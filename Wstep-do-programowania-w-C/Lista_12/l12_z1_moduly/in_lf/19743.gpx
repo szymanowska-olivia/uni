@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:59Z</time>
+    <bounds maxlat="51.423298" maxlon="22.9516533" minlat="51.4208233" minlon="22.9344168"/>
+  </metadata>
+  <wpt lat="51.420823" lon="22.934417">
+    <ele>163</ele>
+    <name>Ryczka</name>
+    <link href="https://mapa-turystyczna.pl/node/13325">
+      <text>Ryczka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.42309" lon="22.951653">
+    <ele>165</ele>
+    <name>Krasne</name>
+    <link href="https://mapa-turystyczna.pl/node/13326">
+      <text>Krasne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ryczka - Krasne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4208233,22.9344168;51.42319390011856,22.94536064999998;51.4230898,22.9516533">
+    <text>Ryczka - Krasne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4208233" lon="22.9344168">
+      <ele>163</ele>
+      <time>2022-01-18T01:53:59Z</time>
+    </trkpt>
+    <trkpt lat="51.423298" lon="22.939068">
+      <ele>162</ele>
+      <time>2022-01-18T02:00:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4230898" lon="22.9516533">
+      <ele>165</ele>
+      <time>2022-01-18T02:13:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

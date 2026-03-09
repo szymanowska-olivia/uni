@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:44Z</time>
+    <bounds maxlat="52.1113151" maxlon="21.2725192" minlat="52.1106334" minlon="21.2710517"/>
+  </metadata>
+  <wpt lat="52.110633" lon="21.272519">
+    <ele>99</ele>
+    <name>Otwock, ul. Reymonta</name>
+    <link href="https://mapa-turystyczna.pl/node/12932">
+      <text>Otwock, ul. Reymonta</text>
+    </link>
+  </wpt>
+  <wpt lat="52.111315" lon="21.271052">
+    <ele>100</ele>
+    <name>Otwock, ul. Reymonta</name>
+    <link href="https://mapa-turystyczna.pl/node/12931">
+      <text>Otwock, ul. Reymonta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Reymonta - Otwock, ul. Reymonta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1106334,21.2725192;52.11097425130288,21.27178544999998;52.1113151,21.2710517">
+    <text>Otwock, ul. Reymonta - Otwock, ul. Reymonta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1106334" lon="21.2725192">
+      <ele>99</ele>
+      <time>2022-01-18T01:42:44Z</time>
+    </trkpt>
+    <trkpt lat="52.1113151" lon="21.2710517">
+      <ele>100</ele>
+      <time>2022-01-18T01:44:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

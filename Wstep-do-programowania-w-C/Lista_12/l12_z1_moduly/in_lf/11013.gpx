@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:52Z</time>
+    <bounds maxlat="50.07841" maxlon="16.7810692" minlat="50.0752563" minlon="16.7738949"/>
+  </metadata>
+  <wpt lat="50.07841" lon="16.773895">
+    <ele>630</ele>
+    <name>Krizova cesta Hedec</name>
+    <link href="https://mapa-turystyczna.pl/node/7755">
+      <text>Krizova cesta Hedec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.075256" lon="16.781069">
+    <ele>757</ele>
+    <name>Hedec, klaster</name>
+    <link href="https://mapa-turystyczna.pl/node/7754">
+      <text>Hedec, klaster</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krizova cesta Hedec - Hedec, klaster</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.07841,16.7738949;50.07605850671073,16.77929175000001;50.0752563,16.7810692">
+    <text>Krizova cesta Hedec - Hedec, klaster</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.07841" lon="16.7738949">
+      <ele>630</ele>
+      <time>2022-01-17T23:26:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0768607" lon="16.7775143">
+      <ele>687</ele>
+      <time>2022-01-17T23:36:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0752563" lon="16.7810692">
+      <ele>757</ele>
+      <time>2022-01-17T23:46:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

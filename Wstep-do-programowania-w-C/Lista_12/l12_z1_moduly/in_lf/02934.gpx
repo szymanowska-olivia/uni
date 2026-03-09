@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:35Z</time>
+    <bounds maxlat="50.4420645" maxlon="16.8975306" minlat="50.438935" minlon="16.8928313"/>
+  </metadata>
+  <wpt lat="50.438935" lon="16.892831">
+    <ele>380</ele>
+    <name>Bila Voda, lecebna</name>
+    <link href="https://mapa-turystyczna.pl/node/2074">
+      <text>Bila Voda, lecebna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.442065" lon="16.897531">
+    <ele>351</ele>
+    <name>Bila Voda, ves</name>
+    <link href="https://mapa-turystyczna.pl/node/2073">
+      <text>Bila Voda, ves</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bila Voda, lecebna - Bila Voda, ves</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.438935,16.8928313;50.44052800093874,16.89482824999999;50.4420645,16.8975306">
+    <text>Bila Voda, lecebna - Bila Voda, ves</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.438935" lon="16.8928313">
+      <ele>380</ele>
+      <time>2022-01-17T21:22:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4395008" lon="16.8933249">
+      <ele>374</ele>
+      <time>2022-01-17T21:23:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4402299" lon="16.8942207">
+      <ele>374</ele>
+      <time>2022-01-17T21:24:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4408261" lon="16.8954358">
+      <ele>369</ele>
+      <time>2022-01-17T21:25:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4412882" lon="16.8958394">
+      <ele>362</ele>
+      <time>2022-01-17T21:26:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4417037" lon="16.8964597">
+      <ele>356</ele>
+      <time>2022-01-17T21:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4420645" lon="16.8975306">
+      <ele>351</ele>
+      <time>2022-01-17T21:27:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:39Z</time>
+    <bounds maxlat="50.167463" maxlon="18.5405042" minlat="50.1668271" minlon="18.5358854"/>
+  </metadata>
+  <wpt lat="50.166898" lon="18.540504">
+    <ele>246</ele>
+    <name>Ochojec</name>
+    <link href="https://mapa-turystyczna.pl/node/9596">
+      <text>Ochojec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.167463" lon="18.535885">
+    <ele>243</ele>
+    <name>Ochojec, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9635">
+      <text>Ochojec, krzyz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ochojec - Ochojec, krzyz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1668983,18.5405042;50.166992100024224,18.537806100000008;50.167463,18.5358854">
+    <text>Ochojec - Ochojec, krzyz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1668983" lon="18.5405042">
+      <ele>246</ele>
+      <time>2022-01-18T00:16:39Z</time>
+    </trkpt>
+    <trkpt lat="50.166944" lon="18.5400913">
+      <ele>244</ele>
+      <time>2022-01-18T00:17:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1669165" lon="18.5398875">
+      <ele>244</ele>
+      <time>2022-01-18T00:17:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1668718" lon="18.5396836">
+      <ele>244</ele>
+      <time>2022-01-18T00:17:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1668271" lon="18.5391901">
+      <ele>243</ele>
+      <time>2022-01-18T00:18:01Z</time>
+    </trkpt>
+    <trkpt lat="50.166834" lon="18.5388682">
+      <ele>242</ele>
+      <time>2022-01-18T00:18:21Z</time>
+    </trkpt>
+    <trkpt lat="50.166944" lon="18.5381709">
+      <ele>240</ele>
+      <time>2022-01-18T00:19:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1670402" lon="18.5374413">
+      <ele>242</ele>
+      <time>2022-01-18T00:19:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1670677" lon="18.536819">
+      <ele>242</ele>
+      <time>2022-01-18T00:20:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1671158" lon="18.5365723">
+      <ele>242</ele>
+      <time>2022-01-18T00:20:45Z</time>
+    </trkpt>
+    <trkpt lat="50.167463" lon="18.5358854">
+      <ele>243</ele>
+      <time>2022-01-18T00:21:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

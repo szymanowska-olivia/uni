@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:45Z</time>
+    <bounds maxlat="52.7222629" maxlon="21.5063516" minlat="52.7114971" minlon="21.493211"/>
+  </metadata>
+  <wpt lat="52.711497" lon="21.49735">
+    <ele>110</ele>
+    <name>Sieczychy, Zagorze</name>
+    <link href="https://mapa-turystyczna.pl/node/12187">
+      <text>Sieczychy, Zagorze</text>
+    </link>
+  </wpt>
+  <wpt lat="52.722263" lon="21.506352">
+    <ele>91</ele>
+    <name>Sieczychy, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12188">
+      <text>Sieczychy, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sieczychy, Zagorze - Sieczychy, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.7114971,21.4973501;52.71696910523649,21.496064949999994;52.7222629,21.5063516">
+    <text>Sieczychy, Zagorze - Sieczychy, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.7114971" lon="21.4973501">
+      <ele>110</ele>
+      <time>2022-01-18T01:21:45Z</time>
+    </trkpt>
+    <trkpt lat="52.7131446" lon="21.4974211">
+      <ele>109</ele>
+      <time>2022-01-18T01:24:23Z</time>
+    </trkpt>
+    <trkpt lat="52.7146525" lon="21.4942561">
+      <ele>97</ele>
+      <time>2022-01-18T01:28:17Z</time>
+    </trkpt>
+    <trkpt lat="52.7155783" lon="21.493211">
+      <ele>91</ele>
+      <time>2022-01-18T01:30:05Z</time>
+    </trkpt>
+    <trkpt lat="52.7158902" lon="21.4937689">
+      <ele>91</ele>
+      <time>2022-01-18T01:30:49Z</time>
+    </trkpt>
+    <trkpt lat="52.7162932" lon="21.4946273">
+      <ele>93</ele>
+      <time>2022-01-18T01:31:52Z</time>
+    </trkpt>
+    <trkpt lat="52.717645" lon="21.4975026">
+      <ele>93</ele>
+      <time>2022-01-18T01:35:24Z</time>
+    </trkpt>
+    <trkpt lat="52.7184963" lon="21.4997234">
+      <ele>91</ele>
+      <time>2022-01-18T01:37:56Z</time>
+    </trkpt>
+    <trkpt lat="52.7196094" lon="21.5019934">
+      <ele>91</ele>
+      <time>2022-01-18T01:40:46Z</time>
+    </trkpt>
+    <trkpt lat="52.7204607" lon="21.5034418">
+      <ele>90</ele>
+      <time>2022-01-18T01:42:43Z</time>
+    </trkpt>
+    <trkpt lat="52.7222629" lon="21.5063516">
+      <ele>91</ele>
+      <time>2022-01-18T01:46:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

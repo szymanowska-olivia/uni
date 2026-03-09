@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:07Z</time>
+    <bounds maxlat="50.8103637" maxlon="15.0798986" minlat="50.8094631" minlon="15.0776707"/>
+  </metadata>
+  <wpt lat="50.810364" lon="15.079899">
+    <ele>640</ele>
+    <name>Draci vrch, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/8742">
+      <text>Draci vrch, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.809503" lon="15.077806">
+    <ele>676</ele>
+    <name>Draci vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/8743">
+      <text>Draci vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Draci vrch, odbocka - Draci vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8103637,15.0798986;50.809905500201765,15.078526249999994;50.8095027,15.0778065">
+    <text>Draci vrch, odbocka - Draci vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8103637" lon="15.0798986">
+      <ele>640</ele>
+      <time>2022-01-17T23:55:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8102767" lon="15.0795697">
+      <ele>644</ele>
+      <time>2022-01-17T23:55:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8101241" lon="15.0793175">
+      <ele>648</ele>
+      <time>2022-01-17T23:56:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8100428" lon="15.0789098">
+      <ele>654</ele>
+      <time>2022-01-17T23:57:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8097682" lon="15.0781427">
+      <ele>665</ele>
+      <time>2022-01-17T23:58:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8097106" lon="15.0777887">
+      <ele>672</ele>
+      <time>2022-01-17T23:59:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8096055" lon="15.0776707">
+      <ele>673</ele>
+      <time>2022-01-17T23:59:28Z</time>
+    </trkpt>
+    <trkpt lat="50.809514" lon="15.0777189">
+      <ele>674</ele>
+      <time>2022-01-17T23:59:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8094631" lon="15.077735">
+      <ele>675</ele>
+      <time>2022-01-17T23:59:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8094727" lon="15.0778352">
+      <ele>675</ele>
+      <time>2022-01-18T00:00:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8095027" lon="15.0778065">
+      <ele>676</ele>
+      <time>2022-01-18T00:00:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

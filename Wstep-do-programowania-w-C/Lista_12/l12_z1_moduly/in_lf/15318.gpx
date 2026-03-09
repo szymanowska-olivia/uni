@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:10Z</time>
+    <bounds maxlat="51.5244502" maxlon="17.282405" minlat="51.512476" minlon="17.2721116"/>
+  </metadata>
+  <wpt lat="51.512476" lon="17.282405">
+    <ele>116</ele>
+    <name>Milicz, ul. Poprzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/10453">
+      <text>Milicz, ul. Poprzeczna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.52445" lon="17.272112">
+    <ele>108</ele>
+    <name>Milicz, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10429">
+      <text>Milicz, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Milicz, ul. Poprzeczna - Milicz, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.512476,17.282405;51.51914615979675,17.278218850000005;51.5244502,17.2721116">
+    <text>Milicz, ul. Poprzeczna - Milicz, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.512476" lon="17.282405">
+      <ele>116</ele>
+      <time>2022-01-18T00:37:10Z</time>
+    </trkpt>
+    <trkpt lat="51.5134545" lon="17.2814214">
+      <ele>116</ele>
+      <time>2022-01-18T00:39:04Z</time>
+    </trkpt>
+    <trkpt lat="51.514436" lon="17.2805953">
+      <ele>114</ele>
+      <time>2022-01-18T00:40:54Z</time>
+    </trkpt>
+    <trkpt lat="51.5149701" lon="17.280327">
+      <ele>113</ele>
+      <time>2022-01-18T00:41:50Z</time>
+    </trkpt>
+    <trkpt lat="51.5168195" lon="17.2795224">
+      <ele>111</ele>
+      <time>2022-01-18T00:45:00Z</time>
+    </trkpt>
+    <trkpt lat="51.5171667" lon="17.2793829">
+      <ele>110</ele>
+      <time>2022-01-18T00:45:35Z</time>
+    </trkpt>
+    <trkpt lat="51.5182015" lon="17.2787821">
+      <ele>109</ele>
+      <time>2022-01-18T00:47:24Z</time>
+    </trkpt>
+    <trkpt lat="51.5200908" lon="17.2776556">
+      <ele>112</ele>
+      <time>2022-01-18T00:50:44Z</time>
+    </trkpt>
+    <trkpt lat="51.519655" lon="17.2756984">
+      <ele>111</ele>
+      <time>2022-01-18T00:52:52Z</time>
+    </trkpt>
+    <trkpt lat="51.5199154" lon="17.2756125">
+      <ele>110</ele>
+      <time>2022-01-18T00:53:18Z</time>
+    </trkpt>
+    <trkpt lat="51.5244465" lon="17.2729931">
+      <ele>109</ele>
+      <time>2022-01-18T01:01:16Z</time>
+    </trkpt>
+    <trkpt lat="51.5244502" lon="17.2721116">
+      <ele>108</ele>
+      <time>2022-01-18T01:02:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

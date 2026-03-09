@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:00Z</time>
+    <bounds maxlat="50.4536141" maxlon="16.4295176" minlat="50.4533059" minlon="16.4290362"/>
+  </metadata>
+  <wpt lat="50.453401" lon="16.429518">
+    <ele>698</ele>
+    <name>Odejscie do skaly Zaba</name>
+    <link href="https://mapa-turystyczna.pl/node/12969">
+      <text>Odejscie do skaly Zaba</text>
+    </link>
+  </wpt>
+  <wpt lat="50.453306" lon="16.429196">
+    <ele>700</ele>
+    <name>Odejscie do skaly Zaba</name>
+    <link href="https://mapa-turystyczna.pl/node/12970">
+      <text>Odejscie do skaly Zaba</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do skaly Zaba - Odejscie do skaly Zaba</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4534012,16.4295176;50.453593550000505,16.429151550000025;50.4533059,16.4291964">
+    <text>Odejscie do skaly Zaba - Odejscie do skaly Zaba</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4534012" lon="16.4295176">
+      <ele>698</ele>
+      <time>2022-01-18T01:44:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4535526" lon="16.4294171">
+      <ele>700</ele>
+      <time>2022-01-18T01:44:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4536141" lon="16.4293474">
+      <ele>701</ele>
+      <time>2022-01-18T01:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4536004" lon="16.4292186">
+      <ele>701</ele>
+      <time>2022-01-18T01:44:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4535867" lon="16.4290845">
+      <ele>702</ele>
+      <time>2022-01-18T01:45:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4535082" lon="16.4290362">
+      <ele>702</ele>
+      <time>2022-01-18T01:45:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4533059" lon="16.4291964">
+      <ele>700</ele>
+      <time>2022-01-18T01:46:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

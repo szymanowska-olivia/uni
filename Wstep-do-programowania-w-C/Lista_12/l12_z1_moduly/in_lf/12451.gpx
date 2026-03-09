@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:26Z</time>
+    <bounds maxlat="53.8521186" maxlon="14.6118367" minlat="53.8480282" minlon="14.6103628"/>
+  </metadata>
+  <wpt lat="53.848028" lon="14.611837">
+    <ele>2</ele>
+    <name>Wolin, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8564">
+      <text>Wolin, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.852119" lon="14.610363">
+    <ele>3</ele>
+    <name>Wolin, osiedle Robotnicze</name>
+    <link href="https://mapa-turystyczna.pl/node/8565">
+      <text>Wolin, osiedle Robotnicze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin, ul. Kolejowa - Wolin, osiedle Robotnicze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8480282,14.6118367;53.84981280114867,14.611562599999983;53.8521186,14.6103628">
+    <text>Wolin, ul. Kolejowa - Wolin, osiedle Robotnicze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8480282" lon="14.6118367">
+      <ele>2</ele>
+      <time>2022-01-17T23:50:26Z</time>
+    </trkpt>
+    <trkpt lat="53.8495027" lon="14.6116538">
+      <ele>8</ele>
+      <time>2022-01-17T23:53:57Z</time>
+    </trkpt>
+    <trkpt lat="53.8501229" lon="14.6114714">
+      <ele>5</ele>
+      <time>2022-01-17T23:55:27Z</time>
+    </trkpt>
+    <trkpt lat="53.8521186" lon="14.6103628">
+      <ele>3</ele>
+      <time>2022-01-18T00:00:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

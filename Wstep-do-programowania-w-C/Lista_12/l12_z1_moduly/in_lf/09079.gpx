@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:35Z</time>
+    <bounds maxlat="50.6029304" maxlon="16.006211" minlat="50.6017694" minlon="16.002633"/>
+  </metadata>
+  <wpt lat="50.602535" lon="16.002633">
+    <ele>428</ele>
+    <name>Petrikovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6304">
+      <text>Petrikovice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.601769" lon="16.004457">
+    <ele>461</ele>
+    <name>Petrikovice, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6317">
+      <text>Petrikovice, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Petrikovice - Petrikovice, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6025354,16.002633;50.60274825035254,16.004805550000032;50.6017694,16.0044569">
+    <text>Petrikovice - Petrikovice, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6025354" lon="16.002633">
+      <ele>428</ele>
+      <time>2022-01-17T22:50:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6025661" lon="16.0034001">
+      <ele>430</ele>
+      <time>2022-01-17T22:51:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6029304" lon="16.006211">
+      <ele>452</ele>
+      <time>2022-01-17T22:56:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6026648" lon="16.0060072">
+      <ele>457</ele>
+      <time>2022-01-17T22:57:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6023822" lon="16.0054815">
+      <ele>459</ele>
+      <time>2022-01-17T22:58:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6023039" lon="16.0053849">
+      <ele>460</ele>
+      <time>2022-01-17T22:58:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6019192" lon="16.0050577">
+      <ele>464</ele>
+      <time>2022-01-17T22:59:33Z</time>
+    </trkpt>
+    <trkpt lat="50.6018579" lon="16.0048699">
+      <ele>462</ele>
+      <time>2022-01-17T22:59:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6017694" lon="16.0044569">
+      <ele>461</ele>
+      <time>2022-01-17T23:00:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

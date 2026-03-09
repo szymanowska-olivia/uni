@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:19Z</time>
+    <bounds maxlat="50.0682825" maxlon="17.3100328" minlat="50.0668501" minlon="17.3057467"/>
+  </metadata>
+  <wpt lat="50.06685" lon="17.305747">
+    <ele>863</ele>
+    <name>Hvezda</name>
+    <link href="https://mapa-turystyczna.pl/node/7109">
+      <text>Hvezda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.068283" lon="17.310033">
+    <ele>850</ele>
+    <name>Nad Karlovou Studankou</name>
+    <link href="https://mapa-turystyczna.pl/node/7110">
+      <text>Nad Karlovou Studankou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hvezda - Nad Karlovou Studankou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0668501,17.3057467;50.06785730005197,17.30743645000001;50.0682825,17.3100328">
+    <text>Hvezda - Nad Karlovou Studankou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0668501" lon="17.3057467">
+      <ele>863</ele>
+      <time>2022-01-17T23:10:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0670843" lon="17.3060524">
+      <ele>863</ele>
+      <time>2022-01-17T23:10:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0674837" lon="17.3066533">
+      <ele>860</ele>
+      <time>2022-01-17T23:11:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0677867" lon="17.3071307">
+      <ele>855</ele>
+      <time>2022-01-17T23:12:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0679279" lon="17.3077422">
+      <ele>851</ele>
+      <time>2022-01-17T23:12:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0681482" lon="17.3094642">
+      <ele>852</ele>
+      <time>2022-01-17T23:14:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0682825" lon="17.3100328">
+      <ele>850</ele>
+      <time>2022-01-17T23:15:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:50Z</time>
+    <bounds maxlat="50.2086428" maxlon="18.82265" minlat="50.2077019" minlon="18.8176546"/>
+  </metadata>
+  <wpt lat="50.207702" lon="18.817655">
+    <ele>259</ele>
+    <name>Paniowy, ul. Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/9674">
+      <text>Paniowy, ul. Wolnosci</text>
+    </link>
+  </wpt>
+  <wpt lat="50.208643" lon="18.82265">
+    <ele>258</ele>
+    <name>Paniowy, plebania</name>
+    <link href="https://mapa-turystyczna.pl/node/9675">
+      <text>Paniowy, plebania</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paniowy, ul. Wolnosci - Paniowy, plebania</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2077019,18.8176546;50.2083575500079,18.820362649999982;50.2086428,18.82265">
+    <text>Paniowy, ul. Wolnosci - Paniowy, plebania</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2077019" lon="18.8176546">
+      <ele>259</ele>
+      <time>2022-01-18T00:17:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2083301" lon="18.8200408">
+      <ele>257</ele>
+      <time>2022-01-18T00:20:16Z</time>
+    </trkpt>
+    <trkpt lat="50.208385" lon="18.8206845">
+      <ele>258</ele>
+      <time>2022-01-18T00:20:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2083988" lon="18.8217896">
+      <ele>260</ele>
+      <time>2022-01-18T00:21:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2084331" lon="18.8221222">
+      <ele>259</ele>
+      <time>2022-01-18T00:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2086428" lon="18.82265">
+      <ele>258</ele>
+      <time>2022-01-18T00:22:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

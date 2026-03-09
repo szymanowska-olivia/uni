@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:39Z</time>
+    <bounds maxlat="50.4181721" maxlon="16.3190283" minlat="50.4179969" minlon="16.31805"/>
+  </metadata>
+  <wpt lat="50.417997" lon="16.31805">
+    <ele>709</ele>
+    <name>Przelecz w Grodzcu</name>
+    <link href="https://mapa-turystyczna.pl/node/1835">
+      <text>Przelecz w Grodzcu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.418172" lon="16.319028">
+    <ele>714</ele>
+    <name>Przelecz w Grodzcu</name>
+    <link href="https://mapa-turystyczna.pl/node/8037">
+      <text>Przelecz w Grodzcu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz w Grodzcu - Przelecz w Grodzcu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4179969,16.31805;50.41812625001428,16.318508599999983;50.4181721,16.3190283">
+    <text>Przelecz w Grodzcu - Przelecz w Grodzcu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4179969" lon="16.31805">
+      <ele>709</ele>
+      <time>2022-01-17T23:34:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4180895" lon="16.3183208">
+      <ele>712</ele>
+      <time>2022-01-17T23:35:15Z</time>
+    </trkpt>
+    <trkpt lat="50.418163" lon="16.3186964">
+      <ele>712</ele>
+      <time>2022-01-17T23:36:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4181721" lon="16.3190283">
+      <ele>714</ele>
+      <time>2022-01-17T23:36:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

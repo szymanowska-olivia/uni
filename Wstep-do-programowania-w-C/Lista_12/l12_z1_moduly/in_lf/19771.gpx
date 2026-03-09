@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:33Z</time>
+    <bounds maxlat="51.387182" maxlon="23.209843" minlat="51.3810741" minlon="23.1932629"/>
+  </metadata>
+  <wpt lat="51.381074" lon="23.209843">
+    <ele>170</ele>
+    <name>Urszulin, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13279">
+      <text>Urszulin, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.387182" lon="23.193263">
+    <ele>173</ele>
+    <name>Urszulin, ul. Kwiatowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13275">
+      <text>Urszulin, ul. Kwiatowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Urszulin, rozejscie szlakow - Urszulin, ul. Kwiatowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3810741,23.209843;51.38343306079228,23.204709149999978;51.387182,23.1932629">
+    <text>Urszulin, rozejscie szlakow - Urszulin, ul. Kwiatowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3810741" lon="23.209843">
+      <ele>170</ele>
+      <time>2022-01-18T01:54:33Z</time>
+    </trkpt>
+    <trkpt lat="51.3857919" lon="23.1995753">
+      <ele>169</ele>
+      <time>2022-01-18T02:07:40Z</time>
+    </trkpt>
+    <trkpt lat="51.3859079" lon="23.1992317">
+      <ele>171</ele>
+      <time>2022-01-18T02:08:04Z</time>
+    </trkpt>
+    <trkpt lat="51.387182" lon="23.1932629">
+      <ele>173</ele>
+      <time>2022-01-18T02:14:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

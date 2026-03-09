@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:51Z</time>
+    <bounds maxlat="52.4422767" maxlon="15.1149938" minlat="52.4412087" minlon="15.112522"/>
+  </metadata>
+  <wpt lat="52.442277" lon="15.114994">
+    <ele>75</ele>
+    <name>Sulecin, Park Bankowy</name>
+    <link href="https://mapa-turystyczna.pl/node/13046">
+      <text>Sulecin, Park Bankowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.441209" lon="15.112522">
+    <ele>73</ele>
+    <name>Sulecin</name>
+    <link href="https://mapa-turystyczna.pl/node/13019">
+      <text>Sulecin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulecin, Park Bankowy - Sulecin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4422767,15.1149938;52.441597950611644,15.11334504999998;52.4412087,15.112522">
+    <text>Sulecin, Park Bankowy - Sulecin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4422767" lon="15.1149938">
+      <ele>75</ele>
+      <time>2022-01-18T01:45:51Z</time>
+    </trkpt>
+    <trkpt lat="52.4420524" lon="15.1142677">
+      <ele>73</ele>
+      <time>2022-01-18T01:46:39Z</time>
+    </trkpt>
+    <trkpt lat="52.4418301" lon="15.1137849">
+      <ele>74</ele>
+      <time>2022-01-18T01:47:15Z</time>
+    </trkpt>
+    <trkpt lat="52.4413658" lon="15.1129052">
+      <ele>73</ele>
+      <time>2022-01-18T01:48:24Z</time>
+    </trkpt>
+    <trkpt lat="52.4412578" lon="15.1126906">
+      <ele>73</ele>
+      <time>2022-01-18T01:48:40Z</time>
+    </trkpt>
+    <trkpt lat="52.4412087" lon="15.112522">
+      <ele>73</ele>
+      <time>2022-01-18T01:48:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:21Z</time>
+    <bounds maxlat="52.4654102" maxlon="20.8745421" minlat="52.4547495" minlon="20.8718706"/>
+  </metadata>
+  <wpt lat="52.454749" lon="20.871871">
+    <ele>72</ele>
+    <name>Kaluszyn, Ochotnicza Straz Pozarna</name>
+    <link href="https://mapa-turystyczna.pl/node/11366">
+      <text>Kaluszyn, Ochotnicza Straz Pozarna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.46541" lon="20.872102">
+    <ele>76</ele>
+    <name>Kaluszyn, ul. Reja</name>
+    <link href="https://mapa-turystyczna.pl/node/11368">
+      <text>Kaluszyn, ul. Reja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaluszyn, Ochotnicza Straz Pozarna - Kaluszyn, ul. Reja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4547495,20.8718706;52.46113544769916,20.874311450000008;52.4654102,20.8721021">
+    <text>Kaluszyn, Ochotnicza Straz Pozarna - Kaluszyn, ul. Reja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4547495" lon="20.8718706">
+      <ele>72</ele>
+      <time>2022-01-18T01:00:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4567067" lon="20.8734629">
+      <ele>78</ele>
+      <time>2022-01-18T01:04:12Z</time>
+    </trkpt>
+    <trkpt lat="52.4569486" lon="20.8735917">
+      <ele>75</ele>
+      <time>2022-01-18T01:04:39Z</time>
+    </trkpt>
+    <trkpt lat="52.4589034" lon="20.8745251">
+      <ele>76</ele>
+      <time>2022-01-18T01:08:15Z</time>
+    </trkpt>
+    <trkpt lat="52.459086" lon="20.8745421">
+      <ele>76</ele>
+      <time>2022-01-18T01:08:34Z</time>
+    </trkpt>
+    <trkpt lat="52.4631848" lon="20.8740808">
+      <ele>74</ele>
+      <time>2022-01-18T01:15:49Z</time>
+    </trkpt>
+    <trkpt lat="52.4644333" lon="20.8733534">
+      <ele>80</ele>
+      <time>2022-01-18T01:18:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4654102" lon="20.8721021">
+      <ele>76</ele>
+      <time>2022-01-18T01:20:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:25Z</time>
+    <bounds maxlat="49.773263" maxlon="18.909918" minlat="49.76766" minlon="18.908396"/>
+  </metadata>
+  <wpt lat="49.773263" lon="18.908763">
+    <ele>449</ele>
+    <name>Jasionki</name>
+    <link href="https://mapa-turystyczna.pl/node/13477">
+      <text>Jasionki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.76766" lon="18.909918">
+    <ele>463</ele>
+    <name>Jaworze, Naleze</name>
+    <link href="https://mapa-turystyczna.pl/node/864">
+      <text>Jaworze, Naleze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jasionki - Jaworze, Naleze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.773263,18.908763;49.77039700007107,18.908411500000003;49.76766,18.909918">
+    <text>Jasionki - Jaworze, Naleze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.773263" lon="18.908763">
+      <ele>449</ele>
+      <time>2022-01-18T01:58:25Z</time>
+    </trkpt>
+    <trkpt lat="49.772198" lon="18.908614">
+      <ele>451</ele>
+      <time>2022-01-18T02:00:16Z</time>
+    </trkpt>
+    <trkpt lat="49.771448" lon="18.908487">
+      <ele>453</ele>
+      <time>2022-01-18T02:01:34Z</time>
+    </trkpt>
+    <trkpt lat="49.770605" lon="18.9084">
+      <ele>452</ele>
+      <time>2022-01-18T02:03:02Z</time>
+    </trkpt>
+    <trkpt lat="49.77048" lon="18.908396">
+      <ele>453</ele>
+      <time>2022-01-18T02:03:14Z</time>
+    </trkpt>
+    <trkpt lat="49.770314" lon="18.908427">
+      <ele>453</ele>
+      <time>2022-01-18T02:03:32Z</time>
+    </trkpt>
+    <trkpt lat="49.769818" lon="18.908633">
+      <ele>457</ele>
+      <time>2022-01-18T02:04:25Z</time>
+    </trkpt>
+    <trkpt lat="49.769605" lon="18.908758">
+      <ele>457</ele>
+      <time>2022-01-18T02:04:49Z</time>
+    </trkpt>
+    <trkpt lat="49.768286" lon="18.909499">
+      <ele>458</ele>
+      <time>2022-01-18T02:07:14Z</time>
+    </trkpt>
+    <trkpt lat="49.767796" lon="18.909844">
+      <ele>461</ele>
+      <time>2022-01-18T02:08:10Z</time>
+    </trkpt>
+    <trkpt lat="49.76766" lon="18.909918">
+      <ele>463</ele>
+      <time>2022-01-18T02:08:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

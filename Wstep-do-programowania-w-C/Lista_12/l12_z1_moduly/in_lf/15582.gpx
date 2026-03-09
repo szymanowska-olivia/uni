@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:37Z</time>
+    <bounds maxlat="52.9923525" maxlon="16.9254708" minlat="52.9898758" minlon="16.9241404"/>
+  </metadata>
+  <wpt lat="52.989876" lon="16.92414">
+    <ele>54</ele>
+    <name>Chodziez, przystan</name>
+    <link href="https://mapa-turystyczna.pl/node/10623">
+      <text>Chodziez, przystan</text>
+    </link>
+  </wpt>
+  <wpt lat="52.992353" lon="16.925471">
+    <ele>55</ele>
+    <name>Promenada Chodzieska</name>
+    <link href="https://mapa-turystyczna.pl/node/10624">
+      <text>Promenada Chodzieska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chodziez, przystan - Promenada Chodzieska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9898758,16.9241404;52.991652605671206,16.92489605;52.9923525,16.9254708">
+    <text>Chodziez, przystan - Promenada Chodzieska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9898758" lon="16.9241404">
+      <ele>54</ele>
+      <time>2022-01-18T00:41:37Z</time>
+    </trkpt>
+    <trkpt lat="52.9904942" lon="16.9242248">
+      <ele>55</ele>
+      <time>2022-01-18T00:42:47Z</time>
+    </trkpt>
+    <trkpt lat="52.9909527" lon="16.9243213">
+      <ele>56</ele>
+      <time>2022-01-18T00:43:40Z</time>
+    </trkpt>
+    <trkpt lat="52.9923525" lon="16.9254708">
+      <ele>55</ele>
+      <time>2022-01-18T00:46:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

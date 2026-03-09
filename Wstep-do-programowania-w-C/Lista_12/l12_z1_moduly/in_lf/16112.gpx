@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:51:12Z</time>
+    <bounds maxlat="50.7581786" maxlon="16.4545499" minlat="50.7563469" minlon="16.4532495"/>
+  </metadata>
+  <wpt lat="50.756347" lon="16.454469">
+    <ele>468</ele>
+    <name>Rozdroze pod Przygrodna</name>
+    <link href="https://mapa-turystyczna.pl/node/11013">
+      <text>Rozdroze pod Przygrodna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.758179" lon="16.453249">
+    <ele>456</ele>
+    <name>Rozdroze pod Gologorka</name>
+    <link href="https://mapa-turystyczna.pl/node/8104">
+      <text>Rozdroze pod Gologorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Przygrodna - Rozdroze pod Gologorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7563469,16.4544694;50.75728495042329,16.453779049999984;50.7581786,16.4532495">
+    <text>Rozdroze pod Przygrodna - Rozdroze pod Gologorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7563469" lon="16.4544694">
+      <ele>468</ele>
+      <time>2022-01-18T00:51:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7563666" lon="16.4544802">
+      <ele>468</ele>
+      <time>2022-01-18T00:51:15Z</time>
+    </trkpt>
+    <trkpt lat="50.75651" lon="16.4545499">
+      <ele>466</ele>
+      <time>2022-01-18T00:51:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7566322" lon="16.4545016">
+      <ele>463</ele>
+      <time>2022-01-18T00:51:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7567686" lon="16.4543331">
+      <ele>461</ele>
+      <time>2022-01-18T00:52:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7570859" lon="16.4538772">
+      <ele>456</ele>
+      <time>2022-01-18T00:53:23Z</time>
+    </trkpt>
+    <trkpt lat="50.757484" lon="16.4536809">
+      <ele>454</ele>
+      <time>2022-01-18T00:54:24Z</time>
+    </trkpt>
+    <trkpt lat="50.757617" lon="16.4535928">
+      <ele>454</ele>
+      <time>2022-01-18T00:54:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7577453" lon="16.4535253">
+      <ele>453</ele>
+      <time>2022-01-18T00:55:04Z</time>
+    </trkpt>
+    <trkpt lat="50.757898" lon="16.4534502">
+      <ele>454</ele>
+      <time>2022-01-18T00:55:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7581786" lon="16.4532495">
+      <ele>456</ele>
+      <time>2022-01-18T00:56:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

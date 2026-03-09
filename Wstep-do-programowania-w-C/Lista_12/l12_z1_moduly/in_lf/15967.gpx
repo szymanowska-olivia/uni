@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:56Z</time>
+    <bounds maxlat="50.8782712" maxlon="21.1490519" minlat="50.8760287" minlon="21.1444223"/>
+  </metadata>
+  <wpt lat="50.876029" lon="21.144422">
+    <ele>279</ele>
+    <name>Grzegorzowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3149">
+      <text>Grzegorzowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.878271" lon="21.149052">
+    <ele>277</ele>
+    <name>Rozejscie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10939">
+      <text>Rozejscie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grzegorzowice - Rozejscie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8760287,21.1444223;50.87680210641769,21.145833350000004;50.8782712,21.1490519">
+    <text>Grzegorzowice - Rozejscie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8760287" lon="21.1444223">
+      <ele>279</ele>
+      <time>2022-01-18T00:48:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8775755" lon="21.1472444">
+      <ele>279</ele>
+      <time>2022-01-18T00:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8780631" lon="21.1480647">
+      <ele>277</ele>
+      <time>2022-01-18T00:53:02Z</time>
+    </trkpt>
+    <trkpt lat="50.878201" lon="21.1483826">
+      <ele>277</ele>
+      <time>2022-01-18T00:53:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8782322" lon="21.1485802">
+      <ele>277</ele>
+      <time>2022-01-18T00:53:32Z</time>
+    </trkpt>
+    <trkpt lat="50.87827" lon="21.1490511">
+      <ele>277</ele>
+      <time>2022-01-18T00:53:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8782712" lon="21.1490519">
+      <ele>277</ele>
+      <time>2022-01-18T00:53:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

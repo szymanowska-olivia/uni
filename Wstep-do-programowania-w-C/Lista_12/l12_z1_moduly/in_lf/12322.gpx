@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:48:29Z</time>
+    <bounds maxlat="51.0868598" maxlon="19.874452" minlat="51.0862831" minlon="19.8732482"/>
+  </metadata>
+  <wpt lat="51.08686" lon="19.873248">
+    <ele>199</ele>
+    <name>Przedborz</name>
+    <link href="https://mapa-turystyczna.pl/node/8477">
+      <text>Przedborz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.086283" lon="19.874379">
+    <ele>204</ele>
+    <name>Przedborz, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/8480">
+      <text>Przedborz, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przedborz - Przedborz, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0868598,19.8732482;51.08657550007793,19.874192249999982;51.0862831,19.874379">
+    <text>Przedborz - Przedborz, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0868598" lon="19.8732482">
+      <ele>199</ele>
+      <time>2022-01-17T23:48:29Z</time>
+    </trkpt>
+    <trkpt lat="51.0866617" lon="19.8738689">
+      <ele>200</ele>
+      <time>2022-01-17T23:49:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0866604" lon="19.8739325">
+      <ele>200</ele>
+      <time>2022-01-17T23:49:23Z</time>
+    </trkpt>
+    <trkpt lat="51.0864906" lon="19.874452">
+      <ele>202</ele>
+      <time>2022-01-17T23:50:05Z</time>
+    </trkpt>
+    <trkpt lat="51.0864028" lon="19.8743945">
+      <ele>203</ele>
+      <time>2022-01-17T23:50:15Z</time>
+    </trkpt>
+    <trkpt lat="51.0862831" lon="19.874379">
+      <ele>204</ele>
+      <time>2022-01-17T23:50:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

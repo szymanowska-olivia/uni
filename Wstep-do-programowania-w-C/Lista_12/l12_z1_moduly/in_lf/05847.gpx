@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:47Z</time>
+    <bounds maxlat="50.4129686" maxlon="16.449881" minlat="50.4091197" minlon="16.4470267"/>
+  </metadata>
+  <wpt lat="50.412969" lon="16.447027">
+    <ele>453</ele>
+    <name>Szczytna</name>
+    <link href="https://mapa-turystyczna.pl/node/1780">
+      <text>Szczytna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.40912" lon="16.449688">
+    <ele>456</ele>
+    <name>Szczytna,przy stacji kolejowej</name>
+    <link href="https://mapa-turystyczna.pl/node/4039">
+      <text>Szczytna,przy stacji kolejowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczytna - Szczytna,przy stacji kolejowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4129686,16.4470267;50.411167900679786,16.44858909999998;50.4091197,16.4496881">
+    <text>Szczytna - Szczytna,przy stacji kolejowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4129686" lon="16.4470267">
+      <ele>453</ele>
+      <time>2022-01-17T22:01:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4127994" lon="16.4471769">
+      <ele>453</ele>
+      <time>2022-01-17T22:02:13Z</time>
+    </trkpt>
+    <trkpt lat="50.412049" lon="16.4475417">
+      <ele>457</ele>
+      <time>2022-01-17T22:03:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4117781" lon="16.4478676">
+      <ele>458</ele>
+      <time>2022-01-17T22:04:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4115862" lon="16.4484516">
+      <ele>456</ele>
+      <time>2022-01-17T22:05:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4114217" lon="16.4486548">
+      <ele>455</ele>
+      <time>2022-01-17T22:06:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4109141" lon="16.4485234">
+      <ele>453</ele>
+      <time>2022-01-17T22:07:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4105961" lon="16.4486522">
+      <ele>452</ele>
+      <time>2022-01-17T22:07:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4092682" lon="16.449881">
+      <ele>455</ele>
+      <time>2022-01-17T22:11:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4091197" lon="16.4496881">
+      <ele>456</ele>
+      <time>2022-01-17T22:11:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

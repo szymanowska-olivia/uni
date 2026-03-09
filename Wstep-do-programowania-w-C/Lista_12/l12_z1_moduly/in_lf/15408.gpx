@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:49Z</time>
+    <bounds maxlat="51.3042547" maxlon="16.9217001" minlat="51.3034786" minlon="16.9211513"/>
+  </metadata>
+  <wpt lat="51.304255" lon="16.921151">
+    <ele>220</ele>
+    <name>Wzgorze Holtei'a, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/10530">
+      <text>Wzgorze Holtei'a, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.303479" lon="16.9217">
+    <ele>219</ele>
+    <name>Wzgorze Holtei'a</name>
+    <link href="https://mapa-turystyczna.pl/node/10531">
+      <text>Wzgorze Holtei'a</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wzgorze Holtei&#039;a, skrzyzowanie - Wzgorze Holtei&#039;a</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3042547,16.9211513;51.303904550318734,16.921565950000005;51.3034786,16.9217001">
+    <text>Wzgorze Holtei&#039;a, skrzyzowanie - Wzgorze Holtei&#039;a</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3042547" lon="16.9211513">
+      <ele>220</ele>
+      <time>2022-01-18T00:38:49Z</time>
+    </trkpt>
+    <trkpt lat="51.3040756" lon="16.921464">
+      <ele>222</ele>
+      <time>2022-01-18T00:39:25Z</time>
+    </trkpt>
+    <trkpt lat="51.3037335" lon="16.9216679">
+      <ele>222</ele>
+      <time>2022-01-18T00:40:14Z</time>
+    </trkpt>
+    <trkpt lat="51.3034786" lon="16.9217001">
+      <ele>219</ele>
+      <time>2022-01-18T00:40:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

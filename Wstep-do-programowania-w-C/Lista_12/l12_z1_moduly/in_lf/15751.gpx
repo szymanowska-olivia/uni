@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:48Z</time>
+    <bounds maxlat="50.8297039" maxlon="15.5188129" minlat="50.8285537" minlon="15.5179095"/>
+  </metadata>
+  <wpt lat="50.829704" lon="15.51791">
+    <ele>658</ele>
+    <name>Szklarska Poreba</name>
+    <link href="https://mapa-turystyczna.pl/node/1389">
+      <text>Szklarska Poreba</text>
+    </link>
+  </wpt>
+  <wpt lat="50.828554" lon="15.518813">
+    <ele>653</ele>
+    <name>Szklarska Poreba, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10755">
+      <text>Szklarska Poreba, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szklarska Poreba - Szklarska Poreba, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8297039,15.5179095;50.82910190041318,15.518527499999983;50.8285537,15.5188129">
+    <text>Szklarska Poreba - Szklarska Poreba, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8297039" lon="15.5179095">
+      <ele>658</ele>
+      <time>2022-01-18T00:44:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8295352" lon="15.518166">
+      <ele>657</ele>
+      <time>2022-01-18T00:45:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8292983" lon="15.5184123">
+      <ele>657</ele>
+      <time>2022-01-18T00:45:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8289055" lon="15.5186427">
+      <ele>656</ele>
+      <time>2022-01-18T00:46:14Z</time>
+    </trkpt>
+    <trkpt lat="50.82856" lon="15.5188034">
+      <ele>653</ele>
+      <time>2022-01-18T00:46:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8285537" lon="15.5188129">
+      <ele>653</ele>
+      <time>2022-01-18T00:46:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

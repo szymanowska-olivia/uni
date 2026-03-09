@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:20:29Z</time>
+    <bounds maxlat="52.1461838" maxlon="21.8055675" minlat="52.1427639" minlon="21.7761277"/>
+  </metadata>
+  <wpt lat="52.146184" lon="21.805567">
+    <ele>165</ele>
+    <name>Wola Rafalowska</name>
+    <link href="https://mapa-turystyczna.pl/node/12120">
+      <text>Wola Rafalowska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.142764" lon="21.776128">
+    <ele>178</ele>
+    <name>Rozejscie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/12112">
+      <text>Rozejscie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wola Rafalowska - Rozejscie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1461838,21.8055675;52.145259059601905,21.79736215000002;52.1427639,21.7761277">
+    <text>Wola Rafalowska - Rozejscie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1461838" lon="21.8055675">
+      <ele>165</ele>
+      <time>2022-01-18T01:20:29Z</time>
+    </trkpt>
+    <trkpt lat="52.1443343" lon="21.7891568">
+      <ele>171</ele>
+      <time>2022-01-18T01:39:55Z</time>
+    </trkpt>
+    <trkpt lat="52.1441661" lon="21.7877591">
+      <ele>170</ele>
+      <time>2022-01-18T01:41:34Z</time>
+    </trkpt>
+    <trkpt lat="52.143929" lon="21.785549">
+      <ele>167</ele>
+      <time>2022-01-18T01:44:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1437348" lon="21.7843742">
+      <ele>169</ele>
+      <time>2022-01-18T01:45:36Z</time>
+    </trkpt>
+    <trkpt lat="52.1436558" lon="21.7835588">
+      <ele>168</ele>
+      <time>2022-01-18T01:46:34Z</time>
+    </trkpt>
+    <trkpt lat="52.1436618" lon="21.78272">
+      <ele>167</ele>
+      <time>2022-01-18T01:47:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1437309" lon="21.7818187">
+      <ele>171</ele>
+      <time>2022-01-18T01:48:36Z</time>
+    </trkpt>
+    <trkpt lat="52.1437243" lon="21.7815183">
+      <ele>172</ele>
+      <time>2022-01-18T01:48:57Z</time>
+    </trkpt>
+    <trkpt lat="52.1436322" lon="21.7808424">
+      <ele>173</ele>
+      <time>2022-01-18T01:49:45Z</time>
+    </trkpt>
+    <trkpt lat="52.1432112" lon="21.7785172">
+      <ele>175</ele>
+      <time>2022-01-18T01:52:34Z</time>
+    </trkpt>
+    <trkpt lat="52.1427639" lon="21.7761277">
+      <ele>178</ele>
+      <time>2022-01-18T01:55:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:13Z</time>
+    <bounds maxlat="50.3327137" maxlon="16.2500346" minlat="50.3285565" minlon="16.2459254"/>
+  </metadata>
+  <wpt lat="50.328556" lon="16.247143">
+    <ele>501</ele>
+    <name>Kouty u Bystreho, rybnik</name>
+    <link href="https://mapa-turystyczna.pl/node/6002">
+      <text>Kouty u Bystreho, rybnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.332714" lon="16.250035">
+    <ele>510</ele>
+    <name>Janov</name>
+    <link href="https://mapa-turystyczna.pl/node/5957">
+      <text>Janov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kouty u Bystreho, rybnik - Janov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3285565,16.2471431;50.33079220011381,16.246954049999996;50.3327137,16.2500346">
+    <text>Kouty u Bystreho, rybnik - Janov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3285565" lon="16.2471431">
+      <ele>501</ele>
+      <time>2022-01-17T22:42:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3293356" lon="16.2465558">
+      <ele>498</ele>
+      <time>2022-01-17T22:43:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3299374" lon="16.2462728">
+      <ele>502</ele>
+      <time>2022-01-17T22:44:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3305393" lon="16.2459254">
+      <ele>504</ele>
+      <time>2022-01-17T22:46:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3306882" lon="16.2466389">
+      <ele>504</ele>
+      <time>2022-01-17T22:46:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3308962" lon="16.2472692">
+      <ele>504</ele>
+      <time>2022-01-17T22:47:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3318187" lon="16.2486519">
+      <ele>510</ele>
+      <time>2022-01-17T22:49:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3321486" lon="16.2490754">
+      <ele>510</ele>
+      <time>2022-01-17T22:50:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3324922" lon="16.2493915">
+      <ele>510</ele>
+      <time>2022-01-17T22:51:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3326235" lon="16.249697">
+      <ele>510</ele>
+      <time>2022-01-17T22:51:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3327137" lon="16.2500346">
+      <ele>510</ele>
+      <time>2022-01-17T22:52:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

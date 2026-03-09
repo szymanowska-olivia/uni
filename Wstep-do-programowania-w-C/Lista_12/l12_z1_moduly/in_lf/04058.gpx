@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:23Z</time>
+    <bounds maxlat="51.0503448" maxlon="16.1925817" minlat="51.0499131" minlon="16.1921579"/>
+  </metadata>
+  <wpt lat="51.050345" lon="16.192582">
+    <ele>202</ele>
+    <name>Jawor, Urzad Miasta</name>
+    <link href="https://mapa-turystyczna.pl/node/2850">
+      <text>Jawor, Urzad Miasta</text>
+    </link>
+  </wpt>
+  <wpt lat="51.049913" lon="16.192158">
+    <ele>202</ele>
+    <name>Jawor, zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/2851">
+      <text>Jawor, zamek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jawor, Urzad Miasta - Jawor, zamek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0503448,16.1925817;51.050128950502994,16.192369799999984;51.0499131,16.1921579">
+    <text>Jawor, Urzad Miasta - Jawor, zamek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0503448" lon="16.1925817">
+      <ele>202</ele>
+      <time>2022-01-17T21:37:23Z</time>
+    </trkpt>
+    <trkpt lat="51.0499131" lon="16.1921579">
+      <ele>202</ele>
+      <time>2022-01-17T21:38:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

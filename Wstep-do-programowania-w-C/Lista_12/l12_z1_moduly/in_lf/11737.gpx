@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:39:05Z</time>
+    <bounds maxlat="50.2829845" maxlon="17.5357112" minlat="50.2801964" minlon="17.52686"/>
+  </metadata>
+  <wpt lat="50.282984" lon="17.535043">
+    <ele>372</ele>
+    <name>Debowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/2620">
+      <text>Debowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.280196" lon="17.52686">
+    <ele>454</ele>
+    <name>Dlugota</name>
+    <link href="https://mapa-turystyczna.pl/node/8179">
+      <text>Dlugota</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Debowiec - Dlugota</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2829845,17.5350434;50.28046350074938,17.53128560000003;50.2801964,17.52686">
+    <text>Debowiec - Dlugota</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2829845" lon="17.5350434">
+      <ele>372</ele>
+      <time>2022-01-17T23:39:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2824448" lon="17.5350256">
+      <ele>375</ele>
+      <time>2022-01-17T23:40:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2820448" lon="17.535272">
+      <ele>379</ele>
+      <time>2022-01-17T23:41:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2814597" lon="17.5355935">
+      <ele>379</ele>
+      <time>2022-01-17T23:43:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2807306" lon="17.5357112">
+      <ele>385</ele>
+      <time>2022-01-17T23:44:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2801964" lon="17.52686">
+      <ele>454</ele>
+      <time>2022-01-17T23:59:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

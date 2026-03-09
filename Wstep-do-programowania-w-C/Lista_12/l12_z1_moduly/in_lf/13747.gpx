@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:01Z</time>
+    <bounds maxlat="50.2012976" maxlon="19.0064776" minlat="50.2000398" minlon="18.9993042"/>
+  </metadata>
+  <wpt lat="50.201298" lon="19.006478">
+    <ele>300</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9421">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.20004" lon="18.999304">
+    <ele>308</ele>
+    <name>Kostuchna, las</name>
+    <link href="https://mapa-turystyczna.pl/node/9451">
+      <text>Kostuchna, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Kostuchna, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2012976,19.0064776;50.20066870414275,19.002890899999997;50.2000398,18.9993042">
+    <text>Rozejscie szlakow zolty / czarny - Kostuchna, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2012976" lon="19.0064776">
+      <ele>300</ele>
+      <time>2022-01-18T00:12:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2000398" lon="18.9993042">
+      <ele>308</ele>
+      <time>2022-01-18T00:22:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

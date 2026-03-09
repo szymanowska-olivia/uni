@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:32Z</time>
+    <bounds maxlat="50.3261505" maxlon="16.3864516" minlat="50.3254296" minlon="16.3852392"/>
+  </metadata>
+  <wpt lat="50.32615" lon="16.386452">
+    <ele>1012</ele>
+    <name>Masarykova chata</name>
+    <link href="https://mapa-turystyczna.pl/node/1901">
+      <text>Masarykova chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.32543" lon="16.385255">
+    <ele>1003</ele>
+    <name>Serlich, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2011">
+      <text>Serlich, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Masarykova chata - Serlich, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3261505,16.3864516;50.32595665003498,16.385467599999988;50.3254296,16.3852555">
+    <text>Masarykova chata - Serlich, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3261505" lon="16.3864516">
+      <ele>1012</ele>
+      <time>2022-01-17T21:21:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3260143" lon="16.3855456">
+      <ele>1012</ele>
+      <time>2022-01-17T21:22:30Z</time>
+    </trkpt>
+    <trkpt lat="50.325899" lon="16.3853896">
+      <ele>1011</ele>
+      <time>2022-01-17T21:22:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3257254" lon="16.3852711">
+      <ele>1008</ele>
+      <time>2022-01-17T21:23:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3255587" lon="16.3852392">
+      <ele>1005</ele>
+      <time>2022-01-17T21:23:19Z</time>
+    </trkpt>
+    <trkpt lat="50.3254296" lon="16.3852555">
+      <ele>1003</ele>
+      <time>2022-01-17T21:23:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

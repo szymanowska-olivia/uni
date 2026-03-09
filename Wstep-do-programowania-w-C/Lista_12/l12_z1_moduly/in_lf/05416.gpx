@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:22Z</time>
+    <bounds maxlat="50.6239228" maxlon="16.3941954" minlat="50.619126" minlon="16.3874173"/>
+  </metadata>
+  <wpt lat="50.623923" lon="16.387417">
+    <ele>688</ele>
+    <name>U Cerveneho vrchu</name>
+    <link href="https://mapa-turystyczna.pl/node/2360">
+      <text>U Cerveneho vrchu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.619126" lon="16.394195">
+    <ele>666</ele>
+    <name>Rozdroze pod Sloneczna</name>
+    <link href="https://mapa-turystyczna.pl/node/3826">
+      <text>Rozdroze pod Sloneczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Cerveneho vrchu - Rozdroze pod Sloneczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6239228,16.3874173;50.62188550228218,16.39040105000003;50.619126,16.3941954">
+    <text>U Cerveneho vrchu - Rozdroze pod Sloneczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6239228" lon="16.3874173">
+      <ele>688</ele>
+      <time>2022-01-17T21:55:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6234072" lon="16.3881437">
+      <ele>684</ele>
+      <time>2022-01-17T21:56:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6228321" lon="16.3889966">
+      <ele>682</ele>
+      <time>2022-01-17T21:57:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6223488" lon="16.3896887">
+      <ele>682</ele>
+      <time>2022-01-17T21:58:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6214222" lon="16.3911134">
+      <ele>685</ele>
+      <time>2022-01-17T22:00:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6211031" lon="16.3917008">
+      <ele>679</ele>
+      <time>2022-01-17T22:01:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6208215" lon="16.3921134">
+      <ele>676</ele>
+      <time>2022-01-17T22:02:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6204909" lon="16.3925774">
+      <ele>674</ele>
+      <time>2022-01-17T22:02:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6201744" lon="16.3928993">
+      <ele>672</ele>
+      <time>2022-01-17T22:03:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6199906" lon="16.3931889">
+      <ele>669</ele>
+      <time>2022-01-17T22:03:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6197247" lon="16.3934523">
+      <ele>667</ele>
+      <time>2022-01-17T22:04:11Z</time>
+    </trkpt>
+    <trkpt lat="50.619126" lon="16.3941954">
+      <ele>666</ele>
+      <time>2022-01-17T22:05:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

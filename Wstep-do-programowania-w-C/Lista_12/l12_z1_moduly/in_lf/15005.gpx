@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:51Z</time>
+    <bounds maxlat="51.1884077" maxlon="16.7358739" minlat="51.1798169" minlon="16.7253372"/>
+  </metadata>
+  <wpt lat="51.179817" lon="16.725337">
+    <ele>148</ele>
+    <name>Pod Diabelska Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/10224">
+      <text>Pod Diabelska Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="51.188408" lon="16.735874">
+    <ele>119</ele>
+    <name>Miekinia</name>
+    <link href="https://mapa-turystyczna.pl/node/10073">
+      <text>Miekinia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Diabelska Gora - Miekinia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1798169,16.7253372;51.184522651352125,16.73093579999998;51.1884077,16.7358739">
+    <text>Pod Diabelska Gora - Miekinia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1798169" lon="16.7253372">
+      <ele>148</ele>
+      <time>2022-01-18T00:31:51Z</time>
+    </trkpt>
+    <trkpt lat="51.1805043" lon="16.7263134">
+      <ele>147</ele>
+      <time>2022-01-18T00:33:32Z</time>
+    </trkpt>
+    <trkpt lat="51.1808137" lon="16.7266674">
+      <ele>145</ele>
+      <time>2022-01-18T00:34:14Z</time>
+    </trkpt>
+    <trkpt lat="51.1814929" lon="16.7276957">
+      <ele>138</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="51.1841696" lon="16.730453">
+      <ele>126</ele>
+      <time>2022-01-18T00:41:49Z</time>
+    </trkpt>
+    <trkpt lat="51.1848757" lon="16.7314186">
+      <ele>123</ele>
+      <time>2022-01-18T00:43:31Z</time>
+    </trkpt>
+    <trkpt lat="51.1873739" lon="16.7343636">
+      <ele>121</ele>
+      <time>2022-01-18T00:49:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1876396" lon="16.734605">
+      <ele>122</ele>
+      <time>2022-01-18T00:49:47Z</time>
+    </trkpt>
+    <trkpt lat="51.1879724" lon="16.7350288">
+      <ele>121</ele>
+      <time>2022-01-18T00:50:34Z</time>
+    </trkpt>
+    <trkpt lat="51.1880946" lon="16.7352371">
+      <ele>121</ele>
+      <time>2022-01-18T00:50:53Z</time>
+    </trkpt>
+    <trkpt lat="51.1881248" lon="16.7353658">
+      <ele>121</ele>
+      <time>2022-01-18T00:51:03Z</time>
+    </trkpt>
+    <trkpt lat="51.1883837" lon="16.7357413">
+      <ele>119</ele>
+      <time>2022-01-18T00:51:41Z</time>
+    </trkpt>
+    <trkpt lat="51.1884077" lon="16.7358739">
+      <ele>119</ele>
+      <time>2022-01-18T00:51:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

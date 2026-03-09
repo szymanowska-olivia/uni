@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:34Z</time>
+    <bounds maxlat="50.2290154" maxlon="17.1462411" minlat="50.2289104" minlon="17.145474"/>
+  </metadata>
+  <wpt lat="50.22891" lon="17.145474">
+    <ele>488</ele>
+    <name>Lipova-lazne</name>
+    <link href="https://mapa-turystyczna.pl/node/2183">
+      <text>Lipova-lazne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229015" lon="17.146241">
+    <ele>489</ele>
+    <name>Lipova-lazne, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6437">
+      <text>Lipova-lazne, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipova-lazne - Lipova-lazne, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2289104,17.145474;50.22896185002773,17.145814599999984;50.2290154,17.1462411">
+    <text>Lipova-lazne - Lipova-lazne, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2289104" lon="17.145474">
+      <ele>488</ele>
+      <time>2022-01-17T22:53:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2290133" lon="17.1461552">
+      <ele>489</ele>
+      <time>2022-01-17T22:54:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2290154" lon="17.1462411">
+      <ele>489</ele>
+      <time>2022-01-17T22:54:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

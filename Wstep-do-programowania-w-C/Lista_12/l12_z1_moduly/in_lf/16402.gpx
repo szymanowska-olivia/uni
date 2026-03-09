@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:17Z</time>
+    <bounds maxlat="52.0133618" maxlon="15.4271176" minlat="52.0127744" minlon="15.4205532"/>
+  </metadata>
+  <wpt lat="52.012774" lon="15.427118">
+    <ele>54</ele>
+    <name>Czerwiensk, ul. Lezycka</name>
+    <link href="https://mapa-turystyczna.pl/node/11203">
+      <text>Czerwiensk, ul. Lezycka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.013362" lon="15.420553">
+    <ele>56</ele>
+    <name>Czerwiensk</name>
+    <link href="https://mapa-turystyczna.pl/node/11198">
+      <text>Czerwiensk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czerwiensk, ul. Lezycka - Czerwiensk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0127744,15.4271176;52.01304890001752,15.42407309999998;52.0133618,15.4205532">
+    <text>Czerwiensk, ul. Lezycka - Czerwiensk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0127744" lon="15.4271176">
+      <ele>54</ele>
+      <time>2022-01-18T00:56:17Z</time>
+    </trkpt>
+    <trkpt lat="52.0127848" lon="15.4268894">
+      <ele>54</ele>
+      <time>2022-01-18T00:56:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0128772" lon="15.4266104">
+      <ele>54</ele>
+      <time>2022-01-18T00:56:41Z</time>
+    </trkpt>
+    <trkpt lat="52.0130357" lon="15.4259023">
+      <ele>54</ele>
+      <time>2022-01-18T00:57:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0130885" lon="15.4254195">
+      <ele>54</ele>
+      <time>2022-01-18T00:57:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0130885" lon="15.4247973">
+      <ele>55</ele>
+      <time>2022-01-18T00:58:04Z</time>
+    </trkpt>
+    <trkpt lat="52.0130093" lon="15.4233489">
+      <ele>56</ele>
+      <time>2022-01-18T00:59:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0130225" lon="15.4221043">
+      <ele>57</ele>
+      <time>2022-01-18T01:00:03Z</time>
+    </trkpt>
+    <trkpt lat="52.0130621" lon="15.4216537">
+      <ele>57</ele>
+      <time>2022-01-18T01:00:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0131942" lon="15.4211924">
+      <ele>57</ele>
+      <time>2022-01-18T01:00:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0133618" lon="15.4205532">
+      <ele>56</ele>
+      <time>2022-01-18T01:01:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:20Z</time>
+    <bounds maxlat="51.0556052" maxlon="16.1974204" minlat="51.0548499" minlon="16.1946201"/>
+  </metadata>
+  <wpt lat="51.05485" lon="16.19742">
+    <ele>195</ele>
+    <name>Jawor, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2848">
+      <text>Jawor, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="51.055605" lon="16.19462">
+    <ele>192</ele>
+    <name>Jawor</name>
+    <link href="https://mapa-turystyczna.pl/node/2849">
+      <text>Jawor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jawor, PKP - Jawor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0548499,16.1974204;51.05522755153997,16.196020250000025;51.0556052,16.1946201">
+    <text>Jawor, PKP - Jawor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0548499" lon="16.1974204">
+      <ele>195</ele>
+      <time>2022-01-17T21:37:20Z</time>
+    </trkpt>
+    <trkpt lat="51.0556052" lon="16.1946201">
+      <ele>192</ele>
+      <time>2022-01-17T21:40:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

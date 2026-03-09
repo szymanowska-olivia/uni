@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:44Z</time>
+    <bounds maxlat="51.3898002" maxlon="23.2141939" minlat="51.3810741" minlon="23.2097751"/>
+  </metadata>
+  <wpt lat="51.3898" lon="23.214194">
+    <ele>172</ele>
+    <name>Andrzejow</name>
+    <link href="https://mapa-turystyczna.pl/node/13278">
+      <text>Andrzejow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.381074" lon="23.209843">
+    <ele>170</ele>
+    <name>Urszulin, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13279">
+      <text>Urszulin, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Andrzejow - Urszulin, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3898002,23.2141939;51.386316051418014,23.20987170000003;51.3810741,23.209843">
+    <text>Andrzejow - Urszulin, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3898002" lon="23.2141939">
+      <ele>172</ele>
+      <time>2022-01-18T01:52:44Z</time>
+    </trkpt>
+    <trkpt lat="51.3896943" lon="23.2139564">
+      <ele>172</ele>
+      <time>2022-01-18T01:53:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3887248" lon="23.2128445">
+      <ele>172</ele>
+      <time>2022-01-18T01:54:50Z</time>
+    </trkpt>
+    <trkpt lat="51.3879789" lon="23.2114008">
+      <ele>169</ele>
+      <time>2022-01-18T01:56:37Z</time>
+    </trkpt>
+    <trkpt lat="51.386838" lon="23.2099195">
+      <ele>167</ele>
+      <time>2022-01-18T01:58:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3867638" lon="23.2098312">
+      <ele>167</ele>
+      <time>2022-01-18T01:59:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3866763" lon="23.2097859">
+      <ele>167</ele>
+      <time>2022-01-18T01:59:09Z</time>
+    </trkpt>
+    <trkpt lat="51.3859558" lon="23.2099575">
+      <ele>168</ele>
+      <time>2022-01-18T02:00:16Z</time>
+    </trkpt>
+    <trkpt lat="51.3816524" lon="23.2097751">
+      <ele>169</ele>
+      <time>2022-01-18T02:06:51Z</time>
+    </trkpt>
+    <trkpt lat="51.3810741" lon="23.209843">
+      <ele>170</ele>
+      <time>2022-01-18T02:07:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

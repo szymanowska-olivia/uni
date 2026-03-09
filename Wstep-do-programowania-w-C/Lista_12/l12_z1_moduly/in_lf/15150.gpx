@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:05Z</time>
+    <bounds maxlat="51.2633586" maxlon="16.7734307" minlat="51.2616996" minlon="16.7681423"/>
+  </metadata>
+  <wpt lat="51.261804" lon="16.768142">
+    <ele>109</ele>
+    <name>Waly Slaskie, kapielisko</name>
+    <link href="https://mapa-turystyczna.pl/node/10299">
+      <text>Waly Slaskie, kapielisko</text>
+    </link>
+  </wpt>
+  <wpt lat="51.263359" lon="16.773431">
+    <ele>111</ele>
+    <name>Waly</name>
+    <link href="https://mapa-turystyczna.pl/node/10196">
+      <text>Waly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Waly Slaskie, kapielisko - Waly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2618042,16.7681423;51.26172815000886,16.770701700000018;51.2633586,16.7734307">
+    <text>Waly Slaskie, kapielisko - Waly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2618042" lon="16.7681423">
+      <ele>109</ele>
+      <time>2022-01-18T00:34:05Z</time>
+    </trkpt>
+    <trkpt lat="51.2617533" lon="16.7682975">
+      <ele>108</ele>
+      <time>2022-01-18T00:34:21Z</time>
+    </trkpt>
+    <trkpt lat="51.2616996" lon="16.7698853">
+      <ele>106</ele>
+      <time>2022-01-18T00:36:43Z</time>
+    </trkpt>
+    <trkpt lat="51.2617567" lon="16.7715181">
+      <ele>104</ele>
+      <time>2022-01-18T00:39:10Z</time>
+    </trkpt>
+    <trkpt lat="51.2617768" lon="16.7716736">
+      <ele>104</ele>
+      <time>2022-01-18T00:39:24Z</time>
+    </trkpt>
+    <trkpt lat="51.2620118" lon="16.7721799">
+      <ele>107</ele>
+      <time>2022-01-18T00:40:21Z</time>
+    </trkpt>
+    <trkpt lat="51.2622199" lon="16.772432">
+      <ele>107</ele>
+      <time>2022-01-18T00:40:59Z</time>
+    </trkpt>
+    <trkpt lat="51.262569" lon="16.7727861">
+      <ele>109</ele>
+      <time>2022-01-18T00:41:58Z</time>
+    </trkpt>
+    <trkpt lat="51.2633586" lon="16.7734307">
+      <ele>111</ele>
+      <time>2022-01-18T00:44:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

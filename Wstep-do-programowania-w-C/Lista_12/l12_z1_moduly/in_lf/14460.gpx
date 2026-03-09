@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:38Z</time>
+    <bounds maxlat="50.2354043" maxlon="18.9070362" minlat="50.2339038" minlon="18.9004748"/>
+  </metadata>
+  <wpt lat="50.235404" lon="18.900475">
+    <ele>252</ele>
+    <name>Kochlowice, staw Karp 2</name>
+    <link href="https://mapa-turystyczna.pl/node/9869">
+      <text>Kochlowice, staw Karp 2</text>
+    </link>
+  </wpt>
+  <wpt lat="50.234267" lon="18.907036">
+    <ele>258</ele>
+    <name>Kochlowice, staw Karp 1</name>
+    <link href="https://mapa-turystyczna.pl/node/9858">
+      <text>Kochlowice, staw Karp 1</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kochlowice, staw Karp 2 - Kochlowice, staw Karp 1</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2354043,18.9004748;50.233955250027776,18.90276684999999;50.234267,18.9070362">
+    <text>Kochlowice, staw Karp 2 - Kochlowice, staw Karp 1</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2354043" lon="18.9004748">
+      <ele>252</ele>
+      <time>2022-01-18T00:22:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2342579" lon="18.9005922">
+      <ele>250</ele>
+      <time>2022-01-18T00:24:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2341" lon="18.9006513">
+      <ele>251</ele>
+      <time>2022-01-18T00:25:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2340571" lon="18.9006969">
+      <ele>251</ele>
+      <time>2022-01-18T00:25:07Z</time>
+    </trkpt>
+    <trkpt lat="50.234028" lon="18.9007478">
+      <ele>252</ele>
+      <time>2022-01-18T00:25:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2340067" lon="18.9013077">
+      <ele>252</ele>
+      <time>2022-01-18T00:25:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2339038" lon="18.904226">
+      <ele>253</ele>
+      <time>2022-01-18T00:29:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2339553" lon="18.9050807">
+      <ele>254</ele>
+      <time>2022-01-18T00:30:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2340308" lon="18.9056655">
+      <ele>253</ele>
+      <time>2022-01-18T00:30:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2342469" lon="18.9068642">
+      <ele>257</ele>
+      <time>2022-01-18T00:32:26Z</time>
+    </trkpt>
+    <trkpt lat="50.234267" lon="18.9070362">
+      <ele>258</ele>
+      <time>2022-01-18T00:32:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:22Z</time>
+    <bounds maxlat="50.8760561" maxlon="15.1797916" minlat="50.874695" minlon="15.1784803"/>
+  </metadata>
+  <wpt lat="50.876056" lon="15.179792">
+    <ele>377</ele>
+    <name>Hejnice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8771">
+      <text>Hejnice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.874695" lon="15.17848">
+    <ele>385</ele>
+    <name>Poustevnikuv kamen, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13158">
+      <text>Poustevnikuv kamen, odb.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hejnice, rozc. - Poustevnikuv kamen, odb.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8760561,15.1797916;50.87564020004918,15.179051850000013;50.874695,15.1784803">
+    <text>Hejnice, rozc. - Poustevnikuv kamen, odb.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8760561" lon="15.1797916">
+      <ele>377</ele>
+      <time>2022-01-18T01:49:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8759584" lon="15.179642">
+      <ele>377</ele>
+      <time>2022-01-18T01:49:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8758027" lon="15.1795991">
+      <ele>378</ele>
+      <time>2022-01-18T01:50:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8757079" lon="15.1794059">
+      <ele>379</ele>
+      <time>2022-01-18T01:50:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8755725" lon="15.1786978">
+      <ele>382</ele>
+      <time>2022-01-18T01:51:54Z</time>
+    </trkpt>
+    <trkpt lat="50.874695" lon="15.1784803">
+      <ele>385</ele>
+      <time>2022-01-18T01:54:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

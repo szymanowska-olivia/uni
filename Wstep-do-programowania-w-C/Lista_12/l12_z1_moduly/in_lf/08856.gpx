@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:30Z</time>
+    <bounds maxlat="50.479005" maxlon="16.0814899" minlat="50.4751166" minlon="16.0803527"/>
+  </metadata>
+  <wpt lat="50.478746" lon="16.080353">
+    <ele>412</ele>
+    <name>Cerveny Kostelec, Zemedelska</name>
+    <link href="https://mapa-turystyczna.pl/node/6167">
+      <text>Cerveny Kostelec, Zemedelska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.475117" lon="16.08149">
+    <ele>407</ele>
+    <name>Cerveny Kostelec, Okruzni</name>
+    <link href="https://mapa-turystyczna.pl/node/6164">
+      <text>Cerveny Kostelec, Okruzni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerveny Kostelec, Zemedelska - Cerveny Kostelec, Okruzni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4787456,16.0803527;50.47693455161587,16.081294100000026;50.4751166,16.0814899">
+    <text>Cerveny Kostelec, Zemedelska - Cerveny Kostelec, Okruzni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4787456" lon="16.0803527">
+      <ele>412</ele>
+      <time>2022-01-17T22:46:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4789197" lon="16.0805941">
+      <ele>412</ele>
+      <time>2022-01-17T22:47:02Z</time>
+    </trkpt>
+    <trkpt lat="50.478947" lon="16.0807389">
+      <ele>411</ele>
+      <time>2022-01-17T22:47:15Z</time>
+    </trkpt>
+    <trkpt lat="50.479005" lon="16.0808676">
+      <ele>411</ele>
+      <time>2022-01-17T22:47:29Z</time>
+    </trkpt>
+    <trkpt lat="50.478592" lon="16.0810071">
+      <ele>409</ele>
+      <time>2022-01-17T22:48:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4780731" lon="16.0812163">
+      <ele>406</ele>
+      <time>2022-01-17T22:49:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4777214" lon="16.0812593">
+      <ele>407</ele>
+      <time>2022-01-17T22:50:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4773254" lon="16.0812968">
+      <ele>407</ele>
+      <time>2022-01-17T22:51:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4765437" lon="16.0812914">
+      <ele>406</ele>
+      <time>2022-01-17T22:53:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4757038" lon="16.0813129">
+      <ele>408</ele>
+      <time>2022-01-17T22:55:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4753488" lon="16.0813612">
+      <ele>408</ele>
+      <time>2022-01-17T22:55:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4751166" lon="16.0814899">
+      <ele>407</ele>
+      <time>2022-01-17T22:56:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

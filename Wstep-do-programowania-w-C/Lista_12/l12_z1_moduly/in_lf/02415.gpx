@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:06Z</time>
+    <bounds maxlat="50.1870523" maxlon="16.7976236" minlat="50.1834526" minlon="16.7922807"/>
+  </metadata>
+  <wpt lat="50.187052" lon="16.797624">
+    <ele>1109</ele>
+    <name>Dzikie Zbocze</name>
+    <link href="https://mapa-turystyczna.pl/node/1743">
+      <text>Dzikie Zbocze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.183453" lon="16.792281">
+    <ele>1055</ele>
+    <name>Czarny Row</name>
+    <link href="https://mapa-turystyczna.pl/node/1742">
+      <text>Czarny Row</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dzikie Zbocze - Czarny Row</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1870523,16.7976236;50.18537610664809,16.79496020000002;50.1834526,16.7922807">
+    <text>Dzikie Zbocze - Czarny Row</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1870523" lon="16.7976236">
+      <ele>1109</ele>
+      <time>2022-01-17T21:16:06Z</time>
+    </trkpt>
+    <trkpt lat="50.186173" lon="16.795848">
+      <ele>1096</ele>
+      <time>2022-01-17T21:18:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1845792" lon="16.7940724">
+      <ele>1077</ele>
+      <time>2022-01-17T21:22:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1834526" lon="16.7922807">
+      <ele>1055</ele>
+      <time>2022-01-17T21:26:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

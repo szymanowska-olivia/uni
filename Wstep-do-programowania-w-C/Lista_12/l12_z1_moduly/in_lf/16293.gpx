@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:24Z</time>
+    <bounds maxlat="49.3080982" maxlon="22.2370358" minlat="49.3071391" minlon="22.2363467"/>
+  </metadata>
+  <wpt lat="49.307139" lon="22.237036">
+    <ele>527</ele>
+    <name>Chata Huczwice</name>
+    <link href="https://mapa-turystyczna.pl/node/11112">
+      <text>Chata Huczwice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.308098" lon="22.236347">
+    <ele>533</ele>
+    <name>Skrzyzowanie przy chacie Huczwice</name>
+    <link href="https://mapa-turystyczna.pl/node/11119">
+      <text>Skrzyzowanie przy chacie Huczwice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Huczwice - Skrzyzowanie przy chacie Huczwice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3071391,22.2370358;49.30761865233381,22.23669124999999;49.3080982,22.2363467">
+    <text>Chata Huczwice - Skrzyzowanie przy chacie Huczwice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3071391" lon="22.2370358">
+      <ele>527</ele>
+      <time>2022-01-18T00:54:24Z</time>
+    </trkpt>
+    <trkpt lat="49.3080982" lon="22.2363467">
+      <ele>533</ele>
+      <time>2022-01-18T00:56:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

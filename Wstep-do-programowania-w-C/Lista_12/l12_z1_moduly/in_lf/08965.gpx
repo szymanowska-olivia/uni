@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:33Z</time>
+    <bounds maxlat="50.5341247" maxlon="16.0503656" minlat="50.5338758" minlon="16.0489494"/>
+  </metadata>
+  <wpt lat="50.533879" lon="16.048949">
+    <ele>428</ele>
+    <name>Male Svatonovice, u skolky</name>
+    <link href="https://mapa-turystyczna.pl/node/6241">
+      <text>Male Svatonovice, u skolky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.534125" lon="16.050366">
+    <ele>440</ele>
+    <name>Male Svatonovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6240">
+      <text>Male Svatonovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Male Svatonovice, u skolky - Male Svatonovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5338792,16.0489494;50.53400025016416,16.04973795000001;50.5341247,16.0503656">
+    <text>Male Svatonovice, u skolky - Male Svatonovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5338792" lon="16.0489494">
+      <ele>428</ele>
+      <time>2022-01-17T22:48:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5338758" lon="16.0491103">
+      <ele>429</ele>
+      <time>2022-01-17T22:48:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5341247" lon="16.0503656">
+      <ele>440</ele>
+      <time>2022-01-17T22:51:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

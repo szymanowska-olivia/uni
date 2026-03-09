@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:43Z</time>
+    <bounds maxlat="50.8925613" maxlon="16.7274383" minlat="50.8919916" minlon="16.7269474"/>
+  </metadata>
+  <wpt lat="50.891992" lon="16.727438">
+    <ele>294</ele>
+    <name>Przelecz pod Wiezyca, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8039">
+      <text>Przelecz pod Wiezyca, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.892561" lon="16.726947">
+    <ele>288</ele>
+    <name>Dom Turysty Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/2723">
+      <text>Dom Turysty Pod Wiezyca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Wiezyca, rozejscie szlakow - Dom Turysty Pod Wiezyca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8919916,16.7274383;50.89215820029795,16.727237350000003;50.8925613,16.7269474">
+    <text>Przelecz pod Wiezyca, rozejscie szlakow - Dom Turysty Pod Wiezyca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8919916" lon="16.7274383">
+      <ele>294</ele>
+      <time>2022-01-17T23:34:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8923248" lon="16.7270364">
+      <ele>290</ele>
+      <time>2022-01-17T23:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8925613" lon="16.7269474">
+      <ele>288</ele>
+      <time>2022-01-17T23:35:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

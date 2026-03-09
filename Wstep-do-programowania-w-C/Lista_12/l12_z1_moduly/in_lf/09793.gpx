@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:17Z</time>
+    <bounds maxlat="50.0897569" maxlon="16.7207998" minlat="50.0891925" minlon="16.7113853"/>
+  </metadata>
+  <wpt lat="50.089247" lon="16.711385">
+    <ele>539</ele>
+    <name>Dolni Borikovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6880">
+      <text>Dolni Borikovice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.089193" lon="16.7208">
+    <ele>546</ele>
+    <name>Dolni Lipka, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6881">
+      <text>Dolni Lipka, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolni Borikovice, rozc. - Dolni Lipka, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0892475,16.7113853;50.08944715058826,16.716567250000008;50.0891925,16.7207998">
+    <text>Dolni Borikovice, rozc. - Dolni Lipka, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0892475" lon="16.7113853">
+      <ele>539</ele>
+      <time>2022-01-17T23:04:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0894162" lon="16.712485">
+      <ele>542</ele>
+      <time>2022-01-17T23:05:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0897191" lon="16.7137241">
+      <ele>543</ele>
+      <time>2022-01-17T23:06:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0897569" lon="16.7142177">
+      <ele>545</ele>
+      <time>2022-01-17T23:07:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0896846" lon="16.7148399">
+      <ele>547</ele>
+      <time>2022-01-17T23:07:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0892097" lon="16.7182946">
+      <ele>547</ele>
+      <time>2022-01-17T23:11:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0894403" lon="16.718418">
+      <ele>548</ele>
+      <time>2022-01-17T23:11:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0895986" lon="16.7186272">
+      <ele>548</ele>
+      <time>2022-01-17T23:12:02Z</time>
+    </trkpt>
+    <trkpt lat="50.0895986" lon="16.7188525">
+      <ele>547</ele>
+      <time>2022-01-17T23:12:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0894299" lon="16.7196679">
+      <ele>545</ele>
+      <time>2022-01-17T23:13:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0892785" lon="16.720553">
+      <ele>546</ele>
+      <time>2022-01-17T23:14:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0891925" lon="16.7207998">
+      <ele>546</ele>
+      <time>2022-01-17T23:14:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:12Z</time>
+    <bounds maxlat="50.5869663" maxlon="16.0885334" minlat="50.5867586" minlon="16.085481"/>
+  </metadata>
+  <wpt lat="50.586786" lon="16.085481">
+    <ele>565</ele>
+    <name>Janovice u Trutnova, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6038">
+      <text>Janovice u Trutnova, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.586966" lon="16.088533">
+    <ele>556</ele>
+    <name>Janovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6037">
+      <text>Janovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janovice u Trutnova, zeleznicni stanice - Janovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5867858,16.085481;50.586772200001974,16.08628300000002;50.5869663,16.0885334">
+    <text>Janovice u Trutnova, zeleznicni stanice - Janovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5867858" lon="16.085481">
+      <ele>565</ele>
+      <time>2022-01-17T22:43:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5867586" lon="16.087085">
+      <ele>558</ele>
+      <time>2022-01-17T22:44:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5869663" lon="16.0885334">
+      <ele>556</ele>
+      <time>2022-01-17T22:46:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

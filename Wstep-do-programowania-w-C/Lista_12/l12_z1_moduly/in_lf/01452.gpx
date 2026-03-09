@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:42Z</time>
+    <bounds maxlat="50.7675303" maxlon="15.5847824" minlat="50.7673177" minlon="15.5811775"/>
+  </metadata>
+  <wpt lat="50.767331" lon="15.581178">
+    <ele>1185</ele>
+    <name>Bradlerovy boudy, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1095">
+      <text>Bradlerovy boudy, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.76753" lon="15.584782">
+    <ele>1161</ele>
+    <name>Bradlerovy boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1094">
+      <text>Bradlerovy boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bradlerovy boudy, skrzyzowanie - Bradlerovy boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7673315,15.5811775;50.7673447000078,15.582687549999976;50.7675303,15.5847824">
+    <text>Bradlerovy boudy, skrzyzowanie - Bradlerovy boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7673315" lon="15.5811775">
+      <ele>1185</ele>
+      <time>2022-01-17T21:00:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7673177" lon="15.5822772">
+      <ele>1187</ele>
+      <time>2022-01-17T21:02:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7673717" lon="15.5830979">
+      <ele>1181</ele>
+      <time>2022-01-17T21:03:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7675303" lon="15.5847824">
+      <ele>1161</ele>
+      <time>2022-01-17T21:05:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

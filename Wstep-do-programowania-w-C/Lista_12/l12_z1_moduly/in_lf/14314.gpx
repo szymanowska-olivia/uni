@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:25Z</time>
+    <bounds maxlat="50.1501626" maxlon="16.5720484" minlat="50.1386528" minlon="16.5400886"/>
+  </metadata>
+  <wpt lat="50.150163" lon="16.540089">
+    <ele>660</ele>
+    <name>Zamberske lesy</name>
+    <link href="https://mapa-turystyczna.pl/node/1960">
+      <text>Zamberske lesy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.14125" lon="16.572048">
+    <ele>543</ele>
+    <name>PR Zemska brana</name>
+    <link href="https://mapa-turystyczna.pl/node/9780">
+      <text>PR Zemska brana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamberske lesy - PR Zemska brana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1501626,16.5400886;50.14297104489964,16.557909250000005;50.1412505,16.5720484">
+    <text>Zamberske lesy - PR Zemska brana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1501626" lon="16.5400886">
+      <ele>660</ele>
+      <time>2022-01-18T00:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1479901" lon="16.5460968">
+      <ele>638</ele>
+      <time>2022-01-18T00:27:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1472889" lon="16.5464401">
+      <ele>631</ele>
+      <time>2022-01-18T00:28:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1386528" lon="16.5693784">
+      <ele>583</ele>
+      <time>2022-01-18T00:55:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1411519" lon="16.5716171">
+      <ele>543</ele>
+      <time>2022-01-18T00:59:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1412383" lon="16.5719319">
+      <ele>543</ele>
+      <time>2022-01-18T01:00:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1412505" lon="16.5720484">
+      <ele>543</ele>
+      <time>2022-01-18T01:00:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

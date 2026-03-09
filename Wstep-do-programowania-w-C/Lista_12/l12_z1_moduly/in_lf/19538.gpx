@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:12Z</time>
+    <bounds maxlat="50.3529453" maxlon="16.3691806" minlat="50.352716" minlon="16.368089"/>
+  </metadata>
+  <wpt lat="50.352716" lon="16.369181">
+    <ele>904</ele>
+    <name>Odejscie do Zlotej Sztolni</name>
+    <link href="https://mapa-turystyczna.pl/node/13178">
+      <text>Odejscie do Zlotej Sztolni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.352945" lon="16.368089">
+    <ele>924</ele>
+    <name>Zlota Sztolnia</name>
+    <link href="https://mapa-turystyczna.pl/node/13179">
+      <text>Zlota Sztolnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Zlotej Sztolni - Zlota Sztolnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.352716,16.3691806;50.35281095001055,16.36853890000002;50.3529453,16.368089">
+    <text>Odejscie do Zlotej Sztolni - Zlota Sztolnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.352716" lon="16.3691806">
+      <ele>904</ele>
+      <time>2022-01-18T01:50:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3527793" lon="16.3687313">
+      <ele>912</ele>
+      <time>2022-01-18T01:51:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3528426" lon="16.3683465">
+      <ele>918</ele>
+      <time>2022-01-18T01:52:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3529453" lon="16.368089">
+      <ele>924</ele>
+      <time>2022-01-18T01:53:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

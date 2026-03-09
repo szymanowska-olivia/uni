@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:32Z</time>
+    <bounds maxlat="49.134754" maxlon="19.742566" minlat="49.13459" minlon="19.742332"/>
+  </metadata>
+  <wpt lat="49.13459" lon="19.742566">
+    <ele>910</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12692">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.134754" lon="19.742332">
+    <ele>917</ele>
+    <name>Pod Holym vrchom</name>
+    <link href="https://mapa-turystyczna.pl/node/1472">
+      <text>Pod Holym vrchom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Holym vrchom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.13459,19.742566;49.13467550000763,19.742462499999974;49.134754,19.742332">
+    <text>Rozejscie szlakow - Pod Holym vrchom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.13459" lon="19.742566">
+      <ele>910</ele>
+      <time>2022-01-18T01:36:32Z</time>
+    </trkpt>
+    <trkpt lat="49.134648" lon="19.742485">
+      <ele>912</ele>
+      <time>2022-01-18T01:36:53Z</time>
+    </trkpt>
+    <trkpt lat="49.134703" lon="19.74244">
+      <ele>914</ele>
+      <time>2022-01-18T01:37:09Z</time>
+    </trkpt>
+    <trkpt lat="49.134754" lon="19.742332">
+      <ele>917</ele>
+      <time>2022-01-18T01:37:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

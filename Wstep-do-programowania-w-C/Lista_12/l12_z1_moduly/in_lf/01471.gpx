@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:01Z</time>
+    <bounds maxlat="50.7794038" maxlon="15.5362344" minlat="50.7755439" minlon="15.535254"/>
+  </metadata>
+  <wpt lat="50.779404" lon="15.535314">
+    <ele>1406</ele>
+    <name>Ceska budka</name>
+    <link href="https://mapa-turystyczna.pl/node/1105">
+      <text>Ceska budka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.775544" lon="15.536234">
+    <ele>1387</ele>
+    <name>Zrodla Laby</name>
+    <link href="https://mapa-turystyczna.pl/node/1450">
+      <text>Zrodla Laby</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceska budka - Zrodla Laby</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7794038,15.5353144;50.77737820068705,15.5354341;50.7755439,15.5362344">
+    <text>Ceska budka - Zrodla Laby</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7794038" lon="15.5353144">
+      <ele>1406</ele>
+      <time>2022-01-17T21:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7786611" lon="15.535254">
+      <ele>1404</ele>
+      <time>2022-01-17T21:01:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7776317" lon="15.5353419">
+      <ele>1399</ele>
+      <time>2022-01-17T21:03:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7771247" lon="15.5355263">
+      <ele>1396</ele>
+      <time>2022-01-17T21:03:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7766166" lon="15.5358964">
+      <ele>1392</ele>
+      <time>2022-01-17T21:04:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7764002" lon="15.5359661">
+      <ele>1392</ele>
+      <time>2022-01-17T21:04:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7761166" lon="15.53617">
+      <ele>1390</ele>
+      <time>2022-01-17T21:05:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7755439" lon="15.5362344">
+      <ele>1387</ele>
+      <time>2022-01-17T21:06:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

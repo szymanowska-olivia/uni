@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:05Z</time>
+    <bounds maxlat="50.0183496" maxlon="17.0555127" minlat="50.0174362" minlon="17.0522994"/>
+  </metadata>
+  <wpt lat="50.018012" lon="17.052299">
+    <ele>441</ele>
+    <name>Nad Terezinem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6915">
+      <text>Nad Terezinem, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.017436" lon="17.055513">
+    <ele>502</ele>
+    <name>Nad Terezinem</name>
+    <link href="https://mapa-turystyczna.pl/node/6913">
+      <text>Nad Terezinem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Terezinem, rozc. - Nad Terezinem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0180118,17.0522994;50.01821520010408,17.054026750000027;50.0174362,17.0555127">
+    <text>Nad Terezinem, rozc. - Nad Terezinem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0180118" lon="17.0522994">
+      <ele>441</ele>
+      <time>2022-01-17T23:05:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0183496" lon="17.0535707">
+      <ele>455</ele>
+      <time>2022-01-17T23:08:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0183152" lon="17.0538068">
+      <ele>460</ele>
+      <time>2022-01-17T23:09:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0181152" lon="17.0542467">
+      <ele>476</ele>
+      <time>2022-01-17T23:10:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0179498" lon="17.0545417">
+      <ele>486</ele>
+      <time>2022-01-17T23:11:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0176534" lon="17.0549977">
+      <ele>497</ele>
+      <time>2022-01-17T23:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.017481" lon="17.0553356">
+      <ele>501</ele>
+      <time>2022-01-17T23:14:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0174362" lon="17.0555127">
+      <ele>502</ele>
+      <time>2022-01-17T23:15:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:41:40Z</time>
+    <bounds maxlat="51.1086753" maxlon="15.5759905" minlat="51.1085681" minlon="15.5745039"/>
+  </metadata>
+  <wpt lat="51.108675" lon="15.57599">
+    <ele>238</ele>
+    <name>Lwowek Slaski, ul. Asnyka</name>
+    <link href="https://mapa-turystyczna.pl/node/8255">
+      <text>Lwowek Slaski, ul. Asnyka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.108638" lon="15.574504">
+    <ele>242</ele>
+    <name>Lwowek Slaski, ul. Jastrzebia</name>
+    <link href="https://mapa-turystyczna.pl/node/8257">
+      <text>Lwowek Slaski, ul. Jastrzebia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Asnyka - Lwowek Slaski, ul. Jastrzebia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1086753,15.5759905;51.108621700031094,15.575438800000011;51.108638,15.5745039">
+    <text>Lwowek Slaski, ul. Asnyka - Lwowek Slaski, ul. Jastrzebia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1086753" lon="15.5759905">
+      <ele>238</ele>
+      <time>2022-01-17T23:41:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1085681" lon="15.5748871">
+      <ele>242</ele>
+      <time>2022-01-17T23:43:08Z</time>
+    </trkpt>
+    <trkpt lat="51.1085748" lon="15.5746967">
+      <ele>242</ele>
+      <time>2022-01-17T23:43:23Z</time>
+    </trkpt>
+    <trkpt lat="51.108638" lon="15.5745039">
+      <ele>242</ele>
+      <time>2022-01-17T23:43:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

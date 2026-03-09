@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:52Z</time>
+    <bounds maxlat="49.608675" maxlon="19.495792" minlat="49.608144" minlon="19.494751"/>
+  </metadata>
+  <wpt lat="49.608144" lon="19.494751">
+    <ele>732</ele>
+    <name>Pod Baranim Groniem</name>
+    <link href="https://mapa-turystyczna.pl/node/614">
+      <text>Pod Baranim Groniem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.608675" lon="19.495792">
+    <ele>737</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13003">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Baranim Groniem - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608144,19.494751;49.60854200018145,19.49551450000002;49.608675,19.495792">
+    <text>Pod Baranim Groniem - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608144" lon="19.494751">
+      <ele>732</ele>
+      <time>2022-01-18T01:44:52Z</time>
+    </trkpt>
+    <trkpt lat="49.608409" lon="19.495237">
+      <ele>734</ele>
+      <time>2022-01-18T01:45:49Z</time>
+    </trkpt>
+    <trkpt lat="49.608675" lon="19.495792">
+      <ele>737</ele>
+      <time>2022-01-18T01:46:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

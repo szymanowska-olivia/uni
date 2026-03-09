@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:58Z</time>
+    <bounds maxlat="50.8076309" maxlon="15.6662196" minlat="50.806883" minlon="15.665498"/>
+  </metadata>
+  <wpt lat="50.807631" lon="15.665498">
+    <ele>591</ele>
+    <name>Przesieka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3907">
+      <text>Przesieka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.806883" lon="15.665903">
+    <ele>604</ele>
+    <name>Przesieka</name>
+    <link href="https://mapa-turystyczna.pl/node/1322">
+      <text>Przesieka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przesieka, rozejscie szlakow - Przesieka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8076309,15.665498;50.807359400060996,15.666174000000002;50.806883,15.6659031">
+    <text>Przesieka, rozejscie szlakow - Przesieka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8076309" lon="15.665498">
+      <ele>591</ele>
+      <time>2022-01-17T21:57:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8074828" lon="15.666005">
+      <ele>595</ele>
+      <time>2022-01-17T21:58:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8074349" lon="15.6661284">
+      <ele>596</ele>
+      <time>2022-01-17T21:59:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8072839" lon="15.6662196">
+      <ele>598</ele>
+      <time>2022-01-17T21:59:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8070854" lon="15.6661445">
+      <ele>601</ele>
+      <time>2022-01-17T22:00:15Z</time>
+    </trkpt>
+    <trkpt lat="50.806883" lon="15.6659031">
+      <ele>604</ele>
+      <time>2022-01-17T22:00:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

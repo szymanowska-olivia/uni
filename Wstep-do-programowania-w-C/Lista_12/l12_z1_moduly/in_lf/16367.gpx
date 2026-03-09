@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:39Z</time>
+    <bounds maxlat="51.9393233" maxlon="15.5083775" minlat="51.9386668" minlon="15.5078244"/>
+  </metadata>
+  <wpt lat="51.939323" lon="15.508377">
+    <ele>141</ele>
+    <name>Zielona Gora, ul. Kupiecka</name>
+    <link href="https://mapa-turystyczna.pl/node/11155">
+      <text>Zielona Gora, ul. Kupiecka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.938667" lon="15.507824">
+    <ele>138</ele>
+    <name>Zielona Gora, ul. Ciesielska</name>
+    <link href="https://mapa-turystyczna.pl/node/11177">
+      <text>Zielona Gora, ul. Ciesielska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielona Gora, ul. Kupiecka - Zielona Gora, ul. Ciesielska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9393233,15.5083775;51.93895580093086,15.508048000000011;51.9386668,15.5078244">
+    <text>Zielona Gora, ul. Kupiecka - Zielona Gora, ul. Ciesielska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9393233" lon="15.5083775">
+      <ele>141</ele>
+      <time>2022-01-18T00:55:39Z</time>
+    </trkpt>
+    <trkpt lat="51.9392448" lon="15.5082716">
+      <ele>141</ele>
+      <time>2022-01-18T00:55:47Z</time>
+    </trkpt>
+    <trkpt lat="51.9386668" lon="15.5078244">
+      <ele>138</ele>
+      <time>2022-01-18T00:56:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

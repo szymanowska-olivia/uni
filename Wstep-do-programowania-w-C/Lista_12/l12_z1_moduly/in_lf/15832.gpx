@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:22Z</time>
+    <bounds maxlat="54.4234275" maxlon="18.5388011" minlat="54.4213864" minlon="18.5364568"/>
+  </metadata>
+  <wpt lat="54.423428" lon="18.536457">
+    <ele>120</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10827">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.42168" lon="18.537492">
+    <ele>79</ele>
+    <name>Gdansk, Rynarzewo</name>
+    <link href="https://mapa-turystyczna.pl/node/10828">
+      <text>Gdansk, Rynarzewo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / czarny - Gdansk, Rynarzewo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4234275,18.5364568;54.42252085106131,18.538441649999996;54.4216798,18.5374922">
+    <text>Skrzyzowanie szlakow niebieski / czarny - Gdansk, Rynarzewo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4234275" lon="18.5364568">
+      <ele>120</ele>
+      <time>2022-01-18T00:46:22Z</time>
+    </trkpt>
+    <trkpt lat="54.4233589" lon="18.5365266">
+      <ele>119</ele>
+      <time>2022-01-18T00:46:29Z</time>
+    </trkpt>
+    <trkpt lat="54.4232559" lon="18.5370952">
+      <ele>117</ele>
+      <time>2022-01-18T00:46:59Z</time>
+    </trkpt>
+    <trkpt lat="54.4230733" lon="18.5377067">
+      <ele>111</ele>
+      <time>2022-01-18T00:47:33Z</time>
+    </trkpt>
+    <trkpt lat="54.4228158" lon="18.5383183">
+      <ele>106</ele>
+      <time>2022-01-18T00:48:11Z</time>
+    </trkpt>
+    <trkpt lat="54.4222259" lon="18.538565">
+      <ele>95</ele>
+      <time>2022-01-18T00:49:04Z</time>
+    </trkpt>
+    <trkpt lat="54.4216766" lon="18.5388011">
+      <ele>82</ele>
+      <time>2022-01-18T00:49:54Z</time>
+    </trkpt>
+    <trkpt lat="54.4213864" lon="18.5385865">
+      <ele>73</ele>
+      <time>2022-01-18T00:50:22Z</time>
+    </trkpt>
+    <trkpt lat="54.4216798" lon="18.5374922">
+      <ele>79</ele>
+      <time>2022-01-18T00:51:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

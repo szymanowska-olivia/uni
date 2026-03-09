@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:13Z</time>
+    <bounds maxlat="52.119378" maxlon="21.0442572" minlat="52.1151537" minlon="21.0344863"/>
+  </metadata>
+  <wpt lat="52.115154" lon="21.044257">
+    <ele>117</ele>
+    <name>Las Kabacki, Aleja Zalogi Samolotu "Kosciuszko"</name>
+    <link href="https://mapa-turystyczna.pl/node/11942">
+      <text>Las Kabacki, Aleja Zalogi Samolotu "Kosciuszko"</text>
+    </link>
+  </wpt>
+  <wpt lat="52.119378" lon="21.034486">
+    <ele>115</ele>
+    <name>Las Kabacki, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/11943">
+      <text>Las Kabacki, pomnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Kabacki, Aleja Zalogi Samolotu &quot;Kosciuszko&quot; - Las Kabacki, pomnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1151537,21.0442572;52.117234798577506,21.039405949999995;52.119378,21.0344863">
+    <text>Las Kabacki, Aleja Zalogi Samolotu &quot;Kosciuszko&quot; - Las Kabacki, pomnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1151537" lon="21.0442572">
+      <ele>117</ele>
+      <time>2022-01-18T01:16:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1193158" lon="21.0345547">
+      <ele>115</ele>
+      <time>2022-01-18T01:26:07Z</time>
+    </trkpt>
+    <trkpt lat="52.119378" lon="21.0344863">
+      <ele>115</ele>
+      <time>2022-01-18T01:26:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

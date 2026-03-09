@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:03Z</time>
+    <bounds maxlat="50.5484264" maxlon="16.2965977" minlat="50.5478763" minlon="16.2926924"/>
+  </metadata>
+  <wpt lat="50.548426" lon="16.292692">
+    <ele>665</ele>
+    <name>Nad Hajkovou rokli, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5808">
+      <text>Nad Hajkovou rokli, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.547919" lon="16.296598">
+    <ele>676</ele>
+    <name>Ovcin, odbocka k vyhlidce</name>
+    <link href="https://mapa-turystyczna.pl/node/5810">
+      <text>Ovcin, odbocka k vyhlidce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Hajkovou rokli, rozc. - Ovcin, odbocka k vyhlidce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5484264,16.2926924;50.54799715006361,16.29461165;50.5479185,16.2965977">
+    <text>Nad Hajkovou rokli, rozc. - Ovcin, odbocka k vyhlidce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5484264" lon="16.2926924">
+      <ele>665</ele>
+      <time>2022-01-17T22:37:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5484179" lon="16.2932342">
+      <ele>669</ele>
+      <time>2022-01-17T22:37:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5482692" lon="16.2937693">
+      <ele>671</ele>
+      <time>2022-01-17T22:38:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5482296" lon="16.2943366">
+      <ele>673</ele>
+      <time>2022-01-17T22:39:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5480746" lon="16.294427">
+      <ele>671</ele>
+      <time>2022-01-17T22:39:22Z</time>
+    </trkpt>
+    <trkpt lat="50.5479197" lon="16.2947963">
+      <ele>669</ele>
+      <time>2022-01-17T22:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5479507" lon="16.2954705">
+      <ele>670</ele>
+      <time>2022-01-17T22:40:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5478763" lon="16.2957676">
+      <ele>670</ele>
+      <time>2022-01-17T22:41:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5479383" lon="16.2961826">
+      <ele>673</ele>
+      <time>2022-01-17T22:41:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5479185" lon="16.2965977">
+      <ele>676</ele>
+      <time>2022-01-17T22:42:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:12:42Z</time>
+    <bounds maxlat="49.186386" maxlon="20.233652" minlat="49.185043" minlon="20.233291"/>
+  </metadata>
+  <wpt lat="49.185043" lon="20.233324">
+    <ele>1718</ele>
+    <name>Pri Skalnatej chate</name>
+    <link href="https://mapa-turystyczna.pl/node/1587">
+      <text>Pri Skalnatej chate</text>
+    </link>
+  </wpt>
+  <wpt lat="49.186386" lon="20.233652">
+    <ele>1725</ele>
+    <name>Skalnata chata</name>
+    <link href="https://mapa-turystyczna.pl/node/1588">
+      <text>Skalnata chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pri Skalnatej chate - Skalnata chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.185043,20.233324;49.18571150001069,20.233584999999977;49.186386,20.233652">
+    <text>Pri Skalnatej chate - Skalnata chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.185043" lon="20.233324">
+      <ele>1718</ele>
+      <time>2022-01-17T21:12:42Z</time>
+    </trkpt>
+    <trkpt lat="49.185115" lon="20.233291">
+      <ele>1719</ele>
+      <time>2022-01-17T21:12:58Z</time>
+    </trkpt>
+    <trkpt lat="49.185225" lon="20.2333">
+      <ele>1720</ele>
+      <time>2022-01-17T21:13:22Z</time>
+    </trkpt>
+    <trkpt lat="49.185273" lon="20.233316">
+      <ele>1721</ele>
+      <time>2022-01-17T21:13:33Z</time>
+    </trkpt>
+    <trkpt lat="49.185526" lon="20.233497">
+      <ele>1720</ele>
+      <time>2022-01-17T21:14:33Z</time>
+    </trkpt>
+    <trkpt lat="49.185679" lon="20.233577">
+      <ele>1720</ele>
+      <time>2022-01-17T21:15:08Z</time>
+    </trkpt>
+    <trkpt lat="49.185744" lon="20.233593">
+      <ele>1721</ele>
+      <time>2022-01-17T21:15:23Z</time>
+    </trkpt>
+    <trkpt lat="49.186108" lon="20.233612">
+      <ele>1722</ele>
+      <time>2022-01-17T21:16:41Z</time>
+    </trkpt>
+    <trkpt lat="49.186386" lon="20.233652">
+      <ele>1725</ele>
+      <time>2022-01-17T21:17:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

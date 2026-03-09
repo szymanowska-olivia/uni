@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:36Z</time>
+    <bounds maxlat="49.477928" maxlon="19.065314" minlat="49.470947" minlon="19.060903"/>
+  </metadata>
+  <wpt lat="49.477928" lon="19.060903">
+    <ele>556</ele>
+    <name>Rycerka Dolna</name>
+    <link href="https://mapa-turystyczna.pl/node/649">
+      <text>Rycerka Dolna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.470947" lon="19.065314">
+    <ele>575</ele>
+    <name>Rycerka Dolna, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/3864">
+      <text>Rycerka Dolna, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rycerka Dolna - Rycerka Dolna, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.477928,19.060903;49.474014008772215,19.063462500000004;49.470947,19.065314">
+    <text>Rycerka Dolna - Rycerka Dolna, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.477928" lon="19.060903">
+      <ele>556</ele>
+      <time>2022-01-17T21:56:36Z</time>
+    </trkpt>
+    <trkpt lat="49.477768" lon="19.061145">
+      <ele>554</ele>
+      <time>2022-01-17T21:57:03Z</time>
+    </trkpt>
+    <trkpt lat="49.477456" lon="19.061654">
+      <ele>553</ele>
+      <time>2022-01-17T21:57:56Z</time>
+    </trkpt>
+    <trkpt lat="49.477292" lon="19.061832">
+      <ele>555</ele>
+      <time>2022-01-17T21:58:20Z</time>
+    </trkpt>
+    <trkpt lat="49.476968" lon="19.062023">
+      <ele>557</ele>
+      <time>2022-01-17T21:59:01Z</time>
+    </trkpt>
+    <trkpt lat="49.475559" lon="19.062602">
+      <ele>562</ele>
+      <time>2022-01-17T22:01:53Z</time>
+    </trkpt>
+    <trkpt lat="49.474941" lon="19.062946">
+      <ele>565</ele>
+      <time>2022-01-17T22:03:11Z</time>
+    </trkpt>
+    <trkpt lat="49.473087" lon="19.063979">
+      <ele>571</ele>
+      <time>2022-01-17T22:07:04Z</time>
+    </trkpt>
+    <trkpt lat="49.470947" lon="19.065314">
+      <ele>575</ele>
+      <time>2022-01-17T22:11:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

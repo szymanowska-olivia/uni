@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:06Z</time>
+    <bounds maxlat="50.806883" maxlon="15.6668329" minlat="50.8046498" minlon="15.6659031"/>
+  </metadata>
+  <wpt lat="50.806883" lon="15.665903">
+    <ele>604</ele>
+    <name>Przesieka</name>
+    <link href="https://mapa-turystyczna.pl/node/1322">
+      <text>Przesieka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.80465" lon="15.666833">
+    <ele>589</ele>
+    <name>Przesieka, ul. Kreta</name>
+    <link href="https://mapa-turystyczna.pl/node/8667">
+      <text>Przesieka, ul. Kreta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przesieka - Przesieka, ul. Kreta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.806883,15.6659031;50.80587445041681,15.666547649999982;50.8046498,15.6668329">
+    <text>Przesieka - Przesieka, ul. Kreta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.806883" lon="15.6659031">
+      <ele>604</ele>
+      <time>2022-01-17T23:53:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8066534" lon="15.6661606">
+      <ele>604</ele>
+      <time>2022-01-17T23:53:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8063144" lon="15.666343">
+      <ele>605</ele>
+      <time>2022-01-17T23:54:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8060718" lon="15.6665056">
+      <ele>608</ele>
+      <time>2022-01-17T23:54:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8056771" lon="15.6665897">
+      <ele>610</ele>
+      <time>2022-01-17T23:55:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8055008" lon="15.6665146">
+      <ele>608</ele>
+      <time>2022-01-17T23:56:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8053042" lon="15.6665468">
+      <ele>605</ele>
+      <time>2022-01-17T23:56:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8050996" lon="15.6665255">
+      <ele>599</ele>
+      <time>2022-01-17T23:57:03Z</time>
+    </trkpt>
+    <trkpt lat="50.8048797" lon="15.6666327">
+      <ele>594</ele>
+      <time>2022-01-17T23:57:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8047279" lon="15.6668043">
+      <ele>590</ele>
+      <time>2022-01-17T23:57:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8046498" lon="15.6668329">
+      <ele>589</ele>
+      <time>2022-01-17T23:58:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

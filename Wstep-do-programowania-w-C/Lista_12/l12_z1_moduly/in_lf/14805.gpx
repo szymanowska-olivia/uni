@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:28:19Z</time>
+    <bounds maxlat="51.3201013" maxlon="16.1505391" minlat="51.31254" minlon="16.1491724"/>
+  </metadata>
+  <wpt lat="51.31254" lon="16.150539">
+    <ele>180</ele>
+    <name>Karczowiska, las</name>
+    <link href="https://mapa-turystyczna.pl/node/10097">
+      <text>Karczowiska, las</text>
+    </link>
+  </wpt>
+  <wpt lat="51.320101" lon="16.149172">
+    <ele>178</ele>
+    <name>Pod Piotrusiem</name>
+    <link href="https://mapa-turystyczna.pl/node/10096">
+      <text>Pod Piotrusiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karczowiska, las - Pod Piotrusiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.31254,16.1505391;51.31631580537098,16.14986515;51.3201013,16.1491724">
+    <text>Karczowiska, las - Pod Piotrusiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.31254" lon="16.1505391">
+      <ele>180</ele>
+      <time>2022-01-18T00:28:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3200913" lon="16.1491912">
+      <ele>178</ele>
+      <time>2022-01-18T00:43:17Z</time>
+    </trkpt>
+    <trkpt lat="51.3201013" lon="16.1491724">
+      <ele>178</ele>
+      <time>2022-01-18T00:43:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

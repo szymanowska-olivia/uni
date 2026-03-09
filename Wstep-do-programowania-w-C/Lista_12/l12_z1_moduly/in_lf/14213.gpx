@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:29Z</time>
+    <bounds maxlat="50.4134777" maxlon="19.4812703" minlat="50.4128316" minlon="19.4748581"/>
+  </metadata>
+  <wpt lat="50.41296" lon="19.474858">
+    <ele>353</ele>
+    <name>Rozejscie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/9699">
+      <text>Rozejscie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.413468" lon="19.48127">
+    <ele>353</ele>
+    <name>Hutki-Kanki, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4439">
+      <text>Hutki-Kanki, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / zolty - Hutki-Kanki, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4129598,19.4748581;50.41325725015541,19.47782564999999;50.4134677,19.4812703">
+    <text>Rozejscie szlakow zielony / zolty - Hutki-Kanki, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4129598" lon="19.4748581">
+      <ele>353</ele>
+      <time>2022-01-18T00:18:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4128316" lon="19.4753557">
+      <ele>354</ele>
+      <time>2022-01-18T00:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4131359" lon="19.4771475">
+      <ele>353</ele>
+      <time>2022-01-18T00:20:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4133786" lon="19.4785038">
+      <ele>354</ele>
+      <time>2022-01-18T00:21:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4134777" lon="19.4811752">
+      <ele>354</ele>
+      <time>2022-01-18T00:23:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4134677" lon="19.4812703">
+      <ele>353</ele>
+      <time>2022-01-18T00:23:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

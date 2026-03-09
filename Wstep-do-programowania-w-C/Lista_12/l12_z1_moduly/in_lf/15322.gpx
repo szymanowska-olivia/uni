@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:15Z</time>
+    <bounds maxlat="51.6319056" maxlon="17.3572971" minlat="51.6305204" minlon="17.353247"/>
+  </metadata>
+  <wpt lat="51.63052" lon="17.356809">
+    <ele>134</ele>
+    <name>Cieszkow</name>
+    <link href="https://mapa-turystyczna.pl/node/10457">
+      <text>Cieszkow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.631906" lon="17.353247">
+    <ele>131</ele>
+    <name>Cieszkow, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10456">
+      <text>Cieszkow, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieszkow - Cieszkow, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6305204,17.356809;51.63133290086234,17.355947950000004;51.6319056,17.353247">
+    <text>Cieszkow - Cieszkow, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6305204" lon="17.356809">
+      <ele>134</ele>
+      <time>2022-01-18T00:37:15Z</time>
+    </trkpt>
+    <trkpt lat="51.6310532" lon="17.3572971">
+      <ele>135</ele>
+      <time>2022-01-18T00:38:11Z</time>
+    </trkpt>
+    <trkpt lat="51.6316126" lon="17.3545988">
+      <ele>134</ele>
+      <time>2022-01-18T00:40:53Z</time>
+    </trkpt>
+    <trkpt lat="51.6318357" lon="17.3535152">
+      <ele>132</ele>
+      <time>2022-01-18T00:41:58Z</time>
+    </trkpt>
+    <trkpt lat="51.6319056" lon="17.353247">
+      <ele>131</ele>
+      <time>2022-01-18T00:42:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

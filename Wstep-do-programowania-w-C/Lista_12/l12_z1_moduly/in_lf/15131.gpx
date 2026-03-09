@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:42Z</time>
+    <bounds maxlat="51.0732708" maxlon="16.8835766" minlat="51.0717708" minlon="16.8790759"/>
+  </metadata>
+  <wpt lat="51.073271" lon="16.883577">
+    <ele>129</ele>
+    <name>Smolec</name>
+    <link href="https://mapa-turystyczna.pl/node/10312">
+      <text>Smolec</text>
+    </link>
+  </wpt>
+  <wpt lat="51.071771" lon="16.879076">
+    <ele>130</ele>
+    <name>Smolec, ul. Glowna</name>
+    <link href="https://mapa-turystyczna.pl/node/10313">
+      <text>Smolec, ul. Glowna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smolec - Smolec, ul. Glowna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0732708,16.8835766;51.072496351498806,16.880709149999994;51.0717708,16.8790759">
+    <text>Smolec - Smolec, ul. Glowna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0732708" lon="16.8835766">
+      <ele>129</ele>
+      <time>2022-01-18T00:33:42Z</time>
+    </trkpt>
+    <trkpt lat="51.0731748" lon="16.8833052">
+      <ele>128</ele>
+      <time>2022-01-18T00:34:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0730399" lon="16.8826454">
+      <ele>128</ele>
+      <time>2022-01-18T00:34:40Z</time>
+    </trkpt>
+    <trkpt lat="51.0729523" lon="16.8816208">
+      <ele>130</ele>
+      <time>2022-01-18T00:35:39Z</time>
+    </trkpt>
+    <trkpt lat="51.0729295" lon="16.8814709">
+      <ele>130</ele>
+      <time>2022-01-18T00:35:47Z</time>
+    </trkpt>
+    <trkpt lat="51.0728688" lon="16.88131">
+      <ele>130</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="51.0721239" lon="16.8801083">
+      <ele>131</ele>
+      <time>2022-01-18T00:37:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0717708" lon="16.8790759">
+      <ele>130</ele>
+      <time>2022-01-18T00:38:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

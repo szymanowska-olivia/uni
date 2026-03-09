@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:00Z</time>
+    <bounds maxlat="50.8718107" maxlon="15.2580188" minlat="50.8714597" minlon="15.2576513"/>
+  </metadata>
+  <wpt lat="50.871811" lon="15.258019">
+    <ele>923</ele>
+    <name>Palicnik, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13143">
+      <text>Palicnik, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.87146" lon="15.257651">
+    <ele>912</ele>
+    <name>Palicnik</name>
+    <link href="https://mapa-turystyczna.pl/node/13144">
+      <text>Palicnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Palicnik, odb. - Palicnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8718107,15.2580188;50.87167945002054,15.257861199999985;50.8714597,15.2576513">
+    <text>Palicnik, odb. - Palicnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8718107" lon="15.2580188">
+      <ele>923</ele>
+      <time>2022-01-18T01:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8717232" lon="15.2579209">
+      <ele>922</ele>
+      <time>2022-01-18T01:49:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8716357" lon="15.2578015">
+      <ele>920</ele>
+      <time>2022-01-18T01:49:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8715612" lon="15.2577157">
+      <ele>916</ele>
+      <time>2022-01-18T01:49:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8714597" lon="15.2576513">
+      <ele>912</ele>
+      <time>2022-01-18T01:50:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

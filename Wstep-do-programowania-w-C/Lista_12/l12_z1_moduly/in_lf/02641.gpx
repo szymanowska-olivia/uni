@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:42Z</time>
+    <bounds maxlat="50.3092457" maxlon="16.3271065" minlat="50.302478" minlon="16.3238111"/>
+  </metadata>
+  <wpt lat="50.302478" lon="16.324766">
+    <ele>730</ele>
+    <name>Horni Kouty</name>
+    <link href="https://mapa-turystyczna.pl/node/1893">
+      <text>Horni Kouty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.309246" lon="16.323811">
+    <ele>788</ele>
+    <name>Pod Spicakem, jih</name>
+    <link href="https://mapa-turystyczna.pl/node/5689">
+      <text>Pod Spicakem, jih</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Kouty - Pod Spicakem, jih</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.302478,16.3247663;50.306339254516814,16.326676699999997;50.3092457,16.3238111">
+    <text>Horni Kouty - Pod Spicakem, jih</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.302478" lon="16.3247663">
+      <ele>730</ele>
+      <time>2022-01-17T21:18:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3036756" lon="16.3259183">
+      <ele>755</ele>
+      <time>2022-01-17T21:22:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3045998" lon="16.3264621">
+      <ele>769</ele>
+      <time>2022-01-17T21:24:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3051951" lon="16.3270381">
+      <ele>780</ele>
+      <time>2022-01-17T21:26:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3056838" lon="16.3271065">
+      <ele>785</ele>
+      <time>2022-01-17T21:28:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3069947" lon="16.3262469">
+      <ele>787</ele>
+      <time>2022-01-17T21:31:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3087799" lon="16.3244605">
+      <ele>789</ele>
+      <time>2022-01-17T21:37:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3090371" lon="16.3241601">
+      <ele>788</ele>
+      <time>2022-01-17T21:37:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3092457" lon="16.3238111">
+      <ele>788</ele>
+      <time>2022-01-17T21:38:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

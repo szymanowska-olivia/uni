@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:38Z</time>
+    <bounds maxlat="49.608116" maxlon="19.962675" minlat="49.608059" minlon="19.962441"/>
+  </metadata>
+  <wpt lat="49.608116" lon="19.962441">
+    <ele>508</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12817">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.608059" lon="19.962675">
+    <ele>507</ele>
+    <name>Rabka-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/103">
+      <text>Rabka-Zdroj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Rabka-Zdroj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608116,19.962441;49.60810050000247,19.962507500000022;49.608059,19.962675">
+    <text>Rozejscie szlakow - Rabka-Zdroj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608116" lon="19.962441">
+      <ele>508</ele>
+      <time>2022-01-18T01:39:38Z</time>
+    </trkpt>
+    <trkpt lat="49.608085" lon="19.962574">
+      <ele>508</ele>
+      <time>2022-01-18T01:40:12Z</time>
+    </trkpt>
+    <trkpt lat="49.608075" lon="19.962614">
+      <ele>508</ele>
+      <time>2022-01-18T01:40:22Z</time>
+    </trkpt>
+    <trkpt lat="49.608059" lon="19.962675">
+      <ele>507</ele>
+      <time>2022-01-18T01:40:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

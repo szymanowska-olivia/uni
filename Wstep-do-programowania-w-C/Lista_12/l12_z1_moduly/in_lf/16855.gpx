@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:04:10Z</time>
+    <bounds maxlat="52.1075137" maxlon="21.2658408" minlat="52.1072106" minlon="21.2655842"/>
+  </metadata>
+  <wpt lat="52.107211" lon="21.265584">
+    <ele>94</ele>
+    <name>Otwock, wiadukty kolejowe</name>
+    <link href="https://mapa-turystyczna.pl/node/11533">
+      <text>Otwock, wiadukty kolejowe</text>
+    </link>
+  </wpt>
+  <wpt lat="52.107514" lon="21.265788">
+    <ele>95</ele>
+    <name>Otwock, dawne Kino Promyk</name>
+    <link href="https://mapa-turystyczna.pl/node/11534">
+      <text>Otwock, dawne Kino Promyk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, wiadukty kolejowe - Otwock, dawne Kino Promyk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1072106,21.2655842;52.107365100029284,21.26583410000001;52.1075137,21.2657881">
+    <text>Otwock, wiadukty kolejowe - Otwock, dawne Kino Promyk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1072106" lon="21.2655842">
+      <ele>94</ele>
+      <time>2022-01-18T01:04:10Z</time>
+    </trkpt>
+    <trkpt lat="52.107314" lon="21.2658274">
+      <ele>95</ele>
+      <time>2022-01-18T01:04:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1074162" lon="21.2658408">
+      <ele>95</ele>
+      <time>2022-01-18T01:04:54Z</time>
+    </trkpt>
+    <trkpt lat="52.1075137" lon="21.2657881">
+      <ele>95</ele>
+      <time>2022-01-18T01:05:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

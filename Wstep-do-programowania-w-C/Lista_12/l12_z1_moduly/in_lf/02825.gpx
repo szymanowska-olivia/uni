@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:36Z</time>
+    <bounds maxlat="50.2001712" maxlon="16.2861586" minlat="50.1953087" minlon="16.2849569"/>
+  </metadata>
+  <wpt lat="50.195309" lon="16.286159">
+    <ele>415</ele>
+    <name>Pod Lukavicemi</name>
+    <link href="https://mapa-turystyczna.pl/node/1934">
+      <text>Pod Lukavicemi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.200171" lon="16.284957">
+    <ele>413</ele>
+    <name>Nad Lukavici</name>
+    <link href="https://mapa-turystyczna.pl/node/2012">
+      <text>Nad Lukavici</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Lukavicemi - Nad Lukavici</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1953087,16.2861586;50.19774001190687,16.285557749999995;50.2001712,16.2849569">
+    <text>Pod Lukavicemi - Nad Lukavici</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1953087" lon="16.2861586">
+      <ele>415</ele>
+      <time>2022-01-17T21:21:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2001712" lon="16.2849569">
+      <ele>413</ele>
+      <time>2022-01-17T21:31:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

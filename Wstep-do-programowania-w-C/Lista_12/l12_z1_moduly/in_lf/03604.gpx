@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:27Z</time>
+    <bounds maxlat="49.269497" maxlon="19.981468" minlat="49.268979" minlon="19.980522"/>
+  </metadata>
+  <wpt lat="49.268979" lon="19.981468">
+    <ele>1017</ele>
+    <name>Potok Bystra</name>
+    <link href="https://mapa-turystyczna.pl/node/2517">
+      <text>Potok Bystra</text>
+    </link>
+  </wpt>
+  <wpt lat="49.269497" lon="19.980522">
+    <ele>1025</ele>
+    <name>Kuznice</name>
+    <link href="https://mapa-turystyczna.pl/node/233">
+      <text>Kuznice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Potok Bystra - Kuznice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.268979,19.981468;49.26928150004897,19.981133000000018;49.269497,19.980522">
+    <text>Potok Bystra - Kuznice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.268979" lon="19.981468">
+      <ele>1017</ele>
+      <time>2022-01-17T21:32:27Z</time>
+    </trkpt>
+    <trkpt lat="49.26905" lon="19.981382">
+      <ele>1017</ele>
+      <time>2022-01-17T21:32:46Z</time>
+    </trkpt>
+    <trkpt lat="49.269212" lon="19.981225">
+      <ele>1018</ele>
+      <time>2022-01-17T21:33:28Z</time>
+    </trkpt>
+    <trkpt lat="49.269351" lon="19.981041">
+      <ele>1020</ele>
+      <time>2022-01-17T21:34:07Z</time>
+    </trkpt>
+    <trkpt lat="49.269497" lon="19.980522">
+      <ele>1025</ele>
+      <time>2022-01-17T21:35:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

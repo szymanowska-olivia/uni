@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:52Z</time>
+    <bounds maxlat="49.304942" maxlon="20.55524" minlat="49.304757" minlon="20.554128"/>
+  </metadata>
+  <wpt lat="49.304757" lon="20.554128">
+    <ele>641</ele>
+    <name>Vysne Ruzbachy, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7716">
+      <text>Vysne Ruzbachy, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.30494" lon="20.55524">
+    <ele>639</ele>
+    <name>Vysne Ruzbachy, kupele</name>
+    <link href="https://mapa-turystyczna.pl/node/7703">
+      <text>Vysne Ruzbachy, kupele</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vysne Ruzbachy, razc. - Vysne Ruzbachy, kupele</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.304757,20.554128;49.30493050000135,20.55457399999997;49.30494,20.55524">
+    <text>Vysne Ruzbachy, razc. - Vysne Ruzbachy, kupele</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.304757" lon="20.554128">
+      <ele>641</ele>
+      <time>2022-01-17T23:25:52Z</time>
+    </trkpt>
+    <trkpt lat="49.304827" lon="20.55423">
+      <ele>639</ele>
+      <time>2022-01-17T23:26:07Z</time>
+    </trkpt>
+    <trkpt lat="49.304862" lon="20.55432">
+      <ele>637</ele>
+      <time>2022-01-17T23:26:18Z</time>
+    </trkpt>
+    <trkpt lat="49.304884" lon="20.554395">
+      <ele>636</ele>
+      <time>2022-01-17T23:26:26Z</time>
+    </trkpt>
+    <trkpt lat="49.304919" lon="20.554495">
+      <ele>635</ele>
+      <time>2022-01-17T23:26:37Z</time>
+    </trkpt>
+    <trkpt lat="49.304942" lon="20.554653">
+      <ele>635</ele>
+      <time>2022-01-17T23:26:53Z</time>
+    </trkpt>
+    <trkpt lat="49.304942" lon="20.554886">
+      <ele>636</ele>
+      <time>2022-01-17T23:27:16Z</time>
+    </trkpt>
+    <trkpt lat="49.304915" lon="20.555071">
+      <ele>637</ele>
+      <time>2022-01-17T23:27:35Z</time>
+    </trkpt>
+    <trkpt lat="49.30494" lon="20.55524">
+      <ele>639</ele>
+      <time>2022-01-17T23:27:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

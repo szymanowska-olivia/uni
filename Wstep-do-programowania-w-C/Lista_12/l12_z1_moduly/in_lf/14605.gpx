@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:13Z</time>
+    <bounds maxlat="50.427311" maxlon="18.1872879" minlat="50.4267004" minlon="18.1859388"/>
+  </metadata>
+  <wpt lat="50.4267" lon="18.187288">
+    <ele>213</ele>
+    <name>Lesnica, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/9955">
+      <text>Lesnica, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.427311" lon="18.185939">
+    <ele>211</ele>
+    <name>Lesnica, ul. Kozielska</name>
+    <link href="https://mapa-turystyczna.pl/node/9799">
+      <text>Lesnica, ul. Kozielska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica, ul. Kosciuszki - Lesnica, ul. Kozielska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4267004,18.1872879;50.42702440003995,18.186489750000028;50.427311,18.1859388">
+    <text>Lesnica, ul. Kosciuszki - Lesnica, ul. Kozielska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4267004" lon="18.1872879">
+      <ele>213</ele>
+      <time>2022-01-18T00:25:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4269629" lon="18.1868036">
+      <ele>212</ele>
+      <time>2022-01-18T00:25:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4270859" lon="18.1861759">
+      <ele>211</ele>
+      <time>2022-01-18T00:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4272089" lon="18.1859935">
+      <ele>211</ele>
+      <time>2022-01-18T00:27:01Z</time>
+    </trkpt>
+    <trkpt lat="50.427311" lon="18.1859388">
+      <ele>211</ele>
+      <time>2022-01-18T00:27:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

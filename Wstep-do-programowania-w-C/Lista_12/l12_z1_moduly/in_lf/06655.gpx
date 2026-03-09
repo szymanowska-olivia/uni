@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:39Z</time>
+    <bounds maxlat="50.6488108" maxlon="16.9620216" minlat="50.6421061" minlon="16.9585669"/>
+  </metadata>
+  <wpt lat="50.642106" lon="16.962022">
+    <ele>238</ele>
+    <name>Muszkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/4599">
+      <text>Muszkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.648811" lon="16.958567">
+    <ele>221</ele>
+    <name>Skrzyzowanie pod Muszkowicami</name>
+    <link href="https://mapa-turystyczna.pl/node/4613">
+      <text>Skrzyzowanie pod Muszkowicami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Muszkowice - Skrzyzowanie pod Muszkowicami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6421061,16.9620216;50.64557510015298,16.96078439999999;50.6488108,16.9585669">
+    <text>Muszkowice - Skrzyzowanie pod Muszkowicami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6421061" lon="16.9620216">
+      <ele>238</ele>
+      <time>2022-01-17T22:10:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6423204" lon="16.9618714">
+      <ele>237</ele>
+      <time>2022-01-17T22:11:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6431199" lon="16.9611985">
+      <ele>232</ele>
+      <time>2022-01-17T22:13:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6435383" lon="16.960941">
+      <ele>229</ele>
+      <time>2022-01-17T22:13:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6444773" lon="16.960607">
+      <ele>224</ele>
+      <time>2022-01-17T22:15:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6449262" lon="16.9606671">
+      <ele>223</ele>
+      <time>2022-01-17T22:16:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6454552" lon="16.9607864">
+      <ele>220</ele>
+      <time>2022-01-17T22:18:02Z</time>
+    </trkpt>
+    <trkpt lat="50.645695" lon="16.9607824">
+      <ele>218</ele>
+      <time>2022-01-17T22:18:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6460359" lon="16.9605885">
+      <ele>216</ele>
+      <time>2022-01-17T22:19:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6466502" lon="16.9601647">
+      <ele>218</ele>
+      <time>2022-01-17T22:20:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6488108" lon="16.9585669">
+      <ele>221</ele>
+      <time>2022-01-17T22:25:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

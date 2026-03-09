@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:10Z</time>
+    <bounds maxlat="50.2723948" maxlon="16.1959612" minlat="50.2701421" minlon="16.1946684"/>
+  </metadata>
+  <wpt lat="50.272395" lon="16.19469">
+    <ele>332</ele>
+    <name>Chabory, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6077">
+      <text>Chabory, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.270142" lon="16.195961">
+    <ele>311</ele>
+    <name>Chabory</name>
+    <link href="https://mapa-turystyczna.pl/node/6076">
+      <text>Chabory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chabory, rozc. - Chabory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2723948,16.1946899;50.27155815191325,16.194976850000025;50.2701421,16.1959612">
+    <text>Chabory, rozc. - Chabory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2723948" lon="16.1946899">
+      <ele>332</ele>
+      <time>2022-01-17T22:44:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2721496" lon="16.1946684">
+      <ele>330</ele>
+      <time>2022-01-17T22:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.271985" lon="16.1948186">
+      <ele>329</ele>
+      <time>2022-01-17T22:45:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2711313" lon="16.1951351">
+      <ele>320</ele>
+      <time>2022-01-17T22:46:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2708467" lon="16.1951834">
+      <ele>316</ele>
+      <time>2022-01-17T22:47:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2707164" lon="16.1952639">
+      <ele>315</ele>
+      <time>2022-01-17T22:47:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2701421" lon="16.1959612">
+      <ele>311</ele>
+      <time>2022-01-17T22:49:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

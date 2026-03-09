@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:24Z</time>
+    <bounds maxlat="51.5160559" maxlon="17.3474906" minlat="51.5147256" minlon="17.3421572"/>
+  </metadata>
+  <wpt lat="51.516056" lon="17.342157">
+    <ele>125</ele>
+    <name>Niesulowice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10549">
+      <text>Niesulowice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.514726" lon="17.347491">
+    <ele>127</ele>
+    <name>Niesulowice, mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/10548">
+      <text>Niesulowice, mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niesulowice, rozejscie szlakow - Niesulowice, mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5160559,17.3421572;51.51515960206755,17.34567744999998;51.5147256,17.3474906">
+    <text>Niesulowice, rozejscie szlakow - Niesulowice, mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5160559" lon="17.3421572">
+      <ele>125</ele>
+      <time>2022-01-18T00:39:24Z</time>
+    </trkpt>
+    <trkpt lat="51.5155936" lon="17.3438643">
+      <ele>122</ele>
+      <time>2022-01-18T00:41:01Z</time>
+    </trkpt>
+    <trkpt lat="51.5147256" lon="17.3474906">
+      <ele>127</ele>
+      <time>2022-01-18T00:44:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

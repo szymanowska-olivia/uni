@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:39Z</time>
+    <bounds maxlat="50.3023341" maxlon="16.4132309" minlat="50.2982222" minlon="16.4000773"/>
+  </metadata>
+  <wpt lat="50.302334" lon="16.400077">
+    <ele>1103</ele>
+    <name>Pod Velkou Destnou</name>
+    <link href="https://mapa-turystyczna.pl/node/1916">
+      <text>Pod Velkou Destnou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.298222" lon="16.413231">
+    <ele>1047</ele>
+    <name>Pod Jelenkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1915">
+      <text>Pod Jelenkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Velkou Destnou - Pod Jelenkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3023341,16.4000773;50.302238150096784,16.404862400000003;50.2982222,16.4132309">
+    <text>Pod Velkou Destnou - Pod Jelenkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3023341" lon="16.4000773">
+      <ele>1103</ele>
+      <time>2022-01-17T21:19:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3021422" lon="16.4096475">
+      <ele>1044</ele>
+      <time>2022-01-17T21:30:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3016625" lon="16.4099264">
+      <ele>1045</ele>
+      <time>2022-01-17T21:31:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3011074" lon="16.4112353">
+      <ele>1042</ele>
+      <time>2022-01-17T21:33:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3004153" lon="16.4123297">
+      <ele>1044</ele>
+      <time>2022-01-17T21:35:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2997025" lon="16.412909">
+      <ele>1047</ele>
+      <time>2022-01-17T21:36:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2982222" lon="16.4132309">
+      <ele>1047</ele>
+      <time>2022-01-17T21:39:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

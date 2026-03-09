@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:24Z</time>
+    <bounds maxlat="49.3926881" maxlon="21.8258228" minlat="49.3907712" minlon="21.8230671"/>
+  </metadata>
+  <wpt lat="49.392688" lon="21.823067">
+    <ele>846</ele>
+    <name>Odejscie na Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/13126">
+      <text>Odejscie na Kamien</text>
+    </link>
+  </wpt>
+  <wpt lat="49.390771" lon="21.825823">
+    <ele>826</ele>
+    <name>Kamien, szczyt poludniowy</name>
+    <link href="https://mapa-turystyczna.pl/node/4755">
+      <text>Kamien, szczyt poludniowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na Kamien - Kamien, szczyt poludniowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3926881,21.8230671;49.39162860025121,21.82458064999997;49.3907712,21.8258228">
+    <text>Odejscie na Kamien - Kamien, szczyt poludniowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3926881" lon="21.8230671">
+      <ele>846</ele>
+      <time>2022-01-18T01:48:24Z</time>
+    </trkpt>
+    <trkpt lat="49.3926796" lon="21.8231537">
+      <ele>846</ele>
+      <time>2022-01-18T01:48:30Z</time>
+    </trkpt>
+    <trkpt lat="49.3924771" lon="21.8235185">
+      <ele>844</ele>
+      <time>2022-01-18T01:49:05Z</time>
+    </trkpt>
+    <trkpt lat="49.3922745" lon="21.8238618">
+      <ele>841</ele>
+      <time>2022-01-18T01:49:39Z</time>
+    </trkpt>
+    <trkpt lat="49.3921838" lon="21.8240979">
+      <ele>839</ele>
+      <time>2022-01-18T01:49:59Z</time>
+    </trkpt>
+    <trkpt lat="49.3917857" lon="21.8244519">
+      <ele>835</ele>
+      <time>2022-01-18T01:50:51Z</time>
+    </trkpt>
+    <trkpt lat="49.3914715" lon="21.8247094">
+      <ele>832</ele>
+      <time>2022-01-18T01:51:30Z</time>
+    </trkpt>
+    <trkpt lat="49.391248" lon="21.8249347">
+      <ele>830</ele>
+      <time>2022-01-18T01:52:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3910664" lon="21.8252673">
+      <ele>828</ele>
+      <time>2022-01-18T01:52:32Z</time>
+    </trkpt>
+    <trkpt lat="49.3907712" lon="21.8258228">
+      <ele>826</ele>
+      <time>2022-01-18T01:53:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

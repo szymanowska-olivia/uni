@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:42Z</time>
+    <bounds maxlat="50.4413356" maxlon="18.8592862" minlat="50.441174" minlon="18.8579643"/>
+  </metadata>
+  <wpt lat="50.441336" lon="18.857964">
+    <ele>303</ele>
+    <name>Tarnowskie Gory, ul. Legionow</name>
+    <link href="https://mapa-turystyczna.pl/node/12516">
+      <text>Tarnowskie Gory, ul. Legionow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.441174" lon="18.859286">
+    <ele>301</ele>
+    <name>Tarnowskie Gory, ul. Karluszowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/12517">
+      <text>Tarnowskie Gory, ul. Karluszowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, ul. Legionow - Tarnowskie Gory, ul. Karluszowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4413356,18.8579643;50.44128740001362,18.85852955000001;50.441174,18.8592862">
+    <text>Tarnowskie Gory, ul. Legionow - Tarnowskie Gory, ul. Karluszowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4413356" lon="18.8579643">
+      <ele>303</ele>
+      <time>2022-01-18T01:31:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4413233" lon="18.8581889">
+      <ele>303</ele>
+      <time>2022-01-18T01:31:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4412515" lon="18.8588702">
+      <ele>302</ele>
+      <time>2022-01-18T01:32:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4412276" lon="18.8590741">
+      <ele>301</ele>
+      <time>2022-01-18T01:32:32Z</time>
+    </trkpt>
+    <trkpt lat="50.441174" lon="18.8592862">
+      <ele>301</ele>
+      <time>2022-01-18T01:32:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

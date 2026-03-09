@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:16Z</time>
+    <bounds maxlat="53.971194" maxlon="14.7695992" minlat="53.9704134" minlon="14.7692194"/>
+  </metadata>
+  <wpt lat="53.971194" lon="14.769219">
+    <ele>16</ele>
+    <name>Kamien Pomorski, ul. Jagielly</name>
+    <link href="https://mapa-turystyczna.pl/node/8606">
+      <text>Kamien Pomorski, ul. Jagielly</text>
+    </link>
+  </wpt>
+  <wpt lat="53.970413" lon="14.769477">
+    <ele>17</ele>
+    <name>Kamien Pomorski, ul. Wysockiego</name>
+    <link href="https://mapa-turystyczna.pl/node/8607">
+      <text>Kamien Pomorski, ul. Wysockiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Jagielly - Kamien Pomorski, ul. Wysockiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.971194,14.7692194;53.970668450671944,14.769529450000034;53.9704134,14.7694768">
+    <text>Kamien Pomorski, ul. Jagielly - Kamien Pomorski, ul. Wysockiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.971194" lon="14.7692194">
+      <ele>16</ele>
+      <time>2022-01-17T23:51:16Z</time>
+    </trkpt>
+    <trkpt lat="53.9709051" lon="14.7694597">
+      <ele>16</ele>
+      <time>2022-01-17T23:52:00Z</time>
+    </trkpt>
+    <trkpt lat="53.9704318" lon="14.7695992">
+      <ele>17</ele>
+      <time>2022-01-17T23:53:06Z</time>
+    </trkpt>
+    <trkpt lat="53.9704134" lon="14.7694768">
+      <ele>17</ele>
+      <time>2022-01-17T23:53:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

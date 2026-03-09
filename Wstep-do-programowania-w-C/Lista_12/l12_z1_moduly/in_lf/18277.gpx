@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:18Z</time>
+    <bounds maxlat="52.3079932" maxlon="20.6113815" minlat="52.3077103" minlon="20.6106274"/>
+  </metadata>
+  <wpt lat="52.307809" lon="20.611382">
+    <ele>77</ele>
+    <name>Roztoka</name>
+    <link href="https://mapa-turystyczna.pl/node/5015">
+      <text>Roztoka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.30771" lon="20.610627">
+    <ele>79</ele>
+    <name>Roztoka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12404">
+      <text>Roztoka, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roztoka - Roztoka, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3078095,20.6113815;52.30790135009528,20.611137449999998;52.3077103,20.6106274">
+    <text>Roztoka - Roztoka, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3078095" lon="20.6113815">
+      <ele>77</ele>
+      <time>2022-01-18T01:28:18Z</time>
+    </trkpt>
+    <trkpt lat="52.3079932" lon="20.6108934">
+      <ele>77</ele>
+      <time>2022-01-18T01:28:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3077103" lon="20.6106274">
+      <ele>79</ele>
+      <time>2022-01-18T01:29:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:44Z</time>
+    <bounds maxlat="50.3373273" maxlon="16.38701" minlat="50.3367266" minlon="16.3859876"/>
+  </metadata>
+  <wpt lat="50.337327" lon="16.385988">
+    <ele>866</ele>
+    <name>Zieleniec</name>
+    <link href="https://mapa-turystyczna.pl/node/9372">
+      <text>Zieleniec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.336727" lon="16.38701">
+    <ele>868</ele>
+    <name>Zieleniec, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/7828">
+      <text>Zieleniec, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zieleniec - Zieleniec, odejscie szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3373273,16.3859876;50.337026950949486,16.386498800000016;50.3367266,16.38701">
+    <text>Zieleniec - Zieleniec, odejscie szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3373273" lon="16.3859876">
+      <ele>866</ele>
+      <time>2022-01-18T00:09:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3367266" lon="16.38701">
+      <ele>868</ele>
+      <time>2022-01-18T00:11:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

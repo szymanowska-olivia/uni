@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:06Z</time>
+    <bounds maxlat="50.7475513" maxlon="15.5124593" minlat="50.7419014" minlon="15.5118585"/>
+  </metadata>
+  <wpt lat="50.747551" lon="15.512459">
+    <ele>1131</ele>
+    <name>Chata Dvoracky</name>
+    <link href="https://mapa-turystyczna.pl/node/1107">
+      <text>Chata Dvoracky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.741923" lon="15.51188">
+    <ele>1026</ele>
+    <name>Sedlo pod Dvorackami</name>
+    <link href="https://mapa-turystyczna.pl/node/1361">
+      <text>Sedlo pod Dvorackami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Dvoracky - Sedlo pod Dvorackami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7475513,15.5124593;50.74426175358427,15.512223199999985;50.7419229,15.5118799">
+    <text>Chata Dvoracky - Sedlo pod Dvorackami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7475513" lon="15.5124593">
+      <ele>1131</ele>
+      <time>2022-01-17T21:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7461715" lon="15.512352">
+      <ele>1099</ele>
+      <time>2022-01-17T21:03:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7448411" lon="15.5122232">
+      <ele>1066</ele>
+      <time>2022-01-17T21:05:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7436824" lon="15.5122232">
+      <ele>1044</ele>
+      <time>2022-01-17T21:07:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7419014" lon="15.5118585">
+      <ele>1026</ele>
+      <time>2022-01-17T21:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7419229" lon="15.5118799">
+      <ele>1026</ele>
+      <time>2022-01-17T21:11:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:47Z</time>
+    <bounds maxlat="50.733176" maxlon="19.2886448" minlat="50.7320752" minlon="19.2885416"/>
+  </metadata>
+  <wpt lat="50.732075" lon="19.288559">
+    <ele>314</ele>
+    <name>Sokole Gory</name>
+    <link href="https://mapa-turystyczna.pl/node/4530">
+      <text>Sokole Gory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.733176" lon="19.288636">
+    <ele>314</ele>
+    <name>Skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/8686">
+      <text>Skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sokole Gory - Skrzyzowanie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7320752,19.2885589;50.73269590009656,19.288589850000022;50.733176,19.288636">
+    <text>Sokole Gory - Skrzyzowanie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7320752" lon="19.2885589">
+      <ele>314</ele>
+      <time>2022-01-17T23:53:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7323835" lon="19.2885952">
+      <ele>314</ele>
+      <time>2022-01-17T23:54:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7326008" lon="19.2885416">
+      <ele>314</ele>
+      <time>2022-01-17T23:54:44Z</time>
+    </trkpt>
+    <trkpt lat="50.732791" lon="19.2886381">
+      <ele>314</ele>
+      <time>2022-01-17T23:55:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7331686" lon="19.2886448">
+      <ele>314</ele>
+      <time>2022-01-17T23:55:46Z</time>
+    </trkpt>
+    <trkpt lat="50.733176" lon="19.288636">
+      <ele>314</ele>
+      <time>2022-01-17T23:55:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

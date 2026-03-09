@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:36Z</time>
+    <bounds maxlat="50.8371025" maxlon="16.2938243" minlat="50.8369874" minlon="16.2929553"/>
+  </metadata>
+  <wpt lat="50.836987" lon="16.293824">
+    <ele>405</ele>
+    <name>Skrzyzowanie przy ruinach zamku Stary Ksiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/2600">
+      <text>Skrzyzowanie przy ruinach zamku Stary Ksiaz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.837103" lon="16.292955">
+    <ele>411</ele>
+    <name>Rozdroze pod Starym Ksiazem</name>
+    <link href="https://mapa-turystyczna.pl/node/2599">
+      <text>Rozdroze pod Starym Ksiazem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy ruinach zamku Stary Ksiaz - Rozdroze pod Starym Ksiazem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8369874,16.2938243;50.83702470000004,16.293324650000027;50.8371025,16.2929553">
+    <text>Skrzyzowanie przy ruinach zamku Stary Ksiaz - Rozdroze pod Starym Ksiazem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8369874" lon="16.2938243">
+      <ele>405</ele>
+      <time>2022-01-17T21:33:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8369971" lon="16.2936168">
+      <ele>407</ele>
+      <time>2022-01-17T21:34:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8370266" lon="16.2934443">
+      <ele>410</ele>
+      <time>2022-01-17T21:34:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8370228" lon="16.293205">
+      <ele>411</ele>
+      <time>2022-01-17T21:34:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8371025" lon="16.2929553">
+      <ele>411</ele>
+      <time>2022-01-17T21:35:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

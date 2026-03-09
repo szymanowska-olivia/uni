@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:01Z</time>
+    <bounds maxlat="52.1136992" maxlon="21.2669216" minlat="52.1094299" minlon="21.2648778"/>
+  </metadata>
+  <wpt lat="52.113699" lon="21.265882">
+    <ele>100</ele>
+    <name>Otwock, ul. Goldflama</name>
+    <link href="https://mapa-turystyczna.pl/node/12926">
+      <text>Otwock, ul. Goldflama</text>
+    </link>
+  </wpt>
+  <wpt lat="52.10943" lon="21.266661">
+    <ele>96</ele>
+    <name>Otwock, ul. Malawskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12927">
+      <text>Otwock, ul. Malawskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Goldflama - Otwock, ul. Malawskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1136992,21.2658824;52.11161020168047,21.265899700000002;52.1094299,21.2666608">
+    <text>Otwock, ul. Goldflama - Otwock, ul. Malawskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1136992" lon="21.2658824">
+      <ele>100</ele>
+      <time>2022-01-18T01:43:01Z</time>
+    </trkpt>
+    <trkpt lat="52.1136082" lon="21.2659721">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1135549" lon="21.2658924">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:21Z</time>
+    </trkpt>
+    <trkpt lat="52.1134435" lon="21.2658916">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:33Z</time>
+    </trkpt>
+    <trkpt lat="52.1130482" lon="21.2660097">
+      <ele>100</ele>
+      <time>2022-01-18T01:44:17Z</time>
+    </trkpt>
+    <trkpt lat="52.1127648" lon="21.266133">
+      <ele>101</ele>
+      <time>2022-01-18T01:44:49Z</time>
+    </trkpt>
+    <trkpt lat="52.1122345" lon="21.2667339">
+      <ele>98</ele>
+      <time>2022-01-18T01:46:00Z</time>
+    </trkpt>
+    <trkpt lat="52.1119973" lon="21.2669216">
+      <ele>98</ele>
+      <time>2022-01-18T01:46:29Z</time>
+    </trkpt>
+    <trkpt lat="52.1112231" lon="21.2648778">
+      <ele>98</ele>
+      <time>2022-01-18T01:49:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1109134" lon="21.2651889">
+      <ele>99</ele>
+      <time>2022-01-18T01:49:50Z</time>
+    </trkpt>
+    <trkpt lat="52.1103599" lon="21.2657629">
+      <ele>98</ele>
+      <time>2022-01-18T01:51:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1094299" lon="21.2666608">
+      <ele>96</ele>
+      <time>2022-01-18T01:53:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

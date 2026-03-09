@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:26:02Z</time>
+    <bounds maxlat="49.1503803" maxlon="18.8462949" minlat="49.1473627" minlon="18.84372"/>
+  </metadata>
+  <wpt lat="49.15038" lon="18.84372">
+    <ele>968</ele>
+    <name>Sedlo Javorina</name>
+    <link href="https://mapa-turystyczna.pl/node/5174">
+      <text>Sedlo Javorina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.147363" lon="18.846295">
+    <ele>1018</ele>
+    <name>Stracniky</name>
+    <link href="https://mapa-turystyczna.pl/node/5241">
+      <text>Stracniky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Javorina - Stracniky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1503803,18.84372;49.14864695068037,18.844379749999995;49.1473627,18.8462949">
+    <text>Sedlo Javorina - Stracniky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1503803" lon="18.84372">
+      <ele>968</ele>
+      <time>2022-01-17T22:26:02Z</time>
+    </trkpt>
+    <trkpt lat="49.1498891" lon="18.8439345">
+      <ele>978</ele>
+      <time>2022-01-17T22:27:26Z</time>
+    </trkpt>
+    <trkpt lat="49.1489066" lon="18.8440847">
+      <ele>1013</ele>
+      <time>2022-01-17T22:30:14Z</time>
+    </trkpt>
+    <trkpt lat="49.1483873" lon="18.8446748">
+      <ele>1016</ele>
+      <time>2022-01-17T22:31:59Z</time>
+    </trkpt>
+    <trkpt lat="49.1479732" lon="18.8455921">
+      <ele>1010</ele>
+      <time>2022-01-17T22:33:57Z</time>
+    </trkpt>
+    <trkpt lat="49.1473627" lon="18.8462949">
+      <ele>1018</ele>
+      <time>2022-01-17T22:36:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

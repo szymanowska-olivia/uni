@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:53Z</time>
+    <bounds maxlat="50.7936205" maxlon="15.340755" minlat="50.786828" minlon="15.3380164"/>
+  </metadata>
+  <wpt lat="50.793621" lon="15.34002">
+    <ele>1002</ele>
+    <name>Zamky</name>
+    <link href="https://mapa-turystyczna.pl/node/3091">
+      <text>Zamky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.786828" lon="15.340755">
+    <ele>870</ele>
+    <name>Pod Zamky</name>
+    <link href="https://mapa-turystyczna.pl/node/3090">
+      <text>Pod Zamky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamky - Pod Zamky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7936205,15.3400201;50.78938282127051,15.338962600000032;50.786828,15.340755">
+    <text>Zamky - Pod Zamky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7936205" lon="15.3400201">
+      <ele>1002</ele>
+      <time>2022-01-17T21:42:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7932992" lon="15.3388184">
+      <ele>991</ele>
+      <time>2022-01-17T21:44:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7925688" lon="15.3380164">
+      <ele>973</ele>
+      <time>2022-01-17T21:46:11Z</time>
+    </trkpt>
+    <trkpt lat="50.790793" lon="15.338404">
+      <ele>945</ele>
+      <time>2022-01-17T21:49:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7879726" lon="15.3395212">
+      <ele>884</ele>
+      <time>2022-01-17T21:55:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7872193" lon="15.3404305">
+      <ele>875</ele>
+      <time>2022-01-17T21:57:02Z</time>
+    </trkpt>
+    <trkpt lat="50.786828" lon="15.340755">
+      <ele>870</ele>
+      <time>2022-01-17T21:57:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

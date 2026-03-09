@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:15Z</time>
+    <bounds maxlat="50.24057" maxlon="17.1392727" minlat="50.237736" minlon="17.1301961"/>
+  </metadata>
+  <wpt lat="50.24057" lon="17.130196">
+    <ele>683</ele>
+    <name>Chata Smrcnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2180">
+      <text>Chata Smrcnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.237736" lon="17.139273">
+    <ele>651</ele>
+    <name>Sedlo Smrcnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2181">
+      <text>Sedlo Smrcnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Smrcnik - Sedlo Smrcnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.24057,17.1301961;50.23971615026266,17.13466870000003;50.237736,17.1392727">
+    <text>Chata Smrcnik - Sedlo Smrcnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.24057" lon="17.1301961">
+      <ele>683</ele>
+      <time>2022-01-17T21:24:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2401883" lon="17.1303329">
+      <ele>689</ele>
+      <time>2022-01-17T21:25:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2399151" lon="17.1308412">
+      <ele>700</ele>
+      <time>2022-01-17T21:26:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2398094" lon="17.1316049">
+      <ele>699</ele>
+      <time>2022-01-17T21:27:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2398409" lon="17.1323901">
+      <ele>699</ele>
+      <time>2022-01-17T21:28:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2398744" lon="17.1337554">
+      <ele>705</ele>
+      <time>2022-01-17T21:30:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2395579" lon="17.135582">
+      <ele>700</ele>
+      <time>2022-01-17T21:32:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2391213" lon="17.1367058">
+      <ele>688</ele>
+      <time>2022-01-17T21:34:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2388768" lon="17.1379369">
+      <ele>660</ele>
+      <time>2022-01-17T21:36:12Z</time>
+    </trkpt>
+    <trkpt lat="50.237929" lon="17.1389267">
+      <ele>656</ele>
+      <time>2022-01-17T21:38:37Z</time>
+    </trkpt>
+    <trkpt lat="50.237736" lon="17.1392727">
+      <ele>651</ele>
+      <time>2022-01-17T21:39:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

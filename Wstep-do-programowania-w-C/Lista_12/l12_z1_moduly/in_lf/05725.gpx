@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:10Z</time>
+    <bounds maxlat="49.3907308" maxlon="22.5786424" minlat="49.3866961" minlon="22.5712816"/>
+  </metadata>
+  <wpt lat="49.386696" lon="22.578642">
+    <ele>736</ele>
+    <name>Zukow, Bucznik</name>
+    <link href="https://mapa-turystyczna.pl/node/3980">
+      <text>Zukow, Bucznik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.390731" lon="22.571282">
+    <ele>766</ele>
+    <name>Zawal</name>
+    <link href="https://mapa-turystyczna.pl/node/3979">
+      <text>Zawal</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zukow, Bucznik - Zawal</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3866961,22.5786424;49.388463108132335,22.57562630000003;49.3907308,22.5712816">
+    <text>Zukow, Bucznik - Zawal</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3866961" lon="22.5786424">
+      <ele>736</ele>
+      <time>2022-01-17T22:00:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3875692" lon="22.577182">
+      <ele>755</ele>
+      <time>2022-01-17T22:03:16Z</time>
+    </trkpt>
+    <trkpt lat="49.389357" lon="22.5740706">
+      <ele>755</ele>
+      <time>2022-01-17T22:09:43Z</time>
+    </trkpt>
+    <trkpt lat="49.3898884" lon="22.572779">
+      <ele>759</ele>
+      <time>2022-01-17T22:12:05Z</time>
+    </trkpt>
+    <trkpt lat="49.3907308" lon="22.5712816">
+      <ele>766</ele>
+      <time>2022-01-17T22:15:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

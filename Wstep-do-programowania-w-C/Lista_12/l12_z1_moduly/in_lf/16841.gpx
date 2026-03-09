@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:54Z</time>
+    <bounds maxlat="52.0470693" maxlon="21.2506425" minlat="52.046911" minlon="21.2465154"/>
+  </metadata>
+  <wpt lat="52.047062" lon="21.246515">
+    <ele>89</ele>
+    <name>Otwock Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/11461">
+      <text>Otwock Wielki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.047069" lon="21.250643">
+    <ele>90</ele>
+    <name>Otwock Wielki, ul. Wislana</name>
+    <link href="https://mapa-turystyczna.pl/node/11519">
+      <text>Otwock Wielki, ul. Wislana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock Wielki - Otwock Wielki, ul. Wislana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.047062,21.2465154;52.04693740000779,21.249041400000024;52.0470693,21.2506425">
+    <text>Otwock Wielki - Otwock Wielki, ul. Wislana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.047062" lon="21.2465154">
+      <ele>89</ele>
+      <time>2022-01-18T01:03:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0469704" lon="21.2473516">
+      <ele>87</ele>
+      <time>2022-01-18T01:04:55Z</time>
+    </trkpt>
+    <trkpt lat="52.046911" lon="21.2483601">
+      <ele>85</ele>
+      <time>2022-01-18T01:06:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0469638" lon="21.2497227">
+      <ele>87</ele>
+      <time>2022-01-18T01:07:47Z</time>
+    </trkpt>
+    <trkpt lat="52.0470693" lon="21.2506425">
+      <ele>90</ele>
+      <time>2022-01-18T01:08:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

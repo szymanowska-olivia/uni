@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:50:26Z</time>
+    <bounds maxlat="51.0916906" maxlon="15.4858088" minlat="51.0878495" minlon="15.4770219"/>
+  </metadata>
+  <wpt lat="51.087981" lon="15.485809">
+    <ele>322</ele>
+    <name>Gora Heleny</name>
+    <link href="https://mapa-turystyczna.pl/node/3555">
+      <text>Gora Heleny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.091691" lon="15.477022">
+    <ele>336</ele>
+    <name>Gradowek</name>
+    <link href="https://mapa-turystyczna.pl/node/3558">
+      <text>Gradowek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Heleny - Gradowek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0879809,15.4858088;51.08819150009291,15.479473449999972;51.0916906,15.4770219">
+    <text>Gora Heleny - Gradowek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0879809" lon="15.4858088">
+      <ele>322</ele>
+      <time>2022-01-17T21:50:26Z</time>
+    </trkpt>
+    <trkpt lat="51.0878495" lon="15.483765">
+      <ele>330</ele>
+      <time>2022-01-17T21:52:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0880281" lon="15.4817319">
+      <ele>329</ele>
+      <time>2022-01-17T21:55:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0880988" lon="15.4797041">
+      <ele>339</ele>
+      <time>2022-01-17T21:57:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0882842" lon="15.4792428">
+      <ele>342</ele>
+      <time>2022-01-17T21:58:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0891131" lon="15.4789853">
+      <ele>329</ele>
+      <time>2022-01-17T21:59:59Z</time>
+    </trkpt>
+    <trkpt lat="51.0901171" lon="15.4785132">
+      <ele>331</ele>
+      <time>2022-01-17T22:01:57Z</time>
+    </trkpt>
+    <trkpt lat="51.0902654" lon="15.478414">
+      <ele>332</ele>
+      <time>2022-01-17T22:02:16Z</time>
+    </trkpt>
+    <trkpt lat="51.090919" lon="15.4776925">
+      <ele>337</ele>
+      <time>2022-01-17T22:03:46Z</time>
+    </trkpt>
+    <trkpt lat="51.0911347" lon="15.4775047">
+      <ele>338</ele>
+      <time>2022-01-17T22:04:14Z</time>
+    </trkpt>
+    <trkpt lat="51.0913739" lon="15.4773599">
+      <ele>337</ele>
+      <time>2022-01-17T22:04:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0916906" lon="15.4770219">
+      <ele>336</ele>
+      <time>2022-01-17T22:05:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

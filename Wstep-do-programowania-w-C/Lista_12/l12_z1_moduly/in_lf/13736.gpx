@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:50Z</time>
+    <bounds maxlat="50.2573703" maxlon="19.0213546" minlat="50.2563893" minlon="19.0208025"/>
+  </metadata>
+  <wpt lat="50.25737" lon="19.021355">
+    <ele>269</ele>
+    <name>Katowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9341">
+      <text>Katowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.256389" lon="19.020802">
+    <ele>273</ele>
+    <name>Katowice, kino Rialto</name>
+    <link href="https://mapa-turystyczna.pl/node/9443">
+      <text>Katowice, kino Rialto</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowice - Katowice, kino Rialto</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2573703,19.0213546;50.25704005064888,19.02121919999998;50.2563893,19.0208025">
+    <text>Katowice - Katowice, kino Rialto</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2573703" lon="19.0213546">
+      <ele>269</ele>
+      <time>2022-01-18T00:11:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2572887" lon="19.0213211">
+      <ele>268</ele>
+      <time>2022-01-18T00:12:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2567914" lon="19.0211173">
+      <ele>269</ele>
+      <time>2022-01-18T00:12:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2564896" lon="19.0208491">
+      <ele>272</ele>
+      <time>2022-01-18T00:13:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2563893" lon="19.0208025">
+      <ele>273</ele>
+      <time>2022-01-18T00:13:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

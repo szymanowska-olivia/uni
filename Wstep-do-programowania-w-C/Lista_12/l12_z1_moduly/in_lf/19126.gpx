@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:46Z</time>
+    <bounds maxlat="52.1069609" maxlon="21.2845413" minlat="52.1055602" minlon="21.2747863"/>
+  </metadata>
+  <wpt lat="52.10556" lon="21.274786">
+    <ele>100</ele>
+    <name>Otwock, ul. Prusa</name>
+    <link href="https://mapa-turystyczna.pl/node/12934">
+      <text>Otwock, ul. Prusa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.105618" lon="21.284541">
+    <ele>107</ele>
+    <name>Otwock, ul. Konopnickiej</name>
+    <link href="https://mapa-turystyczna.pl/node/12933">
+      <text>Otwock, ul. Konopnickiej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Prusa - Otwock, ul. Konopnickiej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1055602,21.2747863;52.10680400027604,21.278083649999996;52.1056181,21.2845413">
+    <text>Otwock, ul. Prusa - Otwock, ul. Konopnickiej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1055602" lon="21.2747863">
+      <ele>100</ele>
+      <time>2022-01-18T01:42:46Z</time>
+    </trkpt>
+    <trkpt lat="52.1059395" lon="21.2750533">
+      <ele>102</ele>
+      <time>2022-01-18T01:43:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1069609" lon="21.2755415">
+      <ele>102</ele>
+      <time>2022-01-18T01:45:50Z</time>
+    </trkpt>
+    <trkpt lat="52.1066471" lon="21.2806258">
+      <ele>102</ele>
+      <time>2022-01-18T01:52:20Z</time>
+    </trkpt>
+    <trkpt lat="52.1056224" lon="21.2845258">
+      <ele>107</ele>
+      <time>2022-01-18T01:57:45Z</time>
+    </trkpt>
+    <trkpt lat="52.1056181" lon="21.2845413">
+      <ele>107</ele>
+      <time>2022-01-18T01:57:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

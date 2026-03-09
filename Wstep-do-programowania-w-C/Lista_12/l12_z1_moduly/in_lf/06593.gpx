@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:39Z</time>
+    <bounds maxlat="50.6745696" maxlon="19.4054228" minlat="50.6735565" minlon="19.4042265"/>
+  </metadata>
+  <wpt lat="50.67457" lon="19.404227">
+    <ele>334</ele>
+    <name>Ostreznik, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4492">
+      <text>Ostreznik, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.673556" lon="19.405423">
+    <ele>332</ele>
+    <name>Ostreznik, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4587">
+      <text>Ostreznik, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostreznik, rozejscie szlakow - Ostreznik, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6745696,19.4042265;50.67418715155805,19.40462350000001;50.6735565,19.4054228">
+    <text>Ostreznik, rozejscie szlakow - Ostreznik, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6745696" lon="19.4042265">
+      <ele>334</ele>
+      <time>2022-01-17T22:09:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6738047" lon="19.4050205">
+      <ele>332</ele>
+      <time>2022-01-17T22:11:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6736806" lon="19.4052055">
+      <ele>332</ele>
+      <time>2022-01-17T22:11:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6735565" lon="19.4054228">
+      <ele>332</ele>
+      <time>2022-01-17T22:11:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

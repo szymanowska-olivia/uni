@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:29Z</time>
+    <bounds maxlat="50.8669613" maxlon="15.8698583" minlat="50.8661335" minlon="15.8681792"/>
+  </metadata>
+  <wpt lat="50.866133" lon="15.869858">
+    <ele>565</ele>
+    <name>Husyckie Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/3035">
+      <text>Husyckie Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.866961" lon="15.868179">
+    <ele>533</ele>
+    <name>Przelaczka</name>
+    <link href="https://mapa-turystyczna.pl/node/3007">
+      <text>Przelaczka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Husyckie Skaly - Przelaczka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8661335,15.8698583;50.86642890017517,15.869034149999992;50.8669613,15.8681792">
+    <text>Husyckie Skaly - Przelaczka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8661335" lon="15.8698583">
+      <ele>565</ele>
+      <time>2022-01-17T21:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8663011" lon="15.8692373">
+      <ele>562</ele>
+      <time>2022-01-17T21:42:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8665567" lon="15.868831">
+      <ele>550</ele>
+      <time>2022-01-17T21:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8669613" lon="15.8681792">
+      <ele>533</ele>
+      <time>2022-01-17T21:43:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

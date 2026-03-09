@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:02Z</time>
+    <bounds maxlat="50.3911708" maxlon="16.9052982" minlat="50.3905706" minlon="16.9026214"/>
+  </metadata>
+  <wpt lat="50.390571" lon="16.902621">
+    <ele>900</ele>
+    <name>Borowkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2175">
+      <text>Borowkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.391171" lon="16.905298">
+    <ele>884</ele>
+    <name>Pod Borowkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2102">
+      <text>Pod Borowkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Borowkowa - Pod Borowkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3905706,16.9026214;50.39095895000333,16.904266249999996;50.3911708,16.9052982">
+    <text>Borowkowa - Pod Borowkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3905706" lon="16.9026214">
+      <ele>900</ele>
+      <time>2022-01-17T21:24:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3907046" lon="16.9032644">
+      <ele>901</ele>
+      <time>2022-01-17T21:24:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3909412" lon="16.903929">
+      <ele>897</ele>
+      <time>2022-01-17T21:25:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3909767" lon="16.9046035">
+      <ele>891</ele>
+      <time>2022-01-17T21:26:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3911708" lon="16.9052982">
+      <ele>884</ele>
+      <time>2022-01-17T21:27:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

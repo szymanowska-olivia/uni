@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:18:40Z</time>
+    <bounds maxlat="51.494899" maxlon="21.6243564" minlat="51.4931923" minlon="21.6209822"/>
+  </metadata>
+  <wpt lat="51.494899" lon="21.620982">
+    <ele>151</ele>
+    <name>Polanka, plaza</name>
+    <link href="https://mapa-turystyczna.pl/node/12049">
+      <text>Polanka, plaza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.493192" lon="21.624356">
+    <ele>155</ele>
+    <name>Rezerwat Krepiec</name>
+    <link href="https://mapa-turystyczna.pl/node/12048">
+      <text>Rezerwat Krepiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polanka, plaza - Rezerwat Krepiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.494899,21.6209822;51.49407190014989,21.62299204999999;51.4931923,21.6243564">
+    <text>Polanka, plaza - Rezerwat Krepiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.494899" lon="21.6209822">
+      <ele>151</ele>
+      <time>2022-01-18T01:18:40Z</time>
+    </trkpt>
+    <trkpt lat="51.4947899" lon="21.6211574">
+      <ele>153</ele>
+      <time>2022-01-18T01:18:57Z</time>
+    </trkpt>
+    <trkpt lat="51.494663" lon="21.6214471">
+      <ele>158</ele>
+      <time>2022-01-18T01:19:22Z</time>
+    </trkpt>
+    <trkpt lat="51.4944025" lon="21.622123">
+      <ele>163</ele>
+      <time>2022-01-18T01:20:16Z</time>
+    </trkpt>
+    <trkpt lat="51.4941888" lon="21.6227131">
+      <ele>162</ele>
+      <time>2022-01-18T01:21:02Z</time>
+    </trkpt>
+    <trkpt lat="51.493955" lon="21.623271">
+      <ele>164</ele>
+      <time>2022-01-18T01:21:48Z</time>
+    </trkpt>
+    <trkpt lat="51.4936477" lon="21.6237001">
+      <ele>161</ele>
+      <time>2022-01-18T01:22:33Z</time>
+    </trkpt>
+    <trkpt lat="51.4931923" lon="21.6243564">
+      <ele>155</ele>
+      <time>2022-01-18T01:23:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

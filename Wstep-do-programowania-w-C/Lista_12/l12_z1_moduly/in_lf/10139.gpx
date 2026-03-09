@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:58Z</time>
+    <bounds maxlat="51.0715707" maxlon="16.0657293" minlat="51.0710661" minlon="16.0641695"/>
+  </metadata>
+  <wpt lat="51.071066" lon="16.065424">
+    <ele>261</ele>
+    <name>Bogaczow</name>
+    <link href="https://mapa-turystyczna.pl/node/3326">
+      <text>Bogaczow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.071571" lon="16.064169">
+    <ele>270</ele>
+    <name>Bogaczow, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/7135">
+      <text>Bogaczow, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bogaczow - Bogaczow, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0710661,16.0654235;51.07132230000049,16.065090899999976;51.0715707,16.0641695">
+    <text>Bogaczow - Bogaczow, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0710661" lon="16.0654235">
+      <ele>261</ele>
+      <time>2022-01-17T23:10:58Z</time>
+    </trkpt>
+    <trkpt lat="51.0712684" lon="16.0656971">
+      <ele>260</ele>
+      <time>2022-01-17T23:11:32Z</time>
+    </trkpt>
+    <trkpt lat="51.0713257" lon="16.0657293">
+      <ele>260</ele>
+      <time>2022-01-17T23:11:40Z</time>
+    </trkpt>
+    <trkpt lat="51.0713729" lon="16.0656703">
+      <ele>259</ele>
+      <time>2022-01-17T23:11:47Z</time>
+    </trkpt>
+    <trkpt lat="51.0713661" lon="16.0655469">
+      <ele>260</ele>
+      <time>2022-01-17T23:11:57Z</time>
+    </trkpt>
+    <trkpt lat="51.0713594" lon="16.0653645">
+      <ele>261</ele>
+      <time>2022-01-17T23:12:12Z</time>
+    </trkpt>
+    <trkpt lat="51.071329" lon="16.0652143">
+      <ele>262</ele>
+      <time>2022-01-17T23:12:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0713156" lon="16.0649675">
+      <ele>263</ele>
+      <time>2022-01-17T23:12:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0713493" lon="16.0647368">
+      <ele>265</ele>
+      <time>2022-01-17T23:13:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0714841" lon="16.0643936">
+      <ele>269</ele>
+      <time>2022-01-17T23:13:37Z</time>
+    </trkpt>
+    <trkpt lat="51.0715707" lon="16.0641695">
+      <ele>270</ele>
+      <time>2022-01-17T23:13:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

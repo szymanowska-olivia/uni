@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:48Z</time>
+    <bounds maxlat="50.8004364" maxlon="15.7313705" minlat="50.7979342" minlon="15.7293722"/>
+  </metadata>
+  <wpt lat="50.800436" lon="15.729976">
+    <ele>695</ele>
+    <name>Domek Mysliwski</name>
+    <link href="https://mapa-turystyczna.pl/node/1369">
+      <text>Domek Mysliwski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.797934" lon="15.731371">
+    <ele>724</ele>
+    <name>Przelaczka pod Grabowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/1314">
+      <text>Przelaczka pod Grabowcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Domek Mysliwski - Przelaczka pod Grabowcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8004364,15.7299757;50.798913701347644,15.729453349999986;50.7979342,15.7313705">
+    <text>Domek Mysliwski - Przelaczka pod Grabowcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8004364" lon="15.7299757">
+      <ele>695</ele>
+      <time>2022-01-17T21:07:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8002006" lon="15.7299113">
+      <ele>701</ele>
+      <time>2022-01-17T21:08:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7997978" lon="15.7294285">
+      <ele>703</ele>
+      <time>2022-01-17T21:09:56Z</time>
+    </trkpt>
+    <trkpt lat="50.799549" lon="15.729391">
+      <ele>710</ele>
+      <time>2022-01-17T21:10:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7992686" lon="15.7293722">
+      <ele>716</ele>
+      <time>2022-01-17T21:11:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7985588" lon="15.7295345">
+      <ele>720</ele>
+      <time>2022-01-17T21:13:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7982242" lon="15.7297122">
+      <ele>718</ele>
+      <time>2022-01-17T21:14:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7980366" lon="15.7299512">
+      <ele>719</ele>
+      <time>2022-01-17T21:15:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7979439" lon="15.7305765">
+      <ele>720</ele>
+      <time>2022-01-17T21:16:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7979603" lon="15.73129">
+      <ele>724</ele>
+      <time>2022-01-17T21:17:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7979342" lon="15.7313705">
+      <ele>724</ele>
+      <time>2022-01-17T21:17:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

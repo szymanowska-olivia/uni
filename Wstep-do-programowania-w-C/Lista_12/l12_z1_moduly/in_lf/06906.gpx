@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:14:42Z</time>
+    <bounds maxlat="49.653519" maxlon="19.993958" minlat="49.652615" minlon="19.991854"/>
+  </metadata>
+  <wpt lat="49.653519" lon="19.991854">
+    <ele>1022</ele>
+    <name>Schronisko PTTK na Luboniu Wielkim</name>
+    <link href="https://mapa-turystyczna.pl/node/928">
+      <text>Schronisko PTTK na Luboniu Wielkim</text>
+    </link>
+  </wpt>
+  <wpt lat="49.652615" lon="19.993958">
+    <ele>1013</ele>
+    <name>Skrzyzowanie na Luboniu</name>
+    <link href="https://mapa-turystyczna.pl/node/4737">
+      <text>Skrzyzowanie na Luboniu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK na Luboniu Wielkim - Skrzyzowanie na Luboniu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.653519,19.991854;49.65291500017899,19.993110499999993;49.652615,19.993958">
+    <text>Schronisko PTTK na Luboniu Wielkim - Skrzyzowanie na Luboniu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.653519" lon="19.991854">
+      <ele>1022</ele>
+      <time>2022-01-17T22:14:42Z</time>
+    </trkpt>
+    <trkpt lat="49.653414" lon="19.992063">
+      <ele>1024</ele>
+      <time>2022-01-17T22:15:01Z</time>
+    </trkpt>
+    <trkpt lat="49.653194" lon="19.992509">
+      <ele>1026</ele>
+      <time>2022-01-17T22:15:40Z</time>
+    </trkpt>
+    <trkpt lat="49.653047" lon="19.992869">
+      <ele>1022</ele>
+      <time>2022-01-17T22:16:10Z</time>
+    </trkpt>
+    <trkpt lat="49.652783" lon="19.993352">
+      <ele>1017</ele>
+      <time>2022-01-17T22:16:55Z</time>
+    </trkpt>
+    <trkpt lat="49.652686" lon="19.993615">
+      <ele>1015</ele>
+      <time>2022-01-17T22:17:17Z</time>
+    </trkpt>
+    <trkpt lat="49.652615" lon="19.993958">
+      <ele>1013</ele>
+      <time>2022-01-17T22:17:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

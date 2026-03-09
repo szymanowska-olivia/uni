@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:19Z</time>
+    <bounds maxlat="50.252564" maxlon="18.5087337" minlat="50.2511407" minlon="18.5071874"/>
+  </metadata>
+  <wpt lat="50.252564" lon="18.508734">
+    <ele>218</ele>
+    <name>Trachy</name>
+    <link href="https://mapa-turystyczna.pl/node/9586">
+      <text>Trachy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.251141" lon="18.507187">
+    <ele>216</ele>
+    <name>Trachy, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/9658">
+      <text>Trachy, przystanek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trachy - Trachy, przystanek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.252564,18.5087337;50.251852355314284,18.50796055;50.2511407,18.5071874">
+    <text>Trachy - Trachy, przystanek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.252564" lon="18.5087337">
+      <ele>218</ele>
+      <time>2022-01-18T00:17:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2511407" lon="18.5071874">
+      <ele>216</ele>
+      <time>2022-01-18T00:20:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

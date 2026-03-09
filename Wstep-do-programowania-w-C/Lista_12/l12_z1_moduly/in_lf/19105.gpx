@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:31Z</time>
+    <bounds maxlat="52.1488374" maxlon="21.7400484" minlat="52.1469162" minlon="21.7365276"/>
+  </metadata>
+  <wpt lat="52.146916" lon="21.740048">
+    <ele>168</ele>
+    <name>Ceglow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12923">
+      <text>Ceglow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.148327" lon="21.736528">
+    <ele>166</ele>
+    <name>Ceglow, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12114">
+      <text>Ceglow, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceglow, ul. Kolejowa - Ceglow, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1469162,21.7400484;52.14862510050613,21.739455600000017;52.1483272,21.7365276">
+    <text>Ceglow, ul. Kolejowa - Ceglow, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1469162" lon="21.7400484">
+      <ele>168</ele>
+      <time>2022-01-18T01:42:31Z</time>
+    </trkpt>
+    <trkpt lat="52.1481198" lon="21.7398821">
+      <ele>166</ele>
+      <time>2022-01-18T01:44:07Z</time>
+    </trkpt>
+    <trkpt lat="52.1484128" lon="21.7396621">
+      <ele>166</ele>
+      <time>2022-01-18T01:44:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1488374" lon="21.7392491">
+      <ele>166</ele>
+      <time>2022-01-18T01:45:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1484622" lon="21.7368243">
+      <ele>166</ele>
+      <time>2022-01-18T01:47:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1483272" lon="21.7365276">
+      <ele>166</ele>
+      <time>2022-01-18T01:47:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

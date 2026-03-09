@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:11Z</time>
+    <bounds maxlat="50.6705747" maxlon="15.7371747" minlat="50.6698325" minlon="15.730687"/>
+  </metadata>
+  <wpt lat="50.670575" lon="15.730687">
+    <ele>1126</ele>
+    <name>Prazska bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7990">
+      <text>Prazska bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670081" lon="15.737175">
+    <ele>1126</ele>
+    <name>Kolinska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1176">
+      <text>Kolinska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prazska bouda, rozc. - Kolinska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6705747,15.730687;50.669942100054605,15.733199750000013;50.6700809,15.7371747">
+    <text>Prazska bouda, rozc. - Kolinska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6705747" lon="15.730687">
+      <ele>1126</ele>
+      <time>2022-01-17T21:06:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6703702" lon="15.7314348">
+      <ele>1125</ele>
+      <time>2022-01-17T21:06:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6701947" lon="15.7319069">
+      <ele>1125</ele>
+      <time>2022-01-17T21:07:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6700137" lon="15.7325399">
+      <ele>1127</ele>
+      <time>2022-01-17T21:07:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6698705" lon="15.7338596">
+      <ele>1127</ele>
+      <time>2022-01-17T21:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6698395" lon="15.7344711">
+      <ele>1127</ele>
+      <time>2022-01-17T21:09:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6698325" lon="15.7352892">
+      <ele>1126</ele>
+      <time>2022-01-17T21:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6698492" lon="15.7356137">
+      <ele>1126</ele>
+      <time>2022-01-17T21:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6700595" lon="15.7369817">
+      <ele>1126</ele>
+      <time>2022-01-17T21:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6700809" lon="15.7371747">
+      <ele>1126</ele>
+      <time>2022-01-17T21:11:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

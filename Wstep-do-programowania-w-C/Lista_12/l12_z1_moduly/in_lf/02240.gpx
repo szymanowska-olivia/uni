@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:13:40Z</time>
+    <bounds maxlat="49.242165" maxlon="19.778418" minlat="49.241287" minlon="19.776137"/>
+  </metadata>
+  <wpt lat="49.242165" lon="19.776137">
+    <ele>1356</ele>
+    <name>Bobrowiecka Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1543">
+      <text>Bobrowiecka Przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.241287" lon="19.778418">
+    <ele>1334</ele>
+    <name>Odejscie na Bobrowiecka Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/181">
+      <text>Odejscie na Bobrowiecka Przelecz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bobrowiecka Przelecz - Odejscie na Bobrowiecka Przelecz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.242165,19.776137;49.24176700024326,19.777081999999975;49.241287,19.778418">
+    <text>Bobrowiecka Przelecz - Odejscie na Bobrowiecka Przelecz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.242165" lon="19.776137">
+      <ele>1356</ele>
+      <time>2022-01-17T21:13:40Z</time>
+    </trkpt>
+    <trkpt lat="49.242058" lon="19.776286">
+      <ele>1357</ele>
+      <time>2022-01-17T21:14:05Z</time>
+    </trkpt>
+    <trkpt lat="49.241993" lon="19.776426">
+      <ele>1357</ele>
+      <time>2022-01-17T21:14:24Z</time>
+    </trkpt>
+    <trkpt lat="49.241922" lon="19.776592">
+      <ele>1356</ele>
+      <time>2022-01-17T21:14:46Z</time>
+    </trkpt>
+    <trkpt lat="49.241612" lon="19.777572">
+      <ele>1349</ele>
+      <time>2022-01-17T21:16:48Z</time>
+    </trkpt>
+    <trkpt lat="49.241287" lon="19.778418">
+      <ele>1334</ele>
+      <time>2022-01-17T21:18:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:53Z</time>
+    <bounds maxlat="50.136858" maxlon="18.5938596" minlat="50.1311057" minlon="18.5748017"/>
+  </metadata>
+  <wpt lat="50.132562" lon="18.59386">
+    <ele>256</ele>
+    <name>Rybnik, Mlyny</name>
+    <link href="https://mapa-turystyczna.pl/node/9554">
+      <text>Rybnik, Mlyny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.136858" lon="18.574802">
+    <ele>271</ele>
+    <name>Kapliczka sw. Huberta</name>
+    <link href="https://mapa-turystyczna.pl/node/9555">
+      <text>Kapliczka sw. Huberta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik, Mlyny - Kapliczka sw. Huberta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.132562,18.5938596;50.1339819364411,18.579387850000007;50.136858,18.5748017">
+    <text>Rybnik, Mlyny - Kapliczka sw. Huberta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.132562" lon="18.5938596">
+      <ele>256</ele>
+      <time>2022-01-18T00:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1320678" lon="18.592717">
+      <ele>254</ele>
+      <time>2022-01-18T00:16:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1317858" lon="18.5914831">
+      <ele>248</ele>
+      <time>2022-01-18T00:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.131607" lon="18.5900562">
+      <ele>244</ele>
+      <time>2022-01-18T00:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1315313" lon="18.5891764">
+      <ele>246</ele>
+      <time>2022-01-18T00:20:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1316001" lon="18.5871487">
+      <ele>258</ele>
+      <time>2022-01-18T00:22:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1311057" lon="18.583974">
+      <ele>267</ele>
+      <time>2022-01-18T00:26:02Z</time>
+    </trkpt>
+    <trkpt lat="50.136858" lon="18.5748017">
+      <ele>271</ele>
+      <time>2022-01-18T00:39:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

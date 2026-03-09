@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:16Z</time>
+    <bounds maxlat="49.2352426" maxlon="22.5626479" minlat="49.2275004" minlon="22.5531828"/>
+  </metadata>
+  <wpt lat="49.234642" lon="22.562648">
+    <ele>499</ele>
+    <name>Sekowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/11325">
+      <text>Sekowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.2275" lon="22.553183">
+    <ele>512</ele>
+    <name>Zatwarnica</name>
+    <link href="https://mapa-turystyczna.pl/node/408">
+      <text>Zatwarnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sekowiec - Zatwarnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2346422,22.5626479;49.23211105091854,22.558171149999993;49.2275004,22.5531828">
+    <text>Sekowiec - Zatwarnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2346422" lon="22.5626479">
+      <ele>499</ele>
+      <time>2022-01-18T00:59:16Z</time>
+    </trkpt>
+    <trkpt lat="49.2347032" lon="22.562291">
+      <ele>501</ele>
+      <time>2022-01-18T00:59:42Z</time>
+    </trkpt>
+    <trkpt lat="49.2352426" lon="22.5606066">
+      <ele>503</ele>
+      <time>2022-01-18T01:01:55Z</time>
+    </trkpt>
+    <trkpt lat="49.2352286" lon="22.5598555">
+      <ele>500</ele>
+      <time>2022-01-18T01:02:48Z</time>
+    </trkpt>
+    <trkpt lat="49.2350324" lon="22.5594693">
+      <ele>501</ele>
+      <time>2022-01-18T01:03:23Z</time>
+    </trkpt>
+    <trkpt lat="49.2346822" lon="22.5591689">
+      <ele>506</ele>
+      <time>2022-01-18T01:04:07Z</time>
+    </trkpt>
+    <trkpt lat="49.2324123" lon="22.558375">
+      <ele>511</ele>
+      <time>2022-01-18T01:08:19Z</time>
+    </trkpt>
+    <trkpt lat="49.2318098" lon="22.5579673">
+      <ele>513</ele>
+      <time>2022-01-18T01:09:31Z</time>
+    </trkpt>
+    <trkpt lat="49.2301284" lon="22.556079">
+      <ele>511</ele>
+      <time>2022-01-18T01:13:17Z</time>
+    </trkpt>
+    <trkpt lat="49.2293997" lon="22.5546628">
+      <ele>509</ele>
+      <time>2022-01-18T01:15:25Z</time>
+    </trkpt>
+    <trkpt lat="49.2290914" lon="22.5543624">
+      <ele>510</ele>
+      <time>2022-01-18T01:16:04Z</time>
+    </trkpt>
+    <trkpt lat="49.2275004" lon="22.5531828">
+      <ele>512</ele>
+      <time>2022-01-18T01:19:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:24:48Z</time>
+    <bounds maxlat="50.2984644" maxlon="19.3924195" minlat="50.2972073" minlon="19.3912695"/>
+  </metadata>
+  <wpt lat="50.297208" lon="19.392419">
+    <ele>297</ele>
+    <name>Slawkow ul. Browarna</name>
+    <link href="https://mapa-turystyczna.pl/node/9936">
+      <text>Slawkow ul. Browarna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.298464" lon="19.391269">
+    <ele>307</ele>
+    <name>Slawkow, ul. Golebia</name>
+    <link href="https://mapa-turystyczna.pl/node/9937">
+      <text>Slawkow, ul. Golebia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slawkow ul. Browarna - Slawkow, ul. Golebia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2972079,19.3924195;50.29782255286999,19.39184394999998;50.2984644,19.3912695">
+    <text>Slawkow ul. Browarna - Slawkow, ul. Golebia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2972079" lon="19.3924195">
+      <ele>297</ele>
+      <time>2022-01-18T00:24:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2972073" lon="19.3924177">
+      <ele>297</ele>
+      <time>2022-01-18T00:24:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2973" lon="19.3922919">
+      <ele>299</ele>
+      <time>2022-01-18T00:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2983451" lon="19.391396">
+      <ele>306</ele>
+      <time>2022-01-18T00:27:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2984644" lon="19.3912695">
+      <ele>307</ele>
+      <time>2022-01-18T00:27:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:48Z</time>
+    <bounds maxlat="52.3110106" maxlon="20.8813834" minlat="52.3057628" minlon="20.8724785"/>
+  </metadata>
+  <wpt lat="52.311011" lon="20.872478">
+    <ele>89</ele>
+    <name>Przedluze</name>
+    <link href="https://mapa-turystyczna.pl/node/4982">
+      <text>Przedluze</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305763" lon="20.881383">
+    <ele>87</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5005">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przedluze - Skrzyzowanie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3110106,20.8724785;52.30801330194048,20.87708320000001;52.3057628,20.8813834">
+    <text>Przedluze - Skrzyzowanie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3110106" lon="20.8724785">
+      <ele>89</ele>
+      <time>2022-01-17T22:21:48Z</time>
+    </trkpt>
+    <trkpt lat="52.3102956" lon="20.8742702">
+      <ele>90</ele>
+      <time>2022-01-17T22:24:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3099127" lon="20.8749233">
+      <ele>90</ele>
+      <time>2022-01-17T22:25:25Z</time>
+    </trkpt>
+    <trkpt lat="52.3093933" lon="20.8753143">
+      <ele>88</ele>
+      <time>2022-01-17T22:26:32Z</time>
+    </trkpt>
+    <trkpt lat="52.3084278" lon="20.8767352">
+      <ele>92</ele>
+      <time>2022-01-17T22:29:03Z</time>
+    </trkpt>
+    <trkpt lat="52.3075988" lon="20.8774312">
+      <ele>93</ele>
+      <time>2022-01-17T22:30:52Z</time>
+    </trkpt>
+    <trkpt lat="52.3069535" lon="20.8783847">
+      <ele>95</ele>
+      <time>2022-01-17T22:32:33Z</time>
+    </trkpt>
+    <trkpt lat="52.3057628" lon="20.8813834">
+      <ele>87</ele>
+      <time>2022-01-17T22:36:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

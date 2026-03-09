@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:57Z</time>
+    <bounds maxlat="50.6083845" maxlon="16.0158187" minlat="50.6067121" minlon="16.0119506"/>
+  </metadata>
+  <wpt lat="50.608384" lon="16.015819">
+    <ele>452</ele>
+    <name>Okrzeszyn, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2912">
+      <text>Okrzeszyn, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.606895" lon="16.011951">
+    <ele>452</ele>
+    <name>Okrzeszyn, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/11798">
+      <text>Okrzeszyn, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okrzeszyn, granica - Okrzeszyn, odejscie szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6083845,16.0158187;50.60701145010429,16.014524250000004;50.6068952,16.0119506">
+    <text>Okrzeszyn, granica - Okrzeszyn, odejscie szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6083845" lon="16.0158187">
+      <ele>452</ele>
+      <time>2022-01-18T01:11:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6071105" lon="16.0146482">
+      <ele>449</ele>
+      <time>2022-01-18T01:14:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6069124" lon="16.0144003">
+      <ele>450</ele>
+      <time>2022-01-18T01:14:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6068157" lon="16.0140763">
+      <ele>451</ele>
+      <time>2022-01-18T01:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6067244" lon="16.0136106">
+      <ele>451</ele>
+      <time>2022-01-18T01:15:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6067121" lon="16.0130976">
+      <ele>451</ele>
+      <time>2022-01-18T01:15:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6068303" lon="16.0123015">
+      <ele>452</ele>
+      <time>2022-01-18T01:16:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6068952" lon="16.0119506">
+      <ele>452</ele>
+      <time>2022-01-18T01:16:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

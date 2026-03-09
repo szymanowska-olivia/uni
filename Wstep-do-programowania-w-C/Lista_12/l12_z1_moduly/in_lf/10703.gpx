@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:56Z</time>
+    <bounds maxlat="49.5803896" maxlon="18.3960083" minlat="49.5798406" minlon="18.3959332"/>
+  </metadata>
+  <wpt lat="49.58039" lon="18.396008">
+    <ele>459</ele>
+    <name>Malenovice, Borova</name>
+    <link href="https://mapa-turystyczna.pl/node/7468">
+      <text>Malenovice, Borova</text>
+    </link>
+  </wpt>
+  <wpt lat="49.579841" lon="18.395933">
+    <ele>452</ele>
+    <name>Malenovice, Borova, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7530">
+      <text>Malenovice, Borova, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Malenovice, Borova - Malenovice, Borova, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5803896,18.3960083;49.58011510077207,18.39597075000003;49.5798406,18.3959332">
+    <text>Malenovice, Borova - Malenovice, Borova, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5803896" lon="18.3960083">
+      <ele>459</ele>
+      <time>2022-01-17T23:20:56Z</time>
+    </trkpt>
+    <trkpt lat="49.5798406" lon="18.3959332">
+      <ele>452</ele>
+      <time>2022-01-17T23:21:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

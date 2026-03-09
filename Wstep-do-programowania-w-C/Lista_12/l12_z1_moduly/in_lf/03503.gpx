@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:52Z</time>
+    <bounds maxlat="49.244866" maxlon="20.006455" minlat="49.244041" minlon="20.006104"/>
+  </metadata>
+  <wpt lat="49.244866" lon="20.006455">
+    <ele>1509</ele>
+    <name>Betlejemka</name>
+    <link href="https://mapa-turystyczna.pl/node/2466">
+      <text>Betlejemka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.244041" lon="20.006104">
+    <ele>1516</ele>
+    <name>Stacja IMGW</name>
+    <link href="https://mapa-turystyczna.pl/node/2470">
+      <text>Stacja IMGW</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Betlejemka - Stacja IMGW</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.244866,20.006455;49.2444715000066,20.006315999999973;49.244041,20.006104">
+    <text>Betlejemka - Stacja IMGW</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.244866" lon="20.006455">
+      <ele>1509</ele>
+      <time>2022-01-17T21:30:52Z</time>
+    </trkpt>
+    <trkpt lat="49.244792" lon="20.006406">
+      <ele>1509</ele>
+      <time>2022-01-17T21:31:09Z</time>
+    </trkpt>
+    <trkpt lat="49.244609" lon="20.006307">
+      <ele>1511</ele>
+      <time>2022-01-17T21:31:49Z</time>
+    </trkpt>
+    <trkpt lat="49.244497" lon="20.006314">
+      <ele>1512</ele>
+      <time>2022-01-17T21:32:12Z</time>
+    </trkpt>
+    <trkpt lat="49.244446" lon="20.006318">
+      <ele>1513</ele>
+      <time>2022-01-17T21:32:23Z</time>
+    </trkpt>
+    <trkpt lat="49.244402" lon="20.006308">
+      <ele>1513</ele>
+      <time>2022-01-17T21:32:32Z</time>
+    </trkpt>
+    <trkpt lat="49.244251" lon="20.006237">
+      <ele>1514</ele>
+      <time>2022-01-17T21:33:05Z</time>
+    </trkpt>
+    <trkpt lat="49.244041" lon="20.006104">
+      <ele>1516</ele>
+      <time>2022-01-17T21:33:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

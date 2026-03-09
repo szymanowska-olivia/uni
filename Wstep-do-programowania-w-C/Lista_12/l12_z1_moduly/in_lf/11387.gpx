@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:46Z</time>
+    <bounds maxlat="50.7424912" maxlon="16.2884222" minlat="50.7422462" minlon="16.2878484"/>
+  </metadata>
+  <wpt lat="50.742491" lon="16.287848">
+    <ele>480</ele>
+    <name>Walbrzych, ul. Niepodleglosci</name>
+    <link href="https://mapa-turystyczna.pl/node/2534">
+      <text>Walbrzych, ul. Niepodleglosci</text>
+    </link>
+  </wpt>
+  <wpt lat="50.742246" lon="16.288422">
+    <ele>484</ele>
+    <name>Walbrzych, ul. Wladyslawa Reymonta</name>
+    <link href="https://mapa-turystyczna.pl/node/8011">
+      <text>Walbrzych, ul. Wladyslawa Reymonta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walbrzych, ul. Niepodleglosci - Walbrzych, ul. Wladyslawa Reymonta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7424912,16.2878484;50.74236870016023,16.288135299999993;50.7422462,16.2884222">
+    <text>Walbrzych, ul. Niepodleglosci - Walbrzych, ul. Wladyslawa Reymonta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7424912" lon="16.2878484">
+      <ele>480</ele>
+      <time>2022-01-17T23:33:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7422462" lon="16.2884222">
+      <ele>484</ele>
+      <time>2022-01-17T23:34:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

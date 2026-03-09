@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:41Z</time>
+    <bounds maxlat="52.4395103" maxlon="20.678132" minlat="52.4378294" minlon="20.6745003"/>
+  </metadata>
+  <wpt lat="52.43951" lon="20.678132">
+    <ele>99</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12225">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.437829" lon="20.6745">
+    <ele>106</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12226">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zolty - Skrzyzowanie szlakow czerwony / niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4395103,20.678132;52.43859885022961,20.676113299999983;52.4378294,20.6745003">
+    <text>Rozejscie szlakow czerwony / zolty - Skrzyzowanie szlakow czerwony / niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4395103" lon="20.678132">
+      <ele>99</ele>
+      <time>2022-01-18T01:22:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4392905" lon="20.6778031">
+      <ele>99</ele>
+      <time>2022-01-18T01:23:12Z</time>
+    </trkpt>
+    <trkpt lat="52.4389732" lon="20.6772774">
+      <ele>96</ele>
+      <time>2022-01-18T01:24:00Z</time>
+    </trkpt>
+    <trkpt lat="52.4387411" lon="20.6765961">
+      <ele>103</ele>
+      <time>2022-01-18T01:24:50Z</time>
+    </trkpt>
+    <trkpt lat="52.4384566" lon="20.6756305">
+      <ele>108</ele>
+      <time>2022-01-18T01:25:59Z</time>
+    </trkpt>
+    <trkpt lat="52.4383127" lon="20.6750833">
+      <ele>109</ele>
+      <time>2022-01-18T01:26:37Z</time>
+    </trkpt>
+    <trkpt lat="52.4382538" lon="20.6749492">
+      <ele>109</ele>
+      <time>2022-01-18T01:26:47Z</time>
+    </trkpt>
+    <trkpt lat="52.4381328" lon="20.6747936">
+      <ele>108</ele>
+      <time>2022-01-18T01:27:03Z</time>
+    </trkpt>
+    <trkpt lat="52.4379039" lon="20.6745254">
+      <ele>106</ele>
+      <time>2022-01-18T01:27:33Z</time>
+    </trkpt>
+    <trkpt lat="52.4378294" lon="20.6745003">
+      <ele>106</ele>
+      <time>2022-01-18T01:27:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

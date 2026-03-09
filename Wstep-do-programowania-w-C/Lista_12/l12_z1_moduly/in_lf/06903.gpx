@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:14:39Z</time>
+    <bounds maxlat="49.489339" maxlon="20.681649" minlat="49.488576" minlon="20.681424"/>
+  </metadata>
+  <wpt lat="49.488576" lon="20.681424">
+    <ele>338</ele>
+    <name>Rytro</name>
+    <link href="https://mapa-turystyczna.pl/node/161">
+      <text>Rytro</text>
+    </link>
+  </wpt>
+  <wpt lat="49.489339" lon="20.681649">
+    <ele>344</ele>
+    <name>Rytro, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4736">
+      <text>Rytro, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rytro - Rytro, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.488576,20.681424;49.4889630000961,20.681540999999992;49.489339,20.681649">
+    <text>Rytro - Rytro, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.488576" lon="20.681424">
+      <ele>338</ele>
+      <time>2022-01-17T22:14:39Z</time>
+    </trkpt>
+    <trkpt lat="49.488866" lon="20.681514">
+      <ele>340</ele>
+      <time>2022-01-17T22:15:25Z</time>
+    </trkpt>
+    <trkpt lat="49.48906" lon="20.681568">
+      <ele>342</ele>
+      <time>2022-01-17T22:15:55Z</time>
+    </trkpt>
+    <trkpt lat="49.48919" lon="20.681609">
+      <ele>344</ele>
+      <time>2022-01-17T22:16:16Z</time>
+    </trkpt>
+    <trkpt lat="49.489339" lon="20.681649">
+      <ele>344</ele>
+      <time>2022-01-17T22:16:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

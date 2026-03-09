@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:52Z</time>
+    <bounds maxlat="49.119875" maxlon="20.057393" minlat="49.119613" minlon="20.057094"/>
+  </metadata>
+  <wpt lat="49.119613" lon="20.057094">
+    <ele>1347</ele>
+    <name>Liecebny Dom, Solisko</name>
+    <link href="https://mapa-turystyczna.pl/node/1530">
+      <text>Liecebny Dom, Solisko</text>
+    </link>
+  </wpt>
+  <wpt lat="49.119875" lon="20.057393">
+    <ele>1353</ele>
+    <name>Liecebny Dom, Solisko, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8144">
+      <text>Liecebny Dom, Solisko, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Liecebny Dom, Solisko - Liecebny Dom, Solisko, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.119613,20.057094;49.119764000002576,20.057250500000006;49.119875,20.057393">
+    <text>Liecebny Dom, Solisko - Liecebny Dom, Solisko, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.119613" lon="20.057094">
+      <ele>1347</ele>
+      <time>2022-01-17T23:37:52Z</time>
+    </trkpt>
+    <trkpt lat="49.119714" lon="20.05719">
+      <ele>1351</ele>
+      <time>2022-01-17T23:38:14Z</time>
+    </trkpt>
+    <trkpt lat="49.119748" lon="20.057229">
+      <ele>1352</ele>
+      <time>2022-01-17T23:38:22Z</time>
+    </trkpt>
+    <trkpt lat="49.11978" lon="20.057272">
+      <ele>1352</ele>
+      <time>2022-01-17T23:38:30Z</time>
+    </trkpt>
+    <trkpt lat="49.119875" lon="20.057393">
+      <ele>1353</ele>
+      <time>2022-01-17T23:38:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

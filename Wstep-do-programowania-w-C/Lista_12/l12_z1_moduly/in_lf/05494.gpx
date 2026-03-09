@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:38Z</time>
+    <bounds maxlat="49.423015" maxlon="19.047371" minlat="49.421793" minlon="19.046557"/>
+  </metadata>
+  <wpt lat="49.421793" lon="19.047371">
+    <ele>1000</ele>
+    <name>Schronisko PTTK na Przeleczy Przegibek</name>
+    <link href="https://mapa-turystyczna.pl/node/660">
+      <text>Schronisko PTTK na Przeleczy Przegibek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.423015" lon="19.046557">
+    <ele>1048</ele>
+    <name>Pod Schroniskiem na Przegibku</name>
+    <link href="https://mapa-turystyczna.pl/node/3865">
+      <text>Pod Schroniskiem na Przegibku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK na Przeleczy Przegibek - Pod Schroniskiem na Przegibku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.421793,19.047371;49.42243900013476,19.046862499999975;49.423015,19.046557">
+    <text>Schronisko PTTK na Przeleczy Przegibek - Pod Schroniskiem na Przegibku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.421793" lon="19.047371">
+      <ele>1000</ele>
+      <time>2022-01-17T21:56:38Z</time>
+    </trkpt>
+    <trkpt lat="49.421989" lon="19.047247">
+      <ele>1008</ele>
+      <time>2022-01-17T21:57:25Z</time>
+    </trkpt>
+    <trkpt lat="49.422324" lon="19.046943">
+      <ele>1024</ele>
+      <time>2022-01-17T21:58:55Z</time>
+    </trkpt>
+    <trkpt lat="49.422554" lon="19.046782">
+      <ele>1034</ele>
+      <time>2022-01-17T21:59:51Z</time>
+    </trkpt>
+    <trkpt lat="49.423015" lon="19.046557">
+      <ele>1048</ele>
+      <time>2022-01-17T22:01:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

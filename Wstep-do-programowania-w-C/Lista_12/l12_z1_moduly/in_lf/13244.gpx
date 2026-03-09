@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:11Z</time>
+    <bounds maxlat="50.4113915" maxlon="16.4572154" minlat="50.411066" minlon="16.4567316"/>
+  </metadata>
+  <wpt lat="50.411392" lon="16.457215">
+    <ele>566</ele>
+    <name>Zamek Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8523">
+      <text>Zamek Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.411066" lon="16.456732">
+    <ele>557</ele>
+    <name>Orle Skaly, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9141">
+      <text>Orle Skaly, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Lesna - Orle Skaly, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4113915,16.4572154;50.41121130022279,16.45701054999997;50.4110661,16.4567316">
+    <text>Zamek Lesna - Orle Skaly, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4113915" lon="16.4572154">
+      <ele>566</ele>
+      <time>2022-01-18T00:04:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4113566" lon="16.457091">
+      <ele>564</ele>
+      <time>2022-01-18T00:04:21Z</time>
+    </trkpt>
+    <trkpt lat="50.411066" lon="16.4569301">
+      <ele>560</ele>
+      <time>2022-01-18T00:04:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4110661" lon="16.4567316">
+      <ele>557</ele>
+      <time>2022-01-18T00:05:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

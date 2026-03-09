@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:30Z</time>
+    <bounds maxlat="49.721491" maxlon="18.91733" minlat="49.721439" minlon="18.916327"/>
+  </metadata>
+  <wpt lat="49.721491" lon="18.916327">
+    <ele>412</ele>
+    <name>Brenna</name>
+    <link href="https://mapa-turystyczna.pl/node/720">
+      <text>Brenna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.721439" lon="18.91733">
+    <ele>412</ele>
+    <name>Brenna, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/7861">
+      <text>Brenna, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brenna - Brenna, odejscie szlaku czarnego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.721491,18.916327;49.72146500000697,18.916828499999987;49.721439,18.91733">
+    <text>Brenna - Brenna, odejscie szlaku czarnego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.721491" lon="18.916327">
+      <ele>412</ele>
+      <time>2022-01-17T23:29:30Z</time>
+    </trkpt>
+    <trkpt lat="49.721439" lon="18.91733">
+      <ele>412</ele>
+      <time>2022-01-17T23:30:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

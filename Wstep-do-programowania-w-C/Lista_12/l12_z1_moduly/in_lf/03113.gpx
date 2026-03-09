@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:13Z</time>
+    <bounds maxlat="50.5969888" maxlon="16.8127084" minlat="50.5916014" minlon="16.8120311"/>
+  </metadata>
+  <wpt lat="50.591601" lon="16.812499">
+    <ele>287</ele>
+    <name>Zabkowice Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/2222">
+      <text>Zabkowice Slaskie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.596989" lon="16.812708">
+    <ele>285</ele>
+    <name>Zabkowice Slaskie, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2223">
+      <text>Zabkowice Slaskie, PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabkowice Slaskie - Zabkowice Slaskie, PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5916014,16.8124991;50.594489700114686,16.812296599999986;50.5969888,16.8127084">
+    <text>Zabkowice Slaskie - Zabkowice Slaskie, PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5916014" lon="16.8124991">
+      <ele>287</ele>
+      <time>2022-01-17T21:25:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5923562" lon="16.8126265">
+      <ele>286</ele>
+      <time>2022-01-17T21:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5925265" lon="16.8126158">
+      <ele>286</ele>
+      <time>2022-01-17T21:26:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5941726" lon="16.8124938">
+      <ele>286</ele>
+      <time>2022-01-17T21:29:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5943858" lon="16.812369">
+      <ele>286</ele>
+      <time>2022-01-17T21:30:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5945936" lon="16.8122242">
+      <ele>286</ele>
+      <time>2022-01-17T21:30:29Z</time>
+    </trkpt>
+    <trkpt lat="50.5947434" lon="16.8120311">
+      <ele>286</ele>
+      <time>2022-01-17T21:30:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5948638" lon="16.8122899">
+      <ele>285</ele>
+      <time>2022-01-17T21:31:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5966776" lon="16.8123315">
+      <ele>283</ele>
+      <time>2022-01-17T21:34:20Z</time>
+    </trkpt>
+    <trkpt lat="50.5969704" lon="16.812369">
+      <ele>284</ele>
+      <time>2022-01-17T21:34:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5969888" lon="16.8127084">
+      <ele>285</ele>
+      <time>2022-01-17T21:35:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

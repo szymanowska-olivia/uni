@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:48Z</time>
+    <bounds maxlat="49.273961" maxlon="19.885156" minlat="49.273648" minlon="19.88179"/>
+  </metadata>
+  <wpt lat="49.27367" lon="19.88179">
+    <ele>1012</ele>
+    <name>Stanikow Zleb</name>
+    <link href="https://mapa-turystyczna.pl/node/288">
+      <text>Stanikow Zleb</text>
+    </link>
+  </wpt>
+  <wpt lat="49.273941" lon="19.885156">
+    <ele>981</ele>
+    <name>Nedzowka, las</name>
+    <link href="https://mapa-turystyczna.pl/node/2468">
+      <text>Nedzowka, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stanikow Zleb - Nedzowka, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.27367,19.88179;49.27387800005855,19.8839125;49.273941,19.885156">
+    <text>Stanikow Zleb - Nedzowka, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.27367" lon="19.88179">
+      <ele>1012</ele>
+      <time>2022-01-17T21:30:48Z</time>
+    </trkpt>
+    <trkpt lat="49.273662" lon="19.881841">
+      <ele>1012</ele>
+      <time>2022-01-17T21:30:53Z</time>
+    </trkpt>
+    <trkpt lat="49.273648" lon="19.882026">
+      <ele>1011</ele>
+      <time>2022-01-17T21:31:09Z</time>
+    </trkpt>
+    <trkpt lat="49.273657" lon="19.882206">
+      <ele>1010</ele>
+      <time>2022-01-17T21:31:25Z</time>
+    </trkpt>
+    <trkpt lat="49.273697" lon="19.882462">
+      <ele>1007</ele>
+      <time>2022-01-17T21:31:48Z</time>
+    </trkpt>
+    <trkpt lat="49.273802" lon="19.883244">
+      <ele>1000</ele>
+      <time>2022-01-17T21:32:58Z</time>
+    </trkpt>
+    <trkpt lat="49.273954" lon="19.884581">
+      <ele>987</ele>
+      <time>2022-01-17T21:34:57Z</time>
+    </trkpt>
+    <trkpt lat="49.273961" lon="19.884801">
+      <ele>985</ele>
+      <time>2022-01-17T21:35:17Z</time>
+    </trkpt>
+    <trkpt lat="49.273953" lon="19.885004">
+      <ele>981</ele>
+      <time>2022-01-17T21:35:35Z</time>
+    </trkpt>
+    <trkpt lat="49.273941" lon="19.885156">
+      <ele>981</ele>
+      <time>2022-01-17T21:35:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

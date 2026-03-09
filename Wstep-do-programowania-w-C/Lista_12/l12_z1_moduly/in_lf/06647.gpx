@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:30Z</time>
+    <bounds maxlat="49.776164" maxlon="19.107397" minlat="49.775522" minlon="19.105477"/>
+  </metadata>
+  <wpt lat="49.775522" lon="19.107397">
+    <ele>718</ele>
+    <name>Skrzyzowanie pod Rogaczem</name>
+    <link href="https://mapa-turystyczna.pl/node/4610">
+      <text>Skrzyzowanie pod Rogaczem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.776164" lon="19.105477">
+    <ele>685</ele>
+    <name>Chatka na Rogaczu</name>
+    <link href="https://mapa-turystyczna.pl/node/1006">
+      <text>Chatka na Rogaczu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Rogaczem - Chatka na Rogaczu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.775522,19.107397;49.77584600006439,19.10644249999999;49.776164,19.105477">
+    <text>Skrzyzowanie pod Rogaczem - Chatka na Rogaczu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.775522" lon="19.107397">
+      <ele>718</ele>
+      <time>2022-01-17T22:10:30Z</time>
+    </trkpt>
+    <trkpt lat="49.775644" lon="19.107057">
+      <ele>713</ele>
+      <time>2022-01-17T22:10:51Z</time>
+    </trkpt>
+    <trkpt lat="49.775767" lon="19.106682">
+      <ele>707</ele>
+      <time>2022-01-17T22:11:14Z</time>
+    </trkpt>
+    <trkpt lat="49.775925" lon="19.106203">
+      <ele>696</ele>
+      <time>2022-01-17T22:11:44Z</time>
+    </trkpt>
+    <trkpt lat="49.776033" lon="19.105984">
+      <ele>692</ele>
+      <time>2022-01-17T22:11:59Z</time>
+    </trkpt>
+    <trkpt lat="49.77606" lon="19.105841">
+      <ele>689</ele>
+      <time>2022-01-17T22:12:07Z</time>
+    </trkpt>
+    <trkpt lat="49.77608" lon="19.105605">
+      <ele>685</ele>
+      <time>2022-01-17T22:12:20Z</time>
+    </trkpt>
+    <trkpt lat="49.77612" lon="19.105555">
+      <ele>685</ele>
+      <time>2022-01-17T22:12:24Z</time>
+    </trkpt>
+    <trkpt lat="49.776164" lon="19.105477">
+      <ele>685</ele>
+      <time>2022-01-17T22:12:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

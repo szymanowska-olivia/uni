@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:08Z</time>
+    <bounds maxlat="50.3791137" maxlon="16.1863589" minlat="50.3789256" minlon="16.1857206"/>
+  </metadata>
+  <wpt lat="50.379114" lon="16.185721">
+    <ele>340</ele>
+    <name>Peklo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5725">
+      <text>Peklo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.378926" lon="16.186359">
+    <ele>343</ele>
+    <name>Peklo</name>
+    <link href="https://mapa-turystyczna.pl/node/5724">
+      <text>Peklo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Peklo, rozc. - Peklo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3791137,16.1857206;50.37901965009325,16.186039749999974;50.3789256,16.1863589">
+    <text>Peklo, rozc. - Peklo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3791137" lon="16.1857206">
+      <ele>340</ele>
+      <time>2022-01-17T22:35:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3789256" lon="16.1863589">
+      <ele>343</ele>
+      <time>2022-01-17T22:36:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

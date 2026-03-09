@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:55Z</time>
+    <bounds maxlat="50.9736485" maxlon="16.3364178" minlat="50.9735742" minlon="16.3349731"/>
+  </metadata>
+  <wpt lat="50.973632" lon="16.334973">
+    <ele>338</ele>
+    <name>Pod Gora Krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8317">
+      <text>Pod Gora Krzyzowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.973574" lon="16.336418">
+    <ele>353</ele>
+    <name>Gora Krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9843">
+      <text>Gora Krzyzowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Gora Krzyzowa - Gora Krzyzowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9736321,16.3349731;50.97361135001486,16.33583844999997;50.9735742,16.3364178">
+    <text>Pod Gora Krzyzowa - Gora Krzyzowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9736321" lon="16.3349731">
+      <ele>338</ele>
+      <time>2022-01-18T00:21:55Z</time>
+    </trkpt>
+    <trkpt lat="50.9736485" lon="16.3352591">
+      <ele>338</ele>
+      <time>2022-01-18T00:22:31Z</time>
+    </trkpt>
+    <trkpt lat="50.9735742" lon="16.3364178">
+      <ele>338</ele>
+      <time>2022-01-18T00:24:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:44Z</time>
+    <bounds maxlat="51.617127" maxlon="15.3172738" minlat="51.6165597" minlon="15.3165447"/>
+  </metadata>
+  <wpt lat="51.617127" lon="15.316545">
+    <ele>100</ele>
+    <name>Zagan, Plac Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/13355">
+      <text>Zagan, Plac Wolnosci</text>
+    </link>
+  </wpt>
+  <wpt lat="51.61656" lon="15.317274">
+    <ele>104</ele>
+    <name>Zagan</name>
+    <link href="https://mapa-turystyczna.pl/node/13260">
+      <text>Zagan</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zagan, Plac Wolnosci - Zagan</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.617127,15.3165447;51.61692495044976,15.316843700000002;51.6165597,15.3172738">
+    <text>Zagan, Plac Wolnosci - Zagan</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.617127" lon="15.3165447">
+      <ele>100</ele>
+      <time>2022-01-18T01:54:44Z</time>
+    </trkpt>
+    <trkpt lat="51.6167229" lon="15.3171427">
+      <ele>104</ele>
+      <time>2022-01-18T01:56:14Z</time>
+    </trkpt>
+    <trkpt lat="51.6165597" lon="15.3172738">
+      <ele>104</ele>
+      <time>2022-01-18T01:56:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

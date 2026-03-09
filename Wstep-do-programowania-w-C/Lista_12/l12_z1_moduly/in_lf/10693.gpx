@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:46Z</time>
+    <bounds maxlat="49.6572363" maxlon="18.5275412" minlat="49.6568601" minlon="18.5267848"/>
+  </metadata>
+  <wpt lat="49.65686" lon="18.526785">
+    <ele>415</ele>
+    <name>Komorni Lhotka, namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/7428">
+      <text>Komorni Lhotka, namesti</text>
+    </link>
+  </wpt>
+  <wpt lat="49.657236" lon="18.527541">
+    <ele>414</ele>
+    <name>Komorni Lhotka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7525">
+      <text>Komorni Lhotka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Komorni Lhotka, namesti - Komorni Lhotka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6568601,18.5267848;49.6569634000166,18.527152249999997;49.6572363,18.5275412">
+    <text>Komorni Lhotka, namesti - Komorni Lhotka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6568601" lon="18.5267848">
+      <ele>415</ele>
+      <time>2022-01-17T23:20:46Z</time>
+    </trkpt>
+    <trkpt lat="49.6568786" lon="18.5269082">
+      <ele>415</ele>
+      <time>2022-01-17T23:20:54Z</time>
+    </trkpt>
+    <trkpt lat="49.6569232" lon="18.5270691">
+      <ele>415</ele>
+      <time>2022-01-17T23:21:04Z</time>
+    </trkpt>
+    <trkpt lat="49.6570036" lon="18.5272354">
+      <ele>415</ele>
+      <time>2022-01-17T23:21:17Z</time>
+    </trkpt>
+    <trkpt lat="49.6570936" lon="18.5273628">
+      <ele>414</ele>
+      <time>2022-01-17T23:21:29Z</time>
+    </trkpt>
+    <trkpt lat="49.6572363" lon="18.5275412">
+      <ele>414</ele>
+      <time>2022-01-17T23:21:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

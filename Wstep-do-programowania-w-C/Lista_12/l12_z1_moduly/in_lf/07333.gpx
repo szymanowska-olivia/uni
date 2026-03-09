@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:26Z</time>
+    <bounds maxlat="52.2611578" maxlon="20.5894947" minlat="52.2579663" minlon="20.5887651"/>
+  </metadata>
+  <wpt lat="52.261158" lon="20.588937">
+    <ele>91</ele>
+    <name>Leszno, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4997">
+      <text>Leszno, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.257966" lon="20.589495">
+    <ele>90</ele>
+    <name>Leszno</name>
+    <link href="https://mapa-turystyczna.pl/node/4968">
+      <text>Leszno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Leszno, ul. Lesna - Leszno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2611578,20.5889368;52.26022200987359,20.58885095000001;52.2579663,20.5894947">
+    <text>Leszno, ul. Lesna - Leszno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2611578" lon="20.5889368">
+      <ele>91</ele>
+      <time>2022-01-17T22:21:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2592862" lon="20.5887651">
+      <ele>90</ele>
+      <time>2022-01-17T22:24:18Z</time>
+    </trkpt>
+    <trkpt lat="52.2579663" lon="20.5894947">
+      <ele>90</ele>
+      <time>2022-01-17T22:26:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

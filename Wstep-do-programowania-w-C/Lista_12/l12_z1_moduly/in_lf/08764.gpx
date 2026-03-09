@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:43Z</time>
+    <bounds maxlat="50.2643951" maxlon="17.0132732" minlat="50.2619673" minlon="17.0114279"/>
+  </metadata>
+  <wpt lat="50.264395" lon="17.013273">
+    <ele>989</ele>
+    <name>Kowadlo</name>
+    <link href="https://mapa-turystyczna.pl/node/2134">
+      <text>Kowadlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.261967" lon="17.011515">
+    <ele>924</ele>
+    <name>Pod Kowadlem</name>
+    <link href="https://mapa-turystyczna.pl/node/6095">
+      <text>Pod Kowadlem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kowadlo - Pod Kowadlem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2643951,17.0132732;50.26344860003164,17.011551250000018;50.2619673,17.0115149">
+    <text>Kowadlo - Pod Kowadlem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2643951" lon="17.0132732">
+      <ele>989</ele>
+      <time>2022-01-17T22:44:43Z</time>
+    </trkpt>
+    <trkpt lat="50.264203" lon="17.0130157">
+      <ele>988</ele>
+      <time>2022-01-17T22:45:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2637915" lon="17.0127368">
+      <ele>987</ele>
+      <time>2022-01-17T22:45:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2636132" lon="17.0123935">
+      <ele>979</ele>
+      <time>2022-01-17T22:46:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2635309" lon="17.0120931">
+      <ele>972</ele>
+      <time>2022-01-17T22:46:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2635035" lon="17.0116532">
+      <ele>962</ele>
+      <time>2022-01-17T22:47:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2633937" lon="17.0114493">
+      <ele>954</ele>
+      <time>2022-01-17T22:47:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2631331" lon="17.0114279">
+      <ele>950</ele>
+      <time>2022-01-17T22:47:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2628793" lon="17.0114601">
+      <ele>946</ele>
+      <time>2022-01-17T22:48:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2624198" lon="17.0114279">
+      <ele>933</ele>
+      <time>2022-01-17T22:48:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2619673" lon="17.0115149">
+      <ele>924</ele>
+      <time>2022-01-17T22:49:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

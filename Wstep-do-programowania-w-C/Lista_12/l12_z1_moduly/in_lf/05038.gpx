@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:49:59Z</time>
+    <bounds maxlat="49.8847387" maxlon="19.500841" minlat="49.8820413" minlon="19.4928146"/>
+  </metadata>
+  <wpt lat="49.88315" lon="19.492815">
+    <ele>273</ele>
+    <name>Wadowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3534">
+      <text>Wadowice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.884739" lon="19.500841">
+    <ele>266</ele>
+    <name>Wadowice, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/3512">
+      <text>Wadowice, PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wadowice - Wadowice, PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8831496,19.4928146;49.882741305074866,19.496527250000003;49.8847387,19.500841">
+    <text>Wadowice - Wadowice, PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8831496" lon="19.4928146">
+      <ele>273</ele>
+      <time>2022-01-17T21:49:59Z</time>
+    </trkpt>
+    <trkpt lat="49.882947" lon="19.4933596">
+      <ele>272</ele>
+      <time>2022-01-17T21:50:34Z</time>
+    </trkpt>
+    <trkpt lat="49.8820413" lon="19.496192">
+      <ele>264</ele>
+      <time>2022-01-17T21:53:30Z</time>
+    </trkpt>
+    <trkpt lat="49.8834413" lon="19.4968625">
+      <ele>267</ele>
+      <time>2022-01-17T21:55:37Z</time>
+    </trkpt>
+    <trkpt lat="49.8835692" lon="19.4968786">
+      <ele>267</ele>
+      <time>2022-01-17T21:55:48Z</time>
+    </trkpt>
+    <trkpt lat="49.8836867" lon="19.4968464">
+      <ele>267</ele>
+      <time>2022-01-17T21:55:59Z</time>
+    </trkpt>
+    <trkpt lat="49.8847387" lon="19.500841">
+      <ele>266</ele>
+      <time>2022-01-17T21:59:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

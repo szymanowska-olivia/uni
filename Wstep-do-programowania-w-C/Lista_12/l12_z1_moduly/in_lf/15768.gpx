@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:06Z</time>
+    <bounds maxlat="52.305448" maxlon="20.8872736" minlat="52.3050018" minlon="20.8843963"/>
+  </metadata>
+  <wpt lat="52.305448" lon="20.884396">
+    <ele>86</ele>
+    <name>Wolka Weglowa, ul. Estrady</name>
+    <link href="https://mapa-turystyczna.pl/node/10763">
+      <text>Wolka Weglowa, ul. Estrady</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305002" lon="20.887274">
+    <ele>91</ele>
+    <name>Warszawa, Cmentarz Komunalny Polnocny</name>
+    <link href="https://mapa-turystyczna.pl/node/4975">
+      <text>Warszawa, Cmentarz Komunalny Polnocny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolka Weglowa, ul. Estrady - Warszawa, Cmentarz Komunalny Polnocny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.305448,20.8843963;52.30535695008915,20.885515350000006;52.3050018,20.8872736">
+    <text>Wolka Weglowa, ul. Estrady - Warszawa, Cmentarz Komunalny Polnocny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.305448" lon="20.8843963">
+      <ele>86</ele>
+      <time>2022-01-18T00:45:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3054458" lon="20.8843983">
+      <ele>86</ele>
+      <time>2022-01-18T00:45:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3052681" lon="20.8866324">
+      <ele>90</ele>
+      <time>2022-01-18T00:48:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3050018" lon="20.8872736">
+      <ele>91</ele>
+      <time>2022-01-18T00:50:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:20Z</time>
+    <bounds maxlat="50.6840874" maxlon="19.376514" minlat="50.6830812" minlon="19.3673193"/>
+  </metadata>
+  <wpt lat="50.684087" lon="19.376514">
+    <ele>372</ele>
+    <name>Szyja</name>
+    <link href="https://mapa-turystyczna.pl/node/4507">
+      <text>Szyja</text>
+    </link>
+  </wpt>
+  <wpt lat="50.683081" lon="19.367319">
+    <ele>388</ele>
+    <name>Siedlec, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4506">
+      <text>Siedlec, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szyja - Siedlec, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6840874,19.376514;50.683295450054246,19.37145090000002;50.6830812,19.3673193">
+    <text>Szyja - Siedlec, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6840874" lon="19.376514">
+      <ele>372</ele>
+      <time>2022-01-17T22:07:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6833668" lon="19.3723833">
+      <ele>379</ele>
+      <time>2022-01-17T22:11:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6832241" lon="19.3705185">
+      <ele>380</ele>
+      <time>2022-01-17T22:13:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6831493" lon="19.3685853">
+      <ele>387</ele>
+      <time>2022-01-17T22:15:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6830812" lon="19.3673193">
+      <ele>388</ele>
+      <time>2022-01-17T22:17:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:43Z</time>
+    <bounds maxlat="54.6055107" maxlon="18.2315755" minlat="54.605228" minlon="18.2293975"/>
+  </metadata>
+  <wpt lat="54.605511" lon="18.229398">
+    <ele>30</ele>
+    <name>Wejherowo, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10863">
+      <text>Wejherowo, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="54.605228" lon="18.231576">
+    <ele>27</ele>
+    <name>Wejherowo</name>
+    <link href="https://mapa-turystyczna.pl/node/10870">
+      <text>Wejherowo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wejherowo, stacja kolejowa - Wejherowo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.6055107,18.2293975;54.60533675014524,18.230642099999972;54.605228,18.2315755">
+    <text>Wejherowo, stacja kolejowa - Wejherowo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.6055107" lon="18.2293975">
+      <ele>30</ele>
+      <time>2022-01-18T00:46:43Z</time>
+    </trkpt>
+    <trkpt lat="54.6054455" lon="18.2297087">
+      <ele>30</ele>
+      <time>2022-01-18T00:47:01Z</time>
+    </trkpt>
+    <trkpt lat="54.605228" lon="18.2315755">
+      <ele>27</ele>
+      <time>2022-01-18T00:48:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

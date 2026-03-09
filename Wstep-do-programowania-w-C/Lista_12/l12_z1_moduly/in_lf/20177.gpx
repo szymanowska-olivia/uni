@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:56Z</time>
+    <bounds maxlat="50.7450444" maxlon="16.3151372" minlat="50.7449319" minlon="16.3148974"/>
+  </metadata>
+  <wpt lat="50.744932" lon="16.315137">
+    <ele>628</ele>
+    <name>Przelecz Szypka</name>
+    <link href="https://mapa-turystyczna.pl/node/2545">
+      <text>Przelecz Szypka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.745044" lon="16.314897">
+    <ele>636</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13578">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Szypka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7449319,16.3151372;50.74498815003379,16.3150173;50.7450444,16.3148974">
+    <text>Przelecz Szypka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7449319" lon="16.3151372">
+      <ele>628</ele>
+      <time>2022-01-18T02:01:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7450444" lon="16.3148974">
+      <ele>636</ele>
+      <time>2022-01-18T02:02:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

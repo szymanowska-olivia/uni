@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:19Z</time>
+    <bounds maxlat="50.0642486" maxlon="18.280238" minlat="50.062899" minlon="18.2779555"/>
+  </metadata>
+  <wpt lat="50.062899" lon="18.280238">
+    <ele>275</ele>
+    <name>Pogwizdow, ul. Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9809">
+      <text>Pogwizdow, ul. Jodlowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.064249" lon="18.277956">
+    <ele>277</ele>
+    <name>Pogwizdow, ul. Gajowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9651">
+      <text>Pogwizdow, ul. Gajowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogwizdow, ul. Jodlowa - Pogwizdow, ul. Gajowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.062899,18.280238;50.063565500448796,18.279084500000003;50.0642486,18.2779555">
+    <text>Pogwizdow, ul. Jodlowa - Pogwizdow, ul. Gajowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.062899" lon="18.280238">
+      <ele>274</ele>
+      <time>2022-01-18T00:21:19Z</time>
+    </trkpt>
+    <trkpt lat="50.063001" lon="18.280079">
+      <ele>277</ele>
+      <time>2022-01-18T00:21:41Z</time>
+    </trkpt>
+    <trkpt lat="50.063358" lon="18.279453">
+      <ele>280</ele>
+      <time>2022-01-18T00:23:02Z</time>
+    </trkpt>
+    <trkpt lat="50.063773" lon="18.278716">
+      <ele>280</ele>
+      <time>2022-01-18T00:24:36Z</time>
+    </trkpt>
+    <trkpt lat="50.064118" lon="18.278107">
+      <ele>279</ele>
+      <time>2022-01-18T00:25:54Z</time>
+    </trkpt>
+    <trkpt lat="50.0642486" lon="18.2779555">
+      <ele>277</ele>
+      <time>2022-01-18T00:26:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:17Z</time>
+    <bounds maxlat="50.8320097" maxlon="15.2381117" minlat="50.8300461" minlon="15.2338738"/>
+  </metadata>
+  <wpt lat="50.83201" lon="15.233874">
+    <ele>975</ele>
+    <name>Cihadla</name>
+    <link href="https://mapa-turystyczna.pl/node/8793">
+      <text>Cihadla</text>
+    </link>
+  </wpt>
+  <wpt lat="50.830046" lon="15.238112">
+    <ele>981</ele>
+    <name>U Knejpy</name>
+    <link href="https://mapa-turystyczna.pl/node/8791">
+      <text>U Knejpy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cihadla - U Knejpy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8320097,15.2338738;50.83102955120536,15.235514450000007;50.8300461,15.2381117">
+    <text>Cihadla - U Knejpy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8320097" lon="15.2338738">
+      <ele>975</ele>
+      <time>2022-01-17T23:56:17Z</time>
+    </trkpt>
+    <trkpt lat="50.831365" lon="15.2349029">
+      <ele>976</ele>
+      <time>2022-01-17T23:57:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8306941" lon="15.236126">
+      <ele>978</ele>
+      <time>2022-01-17T23:59:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8304434" lon="15.2366678">
+      <ele>979</ele>
+      <time>2022-01-17T23:59:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8303214" lon="15.2370112">
+      <ele>980</ele>
+      <time>2022-01-18T00:00:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8301837" lon="15.2375292">
+      <ele>981</ele>
+      <time>2022-01-18T00:00:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8300461" lon="15.2381117">
+      <ele>981</ele>
+      <time>2022-01-18T00:01:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

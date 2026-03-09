@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:23Z</time>
+    <bounds maxlat="52.4669692" maxlon="20.8788881" minlat="52.4654102" minlon="20.8718837"/>
+  </metadata>
+  <wpt lat="52.46541" lon="20.872102">
+    <ele>76</ele>
+    <name>Kaluszyn, ul. Reja</name>
+    <link href="https://mapa-turystyczna.pl/node/11368">
+      <text>Kaluszyn, ul. Reja</text>
+    </link>
+  </wpt>
+  <wpt lat="52.466969" lon="20.878888">
+    <ele>75</ele>
+    <name>Skrzeszew, ul. Familijna</name>
+    <link href="https://mapa-turystyczna.pl/node/11369">
+      <text>Skrzeszew, ul. Familijna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaluszyn, ul. Reja - Skrzeszew, ul. Familijna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4654102,20.8721021;52.46619485051269,20.875692299999994;52.4669692,20.8788881">
+    <text>Kaluszyn, ul. Reja - Skrzeszew, ul. Familijna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4654102" lon="20.8721021">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:23Z</time>
+    </trkpt>
+    <trkpt lat="52.4655956" lon="20.8718837">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:51Z</time>
+    </trkpt>
+    <trkpt lat="52.4656587" lon="20.8719902">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:03Z</time>
+    </trkpt>
+    <trkpt lat="52.4658321" lon="20.8722806">
+      <ele>78</ele>
+      <time>2022-01-18T01:01:34Z</time>
+    </trkpt>
+    <trkpt lat="52.4658452" lon="20.8734178">
+      <ele>79</ele>
+      <time>2022-01-18T01:03:00Z</time>
+    </trkpt>
+    <trkpt lat="52.4658778" lon="20.8740186">
+      <ele>77</ele>
+      <time>2022-01-18T01:03:46Z</time>
+    </trkpt>
+    <trkpt lat="52.4659824" lon="20.8747267">
+      <ele>76</ele>
+      <time>2022-01-18T01:04:42Z</time>
+    </trkpt>
+    <trkpt lat="52.4664073" lon="20.8766579">
+      <ele>72</ele>
+      <time>2022-01-18T01:07:18Z</time>
+    </trkpt>
+    <trkpt lat="52.4666949" lon="20.8774197">
+      <ele>73</ele>
+      <time>2022-01-18T01:08:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4669236" lon="20.8785033">
+      <ele>74</ele>
+      <time>2022-01-18T01:09:53Z</time>
+    </trkpt>
+    <trkpt lat="52.4669692" lon="20.8788881">
+      <ele>75</ele>
+      <time>2022-01-18T01:10:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

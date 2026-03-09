@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:47Z</time>
+    <bounds maxlat="50.6404452" maxlon="19.3869399" minlat="50.6404171" minlon="19.3865776"/>
+  </metadata>
+  <wpt lat="50.640445" lon="19.38694">
+    <ele>366</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12698">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.640417" lon="19.386578">
+    <ele>366</ele>
+    <name>Przewodziszowice</name>
+    <link href="https://mapa-turystyczna.pl/node/4488">
+      <text>Przewodziszowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Przewodziszowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6404452,19.3869399;50.64043070000197,19.386699599999993;50.6404171,19.3865776">
+    <text>Rozejscie szlakow - Przewodziszowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6404452" lon="19.3869399">
+      <ele>366</ele>
+      <time>2022-01-18T01:36:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6404443" lon="19.3868216">
+      <ele>366</ele>
+      <time>2022-01-18T01:37:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6404171" lon="19.3865776">
+      <ele>366</ele>
+      <time>2022-01-18T01:37:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:39Z</time>
+    <bounds maxlat="50.8407365" maxlon="15.18395" minlat="50.8405908" minlon="15.1834103"/>
+  </metadata>
+  <wpt lat="50.840736" lon="15.18395">
+    <ele>1054</ele>
+    <name>Holubnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8807">
+      <text>Holubnik, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.840696" lon="15.183473">
+    <ele>1053</ele>
+    <name>Holubnik</name>
+    <link href="https://mapa-turystyczna.pl/node/8808">
+      <text>Holubnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Holubnik, rozc. - Holubnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8407365,15.18395;50.84063185000554,15.183567850000008;50.8406958,15.1834726">
+    <text>Holubnik, rozc. - Holubnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8407365" lon="15.18395">
+      <ele>1054</ele>
+      <time>2022-01-17T23:56:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8406958" lon="15.1837167">
+      <ele>1053</ele>
+      <time>2022-01-17T23:56:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8406546" lon="15.1836054">
+      <ele>1053</ele>
+      <time>2022-01-17T23:57:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8406091" lon="15.1835303">
+      <ele>1053</ele>
+      <time>2022-01-17T23:57:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8405908" lon="15.1834444">
+      <ele>1053</ele>
+      <time>2022-01-17T23:57:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8406399" lon="15.1834103">
+      <ele>1053</ele>
+      <time>2022-01-17T23:57:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8406958" lon="15.1834726">
+      <ele>1053</ele>
+      <time>2022-01-17T23:57:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:37Z</time>
+    <bounds maxlat="49.948225" maxlon="18.5692294" minlat="49.9424557" minlon="18.5565363"/>
+  </metadata>
+  <wpt lat="49.942456" lon="18.556536">
+    <ele>240</ele>
+    <name>Jastrzebie Zdroj, ul. Armii Krajowej</name>
+    <link href="https://mapa-turystyczna.pl/node/9866">
+      <text>Jastrzebie Zdroj, ul. Armii Krajowej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.948225" lon="18.569229">
+    <ele>257</ele>
+    <name>Jastrzebie Zdroj, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9865">
+      <text>Jastrzebie Zdroj, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jastrzebie Zdroj, ul. Armii Krajowej - Jastrzebie Zdroj, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9424557,18.5565363;49.94666967511131,18.563431950000034;49.948225,18.5692294">
+    <text>Jastrzebie Zdroj, ul. Armii Krajowej - Jastrzebie Zdroj, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9424557" lon="18.5565363">
+      <ele>240</ele>
+      <time>2022-01-18T00:22:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9424621" lon="18.5565416">
+      <ele>240</ele>
+      <time>2022-01-18T00:22:38Z</time>
+    </trkpt>
+    <trkpt lat="49.9428263" lon="18.5568634">
+      <ele>243</ele>
+      <time>2022-01-18T00:23:24Z</time>
+    </trkpt>
+    <trkpt lat="49.943446" lon="18.557314">
+      <ele>250</ele>
+      <time>2022-01-18T00:24:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9437602" lon="18.5575125">
+      <ele>253</ele>
+      <time>2022-01-18T00:25:17Z</time>
+    </trkpt>
+    <trkpt lat="49.9440294" lon="18.5575983">
+      <ele>254</ele>
+      <time>2022-01-18T00:25:47Z</time>
+    </trkpt>
+    <trkpt lat="49.9451143" lon="18.5576345">
+      <ele>254</ele>
+      <time>2022-01-18T00:27:47Z</time>
+    </trkpt>
+    <trkpt lat="49.948225" lon="18.5692294">
+      <ele>257</ele>
+      <time>2022-01-18T00:42:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

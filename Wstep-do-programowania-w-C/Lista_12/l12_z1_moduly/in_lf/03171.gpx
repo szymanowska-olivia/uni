@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:26:04Z</time>
+    <bounds maxlat="50.8908017" maxlon="15.2749658" minlat="50.8904633" minlon="15.2723265"/>
+  </metadata>
+  <wpt lat="50.890802" lon="15.274966">
+    <ele>1114</ele>
+    <name>Smrk, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2265">
+      <text>Smrk, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.890463" lon="15.272327">
+    <ele>1112</ele>
+    <name>Smrk</name>
+    <link href="https://mapa-turystyczna.pl/node/2266">
+      <text>Smrk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smrk, rozc. - Smrk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8908017,15.2749658;50.890632500307305,15.273646150000001;50.8904633,15.2723265">
+    <text>Smrk, rozc. - Smrk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8908017" lon="15.2749658">
+      <ele>1114</ele>
+      <time>2022-01-17T21:26:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8904633" lon="15.2723265">
+      <ele>1112</ele>
+      <time>2022-01-17T21:29:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:53Z</time>
+    <bounds maxlat="50.5372753" maxlon="16.2844366" minlat="50.5370163" minlon="16.2834388"/>
+  </metadata>
+  <wpt lat="50.537275" lon="16.283439">
+    <ele>590</ele>
+    <name>Slavny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5804">
+      <text>Slavny, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.537016" lon="16.284437">
+    <ele>595</ele>
+    <name>Slavny</name>
+    <link href="https://mapa-turystyczna.pl/node/5799">
+      <text>Slavny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slavny, rozc. - Slavny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5372753,16.2834388;50.53706910002956,16.28415764999998;50.5370163,16.2844366">
+    <text>Slavny, rozc. - Slavny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5372753" lon="16.2834388">
+      <ele>590</ele>
+      <time>2022-01-17T22:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5371219" lon="16.2838787">
+      <ele>592</ele>
+      <time>2022-01-17T22:37:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5370163" lon="16.2844366">
+      <ele>595</ele>
+      <time>2022-01-17T22:38:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

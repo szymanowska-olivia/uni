@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:39Z</time>
+    <bounds maxlat="50.2984895" maxlon="16.3269281" minlat="50.2950078" minlon="16.3134313"/>
+  </metadata>
+  <wpt lat="50.29849" lon="16.326928">
+    <ele>722</ele>
+    <name>Kout</name>
+    <link href="https://mapa-turystyczna.pl/node/1892">
+      <text>Kout</text>
+    </link>
+  </wpt>
+  <wpt lat="50.295008" lon="16.313431">
+    <ele>711</ele>
+    <name>Prazova bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2013">
+      <text>Prazova bouda, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kout - Prazova bouda, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2984895,16.3269281;50.29748885035991,16.319432000000006;50.2950078,16.3134313">
+    <text>Kout - Prazova bouda, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2984895" lon="16.3269281">
+      <ele>722</ele>
+      <time>2022-01-17T21:21:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2984312" lon="16.3258338">
+      <ele>711</ele>
+      <time>2022-01-17T21:23:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2981888" lon="16.3254502">
+      <ele>705</ele>
+      <time>2022-01-17T21:23:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2979464" lon="16.3245732">
+      <ele>691</ele>
+      <time>2022-01-17T21:24:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2976122" lon="16.3235056">
+      <ele>678</ele>
+      <time>2022-01-17T21:26:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2976259" lon="16.3217139">
+      <ele>676</ele>
+      <time>2022-01-17T21:28:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2973038" lon="16.3205069">
+      <ele>682</ele>
+      <time>2022-01-17T21:30:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2976739" lon="16.3183571">
+      <ele>702</ele>
+      <time>2022-01-17T21:33:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2976876" lon="16.317645">
+      <ele>705</ele>
+      <time>2022-01-17T21:34:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2973415" lon="16.3166445">
+      <ele>713</ele>
+      <time>2022-01-17T21:35:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2962484" lon="16.3153195">
+      <ele>719</ele>
+      <time>2022-01-17T21:38:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2950078" lon="16.3134313">
+      <ele>711</ele>
+      <time>2022-01-17T21:41:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

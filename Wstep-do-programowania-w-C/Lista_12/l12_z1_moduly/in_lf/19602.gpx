@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:21Z</time>
+    <bounds maxlat="50.574575" maxlon="16.4972515" minlat="50.572125" minlon="16.4836865"/>
+  </metadata>
+  <wpt lat="50.574276" lon="16.483687">
+    <ele>494</ele>
+    <name>Droga Staromlynska</name>
+    <link href="https://mapa-turystyczna.pl/node/13219">
+      <text>Droga Staromlynska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.572125" lon="16.497252">
+    <ele>530</ele>
+    <name>Kaplice Dzumowe</name>
+    <link href="https://mapa-turystyczna.pl/node/13208">
+      <text>Kaplice Dzumowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Staromlynska - Kaplice Dzumowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5742762,16.4836865;50.57438420021736,16.490561649999982;50.572125,16.4972515">
+    <text>Droga Staromlynska - Kaplice Dzumowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5742762" lon="16.4836865">
+      <ele>494</ele>
+      <time>2022-01-18T01:51:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5745068" lon="16.4851865">
+      <ele>490</ele>
+      <time>2022-01-18T01:53:23Z</time>
+    </trkpt>
+    <trkpt lat="50.574575" lon="16.4877614">
+      <ele>491</ele>
+      <time>2022-01-18T01:56:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5745273" lon="16.4894029">
+      <ele>505</ele>
+      <time>2022-01-18T01:58:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5742411" lon="16.4917204">
+      <ele>508</ele>
+      <time>2022-01-18T02:02:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5740639" lon="16.4928469">
+      <ele>503</ele>
+      <time>2022-01-18T02:03:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5739345" lon="16.4933941">
+      <ele>500</ele>
+      <time>2022-01-18T02:04:25Z</time>
+    </trkpt>
+    <trkpt lat="50.573621" lon="16.4947352">
+      <ele>498</ele>
+      <time>2022-01-18T02:06:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5727148" lon="16.4952609">
+      <ele>536</ele>
+      <time>2022-01-18T02:08:26Z</time>
+    </trkpt>
+    <trkpt lat="50.5722719" lon="16.4965913">
+      <ele>534</ele>
+      <time>2022-01-18T02:10:25Z</time>
+    </trkpt>
+    <trkpt lat="50.572125" lon="16.4972515">
+      <ele>530</ele>
+      <time>2022-01-18T02:11:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

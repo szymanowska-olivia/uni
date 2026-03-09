@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:58Z</time>
+    <bounds maxlat="52.2930133" maxlon="20.8391118" minlat="52.2911511" minlon="20.8384648"/>
+  </metadata>
+  <wpt lat="52.291151" lon="20.839112">
+    <ele>97</ele>
+    <name>Laski</name>
+    <link href="https://mapa-turystyczna.pl/node/4974">
+      <text>Laski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.293013" lon="20.838465">
+    <ele>102</ele>
+    <name>Lesny Ogrodek Botaniczny</name>
+    <link href="https://mapa-turystyczna.pl/node/12395">
+      <text>Lesny Ogrodek Botaniczny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Laski - Lesny Ogrodek Botaniczny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2911511,20.8391118;52.29190705038112,20.838886350000017;52.2930133,20.8384648">
+    <text>Laski - Lesny Ogrodek Botaniczny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2911511" lon="20.8391118">
+      <ele>97</ele>
+      <time>2022-01-18T01:27:58Z</time>
+    </trkpt>
+    <trkpt lat="52.2917233" lon="20.8389561">
+      <ele>98</ele>
+      <time>2022-01-18T01:29:29Z</time>
+    </trkpt>
+    <trkpt lat="52.2920908" lon="20.8388166">
+      <ele>99</ele>
+      <time>2022-01-18T01:30:28Z</time>
+    </trkpt>
+    <trkpt lat="52.2927667" lon="20.8386289">
+      <ele>101</ele>
+      <time>2022-01-18T01:32:15Z</time>
+    </trkpt>
+    <trkpt lat="52.2929898" lon="20.8385109">
+      <ele>102</ele>
+      <time>2022-01-18T01:32:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2930133" lon="20.8384648">
+      <ele>102</ele>
+      <time>2022-01-18T01:32:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:28:24Z</time>
+    <bounds maxlat="48.8854288" maxlon="19.0241401" minlat="48.8837567" minlon="19.0236264"/>
+  </metadata>
+  <wpt lat="48.885429" lon="19.023626">
+    <ele>1441</ele>
+    <name>Smrekov</name>
+    <link href="https://mapa-turystyczna.pl/node/5477">
+      <text>Smrekov</text>
+    </link>
+  </wpt>
+  <wpt lat="48.883757" lon="19.023793">
+    <ele>1395</ele>
+    <name>Sedlo pod Smrekovom</name>
+    <link href="https://mapa-turystyczna.pl/node/5478">
+      <text>Sedlo pod Smrekovom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smrekov - Sedlo pod Smrekovom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8854288,19.0236264;48.88455970027056,19.024097500000003;48.8837567,19.0237927">
+    <text>Smrekov - Sedlo pod Smrekovom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8854288" lon="19.0236264">
+      <ele>1441</ele>
+      <time>2022-01-17T22:28:24Z</time>
+    </trkpt>
+    <trkpt lat="48.8853018" lon="19.0237337">
+      <ele>1439</ele>
+      <time>2022-01-17T22:28:38Z</time>
+    </trkpt>
+    <trkpt lat="48.885136" lon="19.0237364">
+      <ele>1436</ele>
+      <time>2022-01-17T22:28:54Z</time>
+    </trkpt>
+    <trkpt lat="48.884778" lon="19.0240999">
+      <ele>1429</ele>
+      <time>2022-01-17T22:29:36Z</time>
+    </trkpt>
+    <trkpt lat="48.8847242" lon="19.0241233">
+      <ele>1428</ele>
+      <time>2022-01-17T22:29:41Z</time>
+    </trkpt>
+    <trkpt lat="48.8843952" lon="19.0240717">
+      <ele>1412</ele>
+      <time>2022-01-17T22:30:15Z</time>
+    </trkpt>
+    <trkpt lat="48.8842605" lon="19.0241273">
+      <ele>1408</ele>
+      <time>2022-01-17T22:30:29Z</time>
+    </trkpt>
+    <trkpt lat="48.8841823" lon="19.0241401">
+      <ele>1406</ele>
+      <time>2022-01-17T22:30:37Z</time>
+    </trkpt>
+    <trkpt lat="48.8840681" lon="19.0240583">
+      <ele>1402</ele>
+      <time>2022-01-17T22:30:49Z</time>
+    </trkpt>
+    <trkpt lat="48.8839031" lon="19.0238947">
+      <ele>1397</ele>
+      <time>2022-01-17T22:31:09Z</time>
+    </trkpt>
+    <trkpt lat="48.8837567" lon="19.0237927">
+      <ele>1395</ele>
+      <time>2022-01-17T22:31:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:20Z</time>
+    <bounds maxlat="50.77998" maxlon="16.211577" minlat="50.7796191" minlon="16.2107281"/>
+  </metadata>
+  <wpt lat="50.779619" lon="16.210728">
+    <ele>851</ele>
+    <name>Chelmiec</name>
+    <link href="https://mapa-turystyczna.pl/node/8061">
+      <text>Chelmiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.779963" lon="16.211577">
+    <ele>842</ele>
+    <name>Chelmiec, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/2557">
+      <text>Chelmiec, krzyz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmiec - Chelmiec, krzyz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7796191,16.2107281;50.77986730006776,16.211100200000022;50.7799632,16.211577">
+    <text>Chelmiec - Chelmiec, krzyz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7796191" lon="16.2107281">
+      <ele>851</ele>
+      <time>2022-01-17T23:35:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7797877" lon="16.2109765">
+      <ele>848</ele>
+      <time>2022-01-17T23:35:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7799469" lon="16.2112239">
+      <ele>844</ele>
+      <time>2022-01-17T23:36:00Z</time>
+    </trkpt>
+    <trkpt lat="50.77998" lon="16.2113963">
+      <ele>843</ele>
+      <time>2022-01-17T23:36:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7799632" lon="16.211577">
+      <ele>842</ele>
+      <time>2022-01-17T23:36:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

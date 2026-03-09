@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:47Z</time>
+    <bounds maxlat="49.1697664" maxlon="22.6899897" minlat="49.1692281" minlon="22.6883921"/>
+  </metadata>
+  <wpt lat="49.169766" lon="22.689916">
+    <ele>567</ele>
+    <name>Pszczeliny</name>
+    <link href="https://mapa-turystyczna.pl/node/11307">
+      <text>Pszczeliny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.169268" lon="22.688392">
+    <ele>579</ele>
+    <name>Rozejscie sciezki przyrodniczej</name>
+    <link href="https://mapa-turystyczna.pl/node/11308">
+      <text>Rozejscie sciezki przyrodniczej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pszczeliny - Rozejscie sciezki przyrodniczej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1697664,22.6899156;49.1692841500124,22.689497049999996;49.1692683,22.6883921">
+    <text>Pszczeliny - Rozejscie sciezki przyrodniczej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1697664" lon="22.6899156">
+      <ele>567</ele>
+      <time>2022-01-18T00:58:47Z</time>
+    </trkpt>
+    <trkpt lat="49.1696776" lon="22.6899897">
+      <ele>566</ele>
+      <time>2022-01-18T00:59:06Z</time>
+    </trkpt>
+    <trkpt lat="49.1694426" lon="22.6897751">
+      <ele>569</ele>
+      <time>2022-01-18T00:59:57Z</time>
+    </trkpt>
+    <trkpt lat="49.1692912" lon="22.6899369">
+      <ele>569</ele>
+      <time>2022-01-18T01:00:31Z</time>
+    </trkpt>
+    <trkpt lat="49.1692281" lon="22.6898511">
+      <ele>570</ele>
+      <time>2022-01-18T01:00:47Z</time>
+    </trkpt>
+    <trkpt lat="49.1692491" lon="22.6897438">
+      <ele>570</ele>
+      <time>2022-01-18T01:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.1693192" lon="22.6892503">
+      <ele>574</ele>
+      <time>2022-01-18T01:02:02Z</time>
+    </trkpt>
+    <trkpt lat="49.1692683" lon="22.6883921">
+      <ele>579</ele>
+      <time>2022-01-18T01:03:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

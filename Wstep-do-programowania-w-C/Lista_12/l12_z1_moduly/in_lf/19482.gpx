@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:13Z</time>
+    <bounds maxlat="50.4912415" maxlon="16.2803535" minlat="50.4907257" minlon="16.2793186"/>
+  </metadata>
+  <wpt lat="50.491242" lon="16.280354">
+    <ele>527</ele>
+    <name>Studanka Pod Borem, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13151">
+      <text>Studanka Pod Borem, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.490726" lon="16.279319">
+    <ele>542</ele>
+    <name>Studanka Pod Borem</name>
+    <link href="https://mapa-turystyczna.pl/node/13152">
+      <text>Studanka Pod Borem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studanka Pod Borem, odb. - Studanka Pod Borem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4912415,16.2803535;50.491026050024146,16.279731700000003;50.4907257,16.2793186">
+    <text>Studanka Pod Borem, odb. - Studanka Pod Borem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4912415" lon="16.2803535">
+      <ele>527</ele>
+      <time>2022-01-18T01:49:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4912308" lon="16.2801233">
+      <ele>527</ele>
+      <time>2022-01-18T01:49:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4910738" lon="16.2798658">
+      <ele>532</ele>
+      <time>2022-01-18T01:50:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4909783" lon="16.2795976">
+      <ele>536</ele>
+      <time>2022-01-18T01:51:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4908281" lon="16.2794044">
+      <ele>540</ele>
+      <time>2022-01-18T01:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4907257" lon="16.2793186">
+      <ele>542</ele>
+      <time>2022-01-18T01:52:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

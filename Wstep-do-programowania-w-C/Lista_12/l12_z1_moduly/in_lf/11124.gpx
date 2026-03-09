@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:52Z</time>
+    <bounds maxlat="50.0177846" maxlon="16.7944074" minlat="50.0142004" minlon="16.7882056"/>
+  </metadata>
+  <wpt lat="50.017785" lon="16.788206">
+    <ele>671</ele>
+    <name>Pisarovske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/7833">
+      <text>Pisarovske sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.0142" lon="16.794349">
+    <ele>604</ele>
+    <name>Pisarov, skola</name>
+    <link href="https://mapa-turystyczna.pl/node/7834">
+      <text>Pisarov, skola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pisarovske sedlo - Pisarov, skola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0177846,16.7882056;50.01642635328493,16.792519050000035;50.0142004,16.7943492">
+    <text>Pisarovske sedlo - Pisarov, skola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0177846" lon="16.7882056">
+      <ele>671</ele>
+      <time>2022-01-17T23:28:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0175949" lon="16.7889678">
+      <ele>668</ele>
+      <time>2022-01-17T23:29:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0172226" lon="16.7895579">
+      <ele>664</ele>
+      <time>2022-01-17T23:30:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0170916" lon="16.7900622">
+      <ele>661</ele>
+      <time>2022-01-17T23:31:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0171399" lon="16.7906201">
+      <ele>660</ele>
+      <time>2022-01-17T23:31:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0170227" lon="16.7913282">
+      <ele>659</ele>
+      <time>2022-01-17T23:32:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0169882" lon="16.7919826">
+      <ele>655</ele>
+      <time>2022-01-17T23:33:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0158645" lon="16.7930555">
+      <ele>629</ele>
+      <time>2022-01-17T23:35:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0156749" lon="16.7934847">
+      <ele>622</ele>
+      <time>2022-01-17T23:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0155818" lon="16.7939782">
+      <ele>619</ele>
+      <time>2022-01-17T23:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.014982" lon="16.7944074">
+      <ele>613</ele>
+      <time>2022-01-17T23:37:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0142004" lon="16.7943492">
+      <ele>604</ele>
+      <time>2022-01-17T23:38:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

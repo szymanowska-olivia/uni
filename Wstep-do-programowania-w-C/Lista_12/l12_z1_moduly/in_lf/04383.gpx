@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:43Z</time>
+    <bounds maxlat="50.7740612" maxlon="15.7147461" minlat="50.7685153" minlon="15.710234"/>
+  </metadata>
+  <wpt lat="50.774061" lon="15.714631">
+    <ele>964</ele>
+    <name>Budnicza Struga</name>
+    <link href="https://mapa-turystyczna.pl/node/3042">
+      <text>Budnicza Struga</text>
+    </link>
+  </wpt>
+  <wpt lat="50.768515" lon="15.710234">
+    <ele>1038</ele>
+    <name>Wapniak</name>
+    <link href="https://mapa-turystyczna.pl/node/3041">
+      <text>Wapniak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Budnicza Struga - Wapniak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7740612,15.7146305;50.77055615021205,15.71464285000002;50.7685153,15.710234">
+    <text>Budnicza Struga - Wapniak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7740612" lon="15.7146305">
+      <ele>964</ele>
+      <time>2022-01-17T21:41:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7731337" lon="15.7147354">
+      <ele>971</ele>
+      <time>2022-01-17T21:44:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7718915" lon="15.7146925">
+      <ele>987</ele>
+      <time>2022-01-17T21:47:51Z</time>
+    </trkpt>
+    <trkpt lat="50.770697" lon="15.7147461">
+      <ele>993</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7704153" lon="15.7145396">
+      <ele>993</ele>
+      <time>2022-01-17T21:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7701031" lon="15.7142579">
+      <ele>992</ele>
+      <time>2022-01-17T21:53:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7699215" lon="15.7139883">
+      <ele>995</ele>
+      <time>2022-01-17T21:53:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7691081" lon="15.712381">
+      <ele>1007</ele>
+      <time>2022-01-17T21:57:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7687866" lon="15.7112941">
+      <ele>1027</ele>
+      <time>2022-01-17T21:59:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7685153" lon="15.710234">
+      <ele>1038</ele>
+      <time>2022-01-17T22:01:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

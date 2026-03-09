@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:47Z</time>
+    <bounds maxlat="52.3823844" maxlon="20.9069756" minlat="52.3802516" minlon="20.8985372"/>
+  </metadata>
+  <wpt lat="52.380252" lon="20.898537">
+    <ele>73</ele>
+    <name>Rozejscie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11384">
+      <text>Rozejscie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.381937" lon="20.906976">
+    <ele>79</ele>
+    <name>Jablonna, stacja paliw</name>
+    <link href="https://mapa-turystyczna.pl/node/11385">
+      <text>Jablonna, stacja paliw</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow niebieski / czarny - Jablonna, stacja paliw</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3802516,20.8985372;52.38226655015728,20.90193945000003;52.3819369,20.9069756">
+    <text>Rozejscie szlakow niebieski / czarny - Jablonna, stacja paliw</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3802516" lon="20.8985372">
+      <ele>73</ele>
+      <time>2022-01-18T01:00:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3823844" lon="20.9014513">
+      <ele>75</ele>
+      <time>2022-01-18T01:05:11Z</time>
+    </trkpt>
+    <trkpt lat="52.3821487" lon="20.9024276">
+      <ele>75</ele>
+      <time>2022-01-18T01:06:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3820373" lon="20.9031786">
+      <ele>76</ele>
+      <time>2022-01-18T01:06:57Z</time>
+    </trkpt>
+    <trkpt lat="52.3819457" lon="20.9040047">
+      <ele>76</ele>
+      <time>2022-01-18T01:07:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3818671" lon="20.9052171">
+      <ele>76</ele>
+      <time>2022-01-18T01:08:57Z</time>
+    </trkpt>
+    <trkpt lat="52.3817361" lon="20.9062578">
+      <ele>78</ele>
+      <time>2022-01-18T01:09:58Z</time>
+    </trkpt>
+    <trkpt lat="52.3817579" lon="20.9066703">
+      <ele>78</ele>
+      <time>2022-01-18T01:10:22Z</time>
+    </trkpt>
+    <trkpt lat="52.3819369" lon="20.9069756">
+      <ele>79</ele>
+      <time>2022-01-18T01:10:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

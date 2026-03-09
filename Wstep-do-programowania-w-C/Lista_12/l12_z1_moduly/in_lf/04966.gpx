@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:58Z</time>
+    <bounds maxlat="50.8974912" maxlon="15.1430051" minlat="50.8970031" minlon="15.1415366"/>
+  </metadata>
+  <wpt lat="50.897491" lon="15.141537">
+    <ele>332</ele>
+    <name>Raspenava</name>
+    <link href="https://mapa-turystyczna.pl/node/3469">
+      <text>Raspenava</text>
+    </link>
+  </wpt>
+  <wpt lat="50.897003" lon="15.143005">
+    <ele>334</ele>
+    <name>Raspenava, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/3472">
+      <text>Raspenava, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raspenava - Raspenava, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8974912,15.1415366;50.89718730036432,15.142531349999997;50.8970031,15.1430051">
+    <text>Raspenava - Raspenava, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8974912" lon="15.1415366">
+      <ele>332</ele>
+      <time>2022-01-17T21:48:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8974677" lon="15.1416925">
+      <ele>332</ele>
+      <time>2022-01-17T21:49:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8973715" lon="15.1420576">
+      <ele>333</ele>
+      <time>2022-01-17T21:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8970031" lon="15.1430051">
+      <ele>334</ele>
+      <time>2022-01-17T21:50:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

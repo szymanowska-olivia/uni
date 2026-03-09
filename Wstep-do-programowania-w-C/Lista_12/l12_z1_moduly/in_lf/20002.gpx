@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:47Z</time>
+    <bounds maxlat="50.4367929" maxlon="16.6589198" minlat="50.4352226" minlon="16.6573894"/>
+  </metadata>
+  <wpt lat="50.436793" lon="16.658916">
+    <ele>289</ele>
+    <name>Klodzko</name>
+    <link href="https://mapa-turystyczna.pl/node/2215">
+      <text>Klodzko</text>
+    </link>
+  </wpt>
+  <wpt lat="50.435223" lon="16.657389">
+    <ele>287</ele>
+    <name>Klodzko Miasto</name>
+    <link href="https://mapa-turystyczna.pl/node/13489">
+      <text>Klodzko Miasto</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klodzko - Klodzko Miasto</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4367929,16.6589159;50.43606365031448,16.65789605000001;50.4352226,16.6573894">
+    <text>Klodzko - Klodzko Miasto</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4367929" lon="16.6589159">
+      <ele>289</ele>
+      <time>2022-01-18T01:58:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4366836" lon="16.6589198">
+      <ele>289</ele>
+      <time>2022-01-18T01:59:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4366632" lon="16.6583872">
+      <ele>288</ele>
+      <time>2022-01-18T01:59:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4366155" lon="16.6581804">
+      <ele>288</ele>
+      <time>2022-01-18T02:00:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4364241" lon="16.6580946">
+      <ele>288</ele>
+      <time>2022-01-18T02:00:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4362841" lon="16.6580087">
+      <ele>288</ele>
+      <time>2022-01-18T02:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4362362" lon="16.6579497">
+      <ele>287</ele>
+      <time>2022-01-18T02:01:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4358911" lon="16.6578424">
+      <ele>287</ele>
+      <time>2022-01-18T02:02:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4355904" lon="16.6574991">
+      <ele>287</ele>
+      <time>2022-01-18T02:02:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4352226" lon="16.6573894">
+      <ele>287</ele>
+      <time>2022-01-18T02:03:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

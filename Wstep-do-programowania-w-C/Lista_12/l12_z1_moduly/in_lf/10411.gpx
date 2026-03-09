@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:32Z</time>
+    <bounds maxlat="50.2160026" maxlon="16.8358853" minlat="50.21536" minlon="16.8351102"/>
+  </metadata>
+  <wpt lat="50.216003" lon="16.835885">
+    <ele>1122</ele>
+    <name>Przelecz Snieznicka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7311">
+      <text>Przelecz Snieznicka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.21536" lon="16.83511">
+    <ele>1123</ele>
+    <name>Przelecz Snieznicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1721">
+      <text>Przelecz Snieznicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Snieznicka, rozejscie szlakow - Przelecz Snieznicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2160026,16.8358853;50.21556185042697,16.835367699999985;50.21536,16.8351102">
+    <text>Przelecz Snieznicka, rozejscie szlakow - Przelecz Snieznicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2160026" lon="16.8358853">
+      <ele>1122</ele>
+      <time>2022-01-17T23:15:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2159971" lon="16.8358827">
+      <ele>1122</ele>
+      <time>2022-01-17T23:15:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2157637" lon="16.8356252">
+      <ele>1122</ele>
+      <time>2022-01-17T23:15:54Z</time>
+    </trkpt>
+    <trkpt lat="50.21536" lon="16.8351102">
+      <ele>1123</ele>
+      <time>2022-01-17T23:16:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

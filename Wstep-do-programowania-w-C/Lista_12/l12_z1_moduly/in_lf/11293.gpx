@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:01Z</time>
+    <bounds maxlat="50.0107942" maxlon="17.0222128" minlat="50.010077" minlon="17.0217875"/>
+  </metadata>
+  <wpt lat="50.010077" lon="17.021787">
+    <ele>379</ele>
+    <name>Skalni krcma, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7957">
+      <text>Skalni krcma, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.010794" lon="17.022079">
+    <ele>398</ele>
+    <name>Skalni krcma</name>
+    <link href="https://mapa-turystyczna.pl/node/7958">
+      <text>Skalni krcma</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalni krcma, rozc. - Skalni krcma</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.010077,17.0217875;50.010508000065414,17.022110849999983;50.0107942,17.0220787">
+    <text>Skalni krcma, rozc. - Skalni krcma</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.010077" lon="17.0217875">
+      <ele>379</ele>
+      <time>2022-01-17T23:32:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0104287" lon="17.0220679">
+      <ele>385</ele>
+      <time>2022-01-17T23:33:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0105873" lon="17.0221538">
+      <ele>389</ele>
+      <time>2022-01-17T23:34:03Z</time>
+    </trkpt>
+    <trkpt lat="50.010739" lon="17.0222128">
+      <ele>393</ele>
+      <time>2022-01-17T23:34:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0107942" lon="17.0220787">
+      <ele>398</ele>
+      <time>2022-01-17T23:35:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

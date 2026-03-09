@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:17Z</time>
+    <bounds maxlat="50.7498239" maxlon="15.4850793" minlat="50.7497292" minlon="15.4837791"/>
+  </metadata>
+  <wpt lat="50.749824" lon="15.485079">
+    <ele>968</ele>
+    <name>Rucicky</name>
+    <link href="https://mapa-turystyczna.pl/node/1341">
+      <text>Rucicky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.749729" lon="15.483779">
+    <ele>967</ele>
+    <name>Rucicky, kiosek</name>
+    <link href="https://mapa-turystyczna.pl/node/5818">
+      <text>Rucicky, kiosek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rucicky - Rucicky, kiosek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7498239,15.4850793;50.74977655002396,15.48442920000002;50.7497292,15.4837791">
+    <text>Rucicky - Rucicky, kiosek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7498239" lon="15.4850793">
+      <ele>968</ele>
+      <time>2022-01-17T22:37:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7497292" lon="15.4837791">
+      <ele>967</ele>
+      <time>2022-01-17T22:38:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

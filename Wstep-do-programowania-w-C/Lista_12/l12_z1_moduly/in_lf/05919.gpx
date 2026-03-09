@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:55Z</time>
+    <bounds maxlat="50.4427188" maxlon="16.2487528" minlat="50.4422456" minlon="16.246199"/>
+  </metadata>
+  <wpt lat="50.442719" lon="16.248753">
+    <ele>390</ele>
+    <name>Kudowa-Zdroj, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/4074">
+      <text>Kudowa-Zdroj, przystanek autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.442246" lon="16.246199">
+    <ele>388</ele>
+    <name>Kudowa-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/1843">
+      <text>Kudowa-Zdroj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kudowa-Zdroj, przystanek autobusowy - Kudowa-Zdroj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4427188,16.2487528;50.44258985017567,16.24780849999999;50.4422456,16.246199">
+    <text>Kudowa-Zdroj, przystanek autobusowy - Kudowa-Zdroj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4427188" lon="16.2487528">
+      <ele>390</ele>
+      <time>2022-01-17T22:02:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4424609" lon="16.2468642">
+      <ele>386</ele>
+      <time>2022-01-17T22:05:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4423806" lon="16.2465155">
+      <ele>387</ele>
+      <time>2022-01-17T22:05:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4422456" lon="16.246199">
+      <ele>388</ele>
+      <time>2022-01-17T22:05:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

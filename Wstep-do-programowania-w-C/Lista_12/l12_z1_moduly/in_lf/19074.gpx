@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:59Z</time>
+    <bounds maxlat="52.1204369" maxlon="21.258178" minlat="52.1198473" minlon="21.2548464"/>
+  </metadata>
+  <wpt lat="52.120019" lon="21.254846">
+    <ele>94</ele>
+    <name>Otwock, ul. Kasztanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12910">
+      <text>Otwock, ul. Kasztanowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.11985" lon="21.258178">
+    <ele>97</ele>
+    <name>Otwock, ul. Zajecza</name>
+    <link href="https://mapa-turystyczna.pl/node/12908">
+      <text>Otwock, ul. Zajecza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Kasztanowa - Otwock, ul. Zajecza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1200193,21.2548464;52.120308450185085,21.256361199999994;52.1198504,21.258178">
+    <text>Otwock, ul. Kasztanowa - Otwock, ul. Zajecza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1200193" lon="21.2548464">
+      <ele>94</ele>
+      <time>2022-01-18T01:41:59Z</time>
+    </trkpt>
+    <trkpt lat="52.1204369" lon="21.256152">
+      <ele>94</ele>
+      <time>2022-01-18T01:43:55Z</time>
+    </trkpt>
+    <trkpt lat="52.12018" lon="21.2565704">
+      <ele>94</ele>
+      <time>2022-01-18T01:44:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1200844" lon="21.2567796">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1200219" lon="21.2569459">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:18Z</time>
+    </trkpt>
+    <trkpt lat="52.1199033" lon="21.2573805">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:55Z</time>
+    </trkpt>
+    <trkpt lat="52.1198605" lon="21.2576272">
+      <ele>95</ele>
+      <time>2022-01-18T01:46:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1198473" lon="21.2579169">
+      <ele>96</ele>
+      <time>2022-01-18T01:46:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1198504" lon="21.258178">
+      <ele>97</ele>
+      <time>2022-01-18T01:46:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

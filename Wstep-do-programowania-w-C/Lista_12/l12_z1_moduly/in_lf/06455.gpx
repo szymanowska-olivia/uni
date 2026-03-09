@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:25Z</time>
+    <bounds maxlat="50.6930153" maxlon="19.3666541" minlat="50.6923867" minlon="19.34937"/>
+  </metadata>
+  <wpt lat="50.693015" lon="19.366654">
+    <ele>360</ele>
+    <name>Siedlec</name>
+    <link href="https://mapa-turystyczna.pl/node/4508">
+      <text>Siedlec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.692387" lon="19.34937">
+    <ele>358</ele>
+    <name>Szczypie</name>
+    <link href="https://mapa-turystyczna.pl/node/4509">
+      <text>Szczypie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Siedlec - Szczypie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6930153,19.3666541;50.69264025041598,19.35545730000001;50.6923867,19.34937">
+    <text>Siedlec - Szczypie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6930153" lon="19.3666541">
+      <ele>360</ele>
+      <time>2022-01-17T22:07:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6928378" lon="19.3606594">
+      <ele>362</ele>
+      <time>2022-01-17T22:14:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6924427" lon="19.3502552">
+      <ele>355</ele>
+      <time>2022-01-17T22:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6923867" lon="19.34937">
+      <ele>358</ele>
+      <time>2022-01-17T22:27:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

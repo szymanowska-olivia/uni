@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:59Z</time>
+    <bounds maxlat="51.0894174" maxlon="15.8802287" minlat="51.0876726" minlon="15.8792828"/>
+  </metadata>
+  <wpt lat="51.087673" lon="15.8799">
+    <ele>219</ele>
+    <name>Krzeniow, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11740">
+      <text>Krzeniow, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="51.089417" lon="15.879283">
+    <ele>254</ele>
+    <name>Czerwony Kamien, odejscie na szczyt</name>
+    <link href="https://mapa-turystyczna.pl/node/11799">
+      <text>Czerwony Kamien, odejscie na szczyt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krzeniow, parking - Czerwony Kamien, odejscie na szczyt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0876726,15.8798996;51.08877330014199,15.880116000000001;51.0894174,15.8792828">
+    <text>Krzeniow, parking - Czerwony Kamien, odejscie na szczyt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0876726" lon="15.8798996">
+      <ele>219</ele>
+      <time>2022-01-18T01:11:59Z</time>
+    </trkpt>
+    <trkpt lat="51.0880118" lon="15.8799068">
+      <ele>224</ele>
+      <time>2022-01-18T01:12:46Z</time>
+    </trkpt>
+    <trkpt lat="51.0884161" lon="15.8800141">
+      <ele>231</ele>
+      <time>2022-01-18T01:13:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0886587" lon="15.8800248">
+      <ele>236</ele>
+      <time>2022-01-18T01:14:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0888879" lon="15.8802072">
+      <ele>241</ele>
+      <time>2022-01-18T01:14:53Z</time>
+    </trkpt>
+    <trkpt lat="51.0890226" lon="15.8802287">
+      <ele>245</ele>
+      <time>2022-01-18T01:15:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0891844" lon="15.8801428">
+      <ele>249</ele>
+      <time>2022-01-18T01:15:37Z</time>
+    </trkpt>
+    <trkpt lat="51.0892989" lon="15.8798424">
+      <ele>253</ele>
+      <time>2022-01-18T01:16:08Z</time>
+    </trkpt>
+    <trkpt lat="51.0893865" lon="15.8794347">
+      <ele>254</ele>
+      <time>2022-01-18T01:16:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0894174" lon="15.8792828">
+      <ele>254</ele>
+      <time>2022-01-18T01:16:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

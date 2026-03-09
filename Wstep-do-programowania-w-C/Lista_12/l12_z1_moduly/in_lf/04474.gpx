@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:10Z</time>
+    <bounds maxlat="50.7541605" maxlon="15.3148019" minlat="50.7532985" minlon="15.3139973"/>
+  </metadata>
+  <wpt lat="50.75416" lon="15.313997">
+    <ele>488</ele>
+    <name>Desna</name>
+    <link href="https://mapa-turystyczna.pl/node/3093">
+      <text>Desna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.753298" lon="15.314802">
+    <ele>490</ele>
+    <name>Desna, Cukrarna Slunecnice</name>
+    <link href="https://mapa-turystyczna.pl/node/3100">
+      <text>Desna, Cukrarna Slunecnice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Desna - Desna, Cukrarna Slunecnice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7541605,15.3139973;50.75372950198436,15.314399600000014;50.7532985,15.3148019">
+    <text>Desna - Desna, Cukrarna Slunecnice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7541605" lon="15.3139973">
+      <ele>488</ele>
+      <time>2022-01-17T21:43:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7532985" lon="15.3148019">
+      <ele>490</ele>
+      <time>2022-01-17T21:45:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

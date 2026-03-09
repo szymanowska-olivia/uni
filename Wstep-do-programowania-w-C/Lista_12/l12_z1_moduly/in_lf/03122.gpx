@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:22Z</time>
+    <bounds maxlat="50.7403815" maxlon="15.7290369" minlat="50.7392721" minlon="15.7245175"/>
+  </metadata>
+  <wpt lat="50.740381" lon="15.724517">
+    <ele>1385</ele>
+    <name>Przelecz Pod Sniezka</name>
+    <link href="https://mapa-turystyczna.pl/node/2225">
+      <text>Przelecz Pod Sniezka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.739272" lon="15.729037">
+    <ele>1395</ele>
+    <name>Schronisko Dom Slaski</name>
+    <link href="https://mapa-turystyczna.pl/node/1349">
+      <text>Schronisko Dom Slaski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Pod Sniezka - Schronisko Dom Slaski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7403815,15.7245175;50.73979835000171,15.726714899999985;50.7392721,15.7290369">
+    <text>Przelecz Pod Sniezka - Schronisko Dom Slaski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7403815" lon="15.7245175">
+      <ele>1385</ele>
+      <time>2022-01-17T21:25:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7402474" lon="15.7248159">
+      <ele>1386</ele>
+      <time>2022-01-17T21:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7401236" lon="15.7251089">
+      <ele>1389</ele>
+      <time>2022-01-17T21:26:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7399765" lon="15.725566">
+      <ele>1392</ele>
+      <time>2022-01-17T21:26:37Z</time>
+    </trkpt>
+    <trkpt lat="50.739843" lon="15.7260231">
+      <ele>1394</ele>
+      <time>2022-01-17T21:27:07Z</time>
+    </trkpt>
+    <trkpt lat="50.739811" lon="15.7263106">
+      <ele>1395</ele>
+      <time>2022-01-17T21:27:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7397857" lon="15.7271192">
+      <ele>1397</ele>
+      <time>2022-01-17T21:28:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7397567" lon="15.7274747">
+      <ele>1397</ele>
+      <time>2022-01-17T21:28:36Z</time>
+    </trkpt>
+    <trkpt lat="50.739703" lon="15.727669">
+      <ele>1396</ele>
+      <time>2022-01-17T21:28:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7396335" lon="15.7279708">
+      <ele>1394</ele>
+      <time>2022-01-17T21:29:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7394961" lon="15.7283208">
+      <ele>1393</ele>
+      <time>2022-01-17T21:29:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7392721" lon="15.7290369">
+      <ele>1395</ele>
+      <time>2022-01-17T21:30:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

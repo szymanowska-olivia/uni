@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:08Z</time>
+    <bounds maxlat="50.6635465" maxlon="16.595943" minlat="50.6617804" minlon="16.5927732"/>
+  </metadata>
+  <wpt lat="50.663547" lon="16.592773">
+    <ele>398</ele>
+    <name>Rozdroze nad Nowa Bielawa</name>
+    <link href="https://mapa-turystyczna.pl/node/4019">
+      <text>Rozdroze nad Nowa Bielawa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.66178" lon="16.595943">
+    <ele>387</ele>
+    <name>Nowa Bielawa</name>
+    <link href="https://mapa-turystyczna.pl/node/2049">
+      <text>Nowa Bielawa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze nad Nowa Bielawa - Nowa Bielawa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6635465,16.5927732;50.66264335028031,16.594649649999994;50.6617804,16.595943">
+    <text>Rozdroze nad Nowa Bielawa - Nowa Bielawa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6635465" lon="16.5927732">
+      <ele>398</ele>
+      <time>2022-01-17T22:01:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6631509" lon="16.5936299">
+      <ele>390</ele>
+      <time>2022-01-17T22:02:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6629673" lon="16.5939035">
+      <ele>389</ele>
+      <time>2022-01-17T22:02:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6628056" lon="16.5942585">
+      <ele>388</ele>
+      <time>2022-01-17T22:03:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6624811" lon="16.5950408">
+      <ele>389</ele>
+      <time>2022-01-17T22:04:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6624097" lon="16.5953251">
+      <ele>387</ele>
+      <time>2022-01-17T22:04:44Z</time>
+    </trkpt>
+    <trkpt lat="50.662356" lon="16.5954289">
+      <ele>387</ele>
+      <time>2022-01-17T22:04:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6622955" lon="16.5955112">
+      <ele>386</ele>
+      <time>2022-01-17T22:05:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6619657" lon="16.5956345">
+      <ele>386</ele>
+      <time>2022-01-17T22:05:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6618416" lon="16.5958156">
+      <ele>387</ele>
+      <time>2022-01-17T22:05:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6617804" lon="16.595943">
+      <ele>387</ele>
+      <time>2022-01-17T22:06:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

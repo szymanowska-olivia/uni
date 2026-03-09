@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:52Z</time>
+    <bounds maxlat="50.6954715" maxlon="15.7391489" minlat="50.6941384" minlon="15.7337355"/>
+  </metadata>
+  <wpt lat="50.694138" lon="15.733735">
+    <ele>780</ele>
+    <name>Pec pod Snezkou, Vesely Vylet</name>
+    <link href="https://mapa-turystyczna.pl/node/1257">
+      <text>Pec pod Snezkou, Vesely Vylet</text>
+    </link>
+  </wpt>
+  <wpt lat="50.695471" lon="15.739149">
+    <ele>768</ele>
+    <name>Pec pod Snezkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1253">
+      <text>Pec pod Snezkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pec pod Snezkou, Vesely Vylet - Pec pod Snezkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6941384,15.7337355;50.694984150812935,15.736188350000008;50.6954715,15.7391489">
+    <text>Pec pod Snezkou, Vesely Vylet - Pec pod Snezkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6941384" lon="15.7337355">
+      <ele>780</ele>
+      <time>2022-01-17T21:04:52Z</time>
+    </trkpt>
+    <trkpt lat="50.694708" lon="15.7351644">
+      <ele>778</ele>
+      <time>2022-01-17T21:06:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6952603" lon="15.7372123">
+      <ele>776</ele>
+      <time>2022-01-17T21:08:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6953671" lon="15.737805">
+      <ele>774</ele>
+      <time>2022-01-17T21:08:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6954466" lon="15.7384997">
+      <ele>774</ele>
+      <time>2022-01-17T21:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6954715" lon="15.7391489">
+      <ele>768</ele>
+      <time>2022-01-17T21:09:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

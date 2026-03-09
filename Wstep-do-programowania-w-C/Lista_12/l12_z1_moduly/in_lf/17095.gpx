@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:51Z</time>
+    <bounds maxlat="50.4496105" maxlon="16.4230907" minlat="50.4486815" minlon="16.4228422"/>
+  </metadata>
+  <wpt lat="50.448681" lon="16.423091">
+    <ele>673</ele>
+    <name>Batorowek</name>
+    <link href="https://mapa-turystyczna.pl/node/1784">
+      <text>Batorowek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.44961" lon="16.422842">
+    <ele>679</ele>
+    <name>Skalne Grzyby, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11666">
+      <text>Skalne Grzyby, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Batorowek - Skalne Grzyby, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4486815,16.4230907;50.449243900612736,16.422987199999977;50.4496105,16.4228422">
+    <text>Batorowek - Skalne Grzyby, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4486815" lon="16.4230907">
+      <ele>673</ele>
+      <time>2022-01-18T01:07:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4490031" lon="16.4230623">
+      <ele>672</ele>
+      <time>2022-01-18T01:08:32Z</time>
+    </trkpt>
+    <trkpt lat="50.4494847" lon="16.4229121">
+      <ele>676</ele>
+      <time>2022-01-18T01:09:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4496105" lon="16.4228422">
+      <ele>679</ele>
+      <time>2022-01-18T01:09:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

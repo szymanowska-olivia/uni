@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:03Z</time>
+    <bounds maxlat="50.2480659" maxlon="16.8143055" minlat="50.2465247" minlon="16.8043828"/>
+  </metadata>
+  <wpt lat="50.24763" lon="16.804383">
+    <ele>1132</ele>
+    <name>Przelecz pod Jaworowa Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/1749">
+      <text>Przelecz pod Jaworowa Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.248066" lon="16.814305">
+    <ele>1048</ele>
+    <name>Zmijowa Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/8115">
+      <text>Zmijowa Polana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Jaworowa Kopa - Zmijowa Polana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2476303,16.8043828;50.246656800183096,16.810539099999975;50.2480659,16.8143055">
+    <text>Przelecz pod Jaworowa Kopa - Zmijowa Polana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2476303" lon="16.8043828">
+      <ele>1132</ele>
+      <time>2022-01-17T23:37:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2475642" lon="16.8045899">
+      <ele>1131</ele>
+      <time>2022-01-17T23:37:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2471319" lon="16.8074545">
+      <ele>1097</ele>
+      <time>2022-01-17T23:39:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2467889" lon="16.8096808">
+      <ele>1068</ele>
+      <time>2022-01-17T23:42:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2465247" lon="16.8113974">
+      <ele>1053</ele>
+      <time>2022-01-17T23:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.24656" lon="16.8115926">
+      <ele>1051</ele>
+      <time>2022-01-17T23:43:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2480659" lon="16.8143055">
+      <ele>1048</ele>
+      <time>2022-01-17T23:47:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

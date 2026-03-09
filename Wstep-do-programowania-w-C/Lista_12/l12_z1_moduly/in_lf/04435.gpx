@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:26Z</time>
+    <bounds maxlat="50.4056696" maxlon="17.1869194" minlat="50.3898472" minlon="17.1829444"/>
+  </metadata>
+  <wpt lat="50.40567" lon="17.186919">
+    <ele>227</ele>
+    <name>Kalkow</name>
+    <link href="https://mapa-turystyczna.pl/node/2762">
+      <text>Kalkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.389847" lon="17.183905">
+    <ele>226</ele>
+    <name>Przejscie graniczne Kalkow / Vidnava</name>
+    <link href="https://mapa-turystyczna.pl/node/3069">
+      <text>Przejscie graniczne Kalkow / Vidnava</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kalkow - Przejscie graniczne Kalkow / Vidnava</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4056696,17.1869194;50.395257968164024,17.184599350000017;50.3898472,17.1839046">
+    <text>Kalkow - Przejscie graniczne Kalkow / Vidnava</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4056696" lon="17.1869194">
+      <ele>227</ele>
+      <time>2022-01-17T21:42:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4054973" lon="17.1867263">
+      <ele>227</ele>
+      <time>2022-01-17T21:42:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4047862" lon="17.1862436">
+      <ele>226</ele>
+      <time>2022-01-17T21:44:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4044648" lon="17.1861148">
+      <ele>227</ele>
+      <time>2022-01-17T21:44:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4042938" lon="17.1861363">
+      <ele>227</ele>
+      <time>2022-01-17T21:45:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4035621" lon="17.1865225">
+      <ele>225</ele>
+      <time>2022-01-17T21:46:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4032339" lon="17.1866942">
+      <ele>225</ele>
+      <time>2022-01-17T21:47:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4026184" lon="17.1867478">
+      <ele>222</ele>
+      <time>2022-01-17T21:48:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4018799" lon="17.1866942">
+      <ele>221</ele>
+      <time>2022-01-17T21:49:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4003001" lon="17.1862543">
+      <ele>220</ele>
+      <time>2022-01-17T21:52:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3902153" lon="17.1829444">
+      <ele>225</ele>
+      <time>2022-01-17T22:11:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3898472" lon="17.1839046">
+      <ele>226</ele>
+      <time>2022-01-17T22:12:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

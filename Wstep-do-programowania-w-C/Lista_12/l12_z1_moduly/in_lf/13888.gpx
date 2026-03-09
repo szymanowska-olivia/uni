@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:58Z</time>
+    <bounds maxlat="50.2242326" maxlon="18.77131" minlat="50.2239104" minlon="18.7701634"/>
+  </metadata>
+  <wpt lat="50.224233" lon="18.770163">
+    <ele>236</ele>
+    <name>Podzamcze, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9518">
+      <text>Podzamcze, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.22391" lon="18.77131">
+    <ele>235</ele>
+    <name>Chudow, Podzamcze</name>
+    <link href="https://mapa-turystyczna.pl/node/9476">
+      <text>Chudow, Podzamcze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podzamcze, parking - Chudow, Podzamcze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2242326,18.7701634;50.224071300271405,18.770736699999986;50.2239104,18.77131">
+    <text>Podzamcze, parking - Chudow, Podzamcze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2242326" lon="18.7701634">
+      <ele>236</ele>
+      <time>2022-01-18T00:13:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2242322" lon="18.7701634">
+      <ele>236</ele>
+      <time>2022-01-18T00:13:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2239104" lon="18.77131">
+      <ele>235</ele>
+      <time>2022-01-18T00:14:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

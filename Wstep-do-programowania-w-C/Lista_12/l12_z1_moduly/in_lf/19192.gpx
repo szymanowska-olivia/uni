@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:51Z</time>
+    <bounds maxlat="51.144652" maxlon="16.2425351" minlat="51.1440763" minlon="16.2420939"/>
+  </metadata>
+  <wpt lat="51.144076" lon="16.242094">
+    <ele>171</ele>
+    <name>Legnickie Pole, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/12967">
+      <text>Legnickie Pole, muzeum</text>
+    </link>
+  </wpt>
+  <wpt lat="51.144652" lon="16.242535">
+    <ele>171</ele>
+    <name>Legnickie Pole</name>
+    <link href="https://mapa-turystyczna.pl/node/3355">
+      <text>Legnickie Pole</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legnickie Pole, muzeum - Legnickie Pole</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1440763,16.2420939;51.1444550504202,16.2423472;51.144652,16.2425351">
+    <text>Legnickie Pole, muzeum - Legnickie Pole</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1440763" lon="16.2420939">
+      <ele>171</ele>
+      <time>2022-01-18T01:43:51Z</time>
+    </trkpt>
+    <trkpt lat="51.1442581" lon="16.2421593">
+      <ele>170</ele>
+      <time>2022-01-18T01:44:08Z</time>
+    </trkpt>
+    <trkpt lat="51.144652" lon="16.2425351">
+      <ele>171</ele>
+      <time>2022-01-18T01:44:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

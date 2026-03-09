@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:47Z</time>
+    <bounds maxlat="50.2464468" maxlon="17.1914417" minlat="50.2444982" minlon="17.1894944"/>
+  </metadata>
+  <wpt lat="50.244498" lon="17.189494">
+    <ele>643</ele>
+    <name>Slovansky pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6208">
+      <text>Slovansky pramen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.246447" lon="17.191442">
+    <ele>639</ele>
+    <name>Pod Rumunskym pramenem</name>
+    <link href="https://mapa-turystyczna.pl/node/6216">
+      <text>Pod Rumunskym pramenem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slovansky pramen - Pod Rumunskym pramenem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2444982,17.1894944;50.24582240042977,17.19020515000001;50.2464468,17.1914417">
+    <text>Slovansky pramen - Pod Rumunskym pramenem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2444982" lon="17.1894944">
+      <ele>643</ele>
+      <time>2022-01-17T22:47:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2449665" lon="17.1895427">
+      <ele>647</ele>
+      <time>2022-01-17T22:48:42Z</time>
+    </trkpt>
+    <trkpt lat="50.245006" lon="17.1895158">
+      <ele>647</ele>
+      <time>2022-01-17T22:48:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2454348" lon="17.1895373">
+      <ele>651</ele>
+      <time>2022-01-17T22:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.24562" lon="17.1896982">
+      <ele>653</ele>
+      <time>2022-01-17T22:50:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2460248" lon="17.1907121">
+      <ele>643</ele>
+      <time>2022-01-17T22:51:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2461277" lon="17.1909428">
+      <ele>642</ele>
+      <time>2022-01-17T22:51:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2464468" lon="17.1914417">
+      <ele>639</ele>
+      <time>2022-01-17T22:52:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

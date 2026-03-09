@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:02Z</time>
+    <bounds maxlat="52.4008089" maxlon="20.9422634" minlat="52.399845" minlon="20.9410296"/>
+  </metadata>
+  <wpt lat="52.399845" lon="20.942263">
+    <ele>81</ele>
+    <name>Legionowo, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11394">
+      <text>Legionowo, ul. Slowackiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.400809" lon="20.94103">
+    <ele>80</ele>
+    <name>Legionowo, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11395">
+      <text>Legionowo, dworzec autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, ul. Slowackiego - Legionowo, dworzec autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.399845,20.9422634;52.40032695263215,20.941646499999994;52.4008089,20.9410296">
+    <text>Legionowo, ul. Slowackiego - Legionowo, dworzec autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.399845" lon="20.9422634">
+      <ele>81</ele>
+      <time>2022-01-18T01:01:02Z</time>
+    </trkpt>
+    <trkpt lat="52.4008089" lon="20.9410296">
+      <ele>80</ele>
+      <time>2022-01-18T01:03:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

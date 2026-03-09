@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:32Z</time>
+    <bounds maxlat="49.360936" maxlon="20.785021" minlat="49.359812" minlon="20.782131"/>
+  </metadata>
+  <wpt lat="49.360936" lon="20.782131">
+    <ele>422</ele>
+    <name>Sulinka, mineralny pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/8661">
+      <text>Sulinka, mineralny pramen</text>
+    </link>
+  </wpt>
+  <wpt lat="49.359812" lon="20.785021">
+    <ele>428</ele>
+    <name>Za Bastou</name>
+    <link href="https://mapa-turystyczna.pl/node/10748">
+      <text>Za Bastou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulinka, mineralny pramen - Za Bastou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.360936,20.782131;49.36029150009081,20.783227000000018;49.359812,20.785021">
+    <text>Sulinka, mineralny pramen - Za Bastou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.360936" lon="20.782131">
+      <ele>422</ele>
+      <time>2022-01-18T00:44:32Z</time>
+    </trkpt>
+    <trkpt lat="49.360602" lon="20.782624">
+      <ele>424</ele>
+      <time>2022-01-18T00:45:34Z</time>
+    </trkpt>
+    <trkpt lat="49.360386" lon="20.78301">
+      <ele>429</ele>
+      <time>2022-01-18T00:46:19Z</time>
+    </trkpt>
+    <trkpt lat="49.360197" lon="20.783444">
+      <ele>430</ele>
+      <time>2022-01-18T00:47:04Z</time>
+    </trkpt>
+    <trkpt lat="49.360113" lon="20.783679">
+      <ele>429</ele>
+      <time>2022-01-18T00:47:28Z</time>
+    </trkpt>
+    <trkpt lat="49.359993" lon="20.784124">
+      <ele>428</ele>
+      <time>2022-01-18T00:48:10Z</time>
+    </trkpt>
+    <trkpt lat="49.35989" lon="20.784529">
+      <ele>429</ele>
+      <time>2022-01-18T00:48:48Z</time>
+    </trkpt>
+    <trkpt lat="49.359812" lon="20.785021">
+      <ele>428</ele>
+      <time>2022-01-18T00:49:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

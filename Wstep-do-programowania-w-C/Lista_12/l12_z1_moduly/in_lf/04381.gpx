@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:41Z</time>
+    <bounds maxlat="50.7685153" maxlon="15.710234" minlat="50.7664671" minlon="15.707818"/>
+  </metadata>
+  <wpt lat="50.768515" lon="15.710234">
+    <ele>1038</ele>
+    <name>Wapniak</name>
+    <link href="https://mapa-turystyczna.pl/node/3041">
+      <text>Wapniak</text>
+    </link>
+  </wpt>
+  <wpt lat="50.766467" lon="15.707818">
+    <ele>1054</ele>
+    <name>Pod Polana w Karkonoszach</name>
+    <link href="https://mapa-turystyczna.pl/node/1288">
+      <text>Pod Polana w Karkonoszach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wapniak - Pod Polana w Karkonoszach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7685153,15.710234;50.76741110195323,15.709306499999975;50.7664671,15.707818">
+    <text>Wapniak - Pod Polana w Karkonoszach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7685153" lon="15.710234">
+      <ele>1038</ele>
+      <time>2022-01-17T21:41:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7678386" lon="15.7096418">
+      <ele>1045</ele>
+      <time>2022-01-17T21:43:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7669836" lon="15.7089712">
+      <ele>1052</ele>
+      <time>2022-01-17T21:44:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7668106" lon="15.7087942">
+      <ele>1053</ele>
+      <time>2022-01-17T21:45:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7664671" lon="15.707818">
+      <ele>1054</ele>
+      <time>2022-01-17T21:46:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

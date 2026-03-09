@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:31Z</time>
+    <bounds maxlat="50.7719457" maxlon="15.5811775" minlat="50.7673315" minlon="15.5757004"/>
+  </metadata>
+  <wpt lat="50.771946" lon="15.5757">
+    <ele>1255</ele>
+    <name>Martinova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1204">
+      <text>Martinova bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.767331" lon="15.581178">
+    <ele>1185</ele>
+    <name>Bradlerovy boudy, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1095">
+      <text>Bradlerovy boudy, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Martinova bouda - Bradlerovy boudy, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7719457,15.5757004;50.76931620275933,15.579131449999988;50.7673315,15.5811775">
+    <text>Martinova bouda - Bradlerovy boudy, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7719457" lon="15.5757004">
+      <ele>1255</ele>
+      <time>2022-01-17T21:03:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7711037" lon="15.5769637">
+      <ele>1242</ele>
+      <time>2022-01-17T21:05:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7706488" lon="15.5778207">
+      <ele>1235</ele>
+      <time>2022-01-17T21:06:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7698243" lon="15.5786032">
+      <ele>1220</ele>
+      <time>2022-01-17T21:08:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7688081" lon="15.5796597">
+      <ele>1205</ele>
+      <time>2022-01-17T21:10:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7680155" lon="15.5803435">
+      <ele>1193</ele>
+      <time>2022-01-17T21:12:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7673315" lon="15.5811775">
+      <ele>1185</ele>
+      <time>2022-01-17T21:13:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

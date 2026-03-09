@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:03Z</time>
+    <bounds maxlat="50.5918604" maxlon="16.1226511" minlat="50.5916492" minlon="16.1223829"/>
+  </metadata>
+  <wpt lat="50.59186" lon="16.122383">
+    <ele>688</ele>
+    <name>Vyhlidkove misto, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6033">
+      <text>Vyhlidkove misto, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.591649" lon="16.122651">
+    <ele>678</ele>
+    <name>Vyhlidkove misto</name>
+    <link href="https://mapa-turystyczna.pl/node/6034">
+      <text>Vyhlidkove misto</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidkove misto, rozc. - Vyhlidkove misto</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5918604,16.1223829;50.59175480011842,16.122517000000034;50.5916492,16.1226511">
+    <text>Vyhlidkove misto, rozc. - Vyhlidkove misto</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5918604" lon="16.1223829">
+      <ele>688</ele>
+      <time>2022-01-17T22:43:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5916492" lon="16.1226511">
+      <ele>678</ele>
+      <time>2022-01-17T22:44:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

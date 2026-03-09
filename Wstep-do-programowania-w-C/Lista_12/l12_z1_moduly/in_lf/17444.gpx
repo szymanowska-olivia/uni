@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:24Z</time>
+    <bounds maxlat="49.686412" maxlon="19.477629" minlat="49.685914" minlon="19.477106"/>
+  </metadata>
+  <wpt lat="49.686412" lon="19.477629">
+    <ele>782</ele>
+    <name>Lechowka</name>
+    <link href="https://mapa-turystyczna.pl/node/611">
+      <text>Lechowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.685914" lon="19.477106">
+    <ele>778</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11848">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lechowka - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.686412,19.477629;49.68608200009879,19.477300999999983;49.685914,19.477106">
+    <text>Lechowka - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.686412" lon="19.477629">
+      <ele>782</ele>
+      <time>2022-01-18T01:13:24Z</time>
+    </trkpt>
+    <trkpt lat="49.686304" lon="19.477514">
+      <ele>781</ele>
+      <time>2022-01-18T01:13:37Z</time>
+    </trkpt>
+    <trkpt lat="49.68618" lon="19.477393">
+      <ele>780</ele>
+      <time>2022-01-18T01:13:52Z</time>
+    </trkpt>
+    <trkpt lat="49.685984" lon="19.477209">
+      <ele>778</ele>
+      <time>2022-01-18T01:14:14Z</time>
+    </trkpt>
+    <trkpt lat="49.685914" lon="19.477106">
+      <ele>778</ele>
+      <time>2022-01-18T01:14:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:38:20Z</time>
+    <bounds maxlat="50.7513661" maxlon="16.4211648" minlat="50.7506275" minlon="16.4179317"/>
+  </metadata>
+  <wpt lat="50.751366" lon="16.417932">
+    <ele>366</ele>
+    <name>Jezioro Bystrzyckie, most</name>
+    <link href="https://mapa-turystyczna.pl/node/8157">
+      <text>Jezioro Bystrzyckie, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.750628" lon="16.421165">
+    <ele>354</ele>
+    <name>Jezioro Bystrzyckie, akwarium</name>
+    <link href="https://mapa-turystyczna.pl/node/2016">
+      <text>Jezioro Bystrzyckie, akwarium</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Bystrzyckie, most - Jezioro Bystrzyckie, akwarium</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7513661,16.4179317;50.751036400042125,16.419799149999985;50.7506275,16.4211648">
+    <text>Jezioro Bystrzyckie, most - Jezioro Bystrzyckie, akwarium</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7513661" lon="16.4179317">
+      <ele>366</ele>
+      <time>2022-01-17T23:38:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7513504" lon="16.4182305">
+      <ele>365</ele>
+      <time>2022-01-17T23:38:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7512248" lon="16.4189655">
+      <ele>367</ele>
+      <time>2022-01-17T23:39:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7510992" lon="16.4195502">
+      <ele>369</ele>
+      <time>2022-01-17T23:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7509736" lon="16.4200481">
+      <ele>360</ele>
+      <time>2022-01-17T23:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7508243" lon="16.4208098">
+      <ele>356</ele>
+      <time>2022-01-17T23:42:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7507258" lon="16.4211166">
+      <ele>354</ele>
+      <time>2022-01-17T23:43:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7506275" lon="16.4211648">
+      <ele>354</ele>
+      <time>2022-01-17T23:43:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

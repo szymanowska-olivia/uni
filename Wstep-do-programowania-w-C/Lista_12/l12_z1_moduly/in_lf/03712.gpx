@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:32Z</time>
+    <bounds maxlat="50.8423092" maxlon="16.2985504" minlat="50.8417503" minlon="16.2958735"/>
+  </metadata>
+  <wpt lat="50.842269" lon="16.295873">
+    <ele>401</ele>
+    <name>Zamek Ksiaz, poczatek szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/2596">
+      <text>Zamek Ksiaz, poczatek szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.84175" lon="16.29855">
+    <ele>415</ele>
+    <name>Stado Ogierow</name>
+    <link href="https://mapa-turystyczna.pl/node/2598">
+      <text>Stado Ogierow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Ksiaz, poczatek szlaku czarnego - Stado Ogierow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8422686,16.2958735;50.842278700006005,16.29731750000002;50.8417503,16.2985504">
+    <text>Zamek Ksiaz, poczatek szlaku czarnego - Stado Ogierow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8422686" lon="16.2958735">
+      <ele>401</ele>
+      <time>2022-01-17T21:33:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8423092" lon="16.2964448">
+      <ele>411</ele>
+      <time>2022-01-17T21:34:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8423024" lon="16.2971339">
+      <ele>414</ele>
+      <time>2022-01-17T21:35:41Z</time>
+    </trkpt>
+    <trkpt lat="50.842255" lon="16.2975011">
+      <ele>414</ele>
+      <time>2022-01-17T21:36:18Z</time>
+    </trkpt>
+    <trkpt lat="50.842194" lon="16.2977058">
+      <ele>414</ele>
+      <time>2022-01-17T21:36:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8418858" lon="16.298201">
+      <ele>414</ele>
+      <time>2022-01-17T21:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8417503" lon="16.2985504">
+      <ele>415</ele>
+      <time>2022-01-17T21:38:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

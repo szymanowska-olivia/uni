@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:12Z</time>
+    <bounds maxlat="50.415994" maxlon="19.672987" minlat="50.415636" minlon="19.669732"/>
+  </metadata>
+  <wpt lat="50.415926" lon="19.669732">
+    <ele>382</ele>
+    <name>Czarny Las, Szlak Jaskiniowcow</name>
+    <link href="https://mapa-turystyczna.pl/node/4444">
+      <text>Czarny Las, Szlak Jaskiniowcow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.415636" lon="19.672987">
+    <ele>378</ele>
+    <name>Okupniki</name>
+    <link href="https://mapa-turystyczna.pl/node/5966">
+      <text>Okupniki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarny Las, Szlak Jaskiniowcow - Okupniki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.415926,19.669732;50.41587100004881,19.671272000000016;50.415636,19.672987">
+    <text>Czarny Las, Szlak Jaskiniowcow - Okupniki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.415926" lon="19.669732">
+      <ele>382</ele>
+      <time>2022-01-17T22:41:12Z</time>
+    </trkpt>
+    <trkpt lat="50.415994" lon="19.670066">
+      <ele>381</ele>
+      <time>2022-01-17T22:41:44Z</time>
+    </trkpt>
+    <trkpt lat="50.415992" lon="19.670331">
+      <ele>381</ele>
+      <time>2022-01-17T22:42:07Z</time>
+    </trkpt>
+    <trkpt lat="50.415939" lon="19.670717">
+      <ele>380</ele>
+      <time>2022-01-17T22:42:43Z</time>
+    </trkpt>
+    <trkpt lat="50.415803" lon="19.671827">
+      <ele>379</ele>
+      <time>2022-01-17T22:44:25Z</time>
+    </trkpt>
+    <trkpt lat="50.415775" lon="19.672052">
+      <ele>378</ele>
+      <time>2022-01-17T22:44:46Z</time>
+    </trkpt>
+    <trkpt lat="50.415636" lon="19.672987">
+      <ele>378</ele>
+      <time>2022-01-17T22:46:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

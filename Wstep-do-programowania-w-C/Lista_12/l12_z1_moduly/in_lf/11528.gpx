@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:00Z</time>
+    <bounds maxlat="49.608059" maxlon="19.963546" minlat="49.607851" minlon="19.962675"/>
+  </metadata>
+  <wpt lat="49.608059" lon="19.962675">
+    <ele>507</ele>
+    <name>Rabka-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/103">
+      <text>Rabka-Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="49.607851" lon="19.963546">
+    <ele>509</ele>
+    <name>Rabka-Zdroj, ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8080">
+      <text>Rabka-Zdroj, ul. Parkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rabka-Zdroj - Rabka-Zdroj, ul. Parkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608059,19.962675;49.60795500000804,19.96307999999999;49.607851,19.963546">
+    <text>Rabka-Zdroj - Rabka-Zdroj, ul. Parkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608059" lon="19.962675">
+      <ele>507</ele>
+      <time>2022-01-17T23:36:00Z</time>
+    </trkpt>
+    <trkpt lat="49.607983" lon="19.96296">
+      <ele>508</ele>
+      <time>2022-01-17T23:36:20Z</time>
+    </trkpt>
+    <trkpt lat="49.607927" lon="19.9632">
+      <ele>508</ele>
+      <time>2022-01-17T23:36:36Z</time>
+    </trkpt>
+    <trkpt lat="49.607877" lon="19.963423">
+      <ele>509</ele>
+      <time>2022-01-17T23:36:52Z</time>
+    </trkpt>
+    <trkpt lat="49.607851" lon="19.963546">
+      <ele>509</ele>
+      <time>2022-01-17T23:37:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

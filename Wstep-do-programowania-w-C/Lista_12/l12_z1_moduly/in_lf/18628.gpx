@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:19Z</time>
+    <bounds maxlat="54.2075522" maxlon="16.2287638" minlat="54.2071258" minlon="16.2264997"/>
+  </metadata>
+  <wpt lat="54.207514" lon="16.2265">
+    <ele>139</ele>
+    <name>Krzyzanka</name>
+    <link href="https://mapa-turystyczna.pl/node/12635">
+      <text>Krzyzanka</text>
+    </link>
+  </wpt>
+  <wpt lat="54.207126" lon="16.228764">
+    <ele>139</ele>
+    <name>Rozejscie szlakow na Krzyzance</name>
+    <link href="https://mapa-turystyczna.pl/node/12636">
+      <text>Rozejscie szlakow na Krzyzance</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krzyzanka - Rozejscie szlakow na Krzyzance</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.207514,16.2264997;54.20745950001861,16.22777120000001;54.2071258,16.2287638">
+    <text>Krzyzanka - Rozejscie szlakow na Krzyzance</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.207514" lon="16.2264997">
+      <ele>139</ele>
+      <time>2022-01-18T01:34:19Z</time>
+    </trkpt>
+    <trkpt lat="54.2075458" lon="16.2270309">
+      <ele>139</ele>
+      <time>2022-01-18T01:34:58Z</time>
+    </trkpt>
+    <trkpt lat="54.2075522" lon="16.2273771">
+      <ele>139</ele>
+      <time>2022-01-18T01:35:24Z</time>
+    </trkpt>
+    <trkpt lat="54.2074987" lon="16.2275888">
+      <ele>140</ele>
+      <time>2022-01-18T01:35:41Z</time>
+    </trkpt>
+    <trkpt lat="54.2074203" lon="16.2279536">
+      <ele>140</ele>
+      <time>2022-01-18T01:36:09Z</time>
+    </trkpt>
+    <trkpt lat="54.2072794" lon="16.2283641">
+      <ele>139</ele>
+      <time>2022-01-18T01:36:44Z</time>
+    </trkpt>
+    <trkpt lat="54.2071258" lon="16.2287638">
+      <ele>139</ele>
+      <time>2022-01-18T01:37:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

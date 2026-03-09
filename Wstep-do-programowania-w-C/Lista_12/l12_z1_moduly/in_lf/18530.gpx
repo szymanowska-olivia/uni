@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:29Z</time>
+    <bounds maxlat="51.5775101" maxlon="21.8375276" minlat="51.5752722" minlon="21.8343661"/>
+  </metadata>
+  <wpt lat="51.575272" lon="21.837474">
+    <ele>115</ele>
+    <name>Deblin, ul. Wislana</name>
+    <link href="https://mapa-turystyczna.pl/node/12537">
+      <text>Deblin, ul. Wislana</text>
+    </link>
+  </wpt>
+  <wpt lat="51.57751" lon="21.834366">
+    <ele>116</ele>
+    <name>Deblin, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12330">
+      <text>Deblin, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Deblin, ul. Wislana - Deblin, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5752722,21.8374743;51.576714206968724,21.835592800000008;51.5775101,21.8343661">
+    <text>Deblin, ul. Wislana - Deblin, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5752722" lon="21.8374743">
+      <ele>115</ele>
+      <time>2022-01-18T01:32:29Z</time>
+    </trkpt>
+    <trkpt lat="51.5753515" lon="21.8375276">
+      <ele>114</ele>
+      <time>2022-01-18T01:32:37Z</time>
+    </trkpt>
+    <trkpt lat="51.5756207" lon="21.8374757">
+      <ele>114</ele>
+      <time>2022-01-18T01:33:04Z</time>
+    </trkpt>
+    <trkpt lat="51.5757716" lon="21.8370877">
+      <ele>114</ele>
+      <time>2022-01-18T01:33:32Z</time>
+    </trkpt>
+    <trkpt lat="51.5759183" lon="21.8368195">
+      <ele>115</ele>
+      <time>2022-01-18T01:33:53Z</time>
+    </trkpt>
+    <trkpt lat="51.5775101" lon="21.8343661">
+      <ele>116</ele>
+      <time>2022-01-18T01:37:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

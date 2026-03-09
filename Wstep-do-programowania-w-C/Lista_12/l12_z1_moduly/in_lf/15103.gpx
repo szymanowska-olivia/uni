@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:14Z</time>
+    <bounds maxlat="51.0425044" maxlon="16.0767668" minlat="51.0419201" minlon="16.0764202"/>
+  </metadata>
+  <wpt lat="51.042504" lon="16.076767">
+    <ele>342</ele>
+    <name>Odejscie do Chaty pod Lipa</name>
+    <link href="https://mapa-turystyczna.pl/node/10289">
+      <text>Odejscie do Chaty pod Lipa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.04192" lon="16.076538">
+    <ele>343</ele>
+    <name>Chata Pod Lipa</name>
+    <link href="https://mapa-turystyczna.pl/node/10291">
+      <text>Chata Pod Lipa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Chaty pod Lipa - Chata Pod Lipa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0425044,16.0767668;51.04222930000691,16.07643894999999;51.0419201,16.0765382">
+    <text>Odejscie do Chaty pod Lipa - Chata Pod Lipa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0425044" lon="16.0767668">
+      <ele>342</ele>
+      <time>2022-01-18T00:33:14Z</time>
+    </trkpt>
+    <trkpt lat="51.0424536" lon="16.0766562">
+      <ele>343</ele>
+      <time>2022-01-18T00:33:22Z</time>
+    </trkpt>
+    <trkpt lat="51.042312" lon="16.0765382">
+      <ele>343</ele>
+      <time>2022-01-18T00:33:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0422546" lon="16.0764577">
+      <ele>344</ele>
+      <time>2022-01-18T00:33:42Z</time>
+    </trkpt>
+    <trkpt lat="51.042204" lon="16.0764202">
+      <ele>344</ele>
+      <time>2022-01-18T00:33:47Z</time>
+    </trkpt>
+    <trkpt lat="51.042113" lon="16.0764309">
+      <ele>344</ele>
+      <time>2022-01-18T00:33:55Z</time>
+    </trkpt>
+    <trkpt lat="51.042059" lon="16.0765114">
+      <ele>343</ele>
+      <time>2022-01-18T00:34:02Z</time>
+    </trkpt>
+    <trkpt lat="51.0419646" lon="16.0765435">
+      <ele>343</ele>
+      <time>2022-01-18T00:34:10Z</time>
+    </trkpt>
+    <trkpt lat="51.0419201" lon="16.0765382">
+      <ele>343</ele>
+      <time>2022-01-18T00:34:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

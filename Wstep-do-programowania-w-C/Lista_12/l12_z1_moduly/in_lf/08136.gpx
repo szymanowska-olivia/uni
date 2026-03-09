@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:31Z</time>
+    <bounds maxlat="50.2884019" maxlon="17.4727947" minlat="50.2877661" minlon="17.4704987"/>
+  </metadata>
+  <wpt lat="50.287766" lon="17.472795">
+    <ele>333</ele>
+    <name>Pokrzywna, osrodek wypoczynkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/2625">
+      <text>Pokrzywna, osrodek wypoczynkowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.288402" lon="17.470499">
+    <ele>330</ele>
+    <name>Pokrzywna, poczatek szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/5666">
+      <text>Pokrzywna, poczatek szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pokrzywna, osrodek wypoczynkowy - Pokrzywna, poczatek szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2877661,17.4727947;50.28800455007927,17.471756449999987;50.2884019,17.4704987">
+    <text>Pokrzywna, osrodek wypoczynkowy - Pokrzywna, poczatek szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2877661" lon="17.4727947">
+      <ele>333</ele>
+      <time>2022-01-17T22:33:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2878158" lon="17.4725399">
+      <ele>333</ele>
+      <time>2022-01-17T22:33:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2879177" lon="17.4721201">
+      <ele>333</ele>
+      <time>2022-01-17T22:34:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2880914" lon="17.4713928">
+      <ele>330</ele>
+      <time>2022-01-17T22:35:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2884019" lon="17.4704987">
+      <ele>330</ele>
+      <time>2022-01-17T22:36:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

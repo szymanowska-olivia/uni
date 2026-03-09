@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:56Z</time>
+    <bounds maxlat="50.4109961" maxlon="16.1321247" minlat="50.4075671" minlon="16.131084"/>
+  </metadata>
+  <wpt lat="50.410996" lon="16.132125">
+    <ele>421</ele>
+    <name>Pomnik myslivce, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/6144">
+      <text>Pomnik myslivce, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.407567" lon="16.131095">
+    <ele>405</ele>
+    <name>Vysokov, horni</name>
+    <link href="https://mapa-turystyczna.pl/node/6143">
+      <text>Vysokov, horni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomnik myslivce, odbocka - Vysokov, horni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4109961,16.1321247;50.40923550034647,16.131861800000003;50.4075671,16.1310947">
+    <text>Pomnik myslivce, odbocka - Vysokov, horni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4109961" lon="16.1321247">
+      <ele>421</ele>
+      <time>2022-01-17T22:45:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4099808" lon="16.1319315">
+      <ele>412</ele>
+      <time>2022-01-17T22:47:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4094167" lon="16.1318189">
+      <ele>411</ele>
+      <time>2022-01-17T22:48:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4090543" lon="16.1319047">
+      <ele>410</ele>
+      <time>2022-01-17T22:48:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4086577" lon="16.1318833">
+      <ele>408</ele>
+      <time>2022-01-17T22:49:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4081962" lon="16.131776">
+      <ele>408</ele>
+      <time>2022-01-17T22:49:50Z</time>
+    </trkpt>
+    <trkpt lat="50.407844" lon="16.1314809">
+      <ele>406</ele>
+      <time>2022-01-17T22:50:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4077004" lon="16.1313146">
+      <ele>406</ele>
+      <time>2022-01-17T22:50:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4076252" lon="16.131084">
+      <ele>405</ele>
+      <time>2022-01-17T22:50:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4075671" lon="16.1310947">
+      <ele>405</ele>
+      <time>2022-01-17T22:50:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

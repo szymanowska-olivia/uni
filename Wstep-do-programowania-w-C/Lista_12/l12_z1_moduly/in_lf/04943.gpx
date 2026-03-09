@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:37Z</time>
+    <bounds maxlat="50.9764027" maxlon="15.0290287" minlat="50.9721095" minlon="15.0284654"/>
+  </metadata>
+  <wpt lat="50.97211" lon="15.029029">
+    <ele>231</ele>
+    <name>Visnova</name>
+    <link href="https://mapa-turystyczna.pl/node/3458">
+      <text>Visnova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.976403" lon="15.028465">
+    <ele>230</ele>
+    <name>Visnova, Michalovice</name>
+    <link href="https://mapa-turystyczna.pl/node/3459">
+      <text>Visnova, Michalovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Visnova - Visnova, Michalovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9721095,15.0290287;50.97325546413823,15.028909299999986;50.9764027,15.0284654">
+    <text>Visnova - Visnova, Michalovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9721095" lon="15.0290287">
+      <ele>231</ele>
+      <time>2022-01-17T21:48:37Z</time>
+    </trkpt>
+    <trkpt lat="50.9744014" lon="15.0287899">
+      <ele>231</ele>
+      <time>2022-01-17T21:51:15Z</time>
+    </trkpt>
+    <trkpt lat="50.9756385" lon="15.0288422">
+      <ele>231</ele>
+      <time>2022-01-17T21:52:41Z</time>
+    </trkpt>
+    <trkpt lat="50.9758686" lon="15.0287987">
+      <ele>230</ele>
+      <time>2022-01-17T21:52:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9761289" lon="15.0287071">
+      <ele>229</ele>
+      <time>2022-01-17T21:53:15Z</time>
+    </trkpt>
+    <trkpt lat="50.9763131" lon="15.0285916">
+      <ele>229</ele>
+      <time>2022-01-17T21:53:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9764027" lon="15.0284654">
+      <ele>230</ele>
+      <time>2022-01-17T21:53:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

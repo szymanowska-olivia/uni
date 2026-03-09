@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:52Z</time>
+    <bounds maxlat="50.8557117" maxlon="15.0918216" minlat="50.8551089" minlon="15.0908023"/>
+  </metadata>
+  <wpt lat="50.855109" lon="15.090802">
+    <ele>413</ele>
+    <name>Oldrichov v Hajich, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8731">
+      <text>Oldrichov v Hajich, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.855712" lon="15.091822">
+    <ele>415</ele>
+    <name>Oldrichov v Hajich, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/8730">
+      <text>Oldrichov v Hajich, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oldrichov v Hajich, rozc. - Oldrichov v Hajich, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8551089,15.0908023;50.8553516006315,15.091207749999986;50.8557117,15.0918216">
+    <text>Oldrichov v Hajich, rozc. - Oldrichov v Hajich, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8551089" lon="15.0908023">
+      <ele>413</ele>
+      <time>2022-01-17T23:54:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8555943" lon="15.0916132">
+      <ele>415</ele>
+      <time>2022-01-17T23:56:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8557117" lon="15.0918216">
+      <ele>415</ele>
+      <time>2022-01-17T23:56:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

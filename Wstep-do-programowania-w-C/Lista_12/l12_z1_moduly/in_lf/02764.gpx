@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:41Z</time>
+    <bounds maxlat="50.3309706" maxlon="16.5416122" minlat="50.3274913" minlon="16.5404105"/>
+  </metadata>
+  <wpt lat="50.327491" lon="16.541183">
+    <ele>823</ele>
+    <name>Huta, ruiny Fortu Wilhelma</name>
+    <link href="https://mapa-turystyczna.pl/node/1905">
+      <text>Huta, ruiny Fortu Wilhelma</text>
+    </link>
+  </wpt>
+  <wpt lat="50.330971" lon="16.541355">
+    <ele>826</ele>
+    <name>Barc</name>
+    <link href="https://mapa-turystyczna.pl/node/1904">
+      <text>Barc</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Huta, ruiny Fortu Wilhelma - Barc</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3274913,16.541183;50.3290113001689,16.54095425000002;50.3309706,16.5413547">
+    <text>Huta, ruiny Fortu Wilhelma - Barc</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3274913" lon="16.541183">
+      <ele>823</ele>
+      <time>2022-01-17T21:20:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3278846" lon="16.5412708">
+      <ele>825</ele>
+      <time>2022-01-17T21:21:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3284844" lon="16.5416122">
+      <ele>825</ele>
+      <time>2022-01-17T21:23:16Z</time>
+    </trkpt>
+    <trkpt lat="50.328638" lon="16.5416034">
+      <ele>824</ele>
+      <time>2022-01-17T21:23:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3288846" lon="16.5413244">
+      <ele>824</ele>
+      <time>2022-01-17T21:24:24Z</time>
+    </trkpt>
+    <trkpt lat="50.329138" lon="16.5405841">
+      <ele>825</ele>
+      <time>2022-01-17T21:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3292584" lon="16.5404105">
+      <ele>825</ele>
+      <time>2022-01-17T21:26:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3294599" lon="16.5405305">
+      <ele>822</ele>
+      <time>2022-01-17T21:26:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3299667" lon="16.5407129">
+      <ele>825</ele>
+      <time>2022-01-17T21:27:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3303297" lon="16.5409704">
+      <ele>827</ele>
+      <time>2022-01-17T21:28:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3309706" lon="16.5413547">
+      <ele>826</ele>
+      <time>2022-01-17T21:30:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

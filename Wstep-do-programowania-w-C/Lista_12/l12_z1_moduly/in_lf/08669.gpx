@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:59Z</time>
+    <bounds maxlat="50.5922997" maxlon="16.1256981" minlat="50.5885705" minlon="16.1200279"/>
+  </metadata>
+  <wpt lat="50.588571" lon="16.120028">
+    <ele>658</ele>
+    <name>Krapnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6031">
+      <text>Krapnik, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.5923" lon="16.125698">
+    <ele>645</ele>
+    <name>Horolezecka chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6032">
+      <text>Horolezecka chata, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krapnik, rozc. - Horolezecka chata, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5885705,16.1200279;50.59029910352603,16.122100899999978;50.5922997,16.1256981">
+    <text>Krapnik, rozc. - Horolezecka chata, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5885705" lon="16.1200279">
+      <ele>658</ele>
+      <time>2022-01-17T22:42:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5886909" lon="16.1203184">
+      <ele>660</ele>
+      <time>2022-01-17T22:43:24Z</time>
+    </trkpt>
+    <trkpt lat="50.5888112" lon="16.1204909">
+      <ele>661</ele>
+      <time>2022-01-17T22:43:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5892603" lon="16.1208699">
+      <ele>671</ele>
+      <time>2022-01-17T22:44:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5897229" lon="16.1212168">
+      <ele>672</ele>
+      <time>2022-01-17T22:45:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5908753" lon="16.122985">
+      <ele>649</ele>
+      <time>2022-01-17T22:48:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5911401" lon="16.1235175">
+      <ele>652</ele>
+      <time>2022-01-17T22:49:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5912282" lon="16.1238158">
+      <ele>652</ele>
+      <time>2022-01-17T22:49:56Z</time>
+    </trkpt>
+    <trkpt lat="50.5914526" lon="16.1241786">
+      <ele>654</ele>
+      <time>2022-01-17T22:50:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5918516" lon="16.1248428">
+      <ele>652</ele>
+      <time>2022-01-17T22:51:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5921486" lon="16.1252924">
+      <ele>649</ele>
+      <time>2022-01-17T22:52:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5922997" lon="16.1256981">
+      <ele>645</ele>
+      <time>2022-01-17T22:52:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

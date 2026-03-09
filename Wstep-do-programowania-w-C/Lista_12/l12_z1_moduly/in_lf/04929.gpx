@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:22Z</time>
+    <bounds maxlat="51.0229808" maxlon="15.0639671" minlat="51.0212127" minlon="15.0628674"/>
+  </metadata>
+  <wpt lat="51.022981" lon="15.062867">
+    <ele>229</ele>
+    <name>Zawidow, ul. Wierzbowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3445">
+      <text>Zawidow, ul. Wierzbowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.021213" lon="15.063967">
+    <ele>230</ele>
+    <name>Zawidow, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/3444">
+      <text>Zawidow, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawidow, ul. Wierzbowa - Zawidow, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0229808,15.0628674;51.02203095722093,15.063440049999999;51.0212127,15.0639671">
+    <text>Zawidow, ul. Wierzbowa - Zawidow, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0229808" lon="15.0628674">
+      <ele>229</ele>
+      <time>2022-01-17T21:48:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0228492" lon="15.062913">
+      <ele>230</ele>
+      <time>2022-01-17T21:48:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0212127" lon="15.0639671">
+      <ele>230</ele>
+      <time>2022-01-17T21:51:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

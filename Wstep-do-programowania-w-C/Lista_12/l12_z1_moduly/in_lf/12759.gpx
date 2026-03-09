@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:46Z</time>
+    <bounds maxlat="50.8792816" maxlon="15.1846075" minlat="50.8771224" minlon="15.1818301"/>
+  </metadata>
+  <wpt lat="50.879282" lon="15.184608">
+    <ele>383</ele>
+    <name>Hejnice, zst.</name>
+    <link href="https://mapa-turystyczna.pl/node/2282">
+      <text>Hejnice, zst.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.877122" lon="15.18183">
+    <ele>378</ele>
+    <name>Hejnice, bazilika Minor</name>
+    <link href="https://mapa-turystyczna.pl/node/8768">
+      <text>Hejnice, bazilika Minor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hejnice, zst. - Hejnice, bazilika Minor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8792816,15.1846075;50.87842600000443,15.182407349999991;50.8771224,15.1818301">
+    <text>Hejnice, zst. - Hejnice, bazilika Minor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8792816" lon="15.1846075">
+      <ele>383</ele>
+      <time>2022-01-17T23:55:46Z</time>
+    </trkpt>
+    <trkpt lat="50.878514" lon="15.1829894">
+      <ele>382</ele>
+      <time>2022-01-17T23:57:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8784463" lon="15.1824905">
+      <ele>380</ele>
+      <time>2022-01-17T23:58:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8784057" lon="15.1823242">
+      <ele>380</ele>
+      <time>2022-01-17T23:58:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8781552" lon="15.1825012">
+      <ele>380</ele>
+      <time>2022-01-17T23:58:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8775459" lon="15.1825656">
+      <ele>380</ele>
+      <time>2022-01-17T23:59:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8771668" lon="15.1820399">
+      <ele>377</ele>
+      <time>2022-01-18T00:00:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8771224" lon="15.1818301">
+      <ele>378</ele>
+      <time>2022-01-18T00:00:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

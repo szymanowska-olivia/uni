@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:41:42Z</time>
+    <bounds maxlat="51.1026694" maxlon="15.5436248" minlat="51.1002655" minlon="15.5418285"/>
+  </metadata>
+  <wpt lat="51.100265" lon="15.543625">
+    <ele>241</ele>
+    <name>Ploczki Dolne</name>
+    <link href="https://mapa-turystyczna.pl/node/8254">
+      <text>Ploczki Dolne</text>
+    </link>
+  </wpt>
+  <wpt lat="51.102669" lon="15.541828">
+    <ele>272</ele>
+    <name>Ploczki Dolne, jaskinie</name>
+    <link href="https://mapa-turystyczna.pl/node/8258">
+      <text>Ploczki Dolne, jaskinie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ploczki Dolne - Ploczki Dolne, jaskinie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1002655,15.5436248;51.1013968002828,15.542802500000032;51.1026694,15.5418285">
+    <text>Ploczki Dolne - Ploczki Dolne, jaskinie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1002655" lon="15.5436248">
+      <ele>241</ele>
+      <time>2022-01-17T23:41:42Z</time>
+    </trkpt>
+    <trkpt lat="51.1007568" lon="15.5431244">
+      <ele>253</ele>
+      <time>2022-01-17T23:43:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1012351" lon="15.5428883">
+      <ele>262</ele>
+      <time>2022-01-17T23:45:47Z</time>
+    </trkpt>
+    <trkpt lat="51.1015585" lon="15.5427167">
+      <ele>269</ele>
+      <time>2022-01-17T23:47:04Z</time>
+    </trkpt>
+    <trkpt lat="51.101929" lon="15.5424163">
+      <ele>274</ele>
+      <time>2022-01-17T23:48:37Z</time>
+    </trkpt>
+    <trkpt lat="51.1022928" lon="15.5421588">
+      <ele>275</ele>
+      <time>2022-01-17T23:50:06Z</time>
+    </trkpt>
+    <trkpt lat="51.1026694" lon="15.5418285">
+      <ele>272</ele>
+      <time>2022-01-17T23:51:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

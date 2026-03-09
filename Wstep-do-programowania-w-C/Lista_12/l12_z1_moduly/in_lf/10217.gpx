@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:28Z</time>
+    <bounds maxlat="50.0596322" maxlon="16.6852444" minlat="50.057769" minlon="16.6837853"/>
+  </metadata>
+  <wpt lat="50.059632" lon="16.683785">
+    <ele>906</ele>
+    <name>U tri panu</name>
+    <link href="https://mapa-turystyczna.pl/node/7193">
+      <text>U tri panu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.057769" lon="16.685234">
+    <ele>924</ele>
+    <name>Pod Bradlem</name>
+    <link href="https://mapa-turystyczna.pl/node/7194">
+      <text>Pod Bradlem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U tri panu - Pod Bradlem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0596322,16.6837853;50.05856980082113,16.684844799999983;50.057769,16.6852337">
+    <text>U tri panu - Pod Bradlem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0596322" lon="16.6837853">
+      <ele>906</ele>
+      <time>2022-01-17T23:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0593188" lon="16.6841447">
+      <ele>907</ele>
+      <time>2022-01-17T23:13:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0588505" lon="16.6845471">
+      <ele>905</ele>
+      <time>2022-01-17T23:14:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0582891" lon="16.6851425">
+      <ele>916</ele>
+      <time>2022-01-17T23:16:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0581892" lon="16.6851854">
+      <ele>918</ele>
+      <time>2022-01-17T23:16:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0580446" lon="16.6852444">
+      <ele>920</ele>
+      <time>2022-01-17T23:16:49Z</time>
+    </trkpt>
+    <trkpt lat="50.057769" lon="16.6852337">
+      <ele>924</ele>
+      <time>2022-01-17T23:17:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

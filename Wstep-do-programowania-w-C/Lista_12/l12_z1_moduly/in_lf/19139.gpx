@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:55Z</time>
+    <bounds maxlat="52.0982886" maxlon="21.2730461" minlat="52.0959702" minlon="21.2711592"/>
+  </metadata>
+  <wpt lat="52.098289" lon="21.273046">
+    <ele>97</ele>
+    <name>Otwock, Nukleonik</name>
+    <link href="https://mapa-turystyczna.pl/node/12939">
+      <text>Otwock, Nukleonik</text>
+    </link>
+  </wpt>
+  <wpt lat="52.09597" lon="21.271159">
+    <ele>97</ele>
+    <name>Otwock, pomnik Rotmistrza Pileckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12941">
+      <text>Otwock, pomnik Rotmistrza Pileckiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, Nukleonik - Otwock, pomnik Rotmistrza Pileckiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0982886,21.2730461;52.09712941506164,21.272102650000008;52.0959702,21.2711592">
+    <text>Otwock, Nukleonik - Otwock, pomnik Rotmistrza Pileckiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0982886" lon="21.2730461">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:55Z</time>
+    </trkpt>
+    <trkpt lat="52.0959702" lon="21.2711592">
+      <ele>97</ele>
+      <time>2022-01-18T01:47:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

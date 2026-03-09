@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:18Z</time>
+    <bounds maxlat="50.1297714" maxlon="18.2787672" minlat="50.1294076" minlon="18.273628"/>
+  </metadata>
+  <wpt lat="50.129475" lon="18.273628">
+    <ele>187</ele>
+    <name>Lezczok, Dab Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9657">
+      <text>Lezczok, Dab Sobieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.129771" lon="18.278767">
+    <ele>179</ele>
+    <name>Babiczak Poludniowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9656">
+      <text>Babiczak Poludniowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lezczok, Dab Sobieskiego - Babiczak Poludniowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1294753,18.273628;50.12946605002092,18.276484999999987;50.1297714,18.2787672">
+    <text>Lezczok, Dab Sobieskiego - Babiczak Poludniowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1294753" lon="18.273628">
+      <ele>187</ele>
+      <time>2022-01-18T00:17:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1294076" lon="18.2745592">
+      <ele>190</ele>
+      <time>2022-01-18T00:18:12Z</time>
+    </trkpt>
+    <trkpt lat="50.1294213" lon="18.2758896">
+      <ele>187</ele>
+      <time>2022-01-18T00:19:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1295108" lon="18.2770804">
+      <ele>179</ele>
+      <time>2022-01-18T00:20:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1297171" lon="18.2782928">
+      <ele>179</ele>
+      <time>2022-01-18T00:21:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1297714" lon="18.2787672">
+      <ele>179</ele>
+      <time>2022-01-18T00:22:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:15Z</time>
+    <bounds maxlat="49.726315" maxlon="18.993787" minlat="49.72488" minlon="18.992183"/>
+  </metadata>
+  <wpt lat="49.72488" lon="18.992183">
+    <ele>729</ele>
+    <name>Przelecz Karkoszczonka</name>
+    <link href="https://mapa-turystyczna.pl/node/733">
+      <text>Przelecz Karkoszczonka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.726315" lon="18.993787">
+    <ele>718</ele>
+    <name>Odejscie do Chaty Wuja Toma</name>
+    <link href="https://mapa-turystyczna.pl/node/4811">
+      <text>Odejscie do Chaty Wuja Toma</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Karkoszczonka - Odejscie do Chaty Wuja Toma</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.72488,18.992183;49.72568700015582,18.99291999999998;49.726315,18.993787">
+    <text>Przelecz Karkoszczonka - Odejscie do Chaty Wuja Toma</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.72488" lon="18.992183">
+      <ele>729</ele>
+      <time>2022-01-17T22:17:15Z</time>
+    </trkpt>
+    <trkpt lat="49.725068" lon="18.992219">
+      <ele>733</ele>
+      <time>2022-01-17T22:17:34Z</time>
+    </trkpt>
+    <trkpt lat="49.725289" lon="18.992427">
+      <ele>732</ele>
+      <time>2022-01-17T22:18:00Z</time>
+    </trkpt>
+    <trkpt lat="49.725564" lon="18.992722">
+      <ele>725</ele>
+      <time>2022-01-17T22:18:33Z</time>
+    </trkpt>
+    <trkpt lat="49.72581" lon="18.993118">
+      <ele>723</ele>
+      <time>2022-01-17T22:19:09Z</time>
+    </trkpt>
+    <trkpt lat="49.726064" lon="18.993505">
+      <ele>720</ele>
+      <time>2022-01-17T22:19:44Z</time>
+    </trkpt>
+    <trkpt lat="49.726315" lon="18.993787">
+      <ele>718</ele>
+      <time>2022-01-17T22:20:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:28Z</time>
+    <bounds maxlat="50.5106634" maxlon="16.1097443" minlat="50.5091555" minlon="16.1080492"/>
+  </metadata>
+  <wpt lat="50.509155" lon="16.108049">
+    <ele>622</ele>
+    <name>Pod Vetrnym dolem</name>
+    <link href="https://mapa-turystyczna.pl/node/6229">
+      <text>Pod Vetrnym dolem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.510663" lon="16.109744">
+    <ele>635</ele>
+    <name>U Svedskeho vrchu</name>
+    <link href="https://mapa-turystyczna.pl/node/6236">
+      <text>U Svedskeho vrchu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Vetrnym dolem - U Svedskeho vrchu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5091555,16.1080492;50.50990600014251,16.108910150000018;50.5106634,16.1097443">
+    <text>Pod Vetrnym dolem - U Svedskeho vrchu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5091555" lon="16.1080492">
+      <ele>622</ele>
+      <time>2022-01-17T22:48:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5094011" lon="16.1086339">
+      <ele>630</ele>
+      <time>2022-01-17T22:49:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5095273" lon="16.1089021">
+      <ele>634</ele>
+      <time>2022-01-17T22:50:09Z</time>
+    </trkpt>
+    <trkpt lat="50.50979" lon="16.1088699">
+      <ele>635</ele>
+      <time>2022-01-17T22:50:49Z</time>
+    </trkpt>
+    <trkpt lat="50.510022" lon="16.1089504">
+      <ele>637</ele>
+      <time>2022-01-17T22:51:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5106634" lon="16.1097443">
+      <ele>635</ele>
+      <time>2022-01-17T22:53:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:00Z</time>
+    <bounds maxlat="50.6500047" maxlon="19.2543232" minlat="50.6495502" minlon="19.2522928"/>
+  </metadata>
+  <wpt lat="50.650005" lon="19.254323">
+    <ele>282</ele>
+    <name>Maslonskie, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/4538">
+      <text>Maslonskie, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="50.649617" lon="19.252293">
+    <ele>281</ele>
+    <name>Maslonskie, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4562">
+      <text>Maslonskie, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maslonskie, PKP - Maslonskie, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6500047,19.2543232;50.64977975016404,19.253354249999965;50.649617,19.2522928">
+    <text>Maslonskie, PKP - Maslonskie, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6500047" lon="19.2543232">
+      <ele>282</ele>
+      <time>2022-01-17T22:09:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6499039" lon="19.2540182">
+      <ele>282</ele>
+      <time>2022-01-17T22:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6496556" lon="19.2526903">
+      <ele>280</ele>
+      <time>2022-01-17T22:10:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6496114" lon="19.2525401">
+      <ele>280</ele>
+      <time>2022-01-17T22:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6495502" lon="19.2523952">
+      <ele>281</ele>
+      <time>2022-01-17T22:10:52Z</time>
+    </trkpt>
+    <trkpt lat="50.649617" lon="19.2522928">
+      <ele>281</ele>
+      <time>2022-01-17T22:11:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

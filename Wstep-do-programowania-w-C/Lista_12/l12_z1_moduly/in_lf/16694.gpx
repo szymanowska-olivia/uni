@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:15Z</time>
+    <bounds maxlat="52.4128652" maxlon="20.9510396" minlat="52.410563" minlon="20.9440641"/>
+  </metadata>
+  <wpt lat="52.412865" lon="20.944064">
+    <ele>77</ele>
+    <name>Legionowo, Piaski</name>
+    <link href="https://mapa-turystyczna.pl/node/11403">
+      <text>Legionowo, Piaski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.410563" lon="20.95104">
+    <ele>85</ele>
+    <name>Legionowo, Muzeum Historyczne</name>
+    <link href="https://mapa-turystyczna.pl/node/11396">
+      <text>Legionowo, Muzeum Historyczne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, Piaski - Legionowo, Muzeum Historyczne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4128652,20.9440641;52.411714115021326,20.947551849999993;52.410563,20.9510396">
+    <text>Legionowo, Piaski - Legionowo, Muzeum Historyczne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4128652" lon="20.9440641">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:15Z</time>
+    </trkpt>
+    <trkpt lat="52.410563" lon="20.9510396">
+      <ele>85</ele>
+      <time>2022-01-18T01:11:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

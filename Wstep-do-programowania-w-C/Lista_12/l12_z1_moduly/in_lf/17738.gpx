@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:18:46Z</time>
+    <bounds maxlat="51.5255428" maxlon="21.5221865" minlat="51.5244614" minlon="21.5194667"/>
+  </metadata>
+  <wpt lat="51.524461" lon="21.522187">
+    <ele>141</ele>
+    <name>Rezerwat Zrodla Krolewskie</name>
+    <link href="https://mapa-turystyczna.pl/node/12053">
+      <text>Rezerwat Zrodla Krolewskie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.525543" lon="21.519467">
+    <ele>141</ele>
+    <name>Zrodla Krolewskie, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12054">
+      <text>Zrodla Krolewskie, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Zrodla Krolewskie - Zrodla Krolewskie, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5244614,21.5221865;51.52507025127275,21.520646300000013;51.5255428,21.5194667">
+    <text>Rezerwat Zrodla Krolewskie - Zrodla Krolewskie, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5244614" lon="21.5221865">
+      <ele>141</ele>
+      <time>2022-01-18T01:18:46Z</time>
+    </trkpt>
+    <trkpt lat="51.5247298" lon="21.5215341">
+      <ele>143</ele>
+      <time>2022-01-18T01:19:59Z</time>
+    </trkpt>
+    <trkpt lat="51.5254107" lon="21.5197585">
+      <ele>140</ele>
+      <time>2022-01-18T01:23:12Z</time>
+    </trkpt>
+    <trkpt lat="51.5255428" lon="21.5194667">
+      <ele>141</ele>
+      <time>2022-01-18T01:23:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

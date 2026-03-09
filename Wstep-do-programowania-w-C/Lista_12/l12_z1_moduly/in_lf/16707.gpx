@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:30Z</time>
+    <bounds maxlat="52.4206798" maxlon="21.0396735" minlat="52.4205928" minlon="21.0386542"/>
+  </metadata>
+  <wpt lat="52.420598" lon="21.038654">
+    <ele>77</ele>
+    <name>Nieporet</name>
+    <link href="https://mapa-turystyczna.pl/node/11411">
+      <text>Nieporet</text>
+    </link>
+  </wpt>
+  <wpt lat="52.42068" lon="21.039673">
+    <ele>76</ele>
+    <name>Nieporet, Kanal Zeranski</name>
+    <link href="https://mapa-turystyczna.pl/node/11412">
+      <text>Nieporet, Kanal Zeranski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nieporet - Nieporet, Kanal Zeranski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.420598,21.0386542;52.420628800014704,21.039236050000007;52.4206798,21.0396735">
+    <text>Nieporet - Nieporet, Kanal Zeranski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.420598" lon="21.0386542">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4205928" lon="21.038882">
+      <ele>76</ele>
+      <time>2022-01-18T01:01:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4206648" lon="21.0395901">
+      <ele>76</ele>
+      <time>2022-01-18T01:02:25Z</time>
+    </trkpt>
+    <trkpt lat="52.4206798" lon="21.0396735">
+      <ele>76</ele>
+      <time>2022-01-18T01:02:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

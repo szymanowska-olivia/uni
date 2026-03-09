@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:38:53Z</time>
+    <bounds maxlat="50.3415571" maxlon="16.9384289" minlat="50.3310562" minlon="16.9346094"/>
+  </metadata>
+  <wpt lat="50.331056" lon="16.934609">
+    <ele>753</ele>
+    <name>Przelecz Karpowska</name>
+    <link href="https://mapa-turystyczna.pl/node/2123">
+      <text>Przelecz Karpowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.341557" lon="16.937647">
+    <ele>855</ele>
+    <name>Kobyla Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/8174">
+      <text>Kobyla Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Karpowska - Kobyla Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3310562,16.9346094;50.3355025506665,16.937060950000014;50.3415571,16.9376472">
+    <text>Przelecz Karpowska - Kobyla Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3310562" lon="16.9346094">
+      <ele>753</ele>
+      <time>2022-01-17T23:38:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3313268" lon="16.9353497">
+      <ele>756</ele>
+      <time>2022-01-17T23:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3331211" lon="16.9384289">
+      <ele>816</ele>
+      <time>2022-01-17T23:46:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3334156" lon="16.9383967">
+      <ele>818</ele>
+      <time>2022-01-17T23:47:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3338641" lon="16.9378763">
+      <ele>820</ele>
+      <time>2022-01-17T23:49:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3352509" lon="16.9369912">
+      <ele>827</ele>
+      <time>2022-01-17T23:52:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3357542" lon="16.9371307">
+      <ele>835</ele>
+      <time>2022-01-17T23:54:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3375193" lon="16.936664">
+      <ele>847</ele>
+      <time>2022-01-17T23:58:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3382375" lon="16.9364145">
+      <ele>845</ele>
+      <time>2022-01-18T00:00:19Z</time>
+    </trkpt>
+    <trkpt lat="50.3393802" lon="16.936444">
+      <ele>844</ele>
+      <time>2022-01-18T00:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3404039" lon="16.9369">
+      <ele>845</ele>
+      <time>2022-01-18T00:05:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3415571" lon="16.9376472">
+      <ele>855</ele>
+      <time>2022-01-18T00:08:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

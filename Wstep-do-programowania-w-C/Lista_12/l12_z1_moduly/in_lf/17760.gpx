@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:11Z</time>
+    <bounds maxlat="52.0165748" maxlon="20.7725055" minlat="52.0163204" minlon="20.7720672"/>
+  </metadata>
+  <wpt lat="52.01632" lon="20.772067">
+    <ele>157</ele>
+    <name>Lacznik do szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11949">
+      <text>Lacznik do szlaku niebieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.016575" lon="20.772506">
+    <ele>157</ele>
+    <name>Lacznik do szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/12073">
+      <text>Lacznik do szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lacznik do szlaku niebieskiego - Lacznik do szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0163204,20.7720672;52.01644760018081,20.77228634999998;52.0165748,20.7725055">
+    <text>Lacznik do szlaku niebieskiego - Lacznik do szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0163204" lon="20.7720672">
+      <ele>157</ele>
+      <time>2022-01-18T01:19:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0165748" lon="20.7725055">
+      <ele>157</ele>
+      <time>2022-01-18T01:20:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

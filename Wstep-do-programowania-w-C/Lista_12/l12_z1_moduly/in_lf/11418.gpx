@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:21Z</time>
+    <bounds maxlat="49.173658" maxlon="20.219502" minlat="49.17295" minlon="20.219413"/>
+  </metadata>
+  <wpt lat="49.173658" lon="20.219413">
+    <ele>1475</ele>
+    <name>Zamkovskeho chata</name>
+    <link href="https://mapa-turystyczna.pl/node/1594">
+      <text>Zamkovskeho chata</text>
+    </link>
+  </wpt>
+  <wpt lat="49.17295" lon="20.219502">
+    <ele>1475</ele>
+    <name>Razcestie pri Zamkovskeho chate</name>
+    <link href="https://mapa-turystyczna.pl/node/8027">
+      <text>Razcestie pri Zamkovskeho chate</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamkovskeho chata - Razcestie pri Zamkovskeho chate</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.173658,20.219413;49.17327250009406,20.219474500000015;49.17295,20.219502">
+    <text>Zamkovskeho chata - Razcestie pri Zamkovskeho chate</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.173658" lon="20.219413">
+      <ele>1475</ele>
+      <time>2022-01-17T23:34:21Z</time>
+    </trkpt>
+    <trkpt lat="49.173518" lon="20.21944">
+      <ele>1475</ele>
+      <time>2022-01-17T23:34:45Z</time>
+    </trkpt>
+    <trkpt lat="49.173369" lon="20.219456">
+      <ele>1477</ele>
+      <time>2022-01-17T23:35:10Z</time>
+    </trkpt>
+    <trkpt lat="49.173176" lon="20.219493">
+      <ele>1478</ele>
+      <time>2022-01-17T23:35:43Z</time>
+    </trkpt>
+    <trkpt lat="49.17295" lon="20.219502">
+      <ele>1475</ele>
+      <time>2022-01-17T23:36:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:28Z</time>
+    <bounds maxlat="50.4755741" maxlon="16.0814899" minlat="50.474823" minlon="16.0776275"/>
+  </metadata>
+  <wpt lat="50.475574" lon="16.077627">
+    <ele>425</ele>
+    <name>U Dupacky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6165">
+      <text>U Dupacky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.475117" lon="16.08149">
+    <ele>407</ele>
+    <name>Cerveny Kostelec, Okruzni</name>
+    <link href="https://mapa-turystyczna.pl/node/6164">
+      <text>Cerveny Kostelec, Okruzni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Dupacky, rozc. - Cerveny Kostelec, Okruzni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4755741,16.0776275;50.47487425002778,16.078998149999986;50.4751166,16.0814899">
+    <text>U Dupacky, rozc. - Cerveny Kostelec, Okruzni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4755741" lon="16.0776275">
+      <ele>425</ele>
+      <time>2022-01-17T22:46:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4755331" lon="16.0776436">
+      <ele>425</ele>
+      <time>2022-01-17T22:46:32Z</time>
+    </trkpt>
+    <trkpt lat="50.4751644" lon="16.0779387">
+      <ele>425</ele>
+      <time>2022-01-17T22:47:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4748572" lon="16.0781801">
+      <ele>423</ele>
+      <time>2022-01-17T22:47:47Z</time>
+    </trkpt>
+    <trkpt lat="50.474823" lon="16.0782927">
+      <ele>422</ele>
+      <time>2022-01-17T22:47:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4749255" lon="16.0797036">
+      <ele>417</ele>
+      <time>2022-01-17T22:49:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4750006" lon="16.0805082">
+      <ele>411</ele>
+      <time>2022-01-17T22:50:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4748947" lon="16.0806692">
+      <ele>411</ele>
+      <time>2022-01-17T22:50:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4750381" lon="16.0810876">
+      <ele>407</ele>
+      <time>2022-01-17T22:51:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4751166" lon="16.0814899">
+      <ele>407</ele>
+      <time>2022-01-17T22:51:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

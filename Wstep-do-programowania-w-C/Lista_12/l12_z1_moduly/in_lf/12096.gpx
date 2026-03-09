@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:44:46Z</time>
+    <bounds maxlat="49.8140514" maxlon="20.8211195" minlat="49.8108502" minlon="20.8119394"/>
+  </metadata>
+  <wpt lat="49.81085" lon="20.821119">
+    <ele>433</ele>
+    <name>Styr Pd.</name>
+    <link href="https://mapa-turystyczna.pl/node/3596">
+      <text>Styr Pd.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.813983" lon="20.811939">
+    <ele>416</ele>
+    <name>Pod Styrem</name>
+    <link href="https://mapa-turystyczna.pl/node/8358">
+      <text>Pod Styrem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Styr Pd. - Pod Styrem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8108502,20.8211195;49.81197100010414,20.81639350000002;49.8139829,20.8119394">
+    <text>Styr Pd. - Pod Styrem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8108502" lon="20.8211195">
+      <ele>433</ele>
+      <time>2022-01-17T23:44:46Z</time>
+    </trkpt>
+    <trkpt lat="49.8118845" lon="20.8196604">
+      <ele>434</ele>
+      <time>2022-01-17T23:47:38Z</time>
+    </trkpt>
+    <trkpt lat="49.812106" lon="20.8191454">
+      <ele>429</ele>
+      <time>2022-01-17T23:48:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8121475" lon="20.8187914">
+      <ele>428</ele>
+      <time>2022-01-17T23:48:56Z</time>
+    </trkpt>
+    <trkpt lat="49.8118706" lon="20.8169246">
+      <ele>435</ele>
+      <time>2022-01-17T23:51:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8120714" lon="20.8158624">
+      <ele>431</ele>
+      <time>2022-01-17T23:52:56Z</time>
+    </trkpt>
+    <trkpt lat="49.8130545" lon="20.8145428">
+      <ele>427</ele>
+      <time>2022-01-17T23:55:36Z</time>
+    </trkpt>
+    <trkpt lat="49.8136083" lon="20.8127725">
+      <ele>421</ele>
+      <time>2022-01-17T23:58:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8140514" lon="20.8119571">
+      <ele>416</ele>
+      <time>2022-01-17T23:59:37Z</time>
+    </trkpt>
+    <trkpt lat="49.8139829" lon="20.8119394">
+      <ele>416</ele>
+      <time>2022-01-17T23:59:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

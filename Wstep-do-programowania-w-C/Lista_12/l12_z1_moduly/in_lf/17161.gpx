@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:48Z</time>
+    <bounds maxlat="50.8858731" maxlon="16.728943" minlat="50.8837163" minlon="16.7288759"/>
+  </metadata>
+  <wpt lat="50.885873" lon="16.728876">
+    <ele>410</ele>
+    <name>Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11701">
+      <text>Pod Wiezyca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.883716" lon="16.728906">
+    <ele>387</ele>
+    <name>Przelecz Debowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8325">
+      <text>Przelecz Debowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wiezyca - Przelecz Debowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8858731,16.7288759;50.884414403144575,16.728938949999986;50.8837163,16.7289056">
+    <text>Pod Wiezyca - Przelecz Debowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8858731" lon="16.7288759">
+      <ele>410</ele>
+      <time>2022-01-18T01:08:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8849557" lon="16.728943">
+      <ele>394</ele>
+      <time>2022-01-18T01:10:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8838731" lon="16.7289349">
+      <ele>387</ele>
+      <time>2022-01-18T01:13:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8837163" lon="16.7289056">
+      <ele>387</ele>
+      <time>2022-01-18T01:13:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

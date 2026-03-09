@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:48Z</time>
+    <bounds maxlat="49.4312076" maxlon="21.4545929" minlat="49.4305548" minlon="21.4523787"/>
+  </metadata>
+  <wpt lat="49.431208" lon="21.454593">
+    <ele>504</ele>
+    <name>Ozenna</name>
+    <link href="https://mapa-turystyczna.pl/node/484">
+      <text>Ozenna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.430555" lon="21.452379">
+    <ele>502</ele>
+    <name>Ozenna, sklep</name>
+    <link href="https://mapa-turystyczna.pl/node/5646">
+      <text>Ozenna, sklep</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ozenna - Ozenna, sklep</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4312076,21.4545929;49.43088120108589,21.453485800000003;49.4305548,21.4523787">
+    <text>Ozenna - Ozenna, sklep</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4312076" lon="21.4545929">
+      <ele>504</ele>
+      <time>2022-01-17T22:32:48Z</time>
+    </trkpt>
+    <trkpt lat="49.4305548" lon="21.4523787">
+      <ele>502</ele>
+      <time>2022-01-17T22:35:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

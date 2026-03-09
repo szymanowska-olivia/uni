@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:33Z</time>
+    <bounds maxlat="53.8426309" maxlon="14.6118083" minlat="53.8420548" minlon="14.6115141"/>
+  </metadata>
+  <wpt lat="53.842055" lon="14.611514">
+    <ele>6</ele>
+    <name>Wolin, ul. Jaracza</name>
+    <link href="https://mapa-turystyczna.pl/node/8616">
+      <text>Wolin, ul. Jaracza</text>
+    </link>
+  </wpt>
+  <wpt lat="53.842631" lon="14.611808">
+    <ele>8</ele>
+    <name>Wolin, ul. Slowianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8615">
+      <text>Wolin, ul. Slowianska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin, ul. Jaracza - Wolin, ul. Slowianska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8420548,14.6115141;53.84235145093257,14.611665250000003;53.8426309,14.6118083">
+    <text>Wolin, ul. Jaracza - Wolin, ul. Slowianska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8420548" lon="14.6115141">
+      <ele>6</ele>
+      <time>2022-01-17T23:51:33Z</time>
+    </trkpt>
+    <trkpt lat="53.842072" lon="14.6115222">
+      <ele>6</ele>
+      <time>2022-01-17T23:51:35Z</time>
+    </trkpt>
+    <trkpt lat="53.8426309" lon="14.6118083">
+      <ele>8</ele>
+      <time>2022-01-17T23:52:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

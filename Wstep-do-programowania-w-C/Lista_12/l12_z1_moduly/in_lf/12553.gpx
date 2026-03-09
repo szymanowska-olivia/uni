@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:56Z</time>
+    <bounds maxlat="53.948554" maxlon="14.5614665" minlat="53.9372615" minlon="14.5440881"/>
+  </metadata>
+  <wpt lat="53.937261" lon="14.544088">
+    <ele>20</ele>
+    <name>Warnowo, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8593">
+      <text>Warnowo, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.948554" lon="14.561466">
+    <ele>14</ele>
+    <name>Jezioro Czajcze</name>
+    <link href="https://mapa-turystyczna.pl/node/8594">
+      <text>Jezioro Czajcze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warnowo, skrzyzowanie szlakow - Jezioro Czajcze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9372615,14.5440881;53.94379120034844,14.551386349999994;53.948554,14.5614665">
+    <text>Warnowo, skrzyzowanie szlakow - Jezioro Czajcze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9372615" lon="14.5440881">
+      <ele>20</ele>
+      <time>2022-01-17T23:51:56Z</time>
+    </trkpt>
+    <trkpt lat="53.9375716" lon="14.5450986">
+      <ele>19</ele>
+      <time>2022-01-17T23:53:01Z</time>
+    </trkpt>
+    <trkpt lat="53.9376853" lon="14.5454634">
+      <ele>20</ele>
+      <time>2022-01-17T23:53:24Z</time>
+    </trkpt>
+    <trkpt lat="53.9381274" lon="14.5460857">
+      <ele>23</ele>
+      <time>2022-01-17T23:54:19Z</time>
+    </trkpt>
+    <trkpt lat="53.9383674" lon="14.5463647">
+      <ele>24</ele>
+      <time>2022-01-17T23:54:47Z</time>
+    </trkpt>
+    <trkpt lat="53.9436207" lon="14.5511825">
+      <ele>21</ele>
+      <time>2022-01-18T00:04:22Z</time>
+    </trkpt>
+    <trkpt lat="53.9439617" lon="14.5515902">
+      <ele>20</ele>
+      <time>2022-01-18T00:05:02Z</time>
+    </trkpt>
+    <trkpt lat="53.9447277" lon="14.5529635">
+      <ele>17</ele>
+      <time>2022-01-18T00:06:49Z</time>
+    </trkpt>
+    <trkpt lat="53.9465336" lon="14.556783">
+      <ele>22</ele>
+      <time>2022-01-18T00:11:27Z</time>
+    </trkpt>
+    <trkpt lat="53.9479038" lon="14.5599265">
+      <ele>19</ele>
+      <time>2022-01-18T00:15:09Z</time>
+    </trkpt>
+    <trkpt lat="53.948554" lon="14.5614665">
+      <ele>14</ele>
+      <time>2022-01-18T00:16:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

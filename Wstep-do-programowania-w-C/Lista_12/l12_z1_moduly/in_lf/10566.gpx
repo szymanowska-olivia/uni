@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:18:21Z</time>
+    <bounds maxlat="49.4790276" maxlon="18.4250593" minlat="49.4756702" minlon="18.4248126"/>
+  </metadata>
+  <wpt lat="49.479028" lon="18.425059">
+    <ele>540</ele>
+    <name>Velky potok</name>
+    <link href="https://mapa-turystyczna.pl/node/7453">
+      <text>Velky potok</text>
+    </link>
+  </wpt>
+  <wpt lat="49.47567" lon="18.424889">
+    <ele>519</ele>
+    <name>Velky potok, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7390">
+      <text>Velky potok, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velky potok - Velky potok, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4790276,18.4250593;49.47746465064294,18.424894349999974;49.4756702,18.424889">
+    <text>Velky potok - Velky potok, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4790276" lon="18.4250593">
+      <ele>540</ele>
+      <time>2022-01-17T23:18:21Z</time>
+    </trkpt>
+    <trkpt lat="49.4785792" lon="18.4249949">
+      <ele>538</ele>
+      <time>2022-01-17T23:19:01Z</time>
+    </trkpt>
+    <trkpt lat="49.4781478" lon="18.4249614">
+      <ele>533</ele>
+      <time>2022-01-17T23:19:40Z</time>
+    </trkpt>
+    <trkpt lat="49.4777156" lon="18.4249158">
+      <ele>530</ele>
+      <time>2022-01-17T23:20:18Z</time>
+    </trkpt>
+    <trkpt lat="49.4772137" lon="18.4248729">
+      <ele>528</ele>
+      <time>2022-01-17T23:21:03Z</time>
+    </trkpt>
+    <trkpt lat="49.4766918" lon="18.4248273">
+      <ele>527</ele>
+      <time>2022-01-17T23:21:50Z</time>
+    </trkpt>
+    <trkpt lat="49.4761811" lon="18.4248126">
+      <ele>524</ele>
+      <time>2022-01-17T23:22:35Z</time>
+    </trkpt>
+    <trkpt lat="49.4758997" lon="18.4248367">
+      <ele>522</ele>
+      <time>2022-01-17T23:23:00Z</time>
+    </trkpt>
+    <trkpt lat="49.4756702" lon="18.424889">
+      <ele>519</ele>
+      <time>2022-01-17T23:23:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

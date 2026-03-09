@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:35Z</time>
+    <bounds maxlat="50.0830313" maxlon="16.6555685" minlat="50.0780123" minlon="16.6522694"/>
+  </metadata>
+  <wpt lat="50.078012" lon="16.654415">
+    <ele>824</ele>
+    <name>Pod Vysokym kamenem</name>
+    <link href="https://mapa-turystyczna.pl/node/7155">
+      <text>Pod Vysokym kamenem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.083031" lon="16.655569">
+    <ele>768</ele>
+    <name>Nad Kolotocem</name>
+    <link href="https://mapa-turystyczna.pl/node/6862">
+      <text>Nad Kolotocem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Vysokym kamenem - Nad Kolotocem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0780123,16.6544151;50.08071805190035,16.652741450000015;50.0830313,16.6555685">
+    <text>Pod Vysokym kamenem - Nad Kolotocem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0780123" lon="16.6544151">
+      <ele>824</ele>
+      <time>2022-01-17T23:11:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0783359" lon="16.6534925">
+      <ele>816</ele>
+      <time>2022-01-17T23:12:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0795889" lon="16.6522694">
+      <ele>792</ele>
+      <time>2022-01-17T23:15:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0802912" lon="16.6523552">
+      <ele>791</ele>
+      <time>2022-01-17T23:16:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0811449" lon="16.6531277">
+      <ele>790</ele>
+      <time>2022-01-17T23:17:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0830313" lon="16.6555685">
+      <ele>768</ele>
+      <time>2022-01-17T23:21:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

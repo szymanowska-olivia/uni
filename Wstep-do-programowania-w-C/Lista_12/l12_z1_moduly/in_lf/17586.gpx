@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:57Z</time>
+    <bounds maxlat="52.0835866" maxlon="21.1194213" minlat="52.0826814" minlon="21.1192073"/>
+  </metadata>
+  <wpt lat="52.082681" lon="21.119207">
+    <ele>94</ele>
+    <name>Konstancin-Jeziorna, ul. Batorego</name>
+    <link href="https://mapa-turystyczna.pl/node/11935">
+      <text>Konstancin-Jeziorna, ul. Batorego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.083587" lon="21.119421">
+    <ele>95</ele>
+    <name>Konstancin-Jeziorna</name>
+    <link href="https://mapa-turystyczna.pl/node/11936">
+      <text>Konstancin-Jeziorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna, ul. Batorego - Konstancin-Jeziorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0826814,21.1192073;52.08303640141187,21.119253800000003;52.0835866,21.1194213">
+    <text>Konstancin-Jeziorna, ul. Batorego - Konstancin-Jeziorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0826814" lon="21.1192073">
+      <ele>94</ele>
+      <time>2022-01-18T01:15:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0833914" lon="21.1193003">
+      <ele>95</ele>
+      <time>2022-01-18T01:17:30Z</time>
+    </trkpt>
+    <trkpt lat="52.0835866" lon="21.1194213">
+      <ele>95</ele>
+      <time>2022-01-18T01:17:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

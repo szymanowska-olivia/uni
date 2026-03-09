@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:44Z</time>
+    <bounds maxlat="52.4419217" maxlon="20.6790741" minlat="52.4411468" minlon="20.6782538"/>
+  </metadata>
+  <wpt lat="52.441922" lon="20.679074">
+    <ele>105</ele>
+    <name>Modlin, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/12229">
+      <text>Modlin, muzeum</text>
+    </link>
+  </wpt>
+  <wpt lat="52.441147" lon="20.678286">
+    <ele>109</ele>
+    <name>Pomnik Obroncow Modlina</name>
+    <link href="https://mapa-turystyczna.pl/node/12230">
+      <text>Pomnik Obroncow Modlina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, muzeum - Pomnik Obroncow Modlina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4419217,20.6790741;52.44142745005349,20.678838600000017;52.4411468,20.6782855">
+    <text>Modlin, muzeum - Pomnik Obroncow Modlina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4419217" lon="20.6790741">
+      <ele>105</ele>
+      <time>2022-01-18T01:22:44Z</time>
+    </trkpt>
+    <trkpt lat="52.4414961" lon="20.6788386">
+      <ele>108</ele>
+      <time>2022-01-18T01:23:32Z</time>
+    </trkpt>
+    <trkpt lat="52.4413588" lon="20.6788386">
+      <ele>109</ele>
+      <time>2022-01-18T01:23:46Z</time>
+    </trkpt>
+    <trkpt lat="52.4413293" lon="20.6782538">
+      <ele>107</ele>
+      <time>2022-01-18T01:24:24Z</time>
+    </trkpt>
+    <trkpt lat="52.4411468" lon="20.6782855">
+      <ele>109</ele>
+      <time>2022-01-18T01:24:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

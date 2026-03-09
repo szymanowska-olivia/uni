@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:25Z</time>
+    <bounds maxlat="49.9272927" maxlon="17.1547789" minlat="49.9269888" minlon="17.1538777"/>
+  </metadata>
+  <wpt lat="49.927293" lon="17.153878">
+    <ele>419</ele>
+    <name>Bedrichov, pila</name>
+    <link href="https://mapa-turystyczna.pl/node/7858">
+      <text>Bedrichov, pila</text>
+    </link>
+  </wpt>
+  <wpt lat="49.926989" lon="17.154779">
+    <ele>426</ele>
+    <name>Bedrichov, pila, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7859">
+      <text>Bedrichov, pila, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bedrichov, pila - Bedrichov, pila, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9272927,17.1538777;49.92714075023953,17.154328299999975;49.9269888,17.1547789">
+    <text>Bedrichov, pila - Bedrichov, pila, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9272927" lon="17.1538777">
+      <ele>419</ele>
+      <time>2022-01-17T23:29:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9269888" lon="17.1547789">
+      <ele>426</ele>
+      <time>2022-01-17T23:31:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

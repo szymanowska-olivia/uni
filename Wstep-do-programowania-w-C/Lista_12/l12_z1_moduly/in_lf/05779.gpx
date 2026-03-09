@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:51Z</time>
+    <bounds maxlat="50.5676936" maxlon="16.4980146" minlat="50.5674831" minlon="16.4978405"/>
+  </metadata>
+  <wpt lat="50.567694" lon="16.49784">
+    <ele>612</ele>
+    <name>Przelecz pod Krepcem</name>
+    <link href="https://mapa-turystyczna.pl/node/13214">
+      <text>Przelecz pod Krepcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.567483" lon="16.498015">
+    <ele>647</ele>
+    <name>Pod Gora Swietej Anny</name>
+    <link href="https://mapa-turystyczna.pl/node/4007">
+      <text>Pod Gora Swietej Anny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Krepcem - Pod Gora Swietej Anny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5676936,16.4978405;50.56758835011757,16.497927550000007;50.5674831,16.4980146">
+    <text>Przelecz pod Krepcem - Pod Gora Swietej Anny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5676936" lon="16.4978405">
+      <ele>612</ele>
+      <time>2022-01-17T22:00:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5674831" lon="16.4980146">
+      <ele>647</ele>
+      <time>2022-01-17T22:05:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

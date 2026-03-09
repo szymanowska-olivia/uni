@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:40Z</time>
+    <bounds maxlat="50.444292" maxlon="18.8558114" minlat="50.442835" minlon="18.8556408"/>
+  </metadata>
+  <wpt lat="50.444292" lon="18.855811">
+    <ele>307</ele>
+    <name>Tarnowskie Gory, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/12514">
+      <text>Tarnowskie Gory, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.442835" lon="18.8558">
+    <ele>304</ele>
+    <name>Tarnowskie Gory, ul. Sw. Jacka</name>
+    <link href="https://mapa-turystyczna.pl/node/12515">
+      <text>Tarnowskie Gory, ul. Sw. Jacka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, Rynek - Tarnowskie Gory, ul. Sw. Jacka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.444292,18.8558114;50.44345170029605,18.85564620000001;50.442835,18.8557999">
+    <text>Tarnowskie Gory, Rynek - Tarnowskie Gory, ul. Sw. Jacka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.444292" lon="18.8558114">
+      <ele>307</ele>
+      <time>2022-01-18T01:31:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4436191" lon="18.8556408">
+      <ele>307</ele>
+      <time>2022-01-18T01:32:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4432843" lon="18.8556516">
+      <ele>306</ele>
+      <time>2022-01-18T01:33:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4430964" lon="18.8556998">
+      <ele>305</ele>
+      <time>2022-01-18T01:33:18Z</time>
+    </trkpt>
+    <trkpt lat="50.442835" lon="18.8557999">
+      <ele>304</ele>
+      <time>2022-01-18T01:33:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

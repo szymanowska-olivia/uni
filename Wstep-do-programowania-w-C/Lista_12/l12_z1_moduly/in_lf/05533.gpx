@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:11Z</time>
+    <bounds maxlat="49.503778" maxlon="18.975354" minlat="49.503646" minlon="18.972986"/>
+  </metadata>
+  <wpt lat="49.503778" lon="18.975354">
+    <ele>675</ele>
+    <name>Zwardon</name>
+    <link href="https://mapa-turystyczna.pl/node/706">
+      <text>Zwardon</text>
+    </link>
+  </wpt>
+  <wpt lat="49.503646" lon="18.972986">
+    <ele>686</ele>
+    <name>Przelecz Zwardonska</name>
+    <link href="https://mapa-turystyczna.pl/node/3883">
+      <text>Przelecz Zwardonska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zwardon - Przelecz Zwardonska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.503778,18.975354;49.503697500011484,18.974160000000012;49.503646,18.972986">
+    <text>Zwardon - Przelecz Zwardonska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.503778" lon="18.975354">
+      <ele>675</ele>
+      <time>2022-01-17T21:57:11Z</time>
+    </trkpt>
+    <trkpt lat="49.503776" lon="18.974973">
+      <ele>676</ele>
+      <time>2022-01-17T21:57:59Z</time>
+    </trkpt>
+    <trkpt lat="49.503773" lon="18.974936">
+      <ele>676</ele>
+      <time>2022-01-17T21:58:04Z</time>
+    </trkpt>
+    <trkpt lat="49.503752" lon="18.97468">
+      <ele>676</ele>
+      <time>2022-01-17T21:58:36Z</time>
+    </trkpt>
+    <trkpt lat="49.503731" lon="18.974427">
+      <ele>678</ele>
+      <time>2022-01-17T21:59:08Z</time>
+    </trkpt>
+    <trkpt lat="49.503664" lon="18.973893">
+      <ele>680</ele>
+      <time>2022-01-17T22:00:17Z</time>
+    </trkpt>
+    <trkpt lat="49.503657" lon="18.973548">
+      <ele>682</ele>
+      <time>2022-01-17T22:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.503655" lon="18.973483">
+      <ele>683</ele>
+      <time>2022-01-17T22:01:08Z</time>
+    </trkpt>
+    <trkpt lat="49.503654" lon="18.973439">
+      <ele>683</ele>
+      <time>2022-01-17T22:01:14Z</time>
+    </trkpt>
+    <trkpt lat="49.503654" lon="18.973199">
+      <ele>685</ele>
+      <time>2022-01-17T22:01:44Z</time>
+    </trkpt>
+    <trkpt lat="49.503654" lon="18.973183">
+      <ele>685</ele>
+      <time>2022-01-17T22:01:46Z</time>
+    </trkpt>
+    <trkpt lat="49.503649" lon="18.973042">
+      <ele>686</ele>
+      <time>2022-01-17T22:02:04Z</time>
+    </trkpt>
+    <trkpt lat="49.503646" lon="18.972986">
+      <ele>686</ele>
+      <time>2022-01-17T22:02:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

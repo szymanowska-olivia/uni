@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:58Z</time>
+    <bounds maxlat="50.677949" maxlon="15.7113987" minlat="50.6760763" minlon="15.7094007"/>
+  </metadata>
+  <wpt lat="50.677949" lon="15.709401">
+    <ele>1107</ele>
+    <name>U Lesni Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1418">
+      <text>U Lesni Boudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.676076" lon="15.711399">
+    <ele>1092</ele>
+    <name>Pod Lesni Boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1278">
+      <text>Pod Lesni Boudou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Lesni Boudy - Pod Lesni Boudou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.677949,15.7094007;50.676885450073655,15.710062999999979;50.6760763,15.7113987">
+    <text>U Lesni Boudy - Pod Lesni Boudou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.677949" lon="15.7094007">
+      <ele>1107</ele>
+      <time>2022-01-17T21:08:58Z</time>
+    </trkpt>
+    <trkpt lat="50.677842" lon="15.7095182">
+      <ele>1106</ele>
+      <time>2022-01-17T21:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6776484" lon="15.7096279">
+      <ele>1104</ele>
+      <time>2022-01-17T21:09:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6774653" lon="15.7096328">
+      <ele>1102</ele>
+      <time>2022-01-17T21:10:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6772826" lon="15.7095889">
+      <ele>1100</ele>
+      <time>2022-01-17T21:10:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6771416" lon="15.7096083">
+      <ele>1099</ele>
+      <time>2022-01-17T21:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6770499" lon="15.7096902">
+      <ele>1098</ele>
+      <time>2022-01-17T21:10:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6769686" lon="15.709886">
+      <ele>1098</ele>
+      <time>2022-01-17T21:11:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6768023" lon="15.71024">
+      <ele>1096</ele>
+      <time>2022-01-17T21:11:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6765987" lon="15.710535">
+      <ele>1094</ele>
+      <time>2022-01-17T21:12:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6760763" lon="15.7113987">
+      <ele>1092</ele>
+      <time>2022-01-17T21:13:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

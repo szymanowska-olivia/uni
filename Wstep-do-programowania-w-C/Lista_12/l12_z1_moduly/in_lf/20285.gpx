@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:54Z</time>
+    <bounds maxlat="51.024717" maxlon="16.118241" minlat="51.024599" minlon="16.117612"/>
+  </metadata>
+  <wpt lat="51.024599" lon="16.117612">
+    <ele>255</ele>
+    <name>Mysliborz</name>
+    <link href="https://mapa-turystyczna.pl/node/2847">
+      <text>Mysliborz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.024717" lon="16.118241">
+    <ele>258</ele>
+    <name>Centrum Edukacji Ekologicznej i Krajoznawstwa Salamandra</name>
+    <link href="https://mapa-turystyczna.pl/node/13637">
+      <text>Centrum Edukacji Ekologicznej i Krajoznawstwa Salamandra</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mysliborz - Centrum Edukacji Ekologicznej i Krajoznawstwa Salamandra</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.024599,16.117612;51.024687000009706,16.118071999999998;51.024717,16.118241">
+    <text>Mysliborz - Centrum Edukacji Ekologicznej i Krajoznawstwa Salamandra</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.024599" lon="16.117612">
+      <ele>255</ele>
+      <time>2022-01-18T02:03:54Z</time>
+    </trkpt>
+    <trkpt lat="51.024657" lon="16.117903">
+      <ele>257</ele>
+      <time>2022-01-18T02:04:22Z</time>
+    </trkpt>
+    <trkpt lat="51.024717" lon="16.118241">
+      <ele>258</ele>
+      <time>2022-01-18T02:04:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

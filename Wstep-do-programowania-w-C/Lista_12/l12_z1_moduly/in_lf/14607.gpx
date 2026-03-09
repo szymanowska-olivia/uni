@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:15Z</time>
+    <bounds maxlat="50.4267004" maxlon="18.1877226" minlat="50.425378" minlon="18.1872879"/>
+  </metadata>
+  <wpt lat="50.425378" lon="18.187723">
+    <ele>213</ele>
+    <name>Lesnica, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9956">
+      <text>Lesnica, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.4267" lon="18.187288">
+    <ele>213</ele>
+    <name>Lesnica, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/9955">
+      <text>Lesnica, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica, ul. Dworcowa - Lesnica, ul. Kosciuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.425378,18.1877226;50.42603920461603,18.18750525;50.4267004,18.1872879">
+    <text>Lesnica, ul. Dworcowa - Lesnica, ul. Kosciuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.425378" lon="18.1877226">
+      <ele>213</ele>
+      <time>2022-01-18T00:25:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4267004" lon="18.1872879">
+      <ele>213</ele>
+      <time>2022-01-18T00:27:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:11Z</time>
+    <bounds maxlat="49.465823" maxlon="20.481633" minlat="49.464633" minlon="20.477648"/>
+  </metadata>
+  <wpt lat="49.465771" lon="20.477648">
+    <ele>982</ele>
+    <name>Dzwonkowka</name>
+    <link href="https://mapa-turystyczna.pl/node/127">
+      <text>Dzwonkowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.464633" lon="20.481633">
+    <ele>990</ele>
+    <name>Pod Dzwonkowka</name>
+    <link href="https://mapa-turystyczna.pl/node/3249">
+      <text>Pod Dzwonkowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dzwonkowka - Pod Dzwonkowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.465771,20.477648;49.46530050032152,20.479890000000008;49.464633,20.481633">
+    <text>Dzwonkowka - Pod Dzwonkowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.465771" lon="20.477648">
+      <ele>982</ele>
+      <time>2022-01-17T21:45:11Z</time>
+    </trkpt>
+    <trkpt lat="49.465793" lon="20.477749">
+      <ele>982</ele>
+      <time>2022-01-17T21:45:18Z</time>
+    </trkpt>
+    <trkpt lat="49.465823" lon="20.478012">
+      <ele>981</ele>
+      <time>2022-01-17T21:45:36Z</time>
+    </trkpt>
+    <trkpt lat="49.465778" lon="20.478313">
+      <ele>980</ele>
+      <time>2022-01-17T21:45:57Z</time>
+    </trkpt>
+    <trkpt lat="49.465595" lon="20.47878">
+      <ele>981</ele>
+      <time>2022-01-17T21:46:33Z</time>
+    </trkpt>
+    <trkpt lat="49.465478" lon="20.479478">
+      <ele>987</ele>
+      <time>2022-01-17T21:47:22Z</time>
+    </trkpt>
+    <trkpt lat="49.465123" lon="20.480302">
+      <ele>991</ele>
+      <time>2022-01-17T21:48:28Z</time>
+    </trkpt>
+    <trkpt lat="49.464762" lon="20.481221">
+      <ele>993</ele>
+      <time>2022-01-17T21:49:40Z</time>
+    </trkpt>
+    <trkpt lat="49.464689" lon="20.481394">
+      <ele>992</ele>
+      <time>2022-01-17T21:49:54Z</time>
+    </trkpt>
+    <trkpt lat="49.464658" lon="20.481499">
+      <ele>991</ele>
+      <time>2022-01-17T21:50:02Z</time>
+    </trkpt>
+    <trkpt lat="49.464633" lon="20.481633">
+      <ele>990</ele>
+      <time>2022-01-17T21:50:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

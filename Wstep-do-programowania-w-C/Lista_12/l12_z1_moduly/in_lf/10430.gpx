@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:52Z</time>
+    <bounds maxlat="50.860026" maxlon="16.322672" minlat="50.8593157" minlon="16.3199437"/>
+  </metadata>
+  <wpt lat="50.859316" lon="16.322672">
+    <ele>285</ele>
+    <name>Swiebodzice, ul. Walbrzyska</name>
+    <link href="https://mapa-turystyczna.pl/node/7219">
+      <text>Swiebodzice, ul. Walbrzyska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.859318" lon="16.319944">
+    <ele>292</ele>
+    <name>Swiebodzice</name>
+    <link href="https://mapa-turystyczna.pl/node/2581">
+      <text>Swiebodzice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swiebodzice, ul. Walbrzyska - Swiebodzice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8593157,16.322672;50.859931200096376,16.320796600000005;50.8593177,16.3199437">
+    <text>Swiebodzice, ul. Walbrzyska - Swiebodzice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8593157" lon="16.322672">
+      <ele>285</ele>
+      <time>2022-01-17T23:15:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8594971" lon="16.3226205">
+      <ele>285</ele>
+      <time>2022-01-17T23:16:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8595791" lon="16.32254">
+      <ele>285</ele>
+      <time>2022-01-17T23:16:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8596095" lon="16.3221431">
+      <ele>286</ele>
+      <time>2022-01-17T23:16:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8598364" lon="16.3212097">
+      <ele>289</ele>
+      <time>2022-01-17T23:18:13Z</time>
+    </trkpt>
+    <trkpt lat="50.860026" lon="16.3203835">
+      <ele>290</ele>
+      <time>2022-01-17T23:19:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8593177" lon="16.3199437">
+      <ele>292</ele>
+      <time>2022-01-17T23:20:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

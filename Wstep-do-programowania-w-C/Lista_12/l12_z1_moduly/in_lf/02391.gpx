@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:45Z</time>
+    <bounds maxlat="50.21536" maxlon="16.8351102" minlat="50.2083301" minlon="16.8311405"/>
+  </metadata>
+  <wpt lat="50.20833" lon="16.832176">
+    <ele>1213</ele>
+    <name>Schronisko PTTK Na Sniezniku</name>
+    <link href="https://mapa-turystyczna.pl/node/1713">
+      <text>Schronisko PTTK Na Sniezniku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.21536" lon="16.83511">
+    <ele>1123</ele>
+    <name>Przelecz Snieznicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1721">
+      <text>Przelecz Snieznicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Na Sniezniku - Przelecz Snieznicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2083301,16.8321758;50.211919857075834,16.8321986;50.21536,16.8351102">
+    <text>Schronisko PTTK Na Sniezniku - Przelecz Snieznicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2083301" lon="16.8321758">
+      <ele>1213</ele>
+      <time>2022-01-17T21:15:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2091" lon="16.8314838">
+      <ele>1204</ele>
+      <time>2022-01-17T21:17:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2098364" lon="16.8311834">
+      <ele>1202</ele>
+      <time>2022-01-17T21:18:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2103583" lon="16.8311405">
+      <ele>1195</ele>
+      <time>2022-01-17T21:19:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2110981" lon="16.8315428">
+      <ele>1188</ele>
+      <time>2022-01-17T21:21:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2127416" lon="16.8328544">
+      <ele>1163</ele>
+      <time>2022-01-17T21:24:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2141242" lon="16.8342948">
+      <ele>1138</ele>
+      <time>2022-01-17T21:28:10Z</time>
+    </trkpt>
+    <trkpt lat="50.21536" lon="16.8351102">
+      <ele>1123</ele>
+      <time>2022-01-17T21:30:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

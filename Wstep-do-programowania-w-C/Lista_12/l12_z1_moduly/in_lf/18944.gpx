@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:58Z</time>
+    <bounds maxlat="52.5568627" maxlon="17.1150662" minlat="52.554613" minlon="17.1107995"/>
+  </metadata>
+  <wpt lat="52.554613" lon="17.110799">
+    <ele>86</ele>
+    <name>Zielonka</name>
+    <link href="https://mapa-turystyczna.pl/node/10640">
+      <text>Zielonka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.556863" lon="17.115066">
+    <ele>101</ele>
+    <name>Zielonka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12827">
+      <text>Zielonka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielonka - Zielonka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.554613,17.1107995;52.55569005177487,17.112405299999995;52.5568627,17.1150662">
+    <text>Zielonka - Zielonka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.554613" lon="17.1107995">
+      <ele>86</ele>
+      <time>2022-01-18T01:39:58Z</time>
+    </trkpt>
+    <trkpt lat="52.5548286" lon="17.1111799">
+      <ele>88</ele>
+      <time>2022-01-18T01:40:25Z</time>
+    </trkpt>
+    <trkpt lat="52.5551356" lon="17.1116462">
+      <ele>91</ele>
+      <time>2022-01-18T01:41:01Z</time>
+    </trkpt>
+    <trkpt lat="52.5552954" lon="17.111834">
+      <ele>92</ele>
+      <time>2022-01-18T01:41:18Z</time>
+    </trkpt>
+    <trkpt lat="52.5560847" lon="17.1129766">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:49Z</time>
+    </trkpt>
+    <trkpt lat="52.5561629" lon="17.1131643">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:01Z</time>
+    </trkpt>
+    <trkpt lat="52.556401" lon="17.1139529">
+      <ele>98</ele>
+      <time>2022-01-18T01:43:47Z</time>
+    </trkpt>
+    <trkpt lat="52.5568627" lon="17.1150662">
+      <ele>101</ele>
+      <time>2022-01-18T01:44:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

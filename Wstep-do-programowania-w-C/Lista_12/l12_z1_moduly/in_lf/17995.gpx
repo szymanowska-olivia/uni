@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:33Z</time>
+    <bounds maxlat="52.5362206" maxlon="21.6871444" minlat="52.5342867" minlon="21.6780603"/>
+  </metadata>
+  <wpt lat="52.536221" lon="21.67806">
+    <ele>101</ele>
+    <name>Lochow, ul. Wyspianskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12259">
+      <text>Lochow, ul. Wyspianskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.534287" lon="21.687144">
+    <ele>97</ele>
+    <name>Lochow</name>
+    <link href="https://mapa-turystyczna.pl/node/12146">
+      <text>Lochow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lochow, ul. Wyspianskiego - Lochow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5362206,21.6780603;52.535175500085195,21.68289889999999;52.5342867,21.6871444">
+    <text>Lochow, ul. Wyspianskiego - Lochow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5362206" lon="21.6780603">
+      <ele>101</ele>
+      <time>2022-01-18T01:23:33Z</time>
+    </trkpt>
+    <trkpt lat="52.5357188" lon="21.6798304">
+      <ele>99</ele>
+      <time>2022-01-18T01:25:34Z</time>
+    </trkpt>
+    <trkpt lat="52.5354479" lon="21.6808818">
+      <ele>98</ele>
+      <time>2022-01-18T01:26:45Z</time>
+    </trkpt>
+    <trkpt lat="52.535337" lon="21.6815899">
+      <ele>97</ele>
+      <time>2022-01-18T01:27:31Z</time>
+    </trkpt>
+    <trkpt lat="52.535262" lon="21.6821747">
+      <ele>96</ele>
+      <time>2022-01-18T01:28:08Z</time>
+    </trkpt>
+    <trkpt lat="52.535089" lon="21.6836231">
+      <ele>98</ele>
+      <time>2022-01-18T01:29:39Z</time>
+    </trkpt>
+    <trkpt lat="52.5350009" lon="21.6840576">
+      <ele>98</ele>
+      <time>2022-01-18T01:30:08Z</time>
+    </trkpt>
+    <trkpt lat="52.5343124" lon="21.6869383">
+      <ele>97</ele>
+      <time>2022-01-18T01:33:20Z</time>
+    </trkpt>
+    <trkpt lat="52.5342867" lon="21.6871444">
+      <ele>97</ele>
+      <time>2022-01-18T01:33:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

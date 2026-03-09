@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:32Z</time>
+    <bounds maxlat="50.136858" maxlon="18.5748017" minlat="50.1288727" minlon="18.5659575"/>
+  </metadata>
+  <wpt lat="50.136858" lon="18.574802">
+    <ele>271</ele>
+    <name>Kapliczka sw. Huberta</name>
+    <link href="https://mapa-turystyczna.pl/node/9555">
+      <text>Kapliczka sw. Huberta</text>
+    </link>
+  </wpt>
+  <wpt lat="50.128873" lon="18.565957">
+    <ele>244</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/9632">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kapliczka sw. Huberta - Rozejscie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.136858,18.5748017;50.133715216447634,18.571574100000017;50.1288727,18.5659575">
+    <text>Kapliczka sw. Huberta - Rozejscie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.136858" lon="18.5748017">
+      <ele>271</ele>
+      <time>2022-01-18T00:16:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1349698" lon="18.5729957">
+      <ele>269</ele>
+      <time>2022-01-18T00:19:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1324606" lon="18.5701525">
+      <ele>263</ele>
+      <time>2022-01-18T00:24:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1323083" lon="18.569895">
+      <ele>263</ele>
+      <time>2022-01-18T00:25:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1288727" lon="18.5659575">
+      <ele>244</ele>
+      <time>2022-01-18T00:31:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

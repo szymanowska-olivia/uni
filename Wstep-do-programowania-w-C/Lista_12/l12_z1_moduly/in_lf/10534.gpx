@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:44Z</time>
+    <bounds maxlat="49.6363203" maxlon="18.4863961" minlat="49.6359955" minlon="18.4839392"/>
+  </metadata>
+  <wpt lat="49.63632" lon="18.483939">
+    <ele>707</ele>
+    <name>Mala Prasiva</name>
+    <link href="https://mapa-turystyczna.pl/node/7494">
+      <text>Mala Prasiva</text>
+    </link>
+  </wpt>
+  <wpt lat="49.635995" lon="18.486396">
+    <ele>722</ele>
+    <name>Mala Prasiva, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7495">
+      <text>Mala Prasiva, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Prasiva - Mala Prasiva, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6363203,18.4839392;49.63612605003012,18.48532454999999;49.6359955,18.4863961">
+    <text>Mala Prasiva - Mala Prasiva, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6363203" lon="18.4839392">
+      <ele>707</ele>
+      <time>2022-01-17T23:17:44Z</time>
+    </trkpt>
+    <trkpt lat="49.6362474" lon="18.4846848">
+      <ele>711</ele>
+      <time>2022-01-17T23:19:14Z</time>
+    </trkpt>
+    <trkpt lat="49.6361802" lon="18.4850121">
+      <ele>714</ele>
+      <time>2022-01-17T23:19:55Z</time>
+    </trkpt>
+    <trkpt lat="49.6360719" lon="18.485637">
+      <ele>718</ele>
+      <time>2022-01-17T23:21:12Z</time>
+    </trkpt>
+    <trkpt lat="49.6360059" lon="18.4860152">
+      <ele>720</ele>
+      <time>2022-01-17T23:21:59Z</time>
+    </trkpt>
+    <trkpt lat="49.6359955" lon="18.4863961">
+      <ele>722</ele>
+      <time>2022-01-17T23:22:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

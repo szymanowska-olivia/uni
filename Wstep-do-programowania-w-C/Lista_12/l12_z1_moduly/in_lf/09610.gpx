@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:00:51Z</time>
+    <bounds maxlat="48.8659199" maxlon="19.6452391" minlat="48.8651982" minlon="19.6439946"/>
+  </metadata>
+  <wpt lat="48.865198" lon="19.643995">
+    <ele>654</ele>
+    <name>Myto pod Dumbierom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6719">
+      <text>Myto pod Dumbierom, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.86592" lon="19.645212">
+    <ele>660</ele>
+    <name>Myto pod Dumbierom</name>
+    <link href="https://mapa-turystyczna.pl/node/6651">
+      <text>Myto pod Dumbierom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myto pod Dumbierom, razc. - Myto pod Dumbierom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8651982,19.6439946;48.86563935007782,19.644809950000024;48.8659199,19.6452123">
+    <text>Myto pod Dumbierom, razc. - Myto pod Dumbierom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8651982" lon="19.6439946">
+      <ele>654</ele>
+      <time>2022-01-17T23:00:51Z</time>
+    </trkpt>
+    <trkpt lat="48.8652864" lon="19.6440482">
+      <ele>655</ele>
+      <time>2022-01-17T23:01:06Z</time>
+    </trkpt>
+    <trkpt lat="48.8653676" lon="19.6442199">
+      <ele>656</ele>
+      <time>2022-01-17T23:01:28Z</time>
+    </trkpt>
+    <trkpt lat="48.8655511" lon="19.6446168">
+      <ele>658</ele>
+      <time>2022-01-17T23:02:19Z</time>
+    </trkpt>
+    <trkpt lat="48.8657276" lon="19.6450031">
+      <ele>658</ele>
+      <time>2022-01-17T23:03:08Z</time>
+    </trkpt>
+    <trkpt lat="48.8658511" lon="19.6452391">
+      <ele>660</ele>
+      <time>2022-01-17T23:03:40Z</time>
+    </trkpt>
+    <trkpt lat="48.8659199" lon="19.6452123">
+      <ele>660</ele>
+      <time>2022-01-17T23:03:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

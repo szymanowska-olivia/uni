@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:15Z</time>
+    <bounds maxlat="50.1636422" maxlon="16.942937" minlat="50.1618894" minlon="16.9423824"/>
+  </metadata>
+  <wpt lat="50.163642" lon="16.942382">
+    <ele>516</ele>
+    <name>Stare Mesto</name>
+    <link href="https://mapa-turystyczna.pl/node/1733">
+      <text>Stare Mesto</text>
+    </link>
+  </wpt>
+  <wpt lat="50.161889" lon="16.942937">
+    <ele>519</ele>
+    <name>Stare Mesto, Nadrazni</name>
+    <link href="https://mapa-turystyczna.pl/node/7536">
+      <text>Stare Mesto, Nadrazni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stare Mesto - Stare Mesto, Nadrazni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1636422,16.9423824;50.16308790321395,16.94238244999999;50.1618894,16.942937">
+    <text>Stare Mesto - Stare Mesto, Nadrazni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1636422" lon="16.9423824">
+      <ele>516</ele>
+      <time>2022-01-17T23:21:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1625336" lon="16.9423825">
+      <ele>518</ele>
+      <time>2022-01-17T23:22:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1623106" lon="16.9428948">
+      <ele>518</ele>
+      <time>2022-01-17T23:23:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1618894" lon="16.942937">
+      <ele>519</ele>
+      <time>2022-01-17T23:24:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

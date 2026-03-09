@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:35Z</time>
+    <bounds maxlat="54.4696417" maxlon="18.4373063" minlat="54.4692832" minlon="18.4367001"/>
+  </metadata>
+  <wpt lat="54.469642" lon="18.437306">
+    <ele>198</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10914">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.469283" lon="18.4367">
+    <ele>196</ele>
+    <name>Gora Donas</name>
+    <link href="https://mapa-turystyczna.pl/node/10932">
+      <text>Gora Donas</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zolty / czarny - Gora Donas</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4696417,18.4373063;54.46951700019001,18.43706220000003;54.4692832,18.4367001">
+    <text>Skrzyzowanie szlakow zolty / czarny - Gora Donas</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4696417" lon="18.4373063">
+      <ele>198</ele>
+      <time>2022-01-18T00:48:35Z</time>
+    </trkpt>
+    <trkpt lat="54.4693923" lon="18.4368181">
+      <ele>196</ele>
+      <time>2022-01-18T00:49:20Z</time>
+    </trkpt>
+    <trkpt lat="54.4692832" lon="18.4367001">
+      <ele>196</ele>
+      <time>2022-01-18T00:49:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

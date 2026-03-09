@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:57Z</time>
+    <bounds maxlat="52.1198504" maxlon="21.2583956" minlat="52.1196094" minlon="21.258178"/>
+  </metadata>
+  <wpt lat="52.11985" lon="21.258178">
+    <ele>97</ele>
+    <name>Otwock, ul. Zajecza</name>
+    <link href="https://mapa-turystyczna.pl/node/12908">
+      <text>Otwock, ul. Zajecza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.119609" lon="21.258396">
+    <ele>97</ele>
+    <name>Otwock, ul. Pusta</name>
+    <link href="https://mapa-turystyczna.pl/node/12909">
+      <text>Otwock, ul. Pusta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Zajecza - Otwock, ul. Pusta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1198504,21.258178;52.11972990016289,21.258286800000004;52.1196094,21.2583956">
+    <text>Otwock, ul. Zajecza - Otwock, ul. Pusta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1198504" lon="21.258178">
+      <ele>97</ele>
+      <time>2022-01-18T01:41:57Z</time>
+    </trkpt>
+    <trkpt lat="52.1196094" lon="21.2583956">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

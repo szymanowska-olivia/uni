@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:02Z</time>
+    <bounds maxlat="49.76254" maxlon="19.08657" minlat="49.762464" minlon="19.086525"/>
+  </metadata>
+  <wpt lat="49.76254" lon="19.08657">
+    <ele>402</ele>
+    <name>Wilkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/849">
+      <text>Wilkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.762464" lon="19.086533">
+    <ele>396</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13615">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilkowice - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.76254,19.08657;49.762516500005695,19.08654749999999;49.762464,19.086533">
+    <text>Wilkowice - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.76254" lon="19.08657">
+      <ele>402</ele>
+      <time>2022-01-18T02:03:02Z</time>
+    </trkpt>
+    <trkpt lat="49.762493" lon="19.086525">
+      <ele>398</ele>
+      <time>2022-01-18T02:03:41Z</time>
+    </trkpt>
+    <trkpt lat="49.762464" lon="19.086533">
+      <ele>396</ele>
+      <time>2022-01-18T02:04:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

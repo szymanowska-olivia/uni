@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:29Z</time>
+    <bounds maxlat="52.147445" maxlon="21.7400484" minlat="52.1469084" minlon="21.7375897"/>
+  </metadata>
+  <wpt lat="52.146916" lon="21.740048">
+    <ele>168</ele>
+    <name>Ceglow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12923">
+      <text>Ceglow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.147445" lon="21.73759">
+    <ele>167</ele>
+    <name>Ceglow</name>
+    <link href="https://mapa-turystyczna.pl/node/12113">
+      <text>Ceglow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceglow, ul. Kolejowa - Ceglow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1469162,21.7400484;52.146947900012144,21.738713399999998;52.147445,21.7375897">
+    <text>Ceglow, ul. Kolejowa - Ceglow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1469162" lon="21.7400484">
+      <ele>168</ele>
+      <time>2022-01-18T01:42:29Z</time>
+    </trkpt>
+    <trkpt lat="52.1469347" lon="21.7399151">
+      <ele>168</ele>
+      <time>2022-01-18T01:42:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1469084" lon="21.7393893">
+      <ele>170</ele>
+      <time>2022-01-18T01:43:12Z</time>
+    </trkpt>
+    <trkpt lat="52.146915" lon="21.7389816">
+      <ele>170</ele>
+      <time>2022-01-18T01:43:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1469808" lon="21.7384452">
+      <ele>169</ele>
+      <time>2022-01-18T01:44:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1471257" lon="21.7379195">
+      <ele>168</ele>
+      <time>2022-01-18T01:44:50Z</time>
+    </trkpt>
+    <trkpt lat="52.147445" lon="21.7375897">
+      <ele>167</ele>
+      <time>2022-01-18T01:45:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

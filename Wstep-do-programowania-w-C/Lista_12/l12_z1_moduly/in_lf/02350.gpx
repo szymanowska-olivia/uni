@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:13Z</time>
+    <bounds maxlat="49.8466364" maxlon="19.5482289" minlat="49.8458355" minlon="19.5369959"/>
+  </metadata>
+  <wpt lat="49.845835" lon="19.548229">
+    <ele>528</ele>
+    <name>Pod Bystra</name>
+    <link href="https://mapa-turystyczna.pl/node/1690">
+      <text>Pod Bystra</text>
+    </link>
+  </wpt>
+  <wpt lat="49.846264" lon="19.536996">
+    <ele>541</ele>
+    <name>Jaroszowicka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/1689">
+      <text>Jaroszowicka Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bystra - Jaroszowicka Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8458355,19.5482289;49.8460958500234,19.542175199999992;49.8462644,19.5369959">
+    <text>Pod Bystra - Jaroszowicka Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8458355" lon="19.5482289">
+      <ele>528</ele>
+      <time>2022-01-17T21:15:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8461598" lon="19.54692">
+      <ele>542</ele>
+      <time>2022-01-17T21:17:02Z</time>
+    </trkpt>
+    <trkpt lat="49.8466364" lon="19.5452785">
+      <ele>550</ele>
+      <time>2022-01-17T21:19:20Z</time>
+    </trkpt>
+    <trkpt lat="49.8465724" lon="19.544549">
+      <ele>545</ele>
+      <time>2022-01-17T21:20:17Z</time>
+    </trkpt>
+    <trkpt lat="49.8463354" lon="19.543865">
+      <ele>540</ele>
+      <time>2022-01-17T21:21:17Z</time>
+    </trkpt>
+    <trkpt lat="49.8461434" lon="19.5429021">
+      <ele>537</ele>
+      <time>2022-01-17T21:22:34Z</time>
+    </trkpt>
+    <trkpt lat="49.8460483" lon="19.5414483">
+      <ele>541</ele>
+      <time>2022-01-17T21:24:26Z</time>
+    </trkpt>
+    <trkpt lat="49.8461537" lon="19.5406598">
+      <ele>545</ele>
+      <time>2022-01-17T21:25:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8463146" lon="19.5398149">
+      <ele>547</ele>
+      <time>2022-01-17T21:26:36Z</time>
+    </trkpt>
+    <trkpt lat="49.846344" lon="19.5389003">
+      <ele>544</ele>
+      <time>2022-01-17T21:27:46Z</time>
+    </trkpt>
+    <trkpt lat="49.8462644" lon="19.5369959">
+      <ele>541</ele>
+      <time>2022-01-17T21:30:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

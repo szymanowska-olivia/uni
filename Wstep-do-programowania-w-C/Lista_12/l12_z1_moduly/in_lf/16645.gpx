@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:17Z</time>
+    <bounds maxlat="52.4547495" maxlon="20.8725036" minlat="52.4534549" minlon="20.8718587"/>
+  </metadata>
+  <wpt lat="52.453455" lon="20.872504">
+    <ele>76</ele>
+    <name>Kaluszyn</name>
+    <link href="https://mapa-turystyczna.pl/node/11367">
+      <text>Kaluszyn</text>
+    </link>
+  </wpt>
+  <wpt lat="52.454749" lon="20.871871">
+    <ele>72</ele>
+    <name>Kaluszyn, Ochotnicza Straz Pozarna</name>
+    <link href="https://mapa-turystyczna.pl/node/11366">
+      <text>Kaluszyn, Ochotnicza Straz Pozarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaluszyn - Kaluszyn, Ochotnicza Straz Pozarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4534549,20.8725036;52.45389580220711,20.872207949999986;52.4547495,20.8718706">
+    <text>Kaluszyn - Kaluszyn, Ochotnicza Straz Pozarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4534549" lon="20.8725036">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:17Z</time>
+    </trkpt>
+    <trkpt lat="52.4543367" lon="20.8719123">
+      <ele>73</ele>
+      <time>2022-01-18T01:01:41Z</time>
+    </trkpt>
+    <trkpt lat="52.454559" lon="20.8718587">
+      <ele>72</ele>
+      <time>2022-01-18T01:02:00Z</time>
+    </trkpt>
+    <trkpt lat="52.4547495" lon="20.8718706">
+      <ele>72</ele>
+      <time>2022-01-18T01:02:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

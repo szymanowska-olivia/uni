@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:07Z</time>
+    <bounds maxlat="50.7548528" maxlon="15.3134286" minlat="50.7541232" minlon="15.3098989"/>
+  </metadata>
+  <wpt lat="50.754853" lon="15.309899">
+    <ele>500</ele>
+    <name>Desna, kino Alfa</name>
+    <link href="https://mapa-turystyczna.pl/node/3095">
+      <text>Desna, kino Alfa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.754123" lon="15.313429">
+    <ele>490</ele>
+    <name>Desna, Hotel Bolson</name>
+    <link href="https://mapa-turystyczna.pl/node/3099">
+      <text>Desna, Hotel Bolson</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Desna, kino Alfa - Desna, Hotel Bolson</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7548528,15.3098989;50.754550150082814,15.31188705;50.7541232,15.3134286">
+    <text>Desna, kino Alfa - Desna, Hotel Bolson</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7548528" lon="15.3098989">
+      <ele>500</ele>
+      <time>2022-01-17T21:43:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7547256" lon="15.3108484">
+      <ele>497</ele>
+      <time>2022-01-17T21:44:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7546382" lon="15.3114519">
+      <ele>496</ele>
+      <time>2022-01-17T21:45:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7544621" lon="15.3123222">
+      <ele>492</ele>
+      <time>2022-01-17T21:46:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7542248" lon="15.3130256">
+      <ele>491</ele>
+      <time>2022-01-17T21:47:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7541232" lon="15.3134286">
+      <ele>490</ele>
+      <time>2022-01-17T21:48:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

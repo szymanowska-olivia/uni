@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:50:52Z</time>
+    <bounds maxlat="49.3866506" maxlon="21.7662565" minlat="49.3684187" minlon="21.756363"/>
+  </metadata>
+  <wpt lat="49.386651" lon="21.756363">
+    <ele>579</ele>
+    <name>Pod Pstrzynska</name>
+    <link href="https://mapa-turystyczna.pl/node/500">
+      <text>Pod Pstrzynska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.368419" lon="21.766094">
+    <ele>593</ele>
+    <name>Sedlo Javoriny</name>
+    <link href="https://mapa-turystyczna.pl/node/538">
+      <text>Sedlo Javoriny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Pstrzynska - Sedlo Javoriny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3866506,21.756363;49.378671703363736,21.764941500000017;49.3684187,21.766094">
+    <text>Pod Pstrzynska - Sedlo Javoriny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3866506" lon="21.756363">
+      <ele>579</ele>
+      <time>2022-01-17T20:50:52Z</time>
+    </trkpt>
+    <trkpt lat="49.3861753" lon="21.7573838">
+      <ele>578</ele>
+      <time>2022-01-17T20:52:31Z</time>
+    </trkpt>
+    <trkpt lat="49.3855405" lon="21.7584229">
+      <ele>578</ele>
+      <time>2022-01-17T20:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.385016" lon="21.7597549">
+      <ele>579</ele>
+      <time>2022-01-17T20:56:26Z</time>
+    </trkpt>
+    <trkpt lat="49.3845245" lon="21.7614377">
+      <ele>577</ele>
+      <time>2022-01-17T20:58:51Z</time>
+    </trkpt>
+    <trkpt lat="49.3834207" lon="21.7634333">
+      <ele>577</ele>
+      <time>2022-01-17T21:02:18Z</time>
+    </trkpt>
+    <trkpt lat="49.3823409" lon="21.7640571">
+      <ele>581</ele>
+      <time>2022-01-17T21:04:38Z</time>
+    </trkpt>
+    <trkpt lat="49.3815307" lon="21.7647652">
+      <ele>580</ele>
+      <time>2022-01-17T21:06:31Z</time>
+    </trkpt>
+    <trkpt lat="49.3794772" lon="21.7651086">
+      <ele>589</ele>
+      <time>2022-01-17T21:10:41Z</time>
+    </trkpt>
+    <trkpt lat="49.3792467" lon="21.7647331">
+      <ele>590</ele>
+      <time>2022-01-17T21:11:22Z</time>
+    </trkpt>
+    <trkpt lat="49.3780967" lon="21.7651499">
+      <ele>598</ele>
+      <time>2022-01-17T21:13:45Z</time>
+    </trkpt>
+    <trkpt lat="49.3773048" lon="21.7639928">
+      <ele>621</ele>
+      <time>2022-01-17T21:16:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3769589" lon="21.7629611">
+      <ele>632</ele>
+      <time>2022-01-17T21:17:32Z</time>
+    </trkpt>
+    <trkpt lat="49.3758621" lon="21.7632831">
+      <ele>629</ele>
+      <time>2022-01-17T21:19:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3750521" lon="21.7630272">
+      <ele>630</ele>
+      <time>2022-01-17T21:21:27Z</time>
+    </trkpt>
+    <trkpt lat="49.373911" lon="21.763444">
+      <ele>622</ele>
+      <time>2022-01-17T21:23:50Z</time>
+    </trkpt>
+    <trkpt lat="49.3734245" lon="21.7640571">
+      <ele>619</ele>
+      <time>2022-01-17T21:25:06Z</time>
+    </trkpt>
+    <trkpt lat="49.3721509" lon="21.7647099">
+      <ele>607</ele>
+      <time>2022-01-17T21:27:49Z</time>
+    </trkpt>
+    <trkpt lat="49.3711209" lon="21.7655683">
+      <ele>594</ele>
+      <time>2022-01-17T21:30:12Z</time>
+    </trkpt>
+    <trkpt lat="49.3700781" lon="21.7662565">
+      <ele>580</ele>
+      <time>2022-01-17T21:32:30Z</time>
+    </trkpt>
+    <trkpt lat="49.3684187" lon="21.766094">
+      <ele>593</ele>
+      <time>2022-01-17T21:35:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

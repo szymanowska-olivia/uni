@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:52:34Z</time>
+    <bounds maxlat="49.623983" maxlon="19.576424" minlat="49.622507" minlon="19.56731"/>
+  </metadata>
+  <wpt lat="49.622576" lon="19.56731">
+    <ele>1040</ele>
+    <name>Mosorny Gron</name>
+    <link href="https://mapa-turystyczna.pl/node/603">
+      <text>Mosorny Gron</text>
+    </link>
+  </wpt>
+  <wpt lat="49.623983" lon="19.576424">
+    <ele>1074</ele>
+    <name>Hala Smietanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/575">
+      <text>Hala Smietanowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mosorny Gron - Hala Smietanowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.622576,19.56731;49.623231000047454,19.57169349999998;49.623983,19.576424">
+    <text>Mosorny Gron - Hala Smietanowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.622576" lon="19.56731">
+      <ele>1040</ele>
+      <time>2022-01-17T20:52:34Z</time>
+    </trkpt>
+    <trkpt lat="49.622544" lon="19.567766">
+      <ele>1041</ele>
+      <time>2022-01-17T20:53:17Z</time>
+    </trkpt>
+    <trkpt lat="49.62254" lon="19.568123">
+      <ele>1041</ele>
+      <time>2022-01-17T20:53:51Z</time>
+    </trkpt>
+    <trkpt lat="49.622507" lon="19.568446">
+      <ele>1041</ele>
+      <time>2022-01-17T20:54:22Z</time>
+    </trkpt>
+    <trkpt lat="49.622577" lon="19.568781">
+      <ele>1041</ele>
+      <time>2022-01-17T20:54:55Z</time>
+    </trkpt>
+    <trkpt lat="49.622727" lon="19.5691">
+      <ele>1042</ele>
+      <time>2022-01-17T20:55:33Z</time>
+    </trkpt>
+    <trkpt lat="49.622805" lon="19.569355">
+      <ele>1042</ele>
+      <time>2022-01-17T20:55:59Z</time>
+    </trkpt>
+    <trkpt lat="49.622954" lon="19.570123">
+      <ele>1045</ele>
+      <time>2022-01-17T20:57:15Z</time>
+    </trkpt>
+    <trkpt lat="49.623163" lon="19.571045">
+      <ele>1050</ele>
+      <time>2022-01-17T20:58:48Z</time>
+    </trkpt>
+    <trkpt lat="49.623299" lon="19.572342">
+      <ele>1058</ele>
+      <time>2022-01-17T21:00:53Z</time>
+    </trkpt>
+    <trkpt lat="49.623337" lon="19.572895">
+      <ele>1064</ele>
+      <time>2022-01-17T21:01:46Z</time>
+    </trkpt>
+    <trkpt lat="49.623401" lon="19.573553">
+      <ele>1066</ele>
+      <time>2022-01-17T21:02:49Z</time>
+    </trkpt>
+    <trkpt lat="49.623562" lon="19.574266">
+      <ele>1066</ele>
+      <time>2022-01-17T21:04:00Z</time>
+    </trkpt>
+    <trkpt lat="49.62384" lon="19.575517">
+      <ele>1069</ele>
+      <time>2022-01-17T21:06:05Z</time>
+    </trkpt>
+    <trkpt lat="49.623983" lon="19.576424">
+      <ele>1074</ele>
+      <time>2022-01-17T21:07:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

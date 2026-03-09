@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:55Z</time>
+    <bounds maxlat="50.4628997" maxlon="18.166984" minlat="50.4605571" minlon="18.1658521"/>
+  </metadata>
+  <wpt lat="50.460557" lon="18.166984">
+    <ele>370</ele>
+    <name>Gora Swietej Anny, ul. Strzelecka</name>
+    <link href="https://mapa-turystyczna.pl/node/9790">
+      <text>Gora Swietej Anny, ul. Strzelecka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.4629" lon="18.165852">
+    <ele>370</ele>
+    <name>Wysoka, OSP</name>
+    <link href="https://mapa-turystyczna.pl/node/9789">
+      <text>Wysoka, OSP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Swietej Anny, ul. Strzelecka - Wysoka, OSP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4605571,18.166984;50.46174310117302,18.166250450000003;50.4628997,18.1658521">
+    <text>Gora Swietej Anny, ul. Strzelecka - Wysoka, OSP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4605571" lon="18.166984">
+      <ele>370</ele>
+      <time>2022-01-18T00:20:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4609592" lon="18.1666764">
+      <ele>370</ele>
+      <time>2022-01-18T00:21:49Z</time>
+    </trkpt>
+    <trkpt lat="50.46141" lon="18.1664081">
+      <ele>372</ele>
+      <time>2022-01-18T00:22:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4620762" lon="18.1660928">
+      <ele>370</ele>
+      <time>2022-01-18T00:24:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4624075" lon="18.1659748">
+      <ele>368</ele>
+      <time>2022-01-18T00:24:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4628002" lon="18.1658782">
+      <ele>369</ele>
+      <time>2022-01-18T00:25:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4628997" lon="18.1658521">
+      <ele>370</ele>
+      <time>2022-01-18T00:25:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

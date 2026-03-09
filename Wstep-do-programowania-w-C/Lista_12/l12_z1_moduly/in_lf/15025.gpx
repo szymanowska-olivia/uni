@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:10Z</time>
+    <bounds maxlat="52.2720659" maxlon="16.8637708" minlat="52.2718458" minlon="16.8622622"/>
+  </metadata>
+  <wpt lat="52.272061" lon="16.862262">
+    <ele>63</ele>
+    <name>Puszczykowko, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10242">
+      <text>Puszczykowko, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.271846" lon="16.863771">
+    <ele>63</ele>
+    <name>Puszczykowko, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10240">
+      <text>Puszczykowko, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowko, ul. Dworcowa - Puszczykowko, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2720606,16.8622622;52.27199535005613,16.8626884;52.2718458,16.8637708">
+    <text>Puszczykowko, ul. Dworcowa - Puszczykowko, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2720606" lon="16.8622622">
+      <ele>63</ele>
+      <time>2022-01-18T00:32:10Z</time>
+    </trkpt>
+    <trkpt lat="52.2720659" lon="16.8622673">
+      <ele>63</ele>
+      <time>2022-01-18T00:32:11Z</time>
+    </trkpt>
+    <trkpt lat="52.2719248" lon="16.8631095">
+      <ele>63</ele>
+      <time>2022-01-18T00:33:18Z</time>
+    </trkpt>
+    <trkpt lat="52.2718458" lon="16.8637708">
+      <ele>63</ele>
+      <time>2022-01-18T00:34:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

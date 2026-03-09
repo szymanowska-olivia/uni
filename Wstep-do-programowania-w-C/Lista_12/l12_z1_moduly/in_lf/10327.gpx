@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:17Z</time>
+    <bounds maxlat="51.1483308" maxlon="20.4457151" minlat="51.1457776" minlon="20.4393162"/>
+  </metadata>
+  <wpt lat="51.145778" lon="20.445715">
+    <ele>270</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7268">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.148331" lon="20.439316">
+    <ele>278</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7267">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zolty / czarny - Skrzyzowanie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1457776,20.4457151;51.147054217655025,20.442515650000004;51.1483308,20.4393162">
+    <text>Skrzyzowanie szlakow zolty / czarny - Skrzyzowanie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1457776" lon="20.4457151">
+      <ele>270</ele>
+      <time>2022-01-17T23:14:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1483308" lon="20.4393162">
+      <ele>278</ele>
+      <time>2022-01-17T23:24:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:47Z</time>
+    <bounds maxlat="49.621224" maxlon="20.380054" minlat="49.620311" minlon="20.375935"/>
+  </metadata>
+  <wpt lat="49.621224" lon="20.375935">
+    <ele>1029</ele>
+    <name>Modyn</name>
+    <link href="https://mapa-turystyczna.pl/node/900">
+      <text>Modyn</text>
+    </link>
+  </wpt>
+  <wpt lat="49.620311" lon="20.380054">
+    <ele>1011</ele>
+    <name>Pod Modynia</name>
+    <link href="https://mapa-turystyczna.pl/node/3679">
+      <text>Pod Modynia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modyn - Pod Modynia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.621224,20.375935;49.62101350001523,20.37825049999999;49.620311,20.380054">
+    <text>Modyn - Pod Modynia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.621224" lon="20.375935">
+      <ele>1029</ele>
+      <time>2022-01-17T21:52:47Z</time>
+    </trkpt>
+    <trkpt lat="49.621121" lon="20.377651">
+      <ele>1026</ele>
+      <time>2022-01-17T21:54:43Z</time>
+    </trkpt>
+    <trkpt lat="49.621052" lon="20.37811">
+      <ele>1023</ele>
+      <time>2022-01-17T21:55:14Z</time>
+    </trkpt>
+    <trkpt lat="49.620975" lon="20.378391">
+      <ele>1021</ele>
+      <time>2022-01-17T21:55:35Z</time>
+    </trkpt>
+    <trkpt lat="49.620874" lon="20.37874">
+      <ele>1019</ele>
+      <time>2022-01-17T21:56:01Z</time>
+    </trkpt>
+    <trkpt lat="49.620781" lon="20.379046">
+      <ele>1017</ele>
+      <time>2022-01-17T21:56:23Z</time>
+    </trkpt>
+    <trkpt lat="49.620636" lon="20.379354">
+      <ele>1016</ele>
+      <time>2022-01-17T21:56:49Z</time>
+    </trkpt>
+    <trkpt lat="49.620421" lon="20.379794">
+      <ele>1013</ele>
+      <time>2022-01-17T21:57:26Z</time>
+    </trkpt>
+    <trkpt lat="49.620311" lon="20.380054">
+      <ele>1011</ele>
+      <time>2022-01-17T21:57:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:43Z</time>
+    <bounds maxlat="51.7854977" maxlon="21.1947569" minlat="51.7839844" minlon="21.1909964"/>
+  </metadata>
+  <wpt lat="51.785498" lon="21.194757">
+    <ele>108</ele>
+    <name>Warka, Park Saski</name>
+    <link href="https://mapa-turystyczna.pl/node/11998">
+      <text>Warka, Park Saski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.783984" lon="21.190996">
+    <ele>115</ele>
+    <name>Warka, ul. Senatorska</name>
+    <link href="https://mapa-turystyczna.pl/node/11999">
+      <text>Warka, ul. Senatorska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, Park Saski - Warka, ul. Senatorska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7854977,21.1947569;51.784952403295705,21.19362304999998;51.7839844,21.1909964">
+    <text>Warka, Park Saski - Warka, ul. Senatorska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7854977" lon="21.1947569">
+      <ele>108</ele>
+      <time>2022-01-18T01:17:43Z</time>
+    </trkpt>
+    <trkpt lat="51.7844071" lon="21.1924892">
+      <ele>112</ele>
+      <time>2022-01-18T01:20:53Z</time>
+    </trkpt>
+    <trkpt lat="51.7841549" lon="21.1918133">
+      <ele>113</ele>
+      <time>2022-01-18T01:21:46Z</time>
+    </trkpt>
+    <trkpt lat="51.7839844" lon="21.1909964">
+      <ele>115</ele>
+      <time>2022-01-18T01:22:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

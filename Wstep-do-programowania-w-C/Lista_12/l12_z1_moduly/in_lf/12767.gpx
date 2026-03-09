@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:54Z</time>
+    <bounds maxlat="50.8587276" maxlon="15.2123045" minlat="50.8566484" minlon="15.2110879"/>
+  </metadata>
+  <wpt lat="50.858728" lon="15.211088">
+    <ele>599</ele>
+    <name>Cerny potok, odbocka k vodopadu</name>
+    <link href="https://mapa-turystyczna.pl/node/8775">
+      <text>Cerny potok, odbocka k vodopadu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.856648" lon="15.212279">
+    <ele>651</ele>
+    <name>Vodopad Cerneho potoka</name>
+    <link href="https://mapa-turystyczna.pl/node/8774">
+      <text>Vodopad Cerneho potoka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerny potok, odbocka k vodopadu - Vodopad Cerneho potoka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8587276,15.2110879;50.857629250118116,15.211915550000024;50.8566484,15.2122788">
+    <text>Cerny potok, odbocka k vodopadu - Vodopad Cerneho potoka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8587276" lon="15.2110879">
+      <ele>599</ele>
+      <time>2022-01-17T23:55:54Z</time>
+    </trkpt>
+    <trkpt lat="50.858514" lon="15.2111028">
+      <ele>604</ele>
+      <time>2022-01-17T23:56:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8581889" lon="15.2113281">
+      <ele>616</ele>
+      <time>2022-01-17T23:58:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8579307" lon="15.2115964">
+      <ele>620</ele>
+      <time>2022-01-17T23:59:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8577342" lon="15.211827">
+      <ele>625</ele>
+      <time>2022-01-18T00:00:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8575243" lon="15.2120041">
+      <ele>630</ele>
+      <time>2022-01-18T00:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8573381" lon="15.2121382">
+      <ele>634</ele>
+      <time>2022-01-18T00:02:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8571755" lon="15.2122508">
+      <ele>638</ele>
+      <time>2022-01-18T00:03:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8569114" lon="15.2123045">
+      <ele>643</ele>
+      <time>2022-01-18T00:04:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8566484" lon="15.2122788">
+      <ele>651</ele>
+      <time>2022-01-18T00:05:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

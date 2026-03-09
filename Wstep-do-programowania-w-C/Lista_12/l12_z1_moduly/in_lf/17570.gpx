@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:38Z</time>
+    <bounds maxlat="52.0317798" maxlon="21.0530428" minlat="52.0281153" minlon="21.0494945"/>
+  </metadata>
+  <wpt lat="52.028115" lon="21.053043">
+    <ele>106</ele>
+    <name>Zalesie Gorne, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11924">
+      <text>Zalesie Gorne, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.03178" lon="21.049495">
+    <ele>109</ele>
+    <name>Zalesie Gorne, przystan</name>
+    <link href="https://mapa-turystyczna.pl/node/11921">
+      <text>Zalesie Gorne, przystan</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zalesie Gorne, parking - Zalesie Gorne, przystan</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0281153,21.0530428;52.03021420022516,21.051682350000004;52.0317798,21.0494945">
+    <text>Zalesie Gorne, parking - Zalesie Gorne, przystan</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0281153" lon="21.0530428">
+      <ele>106</ele>
+      <time>2022-01-18T01:15:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0282109" lon="21.0529044">
+      <ele>107</ele>
+      <time>2022-01-18T01:15:56Z</time>
+    </trkpt>
+    <trkpt lat="52.0283791" lon="21.0527284">
+      <ele>107</ele>
+      <time>2022-01-18T01:16:23Z</time>
+    </trkpt>
+    <trkpt lat="52.02963" lon="21.0521973">
+      <ele>110</ele>
+      <time>2022-01-18T01:19:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0300723" lon="21.0517843">
+      <ele>110</ele>
+      <time>2022-01-18T01:20:30Z</time>
+    </trkpt>
+    <trkpt lat="52.0303561" lon="21.0515804">
+      <ele>108</ele>
+      <time>2022-01-18T01:21:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0307126" lon="21.0512478">
+      <ele>109</ele>
+      <time>2022-01-18T01:22:09Z</time>
+    </trkpt>
+    <trkpt lat="52.0309205" lon="21.0509152">
+      <ele>110</ele>
+      <time>2022-01-18T01:22:50Z</time>
+    </trkpt>
+    <trkpt lat="52.0312505" lon="21.050293">
+      <ele>108</ele>
+      <time>2022-01-18T01:23:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0317798" lon="21.0494945">
+      <ele>109</ele>
+      <time>2022-01-18T01:25:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

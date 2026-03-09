@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:28Z</time>
+    <bounds maxlat="52.513267" maxlon="20.9584479" minlat="52.5091141" minlon="20.9556906"/>
+  </metadata>
+  <wpt lat="52.513267" lon="20.958448">
+    <ele>119</ele>
+    <name>Rezerwat Zegrze</name>
+    <link href="https://mapa-turystyczna.pl/node/12217">
+      <text>Rezerwat Zegrze</text>
+    </link>
+  </wpt>
+  <wpt lat="52.509114" lon="20.955691">
+    <ele>117</ele>
+    <name>Rezerwat Zegrze</name>
+    <link href="https://mapa-turystyczna.pl/node/12218">
+      <text>Rezerwat Zegrze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Zegrze - Rezerwat Zegrze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.513267,20.9584479;52.511190599055254,20.957069250000018;52.5091141,20.9556906">
+    <text>Rezerwat Zegrze - Rezerwat Zegrze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.513267" lon="20.9584479">
+      <ele>119</ele>
+      <time>2022-01-18T01:22:28Z</time>
+    </trkpt>
+    <trkpt lat="52.5091141" lon="20.9556906">
+      <ele>117</ele>
+      <time>2022-01-18T01:27:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

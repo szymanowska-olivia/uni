@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:19Z</time>
+    <bounds maxlat="51.6386014" maxlon="21.1835376" minlat="51.6311" minlon="21.1767779"/>
+  </metadata>
+  <wpt lat="51.638601" lon="21.183538">
+    <ele>146</ele>
+    <name>Rezerwat Starodrzew Dobieszynski</name>
+    <link href="https://mapa-turystyczna.pl/node/12074">
+      <text>Rezerwat Starodrzew Dobieszynski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.6311" lon="21.177089">
+    <ele>145</ele>
+    <name>Dobieszyn</name>
+    <link href="https://mapa-turystyczna.pl/node/12075">
+      <text>Dobieszyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Starodrzew Dobieszynski - Dobieszyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6386014,21.1835376;51.63623921151977,21.180549349999996;51.6311,21.1770891">
+    <text>Rezerwat Starodrzew Dobieszynski - Dobieszyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6386014" lon="21.1835376">
+      <ele>146</ele>
+      <time>2022-01-18T01:19:19Z</time>
+    </trkpt>
+    <trkpt lat="51.6338769" lon="21.1775611">
+      <ele>144</ele>
+      <time>2022-01-18T01:29:26Z</time>
+    </trkpt>
+    <trkpt lat="51.6336505" lon="21.1773037">
+      <ele>142</ele>
+      <time>2022-01-18T01:29:54Z</time>
+    </trkpt>
+    <trkpt lat="51.6334441" lon="21.1771535">
+      <ele>142</ele>
+      <time>2022-01-18T01:30:17Z</time>
+    </trkpt>
+    <trkpt lat="51.6330712" lon="21.1769389">
+      <ele>141</ele>
+      <time>2022-01-18T01:30:57Z</time>
+    </trkpt>
+    <trkpt lat="51.6326916" lon="21.1767994">
+      <ele>142</ele>
+      <time>2022-01-18T01:31:36Z</time>
+    </trkpt>
+    <trkpt lat="51.6323719" lon="21.1767779">
+      <ele>143</ele>
+      <time>2022-01-18T01:32:09Z</time>
+    </trkpt>
+    <trkpt lat="51.6318392" lon="21.1768209">
+      <ele>143</ele>
+      <time>2022-01-18T01:33:02Z</time>
+    </trkpt>
+    <trkpt lat="51.6311" lon="21.1770891">
+      <ele>145</ele>
+      <time>2022-01-18T01:34:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

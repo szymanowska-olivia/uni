@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:47Z</time>
+    <bounds maxlat="49.6083957" maxlon="18.804793" minlat="49.6068027" minlon="18.8031221"/>
+  </metadata>
+  <wpt lat="49.608396" lon="18.803122">
+    <ele>738</ele>
+    <name>Nad Zimnym, hreben</name>
+    <link href="https://mapa-turystyczna.pl/node/791">
+      <text>Nad Zimnym, hreben</text>
+    </link>
+  </wpt>
+  <wpt lat="49.606803" lon="18.804753">
+    <ele>690</ele>
+    <name>Zimny, osada</name>
+    <link href="https://mapa-turystyczna.pl/node/3966">
+      <text>Zimny, osada</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Zimnym, hreben - Zimny, osada</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6083957,18.8031221;49.60767495004892,18.803934450000018;49.6068027,18.8047528">
+    <text>Nad Zimnym, hreben - Zimny, osada</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6083957" lon="18.8031221">
+      <ele>738</ele>
+      <time>2022-01-17T21:59:47Z</time>
+    </trkpt>
+    <trkpt lat="49.608238" lon="18.8031284">
+      <ele>737</ele>
+      <time>2022-01-17T22:00:09Z</time>
+    </trkpt>
+    <trkpt lat="49.6079644" lon="18.8032282">
+      <ele>732</ele>
+      <time>2022-01-17T22:00:49Z</time>
+    </trkpt>
+    <trkpt lat="49.6078439" lon="18.8033386">
+      <ele>730</ele>
+      <time>2022-01-17T22:01:09Z</time>
+    </trkpt>
+    <trkpt lat="49.607744" lon="18.8038664">
+      <ele>722</ele>
+      <time>2022-01-17T22:02:00Z</time>
+    </trkpt>
+    <trkpt lat="49.6076059" lon="18.8040025">
+      <ele>716</ele>
+      <time>2022-01-17T22:02:24Z</time>
+    </trkpt>
+    <trkpt lat="49.6075303" lon="18.8041493">
+      <ele>712</ele>
+      <time>2022-01-17T22:02:42Z</time>
+    </trkpt>
+    <trkpt lat="49.6072281" lon="18.8045436">
+      <ele>701</ele>
+      <time>2022-01-17T22:03:38Z</time>
+    </trkpt>
+    <trkpt lat="49.6070527" lon="18.8047541">
+      <ele>695</ele>
+      <time>2022-01-17T22:04:11Z</time>
+    </trkpt>
+    <trkpt lat="49.6069329" lon="18.804793">
+      <ele>692</ele>
+      <time>2022-01-17T22:04:28Z</time>
+    </trkpt>
+    <trkpt lat="49.6068027" lon="18.8047528">
+      <ele>690</ele>
+      <time>2022-01-17T22:04:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

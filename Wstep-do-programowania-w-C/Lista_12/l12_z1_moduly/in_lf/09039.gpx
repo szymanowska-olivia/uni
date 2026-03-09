@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:52Z</time>
+    <bounds maxlat="50.2538526" maxlon="17.370479" minlat="50.2514687" minlon="17.3672122"/>
+  </metadata>
+  <wpt lat="50.251469" lon="17.367212">
+    <ele>468</ele>
+    <name>Zlatorudne mlyny</name>
+    <link href="https://mapa-turystyczna.pl/node/6292">
+      <text>Zlatorudne mlyny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.253853" lon="17.370479">
+    <ele>478</ele>
+    <name>Nahon</name>
+    <link href="https://mapa-turystyczna.pl/node/2652">
+      <text>Nahon</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlatorudne mlyny - Nahon</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2514687,17.3672122;50.25265555011868,17.368546600000013;50.2538526,17.370479">
+    <text>Zlatorudne mlyny - Nahon</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2514687" lon="17.3672122">
+      <ele>468</ele>
+      <time>2022-01-17T22:49:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2520553" lon="17.3678881">
+      <ele>462</ele>
+      <time>2022-01-17T22:50:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2525492" lon="17.3683575">
+      <ele>463</ele>
+      <time>2022-01-17T22:51:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2527619" lon="17.3687357">
+      <ele>467</ele>
+      <time>2022-01-17T22:52:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2528373" lon="17.3688912">
+      <ele>468</ele>
+      <time>2022-01-17T22:52:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2529539" lon="17.3691916">
+      <ele>470</ele>
+      <time>2022-01-17T22:52:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2530191" lon="17.3695457">
+      <ele>473</ele>
+      <time>2022-01-17T22:53:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2531117" lon="17.3697281">
+      <ele>474</ele>
+      <time>2022-01-17T22:53:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2537017" lon="17.3703182">
+      <ele>477</ele>
+      <time>2022-01-17T22:54:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2538526" lon="17.370479">
+      <ele>478</ele>
+      <time>2022-01-17T22:54:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

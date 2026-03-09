@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:16Z</time>
+    <bounds maxlat="49.425784" maxlon="20.482595" minlat="49.425138" minlon="20.481066"/>
+  </metadata>
+  <wpt lat="49.425784" lon="20.481066">
+    <ele>464</ele>
+    <name>Szczawnica, ul. Glowna</name>
+    <link href="https://mapa-turystyczna.pl/node/3987">
+      <text>Szczawnica, ul. Glowna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.425138" lon="20.482595">
+    <ele>466</ele>
+    <name>Szczawnica</name>
+    <link href="https://mapa-turystyczna.pl/node/50">
+      <text>Szczawnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczawnica, ul. Glowna - Szczawnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.425784,20.481066;49.42547500006043,20.481859500000013;49.425138,20.482595">
+    <text>Szczawnica, ul. Glowna - Szczawnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.425784" lon="20.481066">
+      <ele>464</ele>
+      <time>2022-01-17T22:00:16Z</time>
+    </trkpt>
+    <trkpt lat="49.425552" lon="20.481663">
+      <ele>462</ele>
+      <time>2022-01-17T22:01:02Z</time>
+    </trkpt>
+    <trkpt lat="49.425398" lon="20.482056">
+      <ele>464</ele>
+      <time>2022-01-17T22:01:32Z</time>
+    </trkpt>
+    <trkpt lat="49.425277" lon="20.482332">
+      <ele>466</ele>
+      <time>2022-01-17T22:01:54Z</time>
+    </trkpt>
+    <trkpt lat="49.425138" lon="20.482595">
+      <ele>466</ele>
+      <time>2022-01-17T22:02:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

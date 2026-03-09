@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:47Z</time>
+    <bounds maxlat="50.3482129" maxlon="18.9183936" minlat="50.3480088" minlon="18.9182125"/>
+  </metadata>
+  <wpt lat="50.348009" lon="18.918212">
+    <ele>280</ele>
+    <name>Bytom, sad</name>
+    <link href="https://mapa-turystyczna.pl/node/9710">
+      <text>Bytom, sad</text>
+    </link>
+  </wpt>
+  <wpt lat="50.348213" lon="18.918316">
+    <ele>279</ele>
+    <name>Bytom, kosciol Swietej Trojcy</name>
+    <link href="https://mapa-turystyczna.pl/node/9529">
+      <text>Bytom, kosciol Swietej Trojcy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bytom, sad - Bytom, kosciol Swietej Trojcy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3480088,18.9182125;50.34809045002392,18.9183817;50.3482129,18.9183164">
+    <text>Bytom, sad - Bytom, kosciol Swietej Trojcy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3480088" lon="18.9182125">
+      <ele>280</ele>
+      <time>2022-01-18T00:18:47Z</time>
+    </trkpt>
+    <trkpt lat="50.348012" lon="18.9182765">
+      <ele>280</ele>
+      <time>2022-01-18T00:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3480342" lon="18.9182899">
+      <ele>280</ele>
+      <time>2022-01-18T00:18:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3480428" lon="18.9183784">
+      <ele>280</ele>
+      <time>2022-01-18T00:19:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3481381" lon="18.918385">
+      <ele>279</ele>
+      <time>2022-01-18T00:19:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3482029" lon="18.9183936">
+      <ele>279</ele>
+      <time>2022-01-18T00:19:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3482129" lon="18.9183164">
+      <ele>279</ele>
+      <time>2022-01-18T00:19:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

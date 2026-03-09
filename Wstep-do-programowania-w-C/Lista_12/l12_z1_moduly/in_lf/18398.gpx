@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:30:14Z</time>
+    <bounds maxlat="50.2630707" maxlon="22.418923" minlat="50.2624443" minlon="22.418082"/>
+  </metadata>
+  <wpt lat="50.262444" lon="22.418923">
+    <ele>178</ele>
+    <name>Lezajsk</name>
+    <link href="https://mapa-turystyczna.pl/node/12077">
+      <text>Lezajsk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.263071" lon="22.418082">
+    <ele>178</ele>
+    <name>Lezajsk, ul. Opalinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12460">
+      <text>Lezajsk, ul. Opalinskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lezajsk - Lezajsk, ul. Opalinskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2624443,22.418923;50.26262615034714,22.418739350000006;50.2630707,22.418082">
+    <text>Lezajsk - Lezajsk, ul. Opalinskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2624443" lon="22.418923">
+      <ele>178</ele>
+      <time>2022-01-18T01:30:14Z</time>
+    </trkpt>
+    <trkpt lat="50.262808" lon="22.4185557">
+      <ele>179</ele>
+      <time>2022-01-18T01:30:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2629246" lon="22.4183411">
+      <ele>179</ele>
+      <time>2022-01-18T01:30:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2630707" lon="22.418082">
+      <ele>178</ele>
+      <time>2022-01-18T01:31:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

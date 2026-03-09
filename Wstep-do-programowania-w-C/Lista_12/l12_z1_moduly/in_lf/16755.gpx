@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:22Z</time>
+    <bounds maxlat="52.2025013" maxlon="21.225091" minlat="52.202281" minlon="21.2222801"/>
+  </metadata>
+  <wpt lat="52.202501" lon="21.22228">
+    <ele>114</ele>
+    <name>Zielony Lug</name>
+    <link href="https://mapa-turystyczna.pl/node/11444">
+      <text>Zielony Lug</text>
+    </link>
+  </wpt>
+  <wpt lat="52.202281" lon="21.225091">
+    <ele>115</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11445">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielony Lug - Rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2025013,21.2222801;52.2023489000519,21.224122450000014;52.202281,21.225091">
+    <text>Zielony Lug - Rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2025013" lon="21.2222801">
+      <ele>114</ele>
+      <time>2022-01-18T01:02:22Z</time>
+    </trkpt>
+    <trkpt lat="52.2024168" lon="21.2231539">
+      <ele>112</ele>
+      <time>2022-01-18T01:03:18Z</time>
+    </trkpt>
+    <trkpt lat="52.202281" lon="21.225091">
+      <ele>115</ele>
+      <time>2022-01-18T01:05:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

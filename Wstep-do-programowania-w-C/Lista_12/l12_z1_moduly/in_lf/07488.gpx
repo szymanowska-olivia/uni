@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:06Z</time>
+    <bounds maxlat="49.231751" maxlon="19.099698" minlat="49.231501" minlon="19.098705"/>
+  </metadata>
+  <wpt lat="49.231751" lon="19.099698">
+    <ele>1580</ele>
+    <name>Velky Rozsutec, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5045">
+      <text>Velky Rozsutec, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.231515" lon="19.098705">
+    <ele>1609</ele>
+    <name>Velky Rozsutec</name>
+    <link href="https://mapa-turystyczna.pl/node/5101">
+      <text>Velky Rozsutec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velky Rozsutec, razc. - Velky Rozsutec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.231751,19.099698;49.231541500011375,19.099151999999968;49.231515,19.098705">
+    <text>Velky Rozsutec, razc. - Velky Rozsutec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.231751" lon="19.099698">
+      <ele>1580</ele>
+      <time>2022-01-17T22:24:06Z</time>
+    </trkpt>
+    <trkpt lat="49.231733" lon="19.099578">
+      <ele>1585</ele>
+      <time>2022-01-17T22:24:39Z</time>
+    </trkpt>
+    <trkpt lat="49.231748" lon="19.09944">
+      <ele>1590</ele>
+      <time>2022-01-17T22:25:16Z</time>
+    </trkpt>
+    <trkpt lat="49.231719" lon="19.099346">
+      <ele>1593</ele>
+      <time>2022-01-17T22:25:42Z</time>
+    </trkpt>
+    <trkpt lat="49.231676" lon="19.099308">
+      <ele>1597</ele>
+      <time>2022-01-17T22:26:04Z</time>
+    </trkpt>
+    <trkpt lat="49.231621" lon="19.099291">
+      <ele>1598</ele>
+      <time>2022-01-17T22:26:25Z</time>
+    </trkpt>
+    <trkpt lat="49.231575" lon="19.099259">
+      <ele>1598</ele>
+      <time>2022-01-17T22:26:43Z</time>
+    </trkpt>
+    <trkpt lat="49.231508" lon="19.099045">
+      <ele>1603</ele>
+      <time>2022-01-17T22:27:41Z</time>
+    </trkpt>
+    <trkpt lat="49.231501" lon="19.098856">
+      <ele>1609</ele>
+      <time>2022-01-17T22:28:30Z</time>
+    </trkpt>
+    <trkpt lat="49.231505" lon="19.098787">
+      <ele>1609</ele>
+      <time>2022-01-17T22:28:46Z</time>
+    </trkpt>
+    <trkpt lat="49.231513" lon="19.098751">
+      <ele>1609</ele>
+      <time>2022-01-17T22:28:55Z</time>
+    </trkpt>
+    <trkpt lat="49.231515" lon="19.098705">
+      <ele>1609</ele>
+      <time>2022-01-17T22:29:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:42Z</time>
+    <bounds maxlat="50.8760179" maxlon="15.2108557" minlat="50.8757681" minlon="15.2099437"/>
+  </metadata>
+  <wpt lat="50.875768" lon="15.209944">
+    <ele>402</ele>
+    <name>Bily Potok, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2311">
+      <text>Bily Potok, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.875982" lon="15.210856">
+    <ele>403</ele>
+    <name>Bily Potok, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8684">
+      <text>Bily Potok, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily Potok, rozc. - Bily Potok, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8757681,15.2099437;50.87599760000443,15.210348049999984;50.8759818,15.2108557">
+    <text>Bily Potok, rozc. - Bily Potok, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8757681" lon="15.2099437">
+      <ele>402</ele>
+      <time>2022-01-17T23:53:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8759773" lon="15.2102917">
+      <ele>403</ele>
+      <time>2022-01-17T23:54:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8760179" lon="15.2104044">
+      <ele>403</ele>
+      <time>2022-01-17T23:54:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8760179" lon="15.2105438">
+      <ele>403</ele>
+      <time>2022-01-17T23:54:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8759818" lon="15.2108557">
+      <ele>403</ele>
+      <time>2022-01-17T23:54:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

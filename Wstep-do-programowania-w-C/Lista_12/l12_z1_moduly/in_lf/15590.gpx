@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:46Z</time>
+    <bounds maxlat="52.9855764" maxlon="16.9889255" minlat="52.9827085" minlon="16.9652631"/>
+  </metadata>
+  <wpt lat="52.982981" lon="16.965263">
+    <ele>112</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10628">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.985434" lon="16.988926">
+    <ele>100</ele>
+    <name>Pietronki</name>
+    <link href="https://mapa-turystyczna.pl/node/10633">
+      <text>Pietronki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pietronki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.982981,16.9652631;52.98476900257311,16.97527905;52.9854336,16.9889255">
+    <text>Rozejscie szlakow - Pietronki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.982981" lon="16.9652631">
+      <ele>112</ele>
+      <time>2022-01-18T00:41:46Z</time>
+    </trkpt>
+    <trkpt lat="52.9829411" lon="16.9662883">
+      <ele>111</ele>
+      <time>2022-01-18T00:42:47Z</time>
+    </trkpt>
+    <trkpt lat="52.9827085" lon="16.9672324">
+      <ele>105</ele>
+      <time>2022-01-18T00:43:47Z</time>
+    </trkpt>
+    <trkpt lat="52.983277" lon="16.9676615">
+      <ele>106</ele>
+      <time>2022-01-18T00:44:48Z</time>
+    </trkpt>
+    <trkpt lat="52.9842975" lon="16.9726183">
+      <ele>95</ele>
+      <time>2022-01-18T00:49:57Z</time>
+    </trkpt>
+    <trkpt lat="52.9852405" lon="16.9779398">
+      <ele>93</ele>
+      <time>2022-01-18T00:55:24Z</time>
+    </trkpt>
+    <trkpt lat="52.9855764" lon="16.9839479">
+      <ele>100</ele>
+      <time>2022-01-18T01:01:20Z</time>
+    </trkpt>
+    <trkpt lat="52.985008" lon="16.9866516">
+      <ele>94</ele>
+      <time>2022-01-18T01:04:09Z</time>
+    </trkpt>
+    <trkpt lat="52.9848272" lon="16.9875957">
+      <ele>95</ele>
+      <time>2022-01-18T01:05:07Z</time>
+    </trkpt>
+    <trkpt lat="52.9854214" lon="16.9888832">
+      <ele>100</ele>
+      <time>2022-01-18T01:06:43Z</time>
+    </trkpt>
+    <trkpt lat="52.9854336" lon="16.9889255">
+      <ele>100</ele>
+      <time>2022-01-18T01:06:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:24Z</time>
+    <bounds maxlat="52.1844427" maxlon="21.2584067" minlat="52.1837882" minlon="21.2576021"/>
+  </metadata>
+  <wpt lat="52.184443" lon="21.257602">
+    <ele>112</ele>
+    <name>Torfowisko Bialy Lug</name>
+    <link href="https://mapa-turystyczna.pl/node/11447">
+      <text>Torfowisko Bialy Lug</text>
+    </link>
+  </wpt>
+  <wpt lat="52.183788" lon="21.258407">
+    <ele>114</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/11448">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Torfowisko Bialy Lug - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1844427,21.2576021;52.184179500022175,21.258037;52.1837882,21.2584067">
+    <text>Torfowisko Bialy Lug - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1844427" lon="21.2576021">
+      <ele>112</ele>
+      <time>2022-01-18T01:02:24Z</time>
+    </trkpt>
+    <trkpt lat="52.1842239" lon="21.2579753">
+      <ele>113</ele>
+      <time>2022-01-18T01:03:10Z</time>
+    </trkpt>
+    <trkpt lat="52.1841351" lon="21.2580987">
+      <ele>114</ele>
+      <time>2022-01-18T01:03:27Z</time>
+    </trkpt>
+    <trkpt lat="52.1839739" lon="21.2582757">
+      <ele>114</ele>
+      <time>2022-01-18T01:03:55Z</time>
+    </trkpt>
+    <trkpt lat="52.1837882" lon="21.2584067">
+      <ele>114</ele>
+      <time>2022-01-18T01:04:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

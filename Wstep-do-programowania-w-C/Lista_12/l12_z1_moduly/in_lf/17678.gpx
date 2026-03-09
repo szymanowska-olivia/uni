@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:42Z</time>
+    <bounds maxlat="51.7871303" maxlon="21.1984154" minlat="51.7854977" minlon="21.1947569"/>
+  </metadata>
+  <wpt lat="51.78713" lon="21.198415">
+    <ele>107</ele>
+    <name>Warka, os. Kazimierza Pulaskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11997">
+      <text>Warka, os. Kazimierza Pulaskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.785498" lon="21.194757">
+    <ele>108</ele>
+    <name>Warka, Park Saski</name>
+    <link href="https://mapa-turystyczna.pl/node/11998">
+      <text>Warka, Park Saski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, os. Kazimierza Pulaskiego - Warka, Park Saski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7871303,21.1984154;51.7863458513327,21.196559649999994;51.7854977,21.1947569">
+    <text>Warka, os. Kazimierza Pulaskiego - Warka, Park Saski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7871303" lon="21.1984154">
+      <ele>107</ele>
+      <time>2022-01-18T01:17:42Z</time>
+    </trkpt>
+    <trkpt lat="51.7866926" lon="21.1973321">
+      <ele>104</ele>
+      <time>2022-01-18T01:19:08Z</time>
+    </trkpt>
+    <trkpt lat="51.7859991" lon="21.1957872">
+      <ele>105</ele>
+      <time>2022-01-18T01:21:15Z</time>
+    </trkpt>
+    <trkpt lat="51.7854977" lon="21.1947569">
+      <ele>108</ele>
+      <time>2022-01-18T01:22:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

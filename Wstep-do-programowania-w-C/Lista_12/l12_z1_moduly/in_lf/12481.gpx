@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:49Z</time>
+    <bounds maxlat="53.9283795" maxlon="14.455012" minlat="53.9273288" minlon="14.4537799"/>
+  </metadata>
+  <wpt lat="53.927329" lon="14.45378">
+    <ele>8</ele>
+    <name>Miedzyzdroje, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8533">
+      <text>Miedzyzdroje, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.928379" lon="14.455012">
+    <ele>16</ele>
+    <name>Miedzyzdroje, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8591">
+      <text>Miedzyzdroje, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje, ul. Kolejowa - Miedzyzdroje, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9273288,14.4537799;53.92800975163778,14.454538499999998;53.9283795,14.455012">
+    <text>Miedzyzdroje, ul. Kolejowa - Miedzyzdroje, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9273288" lon="14.4537799">
+      <ele>8</ele>
+      <time>2022-01-17T23:50:49Z</time>
+    </trkpt>
+    <trkpt lat="53.92764" lon="14.454065">
+      <ele>8</ele>
+      <time>2022-01-17T23:51:39Z</time>
+    </trkpt>
+    <trkpt lat="53.9283795" lon="14.455012">
+      <ele>16</ele>
+      <time>2022-01-17T23:53:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

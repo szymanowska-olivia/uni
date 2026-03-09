@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:44Z</time>
+    <bounds maxlat="51.8962272" maxlon="15.5697088" minlat="51.894395" minlon="15.5687912"/>
+  </metadata>
+  <wpt lat="51.894395" lon="15.568791">
+    <ele>98</ele>
+    <name>Drzonkow, ul. Akacjowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11222">
+      <text>Drzonkow, ul. Akacjowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.896227" lon="15.569709">
+    <ele>99</ele>
+    <name>Drzonkow, WOSiR</name>
+    <link href="https://mapa-turystyczna.pl/node/11221">
+      <text>Drzonkow, WOSiR</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Drzonkow, ul. Akacjowa - Drzonkow, WOSiR</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8943952,15.5687912;51.89550405202938,15.569206100000024;51.8962272,15.5697088">
+    <text>Drzonkow, ul. Akacjowa - Drzonkow, WOSiR</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8943952" lon="15.5687912">
+      <ele>98</ele>
+      <time>2022-01-18T00:56:44Z</time>
+    </trkpt>
+    <trkpt lat="51.894395" lon="15.568793">
+      <ele>98</ele>
+      <time>2022-01-18T00:56:44Z</time>
+    </trkpt>
+    <trkpt lat="51.8948122" lon="15.5688038">
+      <ele>98</ele>
+      <time>2022-01-18T00:57:23Z</time>
+    </trkpt>
+    <trkpt lat="51.895077" lon="15.5688896">
+      <ele>98</ele>
+      <time>2022-01-18T00:57:48Z</time>
+    </trkpt>
+    <trkpt lat="51.8959311" lon="15.5695226">
+      <ele>97</ele>
+      <time>2022-01-18T00:59:15Z</time>
+    </trkpt>
+    <trkpt lat="51.8962272" lon="15.5697088">
+      <ele>99</ele>
+      <time>2022-01-18T00:59:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:44Z</time>
+    <bounds maxlat="50.0427679" maxlon="16.6996264" minlat="50.042668" minlon="16.6992831"/>
+  </metadata>
+  <wpt lat="50.042668" lon="16.699283">
+    <ele>855</ele>
+    <name>Hvezda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7205">
+      <text>Hvezda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.042768" lon="16.699626">
+    <ele>855</ele>
+    <name>Hvezda</name>
+    <link href="https://mapa-turystyczna.pl/node/7197">
+      <text>Hvezda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hvezda, rozc. - Hvezda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.042668,16.6992831;50.04271795002598,16.699454750000022;50.0427679,16.6996264">
+    <text>Hvezda, rozc. - Hvezda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.042668" lon="16.6992831">
+      <ele>855</ele>
+      <time>2022-01-17T23:12:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0427679" lon="16.6996264">
+      <ele>855</ele>
+      <time>2022-01-17T23:13:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

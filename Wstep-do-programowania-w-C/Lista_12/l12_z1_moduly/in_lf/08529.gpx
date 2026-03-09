@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:22Z</time>
+    <bounds maxlat="49.136512" maxlon="19.149164" minlat="49.136389" minlon="19.148743"/>
+  </metadata>
+  <wpt lat="49.136389" lon="19.148743">
+    <ele>1102</ele>
+    <name>Kopa, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5932">
+      <text>Kopa, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.136512" lon="19.149164">
+    <ele>1087</ele>
+    <name>Kopa, kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/5936">
+      <text>Kopa, kriz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kopa, razc. - Kopa, kriz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.136389,19.148743;49.13642900001613,19.148887499999994;49.136512,19.149164">
+    <text>Kopa, razc. - Kopa, kriz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.136389" lon="19.148743">
+      <ele>1102</ele>
+      <time>2022-01-17T22:40:22Z</time>
+    </trkpt>
+    <trkpt lat="49.136469" lon="19.149032">
+      <ele>1092</ele>
+      <time>2022-01-17T22:41:03Z</time>
+    </trkpt>
+    <trkpt lat="49.136512" lon="19.149164">
+      <ele>1087</ele>
+      <time>2022-01-17T22:41:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

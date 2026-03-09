@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:33Z</time>
+    <bounds maxlat="49.570498" maxlon="18.939746" minlat="49.569694" minlon="18.934851"/>
+  </metadata>
+  <wpt lat="49.569694" lon="18.934851">
+    <ele>591</ele>
+    <name>Laczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/862">
+      <text>Laczyna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.570199" lon="18.939746">
+    <ele>592</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13416">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Laczyna - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.569694,18.934851;49.57048750000115,18.93721100000003;49.570199,18.939746">
+    <text>Laczyna - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.569694" lon="18.934851">
+      <ele>591</ele>
+      <time>2022-01-18T01:56:33Z</time>
+    </trkpt>
+    <trkpt lat="49.569859" lon="18.935216">
+      <ele>592</ele>
+      <time>2022-01-18T01:56:58Z</time>
+    </trkpt>
+    <trkpt lat="49.570199" lon="18.936049">
+      <ele>592</ele>
+      <time>2022-01-18T01:57:54Z</time>
+    </trkpt>
+    <trkpt lat="49.570369" lon="18.936601">
+      <ele>593</ele>
+      <time>2022-01-18T01:58:29Z</time>
+    </trkpt>
+    <trkpt lat="49.570477" lon="18.937104">
+      <ele>596</ele>
+      <time>2022-01-18T01:58:59Z</time>
+    </trkpt>
+    <trkpt lat="49.570498" lon="18.937318">
+      <ele>596</ele>
+      <time>2022-01-18T01:59:12Z</time>
+    </trkpt>
+    <trkpt lat="49.570496" lon="18.937561">
+      <ele>595</ele>
+      <time>2022-01-18T01:59:25Z</time>
+    </trkpt>
+    <trkpt lat="49.570416" lon="18.938503">
+      <ele>595</ele>
+      <time>2022-01-18T02:00:19Z</time>
+    </trkpt>
+    <trkpt lat="49.570326" lon="18.939182">
+      <ele>592</ele>
+      <time>2022-01-18T02:00:59Z</time>
+    </trkpt>
+    <trkpt lat="49.570248" lon="18.939579">
+      <ele>592</ele>
+      <time>2022-01-18T02:01:23Z</time>
+    </trkpt>
+    <trkpt lat="49.570199" lon="18.939746">
+      <ele>592</ele>
+      <time>2022-01-18T02:01:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

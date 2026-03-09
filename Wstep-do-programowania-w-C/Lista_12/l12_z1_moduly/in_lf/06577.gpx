@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:31Z</time>
+    <bounds maxlat="50.4384708" maxlon="19.6754516" minlat="50.4379545" minlon="19.6742203"/>
+  </metadata>
+  <wpt lat="50.437954" lon="19.67422">
+    <ele>461</ele>
+    <name>Skrzyzowanie pod zamkiem Smolen</name>
+    <link href="https://mapa-turystyczna.pl/node/4575">
+      <text>Skrzyzowanie pod zamkiem Smolen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.438375" lon="19.675452">
+    <ele>481</ele>
+    <name>Zamek Smolen</name>
+    <link href="https://mapa-turystyczna.pl/node/4576">
+      <text>Zamek Smolen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod zamkiem Smolen - Zamek Smolen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4379545,19.6742203;50.438206800076316,19.67494460000001;50.4383747,19.6754516">
+    <text>Skrzyzowanie pod zamkiem Smolen - Zamek Smolen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4379545" lon="19.6742203">
+      <ele>461</ele>
+      <time>2022-01-17T22:09:31Z</time>
+    </trkpt>
+    <trkpt lat="50.438068" lon="19.6744363">
+      <ele>467</ele>
+      <time>2022-01-17T22:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4381161" lon="19.6746839">
+      <ele>471</ele>
+      <time>2022-01-17T22:10:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4381218" lon="19.6749898">
+      <ele>476</ele>
+      <time>2022-01-17T22:11:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4382918" lon="19.6748994">
+      <ele>475</ele>
+      <time>2022-01-17T22:12:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4384403" lon="19.6748046">
+      <ele>473</ele>
+      <time>2022-01-17T22:12:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4384642" lon="19.6750442">
+      <ele>476</ele>
+      <time>2022-01-17T22:13:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4384708" lon="19.6752873">
+      <ele>478</ele>
+      <time>2022-01-17T22:13:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4383747" lon="19.6754516">
+      <ele>481</ele>
+      <time>2022-01-17T22:14:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

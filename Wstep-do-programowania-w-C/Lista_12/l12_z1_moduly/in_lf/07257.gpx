@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:19Z</time>
+    <bounds maxlat="49.613398" maxlon="20.030004" minlat="49.61233" minlon="20.029307"/>
+  </metadata>
+  <wpt lat="49.613398" lon="20.029333">
+    <ele>492</ele>
+    <name>Olszowka</name>
+    <link href="https://mapa-turystyczna.pl/node/94">
+      <text>Olszowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.61233" lon="20.030004">
+    <ele>512</ele>
+    <name>Olszowka, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4924">
+      <text>Olszowka, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olszowka - Olszowka, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.613398,20.029333;49.612762000128676,20.029661000000015;49.61233,20.030004">
+    <text>Olszowka - Olszowka, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.613398" lon="20.029333">
+      <ele>492</ele>
+      <time>2022-01-17T22:20:19Z</time>
+    </trkpt>
+    <trkpt lat="49.613161" lon="20.029307">
+      <ele>497</ele>
+      <time>2022-01-17T22:21:20Z</time>
+    </trkpt>
+    <trkpt lat="49.61307" lon="20.02934">
+      <ele>500</ele>
+      <time>2022-01-17T22:21:44Z</time>
+    </trkpt>
+    <trkpt lat="49.61297" lon="20.02944">
+      <ele>502</ele>
+      <time>2022-01-17T22:22:14Z</time>
+    </trkpt>
+    <trkpt lat="49.612874" lon="20.029562">
+      <ele>504</ele>
+      <time>2022-01-17T22:22:45Z</time>
+    </trkpt>
+    <trkpt lat="49.61265" lon="20.02976">
+      <ele>507</ele>
+      <time>2022-01-17T22:23:50Z</time>
+    </trkpt>
+    <trkpt lat="49.61233" lon="20.030004">
+      <ele>512</ele>
+      <time>2022-01-17T22:25:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

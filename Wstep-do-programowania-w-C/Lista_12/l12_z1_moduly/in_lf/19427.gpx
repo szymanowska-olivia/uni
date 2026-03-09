@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:12Z</time>
+    <bounds maxlat="49.521082" maxlon="19.095878" minlat="49.520891" minlon="19.094353"/>
+  </metadata>
+  <wpt lat="49.521082" lon="19.095878">
+    <ele>535</ele>
+    <name>Odejscie na punkt odpoczynkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/13122">
+      <text>Odejscie na punkt odpoczynkowy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.520955" lon="19.094353">
+    <ele>536</ele>
+    <name>Punkt odpoczynkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/13123">
+      <text>Punkt odpoczynkowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt odpoczynkowy - Punkt odpoczynkowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.521082,19.095878;49.52092350000312,19.0951295;49.520955,19.094353">
+    <text>Odejscie na punkt odpoczynkowy - Punkt odpoczynkowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.521082" lon="19.095878">
+      <ele>535</ele>
+      <time>2022-01-18T01:48:12Z</time>
+    </trkpt>
+    <trkpt lat="49.521007" lon="19.095584">
+      <ele>535</ele>
+      <time>2022-01-18T01:48:36Z</time>
+    </trkpt>
+    <trkpt lat="49.520953" lon="19.095314">
+      <ele>536</ele>
+      <time>2022-01-18T01:48:57Z</time>
+    </trkpt>
+    <trkpt lat="49.520941" lon="19.095251">
+      <ele>536</ele>
+      <time>2022-01-18T01:49:02Z</time>
+    </trkpt>
+    <trkpt lat="49.520906" lon="19.095008">
+      <ele>537</ele>
+      <time>2022-01-18T01:49:21Z</time>
+    </trkpt>
+    <trkpt lat="49.520891" lon="19.09472">
+      <ele>536</ele>
+      <time>2022-01-18T01:49:43Z</time>
+    </trkpt>
+    <trkpt lat="49.520918" lon="19.094544">
+      <ele>536</ele>
+      <time>2022-01-18T01:49:57Z</time>
+    </trkpt>
+    <trkpt lat="49.520955" lon="19.094353">
+      <ele>536</ele>
+      <time>2022-01-18T01:50:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

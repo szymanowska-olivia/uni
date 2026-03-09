@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:03:49Z</time>
+    <bounds maxlat="49.153661" maxlon="20.077807" minlat="49.151894" minlon="20.076688"/>
+  </metadata>
+  <wpt lat="49.151894" lon="20.076688">
+    <ele>1515</ele>
+    <name>Odbocka Zimnej cesty na Strbske Pleso</name>
+    <link href="https://mapa-turystyczna.pl/node/2475">
+      <text>Odbocka Zimnej cesty na Strbske Pleso</text>
+    </link>
+  </wpt>
+  <wpt lat="49.153661" lon="20.077807">
+    <ele>1519</ele>
+    <name>Popradske pleso, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/4104">
+      <text>Popradske pleso, razcestie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odbocka Zimnej cesty na Strbske Pleso - Popradske pleso, razcestie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.151894,20.076688;49.15281700026161,20.07744749999997;49.153661,20.077807">
+    <text>Odbocka Zimnej cesty na Strbske Pleso - Popradske pleso, razcestie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.151894" lon="20.076688">
+      <ele>1515</ele>
+      <time>2022-01-17T22:03:49Z</time>
+    </trkpt>
+    <trkpt lat="49.152103" lon="20.076928">
+      <ele>1519</ele>
+      <time>2022-01-17T22:04:30Z</time>
+    </trkpt>
+    <trkpt lat="49.152656" lon="20.077386">
+      <ele>1521</ele>
+      <time>2022-01-17T22:06:07Z</time>
+    </trkpt>
+    <trkpt lat="49.152978" lon="20.077509">
+      <ele>1523</ele>
+      <time>2022-01-17T22:06:59Z</time>
+    </trkpt>
+    <trkpt lat="49.153308" lon="20.077619">
+      <ele>1521</ele>
+      <time>2022-01-17T22:07:51Z</time>
+    </trkpt>
+    <trkpt lat="49.153661" lon="20.077807">
+      <ele>1519</ele>
+      <time>2022-01-17T22:08:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

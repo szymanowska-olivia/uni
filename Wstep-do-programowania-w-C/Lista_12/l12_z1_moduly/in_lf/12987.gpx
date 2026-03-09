@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:09Z</time>
+    <bounds maxlat="50.8072111" maxlon="15.8942657" minlat="50.8063009" minlon="15.8932149"/>
+  </metadata>
+  <wpt lat="50.806301" lon="15.893215">
+    <ele>924</ele>
+    <name>Pod Ostra Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/2988">
+      <text>Pod Ostra Mala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.807211" lon="15.894266">
+    <ele>936</ele>
+    <name>Ostra Mala, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/8951">
+      <text>Ostra Mala, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ostra Mala - Ostra Mala, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8063009,15.8932149;50.806922950044466,15.89342349999999;50.8072111,15.8942657">
+    <text>Pod Ostra Mala - Ostra Mala, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8063009" lon="15.8932149">
+      <ele>924</ele>
+      <time>2022-01-18T00:00:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8066382" lon="15.893461">
+      <ele>928</ele>
+      <time>2022-01-18T00:01:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8067263" lon="15.8934717">
+      <ele>928</ele>
+      <time>2022-01-18T00:01:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8068585" lon="15.8933645">
+      <ele>928</ele>
+      <time>2022-01-18T00:01:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8069874" lon="15.8934825">
+      <ele>929</ele>
+      <time>2022-01-18T00:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.807106" lon="15.8937882">
+      <ele>933</ele>
+      <time>2022-01-18T00:02:24Z</time>
+    </trkpt>
+    <trkpt lat="50.807167" lon="15.8942013">
+      <ele>936</ele>
+      <time>2022-01-18T00:03:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8072111" lon="15.8942657">
+      <ele>936</ele>
+      <time>2022-01-18T00:03:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

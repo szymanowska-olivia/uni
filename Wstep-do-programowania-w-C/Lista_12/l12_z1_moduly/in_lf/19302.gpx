@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:55Z</time>
+    <bounds maxlat="52.4480048" maxlon="15.1606449" minlat="52.447177" minlon="15.1528009"/>
+  </metadata>
+  <wpt lat="52.447177" lon="15.152801">
+    <ele>168</ele>
+    <name>Glaznik</name>
+    <link href="https://mapa-turystyczna.pl/node/13022">
+      <text>Glaznik</text>
+    </link>
+  </wpt>
+  <wpt lat="52.448005" lon="15.160645">
+    <ele>154</ele>
+    <name>Kozli Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/13047">
+      <text>Kozli Kamien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glaznik - Kozli Kamien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.447177,15.1528009;52.44773550082324,15.158181700000029;52.4480048,15.1606449">
+    <text>Glaznik - Kozli Kamien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.447177" lon="15.1528009">
+      <ele>168</ele>
+      <time>2022-01-18T01:45:55Z</time>
+    </trkpt>
+    <trkpt lat="52.447342" lon="15.1543559">
+      <ele>161</ele>
+      <time>2022-01-18T01:47:54Z</time>
+    </trkpt>
+    <trkpt lat="52.4474662" lon="15.1557185">
+      <ele>157</ele>
+      <time>2022-01-18T01:49:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4480048" lon="15.1606449">
+      <ele>154</ele>
+      <time>2022-01-18T01:55:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

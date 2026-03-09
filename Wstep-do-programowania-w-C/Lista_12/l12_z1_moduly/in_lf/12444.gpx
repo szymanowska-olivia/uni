@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:22Z</time>
+    <bounds maxlat="53.844226" maxlon="14.6177003" minlat="53.8440298" minlon="14.616901"/>
+  </metadata>
+  <wpt lat="53.844226" lon="14.616901">
+    <ele>8</ele>
+    <name>Wolin</name>
+    <link href="https://mapa-turystyczna.pl/node/8568">
+      <text>Wolin</text>
+    </link>
+  </wpt>
+  <wpt lat="53.84403" lon="14.6177">
+    <ele>5</ele>
+    <name>Wolin, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8569">
+      <text>Wolin, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin - Wolin, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.844226,14.616901;53.844127900114934,14.617300650000011;53.8440298,14.6177003">
+    <text>Wolin - Wolin, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.844226" lon="14.616901">
+      <ele>8</ele>
+      <time>2022-01-17T23:50:22Z</time>
+    </trkpt>
+    <trkpt lat="53.8440298" lon="14.6177003">
+      <ele>5</ele>
+      <time>2022-01-17T23:51:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

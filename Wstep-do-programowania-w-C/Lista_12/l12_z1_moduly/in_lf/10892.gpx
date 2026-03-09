@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:37Z</time>
+    <bounds maxlat="49.9622019" maxlon="16.7657644" minlat="49.9613875" minlon="16.7622453"/>
+  </metadata>
+  <wpt lat="49.962202" lon="16.762245">
+    <ele>470</ele>
+    <name>Stity</name>
+    <link href="https://mapa-turystyczna.pl/node/7664">
+      <text>Stity</text>
+    </link>
+  </wpt>
+  <wpt lat="49.96167" lon="16.765764">
+    <ele>447</ele>
+    <name>Stity, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7668">
+      <text>Stity, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stity - Stity, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9622019,16.7622453;49.96158075017864,16.763511300000005;49.9616705,16.7657644">
+    <text>Stity - Stity, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9622019" lon="16.7622453">
+      <ele>470</ele>
+      <time>2022-01-17T23:24:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9619603" lon="16.7625189">
+      <ele>469</ele>
+      <time>2022-01-17T23:25:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9617119" lon="16.7631143">
+      <ele>467</ele>
+      <time>2022-01-17T23:26:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9614496" lon="16.7639083">
+      <ele>461</ele>
+      <time>2022-01-17T23:27:11Z</time>
+    </trkpt>
+    <trkpt lat="49.9613875" lon="16.7642891">
+      <ele>458</ele>
+      <time>2022-01-17T23:27:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9614427" lon="16.7650402">
+      <ele>451</ele>
+      <time>2022-01-17T23:28:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9616705" lon="16.7657644">
+      <ele>447</ele>
+      <time>2022-01-17T23:29:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

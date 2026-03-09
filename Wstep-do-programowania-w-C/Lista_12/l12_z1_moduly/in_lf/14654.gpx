@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:58Z</time>
+    <bounds maxlat="50.4573711" maxlon="18.1690104" minlat="50.4571349" minlon="18.1682126"/>
+  </metadata>
+  <wpt lat="50.457135" lon="18.168213">
+    <ele>380</ele>
+    <name>Gora Swietej Anny</name>
+    <link href="https://mapa-turystyczna.pl/node/9792">
+      <text>Gora Swietej Anny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.457371" lon="18.16901">
+    <ele>379</ele>
+    <name>Gora Swietej Anny, rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9992">
+      <text>Gora Swietej Anny, rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Swietej Anny - Gora Swietej Anny, rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4571349,18.1682126;50.45724305002595,18.168618799999997;50.4573711,18.1690104">
+    <text>Gora Swietej Anny - Gora Swietej Anny, rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4571349" lon="18.1682126">
+      <ele>380</ele>
+      <time>2022-01-18T00:25:58Z</time>
+    </trkpt>
+    <trkpt lat="50.4571935" lon="18.1683774">
+      <ele>380</ele>
+      <time>2022-01-18T00:26:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4572926" lon="18.1688602">
+      <ele>379</ele>
+      <time>2022-01-18T00:26:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4573711" lon="18.1690104">
+      <ele>379</ele>
+      <time>2022-01-18T00:26:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

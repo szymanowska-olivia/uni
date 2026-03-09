@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:55Z</time>
+    <bounds maxlat="49.323977" maxlon="19.826449" minlat="49.321303" minlon="19.824964"/>
+  </metadata>
+  <wpt lat="49.321303" lon="19.826449">
+    <ele>834</ele>
+    <name>Witow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/9169">
+      <text>Witow, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.323977" lon="19.824964">
+    <ele>830</ele>
+    <name>Witow</name>
+    <link href="https://mapa-turystyczna.pl/node/1773">
+      <text>Witow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Witow, skrzyzowanie - Witow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.321303,19.826449;49.32283301136587,19.825572999999988;49.323977,19.824964">
+    <text>Witow, skrzyzowanie - Witow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.321303" lon="19.826449">
+      <ele>834</ele>
+      <time>2022-01-18T00:04:55Z</time>
+    </trkpt>
+    <trkpt lat="49.321775" lon="19.826145">
+      <ele>833</ele>
+      <time>2022-01-18T00:05:49Z</time>
+    </trkpt>
+    <trkpt lat="49.323891" lon="19.825001">
+      <ele>830</ele>
+      <time>2022-01-18T00:09:46Z</time>
+    </trkpt>
+    <trkpt lat="49.323977" lon="19.824964">
+      <ele>830</ele>
+      <time>2022-01-18T00:09:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

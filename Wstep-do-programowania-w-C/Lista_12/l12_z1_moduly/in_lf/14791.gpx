@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:28:08Z</time>
+    <bounds maxlat="51.3229815" maxlon="16.2684542" minlat="51.322723" minlon="16.2683938"/>
+  </metadata>
+  <wpt lat="51.322723" lon="16.268394">
+    <ele>128</ele>
+    <name>Miloradzice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10090">
+      <text>Miloradzice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.322981" lon="16.268454">
+    <ele>126</ele>
+    <name>Miloradzice, swietlica</name>
+    <link href="https://mapa-turystyczna.pl/node/10024">
+      <text>Miloradzice, swietlica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miloradzice, rozejscie szlakow - Miloradzice, swietlica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.322723,16.2683938;51.322852250182116,16.26842400000001;51.3229815,16.2684542">
+    <text>Miloradzice, rozejscie szlakow - Miloradzice, swietlica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.322723" lon="16.2683938">
+      <ele>128</ele>
+      <time>2022-01-18T00:28:08Z</time>
+    </trkpt>
+    <trkpt lat="51.3229815" lon="16.2684542">
+      <ele>126</ele>
+      <time>2022-01-18T00:29:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

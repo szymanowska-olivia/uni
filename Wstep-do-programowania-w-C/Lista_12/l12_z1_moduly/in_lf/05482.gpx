@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:25Z</time>
+    <bounds maxlat="49.542197" maxlon="19.171128" minlat="49.540205" minlon="19.169302"/>
+  </metadata>
+  <wpt lat="49.542197" lon="19.169302">
+    <ele>849</ele>
+    <name>Schronisko PTTK Na Hali Boraczej</name>
+    <link href="https://mapa-turystyczna.pl/node/657">
+      <text>Schronisko PTTK Na Hali Boraczej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.540205" lon="19.171128">
+    <ele>867</ele>
+    <name>Hala Boracza</name>
+    <link href="https://mapa-turystyczna.pl/node/3859">
+      <text>Hala Boracza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Na Hali Boraczej - Hala Boracza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.542197,19.169302;49.541269500087566,19.170392500000027;49.540205,19.171128">
+    <text>Schronisko PTTK Na Hali Boraczej - Hala Boracza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.542197" lon="19.169302">
+      <ele>849</ele>
+      <time>2022-01-17T21:56:25Z</time>
+    </trkpt>
+    <trkpt lat="49.542135" lon="19.169397">
+      <ele>850</ele>
+      <time>2022-01-17T21:56:36Z</time>
+    </trkpt>
+    <trkpt lat="49.542036" lon="19.169537">
+      <ele>851</ele>
+      <time>2022-01-17T21:56:53Z</time>
+    </trkpt>
+    <trkpt lat="49.541878" lon="19.169808">
+      <ele>851</ele>
+      <time>2022-01-17T21:57:23Z</time>
+    </trkpt>
+    <trkpt lat="49.541664" lon="19.170114">
+      <ele>850</ele>
+      <time>2022-01-17T21:58:00Z</time>
+    </trkpt>
+    <trkpt lat="49.541526" lon="19.170209">
+      <ele>848</ele>
+      <time>2022-01-17T21:58:19Z</time>
+    </trkpt>
+    <trkpt lat="49.541362" lon="19.170295">
+      <ele>847</ele>
+      <time>2022-01-17T21:58:41Z</time>
+    </trkpt>
+    <trkpt lat="49.541177" lon="19.17049">
+      <ele>848</ele>
+      <time>2022-01-17T21:59:09Z</time>
+    </trkpt>
+    <trkpt lat="49.540927" lon="19.170702">
+      <ele>849</ele>
+      <time>2022-01-17T21:59:45Z</time>
+    </trkpt>
+    <trkpt lat="49.540706" lon="19.170816">
+      <ele>852</ele>
+      <time>2022-01-17T22:00:14Z</time>
+    </trkpt>
+    <trkpt lat="49.540511" lon="19.170901">
+      <ele>856</ele>
+      <time>2022-01-17T22:00:40Z</time>
+    </trkpt>
+    <trkpt lat="49.540342" lon="19.171">
+      <ele>862</ele>
+      <time>2022-01-17T22:01:04Z</time>
+    </trkpt>
+    <trkpt lat="49.540205" lon="19.171128">
+      <ele>867</ele>
+      <time>2022-01-17T22:01:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

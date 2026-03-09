@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:00Z</time>
+    <bounds maxlat="51.3957622" maxlon="23.1179193" minlat="51.3775799" minlon="23.0955798"/>
+  </metadata>
+  <wpt lat="51.37758" lon="23.09558">
+    <ele>170</ele>
+    <name>Jezioro Usciwierz</name>
+    <link href="https://mapa-turystyczna.pl/node/13290">
+      <text>Jezioro Usciwierz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.395762" lon="23.117919">
+    <ele>170</ele>
+    <name>Stare Zalucze, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13291">
+      <text>Stare Zalucze, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Usciwierz - Stare Zalucze, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3775799,23.0955798;51.38138586906633,23.108818750000022;51.3957622,23.1179193">
+    <text>Jezioro Usciwierz - Stare Zalucze, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3775799" lon="23.0955798">
+      <ele>170</ele>
+      <time>2022-01-18T01:53:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3778535" lon="23.1000789">
+      <ele>169</ele>
+      <time>2022-01-18T01:57:37Z</time>
+    </trkpt>
+    <trkpt lat="51.3787241" lon="23.1001218">
+      <ele>168</ele>
+      <time>2022-01-18T01:59:03Z</time>
+    </trkpt>
+    <trkpt lat="51.3788245" lon="23.1001862">
+      <ele>168</ele>
+      <time>2022-01-18T01:59:13Z</time>
+    </trkpt>
+    <trkpt lat="51.3788714" lon="23.1003364">
+      <ele>169</ele>
+      <time>2022-01-18T01:59:23Z</time>
+    </trkpt>
+    <trkpt lat="51.3839002" lon="23.1173011">
+      <ele>168</ele>
+      <time>2022-01-18T02:18:34Z</time>
+    </trkpt>
+    <trkpt lat="51.3867382" lon="23.1175025">
+      <ele>168</ele>
+      <time>2022-01-18T02:23:13Z</time>
+    </trkpt>
+    <trkpt lat="51.3874646" lon="23.1174166">
+      <ele>170</ele>
+      <time>2022-01-18T02:24:25Z</time>
+    </trkpt>
+    <trkpt lat="51.3888759" lon="23.1174636">
+      <ele>172</ele>
+      <time>2022-01-18T02:26:43Z</time>
+    </trkpt>
+    <trkpt lat="51.3898954" lon="23.1174636">
+      <ele>173</ele>
+      <time>2022-01-18T02:28:23Z</time>
+    </trkpt>
+    <trkpt lat="51.3914258" lon="23.1175011">
+      <ele>171</ele>
+      <time>2022-01-18T02:30:54Z</time>
+    </trkpt>
+    <trkpt lat="51.3957622" lon="23.1179193">
+      <ele>170</ele>
+      <time>2022-01-18T02:38:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

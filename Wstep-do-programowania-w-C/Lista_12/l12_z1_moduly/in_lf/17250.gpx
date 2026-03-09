@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:21Z</time>
+    <bounds maxlat="52.223608" maxlon="21.2229605" minlat="52.2228116" minlon="21.2203399"/>
+  </metadata>
+  <wpt lat="52.223608" lon="21.22296">
+    <ele>99</ele>
+    <name>Stara Milosna, Trakt Brzeski</name>
+    <link href="https://mapa-turystyczna.pl/node/11743">
+      <text>Stara Milosna, Trakt Brzeski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.222814" lon="21.22034">
+    <ele>100</ele>
+    <name>Stara Milosna</name>
+    <link href="https://mapa-turystyczna.pl/node/11440">
+      <text>Stara Milosna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Milosna, Trakt Brzeski - Stara Milosna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.223608,21.2229605;52.222812800000014,21.221498049999976;52.222814,21.2203399">
+    <text>Stara Milosna, Trakt Brzeski - Stara Milosna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.223608" lon="21.2229605">
+      <ele>99</ele>
+      <time>2022-01-18T01:10:21Z</time>
+    </trkpt>
+    <trkpt lat="52.2229627" lon="21.2229083">
+      <ele>98</ele>
+      <time>2022-01-18T01:11:46Z</time>
+    </trkpt>
+    <trkpt lat="52.2228576" lon="21.2227796">
+      <ele>98</ele>
+      <time>2022-01-18T01:12:03Z</time>
+    </trkpt>
+    <trkpt lat="52.2228116" lon="21.2226562">
+      <ele>98</ele>
+      <time>2022-01-18T01:12:15Z</time>
+    </trkpt>
+    <trkpt lat="52.222814" lon="21.2203399">
+      <ele>100</ele>
+      <time>2022-01-18T01:15:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

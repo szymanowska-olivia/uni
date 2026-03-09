@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:23:36Z</time>
+    <bounds maxlat="49.22471" maxlon="19.10675" minlat="49.224157" minlon="19.104044"/>
+  </metadata>
+  <wpt lat="49.22471" lon="19.104044">
+    <ele>1185</ele>
+    <name>Medziholie</name>
+    <link href="https://mapa-turystyczna.pl/node/5044">
+      <text>Medziholie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.22438" lon="19.10675">
+    <ele>1152</ele>
+    <name>Pod Rozsutcom</name>
+    <link href="https://mapa-turystyczna.pl/node/5064">
+      <text>Pod Rozsutcom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Medziholie - Pod Rozsutcom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.22471,19.104044;49.224198000005366,19.10541300000002;49.22438,19.10675">
+    <text>Medziholie - Pod Rozsutcom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.22471" lon="19.104044">
+      <ele>1185</ele>
+      <time>2022-01-17T22:23:36Z</time>
+    </trkpt>
+    <trkpt lat="49.224608" lon="19.104347">
+      <ele>1182</ele>
+      <time>2022-01-17T22:23:56Z</time>
+    </trkpt>
+    <trkpt lat="49.224383" lon="19.104929">
+      <ele>1175</ele>
+      <time>2022-01-17T22:24:37Z</time>
+    </trkpt>
+    <trkpt lat="49.224332" lon="19.105056">
+      <ele>1174</ele>
+      <time>2022-01-17T22:24:46Z</time>
+    </trkpt>
+    <trkpt lat="49.224221" lon="19.105352">
+      <ele>1170</ele>
+      <time>2022-01-17T22:25:07Z</time>
+    </trkpt>
+    <trkpt lat="49.224175" lon="19.105474">
+      <ele>1169</ele>
+      <time>2022-01-17T22:25:15Z</time>
+    </trkpt>
+    <trkpt lat="49.224157" lon="19.105587">
+      <ele>1167</ele>
+      <time>2022-01-17T22:25:22Z</time>
+    </trkpt>
+    <trkpt lat="49.224187" lon="19.105842">
+      <ele>1163</ele>
+      <time>2022-01-17T22:25:38Z</time>
+    </trkpt>
+    <trkpt lat="49.224268" lon="19.106238">
+      <ele>1160</ele>
+      <time>2022-01-17T22:26:03Z</time>
+    </trkpt>
+    <trkpt lat="49.224316" lon="19.106469">
+      <ele>1157</ele>
+      <time>2022-01-17T22:26:18Z</time>
+    </trkpt>
+    <trkpt lat="49.22438" lon="19.10675">
+      <ele>1152</ele>
+      <time>2022-01-17T22:26:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

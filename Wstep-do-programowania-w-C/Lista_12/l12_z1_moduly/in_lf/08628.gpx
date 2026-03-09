@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:10Z</time>
+    <bounds maxlat="50.5731244" maxlon="16.1376286" minlat="50.5698963" minlon="16.1352736"/>
+  </metadata>
+  <wpt lat="50.569896" lon="16.135274">
+    <ele>643</ele>
+    <name>U Osady Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/6001">
+      <text>U Osady Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.573124" lon="16.137629">
+    <ele>651</ele>
+    <name>Osada Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/5930">
+      <text>Osada Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Osady Skaly - Osada Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5698963,16.1352736;50.57165195177585,16.13640414999998;50.5731244,16.1376286">
+    <text>U Osady Skaly - Osada Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5698963" lon="16.1352736">
+      <ele>643</ele>
+      <time>2022-01-17T22:42:10Z</time>
+    </trkpt>
+    <trkpt lat="50.5703479" lon="16.1354855">
+      <ele>642</ele>
+      <time>2022-01-17T22:42:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5709427" lon="16.1356652">
+      <ele>643</ele>
+      <time>2022-01-17T22:43:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5712429" lon="16.135869">
+      <ele>641</ele>
+      <time>2022-01-17T22:44:06Z</time>
+    </trkpt>
+    <trkpt lat="50.572061" lon="16.1369393">
+      <ele>643</ele>
+      <time>2022-01-17T22:45:34Z</time>
+    </trkpt>
+    <trkpt lat="50.572217" lon="16.1370566">
+      <ele>643</ele>
+      <time>2022-01-17T22:45:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5725024" lon="16.1371096">
+      <ele>647</ele>
+      <time>2022-01-17T22:46:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5727742" lon="16.137361">
+      <ele>649</ele>
+      <time>2022-01-17T22:46:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5731244" lon="16.1376286">
+      <ele>651</ele>
+      <time>2022-01-17T22:47:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:05Z</time>
+    <bounds maxlat="50.2992458" maxlon="16.3726404" minlat="50.2983558" minlon="16.3695347"/>
+  </metadata>
+  <wpt lat="50.298587" lon="16.369535">
+    <ele>677</ele>
+    <name>Destne, Zakouti</name>
+    <link href="https://mapa-turystyczna.pl/node/4632">
+      <text>Destne, Zakouti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.299246" lon="16.37264">
+    <ele>690</ele>
+    <name>Destne, Zakouti, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/10943">
+      <text>Destne, Zakouti, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Destne, Zakouti - Destne, Zakouti, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2985867,16.3695347;50.29859310017601,16.371514450000014;50.2992458,16.3726404">
+    <text>Destne, Zakouti - Destne, Zakouti, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2985867" lon="16.3695347">
+      <ele>677</ele>
+      <time>2022-01-18T00:49:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2983635" lon="16.3703907">
+      <ele>682</ele>
+      <time>2022-01-18T00:50:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2983558" lon="16.370734">
+      <ele>685</ele>
+      <time>2022-01-18T00:50:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2984637" lon="16.3712221">
+      <ele>689</ele>
+      <time>2022-01-18T00:51:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2987225" lon="16.3718068">
+      <ele>687</ele>
+      <time>2022-01-18T00:52:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2992458" lon="16.3726404">
+      <ele>690</ele>
+      <time>2022-01-18T00:54:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

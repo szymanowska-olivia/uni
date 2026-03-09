@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:38Z</time>
+    <bounds maxlat="54.1766757" maxlon="16.2969031" minlat="54.1764842" minlon="16.295782"/>
+  </metadata>
+  <wpt lat="54.176484" lon="16.295782">
+    <ele>71</ele>
+    <name>Kamien graniczny</name>
+    <link href="https://mapa-turystyczna.pl/node/12619">
+      <text>Kamien graniczny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.176676" lon="16.296903">
+    <ele>71</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/12620">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien graniczny - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1764842,16.295782;54.17661630004265,16.296472799999993;54.1766757,16.2969031">
+    <text>Kamien graniczny - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1764842" lon="16.295782">
+      <ele>71</ele>
+      <time>2022-01-18T01:34:38Z</time>
+    </trkpt>
+    <trkpt lat="54.1765569" lon="16.2960425">
+      <ele>71</ele>
+      <time>2022-01-18T01:34:53Z</time>
+    </trkpt>
+    <trkpt lat="54.1766757" lon="16.2969031">
+      <ele>71</ele>
+      <time>2022-01-18T01:35:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

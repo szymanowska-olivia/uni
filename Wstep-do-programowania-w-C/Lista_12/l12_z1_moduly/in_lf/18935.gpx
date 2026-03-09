@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:49Z</time>
+    <bounds maxlat="52.0244772" maxlon="20.9909474" minlat="52.0202915" minlon="20.9779836"/>
+  </metadata>
+  <wpt lat="52.023835" lon="20.990947">
+    <ele>122</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12821">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.021319" lon="20.977984">
+    <ele>122</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12823">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0238347,20.9909474;52.0223843989625,20.985416950000033;52.0213192,20.9779836">
+    <text>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0238347" lon="20.9909474">
+      <ele>122</ele>
+      <time>2022-01-18T01:39:49Z</time>
+    </trkpt>
+    <trkpt lat="52.0244772" lon="20.9861036">
+      <ele>121</ele>
+      <time>2022-01-18T01:45:05Z</time>
+    </trkpt>
+    <trkpt lat="52.0202915" lon="20.9847303">
+      <ele>121</ele>
+      <time>2022-01-18T01:52:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0213192" lon="20.9779836">
+      <ele>122</ele>
+      <time>2022-01-18T01:59:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:09Z</time>
+    <bounds maxlat="52.4021641" maxlon="20.9279869" minlat="52.4008156" minlon="20.9263025"/>
+  </metadata>
+  <wpt lat="52.402164" lon="20.927987">
+    <ele>77</ele>
+    <name>Legionowo, ul. Jagiellonska</name>
+    <link href="https://mapa-turystyczna.pl/node/11399">
+      <text>Legionowo, ul. Jagiellonska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.400816" lon="20.926302">
+    <ele>78</ele>
+    <name>Legionowo, Muzeum Historyczne</name>
+    <link href="https://mapa-turystyczna.pl/node/11400">
+      <text>Legionowo, Muzeum Historyczne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, ul. Jagiellonska - Legionowo, Muzeum Historyczne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4021641,20.9279869;52.40148985515186,20.92714469999999;52.4008156,20.9263025">
+    <text>Legionowo, ul. Jagiellonska - Legionowo, Muzeum Historyczne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4021641" lon="20.9279869">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:09Z</time>
+    </trkpt>
+    <trkpt lat="52.4008156" lon="20.9263025">
+      <ele>78</ele>
+      <time>2022-01-18T01:04:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

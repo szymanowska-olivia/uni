@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:57Z</time>
+    <bounds maxlat="50.4424451" maxlon="16.246199" minlat="50.4421422" minlon="16.2451102"/>
+  </metadata>
+  <wpt lat="50.442246" lon="16.246199">
+    <ele>388</ele>
+    <name>Kudowa-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/1843">
+      <text>Kudowa-Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.442445" lon="16.24511">
+    <ele>390</ele>
+    <name>Kudowa-Zdroj, ul. Moniuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/4075">
+      <text>Kudowa-Zdroj, ul. Moniuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kudowa-Zdroj - Kudowa-Zdroj, ul. Moniuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4422456,16.246199;50.44218460000938,16.245437500000016;50.4424451,16.2451102">
+    <text>Kudowa-Zdroj - Kudowa-Zdroj, ul. Moniuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4422456" lon="16.246199">
+      <ele>388</ele>
+      <time>2022-01-17T22:02:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4421422" lon="16.2457601">
+      <ele>390</ele>
+      <time>2022-01-17T22:03:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4421548" lon="16.2455706">
+      <ele>392</ele>
+      <time>2022-01-17T22:03:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4422144" lon="16.2453044">
+      <ele>392</ele>
+      <time>2022-01-17T22:04:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4423844" lon="16.2452449">
+      <ele>392</ele>
+      <time>2022-01-17T22:04:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4424451" lon="16.2451102">
+      <ele>390</ele>
+      <time>2022-01-17T22:04:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

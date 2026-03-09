@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:15Z</time>
+    <bounds maxlat="49.445975" maxlon="20.64643" minlat="49.445315" minlon="20.642697"/>
+  </metadata>
+  <wpt lat="49.445975" lon="20.642697">
+    <ele>976</ele>
+    <name>Kramarka</name>
+    <link href="https://mapa-turystyczna.pl/node/10979">
+      <text>Kramarka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.445315" lon="20.64643">
+    <ele>977</ele>
+    <name>Niemcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/147">
+      <text>Niemcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kramarka - Niemcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.445975,20.642697;49.44562150003611,20.644447500000005;49.445315,20.64643">
+    <text>Kramarka - Niemcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.445975" lon="20.642697">
+      <ele>976</ele>
+      <time>2022-01-18T00:50:15Z</time>
+    </trkpt>
+    <trkpt lat="49.445975" lon="20.642844">
+      <ele>976</ele>
+      <time>2022-01-18T00:50:26Z</time>
+    </trkpt>
+    <trkpt lat="49.445922" lon="20.643256">
+      <ele>974</ele>
+      <time>2022-01-18T00:50:58Z</time>
+    </trkpt>
+    <trkpt lat="49.445865" lon="20.643536">
+      <ele>972</ele>
+      <time>2022-01-18T00:51:21Z</time>
+    </trkpt>
+    <trkpt lat="49.445811" lon="20.643817">
+      <ele>973</ele>
+      <time>2022-01-18T00:51:43Z</time>
+    </trkpt>
+    <trkpt lat="49.445762" lon="20.64407">
+      <ele>973</ele>
+      <time>2022-01-18T00:52:03Z</time>
+    </trkpt>
+    <trkpt lat="49.445681" lon="20.644328">
+      <ele>973</ele>
+      <time>2022-01-18T00:52:25Z</time>
+    </trkpt>
+    <trkpt lat="49.445562" lon="20.644567">
+      <ele>974</ele>
+      <time>2022-01-18T00:52:48Z</time>
+    </trkpt>
+    <trkpt lat="49.445507" lon="20.644731">
+      <ele>974</ele>
+      <time>2022-01-18T00:53:02Z</time>
+    </trkpt>
+    <trkpt lat="49.445442" lon="20.644992">
+      <ele>976</ele>
+      <time>2022-01-18T00:53:24Z</time>
+    </trkpt>
+    <trkpt lat="49.445414" lon="20.645113">
+      <ele>976</ele>
+      <time>2022-01-18T00:53:34Z</time>
+    </trkpt>
+    <trkpt lat="49.445386" lon="20.645396">
+      <ele>978</ele>
+      <time>2022-01-18T00:53:56Z</time>
+    </trkpt>
+    <trkpt lat="49.44537" lon="20.645671">
+      <ele>978</ele>
+      <time>2022-01-18T00:54:17Z</time>
+    </trkpt>
+    <trkpt lat="49.445315" lon="20.64643">
+      <ele>977</ele>
+      <time>2022-01-18T00:55:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:45Z</time>
+    <bounds maxlat="52.4237612" maxlon="21.0846185" minlat="52.4187051" minlon="21.0793596"/>
+  </metadata>
+  <wpt lat="52.418705" lon="21.079764">
+    <ele>82</ele>
+    <name>Wolka Radzyminska, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/11420">
+      <text>Wolka Radzyminska, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.423761" lon="21.084619">
+    <ele>84</ele>
+    <name>Dabkowizna</name>
+    <link href="https://mapa-turystyczna.pl/node/11419">
+      <text>Dabkowizna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolka Radzyminska, ul. Lesna - Dabkowizna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4187051,21.0797637;52.42209380174802,21.081270250000035;52.4237612,21.0846185">
+    <text>Wolka Radzyminska, ul. Lesna - Dabkowizna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4187051" lon="21.0797637">
+      <ele>82</ele>
+      <time>2022-01-18T01:01:45Z</time>
+    </trkpt>
+    <trkpt lat="52.4195687" lon="21.0793596">
+      <ele>90</ele>
+      <time>2022-01-18T01:03:06Z</time>
+    </trkpt>
+    <trkpt lat="52.4199024" lon="21.0793757">
+      <ele>90</ele>
+      <time>2022-01-18T01:03:36Z</time>
+    </trkpt>
+    <trkpt lat="52.4202918" lon="21.0795849">
+      <ele>88</ele>
+      <time>2022-01-18T01:04:13Z</time>
+    </trkpt>
+    <trkpt lat="52.4207983" lon="21.0799023">
+      <ele>85</ele>
+      <time>2022-01-18T01:05:02Z</time>
+    </trkpt>
+    <trkpt lat="52.4217012" lon="21.0807821">
+      <ele>89</ele>
+      <time>2022-01-18T01:06:37Z</time>
+    </trkpt>
+    <trkpt lat="52.4224864" lon="21.0817584">
+      <ele>89</ele>
+      <time>2022-01-18T01:08:06Z</time>
+    </trkpt>
+    <trkpt lat="52.4235267" lon="21.0831692">
+      <ele>84</ele>
+      <time>2022-01-18T01:10:08Z</time>
+    </trkpt>
+    <trkpt lat="52.4237426" lon="21.0832122">
+      <ele>84</ele>
+      <time>2022-01-18T01:10:28Z</time>
+    </trkpt>
+    <trkpt lat="52.4237524" lon="21.0845211">
+      <ele>84</ele>
+      <time>2022-01-18T01:11:40Z</time>
+    </trkpt>
+    <trkpt lat="52.4237612" lon="21.0846185">
+      <ele>84</ele>
+      <time>2022-01-18T01:11:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

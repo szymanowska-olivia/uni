@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:30:31Z</time>
+    <bounds maxlat="50.6775439" maxlon="21.7578103" minlat="50.6765612" minlon="21.7544557"/>
+  </metadata>
+  <wpt lat="50.676561" lon="21.75781">
+    <ele>138</ele>
+    <name>Sandomierz, rzeka Wisla</name>
+    <link href="https://mapa-turystyczna.pl/node/12473">
+      <text>Sandomierz, rzeka Wisla</text>
+    </link>
+  </wpt>
+  <wpt lat="50.677193" lon="21.754456">
+    <ele>140</ele>
+    <name>Sandomierz, ul. Browarna</name>
+    <link href="https://mapa-turystyczna.pl/node/12474">
+      <text>Sandomierz, ul. Browarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sandomierz, rzeka Wisla - Sandomierz, ul. Browarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6765612,21.7578103;50.67751905000657,21.756395949999987;50.6771932,21.7544557">
+    <text>Sandomierz, rzeka Wisla - Sandomierz, ul. Browarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6765612" lon="21.7578103">
+      <ele>138</ele>
+      <time>2022-01-18T01:30:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6766792" lon="21.7577492">
+      <ele>137</ele>
+      <time>2022-01-18T01:30:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6766731" lon="21.7575895">
+      <ele>137</ele>
+      <time>2022-01-18T01:30:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6767287" lon="21.7574503">
+      <ele>137</ele>
+      <time>2022-01-18T01:31:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6767799" lon="21.7573971">
+      <ele>137</ele>
+      <time>2022-01-18T01:31:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6774105" lon="21.7568513">
+      <ele>143</ele>
+      <time>2022-01-18T01:32:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6775016" lon="21.7568351">
+      <ele>143</ele>
+      <time>2022-01-18T01:32:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6775439" lon="21.756564">
+      <ele>143</ele>
+      <time>2022-01-18T01:33:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6774942" lon="21.7562279">
+      <ele>142</ele>
+      <time>2022-01-18T01:33:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6772348" lon="21.7550477">
+      <ele>140</ele>
+      <time>2022-01-18T01:34:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6772189" lon="21.7546265">
+      <ele>140</ele>
+      <time>2022-01-18T01:35:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6771932" lon="21.7544557">
+      <ele>140</ele>
+      <time>2022-01-18T01:35:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

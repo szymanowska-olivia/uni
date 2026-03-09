@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:41Z</time>
+    <bounds maxlat="50.3002473" maxlon="17.3720133" minlat="50.2986608" minlon="17.3706186"/>
+  </metadata>
+  <wpt lat="50.298661" lon="17.370619">
+    <ele>443</ele>
+    <name>Gora Chrobrego, Droga Krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2660">
+      <text>Gora Chrobrego, Droga Krzyzowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.300247" lon="17.372013">
+    <ele>431</ele>
+    <name>Pod Przednia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2661">
+      <text>Pod Przednia Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Chrobrego, Droga Krzyzowa - Pod Przednia Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2986608,17.3706186;50.29947760021797,17.37107690000002;50.3002473,17.3720133">
+    <text>Gora Chrobrego, Droga Krzyzowa - Pod Przednia Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2986608" lon="17.3706186">
+      <ele>443</ele>
+      <time>2022-01-17T21:34:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2988264" lon="17.3707802">
+      <ele>442</ele>
+      <time>2022-01-17T21:34:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2991209" lon="17.3709967">
+      <ele>440</ele>
+      <time>2022-01-17T21:35:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2993336" lon="17.3710484">
+      <ele>439</ele>
+      <time>2022-01-17T21:35:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2996216" lon="17.3711054">
+      <ele>439</ele>
+      <time>2022-01-17T21:36:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2998613" lon="17.3712952">
+      <ele>436</ele>
+      <time>2022-01-17T21:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2999784" lon="17.3716647">
+      <ele>432</ele>
+      <time>2022-01-17T21:37:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3000889" lon="17.3719034">
+      <ele>431</ele>
+      <time>2022-01-17T21:37:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3002473" lon="17.3720133">
+      <ele>431</ele>
+      <time>2022-01-17T21:37:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

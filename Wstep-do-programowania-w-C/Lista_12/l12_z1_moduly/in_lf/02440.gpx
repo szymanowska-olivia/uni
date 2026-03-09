@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:26Z</time>
+    <bounds maxlat="50.1518469" maxlon="16.7972374" minlat="50.144525" minlon="16.792345"/>
+  </metadata>
+  <wpt lat="50.144525" lon="16.792345">
+    <ele>863</ele>
+    <name>Pod Klepacem</name>
+    <link href="https://mapa-turystyczna.pl/node/1705">
+      <text>Pod Klepacem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.151847" lon="16.797237">
+    <ele>910</ele>
+    <name>Pod Srsnovkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1704">
+      <text>Pod Srsnovkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Klepacem - Pod Srsnovkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.144525,16.792345;50.14812180053494,16.79434639999999;50.1518469,16.7972374">
+    <text>Pod Klepacem - Pod Srsnovkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.144525" lon="16.792345">
+      <ele>863</ele>
+      <time>2022-01-17T21:16:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1461273" lon="16.7933973">
+      <ele>876</ele>
+      <time>2022-01-17T21:20:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1466572" lon="16.7935681">
+      <ele>882</ele>
+      <time>2022-01-17T21:22:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1474543" lon="16.7937513">
+      <ele>888</ele>
+      <time>2022-01-17T21:24:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1478956" lon="16.7940617">
+      <ele>890</ele>
+      <time>2022-01-17T21:25:17Z</time>
+    </trkpt>
+    <trkpt lat="50.148348" lon="16.7946311">
+      <ele>895</ele>
+      <time>2022-01-17T21:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1489286" lon="16.7954779">
+      <ele>897</ele>
+      <time>2022-01-17T21:28:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1518469" lon="16.7972374">
+      <ele>910</ele>
+      <time>2022-01-17T21:36:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

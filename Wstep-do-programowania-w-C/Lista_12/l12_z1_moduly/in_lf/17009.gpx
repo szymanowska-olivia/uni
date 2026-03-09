@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:32Z</time>
+    <bounds maxlat="52.2728039" maxlon="16.8622622" minlat="52.2720606" minlon="16.8588616"/>
+  </metadata>
+  <wpt lat="52.272804" lon="16.858874">
+    <ele>64</ele>
+    <name>Puszczykowo, ul. Kasprowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/11627">
+      <text>Puszczykowo, ul. Kasprowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.272061" lon="16.862262">
+    <ele>63</ele>
+    <name>Puszczykowko, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10242">
+      <text>Puszczykowko, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowo, ul. Kasprowicza - Puszczykowko, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2728039,16.8588742;52.27232230077251,16.86103130000002;52.2720606,16.8622622">
+    <text>Puszczykowo, ul. Kasprowicza - Puszczykowko, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2728039" lon="16.8588742">
+      <ele>64</ele>
+      <time>2022-01-18T01:06:32Z</time>
+    </trkpt>
+    <trkpt lat="52.2725807" lon="16.8588616">
+      <ele>63</ele>
+      <time>2022-01-18T01:07:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2725856" lon="16.8593524">
+      <ele>63</ele>
+      <time>2022-01-18T01:07:38Z</time>
+    </trkpt>
+    <trkpt lat="52.272584" lon="16.8598004">
+      <ele>62</ele>
+      <time>2022-01-18T01:08:12Z</time>
+    </trkpt>
+    <trkpt lat="52.2720606" lon="16.8622622">
+      <ele>63</ele>
+      <time>2022-01-18T01:11:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

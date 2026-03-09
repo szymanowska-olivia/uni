@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:56Z</time>
+    <bounds maxlat="50.7215348" maxlon="16.7794061" minlat="50.7205397" minlon="16.7790252"/>
+  </metadata>
+  <wpt lat="50.72054" lon="16.779406">
+    <ele>252</ele>
+    <name>Gilow, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/2823">
+      <text>Gilow, rozwidlenie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.721535" lon="16.779025">
+    <ele>252</ele>
+    <name>Gilow</name>
+    <link href="https://mapa-turystyczna.pl/node/2824">
+      <text>Gilow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gilow, rozwidlenie - Gilow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7205397,16.7794061;50.72087760121825,16.779318900000018;50.7215348,16.7790252">
+    <text>Gilow, rozwidlenie - Gilow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7205397" lon="16.7794061">
+      <ele>252</ele>
+      <time>2022-01-17T21:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7212155" lon="16.7792317">
+      <ele>252</ele>
+      <time>2022-01-17T21:38:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7215348" lon="16.7790252">
+      <ele>252</ele>
+      <time>2022-01-17T21:38:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

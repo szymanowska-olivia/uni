@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:01Z</time>
+    <bounds maxlat="52.4746073" maxlon="20.7442185" minlat="52.4735886" minlon="20.7391866"/>
+  </metadata>
+  <wpt lat="52.474506" lon="20.739187">
+    <ele>85</ele>
+    <name>Pomiechowek</name>
+    <link href="https://mapa-turystyczna.pl/node/12239">
+      <text>Pomiechowek</text>
+    </link>
+  </wpt>
+  <wpt lat="52.474199" lon="20.744218">
+    <ele>76</ele>
+    <name>Pomiechowek, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12238">
+      <text>Pomiechowek, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomiechowek - Pomiechowek, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4745062,20.7391866;52.47368905011465,20.741177749999984;52.4741991,20.7442185">
+    <text>Pomiechowek - Pomiechowek, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4745062" lon="20.7391866">
+      <ele>85</ele>
+      <time>2022-01-18T01:23:01Z</time>
+    </trkpt>
+    <trkpt lat="52.4745027" lon="20.7393832">
+      <ele>84</ele>
+      <time>2022-01-18T01:23:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4745484" lon="20.7394154">
+      <ele>84</ele>
+      <time>2022-01-18T01:23:14Z</time>
+    </trkpt>
+    <trkpt lat="52.4745648" lon="20.7395227">
+      <ele>83</ele>
+      <time>2022-01-18T01:23:19Z</time>
+    </trkpt>
+    <trkpt lat="52.4745452" lon="20.7396568">
+      <ele>82</ele>
+      <time>2022-01-18T01:23:25Z</time>
+    </trkpt>
+    <trkpt lat="52.4746073" lon="20.7399197">
+      <ele>80</ele>
+      <time>2022-01-18T01:23:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4744602" lon="20.7401664">
+      <ele>78</ele>
+      <time>2022-01-18T01:23:54Z</time>
+    </trkpt>
+    <trkpt lat="52.4737144" lon="20.7405126">
+      <ele>77</ele>
+      <time>2022-01-18T01:24:52Z</time>
+    </trkpt>
+    <trkpt lat="52.4737895" lon="20.7411349">
+      <ele>77</ele>
+      <time>2022-01-18T01:25:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4735886" lon="20.7412206">
+      <ele>77</ele>
+      <time>2022-01-18T01:25:37Z</time>
+    </trkpt>
+    <trkpt lat="52.4741991" lon="20.7442185">
+      <ele>76</ele>
+      <time>2022-01-18T01:28:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

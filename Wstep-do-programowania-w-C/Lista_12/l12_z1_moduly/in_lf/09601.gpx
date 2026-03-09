@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:00:40Z</time>
+    <bounds maxlat="48.8934637" maxlon="19.3313026" minlat="48.8925009" minlon="19.3309553"/>
+  </metadata>
+  <wpt lat="48.892501" lon="19.330983">
+    <ele>1730</ele>
+    <name>Velka Chochula, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6739">
+      <text>Velka Chochula, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.893464" lon="19.331303">
+    <ele>1753</ele>
+    <name>Velka Chochula</name>
+    <link href="https://mapa-turystyczna.pl/node/6468">
+      <text>Velka Chochula</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Chochula, razc. - Velka Chochula</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8925009,19.3309835;48.892873850137505,19.33109114999997;48.8934637,19.3313026">
+    <text>Velka Chochula, razc. - Velka Chochula</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8925009" lon="19.3309835">
+      <ele>1730</ele>
+      <time>2022-01-17T23:00:40Z</time>
+    </trkpt>
+    <trkpt lat="48.8926067" lon="19.3309553">
+      <ele>1732</ele>
+      <time>2022-01-17T23:01:11Z</time>
+    </trkpt>
+    <trkpt lat="48.8927566" lon="19.3309672">
+      <ele>1736</ele>
+      <time>2022-01-17T23:01:56Z</time>
+    </trkpt>
+    <trkpt lat="48.8929911" lon="19.3312151">
+      <ele>1742</ele>
+      <time>2022-01-17T23:03:20Z</time>
+    </trkpt>
+    <trkpt lat="48.8934637" lon="19.3313026">
+      <ele>1753</ele>
+      <time>2022-01-17T23:05:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

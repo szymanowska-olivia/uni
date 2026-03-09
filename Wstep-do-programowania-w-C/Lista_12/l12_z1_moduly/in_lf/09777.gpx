@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:58Z</time>
+    <bounds maxlat="50.1023968" maxlon="17.2140098" minlat="50.1014918" minlon="17.2131461"/>
+  </metadata>
+  <wpt lat="50.102397" lon="17.213146">
+    <ele>1303</ele>
+    <name>Svycarna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6870">
+      <text>Svycarna, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.101492" lon="17.21401">
+    <ele>1305</ele>
+    <name>Svycarna</name>
+    <link href="https://mapa-turystyczna.pl/node/6869">
+      <text>Svycarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svycarna, rozc. - Svycarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1023968,17.2131461;50.102075000164646,17.213636949999998;50.1014918,17.2140098">
+    <text>Svycarna, rozc. - Svycarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1023968" lon="17.2131461">
+      <ele>1303</ele>
+      <time>2022-01-17T23:03:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1022006" lon="17.213527">
+      <ele>1304</ele>
+      <time>2022-01-17T23:04:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1019494" lon="17.2137469">
+      <ele>1305</ele>
+      <time>2022-01-17T23:05:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1017843" lon="17.2137845">
+      <ele>1304</ele>
+      <time>2022-01-17T23:05:22Z</time>
+    </trkpt>
+    <trkpt lat="50.101712" lon="17.2138327">
+      <ele>1304</ele>
+      <time>2022-01-17T23:05:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1014918" lon="17.2140098">
+      <ele>1305</ele>
+      <time>2022-01-17T23:05:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

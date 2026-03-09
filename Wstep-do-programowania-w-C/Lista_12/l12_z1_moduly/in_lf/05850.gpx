@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:50Z</time>
+    <bounds maxlat="49.466801" maxlon="20.556251" minlat="49.466517" minlon="20.553685"/>
+  </metadata>
+  <wpt lat="49.466801" lon="20.553685">
+    <ele>1147</ele>
+    <name>Skrzyzowanie na Przehybie</name>
+    <link href="https://mapa-turystyczna.pl/node/4040">
+      <text>Skrzyzowanie na Przehybie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.466517" lon="20.556251">
+    <ele>1138</ele>
+    <name>Schronisko PTTK Przehyba</name>
+    <link href="https://mapa-turystyczna.pl/node/165">
+      <text>Schronisko PTTK Przehyba</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie na Przehybie - Schronisko PTTK Przehyba</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.466801,20.553685;49.466679000000354,20.55493700000003;49.466517,20.556251">
+    <text>Skrzyzowanie na Przehybie - Schronisko PTTK Przehyba</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.466801" lon="20.553685">
+      <ele>1147</ele>
+      <time>2022-01-17T22:01:50Z</time>
+    </trkpt>
+    <trkpt lat="49.466744" lon="20.553867">
+      <ele>1146</ele>
+      <time>2022-01-17T22:02:03Z</time>
+    </trkpt>
+    <trkpt lat="49.466687" lon="20.554184">
+      <ele>1145</ele>
+      <time>2022-01-17T22:02:25Z</time>
+    </trkpt>
+    <trkpt lat="49.466673" lon="20.554547">
+      <ele>1145</ele>
+      <time>2022-01-17T22:02:50Z</time>
+    </trkpt>
+    <trkpt lat="49.466685" lon="20.555327">
+      <ele>1141</ele>
+      <time>2022-01-17T22:03:42Z</time>
+    </trkpt>
+    <trkpt lat="49.466715" lon="20.555679">
+      <ele>1141</ele>
+      <time>2022-01-17T22:04:06Z</time>
+    </trkpt>
+    <trkpt lat="49.466676" lon="20.555874">
+      <ele>1140</ele>
+      <time>2022-01-17T22:04:19Z</time>
+    </trkpt>
+    <trkpt lat="49.466665" lon="20.555925">
+      <ele>1140</ele>
+      <time>2022-01-17T22:04:23Z</time>
+    </trkpt>
+    <trkpt lat="49.466612" lon="20.55611">
+      <ele>1139</ele>
+      <time>2022-01-17T22:04:36Z</time>
+    </trkpt>
+    <trkpt lat="49.466517" lon="20.556251">
+      <ele>1138</ele>
+      <time>2022-01-17T22:04:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

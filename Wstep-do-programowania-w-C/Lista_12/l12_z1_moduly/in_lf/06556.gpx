@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:11Z</time>
+    <bounds maxlat="50.5276184" maxlon="19.4985491" minlat="50.5254018" minlon="19.4924337"/>
+  </metadata>
+  <wpt lat="50.527618" lon="19.498549">
+    <ele>390</ele>
+    <name>Zawiercie, Skarzyce, ul. Andrzeja Kmicica</name>
+    <link href="https://mapa-turystyczna.pl/node/4462">
+      <text>Zawiercie, Skarzyce, ul. Andrzeja Kmicica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.525402" lon="19.492434">
+    <ele>383</ele>
+    <name>Zawiercie, Skarzyce, Zeglowka</name>
+    <link href="https://mapa-turystyczna.pl/node/4567">
+      <text>Zawiercie, Skarzyce, Zeglowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawiercie, Skarzyce, ul. Andrzeja Kmicica - Zawiercie, Skarzyce, Zeglowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5276184,19.4985491;50.526510113015696,19.495491399999988;50.5254018,19.4924337">
+    <text>Zawiercie, Skarzyce, ul. Andrzeja Kmicica - Zawiercie, Skarzyce, Zeglowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5276184" lon="19.4985491">
+      <ele>390</ele>
+      <time>2022-01-17T22:09:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5254018" lon="19.4924337">
+      <ele>383</ele>
+      <time>2022-01-17T22:14:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

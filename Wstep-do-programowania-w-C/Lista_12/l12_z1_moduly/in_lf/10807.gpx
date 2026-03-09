@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:22:56Z</time>
+    <bounds maxlat="49.4895623" maxlon="18.2649824" minlat="49.4888967" minlon="18.2645465"/>
+  </metadata>
+  <wpt lat="49.489562" lon="18.264982">
+    <ele>1016</ele>
+    <name>Pustevny</name>
+    <link href="https://mapa-turystyczna.pl/node/7610">
+      <text>Pustevny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.488897" lon="18.264547">
+    <ele>1010</ele>
+    <name>Pustevny, Prostredni Becva</name>
+    <link href="https://mapa-turystyczna.pl/node/7609">
+      <text>Pustevny, Prostredni Becva</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pustevny - Pustevny, Prostredni Becva</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4895623,18.2649824;49.48922215007061,18.264725249999962;49.4888967,18.2645465">
+    <text>Pustevny - Pustevny, Prostredni Becva</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4895623" lon="18.2649824">
+      <ele>1016</ele>
+      <time>2022-01-17T23:22:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4894196" lon="18.2648617">
+      <ele>1014</ele>
+      <time>2022-01-17T23:23:10Z</time>
+    </trkpt>
+    <trkpt lat="49.4893053" lon="18.2647873">
+      <ele>1013</ele>
+      <time>2022-01-17T23:23:20Z</time>
+    </trkpt>
+    <trkpt lat="49.489139" lon="18.2646632">
+      <ele>1012</ele>
+      <time>2022-01-17T23:23:35Z</time>
+    </trkpt>
+    <trkpt lat="49.4890049" lon="18.2645854">
+      <ele>1011</ele>
+      <time>2022-01-17T23:23:47Z</time>
+    </trkpt>
+    <trkpt lat="49.4888967" lon="18.2645465">
+      <ele>1010</ele>
+      <time>2022-01-17T23:23:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

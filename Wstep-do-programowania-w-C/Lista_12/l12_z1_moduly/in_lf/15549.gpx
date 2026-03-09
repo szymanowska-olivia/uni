@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:00Z</time>
+    <bounds maxlat="49.233972" maxlon="20.0885" minlat="49.233762" minlon="20.08779"/>
+  </metadata>
+  <wpt lat="49.233972" lon="20.08779">
+    <ele>1100</ele>
+    <name>Wodogrzmoty Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/10602">
+      <text>Wodogrzmoty Mickiewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.233762" lon="20.0885">
+    <ele>1100</ele>
+    <name>Wodogrzmoty Mickiewicza, odejscie do Roztoki</name>
+    <link href="https://mapa-turystyczna.pl/node/302">
+      <text>Wodogrzmoty Mickiewicza, odejscie do Roztoki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wodogrzmoty Mickiewicza - Wodogrzmoty Mickiewicza, odejscie do Roztoki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.233972,20.08779;49.233867000111616,20.088144999999994;49.233762,20.0885">
+    <text>Wodogrzmoty Mickiewicza - Wodogrzmoty Mickiewicza, odejscie do Roztoki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.233972" lon="20.08779">
+      <ele>1100</ele>
+      <time>2022-01-18T00:41:00Z</time>
+    </trkpt>
+    <trkpt lat="49.233762" lon="20.0885">
+      <ele>1100</ele>
+      <time>2022-01-18T00:42:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

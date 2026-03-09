@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:46:09Z</time>
+    <bounds maxlat="49.239859" maxlon="19.862758" minlat="49.23965" minlon="19.862062"/>
+  </metadata>
+  <wpt lat="49.23965" lon="19.862758">
+    <ele>1090</ele>
+    <name>Odejscie do Jaskini Raptawickiej</name>
+    <link href="https://mapa-turystyczna.pl/node/3964">
+      <text>Odejscie do Jaskini Raptawickiej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.239815" lon="19.862084">
+    <ele>1130</ele>
+    <name>Jaskinia Raptawicka</name>
+    <link href="https://mapa-turystyczna.pl/node/217">
+      <text>Jaskinia Raptawicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Jaskini Raptawickiej - Jaskinia Raptawicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.23965,19.862758;49.23976500000683,19.862392500000006;49.239815,19.862084">
+    <text>Odejscie do Jaskini Raptawickiej - Jaskinia Raptawicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.23965" lon="19.862758">
+      <ele>1090</ele>
+      <time>2022-01-17T20:46:09Z</time>
+    </trkpt>
+    <trkpt lat="49.23978" lon="19.86268">
+      <ele>1099</ele>
+      <time>2022-01-17T20:47:06Z</time>
+    </trkpt>
+    <trkpt lat="49.239846" lon="19.862618">
+      <ele>1105</ele>
+      <time>2022-01-17T20:47:39Z</time>
+    </trkpt>
+    <trkpt lat="49.239859" lon="19.862568">
+      <ele>1108</ele>
+      <time>2022-01-17T20:47:55Z</time>
+    </trkpt>
+    <trkpt lat="49.239791" lon="19.862424">
+      <ele>1113</ele>
+      <time>2022-01-17T20:48:39Z</time>
+    </trkpt>
+    <trkpt lat="49.239739" lon="19.862361">
+      <ele>1114</ele>
+      <time>2022-01-17T20:49:02Z</time>
+    </trkpt>
+    <trkpt lat="49.239711" lon="19.862306">
+      <ele>1115</ele>
+      <time>2022-01-17T20:49:19Z</time>
+    </trkpt>
+    <trkpt lat="49.239734" lon="19.862188">
+      <ele>1121</ele>
+      <time>2022-01-17T20:49:54Z</time>
+    </trkpt>
+    <trkpt lat="49.239707" lon="19.862062">
+      <ele>1126</ele>
+      <time>2022-01-17T20:50:27Z</time>
+    </trkpt>
+    <trkpt lat="49.239815" lon="19.862084">
+      <ele>1130</ele>
+      <time>2022-01-17T20:51:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

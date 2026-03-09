@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:35Z</time>
+    <bounds maxlat="52.0484999" maxlon="20.7541479" minlat="52.0407035" minlon="20.7516642"/>
+  </metadata>
+  <wpt lat="52.0485" lon="20.754074">
+    <ele>145</ele>
+    <name>Rozalin</name>
+    <link href="https://mapa-turystyczna.pl/node/11994">
+      <text>Rozalin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.040703" lon="20.751664">
+    <ele>156</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11952">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozalin - Rozejscie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0484999,20.7540737;52.04540160392095,20.75215485;52.0407035,20.7516642">
+    <text>Rozalin - Rozejscie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0484999" lon="20.7540737">
+      <ele>145</ele>
+      <time>2022-01-18T01:17:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0460032" lon="20.7541479">
+      <ele>146</ele>
+      <time>2022-01-18T01:21:44Z</time>
+    </trkpt>
+    <trkpt lat="52.0459768" lon="20.7540996">
+      <ele>146</ele>
+      <time>2022-01-18T01:21:48Z</time>
+    </trkpt>
+    <trkpt lat="52.0459936" lon="20.7521748">
+      <ele>148</ele>
+      <time>2022-01-18T01:23:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0448096" lon="20.7521349">
+      <ele>151</ele>
+      <time>2022-01-18T01:25:44Z</time>
+    </trkpt>
+    <trkpt lat="52.0407035" lon="20.7516642">
+      <ele>156</ele>
+      <time>2022-01-18T01:32:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

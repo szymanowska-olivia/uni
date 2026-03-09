@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:02Z</time>
+    <bounds maxlat="51.1007148" maxlon="15.5950783" minlat="51.1005228" minlon="15.5945258"/>
+  </metadata>
+  <wpt lat="51.100715" lon="15.594526">
+    <ele>256</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11836">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+  <wpt lat="51.100523" lon="15.595078">
+    <ele>265</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11837">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezek - Rozejscie sciezek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1007148,15.5945258;51.100618800099674,15.594802050000016;51.1005228,15.5950783">
+    <text>Rozejscie sciezek - Rozejscie sciezek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1007148" lon="15.5945258">
+      <ele>256</ele>
+      <time>2022-01-18T01:13:02Z</time>
+    </trkpt>
+    <trkpt lat="51.1005228" lon="15.5950783">
+      <ele>265</ele>
+      <time>2022-01-18T01:15:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

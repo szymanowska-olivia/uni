@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:53Z</time>
+    <bounds maxlat="50.1212866" maxlon="16.5021515" minlat="50.1142971" minlon="16.4947271"/>
+  </metadata>
+  <wpt lat="50.121287" lon="16.502152">
+    <ele>459</ele>
+    <name>Kunvald</name>
+    <link href="https://mapa-turystyczna.pl/node/1959">
+      <text>Kunvald</text>
+    </link>
+  </wpt>
+  <wpt lat="50.114297" lon="16.494813">
+    <ele>434</ele>
+    <name>Kunvald, prodejna</name>
+    <link href="https://mapa-turystyczna.pl/node/1955">
+      <text>Kunvald, prodejna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kunvald - Kunvald, prodejna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1212866,16.5021515;50.1182563506767,16.498557299999995;50.1142971,16.494813">
+    <text>Kunvald - Kunvald, prodejna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1212866" lon="16.5021515">
+      <ele>459</ele>
+      <time>2022-01-17T21:20:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1203476" lon="16.5011483">
+      <ele>456</ele>
+      <time>2022-01-17T21:22:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1201482" lon="16.5009552">
+      <ele>458</ele>
+      <time>2022-01-17T21:23:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1189202" lon="16.5001988">
+      <ele>455</ele>
+      <time>2022-01-17T21:25:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1187173" lon="16.500054">
+      <ele>454</ele>
+      <time>2022-01-17T21:25:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1185109" lon="16.499716">
+      <ele>452</ele>
+      <time>2022-01-17T21:26:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1180018" lon="16.4973986">
+      <ele>445</ele>
+      <time>2022-01-17T21:28:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1176407" lon="16.4964545">
+      <ele>445</ele>
+      <time>2022-01-17T21:29:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1172348" lon="16.4957464">
+      <ele>446</ele>
+      <time>2022-01-17T21:30:44Z</time>
+    </trkpt>
+    <trkpt lat="50.116736" lon="16.4949203">
+      <ele>443</ele>
+      <time>2022-01-17T21:31:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1163353" lon="16.4947271">
+      <ele>442</ele>
+      <time>2022-01-17T21:32:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1142971" lon="16.494813">
+      <ele>434</ele>
+      <time>2022-01-17T21:35:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

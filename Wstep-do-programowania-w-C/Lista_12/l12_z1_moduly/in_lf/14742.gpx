@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:17Z</time>
+    <bounds maxlat="51.3950632" maxlon="16.5132155" minlat="51.3937498" minlon="16.5069031"/>
+  </metadata>
+  <wpt lat="51.39375" lon="16.513216">
+    <ele>97</ele>
+    <name>Orzeszkow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10058">
+      <text>Orzeszkow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.395063" lon="16.506903">
+    <ele>93</ele>
+    <name>Orzeszkow, tory</name>
+    <link href="https://mapa-turystyczna.pl/node/10050">
+      <text>Orzeszkow, tory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orzeszkow, rozejscie szlakow - Orzeszkow, tory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3937498,16.5132155;51.39479175080535,16.508550449999973;51.3950632,16.5069031">
+    <text>Orzeszkow, rozejscie szlakow - Orzeszkow, tory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3937498" lon="16.5132155">
+      <ele>97</ele>
+      <time>2022-01-18T00:27:17Z</time>
+    </trkpt>
+    <trkpt lat="51.3937504" lon="16.5132126">
+      <ele>97</ele>
+      <time>2022-01-18T00:27:17Z</time>
+    </trkpt>
+    <trkpt lat="51.3939647" lon="16.5126225">
+      <ele>96</ele>
+      <time>2022-01-18T00:27:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3944065" lon="16.5108308">
+      <ele>94</ele>
+      <time>2022-01-18T00:29:14Z</time>
+    </trkpt>
+    <trkpt lat="51.3945203" lon="16.5101978">
+      <ele>93</ele>
+      <time>2022-01-18T00:29:44Z</time>
+    </trkpt>
+    <trkpt lat="51.3950632" lon="16.5069031">
+      <ele>93</ele>
+      <time>2022-01-18T00:32:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

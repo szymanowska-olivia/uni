@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:50Z</time>
+    <bounds maxlat="50.242656" maxlon="17.4272012" minlat="50.2423221" minlon="17.427004"/>
+  </metadata>
+  <wpt lat="50.242322" lon="17.427201">
+    <ele>710</ele>
+    <name>Petrovy Boudy, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6099">
+      <text>Petrovy Boudy, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.242656" lon="17.427138">
+    <ele>712</ele>
+    <name>Petrovy Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/2671">
+      <text>Petrovy Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Petrovy Boudy, rozc. - Petrovy Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2423221,17.4272012;50.242413550087726,17.427102599999994;50.242656,17.4271381">
+    <text>Petrovy Boudy, rozc. - Petrovy Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2423221" lon="17.4272012">
+      <ele>710</ele>
+      <time>2022-01-17T22:44:50Z</time>
+    </trkpt>
+    <trkpt lat="50.242505" lon="17.427004">
+      <ele>712</ele>
+      <time>2022-01-17T22:45:24Z</time>
+    </trkpt>
+    <trkpt lat="50.242656" lon="17.4271381">
+      <ele>712</ele>
+      <time>2022-01-17T22:45:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:19Z</time>
+    <bounds maxlat="49.740006" maxlon="19.580937" minlat="49.739809" minlon="19.580332"/>
+  </metadata>
+  <wpt lat="49.739809" lon="19.580332">
+    <ele>331</ele>
+    <name>Sucha Beskidzka</name>
+    <link href="https://mapa-turystyczna.pl/node/677">
+      <text>Sucha Beskidzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.740006" lon="19.580937">
+    <ele>344</ele>
+    <name>Sucha Beskidzka, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9315">
+      <text>Sucha Beskidzka, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sucha Beskidzka - Sucha Beskidzka, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.739809,19.580332;49.739939000046256,19.580731000000025;49.740006,19.580937">
+    <text>Sucha Beskidzka - Sucha Beskidzka, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.739809" lon="19.580332">
+      <ele>331</ele>
+      <time>2022-01-18T00:08:19Z</time>
+    </trkpt>
+    <trkpt lat="49.739872" lon="19.580525">
+      <ele>335</ele>
+      <time>2022-01-18T00:08:57Z</time>
+    </trkpt>
+    <trkpt lat="49.740006" lon="19.580937">
+      <ele>344</ele>
+      <time>2022-01-18T00:10:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

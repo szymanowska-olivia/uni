@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:10Z</time>
+    <bounds maxlat="52.1200193" maxlon="21.2583956" minlat="52.1176" minlon="21.2537406"/>
+  </metadata>
+  <wpt lat="52.119609" lon="21.258396">
+    <ele>97</ele>
+    <name>Otwock, ul. Pusta</name>
+    <link href="https://mapa-turystyczna.pl/node/12909">
+      <text>Otwock, ul. Pusta</text>
+    </link>
+  </wpt>
+  <wpt lat="52.120019" lon="21.254846">
+    <ele>94</ele>
+    <name>Otwock, ul. Kasztanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12910">
+      <text>Otwock, ul. Kasztanowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Pusta - Otwock, ul. Kasztanowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1196094,21.2583956;52.11795900144569,21.256567600000004;52.1200193,21.2548464">
+    <text>Otwock, ul. Pusta - Otwock, ul. Kasztanowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1196094" lon="21.2583956">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:10Z</time>
+    </trkpt>
+    <trkpt lat="52.11916" lon="21.2573616">
+      <ele>93</ele>
+      <time>2022-01-18T01:43:22Z</time>
+    </trkpt>
+    <trkpt lat="52.1187845" lon="21.2565623">
+      <ele>94</ele>
+      <time>2022-01-18T01:44:19Z</time>
+    </trkpt>
+    <trkpt lat="52.118318" lon="21.257383">
+      <ele>96</ele>
+      <time>2022-01-18T01:45:23Z</time>
+    </trkpt>
+    <trkpt lat="52.1176" lon="21.2557522">
+      <ele>95</ele>
+      <time>2022-01-18T01:47:16Z</time>
+    </trkpt>
+    <trkpt lat="52.1185947" lon="21.254792">
+      <ele>94</ele>
+      <time>2022-01-18T01:49:03Z</time>
+    </trkpt>
+    <trkpt lat="52.1196718" lon="21.2537406">
+      <ele>92</ele>
+      <time>2022-01-18T01:50:59Z</time>
+    </trkpt>
+    <trkpt lat="52.1200193" lon="21.2548464">
+      <ele>94</ele>
+      <time>2022-01-18T01:52:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

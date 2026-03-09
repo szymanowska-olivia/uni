@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:08Z</time>
+    <bounds maxlat="49.9321892" maxlon="17.2840655" minlat="49.9299553" minlon="17.2709682"/>
+  </metadata>
+  <wpt lat="49.93172" lon="17.270968">
+    <ele>607</ele>
+    <name>Rymarov</name>
+    <link href="https://mapa-turystyczna.pl/node/7846">
+      <text>Rymarov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.929958" lon="17.284066">
+    <ele>590</ele>
+    <name>Rymarov, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7845">
+      <text>Rymarov, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rymarov - Rymarov, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9317196,17.2709682;49.9308873039623,17.277459399999998;49.9299585,17.2840655">
+    <text>Rymarov - Rymarov, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9317196" lon="17.2709682">
+      <ele>607</ele>
+      <time>2022-01-17T23:29:08Z</time>
+    </trkpt>
+    <trkpt lat="49.9321892" lon="17.271333">
+      <ele>608</ele>
+      <time>2022-01-17T23:30:00Z</time>
+    </trkpt>
+    <trkpt lat="49.931913" lon="17.2723951">
+      <ele>607</ele>
+      <time>2022-01-17T23:31:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9319127" lon="17.2726209">
+      <ele>606</ele>
+      <time>2022-01-17T23:31:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9317953" lon="17.273093">
+      <ele>602</ele>
+      <time>2022-01-17T23:31:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9318644" lon="17.273329">
+      <ele>601</ele>
+      <time>2022-01-17T23:32:15Z</time>
+    </trkpt>
+    <trkpt lat="49.931837" lon="17.2739615">
+      <ele>599</ele>
+      <time>2022-01-17T23:32:55Z</time>
+    </trkpt>
+    <trkpt lat="49.9315053" lon="17.2752817">
+      <ele>593</ele>
+      <time>2022-01-17T23:34:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9302693" lon="17.2796371">
+      <ele>594</ele>
+      <time>2022-01-17T23:39:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9299553" lon="17.2837749">
+      <ele>590</ele>
+      <time>2022-01-17T23:43:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9299585" lon="17.2840655">
+      <ele>590</ele>
+      <time>2022-01-17T23:44:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

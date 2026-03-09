@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:34Z</time>
+    <bounds maxlat="49.1033608" maxlon="22.4482775" minlat="49.1028867" minlon="22.4408279"/>
+  </metadata>
+  <wpt lat="49.102963" lon="22.440828">
+    <ele>1199</ele>
+    <name>Rabia Skala</name>
+    <link href="https://mapa-turystyczna.pl/node/382">
+      <text>Rabia Skala</text>
+    </link>
+  </wpt>
+  <wpt lat="49.103284" lon="22.448277">
+    <ele>1167</ele>
+    <name>Pod Rabia Skala</name>
+    <link href="https://mapa-turystyczna.pl/node/2490">
+      <text>Pod Rabia Skala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rabia Skala - Pod Rabia Skala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1029626,22.4408279;49.103207550027705,22.444194300000003;49.1032842,22.4482775">
+    <text>Rabia Skala - Pod Rabia Skala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1029626" lon="22.4408279">
+      <ele>1199</ele>
+      <time>2022-01-17T21:31:34Z</time>
+    </trkpt>
+    <trkpt lat="49.1029223" lon="22.4411577">
+      <ele>1197</ele>
+      <time>2022-01-17T21:32:01Z</time>
+    </trkpt>
+    <trkpt lat="49.1028869" lon="22.4412606">
+      <ele>1195</ele>
+      <time>2022-01-17T21:32:10Z</time>
+    </trkpt>
+    <trkpt lat="49.1028867" lon="22.4417766">
+      <ele>1190</ele>
+      <time>2022-01-17T21:32:51Z</time>
+    </trkpt>
+    <trkpt lat="49.1029354" lon="22.4419396">
+      <ele>1188</ele>
+      <time>2022-01-17T21:33:06Z</time>
+    </trkpt>
+    <trkpt lat="49.1031135" lon="22.4435636">
+      <ele>1176</ele>
+      <time>2022-01-17T21:35:17Z</time>
+    </trkpt>
+    <trkpt lat="49.1031551" lon="22.4437534">
+      <ele>1177</ele>
+      <time>2022-01-17T21:35:33Z</time>
+    </trkpt>
+    <trkpt lat="49.10326" lon="22.4446352">
+      <ele>1177</ele>
+      <time>2022-01-17T21:36:44Z</time>
+    </trkpt>
+    <trkpt lat="49.1033174" lon="22.4454848">
+      <ele>1174</ele>
+      <time>2022-01-17T21:37:51Z</time>
+    </trkpt>
+    <trkpt lat="49.1033608" lon="22.4470988">
+      <ele>1176</ele>
+      <time>2022-01-17T21:39:59Z</time>
+    </trkpt>
+    <trkpt lat="49.1032839" lon="22.4478052">
+      <ele>1169</ele>
+      <time>2022-01-17T21:40:57Z</time>
+    </trkpt>
+    <trkpt lat="49.1032842" lon="22.4482775">
+      <ele>1167</ele>
+      <time>2022-01-17T21:41:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

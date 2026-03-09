@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:20Z</time>
+    <bounds maxlat="52.2891495" maxlon="20.473516" minlat="52.2850871" minlon="20.4691172"/>
+  </metadata>
+  <wpt lat="52.285172" lon="20.469117">
+    <ele>77</ele>
+    <name>Granica, rozejscie szlakow niebieski / zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/4995">
+      <text>Granica, rozejscie szlakow niebieski / zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.28915" lon="20.473516">
+    <ele>85</ele>
+    <name>Narty</name>
+    <link href="https://mapa-turystyczna.pl/node/4983">
+      <text>Narty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Granica, rozejscie szlakow niebieski / zielony / zolty - Narty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2851724,20.4691172;52.28611911201911,20.471855699999995;52.2891495,20.473516">
+    <text>Granica, rozejscie szlakow niebieski / zielony / zolty - Narty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2851724" lon="20.4691172">
+      <ele>77</ele>
+      <time>2022-01-17T22:21:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2850871" lon="20.4712093">
+      <ele>78</ele>
+      <time>2022-01-17T22:23:38Z</time>
+    </trkpt>
+    <trkpt lat="52.2871511" lon="20.4725021">
+      <ele>83</ele>
+      <time>2022-01-17T22:27:35Z</time>
+    </trkpt>
+    <trkpt lat="52.2891495" lon="20.473516">
+      <ele>85</ele>
+      <time>2022-01-17T22:31:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

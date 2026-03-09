@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:04Z</time>
+    <bounds maxlat="52.2954426" maxlon="20.8319235" minlat="52.2951227" minlon="20.8272873"/>
+  </metadata>
+  <wpt lat="52.295123" lon="20.827287">
+    <ele>99</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12398">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295344" lon="20.831923">
+    <ele>100</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5003">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2951227,20.8272873;52.29539965000875,20.829402799999997;52.2953441,20.8319235">
+    <text>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2951227" lon="20.8272873">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:04Z</time>
+    </trkpt>
+    <trkpt lat="52.2951813" lon="20.8274472">
+      <ele>100</ele>
+      <time>2022-01-18T01:28:16Z</time>
+    </trkpt>
+    <trkpt lat="52.2953406" lon="20.8279302">
+      <ele>100</ele>
+      <time>2022-01-18T01:28:50Z</time>
+    </trkpt>
+    <trkpt lat="52.2954426" lon="20.8284687">
+      <ele>101</ele>
+      <time>2022-01-18T01:29:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2954275" lon="20.8290721">
+      <ele>101</ele>
+      <time>2022-01-18T01:30:03Z</time>
+    </trkpt>
+    <trkpt lat="52.2953718" lon="20.8297335">
+      <ele>100</ele>
+      <time>2022-01-18T01:30:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2953347" lon="20.8302861">
+      <ele>100</ele>
+      <time>2022-01-18T01:31:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2953113" lon="20.8307165">
+      <ele>100</ele>
+      <time>2022-01-18T01:31:47Z</time>
+    </trkpt>
+    <trkpt lat="52.2953688" lon="20.8310054">
+      <ele>100</ele>
+      <time>2022-01-18T01:32:06Z</time>
+    </trkpt>
+    <trkpt lat="52.2953824" lon="20.83124">
+      <ele>100</ele>
+      <time>2022-01-18T01:32:21Z</time>
+    </trkpt>
+    <trkpt lat="52.2953764" lon="20.831538">
+      <ele>100</ele>
+      <time>2022-01-18T01:32:40Z</time>
+    </trkpt>
+    <trkpt lat="52.2953441" lon="20.8319235">
+      <ele>100</ele>
+      <time>2022-01-18T01:33:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

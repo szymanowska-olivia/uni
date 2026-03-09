@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:46Z</time>
+    <bounds maxlat="50.1692765" maxlon="18.916449" minlat="50.1648229" minlon="18.9058187"/>
+  </metadata>
+  <wpt lat="50.169277" lon="18.905819">
+    <ele>287</ele>
+    <name>Mikolow, ul. Sw. Wojciecha</name>
+    <link href="https://mapa-turystyczna.pl/node/9329">
+      <text>Mikolow, ul. Sw. Wojciecha</text>
+    </link>
+  </wpt>
+  <wpt lat="50.164823" lon="18.916449">
+    <ele>323</ele>
+    <name>Mikolow, ul. Cmentarna</name>
+    <link href="https://mapa-turystyczna.pl/node/9330">
+      <text>Mikolow, ul. Cmentarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mikolow, ul. Sw. Wojciecha - Mikolow, ul. Cmentarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1692765,18.9058187;50.167186702561345,18.91051104999998;50.1648229,18.916449">
+    <text>Mikolow, ul. Sw. Wojciecha - Mikolow, ul. Cmentarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1692765" lon="18.9058187">
+      <ele>287</ele>
+      <time>2022-01-18T00:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1692494" lon="18.9059279">
+      <ele>287</ele>
+      <time>2022-01-18T00:08:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1684443" lon="18.9077806">
+      <ele>295</ele>
+      <time>2022-01-18T00:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1682519" lon="18.9076089">
+      <ele>295</ele>
+      <time>2022-01-18T00:12:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1676815" lon="18.9091968">
+      <ele>303</ele>
+      <time>2022-01-18T00:15:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1666919" lon="18.9118253">
+      <ele>310</ele>
+      <time>2022-01-18T00:20:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1666507" lon="18.9119165">
+      <ele>310</ele>
+      <time>2022-01-18T00:20:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1663549" lon="18.912356">
+      <ele>311</ele>
+      <time>2022-01-18T00:21:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1661513" lon="18.9127251">
+      <ele>312</ele>
+      <time>2022-01-18T00:22:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1660329" lon="18.9129825">
+      <ele>313</ele>
+      <time>2022-01-18T00:22:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1655414" lon="18.914294">
+      <ele>316</ele>
+      <time>2022-01-18T00:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1648229" lon="18.916449">
+      <ele>323</ele>
+      <time>2022-01-18T00:28:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

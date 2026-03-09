@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:13Z</time>
+    <bounds maxlat="49.8046979" maxlon="20.4183225" minlat="49.8042826" minlon="20.4180619"/>
+  </metadata>
+  <wpt lat="49.804698" lon="20.418062">
+    <ele>361</ele>
+    <name>Figura sw. Franciszka z Asyzu</name>
+    <link href="https://mapa-turystyczna.pl/node/12309">
+      <text>Figura sw. Franciszka z Asyzu</text>
+    </link>
+  </wpt>
+  <wpt lat="49.804283" lon="20.418322">
+    <ele>357</ele>
+    <name>Zegocina</name>
+    <link href="https://mapa-turystyczna.pl/node/951">
+      <text>Zegocina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Figura sw. Franciszka z Asyzu - Zegocina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8046979,20.4180619;49.80445995032483,20.41827405;49.8042826,20.4183225">
+    <text>Figura sw. Franciszka z Asyzu - Zegocina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8046979" lon="20.4180619">
+      <ele>361</ele>
+      <time>2022-01-18T01:25:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8046373" lon="20.4182256">
+      <ele>361</ele>
+      <time>2022-01-18T01:25:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8042826" lon="20.4183225">
+      <ele>357</ele>
+      <time>2022-01-18T01:26:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

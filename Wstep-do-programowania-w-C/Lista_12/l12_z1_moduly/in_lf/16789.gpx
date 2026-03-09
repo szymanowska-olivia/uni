@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:59Z</time>
+    <bounds maxlat="52.0989202" maxlon="20.9101142" minlat="52.0960136" minlon="20.890223"/>
+  </metadata>
+  <wpt lat="52.098189" lon="20.910114">
+    <ele>124</ele>
+    <name>Magdalenka</name>
+    <link href="https://mapa-turystyczna.pl/node/11480">
+      <text>Magdalenka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.096845" lon="20.890223">
+    <ele>125</ele>
+    <name>Sekocin-Las, ul. Mahoniowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11481">
+      <text>Sekocin-Las, ul. Mahoniowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Magdalenka - Sekocin-Las, ul. Mahoniowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0981892,20.9101142;52.09719340152702,20.900831300000025;52.0968447,20.890223">
+    <text>Magdalenka - Sekocin-Las, ul. Mahoniowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0981892" lon="20.9101142">
+      <ele>124</ele>
+      <time>2022-01-18T01:02:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0989202" lon="20.9044108">
+      <ele>128</ele>
+      <time>2022-01-18T01:08:56Z</time>
+    </trkpt>
+    <trkpt lat="52.0978262" lon="20.9040963">
+      <ele>131</ele>
+      <time>2022-01-18T01:10:47Z</time>
+    </trkpt>
+    <trkpt lat="52.0968243" lon="20.9036959">
+      <ele>131</ele>
+      <time>2022-01-18T01:12:30Z</time>
+    </trkpt>
+    <trkpt lat="52.0975625" lon="20.8979667">
+      <ele>125</ele>
+      <time>2022-01-18T01:18:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0965805" lon="20.8970762">
+      <ele>127</ele>
+      <time>2022-01-18T01:20:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0960136" lon="20.8964325">
+      <ele>127</ele>
+      <time>2022-01-18T01:21:29Z</time>
+    </trkpt>
+    <trkpt lat="52.0964025" lon="20.8942438">
+      <ele>126</ele>
+      <time>2022-01-18T01:23:49Z</time>
+    </trkpt>
+    <trkpt lat="52.0967057" lon="20.891744">
+      <ele>129</ele>
+      <time>2022-01-18T01:26:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0968447" lon="20.890223">
+      <ele>125</ele>
+      <time>2022-01-18T01:27:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

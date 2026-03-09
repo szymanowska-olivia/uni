@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:07Z</time>
+    <bounds maxlat="49.690975" maxlon="20.634604" minlat="49.689817" minlon="20.633123"/>
+  </metadata>
+  <wpt lat="49.690975" lon="20.633123">
+    <ele>564</ele>
+    <name>Odejscie na platforme widokowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11865">
+      <text>Odejscie na platforme widokowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.689817" lon="20.634604">
+    <ele>528</ele>
+    <name>Platforma widokowa na Gorze Zamczysko</name>
+    <link href="https://mapa-turystyczna.pl/node/11866">
+      <text>Platforma widokowa na Gorze Zamczysko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na platforme widokowa - Platforma widokowa na Gorze Zamczysko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.690975,20.633123;49.69040650005112,20.634059500000014;49.689817,20.634604">
+    <text>Odejscie na platforme widokowa - Platforma widokowa na Gorze Zamczysko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.690975" lon="20.633123">
+      <ele>564</ele>
+      <time>2022-01-18T01:14:07Z</time>
+    </trkpt>
+    <trkpt lat="49.690726" lon="20.633515">
+      <ele>557</ele>
+      <time>2022-01-18T01:14:48Z</time>
+    </trkpt>
+    <trkpt lat="49.69061" lon="20.633783">
+      <ele>554</ele>
+      <time>2022-01-18T01:15:12Z</time>
+    </trkpt>
+    <trkpt lat="49.690477" lon="20.633987">
+      <ele>552</ele>
+      <time>2022-01-18T01:15:34Z</time>
+    </trkpt>
+    <trkpt lat="49.690336" lon="20.634132">
+      <ele>549</ele>
+      <time>2022-01-18T01:15:53Z</time>
+    </trkpt>
+    <trkpt lat="49.690189" lon="20.63432">
+      <ele>546</ele>
+      <time>2022-01-18T01:16:15Z</time>
+    </trkpt>
+    <trkpt lat="49.690079" lon="20.634457">
+      <ele>542</ele>
+      <time>2022-01-18T01:16:32Z</time>
+    </trkpt>
+    <trkpt lat="49.689972" lon="20.63451">
+      <ele>537</ele>
+      <time>2022-01-18T01:16:46Z</time>
+    </trkpt>
+    <trkpt lat="49.689817" lon="20.634604">
+      <ele>528</ele>
+      <time>2022-01-18T01:17:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:57Z</time>
+    <bounds maxlat="52.2738214" maxlon="16.8164395" minlat="52.2686379" minlon="16.8140264"/>
+  </metadata>
+  <wpt lat="52.268638" lon="16.81644">
+    <ele>97</ele>
+    <name>Jeziory, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/11637">
+      <text>Jeziory, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.273821" lon="16.814026">
+    <ele>103</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11629">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jeziory, skrzyzowanie - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2686379,16.8164395;52.27170060462152,16.815105250000002;52.2738214,16.8140264">
+    <text>Jeziory, skrzyzowanie - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2686379" lon="16.8164395">
+      <ele>97</ele>
+      <time>2022-01-18T01:06:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2710605" lon="16.8154003">
+      <ele>99</ele>
+      <time>2022-01-18T01:11:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2723407" lon="16.8148102">
+      <ele>100</ele>
+      <time>2022-01-18T01:14:04Z</time>
+    </trkpt>
+    <trkpt lat="52.2735093" lon="16.8142202">
+      <ele>103</ele>
+      <time>2022-01-18T01:16:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2738214" lon="16.8140264">
+      <ele>103</ele>
+      <time>2022-01-18T01:16:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

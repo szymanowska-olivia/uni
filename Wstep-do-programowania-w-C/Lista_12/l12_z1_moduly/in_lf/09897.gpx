@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:17Z</time>
+    <bounds maxlat="48.8887974" maxlon="20.4264915" minlat="48.8873371" minlon="20.4209232"/>
+  </metadata>
+  <wpt lat="48.888494" lon="20.420923">
+    <ele>1045</ele>
+    <name>Predny Hyl</name>
+    <link href="https://mapa-turystyczna.pl/node/6967">
+      <text>Predny Hyl</text>
+    </link>
+  </wpt>
+  <wpt lat="48.888797" lon="20.426492">
+    <ele>1020</ele>
+    <name>Zadny Hyl</name>
+    <link href="https://mapa-turystyczna.pl/node/6968">
+      <text>Zadny Hyl</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Predny Hyl - Zadny Hyl</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8884941,20.4209232;48.887492300240865,20.423417650000005;48.8887974,20.4264915">
+    <text>Predny Hyl - Zadny Hyl</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8884941" lon="20.4209232">
+      <ele>1045</ele>
+      <time>2022-01-17T23:06:17Z</time>
+    </trkpt>
+    <trkpt lat="48.8880637" lon="20.4218459">
+      <ele>1046</ele>
+      <time>2022-01-17T23:07:53Z</time>
+    </trkpt>
+    <trkpt lat="48.8875135" lon="20.4224145">
+      <ele>1043</ele>
+      <time>2022-01-17T23:09:18Z</time>
+    </trkpt>
+    <trkpt lat="48.8873371" lon="20.4227149">
+      <ele>1038</ele>
+      <time>2022-01-17T23:09:53Z</time>
+    </trkpt>
+    <trkpt lat="48.8873371" lon="20.4230046">
+      <ele>1033</ele>
+      <time>2022-01-17T23:10:18Z</time>
+    </trkpt>
+    <trkpt lat="48.8876475" lon="20.4238307">
+      <ele>1035</ele>
+      <time>2022-01-17T23:11:38Z</time>
+    </trkpt>
+    <trkpt lat="48.8877674" lon="20.4244691">
+      <ele>1035</ele>
+      <time>2022-01-17T23:12:34Z</time>
+    </trkpt>
+    <trkpt lat="48.8879156" lon="20.4251075">
+      <ele>1032</ele>
+      <time>2022-01-17T23:13:31Z</time>
+    </trkpt>
+    <trkpt lat="48.8880708" lon="20.4255474">
+      <ele>1026</ele>
+      <time>2022-01-17T23:14:14Z</time>
+    </trkpt>
+    <trkpt lat="48.8887974" lon="20.4264915">
+      <ele>1020</ele>
+      <time>2022-01-17T23:16:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:59Z</time>
+    <bounds maxlat="50.2224498" maxlon="19.0593019" minlat="50.2211373" minlon="19.0551508"/>
+  </metadata>
+  <wpt lat="50.22237" lon="19.055151">
+    <ele>284</ele>
+    <name>Staw Janina</name>
+    <link href="https://mapa-turystyczna.pl/node/9101">
+      <text>Staw Janina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.221137" lon="19.059302">
+    <ele>288</ele>
+    <name>Giszowiec, ul. Pszczynska</name>
+    <link href="https://mapa-turystyczna.pl/node/9120">
+      <text>Giszowiec, ul. Pszczynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Staw Janina - Giszowiec, ul. Pszczynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2223697,19.0551508;50.22236745001236,19.056895400000005;50.2211373,19.0593019">
+    <text>Staw Janina - Giszowiec, ul. Pszczynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2223697" lon="19.0551508">
+      <ele>284</ele>
+      <time>2022-01-18T00:03:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2223331" lon="19.055506">
+      <ele>284</ele>
+      <time>2022-01-18T00:04:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2224018" lon="19.0582848">
+      <ele>289</ele>
+      <time>2022-01-18T00:06:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2224498" lon="19.0588427">
+      <ele>287</ele>
+      <time>2022-01-18T00:07:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2211373" lon="19.0593019">
+      <ele>288</ele>
+      <time>2022-01-18T00:08:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

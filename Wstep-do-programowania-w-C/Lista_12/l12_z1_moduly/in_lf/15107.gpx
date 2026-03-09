@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:19Z</time>
+    <bounds maxlat="51.2590033" maxlon="16.7097567" minlat="51.2480482" minlon="16.6997999"/>
+  </metadata>
+  <wpt lat="51.259003" lon="16.6998">
+    <ele>109</ele>
+    <name>Brzeg Dolny, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/10185">
+      <text>Brzeg Dolny, cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.248048" lon="16.709754">
+    <ele>103</ele>
+    <name>Brzeg Dolny, Most Wolnosci 4 czerwca</name>
+    <link href="https://mapa-turystyczna.pl/node/10296">
+      <text>Brzeg Dolny, Most Wolnosci 4 czerwca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzeg Dolny, cmentarz - Brzeg Dolny, Most Wolnosci 4 czerwca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2590033,16.6997999;51.253891593544445,16.70464709999998;51.2480482,16.7097536">
+    <text>Brzeg Dolny, cmentarz - Brzeg Dolny, Most Wolnosci 4 czerwca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2590033" lon="16.6997999">
+      <ele>109</ele>
+      <time>2022-01-18T00:33:19Z</time>
+    </trkpt>
+    <trkpt lat="51.2558926" lon="16.7029439">
+      <ele>102</ele>
+      <time>2022-01-18T00:39:09Z</time>
+    </trkpt>
+    <trkpt lat="51.2518905" lon="16.7063503">
+      <ele>103</ele>
+      <time>2022-01-18T00:46:21Z</time>
+    </trkpt>
+    <trkpt lat="51.2480493" lon="16.7097567">
+      <ele>103</ele>
+      <time>2022-01-18T00:53:19Z</time>
+    </trkpt>
+    <trkpt lat="51.2480482" lon="16.7097536">
+      <ele>103</ele>
+      <time>2022-01-18T00:53:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

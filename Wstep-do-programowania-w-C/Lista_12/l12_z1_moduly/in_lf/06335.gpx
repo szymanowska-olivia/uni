@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:33Z</time>
+    <bounds maxlat="50.2018372" maxlon="19.8188853" minlat="50.2003343" minlon="19.8174886"/>
+  </metadata>
+  <wpt lat="50.200334" lon="19.81788">
+    <ele>459</ele>
+    <name>Skrzyzowanie przy Grocie Lokietka</name>
+    <link href="https://mapa-turystyczna.pl/node/4405">
+      <text>Skrzyzowanie przy Grocie Lokietka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.201672" lon="19.818885">
+    <ele>469</ele>
+    <name>Grota Lokietka</name>
+    <link href="https://mapa-turystyczna.pl/node/4404">
+      <text>Grota Lokietka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Grocie Lokietka - Grota Lokietka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2003343,19.8178795;50.20123745051599,19.8175071;50.2016718,19.8188853">
+    <text>Skrzyzowanie przy Grocie Lokietka - Grota Lokietka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2003343" lon="19.8178795">
+      <ele>459</ele>
+      <time>2022-01-17T22:05:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2006955" lon="19.8176384">
+      <ele>462</ele>
+      <time>2022-01-17T22:06:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2010155" lon="19.8174886">
+      <ele>463</ele>
+      <time>2022-01-17T22:07:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2014594" lon="19.8175256">
+      <ele>464</ele>
+      <time>2022-01-17T22:08:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2016829" lon="19.8178057">
+      <ele>464</ele>
+      <time>2022-01-17T22:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2018028" lon="19.818223">
+      <ele>463</ele>
+      <time>2022-01-17T22:09:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2018372" lon="19.8186414">
+      <ele>464</ele>
+      <time>2022-01-17T22:10:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2016718" lon="19.8188853">
+      <ele>469</ele>
+      <time>2022-01-17T22:10:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

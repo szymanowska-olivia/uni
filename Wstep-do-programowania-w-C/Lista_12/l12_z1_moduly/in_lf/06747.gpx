@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:12:01Z</time>
+    <bounds maxlat="49.795571" maxlon="19.448162" minlat="49.795338" minlon="19.447673"/>
+  </metadata>
+  <wpt lat="49.795571" lon="19.448162">
+    <ele>857</ele>
+    <name>Skrzyzowanie przy schronisku Leskowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/4657">
+      <text>Skrzyzowanie przy schronisku Leskowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.795338" lon="19.447673">
+    <ele>890</ele>
+    <name>Schronisko PTTK Leskowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/1060">
+      <text>Schronisko PTTK Leskowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy schronisku Leskowiec - Schronisko PTTK Leskowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.795571,19.448162;49.79545450014013,19.4479175;49.795338,19.447673">
+    <text>Skrzyzowanie przy schronisku Leskowiec - Schronisko PTTK Leskowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.795571" lon="19.448162">
+      <ele>857</ele>
+      <time>2022-01-17T22:12:01Z</time>
+    </trkpt>
+    <trkpt lat="49.795338" lon="19.447673">
+      <ele>890</ele>
+      <time>2022-01-17T22:17:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

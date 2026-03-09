@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:00Z</time>
+    <bounds maxlat="50.2538526" maxlon="17.3705839" minlat="50.2537918" minlon="17.370479"/>
+  </metadata>
+  <wpt lat="50.253853" lon="17.370479">
+    <ele>478</ele>
+    <name>Nahon</name>
+    <link href="https://mapa-turystyczna.pl/node/2652">
+      <text>Nahon</text>
+    </link>
+  </wpt>
+  <wpt lat="50.253792" lon="17.370584">
+    <ele>478</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13523">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nahon - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2538526,17.370479;50.253822200009715,17.370531449999973;50.2537918,17.3705839">
+    <text>Nahon - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2538526" lon="17.370479">
+      <ele>478</ele>
+      <time>2022-01-18T02:00:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2537918" lon="17.3705839">
+      <ele>478</ele>
+      <time>2022-01-18T02:01:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

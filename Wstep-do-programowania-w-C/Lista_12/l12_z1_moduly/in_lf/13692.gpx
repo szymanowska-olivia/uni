@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:12Z</time>
+    <bounds maxlat="50.5488129" maxlon="16.0558319" minlat="50.5474378" minlon="16.053304"/>
+  </metadata>
+  <wpt lat="50.548813" lon="16.053304">
+    <ele>690</ele>
+    <name>Bily kul</name>
+    <link href="https://mapa-turystyczna.pl/node/9426">
+      <text>Bily kul</text>
+    </link>
+  </wpt>
+  <wpt lat="50.547438" lon="16.055832">
+    <ele>694</ele>
+    <name>Panska cesta</name>
+    <link href="https://mapa-turystyczna.pl/node/6249">
+      <text>Panska cesta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily kul - Panska cesta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5488129,16.053304;50.54842020163536,16.053961800000014;50.5474378,16.0558319">
+    <text>Bily kul - Panska cesta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5488129" lon="16.053304">
+      <ele>690</ele>
+      <time>2022-01-18T00:11:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5480275" lon="16.0546196">
+      <ele>695</ele>
+      <time>2022-01-18T00:13:55Z</time>
+    </trkpt>
+    <trkpt lat="50.5474378" lon="16.0558319">
+      <ele>694</ele>
+      <time>2022-01-18T00:16:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:16Z</time>
+    <bounds maxlat="49.255963" maxlon="19.867864" minlat="49.255453" minlon="19.867438"/>
+  </metadata>
+  <wpt lat="49.255963" lon="19.867864">
+    <ele>988</ele>
+    <name>Odejscie do Jaskini Mroznej</name>
+    <link href="https://mapa-turystyczna.pl/node/2480">
+      <text>Odejscie do Jaskini Mroznej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.255453" lon="19.867438">
+    <ele>992</ele>
+    <name>Lodowe Zrodlo</name>
+    <link href="https://mapa-turystyczna.pl/node/237">
+      <text>Lodowe Zrodlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Jaskini Mroznej - Lodowe Zrodlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.255963,19.867864;49.25577850006565,19.867647999999996;49.255453,19.867438">
+    <text>Odejscie do Jaskini Mroznej - Lodowe Zrodlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.255963" lon="19.867864">
+      <ele>988</ele>
+      <time>2022-01-17T21:31:16Z</time>
+    </trkpt>
+    <trkpt lat="49.255859" lon="19.867731">
+      <ele>990</ele>
+      <time>2022-01-17T21:31:58Z</time>
+    </trkpt>
+    <trkpt lat="49.255698" lon="19.867565">
+      <ele>992</ele>
+      <time>2022-01-17T21:32:57Z</time>
+    </trkpt>
+    <trkpt lat="49.255577" lon="19.867496">
+      <ele>992</ele>
+      <time>2022-01-17T21:33:36Z</time>
+    </trkpt>
+    <trkpt lat="49.255453" lon="19.867438">
+      <ele>992</ele>
+      <time>2022-01-17T21:34:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

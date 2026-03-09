@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:56Z</time>
+    <bounds maxlat="50.201104" maxlon="19.274644" minlat="50.200401" minlon="19.273831"/>
+  </metadata>
+  <wpt lat="50.201104" lon="19.273831">
+    <ele>302</ele>
+    <name>Jaworzno</name>
+    <link href="https://mapa-turystyczna.pl/node/9168">
+      <text>Jaworzno</text>
+    </link>
+  </wpt>
+  <wpt lat="50.200401" lon="19.274644">
+    <ele>304</ele>
+    <name>Jaworzno, siedziba PTTK</name>
+    <link href="https://mapa-turystyczna.pl/node/10601">
+      <text>Jaworzno, siedziba PTTK</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzno - Jaworzno, siedziba PTTK</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.201104,19.273831;50.20069100005582,19.274348500000027;50.200401,19.274644">
+    <text>Jaworzno - Jaworzno, siedziba PTTK</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.201104" lon="19.273831">
+      <ele>302</ele>
+      <time>2022-01-18T00:40:56Z</time>
+    </trkpt>
+    <trkpt lat="50.200969" lon="19.274007">
+      <ele>302</ele>
+      <time>2022-01-18T00:41:20Z</time>
+    </trkpt>
+    <trkpt lat="50.200764" lon="19.274257">
+      <ele>304</ele>
+      <time>2022-01-18T00:41:54Z</time>
+    </trkpt>
+    <trkpt lat="50.200618" lon="19.27444">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:19Z</time>
+    </trkpt>
+    <trkpt lat="50.200505" lon="19.274584">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:39Z</time>
+    </trkpt>
+    <trkpt lat="50.20048" lon="19.274614">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:43Z</time>
+    </trkpt>
+    <trkpt lat="50.200456" lon="19.274619">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:46Z</time>
+    </trkpt>
+    <trkpt lat="50.200433" lon="19.274596">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:50Z</time>
+    </trkpt>
+    <trkpt lat="50.20042" lon="19.274615">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:52Z</time>
+    </trkpt>
+    <trkpt lat="50.200401" lon="19.274644">
+      <ele>304</ele>
+      <time>2022-01-18T00:42:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

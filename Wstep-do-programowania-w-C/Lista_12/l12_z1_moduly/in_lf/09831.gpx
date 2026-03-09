@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:01Z</time>
+    <bounds maxlat="50.0290337" maxlon="17.0781827" minlat="50.0280826" minlon="17.0781505"/>
+  </metadata>
+  <wpt lat="50.029034" lon="17.07815">
+    <ele>507</ele>
+    <name>Nad Marsikovem</name>
+    <link href="https://mapa-turystyczna.pl/node/6910">
+      <text>Nad Marsikovem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.028083" lon="17.078161">
+    <ele>513</ele>
+    <name>Nad Marsikovem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6911">
+      <text>Nad Marsikovem, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Marsikovem - Nad Marsikovem, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0290337,17.0781505;50.02834105069539,17.07817194999997;50.0280826,17.0781612">
+    <text>Nad Marsikovem - Nad Marsikovem, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0290337" lon="17.0781505">
+      <ele>507</ele>
+      <time>2022-01-17T23:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0285995" lon="17.0781827">
+      <ele>509</ele>
+      <time>2022-01-17T23:05:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0280826" lon="17.0781612">
+      <ele>513</ele>
+      <time>2022-01-17T23:07:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

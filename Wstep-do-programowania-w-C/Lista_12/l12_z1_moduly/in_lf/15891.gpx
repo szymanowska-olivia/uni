@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:27Z</time>
+    <bounds maxlat="54.3650176" maxlon="18.5453993" minlat="54.3633655" minlon="18.5446751"/>
+  </metadata>
+  <wpt lat="54.365018" lon="18.545399">
+    <ele>98</ele>
+    <name>Skrzyzowanie szlakow zielony / niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10883">
+      <text>Skrzyzowanie szlakow zielony / niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="54.363366" lon="18.544675">
+    <ele>87</ele>
+    <name>Dolina Strzyzy</name>
+    <link href="https://mapa-turystyczna.pl/node/10777">
+      <text>Dolina Strzyzy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zielony / niebieski / zolty - Dolina Strzyzy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3650176,18.5453993;54.36418315146532,18.544980900000006;54.3633655,18.5446751">
+    <text>Skrzyzowanie szlakow zielony / niebieski / zolty - Dolina Strzyzy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3650176" lon="18.5453993">
+      <ele>98</ele>
+      <time>2022-01-18T00:47:27Z</time>
+    </trkpt>
+    <trkpt lat="54.3645301" lon="18.5451418">
+      <ele>101</ele>
+      <time>2022-01-18T00:48:21Z</time>
+    </trkpt>
+    <trkpt lat="54.3638362" lon="18.54482">
+      <ele>93</ele>
+      <time>2022-01-18T00:49:36Z</time>
+    </trkpt>
+    <trkpt lat="54.3633655" lon="18.5446751">
+      <ele>87</ele>
+      <time>2022-01-18T00:50:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

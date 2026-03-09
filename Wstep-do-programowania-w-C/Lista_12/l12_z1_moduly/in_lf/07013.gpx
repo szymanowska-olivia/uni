@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:21Z</time>
+    <bounds maxlat="50.691306" maxlon="16.5548891" minlat="50.6891564" minlon="16.551673"/>
+  </metadata>
+  <wpt lat="50.691306" lon="16.554889">
+    <ele>366</ele>
+    <name>Pieszyce Mostek</name>
+    <link href="https://mapa-turystyczna.pl/node/2048">
+      <text>Pieszyce Mostek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.689156" lon="16.551673">
+    <ele>379</ele>
+    <name>Rozdroze nad Pieszycami</name>
+    <link href="https://mapa-turystyczna.pl/node/4794">
+      <text>Rozdroze nad Pieszycami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pieszyce Mostek - Rozdroze nad Pieszycami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.691306,16.5548891;50.69036790048086,16.553228550000014;50.6891564,16.551673">
+    <text>Pieszyce Mostek - Rozdroze nad Pieszycami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.691306" lon="16.5548891">
+      <ele>366</ele>
+      <time>2022-01-17T22:16:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6912022" lon="16.5546152">
+      <ele>369</ele>
+      <time>2022-01-17T22:16:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6909847" lon="16.55417">
+      <ele>371</ele>
+      <time>2022-01-17T22:17:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6905803" lon="16.5534887">
+      <ele>373</ele>
+      <time>2022-01-17T22:18:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6901555" lon="16.5529684">
+      <ele>373</ele>
+      <time>2022-01-17T22:19:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6894316" lon="16.5519598">
+      <ele>378</ele>
+      <time>2022-01-17T22:20:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6891564" lon="16.551673">
+      <ele>379</ele>
+      <time>2022-01-17T22:21:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

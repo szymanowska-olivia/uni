@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:30Z</time>
+    <bounds maxlat="52.0407035" maxlon="20.7675965" minlat="52.0204588" minlon="20.7508171"/>
+  </metadata>
+  <wpt lat="52.020459" lon="20.767596">
+    <ele>153</ele>
+    <name>Rezerwat Mlochowski Leg</name>
+    <link href="https://mapa-turystyczna.pl/node/11951">
+      <text>Rezerwat Mlochowski Leg</text>
+    </link>
+  </wpt>
+  <wpt lat="52.040703" lon="20.751664">
+    <ele>156</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11952">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Mlochowski Leg - Rozejscie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0204588,20.7675965;52.03241062736205,20.754528850000025;52.0407035,20.7516642">
+    <text>Rezerwat Mlochowski Leg - Rozejscie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0204588" lon="20.7675965">
+      <ele>153</ele>
+      <time>2022-01-18T01:16:30Z</time>
+    </trkpt>
+    <trkpt lat="52.0290357" lon="20.7582406">
+      <ele>162</ele>
+      <time>2022-01-18T01:34:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0357853" lon="20.7508171">
+      <ele>156</ele>
+      <time>2022-01-18T01:48:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0358909" lon="20.7508279">
+      <ele>155</ele>
+      <time>2022-01-18T01:48:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0360493" lon="20.7509137">
+      <ele>155</ele>
+      <time>2022-01-18T01:48:30Z</time>
+    </trkpt>
+    <trkpt lat="52.0378775" lon="20.7513858">
+      <ele>160</ele>
+      <time>2022-01-18T01:51:40Z</time>
+    </trkpt>
+    <trkpt lat="52.0407035" lon="20.7516642">
+      <ele>156</ele>
+      <time>2022-01-18T01:56:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

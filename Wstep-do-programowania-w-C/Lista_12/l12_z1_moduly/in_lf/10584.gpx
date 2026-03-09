@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:18:41Z</time>
+    <bounds maxlat="49.6609056" maxlon="18.5732594" minlat="49.6607725" minlon="18.571701"/>
+  </metadata>
+  <wpt lat="49.660906" lon="18.571701">
+    <ele>390</ele>
+    <name>Smilovice, posta</name>
+    <link href="https://mapa-turystyczna.pl/node/7431">
+      <text>Smilovice, posta</text>
+    </link>
+  </wpt>
+  <wpt lat="49.660846" lon="18.573259">
+    <ele>392</ele>
+    <name>Smilovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7510">
+      <text>Smilovice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smilovice, posta - Smilovice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6609056,18.571701;49.660810700003765,18.572462800000007;49.6608455,18.5732594">
+    <text>Smilovice, posta - Smilovice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6609056" lon="18.571701">
+      <ele>390</ele>
+      <time>2022-01-17T23:18:41Z</time>
+    </trkpt>
+    <trkpt lat="49.6608663" lon="18.5721382">
+      <ele>390</ele>
+      <time>2022-01-17T23:19:14Z</time>
+    </trkpt>
+    <trkpt lat="49.6608298" lon="18.5723689">
+      <ele>390</ele>
+      <time>2022-01-17T23:19:32Z</time>
+    </trkpt>
+    <trkpt lat="49.6607916" lon="18.5725567">
+      <ele>391</ele>
+      <time>2022-01-17T23:19:47Z</time>
+    </trkpt>
+    <trkpt lat="49.6607725" lon="18.5727283">
+      <ele>391</ele>
+      <time>2022-01-17T23:20:00Z</time>
+    </trkpt>
+    <trkpt lat="49.6607812" lon="18.572892">
+      <ele>391</ele>
+      <time>2022-01-17T23:20:12Z</time>
+    </trkpt>
+    <trkpt lat="49.6608003" lon="18.5730663">
+      <ele>392</ele>
+      <time>2022-01-17T23:20:26Z</time>
+    </trkpt>
+    <trkpt lat="49.6608455" lon="18.5732594">
+      <ele>392</ele>
+      <time>2022-01-17T23:20:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

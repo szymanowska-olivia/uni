@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:47Z</time>
+    <bounds maxlat="50.4319646" maxlon="19.60366" minlat="50.430976" minlon="19.602976"/>
+  </metadata>
+  <wpt lat="50.431137" lon="19.60366">
+    <ele>400</ele>
+    <name>Ryczow, studnia</name>
+    <link href="https://mapa-turystyczna.pl/node/4558">
+      <text>Ryczow, studnia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.431965" lon="19.60322">
+    <ele>400</ele>
+    <name>Ryczow, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4557">
+      <text>Ryczow, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ryczow, studnia - Ryczow, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.431137,19.60366;50.4314005006574,19.603029000000006;50.4319646,19.6032196">
+    <text>Ryczow, studnia - Ryczow, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.431137" lon="19.60366">
+      <ele>400</ele>
+      <time>2022-01-17T22:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.430976" lon="19.603057">
+      <ele>400</ele>
+      <time>2022-01-17T22:09:22Z</time>
+    </trkpt>
+    <trkpt lat="50.43105" lon="19.603013">
+      <ele>400</ele>
+      <time>2022-01-17T22:09:28Z</time>
+    </trkpt>
+    <trkpt lat="50.431151" lon="19.602976">
+      <ele>400</ele>
+      <time>2022-01-17T22:09:37Z</time>
+    </trkpt>
+    <trkpt lat="50.43165" lon="19.603082">
+      <ele>401</ele>
+      <time>2022-01-17T22:10:19Z</time>
+    </trkpt>
+    <trkpt lat="50.431792" lon="19.60312">
+      <ele>401</ele>
+      <time>2022-01-17T22:10:31Z</time>
+    </trkpt>
+    <trkpt lat="50.43193" lon="19.603225">
+      <ele>400</ele>
+      <time>2022-01-17T22:10:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4319646" lon="19.6032196">
+      <ele>400</ele>
+      <time>2022-01-17T22:10:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

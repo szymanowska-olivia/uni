@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:47Z</time>
+    <bounds maxlat="50.4929548" maxlon="16.3626552" minlat="50.4904293" minlon="16.358664"/>
+  </metadata>
+  <wpt lat="50.490429" lon="16.358664">
+    <ele>505</ele>
+    <name>Wodospad Posny</name>
+    <link href="https://mapa-turystyczna.pl/node/1854">
+      <text>Wodospad Posny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.492955" lon="16.362655">
+    <ele>465</ele>
+    <name>Pusta Sciezka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/1853">
+      <text>Pusta Sciezka, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wodospad Posny - Pusta Sciezka, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4904293,16.358664;50.49164945153264,16.3612537;50.4929548,16.3626552">
+    <text>Wodospad Posny - Pusta Sciezka, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4904293" lon="16.358664">
+      <ele>505</ele>
+      <time>2022-01-17T21:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.490489" lon="16.359014">
+      <ele>498</ele>
+      <time>2022-01-17T21:18:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4907945" lon="16.3598791">
+      <ele>481</ele>
+      <time>2022-01-17T21:18:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4912689" lon="16.3607937">
+      <ele>479</ele>
+      <time>2022-01-17T21:19:59Z</time>
+    </trkpt>
+    <trkpt lat="50.49203" lon="16.3617137">
+      <ele>470</ele>
+      <time>2022-01-17T21:21:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4926016" lon="16.3621845">
+      <ele>464</ele>
+      <time>2022-01-17T21:22:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4929548" lon="16.3626552">
+      <ele>465</ele>
+      <time>2022-01-17T21:22:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:23Z</time>
+    <bounds maxlat="49.195937" maxlon="19.839974" minlat="49.195685" minlon="19.83963"/>
+  </metadata>
+  <wpt lat="49.195685" lon="19.839974">
+    <ele>1943</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12687">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.195937" lon="19.839631">
+    <ele>1953</ele>
+    <name>Bystry Karb</name>
+    <link href="https://mapa-turystyczna.pl/node/1452">
+      <text>Bystry Karb</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Bystry Karb</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.195685,19.839974;49.195791500002755,19.839748500000013;49.195937,19.839631">
+    <text>Rozejscie szlakow - Bystry Karb</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.195685" lon="19.839974">
+      <ele>1943</ele>
+      <time>2022-01-18T01:36:23Z</time>
+    </trkpt>
+    <trkpt lat="49.1957" lon="19.839909">
+      <ele>1945</ele>
+      <time>2022-01-18T01:36:51Z</time>
+    </trkpt>
+    <trkpt lat="49.195734" lon="19.839889">
+      <ele>1946</ele>
+      <time>2022-01-18T01:37:12Z</time>
+    </trkpt>
+    <trkpt lat="49.195742" lon="19.839828">
+      <ele>1948</ele>
+      <time>2022-01-18T01:37:39Z</time>
+    </trkpt>
+    <trkpt lat="49.195777" lon="19.839816">
+      <ele>1948</ele>
+      <time>2022-01-18T01:37:59Z</time>
+    </trkpt>
+    <trkpt lat="49.195775" lon="19.839763">
+      <ele>1950</ele>
+      <time>2022-01-18T01:38:23Z</time>
+    </trkpt>
+    <trkpt lat="49.195808" lon="19.839734">
+      <ele>1951</ele>
+      <time>2022-01-18T01:38:45Z</time>
+    </trkpt>
+    <trkpt lat="49.195818" lon="19.839687">
+      <ele>1952</ele>
+      <time>2022-01-18T01:39:05Z</time>
+    </trkpt>
+    <trkpt lat="49.195839" lon="19.839645">
+      <ele>1953</ele>
+      <time>2022-01-18T01:39:25Z</time>
+    </trkpt>
+    <trkpt lat="49.195863" lon="19.83963">
+      <ele>1953</ele>
+      <time>2022-01-18T01:39:40Z</time>
+    </trkpt>
+    <trkpt lat="49.195891" lon="19.839633">
+      <ele>1953</ele>
+      <time>2022-01-18T01:39:56Z</time>
+    </trkpt>
+    <trkpt lat="49.195937" lon="19.839631">
+      <ele>1953</ele>
+      <time>2022-01-18T01:40:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

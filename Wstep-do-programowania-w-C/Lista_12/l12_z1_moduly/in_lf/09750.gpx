@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:27Z</time>
+    <bounds maxlat="50.1046642" maxlon="17.0504969" minlat="50.1031434" minlon="17.0477021"/>
+  </metadata>
+  <wpt lat="50.104664" lon="17.047702">
+    <ele>905</ele>
+    <name>Tri kameny, vyhlidka odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/6845">
+      <text>Tri kameny, vyhlidka odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.103143" lon="17.050497">
+    <ele>900</ele>
+    <name>Tri kameny, utulna</name>
+    <link href="https://mapa-turystyczna.pl/node/6847">
+      <text>Tri kameny, utulna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tri kameny, vyhlidka odbocka - Tri kameny, utulna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1046642,17.0477021;50.103754153893654,17.04962250000001;50.1031434,17.0504969">
+    <text>Tri kameny, vyhlidka odbocka - Tri kameny, utulna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1046642" lon="17.0477021">
+      <ele>905</ele>
+      <time>2022-01-17T23:03:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1045507" lon="17.0480722">
+      <ele>905</ele>
+      <time>2022-01-17T23:04:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1044922" lon="17.048437">
+      <ele>906</ele>
+      <time>2022-01-17T23:04:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1043649" lon="17.0487481">
+      <ele>905</ele>
+      <time>2022-01-17T23:05:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1031434" lon="17.0504969">
+      <ele>900</ele>
+      <time>2022-01-17T23:08:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

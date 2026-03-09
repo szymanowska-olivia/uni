@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:33Z</time>
+    <bounds maxlat="50.2314773" maxlon="16.8843234" minlat="50.2287731" minlon="16.883862"/>
+  </metadata>
+  <wpt lat="50.231477" lon="16.884141">
+    <ele>662</ele>
+    <name>Kamienica</name>
+    <link href="https://mapa-turystyczna.pl/node/1722">
+      <text>Kamienica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.228773" lon="16.883862">
+    <ele>681</ele>
+    <name>Lesniczowka Kamienica</name>
+    <link href="https://mapa-turystyczna.pl/node/1723">
+      <text>Lesniczowka Kamienica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienica - Lesniczowka Kamienica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2314773,16.884141;50.22967565854112,16.884092699999975;50.2287731,16.883862">
+    <text>Kamienica - Lesniczowka Kamienica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2314773" lon="16.884141">
+      <ele>662</ele>
+      <time>2022-01-17T21:15:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2305782" lon="16.8843234">
+      <ele>670</ele>
+      <time>2022-01-17T21:17:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2287731" lon="16.883862">
+      <ele>681</ele>
+      <time>2022-01-17T21:20:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

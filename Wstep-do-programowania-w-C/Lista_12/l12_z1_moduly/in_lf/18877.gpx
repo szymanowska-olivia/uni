@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:44Z</time>
+    <bounds maxlat="49.290957" maxlon="20.262815" minlat="49.290923" minlon="20.262353"/>
+  </metadata>
+  <wpt lat="49.290923" lon="20.262353">
+    <ele>1173</ele>
+    <name>Magurka</name>
+    <link href="https://mapa-turystyczna.pl/node/2941">
+      <text>Magurka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.290957" lon="20.262815">
+    <ele>1173</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12782">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Magurka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.290923,20.262353;49.29094950000032,20.26257100000001;49.290957,20.262815">
+    <text>Magurka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.290923" lon="20.262353">
+      <ele>1173</ele>
+      <time>2022-01-18T01:38:44Z</time>
+    </trkpt>
+    <trkpt lat="49.290944" lon="20.2625">
+      <ele>1173</ele>
+      <time>2022-01-18T01:39:03Z</time>
+    </trkpt>
+    <trkpt lat="49.290955" lon="20.262642">
+      <ele>1173</ele>
+      <time>2022-01-18T01:39:22Z</time>
+    </trkpt>
+    <trkpt lat="49.290957" lon="20.262815">
+      <ele>1173</ele>
+      <time>2022-01-18T01:39:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

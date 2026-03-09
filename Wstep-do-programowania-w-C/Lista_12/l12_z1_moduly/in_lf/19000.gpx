@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:49Z</time>
+    <bounds maxlat="51.4885982" maxlon="23.166666" minlat="51.4885442" minlon="23.166446"/>
+  </metadata>
+  <wpt lat="51.488598" lon="23.166666">
+    <ele>171</ele>
+    <name>Pieszowola, poczatek sciezki "Perehod"</name>
+    <link href="https://mapa-turystyczna.pl/node/12850">
+      <text>Pieszowola, poczatek sciezki "Perehod"</text>
+    </link>
+  </wpt>
+  <wpt lat="51.488558" lon="23.166446">
+    <ele>171</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12867">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pieszowola, poczatek sciezki &quot;Perehod&quot; - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4885982,23.166666;51.48855090000048,23.166511200000016;51.4885576,23.166446">
+    <text>Pieszowola, poczatek sciezki &quot;Perehod&quot; - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4885982" lon="23.166666">
+      <ele>171</ele>
+      <time>2022-01-18T01:40:49Z</time>
+    </trkpt>
+    <trkpt lat="51.4885442" lon="23.1665764">
+      <ele>172</ele>
+      <time>2022-01-18T01:41:18Z</time>
+    </trkpt>
+    <trkpt lat="51.4885576" lon="23.166446">
+      <ele>171</ele>
+      <time>2022-01-18T01:41:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

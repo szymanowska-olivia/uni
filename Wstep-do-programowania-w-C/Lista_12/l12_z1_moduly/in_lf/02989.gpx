@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:30Z</time>
+    <bounds maxlat="50.2265768" maxlon="17.0834988" minlat="50.2248007" minlon="17.0795238"/>
+  </metadata>
+  <wpt lat="50.226577" lon="17.083456">
+    <ele>591</ele>
+    <name>Horni Lipova</name>
+    <link href="https://mapa-turystyczna.pl/node/2149">
+      <text>Horni Lipova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.224826" lon="17.083499">
+    <ele>608</ele>
+    <name>Horni Lipova, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/2148">
+      <text>Horni Lipova, vlak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Lipova - Horni Lipova, vlak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2265768,17.0834559;50.22545605000076,17.079566700000022;50.2248264,17.0834988">
+    <text>Horni Lipova - Horni Lipova, vlak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2265768" lon="17.0834559">
+      <ele>591</ele>
+      <time>2022-01-17T21:23:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2263725" lon="17.0827626">
+      <ele>588</ele>
+      <time>2022-01-17T21:24:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2263193" lon="17.0821604">
+      <ele>589</ele>
+      <time>2022-01-17T21:25:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2261992" lon="17.0816213">
+      <ele>590</ele>
+      <time>2022-01-17T21:25:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2259075" lon="17.0812941">
+      <ele>593</ele>
+      <time>2022-01-17T21:26:22Z</time>
+    </trkpt>
+    <trkpt lat="50.225753" lon="17.0809507">
+      <ele>594</ele>
+      <time>2022-01-17T21:26:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2254645" lon="17.0796096">
+      <ele>596</ele>
+      <time>2022-01-17T21:28:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2254476" lon="17.0795238">
+      <ele>596</ele>
+      <time>2022-01-17T21:28:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2252995" lon="17.0795882">
+      <ele>597</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2252304" lon="17.0799315">
+      <ele>598</ele>
+      <time>2022-01-17T21:29:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2252018" lon="17.0807361">
+      <ele>601</ele>
+      <time>2022-01-17T21:30:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2251963" lon="17.0817018">
+      <ele>600</ele>
+      <time>2022-01-17T21:31:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2250289" lon="17.0823562">
+      <ele>603</ele>
+      <time>2022-01-17T21:32:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2248007" lon="17.0830643">
+      <ele>608</ele>
+      <time>2022-01-17T21:33:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2248264" lon="17.0834988">
+      <ele>608</ele>
+      <time>2022-01-17T21:33:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

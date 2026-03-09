@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:23Z</time>
+    <bounds maxlat="52.170271" maxlon="21.2916857" minlat="52.1699834" minlon="21.2915307"/>
+  </metadata>
+  <wpt lat="52.169983" lon="21.291686">
+    <ele>100</ele>
+    <name>Wiazowna, ul. Parkingowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12841">
+      <text>Wiazowna, ul. Parkingowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.170271" lon="21.291531">
+    <ele>100</ele>
+    <name>Wiazowna, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/12840">
+      <text>Wiazowna, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wiazowna, ul. Parkingowa - Wiazowna, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1699834,21.2916857;52.17012720023241,21.291608200000034;52.170271,21.2915307">
+    <text>Wiazowna, ul. Parkingowa - Wiazowna, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1699834" lon="21.2916857">
+      <ele>100</ele>
+      <time>2022-01-18T01:40:23Z</time>
+    </trkpt>
+    <trkpt lat="52.170271" lon="21.2915307">
+      <ele>100</ele>
+      <time>2022-01-18T01:41:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

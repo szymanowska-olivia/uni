@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:46Z</time>
+    <bounds maxlat="50.219153" maxlon="16.8351102" minlat="50.21536" minlon="16.8294453"/>
+  </metadata>
+  <wpt lat="50.21536" lon="16.83511">
+    <ele>1123</ele>
+    <name>Przelecz Snieznicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1721">
+      <text>Przelecz Snieznicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.219153" lon="16.829445">
+    <ele>1069</ele>
+    <name>Pod Zmijowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/1748">
+      <text>Pod Zmijowcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Snieznicka - Pod Zmijowcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.21536,16.8351102;50.21712265021268,16.832203349999997;50.219153,16.8294453">
+    <text>Przelecz Snieznicka - Pod Zmijowcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.21536" lon="16.8351102">
+      <ele>1123</ele>
+      <time>2022-01-17T21:15:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2156383" lon="16.8346395">
+      <ele>1119</ele>
+      <time>2022-01-17T21:16:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2159885" lon="16.8341031">
+      <ele>1117</ele>
+      <time>2022-01-17T21:17:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2162525" lon="16.8337208">
+      <ele>1116</ele>
+      <time>2022-01-17T21:18:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2164999" lon="16.8332716">
+      <ele>1114</ele>
+      <time>2022-01-17T21:18:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2167437" lon="16.8328531">
+      <ele>1110</ele>
+      <time>2022-01-17T21:19:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2169802" lon="16.8323636">
+      <ele>1104</ele>
+      <time>2022-01-17T21:20:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2172651" lon="16.8320431">
+      <ele>1102</ele>
+      <time>2022-01-17T21:20:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2177491" lon="16.8315482">
+      <ele>1094</ele>
+      <time>2022-01-17T21:22:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2181902" lon="16.8309535">
+      <ele>1085</ele>
+      <time>2022-01-17T21:23:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2186038" lon="16.8303372">
+      <ele>1079</ele>
+      <time>2022-01-17T21:24:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2191152" lon="16.8296023">
+      <ele>1072</ele>
+      <time>2022-01-17T21:25:33Z</time>
+    </trkpt>
+    <trkpt lat="50.219153" lon="16.8294453">
+      <ele>1069</ele>
+      <time>2022-01-17T21:25:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

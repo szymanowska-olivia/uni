@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:03:46Z</time>
+    <bounds maxlat="49.154789" maxlon="20.079597" minlat="49.153661" minlon="20.077807"/>
+  </metadata>
+  <wpt lat="49.154789" lon="20.079597">
+    <ele>1500</ele>
+    <name>Horsky hotel Popradske pleso</name>
+    <link href="https://mapa-turystyczna.pl/node/1541">
+      <text>Horsky hotel Popradske pleso</text>
+    </link>
+  </wpt>
+  <wpt lat="49.153661" lon="20.077807">
+    <ele>1519</ele>
+    <name>Popradske pleso, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/4104">
+      <text>Popradske pleso, razcestie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horsky hotel Popradske pleso - Popradske pleso, razcestie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.154789,20.079597;49.15446650010195,20.078687500000008;49.153661,20.077807">
+    <text>Horsky hotel Popradske pleso - Popradske pleso, razcestie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.154789" lon="20.079597">
+      <ele>1500</ele>
+      <time>2022-01-17T22:03:46Z</time>
+    </trkpt>
+    <trkpt lat="49.154758" lon="20.079349">
+      <ele>1504</ele>
+      <time>2022-01-17T22:04:44Z</time>
+    </trkpt>
+    <trkpt lat="49.154567" lon="20.078934">
+      <ele>1507</ele>
+      <time>2022-01-17T22:06:38Z</time>
+    </trkpt>
+    <trkpt lat="49.154366" lon="20.078441">
+      <ele>1510</ele>
+      <time>2022-01-17T22:08:49Z</time>
+    </trkpt>
+    <trkpt lat="49.154241" lon="20.07814">
+      <ele>1513</ele>
+      <time>2022-01-17T22:10:09Z</time>
+    </trkpt>
+    <trkpt lat="49.154026" lon="20.077936">
+      <ele>1516</ele>
+      <time>2022-01-17T22:11:37Z</time>
+    </trkpt>
+    <trkpt lat="49.153919" lon="20.077874">
+      <ele>1516</ele>
+      <time>2022-01-17T22:12:16Z</time>
+    </trkpt>
+    <trkpt lat="49.153815" lon="20.077836">
+      <ele>1517</ele>
+      <time>2022-01-17T22:12:53Z</time>
+    </trkpt>
+    <trkpt lat="49.153661" lon="20.077807">
+      <ele>1519</ele>
+      <time>2022-01-17T22:13:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

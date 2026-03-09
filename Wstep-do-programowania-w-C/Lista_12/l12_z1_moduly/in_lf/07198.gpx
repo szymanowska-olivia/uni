@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:22Z</time>
+    <bounds maxlat="50.3886084" maxlon="16.3605738" minlat="50.3866801" minlon="16.3590382"/>
+  </metadata>
+  <wpt lat="50.388601" lon="16.359434">
+    <ele>717</ele>
+    <name>OW Na Koziej Hali</name>
+    <link href="https://mapa-turystyczna.pl/node/4889">
+      <text>OW Na Koziej Hali</text>
+    </link>
+  </wpt>
+  <wpt lat="50.38668" lon="16.360574">
+    <ele>743</ele>
+    <name>Kozia Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/1879">
+      <text>Kozia Hala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>OW Na Koziej Hali - Kozia Hala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3886006,16.3594338;50.38766045026807,16.35990455;50.3866801,16.3605738">
+    <text>OW Na Koziej Hali - Kozia Hala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3886006" lon="16.3594338">
+      <ele>717</ele>
+      <time>2022-01-17T22:19:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3886084" lon="16.3594375">
+      <ele>717</ele>
+      <time>2022-01-17T22:19:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3885854" lon="16.359299">
+      <ele>718</ele>
+      <time>2022-01-17T22:19:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3885675" lon="16.3591338">
+      <ele>720</ele>
+      <time>2022-01-17T22:19:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3884231" lon="16.3590382">
+      <ele>724</ele>
+      <time>2022-01-17T22:20:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3878199" lon="16.3597503">
+      <ele>728</ele>
+      <time>2022-01-17T22:21:43Z</time>
+    </trkpt>
+    <trkpt lat="50.387501" lon="16.3600588">
+      <ele>732</ele>
+      <time>2022-01-17T22:22:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3866801" lon="16.3605738">
+      <ele>743</ele>
+      <time>2022-01-17T22:24:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

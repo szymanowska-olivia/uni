@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:40Z</time>
+    <bounds maxlat="50.6814803" maxlon="16.4270342" minlat="50.6812339" minlon="16.4269396"/>
+  </metadata>
+  <wpt lat="50.68148" lon="16.42694">
+    <ele>710</ele>
+    <name>Grzadki</name>
+    <link href="https://mapa-turystyczna.pl/node/2025">
+      <text>Grzadki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.681234" lon="16.427034">
+    <ele>709</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13570">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grzadki - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6814803,16.4269396;50.68135710016172,16.426986899999978;50.6812339,16.4270342">
+    <text>Grzadki - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6814803" lon="16.4269396">
+      <ele>710</ele>
+      <time>2022-01-18T02:01:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6812339" lon="16.4270342">
+      <ele>709</ele>
+      <time>2022-01-18T02:02:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

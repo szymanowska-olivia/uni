@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:20Z</time>
+    <bounds maxlat="50.3150892" maxlon="16.2676352" minlat="50.3127015" minlon="16.2671471"/>
+  </metadata>
+  <wpt lat="50.315089" lon="16.267426">
+    <ele>513</ele>
+    <name>Bysterske doly, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6005">
+      <text>Bysterske doly, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.312702" lon="16.267147">
+    <ele>493</ele>
+    <name>Bysterske doly, byvaly mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/6007">
+      <text>Bysterske doly, byvaly mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bysterske doly, rozc. - Bysterske doly, byvaly mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3150892,16.267426;50.31377700053049,16.267525249999988;50.3127015,16.2671471">
+    <text>Bysterske doly, rozc. - Bysterske doly, byvaly mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3150892" lon="16.267426">
+      <ele>513</ele>
+      <time>2022-01-17T22:42:20Z</time>
+    </trkpt>
+    <trkpt lat="50.3144512" lon="16.2674475">
+      <ele>511</ele>
+      <time>2022-01-17T22:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3140016" lon="16.2676352">
+      <ele>506</ele>
+      <time>2022-01-17T22:44:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3135524" lon="16.2674153">
+      <ele>505</ele>
+      <time>2022-01-17T22:45:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3131683" lon="16.2671685">
+      <ele>500</ele>
+      <time>2022-01-17T22:46:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3127015" lon="16.2671471">
+      <ele>493</ele>
+      <time>2022-01-17T22:47:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

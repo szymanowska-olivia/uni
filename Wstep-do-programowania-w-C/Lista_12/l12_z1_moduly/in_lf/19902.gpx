@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:01Z</time>
+    <bounds maxlat="49.9894738" maxlon="22.6945463" minlat="49.9877907" minlon="22.6914696"/>
+  </metadata>
+  <wpt lat="49.987875" lon="22.69147">
+    <ele>227</ele>
+    <name>Las Kidalowicki</name>
+    <link href="https://mapa-turystyczna.pl/node/13431">
+      <text>Las Kidalowicki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.989474" lon="22.694546">
+    <ele>220</ele>
+    <name>Miejsce pamieci Baski Puzon</name>
+    <link href="https://mapa-turystyczna.pl/node/13432">
+      <text>Miejsce pamieci Baski Puzon</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Kidalowicki - Miejsce pamieci Baski Puzon</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9878747,22.6914696;49.98787515005716,22.693781800000004;49.9894738,22.6945463">
+    <text>Las Kidalowicki - Miejsce pamieci Baski Puzon</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9878747" lon="22.6914696">
+      <ele>227</ele>
+      <time>2022-01-18T01:57:01Z</time>
+    </trkpt>
+    <trkpt lat="49.9878631" lon="22.6930657">
+      <ele>238</ele>
+      <time>2022-01-18T01:58:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9877907" lon="22.6934465">
+      <ele>238</ele>
+      <time>2022-01-18T01:59:00Z</time>
+    </trkpt>
+    <trkpt lat="49.987801" lon="22.6936879">
+      <ele>236</ele>
+      <time>2022-01-18T01:59:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9879493" lon="22.6938757">
+      <ele>234</ele>
+      <time>2022-01-18T01:59:33Z</time>
+    </trkpt>
+    <trkpt lat="49.9881873" lon="22.6940581">
+      <ele>233</ele>
+      <time>2022-01-18T01:59:57Z</time>
+    </trkpt>
+    <trkpt lat="49.9886909" lon="22.6941868">
+      <ele>229</ele>
+      <time>2022-01-18T02:00:45Z</time>
+    </trkpt>
+    <trkpt lat="49.9892703" lon="22.6944121">
+      <ele>225</ele>
+      <time>2022-01-18T02:01:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9894738" lon="22.6945463">
+      <ele>220</ele>
+      <time>2022-01-18T02:02:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

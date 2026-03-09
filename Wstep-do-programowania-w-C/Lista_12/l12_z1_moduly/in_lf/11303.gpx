@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:13Z</time>
+    <bounds maxlat="50.014145" maxlon="17.0140832" minlat="50.0127641" minlon="17.0129493"/>
+  </metadata>
+  <wpt lat="50.014145" lon="17.013">
+    <ele>618</ele>
+    <name>Predni Bukovy, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/7965">
+      <text>Predni Bukovy, rozhledna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.013342" lon="17.014083">
+    <ele>586</ele>
+    <name>Predni Bukovy, pod rozhlednou</name>
+    <link href="https://mapa-turystyczna.pl/node/7966">
+      <text>Predni Bukovy, pod rozhlednou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Predni Bukovy, rozhledna - Predni Bukovy, pod rozhlednou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.014145,17.0129996;50.01292955011879,17.013099500000024;50.0133418,17.0140832">
+    <text>Predni Bukovy, rozhledna - Predni Bukovy, pod rozhlednou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.014145" lon="17.0129996">
+      <ele>618</ele>
+      <time>2022-01-17T23:32:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0139132" lon="17.012996">
+      <ele>613</ele>
+      <time>2022-01-17T23:32:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0137052" lon="17.0129493">
+      <ele>609</ele>
+      <time>2022-01-17T23:33:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0134811" lon="17.0129654">
+      <ele>604</ele>
+      <time>2022-01-17T23:33:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0131468" lon="17.0129761">
+      <ele>599</ele>
+      <time>2022-01-17T23:34:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0130364" lon="17.0130244">
+      <ele>598</ele>
+      <time>2022-01-17T23:34:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0128227" lon="17.0131746">
+      <ele>598</ele>
+      <time>2022-01-17T23:35:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0127641" lon="17.0133516">
+      <ele>598</ele>
+      <time>2022-01-17T23:35:27Z</time>
+    </trkpt>
+    <trkpt lat="50.012771" lon="17.0135769">
+      <ele>595</ele>
+      <time>2022-01-17T23:35:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0128227" lon="17.0136949">
+      <ele>593</ele>
+      <time>2022-01-17T23:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.013002" lon="17.0138452">
+      <ele>592</ele>
+      <time>2022-01-17T23:36:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0133418" lon="17.0140832">
+      <ele>586</ele>
+      <time>2022-01-17T23:37:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

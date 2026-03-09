@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:15:06Z</time>
+    <bounds maxlat="50.2238349" maxlon="18.6112834" minlat="50.2220364" minlon="18.6085921"/>
+  </metadata>
+  <wpt lat="50.222036" lon="18.608592">
+    <ele>224</ele>
+    <name>Nieborowice, ul. Kasztanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9578">
+      <text>Nieborowice, ul. Kasztanowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.223835" lon="18.611242">
+    <ele>224</ele>
+    <name>Nieborowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9577">
+      <text>Nieborowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nieborowice, ul. Kasztanowa - Nieborowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2220364,18.6085921;50.22261500350929,18.609355700000023;50.2238349,18.6112421">
+    <text>Nieborowice, ul. Kasztanowa - Nieborowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2220364" lon="18.6085921">
+      <ele>224</ele>
+      <time>2022-01-18T00:15:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2231936" lon="18.6101193">
+      <ele>222</ele>
+      <time>2022-01-18T00:18:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2232897" lon="18.6102641">
+      <ele>222</ele>
+      <time>2022-01-18T00:18:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2235025" lon="18.6107523">
+      <ele>223</ele>
+      <time>2022-01-18T00:19:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2236535" lon="18.6112834">
+      <ele>224</ele>
+      <time>2022-01-18T00:19:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2238349" lon="18.6112421">
+      <ele>224</ele>
+      <time>2022-01-18T00:20:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

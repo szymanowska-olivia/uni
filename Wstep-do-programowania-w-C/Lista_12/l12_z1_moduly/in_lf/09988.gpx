@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:03Z</time>
+    <bounds maxlat="48.8552034" maxlon="20.3845203" minlat="48.8531668" minlon="20.3826159"/>
+  </metadata>
+  <wpt lat="48.855203" lon="20.382616">
+    <ele>800</ele>
+    <name>Dedinky, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/6950">
+      <text>Dedinky, vlak</text>
+    </link>
+  </wpt>
+  <wpt lat="48.853167" lon="20.383764">
+    <ele>785</ele>
+    <name>Dedinky, vlak, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7027">
+      <text>Dedinky, vlak, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dedinky, vlak - Dedinky, vlak, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8552034,20.3826159;48.85416835123782,20.383620399999973;48.8531668,20.3837639">
+    <text>Dedinky, vlak - Dedinky, vlak, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8552034" lon="20.3826159">
+      <ele>800</ele>
+      <time>2022-01-17T23:08:03Z</time>
+    </trkpt>
+    <trkpt lat="48.854974" lon="20.3827608">
+      <ele>798</ele>
+      <time>2022-01-17T23:08:29Z</time>
+    </trkpt>
+    <trkpt lat="48.8545204" lon="20.3832462">
+      <ele>794</ele>
+      <time>2022-01-17T23:09:28Z</time>
+    </trkpt>
+    <trkpt lat="48.8538163" lon="20.3839946">
+      <ele>784</ele>
+      <time>2022-01-17T23:11:00Z</time>
+    </trkpt>
+    <trkpt lat="48.8534739" lon="20.3844184">
+      <ele>778</ele>
+      <time>2022-01-17T23:11:47Z</time>
+    </trkpt>
+    <trkpt lat="48.8533609" lon="20.3845203">
+      <ele>777</ele>
+      <time>2022-01-17T23:12:01Z</time>
+    </trkpt>
+    <trkpt lat="48.8532934" lon="20.3844868">
+      <ele>777</ele>
+      <time>2022-01-17T23:12:08Z</time>
+    </trkpt>
+    <trkpt lat="48.853233" lon="20.3844211">
+      <ele>778</ele>
+      <time>2022-01-17T23:12:16Z</time>
+    </trkpt>
+    <trkpt lat="48.8531756" lon="20.3841126">
+      <ele>781</ele>
+      <time>2022-01-17T23:12:38Z</time>
+    </trkpt>
+    <trkpt lat="48.8531668" lon="20.3837639">
+      <ele>785</ele>
+      <time>2022-01-17T23:13:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

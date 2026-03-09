@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:13Z</time>
+    <bounds maxlat="50.3100602" maxlon="16.3241923" minlat="50.3092457" minlon="16.3238111"/>
+  </metadata>
+  <wpt lat="50.31006" lon="16.324192">
+    <ele>791</ele>
+    <name>Pod Spicakem</name>
+    <link href="https://mapa-turystyczna.pl/node/1896">
+      <text>Pod Spicakem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.309246" lon="16.323811">
+    <ele>788</ele>
+    <name>Pod Spicakem, jih</name>
+    <link href="https://mapa-turystyczna.pl/node/5689">
+      <text>Pod Spicakem, jih</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Spicakem - Pod Spicakem, jih</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3100602,16.3241923;50.30953130085766,16.323919899999993;50.3092457,16.3238111">
+    <text>Pod Spicakem - Pod Spicakem, jih</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3100602" lon="16.3241923">
+      <ele>791</ele>
+      <time>2022-01-17T22:34:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3098169" lon="16.3240287">
+      <ele>790</ele>
+      <time>2022-01-17T22:34:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3092457" lon="16.3238111">
+      <ele>788</ele>
+      <time>2022-01-17T22:35:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

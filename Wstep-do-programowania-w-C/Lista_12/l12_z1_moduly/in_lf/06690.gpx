@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:13Z</time>
+    <bounds maxlat="50.7412745" maxlon="15.7021934" minlat="50.7388261" minlon="15.6994341"/>
+  </metadata>
+  <wpt lat="50.741275" lon="15.702193">
+    <ele>1416</ele>
+    <name>Rownia pod Sniezka</name>
+    <link href="https://mapa-turystyczna.pl/node/1340">
+      <text>Rownia pod Sniezka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.738826" lon="15.699434">
+    <ele>1429</ele>
+    <name>Jantarova cesta, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/4630">
+      <text>Jantarova cesta, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rownia pod Sniezka - Jantarova cesta, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7412745,15.7021934;50.74004175026301,15.70039904999998;50.7388261,15.6994341">
+    <text>Rownia pod Sniezka - Jantarova cesta, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7412745" lon="15.7021934">
+      <ele>1416</ele>
+      <time>2022-01-17T22:11:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7407841" lon="15.7013727">
+      <ele>1421</ele>
+      <time>2022-01-17T22:12:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7401987" lon="15.7005841">
+      <ele>1426</ele>
+      <time>2022-01-17T22:13:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7398848" lon="15.700214">
+      <ele>1426</ele>
+      <time>2022-01-17T22:14:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7388261" lon="15.6994341">
+      <ele>1429</ele>
+      <time>2022-01-17T22:16:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

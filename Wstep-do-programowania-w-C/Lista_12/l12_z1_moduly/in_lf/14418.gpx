@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:01Z</time>
+    <bounds maxlat="50.8915157" maxlon="20.9050365" minlat="50.888598" minlon="20.8967042"/>
+  </metadata>
+  <wpt lat="50.891516" lon="20.896704">
+    <ele>613</ele>
+    <name>Lysica</name>
+    <link href="https://mapa-turystyczna.pl/node/3144">
+      <text>Lysica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.888598" lon="20.905037">
+    <ele>614</ele>
+    <name>Skala Agaty</name>
+    <link href="https://mapa-turystyczna.pl/node/9846">
+      <text>Skala Agaty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lysica - Skala Agaty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8915157,20.8967042;50.889536100227254,20.900590700000024;50.888598,20.9050365">
+    <text>Lysica - Skala Agaty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8915157" lon="20.8967042">
+      <ele>613</ele>
+      <time>2022-01-18T00:22:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8908114" lon="20.8981419">
+      <ele>612</ele>
+      <time>2022-01-18T00:23:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8896816" lon="20.8999872">
+      <ele>605</ele>
+      <time>2022-01-18T00:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8893906" lon="20.9011942">
+      <ele>604</ele>
+      <time>2022-01-18T00:27:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8891538" lon="20.9026802">
+      <ele>612</ele>
+      <time>2022-01-18T00:29:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8887781" lon="20.90437">
+      <ele>615</ele>
+      <time>2022-01-18T00:31:16Z</time>
+    </trkpt>
+    <trkpt lat="50.888598" lon="20.9050365">
+      <ele>614</ele>
+      <time>2022-01-18T00:32:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

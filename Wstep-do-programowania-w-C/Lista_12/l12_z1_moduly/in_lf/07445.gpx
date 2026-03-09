@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:23:16Z</time>
+    <bounds maxlat="49.229726" maxlon="19.035994" minlat="49.228922" minlon="19.03383"/>
+  </metadata>
+  <wpt lat="49.229705" lon="19.03383">
+    <ele>614</ele>
+    <name>Stary Dvor, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5098">
+      <text>Stary Dvor, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.228922" lon="19.035466">
+    <ele>609</ele>
+    <name>Stary Dvor</name>
+    <link href="https://mapa-turystyczna.pl/node/5075">
+      <text>Stary Dvor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stary Dvor, razc. - Stary Dvor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.229705,19.03383;49.22972600000001,19.035596999999996;49.228922,19.035466">
+    <text>Stary Dvor, razc. - Stary Dvor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.229705" lon="19.03383">
+      <ele>614</ele>
+      <time>2022-01-17T22:23:16Z</time>
+    </trkpt>
+    <trkpt lat="49.229704" lon="19.034084">
+      <ele>613</ele>
+      <time>2022-01-17T22:23:38Z</time>
+    </trkpt>
+    <trkpt lat="49.229726" lon="19.0352">
+      <ele>608</ele>
+      <time>2022-01-17T22:25:13Z</time>
+    </trkpt>
+    <trkpt lat="49.229726" lon="19.035994">
+      <ele>606</ele>
+      <time>2022-01-17T22:26:21Z</time>
+    </trkpt>
+    <trkpt lat="49.229364" lon="19.035774">
+      <ele>607</ele>
+      <time>2022-01-17T22:27:12Z</time>
+    </trkpt>
+    <trkpt lat="49.228956" lon="19.03549">
+      <ele>609</ele>
+      <time>2022-01-17T22:28:11Z</time>
+    </trkpt>
+    <trkpt lat="49.228922" lon="19.035466">
+      <ele>609</ele>
+      <time>2022-01-17T22:28:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

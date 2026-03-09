@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:51Z</time>
+    <bounds maxlat="50.7293754" maxlon="16.4586845" minlat="50.7284575" minlon="16.4563445"/>
+  </metadata>
+  <wpt lat="50.728457" lon="16.456345">
+    <ele>573</ele>
+    <name>Boreczna, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/13206">
+      <text>Boreczna, rozwidlenie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.729375" lon="16.458685">
+    <ele>560</ele>
+    <name>Boreczna</name>
+    <link href="https://mapa-turystyczna.pl/node/8141">
+      <text>Boreczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Boreczna, rozwidlenie - Boreczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7284575,16.4563445;50.72893825003773,16.457430149999997;50.7293754,16.4586845">
+    <text>Boreczna, rozwidlenie - Boreczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7284575" lon="16.4563445">
+      <ele>573</ele>
+      <time>2022-01-18T01:50:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7285461" lon="16.4565987">
+      <ele>570</ele>
+      <time>2022-01-18T01:51:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7286785" lon="16.4568347">
+      <ele>567</ele>
+      <time>2022-01-18T01:51:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7288788" lon="16.4572585">
+      <ele>564</ele>
+      <time>2022-01-18T01:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7289977" lon="16.4576018">
+      <ele>562</ele>
+      <time>2022-01-18T01:52:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7293754" lon="16.4586845">
+      <ele>560</ele>
+      <time>2022-01-18T01:53:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

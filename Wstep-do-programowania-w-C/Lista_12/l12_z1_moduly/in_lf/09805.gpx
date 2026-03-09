@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:30Z</time>
+    <bounds maxlat="50.0754853" maxlon="17.1447229" minlat="50.0716499" minlon="17.1446586"/>
+  </metadata>
+  <wpt lat="50.075485" lon="17.144659">
+    <ele>1272</ele>
+    <name>Mravenecnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6890">
+      <text>Mravenecnik, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.07165" lon="17.144723">
+    <ele>1337</ele>
+    <name>Mravenecnik</name>
+    <link href="https://mapa-turystyczna.pl/node/6889">
+      <text>Mravenecnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mravenecnik, rozc. - Mravenecnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0754853,17.1446586;50.07321477553328,17.144704149999992;50.0716499,17.1447229">
+    <text>Mravenecnik, rozc. - Mravenecnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0754853" lon="17.1446586">
+      <ele>1272</ele>
+      <time>2022-01-17T23:04:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0747796" lon="17.1446854">
+      <ele>1291</ele>
+      <time>2022-01-17T23:07:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0716499" lon="17.1447229">
+      <ele>1337</ele>
+      <time>2022-01-17T23:19:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:00Z</time>
+    <bounds maxlat="50.2778356" maxlon="16.941154" minlat="50.2768414" minlon="16.9399416"/>
+  </metadata>
+  <wpt lat="50.277836" lon="16.941154">
+    <ele>922</ele>
+    <name>Przelecz Dzial, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2174">
+      <text>Przelecz Dzial, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.276841" lon="16.939942">
+    <ele>920</ele>
+    <name>Przelecz Dzial</name>
+    <link href="https://mapa-turystyczna.pl/node/2129">
+      <text>Przelecz Dzial</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Dzial, skrzyzowanie - Przelecz Dzial</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2778356,16.941154;50.27730765009669,16.94053975;50.2768414,16.9399416">
+    <text>Przelecz Dzial, skrzyzowanie - Przelecz Dzial</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2778356" lon="16.941154">
+      <ele>922</ele>
+      <time>2022-01-17T21:24:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2776882" lon="16.9410869">
+      <ele>922</ele>
+      <time>2022-01-17T21:24:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2774036" lon="16.9407195">
+      <ele>922</ele>
+      <time>2022-01-17T21:24:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2772117" lon="16.94036">
+      <ele>921</ele>
+      <time>2022-01-17T21:25:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2768414" lon="16.9399416">
+      <ele>920</ele>
+      <time>2022-01-17T21:26:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

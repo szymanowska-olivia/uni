@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:57:16Z</time>
+    <bounds maxlat="48.9760905" maxlon="19.6089113" minlat="48.9754954" minlon="19.6072913"/>
+  </metadata>
+  <wpt lat="48.976073" lon="19.607291">
+    <ele>1060</ele>
+    <name>Pod Krcahovom</name>
+    <link href="https://mapa-turystyczna.pl/node/6623">
+      <text>Pod Krcahovom</text>
+    </link>
+  </wpt>
+  <wpt lat="48.975495" lon="19.608911">
+    <ele>1076</ele>
+    <name>Pod Krcahovom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6700">
+      <text>Pod Krcahovom, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krcahovom - Pod Krcahovom, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9760728,19.6072913;48.97590390004033,19.60812500000003;48.9754954,19.6089113">
+    <text>Pod Krcahovom - Pod Krcahovom, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9760728" lon="19.6072913">
+      <ele>1060</ele>
+      <time>2022-01-17T22:57:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9760905" lon="19.6074625">
+      <ele>1059</ele>
+      <time>2022-01-17T22:57:43Z</time>
+    </trkpt>
+    <trkpt lat="48.9760201" lon="19.6075966">
+      <ele>1059</ele>
+      <time>2022-01-17T22:58:09Z</time>
+    </trkpt>
+    <trkpt lat="48.975999" lon="19.6078112">
+      <ele>1060</ele>
+      <time>2022-01-17T22:58:43Z</time>
+    </trkpt>
+    <trkpt lat="48.9759673" lon="19.608015">
+      <ele>1064</ele>
+      <time>2022-01-17T22:59:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9758405" lon="19.608235">
+      <ele>1068</ele>
+      <time>2022-01-17T23:00:02Z</time>
+    </trkpt>
+    <trkpt lat="48.9756962" lon="19.6084549">
+      <ele>1070</ele>
+      <time>2022-01-17T23:00:50Z</time>
+    </trkpt>
+    <trkpt lat="48.9755764" lon="19.6087178">
+      <ele>1073</ele>
+      <time>2022-01-17T23:01:40Z</time>
+    </trkpt>
+    <trkpt lat="48.9754954" lon="19.6089113">
+      <ele>1076</ele>
+      <time>2022-01-17T23:02:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

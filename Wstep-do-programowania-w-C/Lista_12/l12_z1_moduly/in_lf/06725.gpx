@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:42Z</time>
+    <bounds maxlat="49.795338" maxlon="19.447673" minlat="49.793388" minlon="19.446026"/>
+  </metadata>
+  <wpt lat="49.793388" lon="19.446026">
+    <ele>866</ele>
+    <name>Przelecz Wl. Midowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/4646">
+      <text>Przelecz Wl. Midowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.795338" lon="19.447673">
+    <ele>890</ele>
+    <name>Schronisko PTTK Leskowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/1060">
+      <text>Schronisko PTTK Leskowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Wl. Midowicza - Schronisko PTTK Leskowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.793388,19.446026;49.79453500003239,19.44646849999997;49.795338,19.447673">
+    <text>Przelecz Wl. Midowicza - Schronisko PTTK Leskowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.793388" lon="19.446026">
+      <ele>866</ele>
+      <time>2022-01-17T22:11:42Z</time>
+    </trkpt>
+    <trkpt lat="49.793895" lon="19.446093">
+      <ele>876</ele>
+      <time>2022-01-17T22:12:48Z</time>
+    </trkpt>
+    <trkpt lat="49.794089" lon="19.446136">
+      <ele>879</ele>
+      <time>2022-01-17T22:13:13Z</time>
+    </trkpt>
+    <trkpt lat="49.794269" lon="19.44626">
+      <ele>878</ele>
+      <time>2022-01-17T22:13:38Z</time>
+    </trkpt>
+    <trkpt lat="49.794479" lon="19.446415">
+      <ele>877</ele>
+      <time>2022-01-17T22:14:08Z</time>
+    </trkpt>
+    <trkpt lat="49.794591" lon="19.446522">
+      <ele>877</ele>
+      <time>2022-01-17T22:14:24Z</time>
+    </trkpt>
+    <trkpt lat="49.79467" lon="19.446709">
+      <ele>875</ele>
+      <time>2022-01-17T22:14:43Z</time>
+    </trkpt>
+    <trkpt lat="49.794814" lon="19.447024">
+      <ele>878</ele>
+      <time>2022-01-17T22:15:15Z</time>
+    </trkpt>
+    <trkpt lat="49.794951" lon="19.447279">
+      <ele>882</ele>
+      <time>2022-01-17T22:15:42Z</time>
+    </trkpt>
+    <trkpt lat="49.795009" lon="19.447366">
+      <ele>883</ele>
+      <time>2022-01-17T22:15:52Z</time>
+    </trkpt>
+    <trkpt lat="49.795096" lon="19.447457">
+      <ele>885</ele>
+      <time>2022-01-17T22:16:06Z</time>
+    </trkpt>
+    <trkpt lat="49.795338" lon="19.447673">
+      <ele>890</ele>
+      <time>2022-01-17T22:16:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

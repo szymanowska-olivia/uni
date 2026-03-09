@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:35Z</time>
+    <bounds maxlat="50.4824744" maxlon="16.3456374" minlat="50.4820955" minlon="16.3447738"/>
+  </metadata>
+  <wpt lat="50.482355" lon="16.344774">
+    <ele>895</ele>
+    <name>Szczeliniec Wielki, rozejscie do tarasow</name>
+    <link href="https://mapa-turystyczna.pl/node/11655">
+      <text>Szczeliniec Wielki, rozejscie do tarasow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.482095" lon="16.345637">
+    <ele>884</ele>
+    <name>Szczeliniec Wielki, tarasy poludniowe</name>
+    <link href="https://mapa-turystyczna.pl/node/11657">
+      <text>Szczeliniec Wielki, tarasy poludniowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczeliniec Wielki, rozejscie do tarasow - Szczeliniec Wielki, tarasy poludniowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.482355,16.3447738;50.482389150014924,16.345307499999986;50.4820955,16.3456374">
+    <text>Szczeliniec Wielki, rozejscie do tarasow - Szczeliniec Wielki, tarasy poludniowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.482355" lon="16.3447738">
+      <ele>895</ele>
+      <time>2022-01-18T01:07:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4824267" lon="16.3448918">
+      <ele>897</ele>
+      <time>2022-01-18T01:07:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4824744" lon="16.3449615">
+      <ele>899</ele>
+      <time>2022-01-18T01:08:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4824267" lon="16.3452136">
+      <ele>896</ele>
+      <time>2022-01-18T01:08:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4823516" lon="16.3454014">
+      <ele>893</ele>
+      <time>2022-01-18T01:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4822969" lon="16.3455194">
+      <ele>892</ele>
+      <time>2022-01-18T01:09:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4822526" lon="16.3455892">
+      <ele>890</ele>
+      <time>2022-01-18T01:09:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4820955" lon="16.3456374">
+      <ele>884</ele>
+      <time>2022-01-18T01:09:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

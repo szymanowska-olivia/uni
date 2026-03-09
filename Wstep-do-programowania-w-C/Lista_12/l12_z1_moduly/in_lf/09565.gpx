@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:55Z</time>
+    <bounds maxlat="48.837464" maxlon="19.6127039" minlat="48.8368179" minlon="19.6121567"/>
+  </metadata>
+  <wpt lat="48.837464" lon="19.612157">
+    <ele>832</ele>
+    <name>Dedeckova chata</name>
+    <link href="https://mapa-turystyczna.pl/node/6724">
+      <text>Dedeckova chata</text>
+    </link>
+  </wpt>
+  <wpt lat="48.836818" lon="19.612704">
+    <ele>835</ele>
+    <name>Horne Lazy, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6723">
+      <text>Horne Lazy, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dedeckova chata - Horne Lazy, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.837464,19.6121567;48.837140951041675,19.612430299999975;48.8368179,19.6127039">
+    <text>Dedeckova chata - Horne Lazy, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.837464" lon="19.6121567">
+      <ele>832</ele>
+      <time>2022-01-17T22:59:55Z</time>
+    </trkpt>
+    <trkpt lat="48.8368179" lon="19.6127039">
+      <ele>835</ele>
+      <time>2022-01-17T23:01:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

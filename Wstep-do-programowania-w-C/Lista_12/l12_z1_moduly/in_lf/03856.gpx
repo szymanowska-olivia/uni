@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:34Z</time>
+    <bounds maxlat="50.8353103" maxlon="16.7412865" minlat="50.8337552" minlon="16.7409646"/>
+  </metadata>
+  <wpt lat="50.83531" lon="16.741287">
+    <ele>326</ele>
+    <name>Przelecz Slupicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2690">
+      <text>Przelecz Slupicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.833755" lon="16.740981">
+    <ele>338</ele>
+    <name>Droga przy Przeleczy Slupickiej</name>
+    <link href="https://mapa-turystyczna.pl/node/2691">
+      <text>Droga przy Przeleczy Slupickiej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Slupicka - Droga przy Przeleczy Slupickiej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8353103,16.7412865;50.83473275081698,16.7411256;50.8337552,16.7409807">
+    <text>Przelecz Slupicka - Droga przy Przeleczy Slupickiej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8353103" lon="16.7412865">
+      <ele>326</ele>
+      <time>2022-01-17T21:35:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8350089" lon="16.7412061">
+      <ele>327</ele>
+      <time>2022-01-17T21:36:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8344566" lon="16.7410451">
+      <ele>333</ele>
+      <time>2022-01-17T21:38:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8341873" lon="16.7409915">
+      <ele>335</ele>
+      <time>2022-01-17T21:39:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8339509" lon="16.7409646">
+      <ele>337</ele>
+      <time>2022-01-17T21:39:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8337552" lon="16.7409807">
+      <ele>338</ele>
+      <time>2022-01-17T21:40:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

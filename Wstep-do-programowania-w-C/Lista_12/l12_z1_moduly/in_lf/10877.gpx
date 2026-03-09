@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:19Z</time>
+    <bounds maxlat="50.0143442" maxlon="16.6964078" minlat="50.011321" minlon="16.6842413"/>
+  </metadata>
+  <wpt lat="50.011759" lon="16.684241">
+    <ele>673</ele>
+    <name>Cenkovice</name>
+    <link href="https://mapa-turystyczna.pl/node/7657">
+      <text>Cenkovice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.014344" lon="16.696408">
+    <ele>740</ele>
+    <name>Cenkovice, lanovka</name>
+    <link href="https://mapa-turystyczna.pl/node/7656">
+      <text>Cenkovice, lanovka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cenkovice - Cenkovice, lanovka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0117588,16.6842413;50.01237930160698,16.69067860000002;50.0143442,16.6964078">
+    <text>Cenkovice - Cenkovice, lanovka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0117588" lon="16.6842413">
+      <ele>673</ele>
+      <time>2022-01-17T23:24:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0116278" lon="16.6843969">
+      <ele>675</ele>
+      <time>2022-01-17T23:24:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0114692" lon="16.6863924">
+      <ele>682</ele>
+      <time>2022-01-17T23:27:37Z</time>
+    </trkpt>
+    <trkpt lat="50.011321" lon="16.6881895">
+      <ele>693</ele>
+      <time>2022-01-17T23:30:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0114692" lon="16.6889298">
+      <ele>695</ele>
+      <time>2022-01-17T23:31:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0119863" lon="16.6900778">
+      <ele>697</ele>
+      <time>2022-01-17T23:33:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0127723" lon="16.6912794">
+      <ele>706</ele>
+      <time>2022-01-17T23:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0128516" lon="16.6913813">
+      <ele>707</ele>
+      <time>2022-01-17T23:36:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0136755" lon="16.6933715">
+      <ele>724</ele>
+      <time>2022-01-17T23:39:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0137099" lon="16.6935325">
+      <ele>725</ele>
+      <time>2022-01-17T23:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0143442" lon="16.6964078">
+      <ele>740</ele>
+      <time>2022-01-17T23:44:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

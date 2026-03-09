@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:46Z</time>
+    <bounds maxlat="50.7525259" maxlon="16.4195575" minlat="50.7524883" minlon="16.4186539"/>
+  </metadata>
+  <wpt lat="50.752511" lon="16.418654">
+    <ele>352</ele>
+    <name>Jezioro Bystrzyckie, most</name>
+    <link href="https://mapa-turystyczna.pl/node/9500">
+      <text>Jezioro Bystrzyckie, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.752488" lon="16.419557">
+    <ele>356</ele>
+    <name>Maria Antonina</name>
+    <link href="https://mapa-turystyczna.pl/node/10964">
+      <text>Maria Antonina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Bystrzyckie, most - Maria Antonina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7525111,16.4186539;50.75252250000011,16.41904325000003;50.7524883,16.4195575">
+    <text>Jezioro Bystrzyckie, most - Maria Antonina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7525111" lon="16.4186539">
+      <ele>352</ele>
+      <time>2022-01-18T00:49:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7525191" lon="16.4189319">
+      <ele>352</ele>
+      <time>2022-01-18T00:50:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7525259" lon="16.4191546">
+      <ele>354</ele>
+      <time>2022-01-18T00:50:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7525021" lon="16.4193476">
+      <ele>354</ele>
+      <time>2022-01-18T00:50:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7524883" lon="16.4195575">
+      <ele>356</ele>
+      <time>2022-01-18T00:50:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

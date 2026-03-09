@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:37Z</time>
+    <bounds maxlat="49.308231" maxlon="20.684929" minlat="49.307767" minlon="20.683234"/>
+  </metadata>
+  <wpt lat="49.307767" lon="20.684929">
+    <ele>520</ele>
+    <name>Stara Lubovna, autobusova stanica</name>
+    <link href="https://mapa-turystyczna.pl/node/8644">
+      <text>Stara Lubovna, autobusova stanica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.308231" lon="20.683234">
+    <ele>519</ele>
+    <name>Stara Lubovna</name>
+    <link href="https://mapa-turystyczna.pl/node/8645">
+      <text>Stara Lubovna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Lubovna, autobusova stanica - Stara Lubovna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.307767,20.684929;49.30801100019891,20.684163999999992;49.308231,20.683234">
+    <text>Stara Lubovna, autobusova stanica - Stara Lubovna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.307767" lon="20.684929">
+      <ele>520</ele>
+      <time>2022-01-17T23:52:37Z</time>
+    </trkpt>
+    <trkpt lat="49.30782" lon="20.684761">
+      <ele>520</ele>
+      <time>2022-01-17T23:52:49Z</time>
+    </trkpt>
+    <trkpt lat="49.307871" lon="20.684608">
+      <ele>520</ele>
+      <time>2022-01-17T23:53:00Z</time>
+    </trkpt>
+    <trkpt lat="49.308151" lon="20.68372">
+      <ele>520</ele>
+      <time>2022-01-17T23:54:04Z</time>
+    </trkpt>
+    <trkpt lat="49.308187" lon="20.683587">
+      <ele>520</ele>
+      <time>2022-01-17T23:54:14Z</time>
+    </trkpt>
+    <trkpt lat="49.308211" lon="20.683462">
+      <ele>519</ele>
+      <time>2022-01-17T23:54:22Z</time>
+    </trkpt>
+    <trkpt lat="49.308213" lon="20.683452">
+      <ele>519</ele>
+      <time>2022-01-17T23:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.308227" lon="20.683348">
+      <ele>519</ele>
+      <time>2022-01-17T23:54:30Z</time>
+    </trkpt>
+    <trkpt lat="49.308231" lon="20.683234">
+      <ele>519</ele>
+      <time>2022-01-17T23:54:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

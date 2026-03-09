@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:20Z</time>
+    <bounds maxlat="51.1288926" maxlon="15.981878" minlat="51.1280374" minlon="15.9808533"/>
+  </metadata>
+  <wpt lat="51.128893" lon="15.980853">
+    <ele>188</ele>
+    <name>Rokitnica, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3333">
+      <text>Rokitnica, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.128037" lon="15.981878">
+    <ele>194</ele>
+    <name>Rokitnica, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9960">
+      <text>Rokitnica, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rokitnica, skrzyzowanie szlakow - Rokitnica, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1288926,15.9808533;51.12829900074088,15.981618399999986;51.1280374,15.981878">
+    <text>Rokitnica, skrzyzowanie szlakow - Rokitnica, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1288926" lon="15.9808533">
+      <ele>188</ele>
+      <time>2022-01-18T00:25:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1285606" lon="15.9813588">
+      <ele>190</ele>
+      <time>2022-01-18T00:26:11Z</time>
+    </trkpt>
+    <trkpt lat="51.1280374" lon="15.981878">
+      <ele>194</ele>
+      <time>2022-01-18T00:27:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

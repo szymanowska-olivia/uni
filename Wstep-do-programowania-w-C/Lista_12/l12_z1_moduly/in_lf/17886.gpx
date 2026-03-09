@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:32Z</time>
+    <bounds maxlat="52.6051742" maxlon="21.5461013" minlat="52.6046345" minlon="21.544372"/>
+  </metadata>
+  <wpt lat="52.604684" lon="21.546073">
+    <ele>89</ele>
+    <name>Kamienczyk</name>
+    <link href="https://mapa-turystyczna.pl/node/12157">
+      <text>Kamienczyk</text>
+    </link>
+  </wpt>
+  <wpt lat="52.604635" lon="21.544372">
+    <ele>89</ele>
+    <name>Kamienczyk, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/12180">
+      <text>Kamienczyk, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienczyk - Kamienczyk, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.604684,21.5460734;52.60516445000108,21.545242950000016;52.6046345,21.544372">
+    <text>Kamienczyk - Kamienczyk, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.604684" lon="21.5460734">
+      <ele>89</ele>
+      <time>2022-01-18T01:21:32Z</time>
+    </trkpt>
+    <trkpt lat="52.6051547" lon="21.5461013">
+      <ele>88</ele>
+      <time>2022-01-18T01:22:41Z</time>
+    </trkpt>
+    <trkpt lat="52.6051742" lon="21.5443846">
+      <ele>90</ele>
+      <time>2022-01-18T01:25:13Z</time>
+    </trkpt>
+    <trkpt lat="52.6046345" lon="21.544372">
+      <ele>89</ele>
+      <time>2022-01-18T01:26:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

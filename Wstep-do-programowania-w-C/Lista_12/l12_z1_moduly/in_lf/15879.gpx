@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:14Z</time>
+    <bounds maxlat="54.4730863" maxlon="18.5540253" minlat="54.4727247" minlon="18.5538054"/>
+  </metadata>
+  <wpt lat="54.473086" lon="18.553805">
+    <ele>23</ele>
+    <name>Gdynia, Kolibki, Aleja Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/10876">
+      <text>Gdynia, Kolibki, Aleja Zwyciestwa</text>
+    </link>
+  </wpt>
+  <wpt lat="54.472725" lon="18.554025">
+    <ele>24</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10875">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gdynia, Kolibki, Aleja Zwyciestwa - Skrzyzowanie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4730863,18.5538054;54.47295230021946,18.55389389999998;54.4727247,18.5540253">
+    <text>Gdynia, Kolibki, Aleja Zwyciestwa - Skrzyzowanie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4730863" lon="18.5538054">
+      <ele>23</ele>
+      <time>2022-01-18T00:47:14Z</time>
+    </trkpt>
+    <trkpt lat="54.4728183" lon="18.5539824">
+      <ele>24</ele>
+      <time>2022-01-18T00:47:59Z</time>
+    </trkpt>
+    <trkpt lat="54.4727247" lon="18.5540253">
+      <ele>24</ele>
+      <time>2022-01-18T00:48:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

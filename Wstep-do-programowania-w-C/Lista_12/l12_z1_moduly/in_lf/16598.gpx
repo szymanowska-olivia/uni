@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:26Z</time>
+    <bounds maxlat="49.544229" maxlon="20.119636" minlat="49.543821" minlon="20.118554"/>
+  </metadata>
+  <wpt lat="49.543821" lon="20.118554">
+    <ele>1283</ele>
+    <name>Schronisko PTTK Turbacz, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7324">
+      <text>Schronisko PTTK Turbacz, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.544229" lon="20.119636">
+    <ele>1262</ele>
+    <name>Hala Wolnica</name>
+    <link href="https://mapa-turystyczna.pl/node/11331">
+      <text>Hala Wolnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Turbacz, rozejscie szlakow - Hala Wolnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.543821,20.118554;49.54414500000232,20.119041499999984;49.544229,20.119636">
+    <text>Schronisko PTTK Turbacz, rozejscie szlakow - Hala Wolnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.543821" lon="20.118554">
+      <ele>1283</ele>
+      <time>2022-01-18T00:59:26Z</time>
+    </trkpt>
+    <trkpt lat="49.543945" lon="20.118704">
+      <ele>1279</ele>
+      <time>2022-01-18T00:59:37Z</time>
+    </trkpt>
+    <trkpt lat="49.544064" lon="20.118882">
+      <ele>1275</ele>
+      <time>2022-01-18T00:59:49Z</time>
+    </trkpt>
+    <trkpt lat="49.54413" lon="20.118994">
+      <ele>1272</ele>
+      <time>2022-01-18T00:59:56Z</time>
+    </trkpt>
+    <trkpt lat="49.54416" lon="20.119089">
+      <ele>1270</ele>
+      <time>2022-01-18T01:00:00Z</time>
+    </trkpt>
+    <trkpt lat="49.544155" lon="20.119298">
+      <ele>1267</ele>
+      <time>2022-01-18T01:00:10Z</time>
+    </trkpt>
+    <trkpt lat="49.544186" lon="20.119525">
+      <ele>1264</ele>
+      <time>2022-01-18T01:00:20Z</time>
+    </trkpt>
+    <trkpt lat="49.544229" lon="20.119636">
+      <ele>1262</ele>
+      <time>2022-01-18T01:00:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

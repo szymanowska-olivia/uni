@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:04:23Z</time>
+    <bounds maxlat="52.0129362" maxlon="21.470298" minlat="52.0102439" minlon="21.4657857"/>
+  </metadata>
+  <wpt lat="52.010244" lon="21.465786">
+    <ele>141</ele>
+    <name>Zabiezki</name>
+    <link href="https://mapa-turystyczna.pl/node/11546">
+      <text>Zabiezki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.012936" lon="21.470298">
+    <ele>135</ele>
+    <name>Zabiezki, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11547">
+      <text>Zabiezki, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabiezki - Zabiezki, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0102439,21.4657857;52.01178160250849,21.468030449999993;52.0129362,21.470298">
+    <text>Zabiezki - Zabiezki, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0102439" lon="21.4657857">
+      <ele>141</ele>
+      <time>2022-01-18T01:04:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0103107" lon="21.4658176">
+      <ele>141</ele>
+      <time>2022-01-18T01:04:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0104658" lon="21.4660644">
+      <ele>141</ele>
+      <time>2022-01-18T01:04:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0108687" lon="21.466574">
+      <ele>139</ele>
+      <time>2022-01-18T01:05:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0113078" lon="21.4673948">
+      <ele>139</ele>
+      <time>2022-01-18T01:06:16Z</time>
+    </trkpt>
+    <trkpt lat="52.0122554" lon="21.4686661">
+      <ele>136</ele>
+      <time>2022-01-18T01:07:50Z</time>
+    </trkpt>
+    <trkpt lat="52.0129362" lon="21.470298">
+      <ele>135</ele>
+      <time>2022-01-18T01:09:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

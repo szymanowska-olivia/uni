@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:42Z</time>
+    <bounds maxlat="50.2591344" maxlon="17.2055715" minlat="50.2566411" minlon="17.2045201"/>
+  </metadata>
+  <wpt lat="50.256641" lon="17.20452">
+    <ele>663</ele>
+    <name>Krajnik, Vyhlidkove misto</name>
+    <link href="https://mapa-turystyczna.pl/node/6210">
+      <text>Krajnik, Vyhlidkove misto</text>
+    </link>
+  </wpt>
+  <wpt lat="50.259134" lon="17.205518">
+    <ele>655</ele>
+    <name>Tisova skalka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6212">
+      <text>Tisova skalka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krajnik, Vyhlidkove misto - Tisova skalka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2566411,17.2045201;50.25792205059627,17.205064599999993;50.2591344,17.2055179">
+    <text>Krajnik, Vyhlidkove misto - Tisova skalka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2566411" lon="17.2045201">
+      <ele>663</ele>
+      <time>2022-01-17T22:47:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2569086" lon="17.2047669">
+      <ele>665</ele>
+      <time>2022-01-17T22:48:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2570458" lon="17.2049975">
+      <ele>665</ele>
+      <time>2022-01-17T22:48:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2574539" lon="17.2049868">
+      <ele>672</ele>
+      <time>2022-01-17T22:49:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2576837" lon="17.2050083">
+      <ele>671</ele>
+      <time>2022-01-17T22:49:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2581604" lon="17.2051209">
+      <ele>664</ele>
+      <time>2022-01-17T22:50:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2586646" lon="17.2053677">
+      <ele>662</ele>
+      <time>2022-01-17T22:51:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2589321" lon="17.2054803">
+      <ele>658</ele>
+      <time>2022-01-17T22:52:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2590452" lon="17.2055715">
+      <ele>656</ele>
+      <time>2022-01-17T22:52:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2591344" lon="17.2055179">
+      <ele>655</ele>
+      <time>2022-01-17T22:52:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

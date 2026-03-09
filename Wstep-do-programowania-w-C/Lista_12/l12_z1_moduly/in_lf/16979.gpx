@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:06Z</time>
+    <bounds maxlat="52.3420508" maxlon="20.8463375" minlat="52.3384071" minlon="20.8356142"/>
+  </metadata>
+  <wpt lat="52.338407" lon="20.835614">
+    <ele>86</ele>
+    <name>Lomianki, kamien Zboinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4944">
+      <text>Lomianki, kamien Zboinskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.341907" lon="20.846338">
+    <ele>84</ele>
+    <name>Dziekanow Lesny, petla</name>
+    <link href="https://mapa-turystyczna.pl/node/11613">
+      <text>Dziekanow Lesny, petla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lomianki, kamien Zboinskiego - Dziekanow Lesny, petla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3384071,20.8356142;52.33958701574135,20.838854300000005;52.3419075,20.8463375">
+    <text>Lomianki, kamien Zboinskiego - Dziekanow Lesny, petla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3384071" lon="20.8356142">
+      <ele>86</ele>
+      <time>2022-01-18T01:06:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3407669" lon="20.8420944">
+      <ele>87</ele>
+      <time>2022-01-18T01:15:13Z</time>
+    </trkpt>
+    <trkpt lat="52.3414645" lon="20.8440154">
+      <ele>87</ele>
+      <time>2022-01-18T01:17:55Z</time>
+    </trkpt>
+    <trkpt lat="52.3420508" lon="20.8455491">
+      <ele>85</ele>
+      <time>2022-01-18T01:20:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3419852" lon="20.8460534">
+      <ele>85</ele>
+      <time>2022-01-18T01:20:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3419075" lon="20.8463375">
+      <ele>84</ele>
+      <time>2022-01-18T01:21:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

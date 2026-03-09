@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:22Z</time>
+    <bounds maxlat="48.9021321" maxlon="19.0810928" minlat="48.8997941" minlon="19.079234"/>
+  </metadata>
+  <wpt lat="48.902132" lon="19.079234">
+    <ele>1592</ele>
+    <name>Ostredok, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5599">
+      <text>Ostredok, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.899794" lon="19.081085">
+    <ele>1596</ele>
+    <name>Ostredok</name>
+    <link href="https://mapa-turystyczna.pl/node/5600">
+      <text>Ostredok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostredok, razc. - Ostredok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9021321,19.079234;48.900406802921395,19.08061400000002;48.8997941,19.0810847">
+    <text>Ostredok, razc. - Ostredok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9021321" lon="19.079234">
+      <ele>1592</ele>
+      <time>2022-01-17T22:29:22Z</time>
+    </trkpt>
+    <trkpt lat="48.9015978" lon="19.079639">
+      <ele>1590</ele>
+      <time>2022-01-17T22:30:30Z</time>
+    </trkpt>
+    <trkpt lat="48.9009472" lon="19.0801352">
+      <ele>1586</ele>
+      <time>2022-01-17T22:31:52Z</time>
+    </trkpt>
+    <trkpt lat="48.8998664" lon="19.0810928">
+      <ele>1595</ele>
+      <time>2022-01-17T22:34:14Z</time>
+    </trkpt>
+    <trkpt lat="48.8997941" lon="19.0810847">
+      <ele>1596</ele>
+      <time>2022-01-17T22:34:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

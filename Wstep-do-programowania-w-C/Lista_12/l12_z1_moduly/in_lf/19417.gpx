@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:00Z</time>
+    <bounds maxlat="49.513519" maxlon="19.116942" minlat="49.513061" minlon="19.116558"/>
+  </metadata>
+  <wpt lat="49.513519" lon="19.116558">
+    <ele>487</ele>
+    <name>Rajcza, sciezka rowerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13115">
+      <text>Rajcza, sciezka rowerowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.513061" lon="19.116942">
+    <ele>487</ele>
+    <name>Rajcza, most</name>
+    <link href="https://mapa-turystyczna.pl/node/3857">
+      <text>Rajcza, most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rajcza, sciezka rowerowa - Rajcza, most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.513519,19.116558;49.513290000536074,19.116749999999996;49.513061,19.116942">
+    <text>Rajcza, sciezka rowerowa - Rajcza, most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.513519" lon="19.116558">
+      <ele>487</ele>
+      <time>2022-01-18T01:48:00Z</time>
+    </trkpt>
+    <trkpt lat="49.513061" lon="19.116942">
+      <ele>487</ele>
+      <time>2022-01-18T01:49:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

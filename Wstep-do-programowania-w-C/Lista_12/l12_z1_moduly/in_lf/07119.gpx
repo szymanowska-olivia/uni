@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:02Z</time>
+    <bounds maxlat="49.715997" maxlon="20.178111" minlat="49.715742" minlon="20.177865"/>
+  </metadata>
+  <wpt lat="49.715997" lon="20.178111">
+    <ele>1007</ele>
+    <name>Snieznica</name>
+    <link href="https://mapa-turystyczna.pl/node/4845">
+      <text>Snieznica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.715742" lon="20.177865">
+    <ele>1001</ele>
+    <name>Pod Snieznica</name>
+    <link href="https://mapa-turystyczna.pl/node/4842">
+      <text>Pod Snieznica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Snieznica - Pod Snieznica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.715997,20.178111;49.71586950016738,20.17798800000002;49.715742,20.177865">
+    <text>Snieznica - Pod Snieznica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.715997" lon="20.178111">
+      <ele>1007</ele>
+      <time>2022-01-17T22:18:02Z</time>
+    </trkpt>
+    <trkpt lat="49.715742" lon="20.177865">
+      <ele>1001</ele>
+      <time>2022-01-17T22:19:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

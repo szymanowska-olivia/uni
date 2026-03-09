@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:19Z</time>
+    <bounds maxlat="52.3098431" maxlon="20.6106274" minlat="52.3077103" minlon="20.6071759"/>
+  </metadata>
+  <wpt lat="52.30771" lon="20.610627">
+    <ele>79</ele>
+    <name>Roztoka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12404">
+      <text>Roztoka, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.309843" lon="20.607176">
+    <ele>84</ele>
+    <name>Roztoka, skrzyzowanie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/4938">
+      <text>Roztoka, skrzyzowanie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roztoka, parking - Roztoka, skrzyzowanie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3077103,20.6106274;52.30900670018476,20.609335199999997;52.3098431,20.6071759">
+    <text>Roztoka, parking - Roztoka, skrzyzowanie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3077103" lon="20.6106274">
+      <ele>79</ele>
+      <time>2022-01-18T01:28:19Z</time>
+    </trkpt>
+    <trkpt lat="52.3078841" lon="20.6102924">
+      <ele>82</ele>
+      <time>2022-01-18T01:28:45Z</time>
+    </trkpt>
+    <trkpt lat="52.3080506" lon="20.6101205">
+      <ele>85</ele>
+      <time>2022-01-18T01:29:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3085278" lon="20.6098841">
+      <ele>85</ele>
+      <time>2022-01-18T01:29:51Z</time>
+    </trkpt>
+    <trkpt lat="52.3086902" lon="20.6097442">
+      <ele>85</ele>
+      <time>2022-01-18T01:30:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3088788" lon="20.6095184">
+      <ele>85</ele>
+      <time>2022-01-18T01:30:31Z</time>
+    </trkpt>
+    <trkpt lat="52.3091346" lon="20.609152">
+      <ele>85</ele>
+      <time>2022-01-18T01:31:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3092658" lon="20.6086551">
+      <ele>87</ele>
+      <time>2022-01-18T01:31:35Z</time>
+    </trkpt>
+    <trkpt lat="52.309397" lon="20.6081549">
+      <ele>87</ele>
+      <time>2022-01-18T01:32:07Z</time>
+    </trkpt>
+    <trkpt lat="52.3096856" lon="20.6074079">
+      <ele>84</ele>
+      <time>2022-01-18T01:32:59Z</time>
+    </trkpt>
+    <trkpt lat="52.3098431" lon="20.6071759">
+      <ele>84</ele>
+      <time>2022-01-18T01:33:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

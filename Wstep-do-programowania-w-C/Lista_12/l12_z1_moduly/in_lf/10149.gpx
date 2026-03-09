@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:10Z</time>
+    <bounds maxlat="49.9754791" maxlon="17.2332841" minlat="49.9720256" minlon="17.2298509"/>
+  </metadata>
+  <wpt lat="49.972026" lon="17.229851">
+    <ele>671</ele>
+    <name>Stara Ves, pila</name>
+    <link href="https://mapa-turystyczna.pl/node/7142">
+      <text>Stara Ves, pila</text>
+    </link>
+  </wpt>
+  <wpt lat="49.975479" lon="17.233284">
+    <ele>697</ele>
+    <name>U Stare Vsi</name>
+    <link href="https://mapa-turystyczna.pl/node/7141">
+      <text>U Stare Vsi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Ves, pila - U Stare Vsi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9720256,17.2298509;49.97352120049879,17.231567499999965;49.9754791,17.2332841">
+    <text>Stara Ves, pila - U Stare Vsi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9720256" lon="17.2298509">
+      <ele>671</ele>
+      <time>2022-01-17T23:11:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9726432" lon="17.2300601">
+      <ele>674</ele>
+      <time>2022-01-17T23:12:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9731814" lon="17.2308916">
+      <ele>680</ele>
+      <time>2022-01-17T23:14:28Z</time>
+    </trkpt>
+    <trkpt lat="49.9733021" lon="17.2312456">
+      <ele>680</ele>
+      <time>2022-01-17T23:15:05Z</time>
+    </trkpt>
+    <trkpt lat="49.9737403" lon="17.2318894">
+      <ele>686</ele>
+      <time>2022-01-17T23:16:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9754791" lon="17.2332841">
+      <ele>697</ele>
+      <time>2022-01-17T23:21:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

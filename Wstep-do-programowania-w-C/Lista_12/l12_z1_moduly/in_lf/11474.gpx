@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:14Z</time>
+    <bounds maxlat="50.781866" maxlon="16.2178597" minlat="50.7805357" minlon="16.2156915"/>
+  </metadata>
+  <wpt lat="50.781866" lon="16.215691">
+    <ele>693</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8057">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.780536" lon="16.21786">
+    <ele>676</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8053">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.781866,16.2156915;50.781218200655545,16.21675634999999;50.7805357,16.2178597">
+    <text>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.781866" lon="16.2156915">
+      <ele>693</ele>
+      <time>2022-01-17T23:35:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7817846" lon="16.2158123">
+      <ele>693</ele>
+      <time>2022-01-17T23:35:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7814658" lon="16.2162065">
+      <ele>695</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7809706" lon="16.2173062">
+      <ele>680</ele>
+      <time>2022-01-17T23:37:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7805357" lon="16.2178597">
+      <ele>676</ele>
+      <time>2022-01-17T23:38:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

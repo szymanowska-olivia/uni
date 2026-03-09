@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:19Z</time>
+    <bounds maxlat="49.559837" maxlon="20.039605" minlat="49.559358" minlon="20.038458"/>
+  </metadata>
+  <wpt lat="49.559358" lon="20.038458">
+    <ele>964</ele>
+    <name>Stare Wierchy</name>
+    <link href="https://mapa-turystyczna.pl/node/3951">
+      <text>Stare Wierchy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.559837" lon="20.039605">
+    <ele>964</ele>
+    <name>Schronisko PTTK Stare Wierchy</name>
+    <link href="https://mapa-turystyczna.pl/node/114">
+      <text>Schronisko PTTK Stare Wierchy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stare Wierchy - Schronisko PTTK Stare Wierchy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.559358,20.038458;49.55946700012167,20.03877399999999;49.559837,20.039605">
+    <text>Stare Wierchy - Schronisko PTTK Stare Wierchy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.559358" lon="20.038458">
+      <ele>964</ele>
+      <time>2022-01-17T21:59:19Z</time>
+    </trkpt>
+    <trkpt lat="49.559576" lon="20.03909">
+      <ele>963</ele>
+      <time>2022-01-17T22:00:21Z</time>
+    </trkpt>
+    <trkpt lat="49.559703" lon="20.039419">
+      <ele>963</ele>
+      <time>2022-01-17T22:00:55Z</time>
+    </trkpt>
+    <trkpt lat="49.559837" lon="20.039605">
+      <ele>964</ele>
+      <time>2022-01-17T22:01:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

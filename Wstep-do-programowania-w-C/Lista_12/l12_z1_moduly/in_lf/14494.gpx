@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:17Z</time>
+    <bounds maxlat="49.9792436" maxlon="18.2187549" minlat="49.9770831" minlon="18.2143409"/>
+  </metadata>
+  <wpt lat="49.979244" lon="18.214341">
+    <ele>212</ele>
+    <name>Owsiszcze, granica panstwa</name>
+    <link href="https://mapa-turystyczna.pl/node/9881">
+      <text>Owsiszcze, granica panstwa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.977083" lon="18.218755">
+    <ele>213</ele>
+    <name>Owsiszcze, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/9880">
+      <text>Owsiszcze, przystanek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Owsiszcze, granica panstwa - Owsiszcze, przystanek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9792436,18.2143409;49.978187800968605,18.21626744999998;49.9770831,18.2187549">
+    <text>Owsiszcze, granica panstwa - Owsiszcze, przystanek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9792436" lon="18.2143409">
+      <ele>212</ele>
+      <time>2022-01-18T00:23:17Z</time>
+    </trkpt>
+    <trkpt lat="49.9789105" lon="18.2151195">
+      <ele>215</ele>
+      <time>2022-01-18T00:24:07Z</time>
+    </trkpt>
+    <trkpt lat="49.978769" lon="18.2153984">
+      <ele>215</ele>
+      <time>2022-01-18T00:24:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9784931" lon="18.2158437">
+      <ele>214</ele>
+      <time>2022-01-18T00:24:58Z</time>
+    </trkpt>
+    <trkpt lat="49.9778825" lon="18.2166912">
+      <ele>214</ele>
+      <time>2022-01-18T00:26:06Z</time>
+    </trkpt>
+    <trkpt lat="49.9776479" lon="18.2169916">
+      <ele>213</ele>
+      <time>2022-01-18T00:26:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9775608" lon="18.217119">
+      <ele>214</ele>
+      <time>2022-01-18T00:26:41Z</time>
+    </trkpt>
+    <trkpt lat="49.9774564" lon="18.2173376">
+      <ele>214</ele>
+      <time>2022-01-18T00:26:55Z</time>
+    </trkpt>
+    <trkpt lat="49.9773443" lon="18.2175978">
+      <ele>214</ele>
+      <time>2022-01-18T00:27:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9772546" lon="18.217925">
+      <ele>213</ele>
+      <time>2022-01-18T00:27:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9770831" lon="18.2187549">
+      <ele>213</ele>
+      <time>2022-01-18T00:28:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

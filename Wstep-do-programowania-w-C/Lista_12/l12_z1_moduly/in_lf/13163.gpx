@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:24Z</time>
+    <bounds maxlat="49.3570885" maxlon="21.7687218" minlat="49.3565155" minlon="21.7675309"/>
+  </metadata>
+  <wpt lat="49.356516" lon="21.767531">
+    <ele>597</ele>
+    <name>Sedlo pod Beskydom</name>
+    <link href="https://mapa-turystyczna.pl/node/9077">
+      <text>Sedlo pod Beskydom</text>
+    </link>
+  </wpt>
+  <wpt lat="49.357089" lon="21.768722">
+    <ele>601</ele>
+    <name>Sedlo pod Beskydom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9078">
+      <text>Sedlo pod Beskydom, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo pod Beskydom - Sedlo pod Beskydom, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3565155,21.7675309;49.356698300339716,21.767858749999984;49.3570885,21.7687218">
+    <text>Sedlo pod Beskydom - Sedlo pod Beskydom, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3565155" lon="21.7675309">
+      <ele>597</ele>
+      <time>2022-01-18T00:03:24Z</time>
+    </trkpt>
+    <trkpt lat="49.3568811" lon="21.7681866">
+      <ele>597</ele>
+      <time>2022-01-18T00:04:34Z</time>
+    </trkpt>
+    <trkpt lat="49.3570885" lon="21.7687218">
+      <ele>601</ele>
+      <time>2022-01-18T00:05:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

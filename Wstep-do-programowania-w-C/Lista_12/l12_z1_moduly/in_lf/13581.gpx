@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:37Z</time>
+    <bounds maxlat="50.6744349" maxlon="15.8631735" minlat="50.6741902" minlon="15.8607656"/>
+  </metadata>
+  <wpt lat="50.674435" lon="15.860766">
+    <ele>947</ele>
+    <name>Roh hranic</name>
+    <link href="https://mapa-turystyczna.pl/node/1326">
+      <text>Roh hranic</text>
+    </link>
+  </wpt>
+  <wpt lat="50.67419" lon="15.863174">
+    <ele>925</ele>
+    <name>Roh hranic, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9369">
+      <text>Roh hranic, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roh hranic - Roh hranic, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6744349,15.8607656;50.67434400005173,15.861768549999992;50.6741902,15.8631735">
+    <text>Roh hranic - Roh hranic, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6744349" lon="15.8607656">
+      <ele>947</ele>
+      <time>2022-01-18T00:09:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6744137" lon="15.8610685">
+      <ele>947</ele>
+      <time>2022-01-18T00:09:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6742743" lon="15.8624686">
+      <ele>933</ele>
+      <time>2022-01-18T00:11:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6741902" lon="15.8631735">
+      <ele>925</ele>
+      <time>2022-01-18T00:12:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

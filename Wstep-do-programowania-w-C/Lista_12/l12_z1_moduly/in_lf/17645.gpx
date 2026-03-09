@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:06Z</time>
+    <bounds maxlat="51.982829" maxlon="20.657022" minlat="51.9815901" minlon="20.6549889"/>
+  </metadata>
+  <wpt lat="51.982829" lon="20.657022">
+    <ele>160</ele>
+    <name>Bartoszowka</name>
+    <link href="https://mapa-turystyczna.pl/node/11971">
+      <text>Bartoszowka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.98159" lon="20.654989">
+    <ele>158</ele>
+    <name>Bartoszowka, ul. Palacowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11972">
+      <text>Bartoszowka, ul. Palacowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bartoszowka - Bartoszowka, ul. Palacowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.982829,20.657022;51.98218700397706,20.6557644;51.9815901,20.6549889">
+    <text>Bartoszowka - Bartoszowka, ul. Palacowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.982829" lon="20.657022">
+      <ele>160</ele>
+      <time>2022-01-18T01:17:06Z</time>
+    </trkpt>
+    <trkpt lat="51.9827839" lon="20.6565399">
+      <ele>160</ele>
+      <time>2022-01-18T01:17:36Z</time>
+    </trkpt>
+    <trkpt lat="51.9815901" lon="20.6549889">
+      <ele>158</ele>
+      <time>2022-01-18T01:20:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

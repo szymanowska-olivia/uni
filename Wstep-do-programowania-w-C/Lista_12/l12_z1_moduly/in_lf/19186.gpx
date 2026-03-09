@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:44Z</time>
+    <bounds maxlat="50.9091083" maxlon="15.3527713" minlat="50.9080443" minlon="15.3515952"/>
+  </metadata>
+  <wpt lat="50.908155" lon="15.351595">
+    <ele>584</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12962">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.909108" lon="15.352771">
+    <ele>597</ele>
+    <name>Barylka</name>
+    <link href="https://mapa-turystyczna.pl/node/2258">
+      <text>Barylka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Barylka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9081551,15.3515952;50.90862025255854,15.352399050000018;50.9091083,15.3527713">
+    <text>Rozejscie szlakow - Barylka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9081551" lon="15.3515952">
+      <ele>584</ele>
+      <time>2022-01-18T01:43:44Z</time>
+    </trkpt>
+    <trkpt lat="50.908068" lon="15.3517318">
+      <ele>585</ele>
+      <time>2022-01-18T01:44:10Z</time>
+    </trkpt>
+    <trkpt lat="50.9080443" lon="15.3518337">
+      <ele>586</ele>
+      <time>2022-01-18T01:44:24Z</time>
+    </trkpt>
+    <trkpt lat="50.9080511" lon="15.3519464">
+      <ele>587</ele>
+      <time>2022-01-18T01:44:39Z</time>
+    </trkpt>
+    <trkpt lat="50.9081322" lon="15.3520268">
+      <ele>587</ele>
+      <time>2022-01-18T01:44:59Z</time>
+    </trkpt>
+    <trkpt lat="50.9091083" lon="15.3527713">
+      <ele>597</ele>
+      <time>2022-01-18T01:48:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

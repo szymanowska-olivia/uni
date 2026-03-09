@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:13Z</time>
+    <bounds maxlat="51.5618273" maxlon="16.6922995" minlat="51.5609903" minlon="16.691091"/>
+  </metadata>
+  <wpt lat="51.561827" lon="16.691227">
+    <ele>88</ele>
+    <name>Wasosz</name>
+    <link href="https://mapa-turystyczna.pl/node/10194">
+      <text>Wasosz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.56099" lon="16.6923">
+    <ele>90</ele>
+    <name>Wasosz, Plac Koscielny</name>
+    <link href="https://mapa-turystyczna.pl/node/10195">
+      <text>Wasosz, Plac Koscielny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz - Wasosz, Plac Koscielny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5618273,16.6912267;51.561077700083985,16.69174084999998;51.5609903,16.6922995">
+    <text>Wasosz - Wasosz, Plac Koscielny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5618273" lon="16.6912267">
+      <ele>88</ele>
+      <time>2022-01-18T00:31:13Z</time>
+    </trkpt>
+    <trkpt lat="51.5617687" lon="16.6912949">
+      <ele>89</ele>
+      <time>2022-01-18T00:31:22Z</time>
+    </trkpt>
+    <trkpt lat="51.5613252" lon="16.6911661">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:19Z</time>
+    </trkpt>
+    <trkpt lat="51.5612718" lon="16.691091">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:28Z</time>
+    </trkpt>
+    <trkpt lat="51.5611651" lon="16.6911822">
+      <ele>90</ele>
+      <time>2022-01-18T00:32:43Z</time>
+    </trkpt>
+    <trkpt lat="51.5609903" lon="16.6922995">
+      <ele>90</ele>
+      <time>2022-01-18T00:34:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:59Z</time>
+    <bounds maxlat="50.8542178" maxlon="16.0095155" minlat="50.8522468" minlon="15.995627"/>
+  </metadata>
+  <wpt lat="50.852247" lon="16.009515">
+    <ele>417</ele>
+    <name>Marciszow</name>
+    <link href="https://mapa-turystyczna.pl/node/2572">
+      <text>Marciszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.853155" lon="15.995627">
+    <ele>417</ele>
+    <name>Marciszow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3023">
+      <text>Marciszow, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Marciszow - Marciszow, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8522468,16.0095155;50.853937550841984,16.0028623;50.8531545,15.995627">
+    <text>Marciszow - Marciszow, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8522468" lon="16.0095155">
+      <ele>417</ele>
+      <time>2022-01-17T21:40:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8524847" lon="16.009009">
+      <ele>417</ele>
+      <time>2022-01-17T21:41:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8525685" lon="16.0087323">
+      <ele>416</ele>
+      <time>2022-01-17T21:41:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8533983" lon="16.0058248">
+      <ele>416</ele>
+      <time>2022-01-17T21:45:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8537945" lon="16.0044086">
+      <ele>415</ele>
+      <time>2022-01-17T21:46:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8542178" lon="16.0032553">
+      <ele>412</ele>
+      <time>2022-01-17T21:47:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8536573" lon="16.0024693">
+      <ele>412</ele>
+      <time>2022-01-17T21:49:01Z</time>
+    </trkpt>
+    <trkpt lat="50.853437" lon="16.0022825">
+      <ele>413</ele>
+      <time>2022-01-17T21:49:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8533542" lon="16.0020643">
+      <ele>413</ele>
+      <time>2022-01-17T21:49:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8532967" lon="16.0009968">
+      <ele>411</ele>
+      <time>2022-01-17T21:50:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8532086" lon="15.9984863">
+      <ele>410</ele>
+      <time>2022-01-17T21:53:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8531545" lon="15.995627">
+      <ele>417</ele>
+      <time>2022-01-17T21:55:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:50Z</time>
+    <bounds maxlat="50.8461989" maxlon="16.7025608" minlat="50.8450428" minlon="16.7004382"/>
+  </metadata>
+  <wpt lat="50.846199" lon="16.700438">
+    <ele>384</ele>
+    <name>Przelecz Tapadla</name>
+    <link href="https://mapa-turystyczna.pl/node/5253">
+      <text>Przelecz Tapadla</text>
+    </link>
+  </wpt>
+  <wpt lat="50.845043" lon="16.702561">
+    <ele>400</ele>
+    <name>Mieszko i Jagienka</name>
+    <link href="https://mapa-turystyczna.pl/node/2697">
+      <text>Mieszko i Jagienka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Tapadla - Mieszko i Jagienka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8461989,16.7004382;50.846013600019276,16.702131299999976;50.8450428,16.7025608">
+    <text>Przelecz Tapadla - Mieszko i Jagienka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8461989" lon="16.7004382">
+      <ele>384</ele>
+      <time>2022-01-17T22:27:50Z</time>
+    </trkpt>
+    <trkpt lat="50.846056" lon="16.7017615">
+      <ele>387</ele>
+      <time>2022-01-17T22:29:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8459712" lon="16.7025011">
+      <ele>386</ele>
+      <time>2022-01-17T22:30:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8455098" lon="16.7025152">
+      <ele>393</ele>
+      <time>2022-01-17T22:31:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8450428" lon="16.7025608">
+      <ele>400</ele>
+      <time>2022-01-17T22:32:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

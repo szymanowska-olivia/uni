@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:56Z</time>
+    <bounds maxlat="50.8445313" maxlon="16.7782509" minlat="50.843729" minlon="16.7749911"/>
+  </metadata>
+  <wpt lat="50.843729" lon="16.778251">
+    <ele>284</ele>
+    <name>Pod Winna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2749">
+      <text>Pod Winna Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.844531" lon="16.774991">
+    <ele>280</ele>
+    <name>Przelecz Sulistrowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2687">
+      <text>Przelecz Sulistrowicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Winna Gora - Przelecz Sulistrowicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.843729,16.7782509;50.84414265058104,16.776322900000007;50.8445313,16.7749911">
+    <text>Pod Winna Gora - Przelecz Sulistrowicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.843729" lon="16.7782509">
+      <ele>284</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8439098" lon="16.7770645">
+      <ele>286</ele>
+      <time>2022-01-17T21:37:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8443755" lon="16.7755813">
+      <ele>283</ele>
+      <time>2022-01-17T21:40:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8445313" lon="16.7749911">
+      <ele>280</ele>
+      <time>2022-01-17T21:40:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

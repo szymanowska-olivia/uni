@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:01Z</time>
+    <bounds maxlat="49.653839" maxlon="18.865831" minlat="49.652904" minlon="18.863803"/>
+  </metadata>
+  <wpt lat="49.652904" lon="18.863803">
+    <ele>432</ele>
+    <name>Wisla, ul. Konopnickiej</name>
+    <link href="https://mapa-turystyczna.pl/node/12332">
+      <text>Wisla, ul. Konopnickiej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.653839" lon="18.865831">
+    <ele>435</ele>
+    <name>Wisla, ul. Willowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12333">
+      <text>Wisla, ul. Willowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, ul. Konopnickiej - Wisla, ul. Willowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.652904,18.863803;49.653407001491274,18.864899500000003;49.653839,18.865831">
+    <text>Wisla, ul. Konopnickiej - Wisla, ul. Willowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.652904" lon="18.863803">
+      <ele>432</ele>
+      <time>2022-01-18T01:26:01Z</time>
+    </trkpt>
+    <trkpt lat="49.653026" lon="18.864078">
+      <ele>433</ele>
+      <time>2022-01-18T01:26:25Z</time>
+    </trkpt>
+    <trkpt lat="49.653788" lon="18.865721">
+      <ele>435</ele>
+      <time>2022-01-18T01:28:51Z</time>
+    </trkpt>
+    <trkpt lat="49.653839" lon="18.865831">
+      <ele>435</ele>
+      <time>2022-01-18T01:29:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

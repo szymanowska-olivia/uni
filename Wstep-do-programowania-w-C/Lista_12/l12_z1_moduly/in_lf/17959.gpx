@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:54Z</time>
+    <bounds maxlat="52.4388773" maxlon="20.6651481" minlat="52.4337524" minlon="20.66091"/>
+  </metadata>
+  <wpt lat="52.433752" lon="20.66091">
+    <ele>101</ele>
+    <name>Reduta Napoleona</name>
+    <link href="https://mapa-turystyczna.pl/node/12234">
+      <text>Reduta Napoleona</text>
+    </link>
+  </wpt>
+  <wpt lat="52.438877" lon="20.665148">
+    <ele>104</ele>
+    <name>Modlin, ul. Obwodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12232">
+      <text>Modlin, ul. Obwodowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Reduta Napoleona - Modlin, ul. Obwodowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4337524,20.66091;52.436184158797815,20.66266360000002;52.4388773,20.6651481">
+    <text>Reduta Napoleona - Modlin, ul. Obwodowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4337524" lon="20.66091">
+      <ele>101</ele>
+      <time>2022-01-18T01:22:54Z</time>
+    </trkpt>
+    <trkpt lat="52.4342715" lon="20.6610541">
+      <ele>98</ele>
+      <time>2022-01-18T01:23:49Z</time>
+    </trkpt>
+    <trkpt lat="52.4343565" lon="20.6610809">
+      <ele>98</ele>
+      <time>2022-01-18T01:23:58Z</time>
+    </trkpt>
+    <trkpt lat="52.4344677" lon="20.6611936">
+      <ele>98</ele>
+      <time>2022-01-18T01:24:11Z</time>
+    </trkpt>
+    <trkpt lat="52.4345658" lon="20.661258">
+      <ele>99</ele>
+      <time>2022-01-18T01:24:22Z</time>
+    </trkpt>
+    <trkpt lat="52.4346345" lon="20.6612848">
+      <ele>100</ele>
+      <time>2022-01-18T01:24:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4353036" lon="20.6618331">
+      <ele>105</ele>
+      <time>2022-01-18T01:25:47Z</time>
+    </trkpt>
+    <trkpt lat="52.4370647" lon="20.6634941">
+      <ele>104</ele>
+      <time>2022-01-18T01:29:18Z</time>
+    </trkpt>
+    <trkpt lat="52.4371399" lon="20.6636121">
+      <ele>104</ele>
+      <time>2022-01-18T01:29:29Z</time>
+    </trkpt>
+    <trkpt lat="52.4372282" lon="20.663639">
+      <ele>105</ele>
+      <time>2022-01-18T01:29:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4387391" lon="20.6650444">
+      <ele>104</ele>
+      <time>2022-01-18T01:32:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4388773" lon="20.6651481">
+      <ele>104</ele>
+      <time>2022-01-18T01:32:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

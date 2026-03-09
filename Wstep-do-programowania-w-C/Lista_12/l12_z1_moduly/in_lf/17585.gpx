@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:56Z</time>
+    <bounds maxlat="52.0826814" maxlon="21.1192279" minlat="52.0792363" minlon="21.1185582"/>
+  </metadata>
+  <wpt lat="52.079236" lon="21.118558">
+    <ele>97</ele>
+    <name>Konstancin-Jeziorna, ul. Ptasia</name>
+    <link href="https://mapa-turystyczna.pl/node/11934">
+      <text>Konstancin-Jeziorna, ul. Ptasia</text>
+    </link>
+  </wpt>
+  <wpt lat="52.082681" lon="21.119207">
+    <ele>94</ele>
+    <name>Konstancin-Jeziorna, ul. Batorego</name>
+    <link href="https://mapa-turystyczna.pl/node/11935">
+      <text>Konstancin-Jeziorna, ul. Batorego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna, ul. Ptasia - Konstancin-Jeziorna, ul. Batorego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0792363,21.1185582;52.080791100304225,21.1191045;52.0826814,21.1192073">
+    <text>Konstancin-Jeziorna, ul. Ptasia - Konstancin-Jeziorna, ul. Batorego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0792363" lon="21.1185582">
+      <ele>97</ele>
+      <time>2022-01-18T01:15:56Z</time>
+    </trkpt>
+    <trkpt lat="52.0801647" lon="21.1191582">
+      <ele>97</ele>
+      <time>2022-01-18T01:17:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0803361" lon="21.1192145">
+      <ele>97</ele>
+      <time>2022-01-18T01:17:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0804614" lon="21.1192279">
+      <ele>97</ele>
+      <time>2022-01-18T01:17:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0806263" lon="21.1191796">
+      <ele>97</ele>
+      <time>2022-01-18T01:18:00Z</time>
+    </trkpt>
+    <trkpt lat="52.0809559" lon="21.1190294">
+      <ele>98</ele>
+      <time>2022-01-18T01:18:29Z</time>
+    </trkpt>
+    <trkpt lat="52.0811264" lon="21.118965">
+      <ele>99</ele>
+      <time>2022-01-18T01:18:44Z</time>
+    </trkpt>
+    <trkpt lat="52.0812978" lon="21.118965">
+      <ele>99</ele>
+      <time>2022-01-18T01:18:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0820758" lon="21.1190831">
+      <ele>95</ele>
+      <time>2022-01-18T01:20:04Z</time>
+    </trkpt>
+    <trkpt lat="52.0826814" lon="21.1192073">
+      <ele>94</ele>
+      <time>2022-01-18T01:20:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

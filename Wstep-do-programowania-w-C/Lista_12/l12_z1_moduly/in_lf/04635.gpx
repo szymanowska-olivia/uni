@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:52Z</time>
+    <bounds maxlat="51.0461832" maxlon="20.8492827" minlat="51.0453131" minlon="20.8491755"/>
+  </metadata>
+  <wpt lat="51.046183" lon="20.849176">
+    <ele>269</ele>
+    <name>Suchedniow</name>
+    <link href="https://mapa-turystyczna.pl/node/3199">
+      <text>Suchedniow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.045313" lon="20.849283">
+    <ele>272</ele>
+    <name>Suchedniow, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/3237">
+      <text>Suchedniow, PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Suchedniow - Suchedniow, PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0461832,20.8491755;51.04574815204299,20.849229099999985;51.0453131,20.8492827">
+    <text>Suchedniow - Suchedniow, PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0461832" lon="20.8491755">
+      <ele>269</ele>
+      <time>2022-01-17T21:44:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0453131" lon="20.8492827">
+      <ele>272</ele>
+      <time>2022-01-17T21:46:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

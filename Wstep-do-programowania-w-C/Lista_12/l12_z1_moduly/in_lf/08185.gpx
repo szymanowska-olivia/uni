@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:14Z</time>
+    <bounds maxlat="50.3092457" maxlon="16.3238111" minlat="50.3050409" minlon="16.3153732"/>
+  </metadata>
+  <wpt lat="50.309246" lon="16.323811">
+    <ele>788</ele>
+    <name>Pod Spicakem, jih</name>
+    <link href="https://mapa-turystyczna.pl/node/5689">
+      <text>Pod Spicakem, jih</text>
+    </link>
+  </wpt>
+  <wpt lat="50.305041" lon="16.315373">
+    <ele>714</ele>
+    <name>Sediviny, kostel</name>
+    <link href="https://mapa-turystyczna.pl/node/1895">
+      <text>Sediviny, kostel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Spicakem, jih - Sediviny, kostel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3092457,16.3238111;50.307070951646686,16.32025480000002;50.3050409,16.3153732">
+    <text>Pod Spicakem, jih - Sediviny, kostel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3092457" lon="16.3238111">
+      <ele>788</ele>
+      <time>2022-01-17T22:34:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3085836" lon="16.3232803">
+      <ele>785</ele>
+      <time>2022-01-17T22:35:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3079909" lon="16.322583">
+      <ele>773</ele>
+      <time>2022-01-17T22:36:20Z</time>
+    </trkpt>
+    <trkpt lat="50.3074667" lon="16.3210273">
+      <ele>761</ele>
+      <time>2022-01-17T22:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3066752" lon="16.3194823">
+      <ele>742</ele>
+      <time>2022-01-17T22:39:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3063223" lon="16.3184738">
+      <ele>732</ele>
+      <time>2022-01-17T22:40:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3059712" lon="16.3176075">
+      <ele>725</ele>
+      <time>2022-01-17T22:41:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3054692" lon="16.3156897">
+      <ele>713</ele>
+      <time>2022-01-17T22:43:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3050409" lon="16.3153732">
+      <ele>714</ele>
+      <time>2022-01-17T22:44:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:43:13Z</time>
+    <bounds maxlat="50.8270184" maxlon="16.3879001" minlat="50.8228039" minlon="16.3792784"/>
+  </metadata>
+  <wpt lat="50.822804" lon="16.3879">
+    <ele>319</ele>
+    <name>Pod Sowina</name>
+    <link href="https://mapa-turystyczna.pl/node/2584">
+      <text>Pod Sowina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.827018" lon="16.379278">
+    <ele>359</ele>
+    <name>Pod Chlodnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/8312">
+      <text>Pod Chlodnikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sowina - Pod Chlodnikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8228039,16.3879001;50.82546660468775,16.38449235000003;50.8270184,16.3792784">
+    <text>Pod Sowina - Pod Chlodnikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8228039" lon="16.3879001">
+      <ele>319</ele>
+      <time>2022-01-17T23:43:13Z</time>
+    </trkpt>
+    <trkpt lat="50.824805" lon="16.3853225">
+      <ele>334</ele>
+      <time>2022-01-17T23:48:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8261282" lon="16.3836622">
+      <ele>342</ele>
+      <time>2022-01-17T23:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8263383" lon="16.3832009">
+      <ele>345</ele>
+      <time>2022-01-17T23:52:49Z</time>
+    </trkpt>
+    <trkpt lat="50.826484" lon="16.382647">
+      <ele>347</ele>
+      <time>2022-01-17T23:53:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8265569" lon="16.3819624">
+      <ele>350</ele>
+      <time>2022-01-17T23:54:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8265797" lon="16.3814162">
+      <ele>352</ele>
+      <time>2022-01-17T23:55:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8266297" lon="16.3809988">
+      <ele>354</ele>
+      <time>2022-01-17T23:55:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8268534" lon="16.3803846">
+      <ele>357</ele>
+      <time>2022-01-17T23:56:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8270184" lon="16.3792784">
+      <ele>359</ele>
+      <time>2022-01-17T23:58:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

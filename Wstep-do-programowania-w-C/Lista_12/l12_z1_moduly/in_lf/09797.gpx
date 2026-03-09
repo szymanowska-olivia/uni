@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:21Z</time>
+    <bounds maxlat="49.704949" maxlon="20.419774" minlat="49.704349" minlon="20.4194"/>
+  </metadata>
+  <wpt lat="49.704949" lon="20.41977">
+    <ele>402</ele>
+    <name>Limanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/6883">
+      <text>Limanowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.704349" lon="20.4194">
+    <ele>404</ele>
+    <name>Limanowa, park</name>
+    <link href="https://mapa-turystyczna.pl/node/887">
+      <text>Limanowa, park</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Limanowa - Limanowa, park</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.704949,20.41977;49.704659000062634,20.419616500000007;49.704349,20.4194">
+    <text>Limanowa - Limanowa, park</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.704949" lon="20.41977">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:21Z</time>
+    </trkpt>
+    <trkpt lat="49.704876" lon="20.419774">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:28Z</time>
+    </trkpt>
+    <trkpt lat="49.704827" lon="20.419756">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:32Z</time>
+    </trkpt>
+    <trkpt lat="49.704792" lon="20.419693">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:37Z</time>
+    </trkpt>
+    <trkpt lat="49.704737" lon="20.419659">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:42Z</time>
+    </trkpt>
+    <trkpt lat="49.704581" lon="20.419574">
+      <ele>402</ele>
+      <time>2022-01-17T23:04:57Z</time>
+    </trkpt>
+    <trkpt lat="49.704527" lon="20.419528">
+      <ele>403</ele>
+      <time>2022-01-17T23:05:03Z</time>
+    </trkpt>
+    <trkpt lat="49.704456" lon="20.419457">
+      <ele>403</ele>
+      <time>2022-01-17T23:05:11Z</time>
+    </trkpt>
+    <trkpt lat="49.704349" lon="20.4194">
+      <ele>404</ele>
+      <time>2022-01-17T23:05:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:23Z</time>
+    <bounds maxlat="49.9164021" maxlon="17.1868629" minlat="49.9127682" minlon="17.1822817"/>
+  </metadata>
+  <wpt lat="49.91625" lon="17.182604">
+    <ele>734</ele>
+    <name>Dobrecov</name>
+    <link href="https://mapa-turystyczna.pl/node/7856">
+      <text>Dobrecov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.912768" lon="17.182282">
+    <ele>773</ele>
+    <name>Spicak, vrchol</name>
+    <link href="https://mapa-turystyczna.pl/node/7857">
+      <text>Spicak, vrchol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dobrecov - Spicak, vrchol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9162497,17.1826036;49.915303701607975,17.186701950000003;49.9127682,17.1822817">
+    <text>Dobrecov - Spicak, vrchol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9162497" lon="17.1826036">
+      <ele>734</ele>
+      <time>2022-01-17T23:29:23Z</time>
+    </trkpt>
+    <trkpt lat="49.9162698" lon="17.1830085">
+      <ele>735</ele>
+      <time>2022-01-17T23:29:55Z</time>
+    </trkpt>
+    <trkpt lat="49.9163498" lon="17.1832513">
+      <ele>736</ele>
+      <time>2022-01-17T23:30:16Z</time>
+    </trkpt>
+    <trkpt lat="49.9164021" lon="17.1834941">
+      <ele>738</ele>
+      <time>2022-01-17T23:30:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9162836" lon="17.1836952">
+      <ele>741</ele>
+      <time>2022-01-17T23:30:57Z</time>
+    </trkpt>
+    <trkpt lat="49.916028" lon="17.1837595">
+      <ele>743</ele>
+      <time>2022-01-17T23:31:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9158978" lon="17.1839661">
+      <ele>744</ele>
+      <time>2022-01-17T23:31:51Z</time>
+    </trkpt>
+    <trkpt lat="49.9159116" lon="17.1850926">
+      <ele>749</ele>
+      <time>2022-01-17T23:33:19Z</time>
+    </trkpt>
+    <trkpt lat="49.9156975" lon="17.1868629">
+      <ele>748</ele>
+      <time>2022-01-17T23:35:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9149099" lon="17.186541">
+      <ele>746</ele>
+      <time>2022-01-17T23:37:18Z</time>
+    </trkpt>
+    <trkpt lat="49.9134649" lon="17.1841807">
+      <ele>763</ele>
+      <time>2022-01-17T23:41:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9127682" lon="17.1822817">
+      <ele>773</ele>
+      <time>2022-01-17T23:44:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

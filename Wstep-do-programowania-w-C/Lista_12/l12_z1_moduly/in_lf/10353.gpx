@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:37Z</time>
+    <bounds maxlat="51.1850926" maxlon="20.6655299" minlat="51.1834724" minlon="20.6603226"/>
+  </metadata>
+  <wpt lat="51.185093" lon="20.660323">
+    <ele>351</ele>
+    <name>Skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7281">
+      <text>Skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.183472" lon="20.66553">
+    <ele>355</ele>
+    <name>Rezerwat Skalki Pieklo pod Nieklaniem</name>
+    <link href="https://mapa-turystyczna.pl/node/3216">
+      <text>Rezerwat Skalki Pieklo pod Nieklaniem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / czarny - Rezerwat Skalki Pieklo pod Nieklaniem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1850926,20.6603226;51.183821400054086,20.662509800000002;51.1834724,20.6655299">
+    <text>Skrzyzowanie szlakow czerwony / czarny - Rezerwat Skalki Pieklo pod Nieklaniem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1850926" lon="20.6603226">
+      <ele>351</ele>
+      <time>2022-01-17T23:14:37Z</time>
+    </trkpt>
+    <trkpt lat="51.184847" lon="20.660938">
+      <ele>353</ele>
+      <time>2022-01-17T23:15:12Z</time>
+    </trkpt>
+    <trkpt lat="51.1844435" lon="20.6612384">
+      <ele>354</ele>
+      <time>2022-01-17T23:15:47Z</time>
+    </trkpt>
+    <trkpt lat="51.1841341" lon="20.6616676">
+      <ele>353</ele>
+      <time>2022-01-17T23:16:19Z</time>
+    </trkpt>
+    <trkpt lat="51.183892" lon="20.662204">
+      <ele>353</ele>
+      <time>2022-01-17T23:16:51Z</time>
+    </trkpt>
+    <trkpt lat="51.1837508" lon="20.6628156">
+      <ele>353</ele>
+      <time>2022-01-17T23:17:22Z</time>
+    </trkpt>
+    <trkpt lat="51.1837172" lon="20.6632662">
+      <ele>355</ele>
+      <time>2022-01-17T23:17:44Z</time>
+    </trkpt>
+    <trkpt lat="51.1836768" lon="20.6636524">
+      <ele>357</ele>
+      <time>2022-01-17T23:18:03Z</time>
+    </trkpt>
+    <trkpt lat="51.1835423" lon="20.6642532">
+      <ele>358</ele>
+      <time>2022-01-17T23:18:34Z</time>
+    </trkpt>
+    <trkpt lat="51.1835625" lon="20.6647682">
+      <ele>357</ele>
+      <time>2022-01-17T23:18:59Z</time>
+    </trkpt>
+    <trkpt lat="51.1834724" lon="20.6655299">
+      <ele>355</ele>
+      <time>2022-01-17T23:19:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

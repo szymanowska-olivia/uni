@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:07Z</time>
+    <bounds maxlat="52.2967877" maxlon="16.772882" minlat="52.29489" minlon="16.7685927"/>
+  </metadata>
+  <wpt lat="52.296788" lon="16.768593">
+    <ele>89</ele>
+    <name>Trzebaw Rosnowko</name>
+    <link href="https://mapa-turystyczna.pl/node/10231">
+      <text>Trzebaw Rosnowko</text>
+    </link>
+  </wpt>
+  <wpt lat="52.29489" lon="16.772882">
+    <ele>89</ele>
+    <name>Rosnowko, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10233">
+      <text>Rosnowko, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebaw Rosnowko - Rosnowko, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2967877,16.7685927;52.29595605009526,16.770878400000008;52.29489,16.772882">
+    <text>Trzebaw Rosnowko - Rosnowko, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2967877" lon="16.7685927">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:07Z</time>
+    </trkpt>
+    <trkpt lat="52.2967861" lon="16.7687166">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:14Z</time>
+    </trkpt>
+    <trkpt lat="52.2966778" lon="16.768781">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:24Z</time>
+    </trkpt>
+    <trkpt lat="52.2960479" lon="16.770637">
+      <ele>89</ele>
+      <time>2022-01-18T00:34:23Z</time>
+    </trkpt>
+    <trkpt lat="52.2958642" lon="16.7711198">
+      <ele>89</ele>
+      <time>2022-01-18T00:34:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2957428" lon="16.7714149">
+      <ele>88</ele>
+      <time>2022-01-18T00:35:14Z</time>
+    </trkpt>
+    <trkpt lat="52.29489" lon="16.772882">
+      <ele>89</ele>
+      <time>2022-01-18T00:37:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

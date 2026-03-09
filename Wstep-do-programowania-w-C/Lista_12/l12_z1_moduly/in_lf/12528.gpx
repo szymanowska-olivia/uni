@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:30Z</time>
+    <bounds maxlat="53.8440298" maxlon="14.6228868" minlat="53.8430423" minlon="14.6177003"/>
+  </metadata>
+  <wpt lat="53.843042" lon="14.622887">
+    <ele>-2</ele>
+    <name>Wyspa Ostrow</name>
+    <link href="https://mapa-turystyczna.pl/node/8614">
+      <text>Wyspa Ostrow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.84403" lon="14.6177">
+    <ele>5</ele>
+    <name>Wolin, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8569">
+      <text>Wolin, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wyspa Ostrow - Wolin, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8430423,14.6228868;53.84360010220511,14.619523949999994;53.8440298,14.6177003">
+    <text>Wyspa Ostrow - Wolin, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8430423" lon="14.6228868">
+      <ele>-2</ele>
+      <time>2022-01-17T23:51:30Z</time>
+    </trkpt>
+    <trkpt lat="53.8430501" lon="14.6224849">
+      <ele>-3</ele>
+      <time>2022-01-17T23:51:52Z</time>
+    </trkpt>
+    <trkpt lat="53.8430691" lon="14.6220772">
+      <ele>-2</ele>
+      <time>2022-01-17T23:52:14Z</time>
+    </trkpt>
+    <trkpt lat="53.8431704" lon="14.6213476">
+      <ele>-0</ele>
+      <time>2022-01-17T23:52:55Z</time>
+    </trkpt>
+    <trkpt lat="53.8440298" lon="14.6177003">
+      <ele>5</ele>
+      <time>2022-01-17T23:56:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

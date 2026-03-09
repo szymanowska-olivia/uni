@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:19Z</time>
+    <bounds maxlat="50.4736072" maxlon="18.9144037" minlat="50.4728379" minlon="18.9121505"/>
+  </metadata>
+  <wpt lat="50.473607" lon="18.91215">
+    <ele>300</ele>
+    <name>Zalew Naklo-Chechlo</name>
+    <link href="https://mapa-turystyczna.pl/node/9385">
+      <text>Zalew Naklo-Chechlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.472838" lon="18.914404">
+    <ele>297</ele>
+    <name>Zalew Naklo-Chechlo, plaza</name>
+    <link href="https://mapa-turystyczna.pl/node/9495">
+      <text>Zalew Naklo-Chechlo, plaza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zalew Naklo-Chechlo - Zalew Naklo-Chechlo, plaza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4736072,18.9121505;50.47333670003355,18.913222649999998;50.4728379,18.9144037">
+    <text>Zalew Naklo-Chechlo - Zalew Naklo-Chechlo, plaza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4736072" lon="18.9121505">
+      <ele>300</ele>
+      <time>2022-01-18T00:13:19Z</time>
+    </trkpt>
+    <trkpt lat="50.473393" lon="18.9130537">
+      <ele>299</ele>
+      <time>2022-01-18T00:14:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4732804" lon="18.9133916">
+      <ele>299</ele>
+      <time>2022-01-18T00:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4729799" lon="18.9141212">
+      <ele>297</ele>
+      <time>2022-01-18T00:15:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4728399" lon="18.9144001">
+      <ele>297</ele>
+      <time>2022-01-18T00:16:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4728379" lon="18.9144037">
+      <ele>297</ele>
+      <time>2022-01-18T00:16:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

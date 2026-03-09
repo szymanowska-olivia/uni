@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:26Z</time>
+    <bounds maxlat="50.4169895" maxlon="16.1705124" minlat="50.414736" minlon="16.1696354"/>
+  </metadata>
+  <wpt lat="50.416989" lon="16.169635">
+    <ele>346</ele>
+    <name>Nachod, zeleznicni stanice </name>
+    <link href="https://mapa-turystyczna.pl/node/5771">
+      <text>Nachod, zeleznicni stanice </text>
+    </link>
+  </wpt>
+  <wpt lat="50.414736" lon="16.170512">
+    <ele>352</ele>
+    <name>Nachod, Dobrosovska</name>
+    <link href="https://mapa-turystyczna.pl/node/5770">
+      <text>Nachod, Dobrosovska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nachod, zeleznicni stanice  - Nachod, Dobrosovska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4169895,16.1696354;50.415790150158784,16.170158400000012;50.414736,16.1705124">
+    <text>Nachod, zeleznicni stanice  - Nachod, Dobrosovska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4169895" lon="16.1696354">
+      <ele>346</ele>
+      <time>2022-01-17T22:36:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4166163" lon="16.1698097">
+      <ele>346</ele>
+      <time>2022-01-17T22:37:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4161653" lon="16.1699653">
+      <ele>348</ele>
+      <time>2022-01-17T22:38:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4159128" lon="16.1701155">
+      <ele>347</ele>
+      <time>2022-01-17T22:38:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4156675" lon="16.1702013">
+      <ele>346</ele>
+      <time>2022-01-17T22:39:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4154094" lon="16.1702764">
+      <ele>346</ele>
+      <time>2022-01-17T22:39:57Z</time>
+    </trkpt>
+    <trkpt lat="50.414736" lon="16.1705124">
+      <ele>352</ele>
+      <time>2022-01-17T22:41:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

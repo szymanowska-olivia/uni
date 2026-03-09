@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:28Z</time>
+    <bounds maxlat="49.5256903" maxlon="18.7828804" minlat="49.5255788" minlon="18.7816067"/>
+  </metadata>
+  <wpt lat="49.525684" lon="18.781607">
+    <ele>681</ele>
+    <name>Studenicny, chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7341">
+      <text>Studenicny, chata</text>
+    </link>
+  </wpt>
+  <wpt lat="49.52559" lon="18.78288">
+    <ele>691</ele>
+    <name>Studenicny, chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7342">
+      <text>Studenicny, chata, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studenicny, chata - Studenicny, chata, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5256844,18.7816067;49.52568030000103,18.78226925;49.5255901,18.7828804">
+    <text>Studenicny, chata - Studenicny, chata, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5256844" lon="18.7816067">
+      <ele>681</ele>
+      <time>2022-01-17T23:16:28Z</time>
+    </trkpt>
+    <trkpt lat="49.5256842" lon="18.7816188">
+      <ele>681</ele>
+      <time>2022-01-17T23:16:30Z</time>
+    </trkpt>
+    <trkpt lat="49.5256684" lon="18.7818626">
+      <ele>682</ele>
+      <time>2022-01-17T23:17:03Z</time>
+    </trkpt>
+    <trkpt lat="49.5256703" lon="18.7821928">
+      <ele>685</ele>
+      <time>2022-01-17T23:17:48Z</time>
+    </trkpt>
+    <trkpt lat="49.5256903" lon="18.7823457">
+      <ele>687</ele>
+      <time>2022-01-17T23:18:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5256833" lon="18.7824905">
+      <ele>688</ele>
+      <time>2022-01-17T23:18:29Z</time>
+    </trkpt>
+    <trkpt lat="49.5256346" lon="18.7826407">
+      <ele>689</ele>
+      <time>2022-01-17T23:18:52Z</time>
+    </trkpt>
+    <trkpt lat="49.5256067" lon="18.782748">
+      <ele>690</ele>
+      <time>2022-01-17T23:19:08Z</time>
+    </trkpt>
+    <trkpt lat="49.5255788" lon="18.7828606">
+      <ele>691</ele>
+      <time>2022-01-17T23:19:24Z</time>
+    </trkpt>
+    <trkpt lat="49.5255901" lon="18.7828804">
+      <ele>691</ele>
+      <time>2022-01-17T23:19:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:37Z</time>
+    <bounds maxlat="52.0083732" maxlon="20.5580631" minlat="52.0042523" minlon="20.5557679"/>
+  </metadata>
+  <wpt lat="52.008373" lon="20.558063">
+    <ele>154</ele>
+    <name>Radziejowice, ul. Bialej Brzozy</name>
+    <link href="https://mapa-turystyczna.pl/node/11957">
+      <text>Radziejowice, ul. Bialej Brzozy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.004252" lon="20.556316">
+    <ele>147</ele>
+    <name>Radziejowice</name>
+    <link href="https://mapa-turystyczna.pl/node/11958">
+      <text>Radziejowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radziejowice, ul. Bialej Brzozy - Radziejowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0083732,20.5580631;52.006695981429544,20.55692160000001;52.0042523,20.5563162">
+    <text>Radziejowice, ul. Bialej Brzozy - Radziejowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0083732" lon="20.5580631">
+      <ele>154</ele>
+      <time>2022-01-18T01:16:37Z</time>
+    </trkpt>
+    <trkpt lat="52.0050187" lon="20.5557801">
+      <ele>147</ele>
+      <time>2022-01-18T01:24:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0048108" lon="20.5557679">
+      <ele>147</ele>
+      <time>2022-01-18T01:25:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0046424" lon="20.5557771">
+      <ele>147</ele>
+      <time>2022-01-18T01:25:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0044311" lon="20.5559166">
+      <ele>147</ele>
+      <time>2022-01-18T01:25:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0044113" lon="20.5560426">
+      <ele>147</ele>
+      <time>2022-01-18T01:26:05Z</time>
+    </trkpt>
+    <trkpt lat="52.0043899" lon="20.5561606">
+      <ele>147</ele>
+      <time>2022-01-18T01:26:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0043335" lon="20.5562505">
+      <ele>147</ele>
+      <time>2022-01-18T01:26:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0042523" lon="20.5563162">
+      <ele>147</ele>
+      <time>2022-01-18T01:26:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

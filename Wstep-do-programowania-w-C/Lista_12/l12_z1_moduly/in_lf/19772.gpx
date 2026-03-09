@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:34Z</time>
+    <bounds maxlat="51.3623755" maxlon="23.2481805" minlat="51.3614056" minlon="23.230969"/>
+  </metadata>
+  <wpt lat="51.361858" lon="23.230969">
+    <ele>180</ele>
+    <name>Wereszczyn</name>
+    <link href="https://mapa-turystyczna.pl/node/13281">
+      <text>Wereszczyn</text>
+    </link>
+  </wpt>
+  <wpt lat="51.361406" lon="23.248181">
+    <ele>177</ele>
+    <name>Sekow</name>
+    <link href="https://mapa-turystyczna.pl/node/13350">
+      <text>Sekow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wereszczyn - Sekow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3618582,23.230969;51.362116850730324,23.23726204999997;51.3614056,23.2481805">
+    <text>Wereszczyn - Sekow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3618582" lon="23.230969">
+      <ele>180</ele>
+      <time>2022-01-18T01:54:34Z</time>
+    </trkpt>
+    <trkpt lat="51.3623755" lon="23.2435551">
+      <ele>171</ele>
+      <time>2022-01-18T02:08:58Z</time>
+    </trkpt>
+    <trkpt lat="51.3623498" lon="23.2440967">
+      <ele>172</ele>
+      <time>2022-01-18T02:09:35Z</time>
+    </trkpt>
+    <trkpt lat="51.3622828" lon="23.2446224">
+      <ele>172</ele>
+      <time>2022-01-18T02:10:12Z</time>
+    </trkpt>
+    <trkpt lat="51.3614056" lon="23.2481805">
+      <ele>177</ele>
+      <time>2022-01-18T02:14:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:17Z</time>
+    <bounds maxlat="49.65525" maxlon="20.277312" minlat="49.654905" minlon="20.276728"/>
+  </metadata>
+  <wpt lat="49.65525" lon="20.276728">
+    <ele>1170</ele>
+    <name>Mogielica</name>
+    <link href="https://mapa-turystyczna.pl/node/902">
+      <text>Mogielica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.654905" lon="20.277312">
+    <ele>1164</ele>
+    <name>Rozejscie szlakow pod Mogielica</name>
+    <link href="https://mapa-turystyczna.pl/node/9314">
+      <text>Rozejscie szlakow pod Mogielica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mogielica - Rozejscie szlakow pod Mogielica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.65525,20.276728;49.65506200000863,20.276940500000016;49.654905,20.277312">
+    <text>Mogielica - Rozejscie szlakow pod Mogielica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.65525" lon="20.276728">
+      <ele>1170</ele>
+      <time>2022-01-18T00:08:17Z</time>
+    </trkpt>
+    <trkpt lat="49.655192" lon="20.276807">
+      <ele>1170</ele>
+      <time>2022-01-18T00:08:26Z</time>
+    </trkpt>
+    <trkpt lat="49.655091" lon="20.276899">
+      <ele>1169</ele>
+      <time>2022-01-18T00:08:39Z</time>
+    </trkpt>
+    <trkpt lat="49.655033" lon="20.276982">
+      <ele>1168</ele>
+      <time>2022-01-18T00:08:48Z</time>
+    </trkpt>
+    <trkpt lat="49.654905" lon="20.277312">
+      <ele>1164</ele>
+      <time>2022-01-18T00:09:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

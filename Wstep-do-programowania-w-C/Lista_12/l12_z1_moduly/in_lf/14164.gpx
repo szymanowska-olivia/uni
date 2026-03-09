@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:47Z</time>
+    <bounds maxlat="50.1864332" maxlon="18.8007433" minlat="50.1855703" minlon="18.7988223"/>
+  </metadata>
+  <wpt lat="50.18557" lon="18.798822">
+    <ele>298</ele>
+    <name>Bujakow, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9672">
+      <text>Bujakow, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.186433" lon="18.800743">
+    <ele>297</ele>
+    <name>Bujakow, ul. ks. Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/9673">
+      <text>Bujakow, ul. ks. Gorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bujakow, Rynek - Bujakow, ul. ks. Gorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1855703,18.7988223;50.186186350637925,18.800084600000027;50.1864332,18.8007433">
+    <text>Bujakow, Rynek - Bujakow, ul. ks. Gorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1855703" lon="18.7988223">
+      <ele>298</ele>
+      <time>2022-01-18T00:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1859395" lon="18.7994259">
+      <ele>299</ele>
+      <time>2022-01-18T00:18:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1864332" lon="18.8007433">
+      <ele>297</ele>
+      <time>2022-01-18T00:20:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

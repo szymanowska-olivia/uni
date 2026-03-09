@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:00Z</time>
+    <bounds maxlat="50.1030987" maxlon="17.2131461" minlat="50.1023968" minlon="17.2095895"/>
+  </metadata>
+  <wpt lat="50.102978" lon="17.209589">
+    <ele>1303</ele>
+    <name>Slate</name>
+    <link href="https://mapa-turystyczna.pl/node/6871">
+      <text>Slate</text>
+    </link>
+  </wpt>
+  <wpt lat="50.102397" lon="17.213146">
+    <ele>1303</ele>
+    <name>Svycarna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6870">
+      <text>Svycarna, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slate - Svycarna, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1029783,17.2095895;50.102871600111165,17.211705750000004;50.1023968,17.2131461">
+    <text>Slate - Svycarna, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1029783" lon="17.2095895">
+      <ele>1303</ele>
+      <time>2022-01-17T23:04:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1030402" lon="17.2099811">
+      <ele>1304</ele>
+      <time>2022-01-17T23:04:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1030987" lon="17.2102761">
+      <ele>1305</ele>
+      <time>2022-01-17T23:04:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1030746" lon="17.210834">
+      <ele>1305</ele>
+      <time>2022-01-17T23:05:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1029748" lon="17.2113276">
+      <ele>1304</ele>
+      <time>2022-01-17T23:06:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1027684" lon="17.2120839">
+      <ele>1306</ele>
+      <time>2022-01-17T23:07:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1025516" lon="17.2128135">
+      <ele>1305</ele>
+      <time>2022-01-17T23:08:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1023968" lon="17.2131461">
+      <ele>1303</ele>
+      <time>2022-01-17T23:09:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

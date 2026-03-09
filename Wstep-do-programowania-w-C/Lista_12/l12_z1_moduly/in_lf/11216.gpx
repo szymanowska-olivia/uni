@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:31Z</time>
+    <bounds maxlat="50.0025656" maxlon="17.0788462" minlat="50.0021001" minlon="17.0754559"/>
+  </metadata>
+  <wpt lat="50.0021" lon="17.075456">
+    <ele>637</ele>
+    <name>Farsky vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7903">
+      <text>Farsky vrch, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.002566" lon="17.078846">
+    <ele>619</ele>
+    <name>Farsky vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/7902">
+      <text>Farsky vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Farsky vrch, rozc. - Farsky vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0021001,17.0754559;50.0024426500847,17.077434149999995;50.0025656,17.0788462">
+    <text>Farsky vrch, rozc. - Farsky vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0021001" lon="17.0754559">
+      <ele>637</ele>
+      <time>2022-01-17T23:30:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0022731" lon="17.0757764">
+      <ele>637</ele>
+      <time>2022-01-17T23:31:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0023524" lon="17.0761036">
+      <ele>639</ele>
+      <time>2022-01-17T23:31:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0025329" lon="17.0787647">
+      <ele>619</ele>
+      <time>2022-01-17T23:35:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0025656" lon="17.0788462">
+      <ele>619</ele>
+      <time>2022-01-17T23:35:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

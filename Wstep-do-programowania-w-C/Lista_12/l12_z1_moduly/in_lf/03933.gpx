@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:55Z</time>
+    <bounds maxlat="50.904403" maxlon="16.7443228" minlat="50.8993892" minlon="16.739586"/>
+  </metadata>
+  <wpt lat="50.904403" lon="16.740849">
+    <ele>169</ele>
+    <name>Sobotka, tartak</name>
+    <link href="https://mapa-turystyczna.pl/node/2744">
+      <text>Sobotka, tartak</text>
+    </link>
+  </wpt>
+  <wpt lat="50.899389" lon="16.744071">
+    <ele>185</ele>
+    <name>Sobotka</name>
+    <link href="https://mapa-turystyczna.pl/node/2732">
+      <text>Sobotka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotka, tartak - Sobotka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.904403,16.7408493;50.90206695752967,16.741079999999986;50.8993892,16.7440706">
+    <text>Sobotka, tartak - Sobotka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.904403" lon="16.7408493">
+      <ele>169</ele>
+      <time>2022-01-17T21:35:55Z</time>
+    </trkpt>
+    <trkpt lat="50.9041763" lon="16.7404644">
+      <ele>171</ele>
+      <time>2022-01-17T21:36:39Z</time>
+    </trkpt>
+    <trkpt lat="50.9039023" lon="16.7401842">
+      <ele>173</ele>
+      <time>2022-01-17T21:37:23Z</time>
+    </trkpt>
+    <trkpt lat="50.9037568" lon="16.7405046">
+      <ele>173</ele>
+      <time>2022-01-17T21:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.9029043" lon="16.739586">
+      <ele>178</ele>
+      <time>2022-01-17T21:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.9012296" lon="16.742574">
+      <ele>176</ele>
+      <time>2022-01-17T21:45:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9008339" lon="16.7432902">
+      <ele>178</ele>
+      <time>2022-01-17T21:47:11Z</time>
+    </trkpt>
+    <trkpt lat="50.9006594" lon="16.7435127">
+      <ele>179</ele>
+      <time>2022-01-17T21:47:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8999407" lon="16.7443228">
+      <ele>183</ele>
+      <time>2022-01-17T21:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8993892" lon="16.7440706">
+      <ele>185</ele>
+      <time>2022-01-17T21:50:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

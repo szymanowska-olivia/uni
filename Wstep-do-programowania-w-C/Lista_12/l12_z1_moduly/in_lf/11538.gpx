@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:09Z</time>
+    <bounds maxlat="50.9103516" maxlon="15.3441123" minlat="50.9097969" minlon="15.3435102"/>
+  </metadata>
+  <wpt lat="50.910349" lon="15.34351">
+    <ele>469</ele>
+    <name>Swieradow-Zdroj, ul. Stawowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8084">
+      <text>Swieradow-Zdroj, ul. Stawowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.909815" lon="15.344112">
+    <ele>477</ele>
+    <name>Swieradow-Zdroj, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8085">
+      <text>Swieradow-Zdroj, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swieradow-Zdroj, ul. Stawowa - Swieradow-Zdroj, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9103487,15.3435102;50.91018420030101,15.343659399999998;50.9098147,15.3441123">
+    <text>Swieradow-Zdroj, ul. Stawowa - Swieradow-Zdroj, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9103487" lon="15.3435102">
+      <ele>469</ele>
+      <time>2022-01-17T23:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.9103516" lon="15.3435226">
+      <ele>469</ele>
+      <time>2022-01-17T23:36:10Z</time>
+    </trkpt>
+    <trkpt lat="50.9100168" lon="15.3437962">
+      <ele>474</ele>
+      <time>2022-01-17T23:37:13Z</time>
+    </trkpt>
+    <trkpt lat="50.9098578" lon="15.3439035">
+      <ele>474</ele>
+      <time>2022-01-17T23:37:42Z</time>
+    </trkpt>
+    <trkpt lat="50.9098138" lon="15.3439679">
+      <ele>474</ele>
+      <time>2022-01-17T23:37:52Z</time>
+    </trkpt>
+    <trkpt lat="50.9097969" lon="15.3440322">
+      <ele>475</ele>
+      <time>2022-01-17T23:38:00Z</time>
+    </trkpt>
+    <trkpt lat="50.9098105" lon="15.3441073">
+      <ele>477</ele>
+      <time>2022-01-17T23:38:08Z</time>
+    </trkpt>
+    <trkpt lat="50.9098147" lon="15.3441123">
+      <ele>477</ele>
+      <time>2022-01-17T23:38:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

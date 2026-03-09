@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:12Z</time>
+    <bounds maxlat="50.1474642" maxlon="17.1358663" minlat="50.1456319" minlon="17.1345413"/>
+  </metadata>
+  <wpt lat="50.145632" lon="17.134541">
+    <ele>1282</ele>
+    <name>Vresova studanka</name>
+    <link href="https://mapa-turystyczna.pl/node/6755">
+      <text>Vresova studanka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.147464" lon="17.135866">
+    <ele>1308</ele>
+    <name>Cervena hora, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6754">
+      <text>Cervena hora, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vresova studanka - Cervena hora, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1456319,17.1345413;50.14651025003783,17.135069700000034;50.1474642,17.1358663">
+    <text>Vresova studanka - Cervena hora, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1456319" lon="17.1345413">
+      <ele>1282</ele>
+      <time>2022-01-17T23:01:12Z</time>
+    </trkpt>
+    <trkpt lat="50.1456869" lon="17.134611">
+      <ele>1283</ele>
+      <time>2022-01-17T23:01:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1457797" lon="17.1346378">
+      <ele>1285</ele>
+      <time>2022-01-17T23:01:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1460032" lon="17.134611">
+      <ele>1285</ele>
+      <time>2022-01-17T23:02:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1461201" lon="17.1346807">
+      <ele>1287</ele>
+      <time>2022-01-17T23:02:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1463263" lon="17.1348041">
+      <ele>1291</ele>
+      <time>2022-01-17T23:02:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1464501" lon="17.1350241">
+      <ele>1297</ele>
+      <time>2022-01-17T23:03:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1465704" lon="17.1351153">
+      <ele>1298</ele>
+      <time>2022-01-17T23:03:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1469211" lon="17.1353567">
+      <ele>1302</ele>
+      <time>2022-01-17T23:04:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1472923" lon="17.1357858">
+      <ele>1308</ele>
+      <time>2022-01-17T23:05:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1474642" lon="17.1358663">
+      <ele>1308</ele>
+      <time>2022-01-17T23:06:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

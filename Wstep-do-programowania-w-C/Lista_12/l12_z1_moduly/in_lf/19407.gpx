@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:50Z</time>
+    <bounds maxlat="49.504255" maxlon="18.972986" minlat="49.503646" minlon="18.972888"/>
+  </metadata>
+  <wpt lat="49.504255" lon="18.972888">
+    <ele>681</ele>
+    <name>Zwardon, Pydychy</name>
+    <link href="https://mapa-turystyczna.pl/node/13110">
+      <text>Zwardon, Pydychy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.503646" lon="18.972986">
+    <ele>686</ele>
+    <name>Przelecz Zwardonska</name>
+    <link href="https://mapa-turystyczna.pl/node/3883">
+      <text>Przelecz Zwardonska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zwardon, Pydychy - Przelecz Zwardonska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.504255,18.972888;49.503956500552405,18.97293300000001;49.503646,18.972986">
+    <text>Zwardon, Pydychy - Przelecz Zwardonska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.504255" lon="18.972888">
+      <ele>681</ele>
+      <time>2022-01-18T01:47:50Z</time>
+    </trkpt>
+    <trkpt lat="49.504189" lon="18.972894">
+      <ele>681</ele>
+      <time>2022-01-18T01:48:03Z</time>
+    </trkpt>
+    <trkpt lat="49.503724" lon="18.972972">
+      <ele>685</ele>
+      <time>2022-01-18T01:49:34Z</time>
+    </trkpt>
+    <trkpt lat="49.503664" lon="18.972983">
+      <ele>686</ele>
+      <time>2022-01-18T01:49:46Z</time>
+    </trkpt>
+    <trkpt lat="49.503646" lon="18.972986">
+      <ele>686</ele>
+      <time>2022-01-18T01:49:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

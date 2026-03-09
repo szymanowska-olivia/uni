@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:21Z</time>
+    <bounds maxlat="50.0222996" maxlon="17.0797116" minlat="50.0188012" minlon="17.0745671"/>
+  </metadata>
+  <wpt lat="50.0223" lon="17.074567">
+    <ele>419</ele>
+    <name>Sobotin, lavka pres Mertu</name>
+    <link href="https://mapa-turystyczna.pl/node/6922">
+      <text>Sobotin, lavka pres Mertu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.018801" lon="17.079712">
+    <ele>429</ele>
+    <name>Sobotin</name>
+    <link href="https://mapa-turystyczna.pl/node/6926">
+      <text>Sobotin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotin, lavka pres Mertu - Sobotin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0222996,17.0745671;50.020536600029686,17.076954250000014;50.0188012,17.0797116">
+    <text>Sobotin, lavka pres Mertu - Sobotin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0222996" lon="17.0745671">
+      <ele>419</ele>
+      <time>2022-01-17T23:05:21Z</time>
+    </trkpt>
+    <trkpt lat="50.0206211" lon="17.0767558">
+      <ele>423</ele>
+      <time>2022-01-17T23:09:53Z</time>
+    </trkpt>
+    <trkpt lat="50.02059" lon="17.0768684">
+      <ele>423</ele>
+      <time>2022-01-17T23:10:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0204832" lon="17.0770401">
+      <ele>423</ele>
+      <time>2022-01-17T23:10:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0188805" lon="17.0795935">
+      <ele>429</ele>
+      <time>2022-01-17T23:15:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0188012" lon="17.0797116">
+      <ele>429</ele>
+      <time>2022-01-17T23:15:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

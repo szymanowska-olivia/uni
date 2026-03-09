@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:11Z</time>
+    <bounds maxlat="50.1548389" maxlon="18.8054304" minlat="50.1547506" minlon="18.804374"/>
+  </metadata>
+  <wpt lat="50.154758" lon="18.80543">
+    <ele>356</ele>
+    <name>Gora sw. Wawrzynca</name>
+    <link href="https://mapa-turystyczna.pl/node/9852">
+      <text>Gora sw. Wawrzynca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.154839" lon="18.804374">
+    <ele>356</ele>
+    <name>Orzesze, ul. Szkolna</name>
+    <link href="https://mapa-turystyczna.pl/node/9853">
+      <text>Orzesze, ul. Szkolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora sw. Wawrzynca - Orzesze, ul. Szkolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.154758,18.8054304;50.154764350001976,18.805018149999995;50.1548389,18.804374">
+    <text>Gora sw. Wawrzynca - Orzesze, ul. Szkolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.154758" lon="18.8054304">
+      <ele>356</ele>
+      <time>2022-01-18T00:22:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1547506" lon="18.8052101">
+      <ele>356</ele>
+      <time>2022-01-18T00:22:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1547781" lon="18.8048262">
+      <ele>356</ele>
+      <time>2022-01-18T00:22:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1548366" lon="18.8044346">
+      <ele>356</ele>
+      <time>2022-01-18T00:23:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1548389" lon="18.804374">
+      <ele>356</ele>
+      <time>2022-01-18T00:23:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

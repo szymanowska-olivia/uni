@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:02Z</time>
+    <bounds maxlat="50.3008573" maxlon="17.3670475" minlat="50.3007307" minlon="17.3657531"/>
+  </metadata>
+  <wpt lat="50.300857" lon="17.365753">
+    <ele>495</ele>
+    <name>Przednia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2658">
+      <text>Przednia Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.300731" lon="17.367048">
+    <ele>503</ele>
+    <name>Przednia Kopa, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13401">
+      <text>Przednia Kopa, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przednia Kopa - Przednia Kopa, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3008573,17.3657531;50.30082730000948,17.36610579999998;50.3007307,17.3670475">
+    <text>Przednia Kopa - Przednia Kopa, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3008573" lon="17.3657531">
+      <ele>495</ele>
+      <time>2022-01-18T01:56:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3007973" lon="17.3664585">
+      <ele>503</ele>
+      <time>2022-01-18T01:57:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3007307" lon="17.3670475">
+      <ele>503</ele>
+      <time>2022-01-18T01:58:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:51Z</time>
+    <bounds maxlat="51.3326854" maxlon="16.634752" minlat="51.3274209" minlon="16.6244652"/>
+  </metadata>
+  <wpt lat="51.332685" lon="16.63472">
+    <ele>111</ele>
+    <name>Wolow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10082">
+      <text>Wolow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.327421" lon="16.624465">
+    <ele>112</ele>
+    <name>Wolow, tartak</name>
+    <link href="https://mapa-turystyczna.pl/node/10084">
+      <text>Wolow, tartak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, ul. Kolejowa - Wolow, tartak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3326854,16.6347198;51.330001663831474,16.63006155000001;51.3274209,16.6244652">
+    <text>Wolow, ul. Kolejowa - Wolow, tartak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3326854" lon="16.6347198">
+      <ele>111</ele>
+      <time>2022-01-18T00:27:51Z</time>
+    </trkpt>
+    <trkpt lat="51.3325838" lon="16.634752">
+      <ele>111</ele>
+      <time>2022-01-18T00:28:02Z</time>
+    </trkpt>
+    <trkpt lat="51.3324363" lon="16.6346769">
+      <ele>111</ele>
+      <time>2022-01-18T00:28:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3311279" lon="16.6322073">
+      <ele>112</ele>
+      <time>2022-01-18T00:31:56Z</time>
+    </trkpt>
+    <trkpt lat="51.3288754" lon="16.6279158">
+      <ele>114</ele>
+      <time>2022-01-18T00:38:12Z</time>
+    </trkpt>
+    <trkpt lat="51.3274209" lon="16.6244652">
+      <ele>112</ele>
+      <time>2022-01-18T00:42:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

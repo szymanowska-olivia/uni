@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:10Z</time>
+    <bounds maxlat="49.264497" maxlon="19.974494" minlat="49.263934" minlon="19.973744"/>
+  </metadata>
+  <wpt lat="49.263934" lon="19.973744">
+    <ele>1122</ele>
+    <name>Klasztor Albertynek</name>
+    <link href="https://mapa-turystyczna.pl/node/223">
+      <text>Klasztor Albertynek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.264497" lon="19.974494">
+    <ele>1110</ele>
+    <name>Odejscie do Klasztoru Albertynow</name>
+    <link href="https://mapa-turystyczna.pl/node/4114">
+      <text>Odejscie do Klasztoru Albertynow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klasztor Albertynek - Odejscie do Klasztoru Albertynow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.263934,19.973744;49.26420350011494,19.974072500000002;49.264497,19.974494">
+    <text>Klasztor Albertynek - Odejscie do Klasztoru Albertynow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.263934" lon="19.973744">
+      <ele>1122</ele>
+      <time>2022-01-17T22:04:10Z</time>
+    </trkpt>
+    <trkpt lat="49.264097" lon="19.973927">
+      <ele>1119</ele>
+      <time>2022-01-17T22:04:59Z</time>
+    </trkpt>
+    <trkpt lat="49.26431" lon="19.974218">
+      <ele>1114</ele>
+      <time>2022-01-17T22:06:07Z</time>
+    </trkpt>
+    <trkpt lat="49.264359" lon="19.974298">
+      <ele>1113</ele>
+      <time>2022-01-17T22:06:25Z</time>
+    </trkpt>
+    <trkpt lat="49.264394" lon="19.974349">
+      <ele>1112</ele>
+      <time>2022-01-17T22:06:36Z</time>
+    </trkpt>
+    <trkpt lat="49.264497" lon="19.974494">
+      <ele>1110</ele>
+      <time>2022-01-17T22:07:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

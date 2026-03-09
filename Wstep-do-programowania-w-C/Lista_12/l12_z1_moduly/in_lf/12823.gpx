@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:58Z</time>
+    <bounds maxlat="50.8138512" maxlon="15.164621" minlat="50.8105373" minlon="15.1558567"/>
+  </metadata>
+  <wpt lat="50.810537" lon="15.164621">
+    <ele>773</ele>
+    <name>Blatny rybnik</name>
+    <link href="https://mapa-turystyczna.pl/node/8819">
+      <text>Blatny rybnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.813148" lon="15.155857">
+    <ele>787</ele>
+    <name>Nova Louka</name>
+    <link href="https://mapa-turystyczna.pl/node/8820">
+      <text>Nova Louka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Blatny rybnik - Nova Louka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8105373,15.164621;50.812290203617195,15.160522999999984;50.8131481,15.1558567">
+    <text>Blatny rybnik - Nova Louka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8105373" lon="15.164621">
+      <ele>773</ele>
+      <time>2022-01-17T23:56:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8107564" lon="15.1640582">
+      <ele>775</ele>
+      <time>2022-01-17T23:57:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8108852" lon="15.1637631">
+      <ele>776</ele>
+      <time>2022-01-17T23:58:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8117089" lon="15.161848">
+      <ele>777</ele>
+      <time>2022-01-18T00:01:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8128715" lon="15.159198">
+      <ele>772</ele>
+      <time>2022-01-18T00:05:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8131747" lon="15.1586389">
+      <ele>774</ele>
+      <time>2022-01-18T00:07:00Z</time>
+    </trkpt>
+    <trkpt lat="50.813536" lon="15.1581883">
+      <ele>778</ele>
+      <time>2022-01-18T00:08:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8137394" lon="15.1579737">
+      <ele>780</ele>
+      <time>2022-01-18T00:08:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8138072" lon="15.1578718">
+      <ele>781</ele>
+      <time>2022-01-18T00:08:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8138512" lon="15.1576733">
+      <ele>780</ele>
+      <time>2022-01-18T00:09:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8138275" lon="15.1575177">
+      <ele>780</ele>
+      <time>2022-01-18T00:09:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8131481" lon="15.1558567">
+      <ele>787</ele>
+      <time>2022-01-18T00:11:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

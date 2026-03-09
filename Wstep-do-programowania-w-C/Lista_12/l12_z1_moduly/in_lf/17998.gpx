@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:37Z</time>
+    <bounds maxlat="52.5406221" maxlon="21.6794456" minlat="52.5392643" minlon="21.679216"/>
+  </metadata>
+  <wpt lat="52.539264" lon="21.679216">
+    <ele>100</ele>
+    <name>Lochow, ul. Folwarczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12260">
+      <text>Lochow, ul. Folwarczna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.540622" lon="21.679446">
+    <ele>100</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12261">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lochow, ul. Folwarczna - Rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5392643,21.679216;52.53994320524935,21.67933080000001;52.5406221,21.6794456">
+    <text>Lochow, ul. Folwarczna - Rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5392643" lon="21.679216">
+      <ele>100</ele>
+      <time>2022-01-18T01:23:37Z</time>
+    </trkpt>
+    <trkpt lat="52.5406221" lon="21.6794456">
+      <ele>100</ele>
+      <time>2022-01-18T01:25:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

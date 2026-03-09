@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:52Z</time>
+    <bounds maxlat="49.782159" maxlon="20.027391" minlat="49.7819813" minlon="20.0251935"/>
+  </metadata>
+  <wpt lat="49.781981" lon="20.025194">
+    <ele>735</ele>
+    <name>Skrzyzowanie przy Kudlaczach</name>
+    <link href="https://mapa-turystyczna.pl/node/4840">
+      <text>Skrzyzowanie przy Kudlaczach</text>
+    </link>
+  </wpt>
+  <wpt lat="49.782159" lon="20.027391">
+    <ele>740</ele>
+    <name>Skrzyzowanie przy Kudlaczach</name>
+    <link href="https://mapa-turystyczna.pl/node/4839">
+      <text>Skrzyzowanie przy Kudlaczach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Kudlaczach - Skrzyzowanie przy Kudlaczach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7819813,20.0251935;49.782036500001155,20.0260785;49.782159,20.027391">
+    <text>Skrzyzowanie przy Kudlaczach - Skrzyzowanie przy Kudlaczach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7819813" lon="20.0251935">
+      <ele>735</ele>
+      <time>2022-01-17T22:17:52Z</time>
+    </trkpt>
+    <trkpt lat="49.782026" lon="20.025583">
+      <ele>735</ele>
+      <time>2022-01-17T22:18:24Z</time>
+    </trkpt>
+    <trkpt lat="49.782047" lon="20.026574">
+      <ele>738</ele>
+      <time>2022-01-17T22:19:44Z</time>
+    </trkpt>
+    <trkpt lat="49.782159" lon="20.027391">
+      <ele>740</ele>
+      <time>2022-01-17T22:20:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

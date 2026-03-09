@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:49Z</time>
+    <bounds maxlat="50.2739272" maxlon="16.4818096" minlat="50.2734198" minlon="16.4789772"/>
+  </metadata>
+  <wpt lat="50.273927" lon="16.48181">
+    <ele>668</ele>
+    <name>Mostowice</name>
+    <link href="https://mapa-turystyczna.pl/node/1911">
+      <text>Mostowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.27342" lon="16.478977">
+    <ele>664</ele>
+    <name>Kunstat</name>
+    <link href="https://mapa-turystyczna.pl/node/1997">
+      <text>Kunstat</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mostowice - Kunstat</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2739272,16.4818096;50.273628950459376,16.479674599999985;50.2734198,16.4789772">
+    <text>Mostowice - Kunstat</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2739272" lon="16.4818096">
+      <ele>668</ele>
+      <time>2022-01-17T21:19:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2738381" lon="16.480372">
+      <ele>661</ele>
+      <time>2022-01-17T21:21:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2734198" lon="16.4789772">
+      <ele>664</ele>
+      <time>2022-01-17T21:22:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

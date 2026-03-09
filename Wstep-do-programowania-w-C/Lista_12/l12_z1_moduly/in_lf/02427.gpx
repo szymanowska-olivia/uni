@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:13Z</time>
+    <bounds maxlat="50.1738061" maxlon="16.8631983" minlat="50.1603259" minlon="16.8481028"/>
+  </metadata>
+  <wpt lat="50.173806" lon="16.863198">
+    <ele>1321</ele>
+    <name>Susina</name>
+    <link href="https://mapa-turystyczna.pl/node/1737">
+      <text>Susina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.160326" lon="16.852539">
+    <ele>1229</ele>
+    <name>Chata Babuse</name>
+    <link href="https://mapa-turystyczna.pl/node/1738">
+      <text>Chata Babuse</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Susina - Chata Babuse</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1738061,16.8631983;50.167928922469414,16.853365300000025;50.1603259,16.8525392">
+    <text>Susina - Chata Babuse</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1738061" lon="16.8631983">
+      <ele>1321</ele>
+      <time>2022-01-17T21:16:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1693944" lon="16.855849">
+      <ele>1286</ele>
+      <time>2022-01-17T21:28:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1664634" lon="16.8508816">
+      <ele>1290</ele>
+      <time>2022-01-17T21:36:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1648656" lon="16.8481028">
+      <ele>1302</ele>
+      <time>2022-01-17T21:41:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1624446" lon="16.8502459">
+      <ele>1265</ele>
+      <time>2022-01-17T21:46:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1603259" lon="16.8525392">
+      <ele>1229</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

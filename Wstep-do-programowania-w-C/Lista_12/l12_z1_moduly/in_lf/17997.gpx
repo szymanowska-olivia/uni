@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:35Z</time>
+    <bounds maxlat="52.5392643" maxlon="21.679216" minlat="52.5362206" minlon="21.6780603"/>
+  </metadata>
+  <wpt lat="52.536221" lon="21.67806">
+    <ele>101</ele>
+    <name>Lochow, ul. Wyspianskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12259">
+      <text>Lochow, ul. Wyspianskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.539264" lon="21.679216">
+    <ele>100</ele>
+    <name>Lochow, ul. Folwarczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12260">
+      <text>Lochow, ul. Folwarczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lochow, ul. Wyspianskiego - Lochow, ul. Folwarczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5362206,21.6780603;52.53810950291126,21.678917099999993;52.5392643,21.679216">
+    <text>Lochow, ul. Wyspianskiego - Lochow, ul. Folwarczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5362206" lon="21.6780603">
+      <ele>101</ele>
+      <time>2022-01-18T01:23:35Z</time>
+    </trkpt>
+    <trkpt lat="52.5376039" lon="21.6787686">
+      <ele>100</ele>
+      <time>2022-01-18T01:25:54Z</time>
+    </trkpt>
+    <trkpt lat="52.5386151" lon="21.6790656">
+      <ele>102</ele>
+      <time>2022-01-18T01:27:32Z</time>
+    </trkpt>
+    <trkpt lat="52.5392643" lon="21.679216">
+      <ele>100</ele>
+      <time>2022-01-18T01:28:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

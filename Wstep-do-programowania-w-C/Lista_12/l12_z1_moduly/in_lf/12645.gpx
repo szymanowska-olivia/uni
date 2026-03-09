@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:35Z</time>
+    <bounds maxlat="50.9033342" maxlon="15.2562573" minlat="50.9030108" minlon="15.256172"/>
+  </metadata>
+  <wpt lat="50.903011" lon="15.256257">
+    <ele>697</ele>
+    <name>Streituv obrazek</name>
+    <link href="https://mapa-turystyczna.pl/node/2267">
+      <text>Streituv obrazek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.903334" lon="15.256172">
+    <ele>702</ele>
+    <name>Streituv obrazek, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8681">
+      <text>Streituv obrazek, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Streituv obrazek - Streituv obrazek, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9030108,15.2562573;50.9031725002808,15.256214649999999;50.9033342,15.256172">
+    <text>Streituv obrazek - Streituv obrazek, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9030108" lon="15.2562573">
+      <ele>697</ele>
+      <time>2022-01-17T23:53:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9033342" lon="15.256172">
+      <ele>702</ele>
+      <time>2022-01-17T23:54:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:39Z</time>
+    <bounds maxlat="51.4099083" maxlon="23.094059" minlat="51.4093932" minlon="23.0908768"/>
+  </metadata>
+  <wpt lat="51.409393" lon="23.094059">
+    <ele>170</ele>
+    <name>Rybakowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12862">
+      <text>Rybakowka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.409762" lon="23.090877">
+    <ele>166</ele>
+    <name>Jezioro Lukie, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12855">
+      <text>Jezioro Lukie, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybakowka - Jezioro Lukie, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4093932,23.094059;51.4098983000011,23.09269969999998;51.4097622,23.0908768">
+    <text>Rybakowka - Jezioro Lukie, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4093932" lon="23.094059">
+      <ele>170</ele>
+      <time>2022-01-18T01:40:39Z</time>
+    </trkpt>
+    <trkpt lat="51.4095068" lon="23.0937833">
+      <ele>170</ele>
+      <time>2022-01-18T01:41:07Z</time>
+    </trkpt>
+    <trkpt lat="51.4096474" lon="23.0933971">
+      <ele>170</ele>
+      <time>2022-01-18T01:41:46Z</time>
+    </trkpt>
+    <trkpt lat="51.4098147" lon="23.0931718">
+      <ele>170</ele>
+      <time>2022-01-18T01:42:16Z</time>
+    </trkpt>
+    <trkpt lat="51.4099017" lon="23.092968">
+      <ele>169</ele>
+      <time>2022-01-18T01:42:37Z</time>
+    </trkpt>
+    <trkpt lat="51.4099083" lon="23.092807">
+      <ele>168</ele>
+      <time>2022-01-18T01:42:51Z</time>
+    </trkpt>
+    <trkpt lat="51.4098883" lon="23.0925924">
+      <ele>168</ele>
+      <time>2022-01-18T01:43:09Z</time>
+    </trkpt>
+    <trkpt lat="51.4098682" lon="23.0923028">
+      <ele>168</ele>
+      <time>2022-01-18T01:43:34Z</time>
+    </trkpt>
+    <trkpt lat="51.4098883" lon="23.0920238">
+      <ele>168</ele>
+      <time>2022-01-18T01:43:58Z</time>
+    </trkpt>
+    <trkpt lat="51.409895" lon="23.0916376">
+      <ele>168</ele>
+      <time>2022-01-18T01:44:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4098481" lon="23.0913157">
+      <ele>167</ele>
+      <time>2022-01-18T01:45:00Z</time>
+    </trkpt>
+    <trkpt lat="51.4097622" lon="23.0908768">
+      <ele>166</ele>
+      <time>2022-01-18T01:45:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

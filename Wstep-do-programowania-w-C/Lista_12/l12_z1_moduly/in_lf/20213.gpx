@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:38Z</time>
+    <bounds maxlat="49.745118" maxlon="19.675029" minlat="49.745026" minlon="19.674944"/>
+  </metadata>
+  <wpt lat="49.745118" lon="19.675029">
+    <ele>583</ele>
+    <name>Makow Podhalanski, Makowska Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/1639">
+      <text>Makow Podhalanski, Makowska Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.745026" lon="19.674944">
+    <ele>580</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13605">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Makow Podhalanski, Makowska Gora - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.745118,19.675029;49.74507200002183,19.6749865;49.745026,19.674944">
+    <text>Makow Podhalanski, Makowska Gora - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.745118" lon="19.675029">
+      <ele>583</ele>
+      <time>2022-01-18T02:02:38Z</time>
+    </trkpt>
+    <trkpt lat="49.745026" lon="19.674944">
+      <ele>580</ele>
+      <time>2022-01-18T02:03:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

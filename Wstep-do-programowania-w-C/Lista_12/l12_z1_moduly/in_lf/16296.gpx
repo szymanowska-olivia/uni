@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:27Z</time>
+    <bounds maxlat="49.3377362" maxlon="22.2906199" minlat="49.33621" minlon="22.2868502"/>
+  </metadata>
+  <wpt lat="49.336245" lon="22.28685">
+    <ele>447</ele>
+    <name>Baligrod</name>
+    <link href="https://mapa-turystyczna.pl/node/318">
+      <text>Baligrod</text>
+    </link>
+  </wpt>
+  <wpt lat="49.337581" lon="22.29062">
+    <ele>442</ele>
+    <name>Baligrod, poczatek drogi krzyzowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11120">
+      <text>Baligrod, poczatek drogi krzyzowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Baligrod - Baligrod, poczatek drogi krzyzowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3362454,22.2868502;49.336690601772446,22.288806499999993;49.3375811,22.2906199">
+    <text>Baligrod - Baligrod, poczatek drogi krzyzowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3362454" lon="22.2868502">
+      <ele>447</ele>
+      <time>2022-01-18T00:54:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3362589" lon="22.2875378">
+      <ele>443</ele>
+      <time>2022-01-18T00:55:08Z</time>
+    </trkpt>
+    <trkpt lat="49.33621" lon="22.287924">
+      <ele>440</ele>
+      <time>2022-01-18T00:55:32Z</time>
+    </trkpt>
+    <trkpt lat="49.33621" lon="22.2882137">
+      <ele>438</ele>
+      <time>2022-01-18T00:55:50Z</time>
+    </trkpt>
+    <trkpt lat="49.3362729" lon="22.2882835">
+      <ele>436</ele>
+      <time>2022-01-18T00:55:57Z</time>
+    </trkpt>
+    <trkpt lat="49.3371083" lon="22.2893295">
+      <ele>436</ele>
+      <time>2022-01-18T00:57:36Z</time>
+    </trkpt>
+    <trkpt lat="49.3376384" lon="22.2898352">
+      <ele>437</ele>
+      <time>2022-01-18T00:58:33Z</time>
+    </trkpt>
+    <trkpt lat="49.3377048" lon="22.2899586">
+      <ele>437</ele>
+      <time>2022-01-18T00:58:43Z</time>
+    </trkpt>
+    <trkpt lat="49.3377362" lon="22.2901303">
+      <ele>438</ele>
+      <time>2022-01-18T00:58:54Z</time>
+    </trkpt>
+    <trkpt lat="49.3377257" lon="22.290259">
+      <ele>438</ele>
+      <time>2022-01-18T00:59:01Z</time>
+    </trkpt>
+    <trkpt lat="49.3376384" lon="22.2905058">
+      <ele>441</ele>
+      <time>2022-01-18T00:59:18Z</time>
+    </trkpt>
+    <trkpt lat="49.3375811" lon="22.2906199">
+      <ele>442</ele>
+      <time>2022-01-18T00:59:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

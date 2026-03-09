@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:44Z</time>
+    <bounds maxlat="51.0362977" maxlon="15.8733947" minlat="51.036102" minlon="15.8710278"/>
+  </metadata>
+  <wpt lat="51.036215" lon="15.873395">
+    <ele>348</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11789">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.036277" lon="15.871028">
+    <ele>366</ele>
+    <name>Wielislawka, grodzisko</name>
+    <link href="https://mapa-turystyczna.pl/node/11792">
+      <text>Wielislawka, grodzisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Wielislawka, grodzisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0362147,15.8733947;51.036130700002474,15.872305949999998;51.0362771,15.8710278">
+    <text>Odejscie na punkt widokowy - Wielislawka, grodzisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0362147" lon="15.8733947">
+      <ele>348</ele>
+      <time>2022-01-18T01:11:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0362943" lon="15.8731615">
+      <ele>352</ele>
+      <time>2022-01-18T01:12:16Z</time>
+    </trkpt>
+    <trkpt lat="51.0362977" lon="15.8730221">
+      <ele>354</ele>
+      <time>2022-01-18T01:12:33Z</time>
+    </trkpt>
+    <trkpt lat="51.0362808" lon="15.8728504">
+      <ele>356</ele>
+      <time>2022-01-18T01:12:54Z</time>
+    </trkpt>
+    <trkpt lat="51.0362235" lon="15.8727163">
+      <ele>356</ele>
+      <time>2022-01-18T01:13:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0361459" lon="15.8724803">
+      <ele>357</ele>
+      <time>2022-01-18T01:13:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0361155" lon="15.8721316">
+      <ele>359</ele>
+      <time>2022-01-18T01:14:26Z</time>
+    </trkpt>
+    <trkpt lat="51.036102" lon="15.8718258">
+      <ele>363</ele>
+      <time>2022-01-18T01:15:03Z</time>
+    </trkpt>
+    <trkpt lat="51.0361358" lon="15.8715468">
+      <ele>367</ele>
+      <time>2022-01-18T01:15:37Z</time>
+    </trkpt>
+    <trkpt lat="51.0361897" lon="15.8712625">
+      <ele>367</ele>
+      <time>2022-01-18T01:16:12Z</time>
+    </trkpt>
+    <trkpt lat="51.0362771" lon="15.8710278">
+      <ele>366</ele>
+      <time>2022-01-18T01:16:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

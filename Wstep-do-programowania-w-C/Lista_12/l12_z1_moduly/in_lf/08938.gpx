@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:01Z</time>
+    <bounds maxlat="50.7627429" maxlon="15.6350494" minlat="50.7625129" minlon="15.6340197"/>
+  </metadata>
+  <wpt lat="50.762743" lon="15.63402">
+    <ele>1198</ele>
+    <name>Przelecz Karkonoska</name>
+    <link href="https://mapa-turystyczna.pl/node/1315">
+      <text>Przelecz Karkonoska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762513" lon="15.635049">
+    <ele>1198</ele>
+    <name>Spindlerova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/6223">
+      <text>Spindlerova bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Karkonoska - Spindlerova bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7627429,15.6340197;50.7626279001413,15.634534550000007;50.7625129,15.6350494">
+    <text>Przelecz Karkonoska - Spindlerova bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7627429" lon="15.6340197">
+      <ele>1198</ele>
+      <time>2022-01-17T22:48:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7625129" lon="15.6350494">
+      <ele>1198</ele>
+      <time>2022-01-17T22:49:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

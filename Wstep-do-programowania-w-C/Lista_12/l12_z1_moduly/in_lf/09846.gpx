@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:18Z</time>
+    <bounds maxlat="50.0262423" maxlon="17.0846844" minlat="50.0236024" minlon="17.0755863"/>
+  </metadata>
+  <wpt lat="50.023602" lon="17.075586">
+    <ele>434</ele>
+    <name>Pod Kozusnou</name>
+    <link href="https://mapa-turystyczna.pl/node/6923">
+      <text>Pod Kozusnou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.026242" lon="17.084684">
+    <ele>436</ele>
+    <name>Sobotin, Stetinov</name>
+    <link href="https://mapa-turystyczna.pl/node/6924">
+      <text>Sobotin, Stetinov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kozusnou - Sobotin, Stetinov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0236024,17.0755863;50.02554960065895,17.080846100000006;50.0262423,17.0846844">
+    <text>Pod Kozusnou - Sobotin, Stetinov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0236024" lon="17.0755863">
+      <ele>434</ele>
+      <time>2022-01-17T23:05:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0242331" lon="17.0770025">
+      <ele>442</ele>
+      <time>2022-01-17T23:07:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0245536" lon="17.0777106">
+      <ele>441</ele>
+      <time>2022-01-17T23:09:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0247121" lon="17.078011">
+      <ele>441</ele>
+      <time>2022-01-17T23:09:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0247811" lon="17.0782578">
+      <ele>438</ele>
+      <time>2022-01-17T23:10:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0249637" lon="17.0785797">
+      <ele>440</ele>
+      <time>2022-01-17T23:10:44Z</time>
+    </trkpt>
+    <trkpt lat="50.025205" lon="17.0791">
+      <ele>440</ele>
+      <time>2022-01-17T23:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.025298" lon="17.0793843">
+      <ele>437</ele>
+      <time>2022-01-17T23:12:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0258012" lon="17.0823079">
+      <ele>429</ele>
+      <time>2022-01-17T23:16:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0261424" lon="17.0842874">
+      <ele>436</ele>
+      <time>2022-01-17T23:19:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0262423" lon="17.0846844">
+      <ele>436</ele>
+      <time>2022-01-17T23:20:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

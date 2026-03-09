@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:18Z</time>
+    <bounds maxlat="50.9042777" maxlon="16.0055096" minlat="50.9027656" minlon="16.0044783"/>
+  </metadata>
+  <wpt lat="50.902766" lon="16.004478">
+    <ele>488</ele>
+    <name>Plonina</name>
+    <link href="https://mapa-turystyczna.pl/node/3257">
+      <text>Plonina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.904278" lon="16.004784">
+    <ele>517</ele>
+    <name>Ruiny zamku Niesytno</name>
+    <link href="https://mapa-turystyczna.pl/node/3258">
+      <text>Ruiny zamku Niesytno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Plonina - Ruiny zamku Niesytno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9027656,16.0044783;50.90383665019183,16.005110000000005;50.9042777,16.0047841">
+    <text>Plonina - Ruiny zamku Niesytno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9027656" lon="16.0044783">
+      <ele>488</ele>
+      <time>2022-01-17T21:45:18Z</time>
+    </trkpt>
+    <trkpt lat="50.9028979" lon="16.0045226">
+      <ele>490</ele>
+      <time>2022-01-17T21:45:37Z</time>
+    </trkpt>
+    <trkpt lat="50.9030772" lon="16.0045333">
+      <ele>492</ele>
+      <time>2022-01-17T21:46:01Z</time>
+    </trkpt>
+    <trkpt lat="50.903314" lon="16.0045011">
+      <ele>497</ele>
+      <time>2022-01-17T21:46:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9035" lon="16.0044797">
+      <ele>501</ele>
+      <time>2022-01-17T21:47:01Z</time>
+    </trkpt>
+    <trkpt lat="50.9036117" lon="16.0045387">
+      <ele>503</ele>
+      <time>2022-01-17T21:47:17Z</time>
+    </trkpt>
+    <trkpt lat="50.903703" lon="16.0047264">
+      <ele>504</ele>
+      <time>2022-01-17T21:47:37Z</time>
+    </trkpt>
+    <trkpt lat="50.9039703" lon="16.0054936">
+      <ele>509</ele>
+      <time>2022-01-17T21:48:53Z</time>
+    </trkpt>
+    <trkpt lat="50.9040514" lon="16.0055096">
+      <ele>511</ele>
+      <time>2022-01-17T21:49:05Z</time>
+    </trkpt>
+    <trkpt lat="50.9041225" lon="16.0054506">
+      <ele>512</ele>
+      <time>2022-01-17T21:49:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9041935" lon="16.0052682">
+      <ele>513</ele>
+      <time>2022-01-17T21:49:34Z</time>
+    </trkpt>
+    <trkpt lat="50.904251" lon="16.0050161">
+      <ele>515</ele>
+      <time>2022-01-17T21:49:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9042777" lon="16.0047841">
+      <ele>517</ele>
+      <time>2022-01-17T21:50:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

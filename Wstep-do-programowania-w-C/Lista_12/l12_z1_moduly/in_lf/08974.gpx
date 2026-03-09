@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:43Z</time>
+    <bounds maxlat="50.5470525" maxlon="16.0554939" minlat="50.5453856" minlon="16.0541689"/>
+  </metadata>
+  <wpt lat="50.547052" lon="16.054169">
+    <ele>689</ele>
+    <name>U Srejberky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6247">
+      <text>U Srejberky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.545386" lon="16.055494">
+    <ele>666</ele>
+    <name>U Srejberky</name>
+    <link href="https://mapa-turystyczna.pl/node/6248">
+      <text>U Srejberky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Srejberky, rozc. - U Srejberky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5470525,16.0541689;50.546272100238596,16.05492015000001;50.5453856,16.0554939">
+    <text>U Srejberky, rozc. - U Srejberky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5470525" lon="16.0541689">
+      <ele>689</ele>
+      <time>2022-01-17T22:48:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5464221" lon="16.0547485">
+      <ele>684</ele>
+      <time>2022-01-17T22:49:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5461221" lon="16.0550918">
+      <ele>681</ele>
+      <time>2022-01-17T22:50:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5453856" lon="16.0554939">
+      <ele>666</ele>
+      <time>2022-01-17T22:51:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:11Z</time>
+    <bounds maxlat="50.1933272" maxlon="16.5178049" minlat="50.1877599" minlon="16.5090287"/>
+  </metadata>
+  <wpt lat="50.18776" lon="16.509029">
+    <ele>749</ele>
+    <name>Hanicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1963">
+      <text>Hanicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.193327" lon="16.517805">
+    <ele>819</ele>
+    <name>U Cernodolske rezervace</name>
+    <link href="https://mapa-turystyczna.pl/node/1969">
+      <text>U Cernodolske rezervace</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hanicka - U Cernodolske rezervace</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1877599,16.5090287;50.19103645494784,16.513687700000013;50.1933272,16.5178049">
+    <text>Hanicka - U Cernodolske rezervace</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1877599" lon="16.5090287">
+      <ele>749</ele>
+      <time>2022-01-17T21:20:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1887456" lon="16.5095705">
+      <ele>751</ele>
+      <time>2022-01-17T21:22:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1933272" lon="16.5178049">
+      <ele>819</ele>
+      <time>2022-01-17T21:40:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

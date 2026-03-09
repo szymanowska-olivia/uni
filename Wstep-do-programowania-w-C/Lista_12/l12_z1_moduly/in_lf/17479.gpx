@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:02Z</time>
+    <bounds maxlat="50.0842733" maxlon="16.7612429" minlat="50.0841795" minlon="16.7604429"/>
+  </metadata>
+  <wpt lat="50.084215" lon="16.760443">
+    <ele>572</ele>
+    <name>Kraliky</name>
+    <link href="https://mapa-turystyczna.pl/node/1763">
+      <text>Kraliky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.084179" lon="16.761243">
+    <ele>577</ele>
+    <name>Kraliky, Opletala</name>
+    <link href="https://mapa-turystyczna.pl/node/11864">
+      <text>Kraliky, Opletala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kraliky - Kraliky, Opletala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0842154,16.7604429;50.08426490000075,16.760964800000018;50.0841795,16.7612429">
+    <text>Kraliky - Kraliky, Opletala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0842154" lon="16.7604429">
+      <ele>572</ele>
+      <time>2022-01-18T01:14:02Z</time>
+    </trkpt>
+    <trkpt lat="50.0842733" lon="16.7608097">
+      <ele>574</ele>
+      <time>2022-01-18T01:14:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0842565" lon="16.7611199">
+      <ele>575</ele>
+      <time>2022-01-18T01:14:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0841795" lon="16.7612429">
+      <ele>577</ele>
+      <time>2022-01-18T01:15:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:43Z</time>
+    <bounds maxlat="51.3752991" maxlon="23.6236516" minlat="51.3570309" minlon="23.6111047"/>
+  </metadata>
+  <wpt lat="51.357031" lon="23.611105">
+    <ele>168</ele>
+    <name>Majdan Stulenski, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13233">
+      <text>Majdan Stulenski, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.375299" lon="23.613711">
+    <ele>169</ele>
+    <name>Stulno, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13232">
+      <text>Stulno, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Majdan Stulenski, stacja kolejowa - Stulno, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3570309,23.6111047;51.36543020611857,23.621504500000004;51.3752991,23.6137108">
+    <text>Majdan Stulenski, stacja kolejowa - Stulno, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3570309" lon="23.6111047">
+      <ele>168</ele>
+      <time>2022-01-18T01:51:43Z</time>
+    </trkpt>
+    <trkpt lat="51.3573576" lon="23.6158626">
+      <ele>166</ele>
+      <time>2022-01-18T01:56:40Z</time>
+    </trkpt>
+    <trkpt lat="51.3576842" lon="23.6206044">
+      <ele>164</ele>
+      <time>2022-01-18T02:01:36Z</time>
+    </trkpt>
+    <trkpt lat="51.3646816" lon="23.6214244">
+      <ele>166</ele>
+      <time>2022-01-18T02:13:13Z</time>
+    </trkpt>
+    <trkpt lat="51.3661788" lon="23.6215846">
+      <ele>165</ele>
+      <time>2022-01-18T02:15:42Z</time>
+    </trkpt>
+    <trkpt lat="51.3669073" lon="23.6216969">
+      <ele>165</ele>
+      <time>2022-01-18T02:16:55Z</time>
+    </trkpt>
+    <trkpt lat="51.367285" lon="23.6218281">
+      <ele>165</ele>
+      <time>2022-01-18T02:17:33Z</time>
+    </trkpt>
+    <trkpt lat="51.3675019" lon="23.6221096">
+      <ele>165</ele>
+      <time>2022-01-18T02:18:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3677499" lon="23.6228699">
+      <ele>166</ele>
+      <time>2022-01-18T02:18:54Z</time>
+    </trkpt>
+    <trkpt lat="51.3679309" lon="23.6236516">
+      <ele>165</ele>
+      <time>2022-01-18T02:19:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3741937" lon="23.6185417">
+      <ele>166</ele>
+      <time>2022-01-18T02:31:24Z</time>
+    </trkpt>
+    <trkpt lat="51.3752991" lon="23.6137108">
+      <ele>169</ele>
+      <time>2022-01-18T02:36:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

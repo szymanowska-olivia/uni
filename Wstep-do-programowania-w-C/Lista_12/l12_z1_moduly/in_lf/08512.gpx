@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:06Z</time>
+    <bounds maxlat="50.5946935" maxlon="16.1701905" minlat="50.5943325" minlon="16.1670953"/>
+  </metadata>
+  <wpt lat="50.594622" lon="16.167095">
+    <ele>476</ele>
+    <name>Teplice nad Metuji, Rooseveltova</name>
+    <link href="https://mapa-turystyczna.pl/node/5926">
+      <text>Teplice nad Metuji, Rooseveltova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.594438" lon="16.170191">
+    <ele>470</ele>
+    <name>Teplice nad Metuji</name>
+    <link href="https://mapa-turystyczna.pl/node/5919">
+      <text>Teplice nad Metuji</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Teplice nad Metuji, Rooseveltova - Teplice nad Metuji</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5946222,16.1670953;50.59454625001842,16.168671799999995;50.5944383,16.1701905">
+    <text>Teplice nad Metuji, Rooseveltova - Teplice nad Metuji</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5946222" lon="16.1670953">
+      <ele>476</ele>
+      <time>2022-01-17T22:40:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5946154" lon="16.1675794">
+      <ele>478</ele>
+      <time>2022-01-17T22:40:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5946903" lon="16.1683633">
+      <ele>479</ele>
+      <time>2022-01-17T22:41:57Z</time>
+    </trkpt>
+    <trkpt lat="50.5946935" lon="16.1685223">
+      <ele>478</ele>
+      <time>2022-01-17T22:42:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5945879" lon="16.1685169">
+      <ele>477</ele>
+      <time>2022-01-17T22:42:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5945046" lon="16.1688267">
+      <ele>473</ele>
+      <time>2022-01-17T22:42:55Z</time>
+    </trkpt>
+    <trkpt lat="50.5943565" lon="16.1691526">
+      <ele>471</ele>
+      <time>2022-01-17T22:43:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5943325" lon="16.1695576">
+      <ele>471</ele>
+      <time>2022-01-17T22:44:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5944415" lon="16.16974">
+      <ele>471</ele>
+      <time>2022-01-17T22:44:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5944383" lon="16.1701905">
+      <ele>470</ele>
+      <time>2022-01-17T22:45:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:19Z</time>
+    <bounds maxlat="50.6192977" maxlon="16.1011237" minlat="50.618811" minlon="16.0980713"/>
+  </metadata>
+  <wpt lat="50.619298" lon="16.098071">
+    <ele>614</ele>
+    <name>Pod Zriceninou hradu Adrspach</name>
+    <link href="https://mapa-turystyczna.pl/node/6042">
+      <text>Pod Zriceninou hradu Adrspach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.618811" lon="16.101124">
+    <ele>606</ele>
+    <name>Pod Starozamecky vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/6043">
+      <text>Pod Starozamecky vrchem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Zriceninou hradu Adrspach - Pod Starozamecky vrchem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6192977,16.0980713;50.619115550017746,16.09967264999997;50.618811,16.1011237">
+    <text>Pod Zriceninou hradu Adrspach - Pod Starozamecky vrchem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6192977" lon="16.0980713">
+      <ele>614</ele>
+      <time>2022-01-17T22:43:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6191053" lon="16.0990959">
+      <ele>612</ele>
+      <time>2022-01-17T22:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6191564" lon="16.0994232">
+      <ele>609</ele>
+      <time>2022-01-17T22:45:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6190747" lon="16.0999221">
+      <ele>608</ele>
+      <time>2022-01-17T22:46:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6190066" lon="16.1005551">
+      <ele>603</ele>
+      <time>2022-01-17T22:47:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6188501" lon="16.1009037">
+      <ele>606</ele>
+      <time>2022-01-17T22:47:58Z</time>
+    </trkpt>
+    <trkpt lat="50.618811" lon="16.1011237">
+      <ele>606</ele>
+      <time>2022-01-17T22:48:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

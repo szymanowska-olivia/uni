@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:29Z</time>
+    <bounds maxlat="50.2637421" maxlon="16.8077731" minlat="50.2633698" minlon="16.8058356"/>
+  </metadata>
+  <wpt lat="50.26337" lon="16.807773">
+    <ele>896</ele>
+    <name>Przelecz Puchaczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/1759">
+      <text>Przelecz Puchaczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.263734" lon="16.805836">
+    <ele>897</ele>
+    <name>Przelecz Puchaczowka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7310">
+      <text>Przelecz Puchaczowka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Puchaczowka - Przelecz Puchaczowka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2633698,16.8077731;50.26345995008531,16.807193749999996;50.2637336,16.8058356">
+    <text>Przelecz Puchaczowka - Przelecz Puchaczowka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2633698" lon="16.8077731">
+      <ele>896</ele>
+      <time>2022-01-17T23:15:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2635501" lon="16.8066144">
+      <ele>896</ele>
+      <time>2022-01-17T23:16:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2637421" lon="16.8058848">
+      <ele>897</ele>
+      <time>2022-01-17T23:17:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2637336" lon="16.8058356">
+      <ele>897</ele>
+      <time>2022-01-17T23:17:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

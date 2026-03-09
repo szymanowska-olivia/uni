@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:30Z</time>
+    <bounds maxlat="50.6273327" maxlon="16.2417626" minlat="50.6258831" minlon="16.2406307"/>
+  </metadata>
+  <wpt lat="50.625883" lon="16.240631">
+    <ele>438</ele>
+    <name>Mezimesti</name>
+    <link href="https://mapa-turystyczna.pl/node/5862">
+      <text>Mezimesti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.627333" lon="16.241763">
+    <ele>437</ele>
+    <name>Mezimesti, Skolni</name>
+    <link href="https://mapa-turystyczna.pl/node/2347">
+      <text>Mezimesti, Skolni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mezimesti - Mezimesti, Skolni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6258831,16.2406307;50.626750200495714,16.241403150000025;50.6273327,16.2417626">
+    <text>Mezimesti - Mezimesti, Skolni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6258831" lon="16.2406307">
+      <ele>438</ele>
+      <time>2022-01-17T22:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6261205" lon="16.241135">
+      <ele>439</ele>
+      <time>2022-01-17T22:39:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6262863" lon="16.2412584">
+      <ele>438</ele>
+      <time>2022-01-17T22:39:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6265343" lon="16.2413656">
+      <ele>437</ele>
+      <time>2022-01-17T22:39:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6269661" lon="16.2414407">
+      <ele>437</ele>
+      <time>2022-01-17T22:40:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6273327" lon="16.2417626">
+      <ele>437</ele>
+      <time>2022-01-17T22:41:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

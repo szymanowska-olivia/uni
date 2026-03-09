@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:41Z</time>
+    <bounds maxlat="50.1812382" maxlon="19.3051536" minlat="50.176042" minlon="19.303347"/>
+  </metadata>
+  <wpt lat="50.181238" lon="19.305154">
+    <ele>327</ele>
+    <name>Pod Grodziskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/10593">
+      <text>Pod Grodziskiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.176042" lon="19.30337">
+    <ele>293</ele>
+    <name>Bory, ul. Podgorska</name>
+    <link href="https://mapa-turystyczna.pl/node/10575">
+      <text>Bory, ul. Podgorska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Grodziskiem - Bory, ul. Podgorska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1812382,19.3051536;50.178453002884716,19.304282999999998;50.176042,19.30337">
+    <text>Pod Grodziskiem - Bory, ul. Podgorska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1812382" lon="19.3051536">
+      <ele>327</ele>
+      <time>2022-01-18T00:40:41Z</time>
+    </trkpt>
+    <trkpt lat="50.18077" lon="19.305064">
+      <ele>317</ele>
+      <time>2022-01-18T00:41:35Z</time>
+    </trkpt>
+    <trkpt lat="50.179002" lon="19.304454">
+      <ele>298</ele>
+      <time>2022-01-18T00:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.178978" lon="19.304447">
+      <ele>298</ele>
+      <time>2022-01-18T00:45:01Z</time>
+    </trkpt>
+    <trkpt lat="50.177928" lon="19.304119">
+      <ele>290</ele>
+      <time>2022-01-18T00:47:01Z</time>
+    </trkpt>
+    <trkpt lat="50.177415" lon="19.303969">
+      <ele>291</ele>
+      <time>2022-01-18T00:48:00Z</time>
+    </trkpt>
+    <trkpt lat="50.177038" lon="19.303783">
+      <ele>290</ele>
+      <time>2022-01-18T00:48:44Z</time>
+    </trkpt>
+    <trkpt lat="50.176905" lon="19.303681">
+      <ele>290</ele>
+      <time>2022-01-18T00:49:01Z</time>
+    </trkpt>
+    <trkpt lat="50.176583" lon="19.303525">
+      <ele>290</ele>
+      <time>2022-01-18T00:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.176396" lon="19.303419">
+      <ele>292</ele>
+      <time>2022-01-18T00:50:01Z</time>
+    </trkpt>
+    <trkpt lat="50.176263" lon="19.303365">
+      <ele>292</ele>
+      <time>2022-01-18T00:50:16Z</time>
+    </trkpt>
+    <trkpt lat="50.176094" lon="19.303347">
+      <ele>293</ele>
+      <time>2022-01-18T00:50:35Z</time>
+    </trkpt>
+    <trkpt lat="50.176042" lon="19.30337">
+      <ele>293</ele>
+      <time>2022-01-18T00:50:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

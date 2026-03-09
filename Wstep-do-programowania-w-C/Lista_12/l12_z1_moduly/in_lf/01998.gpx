@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:26Z</time>
+    <bounds maxlat="50.7158186" maxlon="15.681476" minlat="50.7098161" minlon="15.6750709"/>
+  </metadata>
+  <wpt lat="50.715819" lon="15.681476">
+    <ele>1357</ele>
+    <name>Vyrovka</name>
+    <link href="https://mapa-turystyczna.pl/node/1436">
+      <text>Vyrovka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.709816" lon="15.675071">
+    <ele>1351</ele>
+    <name>Zadni Planina</name>
+    <link href="https://mapa-turystyczna.pl/node/1443">
+      <text>Zadni Planina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyrovka - Zadni Planina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7158186,15.681476;50.71334135343233,15.677629650000004;50.7098161,15.6750709">
+    <text>Vyrovka - Zadni Planina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7158186" lon="15.681476">
+      <ele>1357</ele>
+      <time>2022-01-17T21:09:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7150963" lon="15.6804326">
+      <ele>1358</ele>
+      <time>2022-01-17T21:11:24Z</time>
+    </trkpt>
+    <trkpt lat="50.714905" lon="15.6801362">
+      <ele>1356</ele>
+      <time>2022-01-17T21:11:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7139086" lon="15.6782573">
+      <ele>1348</ele>
+      <time>2022-01-17T21:15:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7127741" lon="15.677002">
+      <ele>1347</ele>
+      <time>2022-01-17T21:17:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7123994" lon="15.6767097">
+      <ele>1346</ele>
+      <time>2022-01-17T21:18:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7122087" lon="15.6764723">
+      <ele>1348</ele>
+      <time>2022-01-17T21:19:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7119639" lon="15.6761284">
+      <ele>1350</ele>
+      <time>2022-01-17T21:19:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7117938" lon="15.6759453">
+      <ele>1351</ele>
+      <time>2022-01-17T21:20:17Z</time>
+    </trkpt>
+    <trkpt lat="50.711528" lon="15.6757361">
+      <ele>1351</ele>
+      <time>2022-01-17T21:20:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7108716" lon="15.6754679">
+      <ele>1352</ele>
+      <time>2022-01-17T21:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7103297" lon="15.6753096">
+      <ele>1353</ele>
+      <time>2022-01-17T21:23:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7098161" lon="15.6750709">
+      <ele>1351</ele>
+      <time>2022-01-17T21:24:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

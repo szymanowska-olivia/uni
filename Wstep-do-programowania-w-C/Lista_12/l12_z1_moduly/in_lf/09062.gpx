@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:16Z</time>
+    <bounds maxlat="50.6528058" maxlon="16.5237192" minlat="50.6522699" minlon="16.5229627"/>
+  </metadata>
+  <wpt lat="50.65227" lon="16.523719">
+    <ele>740</ele>
+    <name>Schronisko PTTK Zygmuntowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2035">
+      <text>Schronisko PTTK Zygmuntowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.652806" lon="16.522963">
+    <ele>723</ele>
+    <name>Rozdoze pod schroniskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/6307">
+      <text>Rozdoze pod schroniskiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Zygmuntowka - Rozdoze pod schroniskiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6522699,16.5237192;50.65268795003191,16.523429350000004;50.6528058,16.5229627">
+    <text>Schronisko PTTK Zygmuntowka - Rozdoze pod schroniskiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6522699" lon="16.5237192">
+      <ele>740</ele>
+      <time>2022-01-17T22:50:16Z</time>
+    </trkpt>
+    <trkpt lat="50.6523506" lon="16.5236755">
+      <ele>738</ele>
+      <time>2022-01-17T22:50:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6526332" lon="16.5235017">
+      <ele>732</ele>
+      <time>2022-01-17T22:50:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6527427" lon="16.523357">
+      <ele>729</ele>
+      <time>2022-01-17T22:50:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6527767" lon="16.5232176">
+      <ele>726</ele>
+      <time>2022-01-17T22:51:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6528058" lon="16.5229627">
+      <ele>723</ele>
+      <time>2022-01-17T22:51:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

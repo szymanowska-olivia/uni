@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:28Z</time>
+    <bounds maxlat="49.688863" maxlon="20.191205" minlat="49.688573" minlon="20.188301"/>
+  </metadata>
+  <wpt lat="49.688863" lon="20.188301">
+    <ele>1053</ele>
+    <name>Pod Cwilinem</name>
+    <link href="https://mapa-turystyczna.pl/node/3921">
+      <text>Pod Cwilinem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.688665" lon="20.191205">
+    <ele>1072</ele>
+    <name>Cwilin</name>
+    <link href="https://mapa-turystyczna.pl/node/873">
+      <text>Cwilin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Cwilinem - Cwilin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.688863,20.188301;49.688677000002,20.189703499999982;49.688665,20.191205">
+    <text>Pod Cwilinem - Cwilin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.688863" lon="20.188301">
+      <ele>1053</ele>
+      <time>2022-01-17T21:58:28Z</time>
+    </trkpt>
+    <trkpt lat="49.688825" lon="20.188446">
+      <ele>1054</ele>
+      <time>2022-01-17T21:58:43Z</time>
+    </trkpt>
+    <trkpt lat="49.688774" lon="20.188673">
+      <ele>1056</ele>
+      <time>2022-01-17T21:59:07Z</time>
+    </trkpt>
+    <trkpt lat="49.688658" lon="20.188773">
+      <ele>1057</ele>
+      <time>2022-01-17T21:59:27Z</time>
+    </trkpt>
+    <trkpt lat="49.688669" lon="20.189277">
+      <ele>1061</ele>
+      <time>2022-01-17T22:00:16Z</time>
+    </trkpt>
+    <trkpt lat="49.688691" lon="20.189588">
+      <ele>1062</ele>
+      <time>2022-01-17T22:00:46Z</time>
+    </trkpt>
+    <trkpt lat="49.688663" lon="20.189819">
+      <ele>1062</ele>
+      <time>2022-01-17T22:01:09Z</time>
+    </trkpt>
+    <trkpt lat="49.688629" lon="20.190119">
+      <ele>1063</ele>
+      <time>2022-01-17T22:01:39Z</time>
+    </trkpt>
+    <trkpt lat="49.688592" lon="20.190411">
+      <ele>1066</ele>
+      <time>2022-01-17T22:02:08Z</time>
+    </trkpt>
+    <trkpt lat="49.688573" lon="20.190685">
+      <ele>1069</ele>
+      <time>2022-01-17T22:02:35Z</time>
+    </trkpt>
+    <trkpt lat="49.688629" lon="20.190929">
+      <ele>1071</ele>
+      <time>2022-01-17T22:03:01Z</time>
+    </trkpt>
+    <trkpt lat="49.688665" lon="20.191205">
+      <ele>1072</ele>
+      <time>2022-01-17T22:03:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

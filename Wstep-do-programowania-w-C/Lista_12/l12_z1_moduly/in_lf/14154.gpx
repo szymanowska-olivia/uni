@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:40Z</time>
+    <bounds maxlat="50.4556143" maxlon="18.5174133" minlat="50.4554716" minlon="18.5169624"/>
+  </metadata>
+  <wpt lat="50.455472" lon="18.517413">
+    <ele>256</ele>
+    <name>Toszek</name>
+    <link href="https://mapa-turystyczna.pl/node/9587">
+      <text>Toszek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.455614" lon="18.516962">
+    <ele>257</ele>
+    <name>Toszek, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9668">
+      <text>Toszek, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Toszek - Toszek, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4554716,18.5174133;50.455548600045624,18.51718255;50.4556143,18.5169624">
+    <text>Toszek - Toszek, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4554716" lon="18.5174133">
+      <ele>256</ele>
+      <time>2022-01-18T00:17:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4554829" lon="18.5174027">
+      <ele>256</ele>
+      <time>2022-01-18T00:17:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4556143" lon="18.5169624">
+      <ele>257</ele>
+      <time>2022-01-18T00:18:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

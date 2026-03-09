@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:11Z</time>
+    <bounds maxlat="49.255372" maxlon="20.067196" minlat="49.255315" minlon="20.065567"/>
+  </metadata>
+  <wpt lat="49.255351" lon="20.065567">
+    <ele>1405</ele>
+    <name>Rowien Waksmundzka</name>
+    <link href="https://mapa-turystyczna.pl/node/270">
+      <text>Rowien Waksmundzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.255372" lon="20.067196">
+    <ele>1410</ele>
+    <name>Rowien Waksmundzka, odejscie na Gesia Szyje</name>
+    <link href="https://mapa-turystyczna.pl/node/2478">
+      <text>Rowien Waksmundzka, odejscie na Gesia Szyje</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rowien Waksmundzka - Rowien Waksmundzka, odejscie na Gesia Szyje</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.255351,20.065567;49.25534800000146,20.066415499999966;49.255372,20.067196">
+    <text>Rowien Waksmundzka - Rowien Waksmundzka, odejscie na Gesia Szyje</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.255351" lon="20.065567">
+      <ele>1405</ele>
+      <time>2022-01-17T21:31:11Z</time>
+    </trkpt>
+    <trkpt lat="49.255356" lon="20.065793">
+      <ele>1405</ele>
+      <time>2022-01-17T21:31:35Z</time>
+    </trkpt>
+    <trkpt lat="49.255355" lon="20.066">
+      <ele>1405</ele>
+      <time>2022-01-17T21:31:58Z</time>
+    </trkpt>
+    <trkpt lat="49.255336" lon="20.066197">
+      <ele>1406</ele>
+      <time>2022-01-17T21:32:19Z</time>
+    </trkpt>
+    <trkpt lat="49.255336" lon="20.066311">
+      <ele>1406</ele>
+      <time>2022-01-17T21:32:31Z</time>
+    </trkpt>
+    <trkpt lat="49.25536" lon="20.06652">
+      <ele>1407</ele>
+      <time>2022-01-17T21:32:54Z</time>
+    </trkpt>
+    <trkpt lat="49.255364" lon="20.066673">
+      <ele>1407</ele>
+      <time>2022-01-17T21:33:11Z</time>
+    </trkpt>
+    <trkpt lat="49.255315" lon="20.066998">
+      <ele>1408</ele>
+      <time>2022-01-17T21:33:47Z</time>
+    </trkpt>
+    <trkpt lat="49.255322" lon="20.067083">
+      <ele>1409</ele>
+      <time>2022-01-17T21:33:56Z</time>
+    </trkpt>
+    <trkpt lat="49.255372" lon="20.067196">
+      <ele>1410</ele>
+      <time>2022-01-17T21:34:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

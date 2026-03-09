@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:46Z</time>
+    <bounds maxlat="50.3771312" maxlon="16.3582769" minlat="50.375176" minlon="16.3539487"/>
+  </metadata>
+  <wpt lat="50.375176" lon="16.353949">
+    <ele>746</ele>
+    <name>Cihalka</name>
+    <link href="https://mapa-turystyczna.pl/node/6098">
+      <text>Cihalka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.377131" lon="16.358277">
+    <ele>780</ele>
+    <name>Cihalka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/4884">
+      <text>Cihalka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cihalka - Cihalka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.375176,16.3539487;50.376303300222816,16.35621620000002;50.3771312,16.3582769">
+    <text>Cihalka - Cihalka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.375176" lon="16.3539487">
+      <ele>746</ele>
+      <time>2022-01-17T22:44:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3751948" lon="16.3539722">
+      <ele>746</ele>
+      <time>2022-01-17T22:44:50Z</time>
+    </trkpt>
+    <trkpt lat="50.3756301" lon="16.3550622">
+      <ele>754</ele>
+      <time>2022-01-17T22:47:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3758807" lon="16.3555942">
+      <ele>757</ele>
+      <time>2022-01-17T22:48:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3761579" lon="16.3559845">
+      <ele>762</ele>
+      <time>2022-01-17T22:49:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3764487" lon="16.3564479">
+      <ele>770</ele>
+      <time>2022-01-17T22:50:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3771312" lon="16.3582769">
+      <ele>780</ele>
+      <time>2022-01-17T22:54:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

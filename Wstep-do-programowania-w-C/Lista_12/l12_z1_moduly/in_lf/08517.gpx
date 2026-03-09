@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:09Z</time>
+    <bounds maxlat="50.5732368" maxlon="16.13787" minlat="50.5731244" minlon="16.1376286"/>
+  </metadata>
+  <wpt lat="50.573124" lon="16.137629">
+    <ele>651</ele>
+    <name>Osada Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/5930">
+      <text>Osada Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.573237" lon="16.13787">
+    <ele>651</ele>
+    <name>Osada Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/5929">
+      <text>Osada Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Osada Skaly - Osada Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5731244,16.1376286;50.57316100001421,16.137688950000012;50.5732368,16.13787">
+    <text>Osada Skaly - Osada Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5731244" lon="16.1376286">
+      <ele>651</ele>
+      <time>2022-01-17T22:40:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5731976" lon="16.1377493">
+      <ele>651</ele>
+      <time>2022-01-17T22:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5732368" lon="16.13787">
+      <ele>651</ele>
+      <time>2022-01-17T22:41:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

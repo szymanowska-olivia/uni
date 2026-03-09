@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:56:35Z</time>
+    <bounds maxlat="49.656695" maxlon="18.926244" minlat="49.652491" minlon="18.922916"/>
+  </metadata>
+  <wpt lat="49.656695" lon="18.922916">
+    <ele>806</ele>
+    <name>Wierch Gosciejow</name>
+    <link href="https://mapa-turystyczna.pl/node/847">
+      <text>Wierch Gosciejow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.652491" lon="18.926244">
+    <ele>835</ele>
+    <name>Smerekowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/828">
+      <text>Smerekowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wierch Gosciejow - Smerekowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.656695,18.922916;49.6542045007133,18.923833000000005;49.652491,18.926244">
+    <text>Wierch Gosciejow - Smerekowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.656695" lon="18.922916">
+      <ele>805</ele>
+      <time>2022-01-17T20:56:35Z</time>
+    </trkpt>
+    <trkpt lat="49.65653" lon="18.923024">
+      <ele>807</ele>
+      <time>2022-01-17T20:56:57Z</time>
+    </trkpt>
+    <trkpt lat="49.655497" lon="18.92355">
+      <ele>804</ele>
+      <time>2022-01-17T20:59:07Z</time>
+    </trkpt>
+    <trkpt lat="49.65476" lon="18.923732">
+      <ele>807</ele>
+      <time>2022-01-17T21:00:37Z</time>
+    </trkpt>
+    <trkpt lat="49.654468" lon="18.923792">
+      <ele>808</ele>
+      <time>2022-01-17T21:01:12Z</time>
+    </trkpt>
+    <trkpt lat="49.653941" lon="18.923874">
+      <ele>820</ele>
+      <time>2022-01-17T21:02:17Z</time>
+    </trkpt>
+    <trkpt lat="49.653422" lon="18.924511">
+      <ele>834</ele>
+      <time>2022-01-17T21:03:38Z</time>
+    </trkpt>
+    <trkpt lat="49.653162" lon="18.924989">
+      <ele>835</ele>
+      <time>2022-01-17T21:04:27Z</time>
+    </trkpt>
+    <trkpt lat="49.652866" lon="18.925461">
+      <ele>833</ele>
+      <time>2022-01-17T21:05:18Z</time>
+    </trkpt>
+    <trkpt lat="49.652662" lon="18.925757">
+      <ele>836</ele>
+      <time>2022-01-17T21:05:51Z</time>
+    </trkpt>
+    <trkpt lat="49.65254" lon="18.926021">
+      <ele>837</ele>
+      <time>2022-01-17T21:06:17Z</time>
+    </trkpt>
+    <trkpt lat="49.652491" lon="18.926244">
+      <ele>835</ele>
+      <time>2022-01-17T21:06:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:29Z</time>
+    <bounds maxlat="50.7208003" maxlon="16.4724433" minlat="50.7204752" minlon="16.4723406"/>
+  </metadata>
+  <wpt lat="50.720475" lon="16.472443">
+    <ele>539</ele>
+    <name>Glinno</name>
+    <link href="https://mapa-turystyczna.pl/node/2047">
+      <text>Glinno</text>
+    </link>
+  </wpt>
+  <wpt lat="50.7208" lon="16.472341">
+    <ele>543</ele>
+    <name>Glinno, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/8127">
+      <text>Glinno, rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glinno - Glinno, rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7204752,16.4724433;50.72063775028194,16.472391949999974;50.7208003,16.4723406">
+    <text>Glinno - Glinno, rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7204752" lon="16.4724433">
+      <ele>539</ele>
+      <time>2022-01-17T23:37:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7208003" lon="16.4723406">
+      <ele>543</ele>
+      <time>2022-01-17T23:38:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

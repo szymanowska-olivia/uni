@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:36Z</time>
+    <bounds maxlat="50.7099621" maxlon="15.70737" minlat="50.7084233" minlon="15.7003212"/>
+  </metadata>
+  <wpt lat="50.709962" lon="15.700321">
+    <ele>1142</ele>
+    <name>Richterovy Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1325">
+      <text>Richterovy Boudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.708423" lon="15.70737">
+    <ele>1096</ele>
+    <name>U Richterowych Bud</name>
+    <link href="https://mapa-turystyczna.pl/node/1279">
+      <text>U Richterowych Bud</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Richterovy Boudy - U Richterowych Bud</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7099621,15.7003212;50.709402850027665,15.703528850000028;50.7084233,15.70737">
+    <text>Richterovy Boudy - U Richterowych Bud</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7099621" lon="15.7003212">
+      <ele>1142</ele>
+      <time>2022-01-17T21:06:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7096067" lon="15.7023487">
+      <ele>1127</ele>
+      <time>2022-01-17T21:09:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7094538" lon="15.7028905">
+      <ele>1124</ele>
+      <time>2022-01-17T21:10:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7093519" lon="15.7041672">
+      <ele>1120</ele>
+      <time>2022-01-17T21:11:53Z</time>
+    </trkpt>
+    <trkpt lat="50.709233" lon="15.7049344">
+      <ele>1116</ele>
+      <time>2022-01-17T21:12:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7091831" lon="15.7051331">
+      <ele>1114</ele>
+      <time>2022-01-17T21:13:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7090328" lon="15.7057453">
+      <ele>1110</ele>
+      <time>2022-01-17T21:14:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7088424" lon="15.7064418">
+      <ele>1102</ele>
+      <time>2022-01-17T21:15:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7084233" lon="15.70737">
+      <ele>1096</ele>
+      <time>2022-01-17T21:16:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

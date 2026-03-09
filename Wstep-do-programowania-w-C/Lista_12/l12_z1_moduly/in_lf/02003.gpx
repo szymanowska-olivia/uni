@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:30Z</time>
+    <bounds maxlat="50.6522932" maxlon="15.9065616" minlat="50.6505844" minlon="15.9035253"/>
+  </metadata>
+  <wpt lat="50.650611" lon="15.903525">
+    <ele>660</ele>
+    <name>Zacler, zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/1442">
+      <text>Zacler, zamek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.652183" lon="15.906562">
+    <ele>621</ele>
+    <name>Zacler, namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1439">
+      <text>Zacler, namesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zacler, zamek - Zacler, namesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6506107,15.9035253;50.65185280016051,15.904472799999985;50.6521834,15.9065616">
+    <text>Zacler, zamek - Zacler, namesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6506107" lon="15.9035253">
+      <ele>660</ele>
+      <time>2022-01-17T21:09:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6505844" lon="15.9039102">
+      <ele>658</ele>
+      <time>2022-01-17T21:09:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6506665" lon="15.9040811">
+      <ele>655</ele>
+      <time>2022-01-17T21:10:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6512928" lon="15.9039946">
+      <ele>655</ele>
+      <time>2022-01-17T21:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.65173" lon="15.9042278">
+      <ele>650</ele>
+      <time>2022-01-17T21:11:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6519756" lon="15.9047178">
+      <ele>641</ele>
+      <time>2022-01-17T21:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6522261" lon="15.905248">
+      <ele>636</ele>
+      <time>2022-01-17T21:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6522932" lon="15.9057438">
+      <ele>630</ele>
+      <time>2022-01-17T21:13:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6521834" lon="15.9065616">
+      <ele>621</ele>
+      <time>2022-01-17T21:14:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

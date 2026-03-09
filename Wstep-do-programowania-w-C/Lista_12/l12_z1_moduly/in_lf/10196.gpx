@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:03Z</time>
+    <bounds maxlat="49.123411" maxlon="19.17061" minlat="49.120399" minlon="19.167309"/>
+  </metadata>
+  <wpt lat="49.120399" lon="19.167309">
+    <ele>451</ele>
+    <name>Lubochna</name>
+    <link href="https://mapa-turystyczna.pl/node/5526">
+      <text>Lubochna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.123411" lon="19.17061">
+    <ele>439</ele>
+    <name>Lubochna, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7189">
+      <text>Lubochna, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubochna - Lubochna, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.120399,19.167309;49.1218965020735,19.169129500000004;49.123411,19.17061">
+    <text>Lubochna - Lubochna, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.120399" lon="19.167309">
+      <ele>451</ele>
+      <time>2022-01-17T23:12:03Z</time>
+    </trkpt>
+    <trkpt lat="49.120428" lon="19.167343">
+      <ele>451</ele>
+      <time>2022-01-17T23:12:06Z</time>
+    </trkpt>
+    <trkpt lat="49.12062" lon="19.167572">
+      <ele>451</ele>
+      <time>2022-01-17T23:12:26Z</time>
+    </trkpt>
+    <trkpt lat="49.121443" lon="19.168577">
+      <ele>446</ele>
+      <time>2022-01-17T23:13:51Z</time>
+    </trkpt>
+    <trkpt lat="49.12235" lon="19.169682">
+      <ele>445</ele>
+      <time>2022-01-17T23:15:24Z</time>
+    </trkpt>
+    <trkpt lat="49.12255" lon="19.169823">
+      <ele>443</ele>
+      <time>2022-01-17T23:15:42Z</time>
+    </trkpt>
+    <trkpt lat="49.122691" lon="19.169921">
+      <ele>442</ele>
+      <time>2022-01-17T23:15:54Z</time>
+    </trkpt>
+    <trkpt lat="49.123287" lon="19.170489">
+      <ele>439</ele>
+      <time>2022-01-17T23:16:51Z</time>
+    </trkpt>
+    <trkpt lat="49.123411" lon="19.17061">
+      <ele>439</ele>
+      <time>2022-01-17T23:17:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

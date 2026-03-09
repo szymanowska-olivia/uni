@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:12Z</time>
+    <bounds maxlat="50.4158157" maxlon="18.9726827" minlat="50.413363" minlon="18.9626721"/>
+  </metadata>
+  <wpt lat="50.415816" lon="18.962672">
+    <ele>278</ele>
+    <name>Kozlowa Gora, Dioblina</name>
+    <link href="https://mapa-turystyczna.pl/node/9687">
+      <text>Kozlowa Gora, Dioblina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.413363" lon="18.972683">
+    <ele>275</ele>
+    <name>Zapora Kozlowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/9395">
+      <text>Zapora Kozlowa Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kozlowa Gora, Dioblina - Zapora Kozlowa Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4158157,18.9626721;50.414589365872764,18.96767740000001;50.413363,18.9726827">
+    <text>Kozlowa Gora, Dioblina - Zapora Kozlowa Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4158157" lon="18.9626721">
+      <ele>278</ele>
+      <time>2022-01-18T00:18:12Z</time>
+    </trkpt>
+    <trkpt lat="50.413363" lon="18.9726827">
+      <ele>275</ele>
+      <time>2022-01-18T00:28:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

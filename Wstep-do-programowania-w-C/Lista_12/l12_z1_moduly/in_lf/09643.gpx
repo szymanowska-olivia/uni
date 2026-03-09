@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:28Z</time>
+    <bounds maxlat="50.2123219" maxlon="17.346248" minlat="50.2119649" minlon="17.3452717"/>
+  </metadata>
+  <wpt lat="50.211965" lon="17.345272">
+    <ele>720</ele>
+    <name>Nad Hornim Udolim, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6767">
+      <text>Nad Hornim Udolim, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.212322" lon="17.346248">
+    <ele>717</ele>
+    <name>Nad Hornim Udolim</name>
+    <link href="https://mapa-turystyczna.pl/node/6766">
+      <text>Nad Hornim Udolim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Hornim Udolim, rozc. - Nad Hornim Udolim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2119649,17.3452717;50.212172600233586,17.345907349999976;50.2123219,17.346248">
+    <text>Nad Hornim Udolim, rozc. - Nad Hornim Udolim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2119649" lon="17.3452717">
+      <ele>720</ele>
+      <time>2022-01-17T23:01:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2120233" lon="17.3455667">
+      <ele>720</ele>
+      <time>2022-01-17T23:01:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2123219" lon="17.346248">
+      <ele>717</ele>
+      <time>2022-01-17T23:02:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

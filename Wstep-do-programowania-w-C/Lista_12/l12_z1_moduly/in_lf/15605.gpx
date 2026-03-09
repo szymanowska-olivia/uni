@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:59Z</time>
+    <bounds maxlat="49.362979" maxlon="20.792551" minlat="49.361894" minlon="20.7894"/>
+  </metadata>
+  <wpt lat="49.361894" lon="20.7894">
+    <ele>421</ele>
+    <name>Zegiestow, kladka</name>
+    <link href="https://mapa-turystyczna.pl/node/10646">
+      <text>Zegiestow, kladka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.362979" lon="20.792551">
+    <ele>426</ele>
+    <name>Zegiestow, przejazd kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/179">
+      <text>Zegiestow, przejazd kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zegiestow, kladka - Zegiestow, przejazd kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.361894,20.7894;49.362249501285035,20.790432;49.362979,20.792551">
+    <text>Zegiestow, kladka - Zegiestow, przejazd kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.361894" lon="20.7894">
+      <ele>421</ele>
+      <time>2022-01-18T00:41:59Z</time>
+    </trkpt>
+    <trkpt lat="49.362605" lon="20.791464">
+      <ele>428</ele>
+      <time>2022-01-18T00:45:16Z</time>
+    </trkpt>
+    <trkpt lat="49.362839" lon="20.792142">
+      <ele>427</ele>
+      <time>2022-01-18T00:46:20Z</time>
+    </trkpt>
+    <trkpt lat="49.362979" lon="20.792551">
+      <ele>426</ele>
+      <time>2022-01-18T00:46:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

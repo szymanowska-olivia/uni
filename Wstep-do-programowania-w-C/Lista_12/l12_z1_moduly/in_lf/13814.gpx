@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:53Z</time>
+    <bounds maxlat="50.209286" maxlon="18.9180029" minlat="50.2080615" minlon="18.9172339"/>
+  </metadata>
+  <wpt lat="50.209286" lon="18.917999">
+    <ele>267</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/9481">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="50.208061" lon="18.917234">
+    <ele>270</ele>
+    <name>Starganiec</name>
+    <link href="https://mapa-turystyczna.pl/node/9465">
+      <text>Starganiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Starganiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.209286,18.9179992;50.208480801842036,18.917478900000003;50.2080615,18.9172339">
+    <text>Rozejscie szlakow czerwony / zielony - Starganiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.209286" lon="18.9179992">
+      <ele>267</ele>
+      <time>2022-01-18T00:12:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2092846" lon="18.9180029">
+      <ele>267</ele>
+      <time>2022-01-18T00:12:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2089001" lon="18.9177239">
+      <ele>266</ele>
+      <time>2022-01-18T00:13:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2080615" lon="18.9172339">
+      <ele>270</ele>
+      <time>2022-01-18T00:15:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

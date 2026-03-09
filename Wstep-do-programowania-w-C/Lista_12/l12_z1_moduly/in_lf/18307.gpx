@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:48Z</time>
+    <bounds maxlat="52.290882" maxlon="20.4495049" minlat="52.2896734" minlon="20.4486758"/>
+  </metadata>
+  <wpt lat="52.290882" lon="20.449505">
+    <ele>86</ele>
+    <name>Chata Kampinoska</name>
+    <link href="https://mapa-turystyczna.pl/node/4994">
+      <text>Chata Kampinoska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.289673" lon="20.448676">
+    <ele>81</ele>
+    <name>Cmentarz wojenny</name>
+    <link href="https://mapa-turystyczna.pl/node/12420">
+      <text>Cmentarz wojenny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Kampinoska - Cmentarz wojenny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.290882,20.4495049;52.290293003915686,20.449105249999988;52.2896734,20.4486758">
+    <text>Chata Kampinoska - Cmentarz wojenny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.290882" lon="20.4495049">
+      <ele>86</ele>
+      <time>2022-01-18T01:28:48Z</time>
+    </trkpt>
+    <trkpt lat="52.289704" lon="20.4487056">
+      <ele>81</ele>
+      <time>2022-01-18T01:30:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2896734" lon="20.4486758">
+      <ele>81</ele>
+      <time>2022-01-18T01:30:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:42Z</time>
+    <bounds maxlat="51.7026165" maxlon="21.5880936" minlat="51.7017802" minlon="21.5880248"/>
+  </metadata>
+  <wpt lat="51.70178" lon="21.588094">
+    <ele>121</ele>
+    <name>Podzamcze</name>
+    <link href="https://mapa-turystyczna.pl/node/12386">
+      <text>Podzamcze</text>
+    </link>
+  </wpt>
+  <wpt lat="51.702616" lon="21.588078">
+    <ele>123</ele>
+    <name>Podzamcze, palac</name>
+    <link href="https://mapa-turystyczna.pl/node/12387">
+      <text>Podzamcze, palac</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podzamcze - Podzamcze, palac</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7017802,21.5880936;51.70212685022331,21.588052699999984;51.7026165,21.5880784">
+    <text>Podzamcze - Podzamcze, palac</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7017802" lon="21.5880936">
+      <ele>121</ele>
+      <time>2022-01-18T01:27:42Z</time>
+    </trkpt>
+    <trkpt lat="51.7019847" lon="21.5880806">
+      <ele>123</ele>
+      <time>2022-01-18T01:28:11Z</time>
+    </trkpt>
+    <trkpt lat="51.702269" lon="21.5880248">
+      <ele>124</ele>
+      <time>2022-01-18T01:28:52Z</time>
+    </trkpt>
+    <trkpt lat="51.7024681" lon="21.588026">
+      <ele>124</ele>
+      <time>2022-01-18T01:29:20Z</time>
+    </trkpt>
+    <trkpt lat="51.7026165" lon="21.5880784">
+      <ele>123</ele>
+      <time>2022-01-18T01:29:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:50Z</time>
+    <bounds maxlat="52.0042523" maxlon="20.5563162" minlat="52.0041" minlon="20.5561378"/>
+  </metadata>
+  <wpt lat="52.004252" lon="20.556316">
+    <ele>147</ele>
+    <name>Radziejowice</name>
+    <link href="https://mapa-turystyczna.pl/node/11958">
+      <text>Radziejowice</text>
+    </link>
+  </wpt>
+  <wpt lat="52.0041" lon="20.556138">
+    <ele>147</ele>
+    <name>Radziejowice, rondo</name>
+    <link href="https://mapa-turystyczna.pl/node/12096">
+      <text>Radziejowice, rondo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radziejowice - Radziejowice, rondo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0042523,20.5563162;52.00420465002536,20.556288049999985;52.0041,20.5561378">
+    <text>Radziejowice - Radziejowice, rondo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0042523" lon="20.5563162">
+      <ele>147</ele>
+      <time>2022-01-18T01:19:50Z</time>
+    </trkpt>
+    <trkpt lat="52.004157" lon="20.5562599">
+      <ele>147</ele>
+      <time>2022-01-18T01:20:21Z</time>
+    </trkpt>
+    <trkpt lat="52.0041058" lon="20.5561633">
+      <ele>147</ele>
+      <time>2022-01-18T01:20:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0041" lon="20.5561378">
+      <ele>147</ele>
+      <time>2022-01-18T01:20:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:43Z</time>
+    <bounds maxlat="50.4368899" maxlon="16.2528698" minlat="50.4364752" minlon="16.2518675"/>
+  </metadata>
+  <wpt lat="50.43689" lon="16.251904">
+    <ele>413</ele>
+    <name>Rozejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11662">
+      <text>Rozejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.436653" lon="16.25287">
+    <ele>415</ele>
+    <name>Koniec sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11661">
+      <text>Koniec sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki edukacyjnej - Koniec sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4368899,16.2519042;50.43665120032719,16.252267149999998;50.4366525,16.2528698">
+    <text>Rozejscie sciezki edukacyjnej - Koniec sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4368899" lon="16.2519042">
+      <ele>413</ele>
+      <time>2022-01-18T01:07:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4368272" lon="16.2518675">
+      <ele>413</ele>
+      <time>2022-01-18T01:07:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4364752" lon="16.2526668">
+      <ele>415</ele>
+      <time>2022-01-18T01:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4366525" lon="16.2528698">
+      <ele>415</ele>
+      <time>2022-01-18T01:09:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:36Z</time>
+    <bounds maxlat="51.0658217" maxlon="19.0024785" minlat="51.0652105" minlon="19.00166"/>
+  </metadata>
+  <wpt lat="51.06521" lon="19.002478">
+    <ele>189</ele>
+    <name>Wasosz Gorny, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10134">
+      <text>Wasosz Gorny, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.065822" lon="19.00166">
+    <ele>189</ele>
+    <name>Wasosz Gorny</name>
+    <link href="https://mapa-turystyczna.pl/node/9753">
+      <text>Wasosz Gorny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz Gorny, rozejscie szlakow - Wasosz Gorny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0652105,19.0024785;51.065424350494,19.002181999999976;51.0658217,19.00166">
+    <text>Wasosz Gorny, rozejscie szlakow - Wasosz Gorny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0652105" lon="19.0024785">
+      <ele>189</ele>
+      <time>2022-01-18T00:29:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0656382" lon="19.0018855">
+      <ele>190</ele>
+      <time>2022-01-18T00:30:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0657165" lon="19.0017459">
+      <ele>189</ele>
+      <time>2022-01-18T00:30:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0658217" lon="19.00166">
+      <ele>189</ele>
+      <time>2022-01-18T00:30:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

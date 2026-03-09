@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:39Z</time>
+    <bounds maxlat="50.6985779" maxlon="19.4260651" minlat="50.6977556" minlon="19.4245308"/>
+  </metadata>
+  <wpt lat="50.697756" lon="19.424531">
+    <ele>317</ele>
+    <name>Zrodlo Spelnionych Marzen</name>
+    <link href="https://mapa-turystyczna.pl/node/4518">
+      <text>Zrodlo Spelnionych Marzen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.698578" lon="19.426065">
+    <ele>312</ele>
+    <name>Grota Niedzwiedzia</name>
+    <link href="https://mapa-turystyczna.pl/node/4519">
+      <text>Grota Niedzwiedzia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodlo Spelnionych Marzen - Grota Niedzwiedzia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6977556,19.4245308;50.697975550515764,19.424909849999974;50.6985779,19.4260651">
+    <text>Zrodlo Spelnionych Marzen - Grota Niedzwiedzia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6977556" lon="19.4245308">
+      <ele>317</ele>
+      <time>2022-01-17T22:07:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6981955" lon="19.4252889">
+      <ele>314</ele>
+      <time>2022-01-17T22:08:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6983774" lon="19.4257486">
+      <ele>314</ele>
+      <time>2022-01-17T22:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6984945" lon="19.4259648">
+      <ele>313</ele>
+      <time>2022-01-17T22:09:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6985779" lon="19.4260651">
+      <ele>312</ele>
+      <time>2022-01-17T22:09:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

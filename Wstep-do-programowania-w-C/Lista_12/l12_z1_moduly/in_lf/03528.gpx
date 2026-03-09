@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:20Z</time>
+    <bounds maxlat="49.205638" maxlon="19.808508" minlat="49.205065" minlon="19.807545"/>
+  </metadata>
+  <wpt lat="49.205638" lon="19.807545">
+    <ele>2002</ele>
+    <name>Konczysty Wierch</name>
+    <link href="https://mapa-turystyczna.pl/node/227">
+      <text>Konczysty Wierch</text>
+    </link>
+  </wpt>
+  <wpt lat="49.205065" lon="19.808508">
+    <ele>1970</ele>
+    <name>Starorobocianska Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/2482">
+      <text>Starorobocianska Przelecz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konczysty Wierch - Starorobocianska Przelecz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.205638,19.807545;49.20530700008746,19.808055499999984;49.205065,19.808508">
+    <text>Konczysty Wierch - Starorobocianska Przelecz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.205638" lon="19.807545">
+      <ele>2002</ele>
+      <time>2022-01-17T21:31:20Z</time>
+    </trkpt>
+    <trkpt lat="49.20558" lon="19.807602">
+      <ele>2000</ele>
+      <time>2022-01-17T21:31:34Z</time>
+    </trkpt>
+    <trkpt lat="49.205526" lon="19.807675">
+      <ele>1997</ele>
+      <time>2022-01-17T21:31:50Z</time>
+    </trkpt>
+    <trkpt lat="49.2054" lon="19.807934">
+      <ele>1991</ele>
+      <time>2022-01-17T21:32:32Z</time>
+    </trkpt>
+    <trkpt lat="49.205214" lon="19.808177">
+      <ele>1981</ele>
+      <time>2022-01-17T21:33:24Z</time>
+    </trkpt>
+    <trkpt lat="49.205065" lon="19.808508">
+      <ele>1970</ele>
+      <time>2022-01-17T21:34:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

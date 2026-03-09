@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:13Z</time>
+    <bounds maxlat="50.0298884" maxlon="16.6003525" minlat="50.029654" minlon="16.5994084"/>
+  </metadata>
+  <wpt lat="50.029837" lon="16.599408">
+    <ele>430</ele>
+    <name>Jablonne nad Orlici</name>
+    <link href="https://mapa-turystyczna.pl/node/7330">
+      <text>Jablonne nad Orlici</text>
+    </link>
+  </wpt>
+  <wpt lat="50.029654" lon="16.600352">
+    <ele>433</ele>
+    <name>Jablonne nad Orlici, Namesti 5. kvetna</name>
+    <link href="https://mapa-turystyczna.pl/node/7331">
+      <text>Jablonne nad Orlici, Namesti 5. kvetna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablonne nad Orlici - Jablonne nad Orlici, Namesti 5. kvetna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0298367,16.5994084;50.02983840000894,16.59999580000001;50.029654,16.6003525">
+    <text>Jablonne nad Orlici - Jablonne nad Orlici, Namesti 5. kvetna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0298367" lon="16.5994084">
+      <ele>430</ele>
+      <time>2022-01-17T23:16:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0298884" lon="16.599682">
+      <ele>431</ele>
+      <time>2022-01-17T23:16:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0298677" lon="16.5998966">
+      <ele>432</ele>
+      <time>2022-01-17T23:16:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0298091" lon="16.600095">
+      <ele>432</ele>
+      <time>2022-01-17T23:16:53Z</time>
+    </trkpt>
+    <trkpt lat="50.029654" lon="16.6003525">
+      <ele>433</ele>
+      <time>2022-01-17T23:17:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

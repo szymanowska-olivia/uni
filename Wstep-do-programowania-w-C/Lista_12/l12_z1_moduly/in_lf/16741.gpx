@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:08Z</time>
+    <bounds maxlat="52.3776996" maxlon="20.9242579" minlat="52.3755189" minlon="20.9175113"/>
+  </metadata>
+  <wpt lat="52.3777" lon="20.917511">
+    <ele>78</ele>
+    <name>Jablonna</name>
+    <link href="https://mapa-turystyczna.pl/node/11386">
+      <text>Jablonna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.375519" lon="20.924258">
+    <ele>78</ele>
+    <name>Jablonna, poczta</name>
+    <link href="https://mapa-turystyczna.pl/node/11433">
+      <text>Jablonna, poczta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablonna - Jablonna, poczta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3776996,20.9175113;52.37653925789505,20.921130499999972;52.3755189,20.9242579">
+    <text>Jablonna - Jablonna, poczta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3776996" lon="20.9175113">
+      <ele>78</ele>
+      <time>2022-01-18T01:02:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3773743" lon="20.9184483">
+      <ele>78</ele>
+      <time>2022-01-18T01:03:33Z</time>
+    </trkpt>
+    <trkpt lat="52.3757042" lon="20.9238127">
+      <ele>79</ele>
+      <time>2022-01-18T01:11:26Z</time>
+    </trkpt>
+    <trkpt lat="52.3755189" lon="20.9242579">
+      <ele>78</ele>
+      <time>2022-01-18T01:12:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

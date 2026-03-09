@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:40Z</time>
+    <bounds maxlat="50.7761136" maxlon="15.1567082" minlat="50.7741447" minlon="15.1539684"/>
+  </metadata>
+  <wpt lat="50.776114" lon="15.153968">
+    <ele>722</ele>
+    <name>Haslerova chata</name>
+    <link href="https://mapa-turystyczna.pl/node/8828">
+      <text>Haslerova chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.774145" lon="15.156708">
+    <ele>711</ele>
+    <name>Trniste, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/8848">
+      <text>Trniste, odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Haslerova chata - Trniste, odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7761136,15.1539684;50.774927000544096,15.15545439999999;50.7741447,15.1567082">
+    <text>Haslerova chata - Trniste, odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7761136" lon="15.1539684">
+      <ele>722</ele>
+      <time>2022-01-17T23:57:40Z</time>
+    </trkpt>
+    <trkpt lat="50.77539" lon="15.1548911">
+      <ele>716</ele>
+      <time>2022-01-17T23:59:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7753154" lon="15.1551379">
+      <ele>717</ele>
+      <time>2022-01-17T23:59:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7751526" lon="15.155154">
+      <ele>718</ele>
+      <time>2022-01-18T00:00:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7747014" lon="15.1557548">
+      <ele>718</ele>
+      <time>2022-01-18T00:01:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7744164" lon="15.1562376">
+      <ele>716</ele>
+      <time>2022-01-18T00:01:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7743588" lon="15.1564146">
+      <ele>715</ele>
+      <time>2022-01-18T00:02:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7742536" lon="15.1566023">
+      <ele>713</ele>
+      <time>2022-01-18T00:02:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7741447" lon="15.1567082">
+      <ele>711</ele>
+      <time>2022-01-18T00:02:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

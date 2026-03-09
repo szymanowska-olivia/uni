@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:52:25Z</time>
+    <bounds maxlat="50.5541253" maxlon="15.981642" minlat="50.5537333" minlon="15.9805369"/>
+  </metadata>
+  <wpt lat="50.554125" lon="15.980537">
+    <ele>521</ele>
+    <name>Horni panska, Cizkovy kameny</name>
+    <link href="https://mapa-turystyczna.pl/node/6394">
+      <text>Horni panska, Cizkovy kameny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.553733" lon="15.981642">
+    <ele>513</ele>
+    <name>Horni panska, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/6395">
+      <text>Horni panska, odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni panska, Cizkovy kameny - Horni panska, odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5541253,15.9805369;50.55392930040748,15.981089450000026;50.5537333,15.981642">
+    <text>Horni panska, Cizkovy kameny - Horni panska, odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5541253" lon="15.9805369">
+      <ele>521</ele>
+      <time>2022-01-17T22:52:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5537333" lon="15.981642">
+      <ele>513</ele>
+      <time>2022-01-17T22:53:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

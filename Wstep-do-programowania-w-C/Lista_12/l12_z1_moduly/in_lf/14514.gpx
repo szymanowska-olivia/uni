@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:38Z</time>
+    <bounds maxlat="50.2801798" maxlon="19.2829171" minlat="50.2793635" minlon="19.2762101"/>
+  </metadata>
+  <wpt lat="50.279364" lon="19.282917">
+    <ele>276</ele>
+    <name>Sosnowiec, Kolonia Ciesle</name>
+    <link href="https://mapa-turystyczna.pl/node/9892">
+      <text>Sosnowiec, Kolonia Ciesle</text>
+    </link>
+  </wpt>
+  <wpt lat="50.28018" lon="19.27621">
+    <ele>272</ele>
+    <name>Ostrowy Gornicze, Kolonia Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/9893">
+      <text>Ostrowy Gornicze, Kolonia Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowiec, Kolonia Ciesle - Ostrowy Gornicze, Kolonia Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2793635,19.2829171;50.28017420000033,19.278000600000006;50.2801798,19.2762101">
+    <text>Sosnowiec, Kolonia Ciesle - Ostrowy Gornicze, Kolonia Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2793635" lon="19.2829171">
+      <ele>276</ele>
+      <time>2022-01-18T00:23:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2794658" lon="19.2826898">
+      <ele>276</ele>
+      <time>2022-01-18T00:24:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2796064" lon="19.2823089">
+      <ele>275</ele>
+      <time>2022-01-18T00:24:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2797401" lon="19.2820138">
+      <ele>275</ele>
+      <time>2022-01-18T00:25:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2798772" lon="19.2816222">
+      <ele>276</ele>
+      <time>2022-01-18T00:25:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2800006" lon="19.2812253">
+      <ele>276</ele>
+      <time>2022-01-18T00:26:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2800829" lon="19.28078">
+      <ele>277</ele>
+      <time>2022-01-18T00:27:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2801431" lon="19.2803133">
+      <ele>278</ele>
+      <time>2022-01-18T00:27:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2801686" lon="19.2797911">
+      <ele>277</ele>
+      <time>2022-01-18T00:28:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2801798" lon="19.2762101">
+      <ele>272</ele>
+      <time>2022-01-18T00:33:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

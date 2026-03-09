@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:21Z</time>
+    <bounds maxlat="50.787991" maxlon="15.5371718" minlat="50.7868344" minlon="15.5361298"/>
+  </metadata>
+  <wpt lat="50.787991" lon="15.537172">
+    <ele>1170</ele>
+    <name>Schronisko Pod Labskim Szczytem</name>
+    <link href="https://mapa-turystyczna.pl/node/1352">
+      <text>Schronisko Pod Labskim Szczytem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.786834" lon="15.53613">
+    <ele>1207</ele>
+    <name>Mokre Rozdroze</name>
+    <link href="https://mapa-turystyczna.pl/node/1367">
+      <text>Mokre Rozdroze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko Pod Labskim Szczytem - Mokre Rozdroze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.787991,15.5371718;50.78740325108391,15.536466949999967;50.7868344,15.5361298">
+    <text>Schronisko Pod Labskim Szczytem - Mokre Rozdroze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.787991" lon="15.5371718">
+      <ele>1170</ele>
+      <time>2022-01-17T21:07:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7879688" lon="15.5370069">
+      <ele>1172</ele>
+      <time>2022-01-17T21:07:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7879119" lon="15.5368084">
+      <ele>1176</ele>
+      <time>2022-01-17T21:08:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7878356" lon="15.5367103">
+      <ele>1179</ele>
+      <time>2022-01-17T21:08:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7877216" lon="15.5366942">
+      <ele>1183</ele>
+      <time>2022-01-17T21:08:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7870849" lon="15.5362397">
+      <ele>1200</ele>
+      <time>2022-01-17T21:11:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7868664" lon="15.5361794">
+      <ele>1206</ele>
+      <time>2022-01-17T21:12:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7868344" lon="15.5361298">
+      <ele>1207</ele>
+      <time>2022-01-17T21:12:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

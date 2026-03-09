@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:16Z</time>
+    <bounds maxlat="50.2635686" maxlon="17.3965073" minlat="50.2628176" minlon="17.3962498"/>
+  </metadata>
+  <wpt lat="50.262818" lon="17.396507">
+    <ele>406</ele>
+    <name>Zlate Hory, namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/2640">
+      <text>Zlate Hory, namesti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.263569" lon="17.39625">
+    <ele>409</ele>
+    <name>Zlate Hory</name>
+    <link href="https://mapa-turystyczna.pl/node/2641">
+      <text>Zlate Hory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory, namesti - Zlate Hory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2628176,17.3965073;50.26319310148016,17.39637855;50.2635686,17.3962498">
+    <text>Zlate Hory, namesti - Zlate Hory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2628176" lon="17.3965073">
+      <ele>406</ele>
+      <time>2022-01-17T21:34:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2635686" lon="17.3962498">
+      <ele>409</ele>
+      <time>2022-01-17T21:36:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

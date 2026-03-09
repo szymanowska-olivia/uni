@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:57Z</time>
+    <bounds maxlat="52.0959702" maxlon="21.2752096" minlat="52.090568" minlon="21.2711592"/>
+  </metadata>
+  <wpt lat="52.09597" lon="21.271159">
+    <ele>97</ele>
+    <name>Otwock, pomnik Rotmistrza Pileckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12941">
+      <text>Otwock, pomnik Rotmistrza Pileckiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.090568" lon="21.27521">
+    <ele>94</ele>
+    <name>Kanal Poludniowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12940">
+      <text>Kanal Poludniowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, pomnik Rotmistrza Pileckiego - Kanal Poludniowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0959702,21.2711592;52.09340001158694,21.273028650000008;52.090568,21.2752096">
+    <text>Otwock, pomnik Rotmistrza Pileckiego - Kanal Poludniowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0959702" lon="21.2711592">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0958932" lon="21.2713412">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0958109" lon="21.2713305">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:19Z</time>
+    </trkpt>
+    <trkpt lat="52.0957482" lon="21.271293">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0954912" lon="21.2714754">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0944168" lon="21.2722693">
+      <ele>99</ele>
+      <time>2022-01-18T01:45:52Z</time>
+    </trkpt>
+    <trkpt lat="52.0923832" lon="21.273788">
+      <ele>97</ele>
+      <time>2022-01-18T01:49:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0914817" lon="21.2744723">
+      <ele>97</ele>
+      <time>2022-01-18T01:51:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0907417" lon="21.2750868">
+      <ele>95</ele>
+      <time>2022-01-18T01:52:38Z</time>
+    </trkpt>
+    <trkpt lat="52.090568" lon="21.2752096">
+      <ele>94</ele>
+      <time>2022-01-18T01:52:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

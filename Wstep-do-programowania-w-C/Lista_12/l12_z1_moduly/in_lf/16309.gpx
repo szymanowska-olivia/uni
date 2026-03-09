@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:41Z</time>
+    <bounds maxlat="49.3033539" maxlon="22.4050029" minlat="49.2982914" minlon="22.4026991"/>
+  </metadata>
+  <wpt lat="49.303354" lon="22.40488">
+    <ele>499</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11129">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="49.298291" lon="22.402839">
+    <ele>552</ele>
+    <name>Pod Kiczerka</name>
+    <link href="https://mapa-turystyczna.pl/node/11130">
+      <text>Pod Kiczerka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Pod Kiczerka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3033539,22.4048796;49.300520753288865,22.403568699999976;49.2982914,22.4028387">
+    <text>Rozejscie szlakow czerwony / zielony - Pod Kiczerka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3033539" lon="22.4048796">
+      <ele>499</ele>
+      <time>2022-01-18T00:54:41Z</time>
+    </trkpt>
+    <trkpt lat="49.302521" lon="22.4050029">
+      <ele>505</ele>
+      <time>2022-01-18T00:57:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3021562" lon="22.4049029">
+      <ele>509</ele>
+      <time>2022-01-18T00:58:01Z</time>
+    </trkpt>
+    <trkpt lat="49.3018387" lon="22.4047591">
+      <ele>512</ele>
+      <time>2022-01-18T00:58:56Z</time>
+    </trkpt>
+    <trkpt lat="49.3015379" lon="22.4045231">
+      <ele>513</ele>
+      <time>2022-01-18T00:59:52Z</time>
+    </trkpt>
+    <trkpt lat="49.3013233" lon="22.4042521">
+      <ele>515</ele>
+      <time>2022-01-18T01:00:38Z</time>
+    </trkpt>
+    <trkpt lat="49.3010901" lon="22.4039652">
+      <ele>519</ele>
+      <time>2022-01-18T01:01:28Z</time>
+    </trkpt>
+    <trkpt lat="49.2999514" lon="22.4031722">
+      <ele>531</ele>
+      <time>2022-01-18T01:04:55Z</time>
+    </trkpt>
+    <trkpt lat="49.2991761" lon="22.4027431">
+      <ele>544</ele>
+      <time>2022-01-18T01:07:13Z</time>
+    </trkpt>
+    <trkpt lat="49.2988129" lon="22.4026991">
+      <ele>547</ele>
+      <time>2022-01-18T01:08:13Z</time>
+    </trkpt>
+    <trkpt lat="49.2982914" lon="22.4028387">
+      <ele>552</ele>
+      <time>2022-01-18T01:09:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

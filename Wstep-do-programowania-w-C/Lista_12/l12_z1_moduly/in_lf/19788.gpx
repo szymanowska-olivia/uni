@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:52Z</time>
+    <bounds maxlat="51.6619819" maxlon="15.3611401" minlat="51.6416226" minlon="15.3548422"/>
+  </metadata>
+  <wpt lat="51.661982" lon="15.356288">
+    <ele>134</ele>
+    <name>Dietrzychowice</name>
+    <link href="https://mapa-turystyczna.pl/node/13356">
+      <text>Dietrzychowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.641623" lon="15.36114">
+    <ele>148</ele>
+    <name>Odejscie na Diabelski Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/13357">
+      <text>Odejscie na Diabelski Kamien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dietrzychowice - Odejscie na Diabelski Kamien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6619819,15.3562879;51.64925291522137,15.35733685000002;51.6416226,15.3611401">
+    <text>Dietrzychowice - Odejscie na Diabelski Kamien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6619819" lon="15.3562879">
+      <ele>134</ele>
+      <time>2022-01-18T01:54:52Z</time>
+    </trkpt>
+    <trkpt lat="51.660551" lon="15.3569879">
+      <ele>137</ele>
+      <time>2022-01-18T01:57:37Z</time>
+    </trkpt>
+    <trkpt lat="51.6589005" lon="15.3581681">
+      <ele>140</ele>
+      <time>2022-01-18T02:00:55Z</time>
+    </trkpt>
+    <trkpt lat="51.6584346" lon="15.3585114">
+      <ele>138</ele>
+      <time>2022-01-18T02:01:52Z</time>
+    </trkpt>
+    <trkpt lat="51.6582083" lon="15.3585329">
+      <ele>138</ele>
+      <time>2022-01-18T02:02:17Z</time>
+    </trkpt>
+    <trkpt lat="51.6552664" lon="15.3561511">
+      <ele>140</ele>
+      <time>2022-01-18T02:08:19Z</time>
+    </trkpt>
+    <trkpt lat="51.6531231" lon="15.3548422">
+      <ele>142</ele>
+      <time>2022-01-18T02:12:31Z</time>
+    </trkpt>
+    <trkpt lat="51.6453824" lon="15.3598315">
+      <ele>147</ele>
+      <time>2022-01-18T02:27:48Z</time>
+    </trkpt>
+    <trkpt lat="51.6441974" lon="15.3604108">
+      <ele>150</ele>
+      <time>2022-01-18T02:30:04Z</time>
+    </trkpt>
+    <trkpt lat="51.6416226" lon="15.3611401">
+      <ele>148</ele>
+      <time>2022-01-18T02:34:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

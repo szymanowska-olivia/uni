@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:55Z</time>
+    <bounds maxlat="54.0945024" maxlon="15.1251351" minlat="54.0942957" minlon="15.1237464"/>
+  </metadata>
+  <wpt lat="54.094502" lon="15.125135">
+    <ele>17</ele>
+    <name>Pogorzelica, stacja kolei waskotorowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12640">
+      <text>Pogorzelica, stacja kolei waskotorowej</text>
+    </link>
+  </wpt>
+  <wpt lat="54.094296" lon="15.123746">
+    <ele>15</ele>
+    <name>Pogorzelica, ul. Sloneczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12639">
+      <text>Pogorzelica, ul. Sloneczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogorzelica, stacja kolei waskotorowej - Pogorzelica, ul. Sloneczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0945024,15.1251351;54.09437685001895,15.12451180000002;54.0942957,15.1237464">
+    <text>Pogorzelica, stacja kolei waskotorowej - Pogorzelica, ul. Sloneczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0945024" lon="15.1251351">
+      <ele>17</ele>
+      <time>2022-01-18T01:34:55Z</time>
+    </trkpt>
+    <trkpt lat="54.0944165" lon="15.1247562">
+      <ele>16</ele>
+      <time>2022-01-18T01:35:12Z</time>
+    </trkpt>
+    <trkpt lat="54.0943372" lon="15.1242674">
+      <ele>15</ele>
+      <time>2022-01-18T01:35:33Z</time>
+    </trkpt>
+    <trkpt lat="54.0942957" lon="15.1237464">
+      <ele>15</ele>
+      <time>2022-01-18T01:35:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

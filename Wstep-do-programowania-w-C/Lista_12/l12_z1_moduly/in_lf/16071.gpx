@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:35Z</time>
+    <bounds maxlat="49.580326" maxlon="20.087414" minlat="49.579925" minlon="20.085364"/>
+  </metadata>
+  <wpt lat="49.580326" lon="20.085364">
+    <ele>659</ele>
+    <name>Hucisko</name>
+    <link href="https://mapa-turystyczna.pl/node/10989">
+      <text>Hucisko</text>
+    </link>
+  </wpt>
+  <wpt lat="49.579925" lon="20.087414">
+    <ele>672</ele>
+    <name>Oberowka</name>
+    <link href="https://mapa-turystyczna.pl/node/10992">
+      <text>Oberowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hucisko - Oberowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.580326,20.085364;49.58014900000862,20.086311000000006;49.579925,20.087414">
+    <text>Hucisko - Oberowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.580326" lon="20.085364">
+      <ele>659</ele>
+      <time>2022-01-18T00:50:35Z</time>
+    </trkpt>
+    <trkpt lat="49.580178" lon="20.085981">
+      <ele>666</ele>
+      <time>2022-01-18T00:52:07Z</time>
+    </trkpt>
+    <trkpt lat="49.58012" lon="20.086641">
+      <ele>670</ele>
+      <time>2022-01-18T00:53:40Z</time>
+    </trkpt>
+    <trkpt lat="49.580037" lon="20.08705">
+      <ele>671</ele>
+      <time>2022-01-18T00:54:39Z</time>
+    </trkpt>
+    <trkpt lat="49.579925" lon="20.087414">
+      <ele>672</ele>
+      <time>2022-01-18T00:55:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

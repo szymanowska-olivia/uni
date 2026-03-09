@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:35Z</time>
+    <bounds maxlat="49.9691488" maxlon="18.9076612" minlat="49.9659283" minlon="18.9013139"/>
+  </metadata>
+  <wpt lat="49.966015" lon="18.901314">
+    <ele>248</ele>
+    <name>Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/9280">
+      <text>Laka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.969149" lon="18.907249">
+    <ele>255</ele>
+    <name>Lacka Grobla</name>
+    <link href="https://mapa-turystyczna.pl/node/9281">
+      <text>Lacka Grobla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Laka - Lacka Grobla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9660155,18.9013139;49.96651835011884,18.906261049999973;49.9691488,18.9072493">
+    <text>Laka - Lacka Grobla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9660155" lon="18.9013139">
+      <ele>248</ele>
+      <time>2022-01-18T00:07:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9660478" lon="18.9017785">
+      <ele>249</ele>
+      <time>2022-01-18T00:08:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9660456" lon="18.9021358">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:46Z</time>
+    </trkpt>
+    <trkpt lat="49.9659559" lon="18.9026079">
+      <ele>254</ele>
+      <time>2022-01-18T00:09:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9659283" lon="18.9029619">
+      <ele>256</ele>
+      <time>2022-01-18T00:10:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9659628" lon="18.9032945">
+      <ele>256</ele>
+      <time>2022-01-18T00:10:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9663493" lon="18.905097">
+      <ele>251</ele>
+      <time>2022-01-18T00:13:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9664114" lon="18.9055261">
+      <ele>252</ele>
+      <time>2022-01-18T00:13:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9666253" lon="18.906996">
+      <ele>251</ele>
+      <time>2022-01-18T00:16:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9666391" lon="18.9076612">
+      <ele>252</ele>
+      <time>2022-01-18T00:16:57Z</time>
+    </trkpt>
+    <trkpt lat="49.9691488" lon="18.9072493">
+      <ele>255</ele>
+      <time>2022-01-18T00:22:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

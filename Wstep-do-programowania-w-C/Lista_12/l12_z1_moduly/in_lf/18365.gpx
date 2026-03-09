@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:45Z</time>
+    <bounds maxlat="52.3253683" maxlon="20.8598843" minlat="52.3243459" minlon="20.853188"/>
+  </metadata>
+  <wpt lat="52.324993" lon="20.853188">
+    <ele>88</ele>
+    <name>Kamien Ulanow Jazlowieckich</name>
+    <link href="https://mapa-turystyczna.pl/node/4985">
+      <text>Kamien Ulanow Jazlowieckich</text>
+    </link>
+  </wpt>
+  <wpt lat="52.324346" lon="20.859884">
+    <ele>90</ele>
+    <name>Lomiankowska Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/12447">
+      <text>Lomiankowska Droga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Ulanow Jazlowieckich - Lomiankowska Droga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3249929,20.853188;52.32522345023713,20.856156899999974;52.3243459,20.8598843">
+    <text>Kamien Ulanow Jazlowieckich - Lomiankowska Droga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3249929" lon="20.853188">
+      <ele>88</ele>
+      <time>2022-01-18T01:29:45Z</time>
+    </trkpt>
+    <trkpt lat="52.3252855" lon="20.8541845">
+      <ele>87</ele>
+      <time>2022-01-18T01:31:17Z</time>
+    </trkpt>
+    <trkpt lat="52.3253683" lon="20.8555242">
+      <ele>87</ele>
+      <time>2022-01-18T01:33:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3250786" lon="20.8567896">
+      <ele>87</ele>
+      <time>2022-01-18T01:35:02Z</time>
+    </trkpt>
+    <trkpt lat="52.3249724" lon="20.8582266">
+      <ele>86</ele>
+      <time>2022-01-18T01:37:03Z</time>
+    </trkpt>
+    <trkpt lat="52.3243459" lon="20.8598843">
+      <ele>90</ele>
+      <time>2022-01-18T01:39:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:48Z</time>
+    <bounds maxlat="50.0549552" maxlon="19.8548698" minlat="50.054752" minlon="19.8545104"/>
+  </metadata>
+  <wpt lat="50.054955" lon="19.85451">
+    <ele>340</ele>
+    <name>Las Wolski, zoo</name>
+    <link href="https://mapa-turystyczna.pl/node/5132">
+      <text>Las Wolski, zoo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.054752" lon="19.85487">
+    <ele>349</ele>
+    <name>Las Wolski, aleja Zubrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/5131">
+      <text>Las Wolski, aleja Zubrowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, zoo - Las Wolski, aleja Zubrowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0549552,19.8545104;50.05485360010756,19.854690099999996;50.054752,19.8548698">
+    <text>Las Wolski, zoo - Las Wolski, aleja Zubrowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0549552" lon="19.8545104">
+      <ele>340</ele>
+      <time>2022-01-17T22:24:48Z</time>
+    </trkpt>
+    <trkpt lat="50.054752" lon="19.8548698">
+      <ele>349</ele>
+      <time>2022-01-17T22:25:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

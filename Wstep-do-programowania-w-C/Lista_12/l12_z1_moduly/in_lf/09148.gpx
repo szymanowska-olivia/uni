@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:54Z</time>
+    <bounds maxlat="50.2439425" maxlon="17.7138931" minlat="50.2435891" minlon="17.7135015"/>
+  </metadata>
+  <wpt lat="50.243943" lon="17.713501">
+    <ele>235</ele>
+    <name>Bohusov</name>
+    <link href="https://mapa-turystyczna.pl/node/6368">
+      <text>Bohusov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.243589" lon="17.713893">
+    <ele>233</ele>
+    <name>Bohusov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6373">
+      <text>Bohusov, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bohusov - Bohusov, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2439425,17.7135015;50.24376580032754,17.713697299999996;50.2435891,17.7138931">
+    <text>Bohusov - Bohusov, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2439425" lon="17.7135015">
+      <ele>235</ele>
+      <time>2022-01-17T22:51:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2435891" lon="17.7138931">
+      <ele>233</ele>
+      <time>2022-01-17T22:52:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

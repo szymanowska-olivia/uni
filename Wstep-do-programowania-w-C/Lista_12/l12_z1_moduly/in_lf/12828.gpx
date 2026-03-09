@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:04Z</time>
+    <bounds maxlat="50.7946249" maxlon="15.1273725" minlat="50.7940349" minlon="15.1252053"/>
+  </metadata>
+  <wpt lat="50.794625" lon="15.127372">
+    <ele>769</ele>
+    <name>Vodni zamek, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8824">
+      <text>Vodni zamek, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.794035" lon="15.125205">
+    <ele>757</ele>
+    <name>Vodni zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/8825">
+      <text>Vodni zamek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vodni zamek, rozc. - Vodni zamek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7946249,15.1273725;50.79425890034545,15.126082150000014;50.7940349,15.1252053">
+    <text>Vodni zamek, rozc. - Vodni zamek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7946249" lon="15.1273725">
+      <ele>769</ele>
+      <time>2022-01-17T23:57:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7945539" lon="15.126868">
+      <ele>768</ele>
+      <time>2022-01-17T23:57:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7944386" lon="15.1264657">
+      <ele>768</ele>
+      <time>2022-01-17T23:58:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7940792" lon="15.1256986">
+      <ele>763</ele>
+      <time>2022-01-17T23:59:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7940453" lon="15.125366">
+      <ele>759</ele>
+      <time>2022-01-17T23:59:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7940349" lon="15.1252053">
+      <ele>757</ele>
+      <time>2022-01-18T00:00:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

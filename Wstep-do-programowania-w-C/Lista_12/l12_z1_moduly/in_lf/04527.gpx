@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:44Z</time>
+    <bounds maxlat="50.8634046" maxlon="20.9426075" minlat="50.8494832" minlon="20.9414434"/>
+  </metadata>
+  <wpt lat="50.863405" lon="20.942608">
+    <ele>348</ele>
+    <name>Podlesie</name>
+    <link href="https://mapa-turystyczna.pl/node/3145">
+      <text>Podlesie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.849483" lon="20.941443">
+    <ele>306</ele>
+    <name>Bieliny</name>
+    <link href="https://mapa-turystyczna.pl/node/3146">
+      <text>Bieliny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podlesie - Bieliny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8634046,20.9426075;50.85644441946977,20.942025450000013;50.8494832,20.9414434">
+    <text>Podlesie - Bieliny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8634046" lon="20.9426075">
+      <ele>348</ele>
+      <time>2022-01-17T21:43:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8494832" lon="20.9414434">
+      <ele>306</ele>
+      <time>2022-01-17T22:08:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

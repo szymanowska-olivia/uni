@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:19Z</time>
+    <bounds maxlat="49.644209" maxlon="18.863689" minlat="49.64273" minlon="18.860525"/>
+  </metadata>
+  <wpt lat="49.644209" lon="18.863689">
+    <ele>459</ele>
+    <name>Wisla, wiadukt kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3051">
+      <text>Wisla, wiadukt kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.64273" lon="18.860525">
+    <ele>474</ele>
+    <name>Wisla, ul. Skolnity</name>
+    <link href="https://mapa-turystyczna.pl/node/12343">
+      <text>Wisla, ul. Skolnity</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, wiadukt kolejowy - Wisla, ul. Skolnity</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.644209,18.863689;49.64320850090892,18.861536500000007;49.64273,18.860525">
+    <text>Wisla, wiadukt kolejowy - Wisla, ul. Skolnity</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.644209" lon="18.863689">
+      <ele>459</ele>
+      <time>2022-01-18T01:26:19Z</time>
+    </trkpt>
+    <trkpt lat="49.644179" lon="18.863609">
+      <ele>458</ele>
+      <time>2022-01-18T01:26:26Z</time>
+    </trkpt>
+    <trkpt lat="49.643506" lon="18.862173">
+      <ele>463</ele>
+      <time>2022-01-18T01:28:42Z</time>
+    </trkpt>
+    <trkpt lat="49.642911" lon="18.8609">
+      <ele>472</ele>
+      <time>2022-01-18T01:30:43Z</time>
+    </trkpt>
+    <trkpt lat="49.64273" lon="18.860525">
+      <ele>474</ele>
+      <time>2022-01-18T01:31:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

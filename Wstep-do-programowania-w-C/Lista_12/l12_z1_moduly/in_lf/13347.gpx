@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:46Z</time>
+    <bounds maxlat="49.278157" maxlon="18.933459" minlat="49.277313" minlon="18.931726"/>
+  </metadata>
+  <wpt lat="49.278157" lon="18.933459">
+    <ele>754</ele>
+    <name>Zlien, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9204">
+      <text>Zlien, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.277313" lon="18.931726">
+    <ele>765</ele>
+    <name>Zlien</name>
+    <link href="https://mapa-turystyczna.pl/node/9205">
+      <text>Zlien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlien, razc. - Zlien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.278157,18.933459;49.2778105000114,18.93261800000002;49.277313,18.931726">
+    <text>Zlien, razc. - Zlien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.278157" lon="18.933459">
+      <ele>754</ele>
+      <time>2022-01-18T00:05:46Z</time>
+    </trkpt>
+    <trkpt lat="49.278098" lon="18.933318">
+      <ele>756</ele>
+      <time>2022-01-18T00:06:08Z</time>
+    </trkpt>
+    <trkpt lat="49.278015" lon="18.933179">
+      <ele>757</ele>
+      <time>2022-01-18T00:06:34Z</time>
+    </trkpt>
+    <trkpt lat="49.277946" lon="18.933075">
+      <ele>758</ele>
+      <time>2022-01-18T00:06:53Z</time>
+    </trkpt>
+    <trkpt lat="49.277844" lon="18.932764">
+      <ele>760</ele>
+      <time>2022-01-18T00:07:40Z</time>
+    </trkpt>
+    <trkpt lat="49.277777" lon="18.932472">
+      <ele>763</ele>
+      <time>2022-01-18T00:08:22Z</time>
+    </trkpt>
+    <trkpt lat="49.277759" lon="18.932329">
+      <ele>764</ele>
+      <time>2022-01-18T00:08:41Z</time>
+    </trkpt>
+    <trkpt lat="49.27773" lon="18.932205">
+      <ele>765</ele>
+      <time>2022-01-18T00:08:59Z</time>
+    </trkpt>
+    <trkpt lat="49.27766" lon="18.932092">
+      <ele>765</ele>
+      <time>2022-01-18T00:09:19Z</time>
+    </trkpt>
+    <trkpt lat="49.277534" lon="18.93198">
+      <ele>765</ele>
+      <time>2022-01-18T00:09:49Z</time>
+    </trkpt>
+    <trkpt lat="49.277397" lon="18.931795">
+      <ele>765</ele>
+      <time>2022-01-18T00:10:27Z</time>
+    </trkpt>
+    <trkpt lat="49.277313" lon="18.931726">
+      <ele>765</ele>
+      <time>2022-01-18T00:10:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

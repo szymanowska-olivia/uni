@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:27Z</time>
+    <bounds maxlat="50.4105209" maxlon="18.8452411" minlat="50.40799" minlon="18.8425291"/>
+  </metadata>
+  <wpt lat="50.410521" lon="18.842529">
+    <ele>326</ele>
+    <name>Repty, ul. Zeromskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9696">
+      <text>Repty, ul. Zeromskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.40799" lon="18.845241">
+    <ele>326</ele>
+    <name>Segiet</name>
+    <link href="https://mapa-turystyczna.pl/node/9513">
+      <text>Segiet</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Repty, ul. Zeromskiego - Segiet</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4105209,18.8425291;50.40963655825272,18.843681549999978;50.40799,18.8452411">
+    <text>Repty, ul. Zeromskiego - Segiet</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4105209" lon="18.8425291">
+      <ele>326</ele>
+      <time>2022-01-18T00:18:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4087522" lon="18.844834">
+      <ele>325</ele>
+      <time>2022-01-18T00:22:09Z</time>
+    </trkpt>
+    <trkpt lat="50.40799" lon="18.8452411">
+      <ele>326</ele>
+      <time>2022-01-18T00:23:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:02Z</time>
+    <bounds maxlat="49.1517564" maxlon="22.7865457" minlat="49.1502512" minlon="22.7842755"/>
+  </metadata>
+  <wpt lat="49.150251" lon="22.786266">
+    <ele>656</ele>
+    <name>Dzwiniacz Gorny</name>
+    <link href="https://mapa-turystyczna.pl/node/11275">
+      <text>Dzwiniacz Gorny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.151756" lon="22.784275">
+    <ele>649</ele>
+    <name>Dzwiniacz Gorny, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11276">
+      <text>Dzwiniacz Gorny, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dzwiniacz Gorny - Dzwiniacz Gorny, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1502512,22.7862657;49.15119615007164,22.786124650000037;49.1517564,22.7842755">
+    <text>Dzwiniacz Gorny - Dzwiniacz Gorny, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1502512" lon="22.7862657">
+      <ele>656</ele>
+      <time>2022-01-18T00:58:02Z</time>
+    </trkpt>
+    <trkpt lat="49.1504764" lon="22.7863097">
+      <ele>658</ele>
+      <time>2022-01-18T00:58:30Z</time>
+    </trkpt>
+    <trkpt lat="49.1509821" lon="22.7865457">
+      <ele>658</ele>
+      <time>2022-01-18T00:59:34Z</time>
+    </trkpt>
+    <trkpt lat="49.1510628" lon="22.7864921">
+      <ele>657</ele>
+      <time>2022-01-18T00:59:45Z</time>
+    </trkpt>
+    <trkpt lat="49.1511119" lon="22.7862829">
+      <ele>657</ele>
+      <time>2022-01-18T01:00:03Z</time>
+    </trkpt>
+    <trkpt lat="49.1512804" lon="22.7859664">
+      <ele>655</ele>
+      <time>2022-01-18T01:00:35Z</time>
+    </trkpt>
+    <trkpt lat="49.1514347" lon="22.785505">
+      <ele>654</ele>
+      <time>2022-01-18T01:01:16Z</time>
+    </trkpt>
+    <trkpt lat="49.1517564" lon="22.7842755">
+      <ele>649</ele>
+      <time>2022-01-18T01:03:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

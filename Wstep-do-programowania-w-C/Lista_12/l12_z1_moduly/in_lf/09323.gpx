@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:55:18Z</time>
+    <bounds maxlat="48.9368997" maxlon="19.4715285" minlat="48.935765" minlon="19.4668293"/>
+  </metadata>
+  <wpt lat="48.935765" lon="19.466829">
+    <ele>1730</ele>
+    <name>Nad sedlom Durkovej</name>
+    <link href="https://mapa-turystyczna.pl/node/6667">
+      <text>Nad sedlom Durkovej</text>
+    </link>
+  </wpt>
+  <wpt lat="48.9369" lon="19.471529">
+    <ele>1791</ele>
+    <name>Maly Chabenec</name>
+    <link href="https://mapa-turystyczna.pl/node/6666">
+      <text>Maly Chabenec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad sedlom Durkovej - Maly Chabenec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.935765,19.4668293;48.9366319002632,19.46989505;48.9368997,19.4715285">
+    <text>Nad sedlom Durkovej - Maly Chabenec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.935765" lon="19.4668293">
+      <ele>1730</ele>
+      <time>2022-01-17T22:55:18Z</time>
+    </trkpt>
+    <trkpt lat="48.9360751" lon="19.4676179">
+      <ele>1739</ele>
+      <time>2022-01-17T22:57:07Z</time>
+    </trkpt>
+    <trkpt lat="48.9364698" lon="19.4689643">
+      <ele>1759</ele>
+      <time>2022-01-17T23:00:03Z</time>
+    </trkpt>
+    <trkpt lat="48.936794" lon="19.4708258">
+      <ele>1779</ele>
+      <time>2022-01-17T23:03:51Z</time>
+    </trkpt>
+    <trkpt lat="48.9368997" lon="19.4715285">
+      <ele>1791</ele>
+      <time>2022-01-17T23:05:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

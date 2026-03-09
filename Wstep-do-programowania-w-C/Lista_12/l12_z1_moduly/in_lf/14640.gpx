@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:45Z</time>
+    <bounds maxlat="51.2073032" maxlon="16.1615367" minlat="51.2070244" minlon="16.1610619"/>
+  </metadata>
+  <wpt lat="51.207024" lon="16.161062">
+    <ele>131</ele>
+    <name>Legnica, katedra</name>
+    <link href="https://mapa-turystyczna.pl/node/9984">
+      <text>Legnica, katedra</text>
+    </link>
+  </wpt>
+  <wpt lat="51.207303" lon="16.161537">
+    <ele>128</ele>
+    <name>Legnica</name>
+    <link href="https://mapa-turystyczna.pl/node/9963">
+      <text>Legnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legnica, katedra - Legnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2070244,16.1610619;51.20719715002731,16.16133250000001;51.2073032,16.1615367">
+    <text>Legnica, katedra - Legnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2070244" lon="16.1610619">
+      <ele>131</ele>
+      <time>2022-01-18T00:25:45Z</time>
+    </trkpt>
+    <trkpt lat="51.207147" lon="16.1612886">
+      <ele>130</ele>
+      <time>2022-01-18T00:26:12Z</time>
+    </trkpt>
+    <trkpt lat="51.2072473" lon="16.1613764">
+      <ele>129</ele>
+      <time>2022-01-18T00:26:28Z</time>
+    </trkpt>
+    <trkpt lat="51.2073032" lon="16.1615367">
+      <ele>128</ele>
+      <time>2022-01-18T00:26:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

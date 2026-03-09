@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:15Z</time>
+    <bounds maxlat="50.0200489" maxlon="17.2133017" minlat="50.0195905" minlon="17.2125936"/>
+  </metadata>
+  <wpt lat="50.01959" lon="17.212594">
+    <ele>1088</ele>
+    <name>Alfredka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7075">
+      <text>Alfredka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.020049" lon="17.213302">
+    <ele>1090</ele>
+    <name>Alfredka</name>
+    <link href="https://mapa-turystyczna.pl/node/7073">
+      <text>Alfredka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Alfredka, rozc. - Alfredka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0195905,17.2125936;50.019819700546726,17.21294765;50.0200489,17.2133017">
+    <text>Alfredka, rozc. - Alfredka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0195905" lon="17.2125936">
+      <ele>1088</ele>
+      <time>2022-01-17T23:09:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0200489" lon="17.2133017">
+      <ele>1090</ele>
+      <time>2022-01-17T23:10:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

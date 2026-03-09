@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:13Z</time>
+    <bounds maxlat="50.8125591" maxlon="19.1296087" minlat="50.8119381" minlon="19.1288441"/>
+  </metadata>
+  <wpt lat="50.811938" lon="19.128844">
+    <ele>249</ele>
+    <name>Czestochowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4549">
+      <text>Czestochowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.812559" lon="19.129609">
+    <ele>248</ele>
+    <name>Czestochowa, Stary Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9745">
+      <text>Czestochowa, Stary Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czestochowa - Czestochowa, Stary Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8119381,19.1288441;50.812248601032046,19.129226400000004;50.8125591,19.1296087">
+    <text>Czestochowa - Czestochowa, Stary Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8119381" lon="19.1288441">
+      <ele>249</ele>
+      <time>2022-01-18T00:29:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8125591" lon="19.1296087">
+      <ele>248</ele>
+      <time>2022-01-18T00:30:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

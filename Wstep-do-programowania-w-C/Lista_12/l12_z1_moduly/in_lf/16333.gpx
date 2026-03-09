@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:03Z</time>
+    <bounds maxlat="51.9153812" maxlon="15.4595" minlat="51.9152158" minlon="15.4589099"/>
+  </metadata>
+  <wpt lat="51.915381" lon="15.4595">
+    <ele>220</ele>
+    <name>Gora Wilkanowska, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11144">
+      <text>Gora Wilkanowska, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.915216" lon="15.45891">
+    <ele>221</ele>
+    <name>Gora Wilkanowska</name>
+    <link href="https://mapa-turystyczna.pl/node/11145">
+      <text>Gora Wilkanowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Wilkanowska, rozejscie szlakow - Gora Wilkanowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9153812,15.4595;51.91527250000995,15.459256250000015;51.9152158,15.4589099">
+    <text>Gora Wilkanowska, rozejscie szlakow - Gora Wilkanowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9153812" lon="15.4595">
+      <ele>220</ele>
+      <time>2022-01-18T00:55:03Z</time>
+    </trkpt>
+    <trkpt lat="51.9153024" lon="15.4593538">
+      <ele>220</ele>
+      <time>2022-01-18T00:55:21Z</time>
+    </trkpt>
+    <trkpt lat="51.9152426" lon="15.4591587">
+      <ele>220</ele>
+      <time>2022-01-18T00:55:40Z</time>
+    </trkpt>
+    <trkpt lat="51.9152158" lon="15.4589099">
+      <ele>221</ele>
+      <time>2022-01-18T00:56:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

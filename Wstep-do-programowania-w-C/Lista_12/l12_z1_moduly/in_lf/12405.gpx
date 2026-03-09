@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:49Z</time>
+    <bounds maxlat="49.8240759" maxlon="20.5243318" minlat="49.820595" minlon="20.5231316"/>
+  </metadata>
+  <wpt lat="49.820595" lon="20.524332">
+    <ele>516</ele>
+    <name>Pod Rogozowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4025">
+      <text>Pod Rogozowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.824076" lon="20.523837">
+    <ele>469</ele>
+    <name>Bacowka Bialy Jelen</name>
+    <link href="https://mapa-turystyczna.pl/node/8527">
+      <text>Bacowka Bialy Jelen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Rogozowa - Bacowka Bialy Jelen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.820595,20.5243318;49.82256340079356,20.523327349999985;49.8240759,20.5238369">
+    <text>Pod Rogozowa - Bacowka Bialy Jelen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.820595" lon="20.5243318">
+      <ele>516</ele>
+      <time>2022-01-17T23:49:49Z</time>
+    </trkpt>
+    <trkpt lat="49.8208816" lon="20.5241723">
+      <ele>513</ele>
+      <time>2022-01-17T23:50:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8211684" lon="20.5239522">
+      <ele>509</ele>
+      <time>2022-01-17T23:50:39Z</time>
+    </trkpt>
+    <trkpt lat="49.8216015" lon="20.5237539">
+      <ele>503</ele>
+      <time>2022-01-17T23:51:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8222863" lon="20.5234694">
+      <ele>495</ele>
+      <time>2022-01-17T23:52:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8228405" lon="20.5231853">
+      <ele>490</ele>
+      <time>2022-01-17T23:53:00Z</time>
+    </trkpt>
+    <trkpt lat="49.8231174" lon="20.5231316">
+      <ele>487</ele>
+      <time>2022-01-17T23:53:22Z</time>
+    </trkpt>
+    <trkpt lat="49.823325" lon="20.5232067">
+      <ele>484</ele>
+      <time>2022-01-17T23:53:40Z</time>
+    </trkpt>
+    <trkpt lat="49.8235604" lon="20.5233891">
+      <ele>480</ele>
+      <time>2022-01-17T23:54:01Z</time>
+    </trkpt>
+    <trkpt lat="49.8238234" lon="20.5236144">
+      <ele>474</ele>
+      <time>2022-01-17T23:54:25Z</time>
+    </trkpt>
+    <trkpt lat="49.8240759" lon="20.5238369">
+      <ele>469</ele>
+      <time>2022-01-17T23:54:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

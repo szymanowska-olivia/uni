@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:51:01Z</time>
+    <bounds maxlat="49.4756235" maxlon="21.7311708" minlat="49.4658913" minlon="21.7082978"/>
+  </metadata>
+  <wpt lat="49.475623" lon="21.708298">
+    <ele>381</ele>
+    <name>Pole namiotowe Drymak</name>
+    <link href="https://mapa-turystyczna.pl/node/507">
+      <text>Pole namiotowe Drymak</text>
+    </link>
+  </wpt>
+  <wpt lat="49.465891" lon="21.731171">
+    <ele>391</ele>
+    <name>Pole namiotowe Stasiane</name>
+    <link href="https://mapa-turystyczna.pl/node/509">
+      <text>Pole namiotowe Stasiane</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pole namiotowe Drymak - Pole namiotowe Stasiane</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4756235,21.7082978;49.47097680019384,21.7191285;49.4658913,21.7311708">
+    <text>Pole namiotowe Drymak - Pole namiotowe Stasiane</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4756235" lon="21.7082978">
+      <ele>381</ele>
+      <time>2022-01-17T20:51:01Z</time>
+    </trkpt>
+    <trkpt lat="49.4754288" lon="21.7091239">
+      <ele>375</ele>
+      <time>2022-01-17T20:52:07Z</time>
+    </trkpt>
+    <trkpt lat="49.4744706" lon="21.7123211">
+      <ele>367</ele>
+      <time>2022-01-17T20:56:30Z</time>
+    </trkpt>
+    <trkpt lat="49.4711146" lon="21.718018">
+      <ele>384</ele>
+      <time>2022-01-17T21:06:06Z</time>
+    </trkpt>
+    <trkpt lat="49.470839" lon="21.720239">
+      <ele>379</ele>
+      <time>2022-01-17T21:08:55Z</time>
+    </trkpt>
+    <trkpt lat="49.4705311" lon="21.721226">
+      <ele>379</ele>
+      <time>2022-01-17T21:10:17Z</time>
+    </trkpt>
+    <trkpt lat="49.4687404" lon="21.7235219">
+      <ele>385</ele>
+      <time>2022-01-17T21:14:45Z</time>
+    </trkpt>
+    <trkpt lat="49.468333" lon="21.7242676">
+      <ele>385</ele>
+      <time>2022-01-17T21:15:58Z</time>
+    </trkpt>
+    <trkpt lat="49.4682323" lon="21.7258179">
+      <ele>383</ele>
+      <time>2022-01-17T21:17:55Z</time>
+    </trkpt>
+    <trkpt lat="49.4681157" lon="21.7265475">
+      <ele>384</ele>
+      <time>2022-01-17T21:18:51Z</time>
+    </trkpt>
+    <trkpt lat="49.4658913" lon="21.7311708">
+      <ele>391</ele>
+      <time>2022-01-17T21:26:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

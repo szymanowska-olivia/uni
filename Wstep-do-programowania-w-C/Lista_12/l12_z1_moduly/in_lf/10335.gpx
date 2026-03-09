@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:26Z</time>
+    <bounds maxlat="51.0628407" maxlon="20.7057781" minlat="51.0591186" minlon="20.688951"/>
+  </metadata>
+  <wpt lat="51.059262" lon="20.705778">
+    <ele>351</ele>
+    <name>Rezerwat Swinia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/7272">
+      <text>Rezerwat Swinia Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="51.062841" lon="20.688951">
+    <ele>346</ele>
+    <name>Lesniczowka Swinia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3202">
+      <text>Lesniczowka Swinia Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Swinia Gora - Lesniczowka Swinia Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0592616,20.7057781;51.0604402506364,20.697920299999986;51.0628407,20.688951">
+    <text>Rezerwat Swinia Gora - Lesniczowka Swinia Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0592616" lon="20.7057781">
+      <ele>351</ele>
+      <time>2022-01-17T23:14:26Z</time>
+    </trkpt>
+    <trkpt lat="51.0591186" lon="20.7053232">
+      <ele>351</ele>
+      <time>2022-01-17T23:15:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0595502" lon="20.7009459">
+      <ele>362</ele>
+      <time>2022-01-17T23:19:55Z</time>
+    </trkpt>
+    <trkpt lat="51.0601975" lon="20.6989717">
+      <ele>362</ele>
+      <time>2022-01-17T23:22:23Z</time>
+    </trkpt>
+    <trkpt lat="51.060683" lon="20.6968689">
+      <ele>359</ele>
+      <time>2022-01-17T23:24:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0613034" lon="20.694809">
+      <ele>357</ele>
+      <time>2022-01-17T23:27:24Z</time>
+    </trkpt>
+    <trkpt lat="51.0620855" lon="20.6915903">
+      <ele>355</ele>
+      <time>2022-01-17T23:31:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0628407" lon="20.688951">
+      <ele>346</ele>
+      <time>2022-01-17T23:34:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

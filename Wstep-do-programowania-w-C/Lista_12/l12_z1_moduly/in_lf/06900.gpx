@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:14:36Z</time>
+    <bounds maxlat="49.565003" maxlon="20.252861" minlat="49.563241" minlon="20.250093"/>
+  </metadata>
+  <wpt lat="49.565003" lon="20.252861">
+    <ele>1228</ele>
+    <name>Gorc</name>
+    <link href="https://mapa-turystyczna.pl/node/4734">
+      <text>Gorc</text>
+    </link>
+  </wpt>
+  <wpt lat="49.563241" lon="20.250093">
+    <ele>1192</ele>
+    <name>Skrzyzowanie pod Gorcem</name>
+    <link href="https://mapa-turystyczna.pl/node/116">
+      <text>Skrzyzowanie pod Gorcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorc - Skrzyzowanie pod Gorcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.565003,20.252861;49.56400600088519,20.251199000000014;49.563241,20.250093">
+    <text>Gorc - Skrzyzowanie pod Gorcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.565003" lon="20.252861">
+      <ele>1228</ele>
+      <time>2022-01-17T22:14:36Z</time>
+    </trkpt>
+    <trkpt lat="49.564888" lon="20.252642">
+      <ele>1227</ele>
+      <time>2022-01-17T22:14:58Z</time>
+    </trkpt>
+    <trkpt lat="49.564701" lon="20.252379">
+      <ele>1223</ele>
+      <time>2022-01-17T22:15:28Z</time>
+    </trkpt>
+    <trkpt lat="49.564621" lon="20.252181">
+      <ele>1219</ele>
+      <time>2022-01-17T22:15:46Z</time>
+    </trkpt>
+    <trkpt lat="49.5643" lon="20.251582">
+      <ele>1209</ele>
+      <time>2022-01-17T22:16:46Z</time>
+    </trkpt>
+    <trkpt lat="49.563712" lon="20.250816">
+      <ele>1199</ele>
+      <time>2022-01-17T22:18:17Z</time>
+    </trkpt>
+    <trkpt lat="49.563241" lon="20.250093">
+      <ele>1192</ele>
+      <time>2022-01-17T22:19:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

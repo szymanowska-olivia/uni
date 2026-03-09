@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:28Z</time>
+    <bounds maxlat="50.1432633" maxlon="17.3229289" minlat="50.1428748" minlon="17.3217058"/>
+  </metadata>
+  <wpt lat="50.142875" lon="17.321706">
+    <ele>815</ele>
+    <name>Rabenstejn, vyhlidka</name>
+    <link href="https://mapa-turystyczna.pl/node/6808">
+      <text>Rabenstejn, vyhlidka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.143263" lon="17.322929">
+    <ele>852</ele>
+    <name>Rabenstejn, vyhlidka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6807">
+      <text>Rabenstejn, vyhlidka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rabenstejn, vyhlidka - Rabenstejn, vyhlidka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1428748,17.3217058;50.14317220008677,17.32248365000002;50.1432633,17.3229289">
+    <text>Rabenstejn, vyhlidka - Rabenstejn, vyhlidka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1428748" lon="17.3217058">
+      <ele>815</ele>
+      <time>2022-01-17T23:02:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1430811" lon="17.3220384">
+      <ele>834</ele>
+      <time>2022-01-17T23:04:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1432633" lon="17.3229289">
+      <ele>852</ele>
+      <time>2022-01-17T23:07:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

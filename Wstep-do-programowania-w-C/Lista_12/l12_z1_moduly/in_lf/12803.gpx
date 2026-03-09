@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:35Z</time>
+    <bounds maxlat="50.8524396" maxlon="15.1820273" minlat="50.8516278" minlon="15.1818641"/>
+  </metadata>
+  <wpt lat="50.851628" lon="15.181877">
+    <ele>904</ele>
+    <name>Krasna Mari, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/8805">
+      <text>Krasna Mari, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.85244" lon="15.182027">
+    <ele>884</ele>
+    <name>Vyhlidka Krasna Mari</name>
+    <link href="https://mapa-turystyczna.pl/node/8806">
+      <text>Vyhlidka Krasna Mari</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krasna Mari, odbocka - Vyhlidka Krasna Mari</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8516278,15.1818771;50.85206260000889,15.181952600000015;50.8524396,15.1820273">
+    <text>Krasna Mari, odbocka - Vyhlidka Krasna Mari</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8516278" lon="15.1818771">
+      <ele>904</ele>
+      <time>2022-01-17T23:56:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8518949" lon="15.1818641">
+      <ele>902</ele>
+      <time>2022-01-17T23:56:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8520338" lon="15.1819392">
+      <ele>899</ele>
+      <time>2022-01-17T23:57:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8520914" lon="15.181966">
+      <ele>897</ele>
+      <time>2022-01-17T23:57:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8521726" lon="15.1819606">
+      <ele>895</ele>
+      <time>2022-01-17T23:57:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8522336" lon="15.1819767">
+      <ele>893</ele>
+      <time>2022-01-17T23:57:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8523386" lon="15.181966">
+      <ele>888</ele>
+      <time>2022-01-17T23:57:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8524396" lon="15.1820273">
+      <ele>884</ele>
+      <time>2022-01-17T23:57:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

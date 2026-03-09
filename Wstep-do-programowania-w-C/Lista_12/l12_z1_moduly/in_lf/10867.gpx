@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:08Z</time>
+    <bounds maxlat="49.4254998" maxlon="18.303692" minlat="49.4243355" minlon="18.3014551"/>
+  </metadata>
+  <wpt lat="49.4255" lon="18.301463">
+    <ele>528</ele>
+    <name>Horni Becva, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7620">
+      <text>Horni Becva, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.424335" lon="18.303692">
+    <ele>532</ele>
+    <name>Horni Becva, hot., bus</name>
+    <link href="https://mapa-turystyczna.pl/node/7650">
+      <text>Horni Becva, hot., bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Becva, rozc. - Horni Becva, hot., bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4254998,18.3014631;49.42486765004956,18.302448850000005;49.4243355,18.303692">
+    <text>Horni Becva, rozc. - Horni Becva, hot., bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4254998" lon="18.3014631">
+      <ele>528</ele>
+      <time>2022-01-17T23:24:08Z</time>
+    </trkpt>
+    <trkpt lat="49.4254381" lon="18.3014551">
+      <ele>529</ele>
+      <time>2022-01-17T23:24:18Z</time>
+    </trkpt>
+    <trkpt lat="49.4253823" lon="18.3015114">
+      <ele>529</ele>
+      <time>2022-01-17T23:24:28Z</time>
+    </trkpt>
+    <trkpt lat="49.4252724" lon="18.3017153">
+      <ele>530</ele>
+      <time>2022-01-17T23:24:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4251136" lon="18.3020049">
+      <ele>531</ele>
+      <time>2022-01-17T23:25:35Z</time>
+    </trkpt>
+    <trkpt lat="49.4249374" lon="18.3022946">
+      <ele>532</ele>
+      <time>2022-01-17T23:26:15Z</time>
+    </trkpt>
+    <trkpt lat="49.4247979" lon="18.3026031">
+      <ele>531</ele>
+      <time>2022-01-17T23:26:54Z</time>
+    </trkpt>
+    <trkpt lat="49.4247682" lon="18.3026379">
+      <ele>531</ele>
+      <time>2022-01-17T23:27:00Z</time>
+    </trkpt>
+    <trkpt lat="49.4247071" lon="18.3027694">
+      <ele>531</ele>
+      <time>2022-01-17T23:27:16Z</time>
+    </trkpt>
+    <trkpt lat="49.4246251" lon="18.3029625">
+      <ele>531</ele>
+      <time>2022-01-17T23:27:40Z</time>
+    </trkpt>
+    <trkpt lat="49.4244751" lon="18.3033112">
+      <ele>531</ele>
+      <time>2022-01-17T23:28:23Z</time>
+    </trkpt>
+    <trkpt lat="49.4243355" lon="18.303692">
+      <ele>532</ele>
+      <time>2022-01-17T23:29:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

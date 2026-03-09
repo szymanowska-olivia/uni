@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:50Z</time>
+    <bounds maxlat="52.4397557" maxlon="20.6651481" minlat="52.4388773" minlon="20.6624454"/>
+  </metadata>
+  <wpt lat="52.438877" lon="20.665148">
+    <ele>104</ele>
+    <name>Modlin, ul. Obwodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12232">
+      <text>Modlin, ul. Obwodowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.439756" lon="20.662445">
+    <ele>106</ele>
+    <name>Twierdza Modlin, cmentarz wojenny</name>
+    <link href="https://mapa-turystyczna.pl/node/12223">
+      <text>Twierdza Modlin, cmentarz wojenny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, ul. Obwodowa - Twierdza Modlin, cmentarz wojenny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4388773,20.6651481;52.43922065007585,20.663600399999993;52.4397557,20.6624454">
+    <text>Modlin, ul. Obwodowa - Twierdza Modlin, cmentarz wojenny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4388773" lon="20.6651481">
+      <ele>104</ele>
+      <time>2022-01-18T01:22:50Z</time>
+    </trkpt>
+    <trkpt lat="52.4389852" lon="20.6645526">
+      <ele>107</ele>
+      <time>2022-01-18T01:23:50Z</time>
+    </trkpt>
+    <trkpt lat="52.4390572" lon="20.66422">
+      <ele>106</ele>
+      <time>2022-01-18T01:24:24Z</time>
+    </trkpt>
+    <trkpt lat="52.4391389" lon="20.6638552">
+      <ele>106</ele>
+      <time>2022-01-18T01:25:02Z</time>
+    </trkpt>
+    <trkpt lat="52.4393024" lon="20.6633456">
+      <ele>105</ele>
+      <time>2022-01-18T01:25:57Z</time>
+    </trkpt>
+    <trkpt lat="52.4394692" lon="20.6629594">
+      <ele>105</ele>
+      <time>2022-01-18T01:26:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4397557" lon="20.6624454">
+      <ele>106</ele>
+      <time>2022-01-18T01:27:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:34Z</time>
+    <bounds maxlat="50.8378105" maxlon="16.2942996" minlat="50.8371025" minlon="16.2929553"/>
+  </metadata>
+  <wpt lat="50.837103" lon="16.292955">
+    <ele>411</ele>
+    <name>Rozdroze pod Starym Ksiazem</name>
+    <link href="https://mapa-turystyczna.pl/node/2599">
+      <text>Rozdroze pod Starym Ksiazem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.837811" lon="16.294288">
+    <ele>416</ele>
+    <name>Zamek Stary Ksiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/11880">
+      <text>Zamek Stary Ksiaz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Starym Ksiazem - Zamek Stary Ksiaz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8371025,16.2929553;50.837416750030265,16.293806849999996;50.8378105,16.2942882">
+    <text>Rozdroze pod Starym Ksiazem - Zamek Stary Ksiaz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8371025" lon="16.2929553">
+      <ele>411</ele>
+      <time>2022-01-18T01:14:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8373031" lon="16.2933581">
+      <ele>414</ele>
+      <time>2022-01-18T01:15:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8373636" lon="16.2937025">
+      <ele>413</ele>
+      <time>2022-01-18T01:16:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8374699" lon="16.2939112">
+      <ele>414</ele>
+      <time>2022-01-18T01:16:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8376475" lon="16.2941804">
+      <ele>414</ele>
+      <time>2022-01-18T01:17:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8378023" lon="16.2942996">
+      <ele>416</ele>
+      <time>2022-01-18T01:17:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8378105" lon="16.2942882">
+      <ele>416</ele>
+      <time>2022-01-18T01:17:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

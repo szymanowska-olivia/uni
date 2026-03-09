@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:54Z</time>
+    <bounds maxlat="49.430096" maxlon="22.5948737" minlat="49.4285237" minlon="22.589736"/>
+  </metadata>
+  <wpt lat="49.430096" lon="22.589736">
+    <ele>457</ele>
+    <name>Ustrzyki Dolne, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11097">
+      <text>Ustrzyki Dolne, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.428691" lon="22.594868">
+    <ele>463</ele>
+    <name>Ustrzyki Dolne, stadion</name>
+    <link href="https://mapa-turystyczna.pl/node/11100">
+      <text>Ustrzyki Dolne, stadion</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustrzyki Dolne, ul. Kolejowa - Ustrzyki Dolne, stadion</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.430096,22.589736;49.42854555000487,22.5915203;49.4286908,22.5948681">
+    <text>Ustrzyki Dolne, ul. Kolejowa - Ustrzyki Dolne, stadion</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.430096" lon="22.589736">
+      <ele>457</ele>
+      <time>2022-01-18T00:53:54Z</time>
+    </trkpt>
+    <trkpt lat="49.4295792" lon="22.5898634">
+      <ele>456</ele>
+      <time>2022-01-18T00:55:05Z</time>
+    </trkpt>
+    <trkpt lat="49.4293001" lon="22.5899974">
+      <ele>456</ele>
+      <time>2022-01-18T00:55:44Z</time>
+    </trkpt>
+    <trkpt lat="49.4287" lon="22.5903998">
+      <ele>461</ele>
+      <time>2022-01-18T00:57:13Z</time>
+    </trkpt>
+    <trkpt lat="49.4285665" lon="22.5906962">
+      <ele>464</ele>
+      <time>2022-01-18T00:57:45Z</time>
+    </trkpt>
+    <trkpt lat="49.4285237" lon="22.5910636">
+      <ele>467</ele>
+      <time>2022-01-18T00:58:18Z</time>
+    </trkpt>
+    <trkpt lat="49.4285674" lon="22.591977">
+      <ele>469</ele>
+      <time>2022-01-18T00:59:38Z</time>
+    </trkpt>
+    <trkpt lat="49.4286547" lon="22.5933931">
+      <ele>467</ele>
+      <time>2022-01-18T01:01:43Z</time>
+    </trkpt>
+    <trkpt lat="49.428686" lon="22.5948737">
+      <ele>463</ele>
+      <time>2022-01-18T01:03:53Z</time>
+    </trkpt>
+    <trkpt lat="49.4286908" lon="22.5948681">
+      <ele>463</ele>
+      <time>2022-01-18T01:03:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

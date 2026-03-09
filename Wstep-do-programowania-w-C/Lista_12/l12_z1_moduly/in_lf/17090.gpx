@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:45Z</time>
+    <bounds maxlat="50.4803403" maxlon="16.2874374" minlat="50.4802491" minlon="16.2871349"/>
+  </metadata>
+  <wpt lat="50.48034" lon="16.287135">
+    <ele>838</ele>
+    <name>Bledne Skaly, wejscie</name>
+    <link href="https://mapa-turystyczna.pl/node/4133">
+      <text>Bledne Skaly, wejscie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.480249" lon="16.287437">
+    <ele>843</ele>
+    <name>Bledne Skaly, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11663">
+      <text>Bledne Skaly, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledne Skaly, wejscie - Bledne Skaly, odejscie na punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4803403,16.2871349;50.48030830001082,16.287212699999998;50.4802491,16.2874374">
+    <text>Bledne Skaly, wejscie - Bledne Skaly, odejscie na punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4803403" lon="16.2871349">
+      <ele>838</ele>
+      <time>2022-01-18T01:07:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4802763" lon="16.2872905">
+      <ele>842</ele>
+      <time>2022-01-18T01:08:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4802491" lon="16.2874374">
+      <ele>843</ele>
+      <time>2022-01-18T01:08:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

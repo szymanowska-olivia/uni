@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:24Z</time>
+    <bounds maxlat="50.0914788" maxlon="18.2256341" minlat="50.0896294" minlon="18.2198836"/>
+  </metadata>
+  <wpt lat="50.091479" lon="18.219884">
+    <ele>195</ele>
+    <name>Raciborz</name>
+    <link href="https://mapa-turystyczna.pl/node/8929">
+      <text>Raciborz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.089629" lon="18.225096">
+    <ele>189</ele>
+    <name>Raciborz, Plac Dworcowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12947">
+      <text>Raciborz, Plac Dworcowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raciborz - Raciborz, Plac Dworcowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0914788,18.2198836;50.09079530028474,18.22297334999999;50.0896294,18.2250956">
+    <text>Raciborz - Raciborz, Plac Dworcowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0914788" lon="18.2198836">
+      <ele>195</ele>
+      <time>2022-01-18T01:43:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0911463" lon="18.2211548">
+      <ele>194</ele>
+      <time>2022-01-18T01:45:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0910913" lon="18.2214552">
+      <ele>193</ele>
+      <time>2022-01-18T01:45:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0909605" lon="18.2221955">
+      <ele>191</ele>
+      <time>2022-01-18T01:46:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0906301" lon="18.2237512">
+      <ele>189</ele>
+      <time>2022-01-18T01:49:03Z</time>
+    </trkpt>
+    <trkpt lat="50.090341" lon="18.2250708">
+      <ele>187</ele>
+      <time>2022-01-18T01:50:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0902945" lon="18.2250843">
+      <ele>187</ele>
+      <time>2022-01-18T01:51:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0903134" lon="18.225331">
+      <ele>186</ele>
+      <time>2022-01-18T01:51:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0902584" lon="18.2256341">
+      <ele>186</ele>
+      <time>2022-01-18T01:51:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0896294" lon="18.2250956">
+      <ele>189</ele>
+      <time>2022-01-18T01:53:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

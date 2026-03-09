@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:46Z</time>
+    <bounds maxlat="51.3234174" maxlon="16.2699638" minlat="51.3229815" minlon="16.2684542"/>
+  </metadata>
+  <wpt lat="51.322981" lon="16.268454">
+    <ele>126</ele>
+    <name>Miloradzice, swietlica</name>
+    <link href="https://mapa-turystyczna.pl/node/10024">
+      <text>Miloradzice, swietlica</text>
+    </link>
+  </wpt>
+  <wpt lat="51.323293" lon="16.269964">
+    <ele>124</ele>
+    <name>Miloradzice</name>
+    <link href="https://mapa-turystyczna.pl/node/10007">
+      <text>Miloradzice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miloradzice, swietlica - Miloradzice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3229815,16.2684542;51.323357100039644,16.269038149999986;51.3232926,16.2699638">
+    <text>Miloradzice, swietlica - Miloradzice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3229815" lon="16.2684542">
+      <ele>126</ele>
+      <time>2022-01-18T00:26:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3229883" lon="16.2684561">
+      <ele>126</ele>
+      <time>2022-01-18T00:26:47Z</time>
+    </trkpt>
+    <trkpt lat="51.3231425" lon="16.2685527">
+      <ele>125</ele>
+      <time>2022-01-18T00:27:04Z</time>
+    </trkpt>
+    <trkpt lat="51.3232968" lon="16.268778">
+      <ele>123</ele>
+      <time>2022-01-18T00:27:25Z</time>
+    </trkpt>
+    <trkpt lat="51.3234174" lon="16.2692983">
+      <ele>122</ele>
+      <time>2022-01-18T00:28:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3234174" lon="16.2694753">
+      <ele>122</ele>
+      <time>2022-01-18T00:28:12Z</time>
+    </trkpt>
+    <trkpt lat="51.3232926" lon="16.2699638">
+      <ele>124</ele>
+      <time>2022-01-18T00:28:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

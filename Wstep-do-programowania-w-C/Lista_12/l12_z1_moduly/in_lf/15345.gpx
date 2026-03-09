@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:41Z</time>
+    <bounds maxlat="51.7010983" maxlon="17.4341802" minlat="51.6950537" minlon="17.427282"/>
+  </metadata>
+  <wpt lat="51.701098" lon="17.427432">
+    <ele>127</ele>
+    <name>Krotoszyn, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10477">
+      <text>Krotoszyn, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.695054" lon="17.43418">
+    <ele>133</ele>
+    <name>Krotoszyn, Park Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/10476">
+      <text>Krotoszyn, Park Jana Pawla II</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krotoszyn, dworzec kolejowy - Krotoszyn, Park Jana Pawla II</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7010983,17.4274317;51.69686416622844,17.430449549999985;51.6950537,17.4341802">
+    <text>Krotoszyn, dworzec kolejowy - Krotoszyn, Park Jana Pawla II</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7010983" lon="17.4274317">
+      <ele>127</ele>
+      <time>2022-01-18T00:37:41Z</time>
+    </trkpt>
+    <trkpt lat="51.7007833" lon="17.4274966">
+      <ele>129</ele>
+      <time>2022-01-18T00:38:13Z</time>
+    </trkpt>
+    <trkpt lat="51.7007201" lon="17.427282">
+      <ele>130</ele>
+      <time>2022-01-18T00:38:28Z</time>
+    </trkpt>
+    <trkpt lat="51.7001915" lon="17.4279794">
+      <ele>132</ele>
+      <time>2022-01-18T00:39:36Z</time>
+    </trkpt>
+    <trkpt lat="51.6993536" lon="17.4290415">
+      <ele>132</ele>
+      <time>2022-01-18T00:41:23Z</time>
+    </trkpt>
+    <trkpt lat="51.6991242" lon="17.4293902">
+      <ele>132</ele>
+      <time>2022-01-18T00:41:54Z</time>
+    </trkpt>
+    <trkpt lat="51.6980063" lon="17.4294142">
+      <ele>130</ele>
+      <time>2022-01-18T00:43:46Z</time>
+    </trkpt>
+    <trkpt lat="51.6980761" lon="17.4303476">
+      <ele>130</ele>
+      <time>2022-01-18T00:44:45Z</time>
+    </trkpt>
+    <trkpt lat="51.6956522" lon="17.4305515">
+      <ele>128</ele>
+      <time>2022-01-18T00:48:48Z</time>
+    </trkpt>
+    <trkpt lat="51.6950537" lon="17.4341802">
+      <ele>133</ele>
+      <time>2022-01-18T00:52:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:54Z</time>
+    <bounds maxlat="50.3526515" maxlon="16.7161167" minlat="50.3472406" minlon="16.7139531"/>
+  </metadata>
+  <wpt lat="50.352652" lon="16.715054">
+    <ele>452</ele>
+    <name>Pod Sedziszem</name>
+    <link href="https://mapa-turystyczna.pl/node/8110">
+      <text>Pod Sedziszem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.347241" lon="16.716117">
+    <ele>389</ele>
+    <name>Romanowo</name>
+    <link href="https://mapa-turystyczna.pl/node/2093">
+      <text>Romanowo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sedziszem - Romanowo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3526515,16.7150539;50.34980670267796,16.71409875;50.3472406,16.7161167">
+    <text>Pod Sedziszem - Romanowo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3526515" lon="16.7150539">
+      <ele>452</ele>
+      <time>2022-01-17T23:36:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3519643" lon="16.7150009">
+      <ele>447</ele>
+      <time>2022-01-17T23:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3513014" lon="16.7147148">
+      <ele>440</ele>
+      <time>2022-01-17T23:39:11Z</time>
+    </trkpt>
+    <trkpt lat="50.350311" lon="16.7142337">
+      <ele>428</ele>
+      <time>2022-01-17T23:40:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3493024" lon="16.7139638">
+      <ele>415</ele>
+      <time>2022-01-17T23:42:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3490628" lon="16.7139531">
+      <ele>412</ele>
+      <time>2022-01-17T23:43:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3488494" lon="16.7141104">
+      <ele>410</ele>
+      <time>2022-01-17T23:43:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3483371" lon="16.7146504">
+      <ele>400</ele>
+      <time>2022-01-17T23:44:27Z</time>
+    </trkpt>
+    <trkpt lat="50.3478978" lon="16.7152583">
+      <ele>396</ele>
+      <time>2022-01-17T23:45:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3476593" lon="16.7156911">
+      <ele>394</ele>
+      <time>2022-01-17T23:46:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3474471" lon="16.7160666">
+      <ele>390</ele>
+      <time>2022-01-17T23:46:33Z</time>
+    </trkpt>
+    <trkpt lat="50.3472406" lon="16.7161167">
+      <ele>389</ele>
+      <time>2022-01-17T23:46:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

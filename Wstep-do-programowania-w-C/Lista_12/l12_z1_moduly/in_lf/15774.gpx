@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:13Z</time>
+    <bounds maxlat="54.4434936" maxlon="18.4647198" minlat="54.4423425" minlon="18.4642705"/>
+  </metadata>
+  <wpt lat="54.443494" lon="18.464273">
+    <ele>183</ele>
+    <name>Pod Gora Studencka</name>
+    <link href="https://mapa-turystyczna.pl/node/10769">
+      <text>Pod Gora Studencka</text>
+    </link>
+  </wpt>
+  <wpt lat="54.442343" lon="18.464675">
+    <ele>180</ele>
+    <name>Gora Studencka</name>
+    <link href="https://mapa-turystyczna.pl/node/10768">
+      <text>Gora Studencka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Gora Studencka - Gora Studencka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4434936,18.4642732;54.44297845089166,18.46449515000002;54.4423425,18.4646755">
+    <text>Pod Gora Studencka - Gora Studencka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4434936" lon="18.4642732">
+      <ele>183</ele>
+      <time>2022-01-18T00:45:13Z</time>
+    </trkpt>
+    <trkpt lat="54.4432487" lon="18.4642705">
+      <ele>183</ele>
+      <time>2022-01-18T00:45:37Z</time>
+    </trkpt>
+    <trkpt lat="54.4427082" lon="18.4647198">
+      <ele>184</ele>
+      <time>2022-01-18T00:46:37Z</time>
+    </trkpt>
+    <trkpt lat="54.4423425" lon="18.4646755">
+      <ele>180</ele>
+      <time>2022-01-18T00:47:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:41Z</time>
+    <bounds maxlat="50.8916471" maxlon="16.7420296" minlat="50.8882353" minlon="16.7371755"/>
+  </metadata>
+  <wpt lat="50.888235" lon="16.737175">
+    <ele>276</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11698">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.891647" lon="16.74203">
+    <ele>217</ele>
+    <name>Sobotka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11697">
+      <text>Sobotka, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Sobotka, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8882353,16.7371755;50.89023475030496,16.73968235000001;50.8916471,16.7420296">
+    <text>Rozejscie szlakow - Sobotka, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8882353" lon="16.7371755">
+      <ele>276</ele>
+      <time>2022-01-18T01:08:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8885504" lon="16.7373633">
+      <ele>271</ele>
+      <time>2022-01-18T01:09:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8893491" lon="16.7381679">
+      <ele>255</ele>
+      <time>2022-01-18T01:11:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8897595" lon="16.7388042">
+      <ele>246</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8900662" lon="16.739268">
+      <ele>238</ele>
+      <time>2022-01-18T01:13:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8904033" lon="16.7400967">
+      <ele>227</ele>
+      <time>2022-01-18T01:14:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8910816" lon="16.7410593">
+      <ele>217</ele>
+      <time>2022-01-18T01:16:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8915554" lon="16.7419391">
+      <ele>217</ele>
+      <time>2022-01-18T01:18:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8916358" lon="16.742006">
+      <ele>217</ele>
+      <time>2022-01-18T01:18:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8916471" lon="16.7420296">
+      <ele>217</ele>
+      <time>2022-01-18T01:18:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:35Z</time>
+    <bounds maxlat="50.42915" maxlon="19.671412" minlat="50.427471" minlon="19.668987"/>
+  </metadata>
+  <wpt lat="50.427471" lon="19.668987">
+    <ele>402</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13622">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.42915" lon="19.671412">
+    <ele>410</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13631">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.427471,19.668987;50.4285010006133,19.670367499999998;50.42915,19.671412">
+    <text>Rozejscie szlakow - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.427471" lon="19.668987">
+      <ele>402</ele>
+      <time>2022-01-18T02:03:35Z</time>
+    </trkpt>
+    <trkpt lat="50.427823" lon="19.66934">
+      <ele>403</ele>
+      <time>2022-01-18T02:04:30Z</time>
+    </trkpt>
+    <trkpt lat="50.427978" lon="19.669574">
+      <ele>403</ele>
+      <time>2022-01-18T02:04:58Z</time>
+    </trkpt>
+    <trkpt lat="50.42826" lon="19.669999">
+      <ele>405</ele>
+      <time>2022-01-18T02:05:49Z</time>
+    </trkpt>
+    <trkpt lat="50.428742" lon="19.670736">
+      <ele>409</ele>
+      <time>2022-01-18T02:07:17Z</time>
+    </trkpt>
+    <trkpt lat="50.428957" lon="19.671096">
+      <ele>409</ele>
+      <time>2022-01-18T02:07:58Z</time>
+    </trkpt>
+    <trkpt lat="50.42915" lon="19.671412">
+      <ele>410</ele>
+      <time>2022-01-18T02:08:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

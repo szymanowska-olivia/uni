@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:44:47Z</time>
+    <bounds maxlat="49.8139829" maxlon="20.8119394" minlat="49.8120437" minlon="20.7991201"/>
+  </metadata>
+  <wpt lat="49.813983" lon="20.811939">
+    <ele>416</ele>
+    <name>Pod Styrem</name>
+    <link href="https://mapa-turystyczna.pl/node/8358">
+      <text>Pod Styrem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.813798" lon="20.79912">
+    <ele>248</ele>
+    <name>Bodzantowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8359">
+      <text>Bodzantowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Styrem - Bodzantowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8139829,20.8119394;49.81322270335433,20.80672139999999;49.8137977,20.7991201">
+    <text>Pod Styrem - Bodzantowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8139829" lon="20.8119394">
+      <ele>416</ele>
+      <time>2022-01-17T23:44:47Z</time>
+    </trkpt>
+    <trkpt lat="49.8133591" lon="20.8117211">
+      <ele>409</ele>
+      <time>2022-01-17T23:45:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8125629" lon="20.8107769">
+      <ele>391</ele>
+      <time>2022-01-17T23:47:42Z</time>
+    </trkpt>
+    <trkpt lat="49.8124701" lon="20.8097791">
+      <ele>373</ele>
+      <time>2022-01-17T23:48:53Z</time>
+    </trkpt>
+    <trkpt lat="49.8120437" lon="20.8090603">
+      <ele>357</ele>
+      <time>2022-01-17T23:50:02Z</time>
+    </trkpt>
+    <trkpt lat="49.8121683" lon="20.8085239">
+      <ele>348</ele>
+      <time>2022-01-17T23:50:42Z</time>
+    </trkpt>
+    <trkpt lat="49.8126529" lon="20.8081269">
+      <ele>341</ele>
+      <time>2022-01-17T23:51:40Z</time>
+    </trkpt>
+    <trkpt lat="49.8137925" lon="20.8053159">
+      <ele>314</ele>
+      <time>2022-01-17T23:55:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8137814" lon="20.8042645">
+      <ele>308</ele>
+      <time>2022-01-17T23:56:40Z</time>
+    </trkpt>
+    <trkpt lat="49.8132968" lon="20.8030629">
+      <ele>284</ele>
+      <time>2022-01-17T23:58:19Z</time>
+    </trkpt>
+    <trkpt lat="49.812916" lon="20.8018827">
+      <ele>272</ele>
+      <time>2022-01-17T23:59:50Z</time>
+    </trkpt>
+    <trkpt lat="49.8125352" lon="20.8001876">
+      <ele>255</ele>
+      <time>2022-01-18T00:01:54Z</time>
+    </trkpt>
+    <trkpt lat="49.812556" lon="20.7998872">
+      <ele>252</ele>
+      <time>2022-01-18T00:02:15Z</time>
+    </trkpt>
+    <trkpt lat="49.8127152" lon="20.7997155">
+      <ele>249</ele>
+      <time>2022-01-18T00:02:35Z</time>
+    </trkpt>
+    <trkpt lat="49.8129645" lon="20.799222">
+      <ele>248</ele>
+      <time>2022-01-18T00:03:18Z</time>
+    </trkpt>
+    <trkpt lat="49.8132206" lon="20.7991362">
+      <ele>246</ele>
+      <time>2022-01-18T00:03:46Z</time>
+    </trkpt>
+    <trkpt lat="49.8137977" lon="20.7991201">
+      <ele>248</ele>
+      <time>2022-01-18T00:04:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

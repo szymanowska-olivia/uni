@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:18Z</time>
+    <bounds maxlat="51.1561743" maxlon="16.0860122" minlat="51.1558911" minlon="16.0839952"/>
+  </metadata>
+  <wpt lat="51.155891" lon="16.083995">
+    <ele>141</ele>
+    <name>Dunino, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3339">
+      <text>Dunino, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.156073" lon="16.086012">
+    <ele>141</ele>
+    <name>Dunino</name>
+    <link href="https://mapa-turystyczna.pl/node/3336">
+      <text>Dunino</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dunino, rozejscie szlakow - Dunino</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1558911,16.0839952;51.15603270021729,16.08449560000001;51.1560727,16.0860122">
+    <text>Dunino, rozejscie szlakow - Dunino</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1558911" lon="16.0839952">
+      <ele>141</ele>
+      <time>2022-01-17T21:46:18Z</time>
+    </trkpt>
+    <trkpt lat="51.1561743" lon="16.084996">
+      <ele>140</ele>
+      <time>2022-01-17T21:47:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1561373" lon="16.0852643">
+      <ele>140</ele>
+      <time>2022-01-17T21:47:35Z</time>
+    </trkpt>
+    <trkpt lat="51.156107" lon="16.0857417">
+      <ele>140</ele>
+      <time>2022-01-17T21:48:02Z</time>
+    </trkpt>
+    <trkpt lat="51.1560727" lon="16.0860122">
+      <ele>141</ele>
+      <time>2022-01-17T21:48:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

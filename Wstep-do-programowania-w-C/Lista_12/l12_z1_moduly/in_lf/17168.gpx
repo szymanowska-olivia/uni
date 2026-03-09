@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:57Z</time>
+    <bounds maxlat="50.882225" maxlon="16.7379723" minlat="50.8811308" minlon="16.7327605"/>
+  </metadata>
+  <wpt lat="50.882225" lon="16.732761">
+    <ele>363</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11694">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.881131" lon="16.737972">
+    <ele>301</ele>
+    <name>Droga Bolka</name>
+    <link href="https://mapa-turystyczna.pl/node/11702">
+      <text>Droga Bolka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Droga Bolka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.882225,16.7327605;50.88167145044988,16.734712299999977;50.8811308,16.7379723">
+    <text>Skrzyzowanie szlakow - Droga Bolka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.882225" lon="16.7327605">
+      <ele>363</ele>
+      <time>2022-01-18T01:08:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8821165" lon="16.7332988">
+      <ele>359</ele>
+      <time>2022-01-18T01:09:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8820116" lon="16.7336582">
+      <ele>356</ele>
+      <time>2022-01-18T01:09:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8818762" lon="16.7340927">
+      <ele>349</ele>
+      <time>2022-01-18T01:10:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8814667" lon="16.7353319">
+      <ele>331</ele>
+      <time>2022-01-18T01:11:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8812602" lon="16.7361044">
+      <ele>322</ele>
+      <time>2022-01-18T01:12:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8812467" lon="16.7366194">
+      <ele>315</ele>
+      <time>2022-01-18T01:12:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8812061" lon="16.7373382">
+      <ele>308</ele>
+      <time>2022-01-18T01:13:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8811308" lon="16.7379723">
+      <ele>301</ele>
+      <time>2022-01-18T01:13:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

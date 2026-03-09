@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:05Z</time>
+    <bounds maxlat="52.2950817" maxlon="20.5744314" minlat="52.2944649" minlon="20.5743885"/>
+  </metadata>
+  <wpt lat="52.294465" lon="20.574389">
+    <ele>81</ele>
+    <name>Posada Lubiec, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/5013">
+      <text>Posada Lubiec, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295082" lon="20.574431">
+    <ele>82</ele>
+    <name>Posada Lubiec</name>
+    <link href="https://mapa-turystyczna.pl/node/4937">
+      <text>Posada Lubiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Posada Lubiec, skrzyzowanie - Posada Lubiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2944649,20.5743885;52.2947733010737,20.57440995000004;52.2950817,20.5744314">
+    <text>Posada Lubiec, skrzyzowanie - Posada Lubiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2944649" lon="20.5743885">
+      <ele>81</ele>
+      <time>2022-01-17T22:22:05Z</time>
+    </trkpt>
+    <trkpt lat="52.2950817" lon="20.5744314">
+      <ele>82</ele>
+      <time>2022-01-17T22:23:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:01Z</time>
+    <bounds maxlat="50.0946474" maxlon="16.5664172" minlat="50.0946405" minlon="16.5661597"/>
+  </metadata>
+  <wpt lat="50.09464" lon="16.56616">
+    <ele>492</ele>
+    <name>Pastviny</name>
+    <link href="https://mapa-turystyczna.pl/node/6789">
+      <text>Pastviny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.094647" lon="16.566417">
+    <ele>493</ele>
+    <name>Pastviny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6790">
+      <text>Pastviny, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pastviny - Pastviny, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0946405,16.5661597;50.09464395000013,16.56628845000002;50.0946474,16.5664172">
+    <text>Pastviny - Pastviny, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0946405" lon="16.5661597">
+      <ele>492</ele>
+      <time>2022-01-17T23:02:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0946474" lon="16.5664172">
+      <ele>493</ele>
+      <time>2022-01-17T23:03:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

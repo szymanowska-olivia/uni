@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:35Z</time>
+    <bounds maxlat="49.690619" maxlon="19.46988" minlat="49.690508" minlon="19.469075"/>
+  </metadata>
+  <wpt lat="49.690619" lon="19.469075">
+    <ele>699</ele>
+    <name>Rozejscie przy Chatce Adamy</name>
+    <link href="https://mapa-turystyczna.pl/node/11851">
+      <text>Rozejscie przy Chatce Adamy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.690508" lon="19.46988">
+    <ele>699</ele>
+    <name>Chatka Adamy</name>
+    <link href="https://mapa-turystyczna.pl/node/11853">
+      <text>Chatka Adamy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie przy Chatce Adamy - Chatka Adamy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.690619,19.469075;49.6905420000119,19.469623499999997;49.690508,19.46988">
+    <text>Rozejscie przy Chatce Adamy - Chatka Adamy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.690619" lon="19.469075">
+      <ele>699</ele>
+      <time>2022-01-18T01:13:35Z</time>
+    </trkpt>
+    <trkpt lat="49.690576" lon="19.469367">
+      <ele>700</ele>
+      <time>2022-01-18T01:13:57Z</time>
+    </trkpt>
+    <trkpt lat="49.690508" lon="19.46988">
+      <ele>699</ele>
+      <time>2022-01-18T01:14:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

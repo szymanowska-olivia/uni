@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:21Z</time>
+    <bounds maxlat="50.8721206" maxlon="16.7525963" minlat="50.8663479" minlon="16.7505535"/>
+  </metadata>
+  <wpt lat="50.866348" lon="16.752596">
+    <ele>212</ele>
+    <name>Bedkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/12533">
+      <text>Bedkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.872121" lon="16.750553">
+    <ele>227</ele>
+    <name>Bedkowice, skansen</name>
+    <link href="https://mapa-turystyczna.pl/node/11705">
+      <text>Bedkowice, skansen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bedkowice - Bedkowice, skansen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8663479,16.7525963;50.86938210059793,16.75132235;50.8721206,16.7505535">
+    <text>Bedkowice - Bedkowice, skansen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8663479" lon="16.7525963">
+      <ele>212</ele>
+      <time>2022-01-18T01:32:21Z</time>
+    </trkpt>
+    <trkpt lat="50.86727" lon="16.7521894">
+      <ele>213</ele>
+      <time>2022-01-18T01:33:58Z</time>
+    </trkpt>
+    <trkpt lat="50.869146" lon="16.7514753">
+      <ele>213</ele>
+      <time>2022-01-18T01:37:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8696182" lon="16.7511694">
+      <ele>215</ele>
+      <time>2022-01-18T01:38:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8699177" lon="16.7511007">
+      <ele>216</ele>
+      <time>2022-01-18T01:38:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8706484" lon="16.7509921">
+      <ele>219</ele>
+      <time>2022-01-18T01:39:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8721206" lon="16.7505535">
+      <ele>227</ele>
+      <time>2022-01-18T01:42:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

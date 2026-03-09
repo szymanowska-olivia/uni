@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:40Z</time>
+    <bounds maxlat="50.5362216" maxlon="16.8968171" minlat="50.5359761" minlon="16.8939686"/>
+  </metadata>
+  <wpt lat="50.535976" lon="16.893969">
+    <ele>260</ele>
+    <name>Kamieniec Zabkowicki, Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2794">
+      <text>Kamieniec Zabkowicki, Ogrodowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.536222" lon="16.896817">
+    <ele>261</ele>
+    <name>Kamieniec Zabkowicki PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2793">
+      <text>Kamieniec Zabkowicki PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamieniec Zabkowicki, Ogrodowa - Kamieniec Zabkowicki PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5359761,16.8939686;50.536098850159725,16.89539285000002;50.5362216,16.8968171">
+    <text>Kamieniec Zabkowicki, Ogrodowa - Kamieniec Zabkowicki PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5359761" lon="16.8939686">
+      <ele>260</ele>
+      <time>2022-01-17T21:36:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5362216" lon="16.8968171">
+      <ele>261</ele>
+      <time>2022-01-17T21:39:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

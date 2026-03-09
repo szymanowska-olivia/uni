@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:32Z</time>
+    <bounds maxlat="50.6239772" maxlon="16.8634612" minlat="50.6226874" minlon="16.8582791"/>
+  </metadata>
+  <wpt lat="50.622687" lon="16.858279">
+    <ele>309</ele>
+    <name>Bobolice</name>
+    <link href="https://mapa-turystyczna.pl/node/2786">
+      <text>Bobolice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.623977" lon="16.863461">
+    <ele>315</ele>
+    <name>Bobolice, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/2787">
+      <text>Bobolice, przystanek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bobolice - Bobolice, przystanek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6226874,16.8582791;50.62323070056934,16.86045224999999;50.6239772,16.8634612">
+    <text>Bobolice - Bobolice, przystanek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6226874" lon="16.8582791">
+      <ele>309</ele>
+      <time>2022-01-17T21:36:32Z</time>
+    </trkpt>
+    <trkpt lat="50.622744" lon="16.8585586">
+      <ele>309</ele>
+      <time>2022-01-17T21:36:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6228359" lon="16.8591809">
+      <ele>310</ele>
+      <time>2022-01-17T21:37:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6229278" lon="16.8595779">
+      <ele>310</ele>
+      <time>2022-01-17T21:37:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6229993" lon="16.8598032">
+      <ele>309</ele>
+      <time>2022-01-17T21:37:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6234621" lon="16.8611013">
+      <ele>310</ele>
+      <time>2022-01-17T21:39:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6238399" lon="16.862421">
+      <ele>314</ele>
+      <time>2022-01-17T21:40:35Z</time>
+    </trkpt>
+    <trkpt lat="50.623942" lon="16.8630218">
+      <ele>314</ele>
+      <time>2022-01-17T21:41:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6239772" lon="16.8634612">
+      <ele>315</ele>
+      <time>2022-01-17T21:41:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:03Z</time>
+    <bounds maxlat="50.7496076" maxlon="19.269011" minlat="50.749314" minlon="19.2682439"/>
+  </metadata>
+  <wpt lat="50.749608" lon="19.268244">
+    <ele>302</ele>
+    <name>Olsztyn, rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9645">
+      <text>Olsztyn, rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.749314" lon="19.269011">
+    <ele>305</ele>
+    <name>Olsztyn</name>
+    <link href="https://mapa-turystyczna.pl/node/4548">
+      <text>Olsztyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olsztyn, rynek - Olsztyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7496076,19.2682439;50.749460800230175,19.268627450000007;50.749314,19.269011">
+    <text>Olsztyn, rynek - Olsztyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7496076" lon="19.2682439">
+      <ele>302</ele>
+      <time>2022-01-18T00:17:03Z</time>
+    </trkpt>
+    <trkpt lat="50.749314" lon="19.269011">
+      <ele>305</ele>
+      <time>2022-01-18T00:18:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

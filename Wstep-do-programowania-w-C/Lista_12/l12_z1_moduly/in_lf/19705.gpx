@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:15Z</time>
+    <bounds maxlat="51.5223393" maxlon="23.1414308" minlat="51.5134139" minlon="23.1045702"/>
+  </metadata>
+  <wpt lat="51.522339" lon="23.10457">
+    <ele>169</ele>
+    <name>Sosnowica, Aleja Grabowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13300">
+      <text>Sosnowica, Aleja Grabowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.513414" lon="23.141431">
+    <ele>196</ele>
+    <name>Izabelin, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13301">
+      <text>Izabelin, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowica, Aleja Grabowa - Izabelin, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5223393,23.1045702;51.51718155581743,23.127330350000026;51.5134139,23.1414308">
+    <text>Sosnowica, Aleja Grabowa - Izabelin, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5223393" lon="23.1045702">
+      <ele>169</ele>
+      <time>2022-01-18T01:53:15Z</time>
+    </trkpt>
+    <trkpt lat="51.5215519" lon="23.1096003">
+      <ele>174</ele>
+      <time>2022-01-18T01:59:08Z</time>
+    </trkpt>
+    <trkpt lat="51.5214253" lon="23.1104739">
+      <ele>175</ele>
+      <time>2022-01-18T02:00:09Z</time>
+    </trkpt>
+    <trkpt lat="51.5212986" lon="23.1115191">
+      <ele>171</ele>
+      <time>2022-01-18T02:01:22Z</time>
+    </trkpt>
+    <trkpt lat="51.5209489" lon="23.1132299">
+      <ele>171</ele>
+      <time>2022-01-18T02:03:25Z</time>
+    </trkpt>
+    <trkpt lat="51.5134139" lon="23.1414308">
+      <ele>196</ele>
+      <time>2022-01-18T02:38:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

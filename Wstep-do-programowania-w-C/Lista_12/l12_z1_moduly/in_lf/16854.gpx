@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:04:09Z</time>
+    <bounds maxlat="52.1083078" maxlon="21.2655842" minlat="52.1072106" minlon="21.2645167"/>
+  </metadata>
+  <wpt lat="52.108308" lon="21.264517">
+    <ele>97</ele>
+    <name>Otwock, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11532">
+      <text>Otwock, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.107211" lon="21.265584">
+    <ele>94</ele>
+    <name>Otwock, wiadukty kolejowe</name>
+    <link href="https://mapa-turystyczna.pl/node/11533">
+      <text>Otwock, wiadukty kolejowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, dworzec kolejowy - Otwock, wiadukty kolejowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1083078,21.2645167;52.107759203374705,21.26505045;52.1072106,21.2655842">
+    <text>Otwock, dworzec kolejowy - Otwock, wiadukty kolejowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1083078" lon="21.2645167">
+      <ele>97</ele>
+      <time>2022-01-18T01:04:09Z</time>
+    </trkpt>
+    <trkpt lat="52.1072106" lon="21.2655842">
+      <ele>94</ele>
+      <time>2022-01-18T01:06:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

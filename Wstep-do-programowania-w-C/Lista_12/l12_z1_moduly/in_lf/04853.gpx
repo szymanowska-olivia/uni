@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:25Z</time>
+    <bounds maxlat="50.8512232" maxlon="15.7341814" minlat="50.8508582" minlon="15.7311559"/>
+  </metadata>
+  <wpt lat="50.850858" lon="15.734181">
+    <ele>389</ele>
+    <name>Staniszow</name>
+    <link href="https://mapa-turystyczna.pl/node/3383">
+      <text>Staniszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.850912" lon="15.731156">
+    <ele>405</ele>
+    <name>Staniszow, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/3384">
+      <text>Staniszow, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Staniszow - Staniszow, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8508582,15.7341814;50.85119905000626,15.732557350000018;50.8509124,15.7311559">
+    <text>Staniszow - Staniszow, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8508582" lon="15.7341814">
+      <ele>389</ele>
+      <time>2022-01-17T21:47:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8509954" lon="15.7337898">
+      <ele>388</ele>
+      <time>2022-01-17T21:48:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8511868" lon="15.7334197">
+      <ele>388</ele>
+      <time>2022-01-17T21:48:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8511749" lon="15.7327813">
+      <ele>391</ele>
+      <time>2022-01-17T21:49:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8512232" lon="15.7323334">
+      <ele>394</ele>
+      <time>2022-01-17T21:50:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8512037" lon="15.7319927">
+      <ele>397</ele>
+      <time>2022-01-17T21:50:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8509124" lon="15.7311559">
+      <ele>405</ele>
+      <time>2022-01-17T21:52:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

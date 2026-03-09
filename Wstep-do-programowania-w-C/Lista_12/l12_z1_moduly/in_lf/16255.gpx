@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:42Z</time>
+    <bounds maxlat="49.3262776" maxlon="22.5821453" minlat="49.3259423" minlon="22.5796348"/>
+  </metadata>
+  <wpt lat="49.326278" lon="22.582145">
+    <ele>672</ele>
+    <name>Skrzyzowanie przy Mokliku</name>
+    <link href="https://mapa-turystyczna.pl/node/11094">
+      <text>Skrzyzowanie przy Mokliku</text>
+    </link>
+  </wpt>
+  <wpt lat="49.32604" lon="22.579635">
+    <ele>675</ele>
+    <name>Moklik</name>
+    <link href="https://mapa-turystyczna.pl/node/11095">
+      <text>Moklik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Mokliku - Moklik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3262776,22.5821453;49.32594580000014,22.580902200000033;49.3260399,22.5796348">
+    <text>Skrzyzowanie przy Mokliku - Moklik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3262776" lon="22.5821453">
+      <ele>672</ele>
+      <time>2022-01-18T00:53:42Z</time>
+    </trkpt>
+    <trkpt lat="49.326208" lon="22.58168">
+      <ele>669</ele>
+      <time>2022-01-18T00:54:36Z</time>
+    </trkpt>
+    <trkpt lat="49.3259493" lon="22.5810256">
+      <ele>667</ele>
+      <time>2022-01-18T00:56:03Z</time>
+    </trkpt>
+    <trkpt lat="49.3259423" lon="22.5807788">
+      <ele>669</ele>
+      <time>2022-01-18T00:56:31Z</time>
+    </trkpt>
+    <trkpt lat="49.3259423" lon="22.5805106">
+      <ele>671</ele>
+      <time>2022-01-18T00:57:01Z</time>
+    </trkpt>
+    <trkpt lat="49.3260053" lon="22.5801244">
+      <ele>675</ele>
+      <time>2022-01-18T00:57:46Z</time>
+    </trkpt>
+    <trkpt lat="49.3260399" lon="22.5796348">
+      <ele>675</ele>
+      <time>2022-01-18T00:58:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

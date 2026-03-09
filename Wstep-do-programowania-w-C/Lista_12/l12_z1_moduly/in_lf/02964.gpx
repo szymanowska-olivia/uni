@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:06Z</time>
+    <bounds maxlat="50.3117867" maxlon="16.9723213" minlat="50.310156" minlon="16.9716024"/>
+  </metadata>
+  <wpt lat="50.311787" lon="16.972321">
+    <ele>692</ele>
+    <name>Hranicky</name>
+    <link href="https://mapa-turystyczna.pl/node/2138">
+      <text>Hranicky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.310156" lon="16.971602">
+    <ele>684</ele>
+    <name>Przelecz Gieraltowska</name>
+    <link href="https://mapa-turystyczna.pl/node/2128">
+      <text>Przelecz Gieraltowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hranicky - Przelecz Gieraltowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3117867,16.9723213;50.31084740060467,16.97195644999999;50.310156,16.9716024">
+    <text>Hranicky - Przelecz Gieraltowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3117867" lon="16.9723213">
+      <ele>692</ele>
+      <time>2022-01-17T21:23:06Z</time>
+    </trkpt>
+    <trkpt lat="50.31156" lon="16.972214">
+      <ele>694</ele>
+      <time>2022-01-17T21:23:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3110872" lon="16.9720852">
+      <ele>692</ele>
+      <time>2022-01-17T21:24:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3106076" lon="16.9718277">
+      <ele>685</ele>
+      <time>2022-01-17T21:25:16Z</time>
+    </trkpt>
+    <trkpt lat="50.310156" lon="16.9716024">
+      <ele>684</ele>
+      <time>2022-01-17T21:26:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

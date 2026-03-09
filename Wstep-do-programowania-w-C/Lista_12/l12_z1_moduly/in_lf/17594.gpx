@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:06Z</time>
+    <bounds maxlat="52.0860406" maxlon="21.1168937" minlat="52.0846692" minlon="21.1117653"/>
+  </metadata>
+  <wpt lat="52.086037" lon="21.111765">
+    <ele>93</ele>
+    <name>Konstancin-Jeziorna, rzeka Jeziorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11911">
+      <text>Konstancin-Jeziorna, rzeka Jeziorka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.084669" lon="21.116894">
+    <ele>93</ele>
+    <name>Konstancin-Jeziorna, Park Zdrojowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11912">
+      <text>Konstancin-Jeziorna, Park Zdrojowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna, rzeka Jeziorka - Konstancin-Jeziorna, Park Zdrojowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0860372,21.1117653;52.08533180491895,21.114635999999976;52.0846692,21.1168937">
+    <text>Konstancin-Jeziorna, rzeka Jeziorka - Konstancin-Jeziorna, Park Zdrojowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0860372" lon="21.1117653">
+      <ele>93</ele>
+      <time>2022-01-18T01:16:06Z</time>
+    </trkpt>
+    <trkpt lat="52.0860406" lon="21.11211">
+      <ele>92</ele>
+      <time>2022-01-18T01:16:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0859944" lon="21.1123783">
+      <ele>91</ele>
+      <time>2022-01-18T01:16:39Z</time>
+    </trkpt>
+    <trkpt lat="52.0846692" lon="21.1168937">
+      <ele>93</ele>
+      <time>2022-01-18T01:21:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

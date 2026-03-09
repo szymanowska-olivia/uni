@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:50Z</time>
+    <bounds maxlat="50.2134552" maxlon="16.9936157" minlat="50.2102398" minlon="16.9905308"/>
+  </metadata>
+  <wpt lat="50.21024" lon="16.990534">
+    <ele>1027</ele>
+    <name>Paprsek, turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/2163">
+      <text>Paprsek, turisticka chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.213455" lon="16.993616">
+    <ele>1020</ele>
+    <name>Palas</name>
+    <link href="https://mapa-turystyczna.pl/node/7131">
+      <text>Palas</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paprsek, turisticka chata - Palas</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2102398,16.9905335;50.21170060077066,16.992062300000004;50.2134552,16.9936157">
+    <text>Paprsek, turisticka chata - Palas</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2102398" lon="16.9905335">
+      <ele>1027</ele>
+      <time>2022-01-17T23:10:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2104544" lon="16.9905308">
+      <ele>1028</ele>
+      <time>2022-01-17T23:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2108114" lon="16.9910592">
+      <ele>1033</ele>
+      <time>2022-01-17T23:11:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2110809" lon="16.9914803">
+      <ele>1032</ele>
+      <time>2022-01-17T23:12:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2114294" lon="16.9918692">
+      <ele>1032</ele>
+      <time>2022-01-17T23:12:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2119718" lon="16.9922554">
+      <ele>1031</ele>
+      <time>2022-01-17T23:13:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2125828" lon="16.9929957">
+      <ele>1024</ele>
+      <time>2022-01-17T23:14:30Z</time>
+    </trkpt>
+    <trkpt lat="50.213163" lon="16.9931889">
+      <ele>1022</ele>
+      <time>2022-01-17T23:15:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2133587" lon="16.9932479">
+      <ele>1021</ele>
+      <time>2022-01-17T23:15:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2134552" lon="16.9936157">
+      <ele>1020</ele>
+      <time>2022-01-17T23:15:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

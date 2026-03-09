@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:16Z</time>
+    <bounds maxlat="54.0901542" maxlon="15.0463961" minlat="54.0881508" minlon="15.0385851"/>
+  </metadata>
+  <wpt lat="54.088151" lon="15.038585">
+    <ele>12</ele>
+    <name>Rewal, ul. Klifowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12651">
+      <text>Rewal, ul. Klifowa</text>
+    </link>
+  </wpt>
+  <wpt lat="54.090154" lon="15.046396">
+    <ele>13</ele>
+    <name>Odejscie sciezki historycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12650">
+      <text>Odejscie sciezki historycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rewal, ul. Klifowa - Odejscie sciezki historycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0881508,15.0385851;54.088805405163605,15.040924500000003;54.0901542,15.0463961">
+    <text>Rewal, ul. Klifowa - Odejscie sciezki historycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0881508" lon="15.0385851">
+      <ele>12</ele>
+      <time>2022-01-18T01:35:16Z</time>
+    </trkpt>
+    <trkpt lat="54.08946" lon="15.0432639">
+      <ele>9</ele>
+      <time>2022-01-18T01:41:19Z</time>
+    </trkpt>
+    <trkpt lat="54.0900435" lon="15.0452493">
+      <ele>12</ele>
+      <time>2022-01-18T01:43:54Z</time>
+    </trkpt>
+    <trkpt lat="54.0900784" lon="15.0454611">
+      <ele>12</ele>
+      <time>2022-01-18T01:44:10Z</time>
+    </trkpt>
+    <trkpt lat="54.0901542" lon="15.0463961">
+      <ele>13</ele>
+      <time>2022-01-18T01:45:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

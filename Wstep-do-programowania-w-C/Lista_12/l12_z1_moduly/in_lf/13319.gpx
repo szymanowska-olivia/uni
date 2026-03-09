@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:13Z</time>
+    <bounds maxlat="49.291932" maxlon="19.078014" minlat="49.290798" minlon="19.076145"/>
+  </metadata>
+  <wpt lat="49.290798" lon="19.076145">
+    <ele>620</ele>
+    <name>Sipkova</name>
+    <link href="https://mapa-turystyczna.pl/node/9182">
+      <text>Sipkova</text>
+    </link>
+  </wpt>
+  <wpt lat="49.291932" lon="19.078014">
+    <ele>619</ele>
+    <name>Sipkova, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9183">
+      <text>Sipkova, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sipkova - Sipkova, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.290798,19.076145;49.29162800032862,19.077199499999995;49.291932,19.078014">
+    <text>Sipkova - Sipkova, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.290798" lon="19.076145">
+      <ele>620</ele>
+      <time>2022-01-18T00:05:13Z</time>
+    </trkpt>
+    <trkpt lat="49.291218" lon="19.076573">
+      <ele>622</ele>
+      <time>2022-01-18T00:06:06Z</time>
+    </trkpt>
+    <trkpt lat="49.291448" lon="19.076887">
+      <ele>620</ele>
+      <time>2022-01-18T00:06:38Z</time>
+    </trkpt>
+    <trkpt lat="49.291808" lon="19.077512">
+      <ele>620</ele>
+      <time>2022-01-18T00:07:36Z</time>
+    </trkpt>
+    <trkpt lat="49.291867" lon="19.077689">
+      <ele>620</ele>
+      <time>2022-01-18T00:07:49Z</time>
+    </trkpt>
+    <trkpt lat="49.291929" lon="19.077898">
+      <ele>619</ele>
+      <time>2022-01-18T00:08:05Z</time>
+    </trkpt>
+    <trkpt lat="49.291932" lon="19.078014">
+      <ele>619</ele>
+      <time>2022-01-18T00:08:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

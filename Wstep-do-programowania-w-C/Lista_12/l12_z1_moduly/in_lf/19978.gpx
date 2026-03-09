@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:19Z</time>
+    <bounds maxlat="49.750633" maxlon="18.94466" minlat="49.747521" minlon="18.942973"/>
+  </metadata>
+  <wpt lat="49.750633" lon="18.94466">
+    <ele>870</ele>
+    <name>Pod Blatnia</name>
+    <link href="https://mapa-turystyczna.pl/node/13474">
+      <text>Pod Blatnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.747521" lon="18.942973">
+    <ele>893</ele>
+    <name>Schronisko PTTK Na Blatniej</name>
+    <link href="https://mapa-turystyczna.pl/node/812">
+      <text>Schronisko PTTK Na Blatniej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Blatnia - Schronisko PTTK Na Blatniej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.750633,18.94466;49.748961500519535,18.94390849999999;49.747521,18.942973">
+    <text>Pod Blatnia - Schronisko PTTK Na Blatniej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.750633" lon="18.94466">
+      <ele>870</ele>
+      <time>2022-01-18T01:58:19Z</time>
+    </trkpt>
+    <trkpt lat="49.750251" lon="18.944541">
+      <ele>876</ele>
+      <time>2022-01-18T01:59:29Z</time>
+    </trkpt>
+    <trkpt lat="49.749836" lon="18.944382">
+      <ele>887</ele>
+      <time>2022-01-18T02:00:47Z</time>
+    </trkpt>
+    <trkpt lat="49.749539" lon="18.944294">
+      <ele>892</ele>
+      <time>2022-01-18T02:01:42Z</time>
+    </trkpt>
+    <trkpt lat="49.749357" lon="18.944258">
+      <ele>896</ele>
+      <time>2022-01-18T02:02:15Z</time>
+    </trkpt>
+    <trkpt lat="49.74927" lon="18.94422">
+      <ele>898</ele>
+      <time>2022-01-18T02:02:31Z</time>
+    </trkpt>
+    <trkpt lat="49.749186" lon="18.944136">
+      <ele>899</ele>
+      <time>2022-01-18T02:02:49Z</time>
+    </trkpt>
+    <trkpt lat="49.748737" lon="18.943681">
+      <ele>902</ele>
+      <time>2022-01-18T02:04:25Z</time>
+    </trkpt>
+    <trkpt lat="49.748448" lon="18.943405">
+      <ele>902</ele>
+      <time>2022-01-18T02:05:25Z</time>
+    </trkpt>
+    <trkpt lat="49.74826" lon="18.943285">
+      <ele>900</ele>
+      <time>2022-01-18T02:06:01Z</time>
+    </trkpt>
+    <trkpt lat="49.748154" lon="18.943196">
+      <ele>900</ele>
+      <time>2022-01-18T02:06:23Z</time>
+    </trkpt>
+    <trkpt lat="49.747952" lon="18.943121">
+      <ele>898</ele>
+      <time>2022-01-18T02:07:00Z</time>
+    </trkpt>
+    <trkpt lat="49.747521" lon="18.942973">
+      <ele>893</ele>
+      <time>2022-01-18T02:08:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:06Z</time>
+    <bounds maxlat="50.1314458" maxlon="19.6310234" minlat="50.1255101" minlon="19.6298003"/>
+  </metadata>
+  <wpt lat="50.12551" lon="19.6298">
+    <ele>258</ele>
+    <name>Krzeszowice, ul. Zwierzyniecka</name>
+    <link href="https://mapa-turystyczna.pl/node/4374">
+      <text>Krzeszowice, ul. Zwierzyniecka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.131446" lon="19.631023">
+    <ele>260</ele>
+    <name>Krzeszowice</name>
+    <link href="https://mapa-turystyczna.pl/node/4375">
+      <text>Krzeszowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krzeszowice, ul. Zwierzyniecka - Krzeszowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1255101,19.6298003;50.12847804202299,19.630411850000005;50.1314458,19.6310234">
+    <text>Krzeszowice, ul. Zwierzyniecka - Krzeszowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1255101" lon="19.6298003">
+      <ele>258</ele>
+      <time>2022-01-17T22:05:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1314458" lon="19.6310234">
+      <ele>260</ele>
+      <time>2022-01-17T22:15:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

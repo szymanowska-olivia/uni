@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:07Z</time>
+    <bounds maxlat="50.5721578" maxlon="16.1402544" minlat="50.571979" minlon="16.1398264"/>
+  </metadata>
+  <wpt lat="50.571982" lon="16.139826">
+    <ele>669</ele>
+    <name>Vyhlidkova basta, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13148">
+      <text>Vyhlidkova basta, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.572158" lon="16.140254">
+    <ele>668</ele>
+    <name>Skaly, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13147">
+      <text>Skaly, odb.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidkova basta, odb. - Skaly, odb.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5719824,16.1398264;50.572026650006045,16.140067799999994;50.5721578,16.1402544">
+    <text>Vyhlidkova basta, odb. - Skaly, odb.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5719824" lon="16.1398264">
+      <ele>669</ele>
+      <time>2022-01-18T01:49:07Z</time>
+    </trkpt>
+    <trkpt lat="50.571979" lon="16.1399551">
+      <ele>671</ele>
+      <time>2022-01-18T01:49:20Z</time>
+    </trkpt>
+    <trkpt lat="50.5720028" lon="16.1400624">
+      <ele>672</ele>
+      <time>2022-01-18T01:49:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5720505" lon="16.1400732">
+      <ele>670</ele>
+      <time>2022-01-18T01:49:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5721255" lon="16.1401214">
+      <ele>668</ele>
+      <time>2022-01-18T01:49:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5721578" lon="16.1402544">
+      <ele>668</ele>
+      <time>2022-01-18T01:50:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

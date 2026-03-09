@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:57Z</time>
+    <bounds maxlat="50.8328129" maxlon="15.5866599" minlat="50.8319062" minlon="15.5858558"/>
+  </metadata>
+  <wpt lat="50.832813" lon="15.585856">
+    <ele>658</ele>
+    <name>Michalowice, Zloty Widok</name>
+    <link href="https://mapa-turystyczna.pl/node/13362">
+      <text>Michalowice, Zloty Widok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.831906" lon="15.58666">
+    <ele>652</ele>
+    <name>Michalowice</name>
+    <link href="https://mapa-turystyczna.pl/node/1208">
+      <text>Michalowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Michalowice, Zloty Widok - Michalowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8328129,15.5858558;50.83242910026775,15.58633550000001;50.8319062,15.5866599">
+    <text>Michalowice, Zloty Widok - Michalowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8328129" lon="15.5858558">
+      <ele>658</ele>
+      <time>2022-01-18T01:54:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8326809" lon="15.5860057">
+      <ele>658</ele>
+      <time>2022-01-18T01:55:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8326137" lon="15.586129">
+      <ele>658</ele>
+      <time>2022-01-18T01:55:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8325872" lon="15.5862844">
+      <ele>658</ele>
+      <time>2022-01-18T01:55:37Z</time>
+    </trkpt>
+    <trkpt lat="50.832271" lon="15.5863866">
+      <ele>657</ele>
+      <time>2022-01-18T01:56:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8319062" lon="15.5866599">
+      <ele>652</ele>
+      <time>2022-01-18T01:56:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:44Z</time>
+    <bounds maxlat="50.6805184" maxlon="19.4575811" minlat="50.6773707" minlon="19.4487137"/>
+  </metadata>
+  <wpt lat="50.677371" lon="19.448714">
+    <ele>318</ele>
+    <name>Ludwinow</name>
+    <link href="https://mapa-turystyczna.pl/node/4522">
+      <text>Ludwinow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.680518" lon="19.457581">
+    <ele>324</ele>
+    <name>Ludwinow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4521">
+      <text>Ludwinow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ludwinow - Ludwinow, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6773707,19.4487137;50.67828420347475,19.452106049999998;50.6805184,19.4575811">
+    <text>Ludwinow - Ludwinow, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6773707" lon="19.4487137">
+      <ele>318</ele>
+      <time>2022-01-17T22:07:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6777131" lon="19.4498262">
+      <ele>318</ele>
+      <time>2022-01-17T22:08:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6788553" lon="19.4543859">
+      <ele>320</ele>
+      <time>2022-01-17T22:13:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6788825" lon="19.4547721">
+      <ele>320</ele>
+      <time>2022-01-17T22:13:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6788893" lon="19.4556734">
+      <ele>321</ele>
+      <time>2022-01-17T22:14:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6794562" lon="19.455682">
+      <ele>323</ele>
+      <time>2022-01-17T22:15:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6796797" lon="19.4558993">
+      <ele>324</ele>
+      <time>2022-01-17T22:15:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6805184" lon="19.4575811">
+      <ele>324</ele>
+      <time>2022-01-17T22:17:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:49Z</time>
+    <bounds maxlat="50.249541" maxlon="17.1924394" minlat="50.2492837" minlon="17.191624"/>
+  </metadata>
+  <wpt lat="50.249284" lon="17.191624">
+    <ele>602</ele>
+    <name>Priessnitzova sprcha, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6217">
+      <text>Priessnitzova sprcha, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.249541" lon="17.192439">
+    <ele>605</ele>
+    <name>Priessnitzova sprcha</name>
+    <link href="https://mapa-turystyczna.pl/node/6218">
+      <text>Priessnitzova sprcha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Priessnitzova sprcha, rozc. - Priessnitzova sprcha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2492837,17.191624;50.2494466500934,17.192251649999996;50.249541,17.1924394">
+    <text>Priessnitzova sprcha, rozc. - Priessnitzova sprcha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2492837" lon="17.191624">
+      <ele>602</ele>
+      <time>2022-01-17T22:47:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2493523" lon="17.1920639">
+      <ele>599</ele>
+      <time>2022-01-17T22:48:47Z</time>
+    </trkpt>
+    <trkpt lat="50.249541" lon="17.1924394">
+      <ele>605</ele>
+      <time>2022-01-17T22:49:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

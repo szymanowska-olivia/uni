@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:37Z</time>
+    <bounds maxlat="49.77776" maxlon="19.368298" minlat="49.775715" minlon="19.366105"/>
+  </metadata>
+  <wpt lat="49.77776" lon="19.366105">
+    <ele>883</ele>
+    <name>Potrojna</name>
+    <link href="https://mapa-turystyczna.pl/node/1003">
+      <text>Potrojna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.775715" lon="19.368298">
+    <ele>856</ele>
+    <name>Pod Potrojna</name>
+    <link href="https://mapa-turystyczna.pl/node/4644">
+      <text>Pod Potrojna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Potrojna - Pod Potrojna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.77776,19.366105;49.77696850077182,19.366948499999992;49.775715,19.368298">
+    <text>Potrojna - Pod Potrojna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.77776" lon="19.366105">
+      <ele>883</ele>
+      <time>2022-01-17T22:11:37Z</time>
+    </trkpt>
+    <trkpt lat="49.777719" lon="19.366161">
+      <ele>883</ele>
+      <time>2022-01-17T22:11:43Z</time>
+    </trkpt>
+    <trkpt lat="49.777675" lon="19.366225">
+      <ele>884</ele>
+      <time>2022-01-17T22:11:51Z</time>
+    </trkpt>
+    <trkpt lat="49.777604" lon="19.366303">
+      <ele>884</ele>
+      <time>2022-01-17T22:12:01Z</time>
+    </trkpt>
+    <trkpt lat="49.777528" lon="19.366413">
+      <ele>885</ele>
+      <time>2022-01-17T22:12:13Z</time>
+    </trkpt>
+    <trkpt lat="49.777424" lon="19.366522">
+      <ele>884</ele>
+      <time>2022-01-17T22:12:28Z</time>
+    </trkpt>
+    <trkpt lat="49.777242" lon="19.366659">
+      <ele>881</ele>
+      <time>2022-01-17T22:12:53Z</time>
+    </trkpt>
+    <trkpt lat="49.776695" lon="19.367238">
+      <ele>874</ele>
+      <time>2022-01-17T22:14:11Z</time>
+    </trkpt>
+    <trkpt lat="49.77627" lon="19.36756">
+      <ele>869</ele>
+      <time>2022-01-17T22:15:08Z</time>
+    </trkpt>
+    <trkpt lat="49.776109" lon="19.367699">
+      <ele>866</ele>
+      <time>2022-01-17T22:15:30Z</time>
+    </trkpt>
+    <trkpt lat="49.775918" lon="19.367948">
+      <ele>862</ele>
+      <time>2022-01-17T22:16:00Z</time>
+    </trkpt>
+    <trkpt lat="49.775772" lon="19.368147">
+      <ele>858</ele>
+      <time>2022-01-17T22:16:23Z</time>
+    </trkpt>
+    <trkpt lat="49.775715" lon="19.368298">
+      <ele>856</ele>
+      <time>2022-01-17T22:16:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

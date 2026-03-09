@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:31Z</time>
+    <bounds maxlat="50.2295178" maxlon="17.200368" minlat="50.2272288" minlon="17.1927452"/>
+  </metadata>
+  <wpt lat="50.227249" lon="17.192745">
+    <ele>454</ele>
+    <name>Jesenik, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6126">
+      <text>Jesenik, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229518" lon="17.200368">
+    <ele>436</ele>
+    <name>Jesenik, nemocnice</name>
+    <link href="https://mapa-turystyczna.pl/node/6202">
+      <text>Jesenik, nemocnice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesenik, zeleznicni stanice - Jesenik, nemocnice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2272494,17.1927452;50.22833730081029,17.19703139999999;50.2295178,17.200368">
+    <text>Jesenik, zeleznicni stanice - Jesenik, nemocnice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2272494" lon="17.1927452">
+      <ele>454</ele>
+      <time>2022-01-17T22:47:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2272288" lon="17.19311">
+      <ele>455</ele>
+      <time>2022-01-17T22:47:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2272597" lon="17.1932709">
+      <ele>455</ele>
+      <time>2022-01-17T22:48:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2274999" lon="17.1939361">
+      <ele>455</ele>
+      <time>2022-01-17T22:49:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2274802" lon="17.1940729">
+      <ele>454</ele>
+      <time>2022-01-17T22:49:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2278414" lon="17.1953469">
+      <ele>453</ele>
+      <time>2022-01-17T22:50:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2278448" lon="17.1954751">
+      <ele>453</ele>
+      <time>2022-01-17T22:51:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2280593" lon="17.1961838">
+      <ele>448</ele>
+      <time>2022-01-17T22:51:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2286153" lon="17.197879">
+      <ele>445</ele>
+      <time>2022-01-17T22:54:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2295178" lon="17.200368">
+      <ele>436</ele>
+      <time>2022-01-17T22:57:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:44Z</time>
+    <bounds maxlat="50.5774935" maxlon="15.9823823" minlat="50.5770608" minlon="15.9795982"/>
+  </metadata>
+  <wpt lat="50.577388" lon="15.979598">
+    <ele>418</ele>
+    <name>Lhota</name>
+    <link href="https://mapa-turystyczna.pl/node/6322">
+      <text>Lhota</text>
+    </link>
+  </wpt>
+  <wpt lat="50.577061" lon="15.982382">
+    <ele>432</ele>
+    <name>Lhota, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6323">
+      <text>Lhota, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lhota - Lhota, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5773879,15.9795982;50.57738615012234,15.98114580000001;50.5770608,15.9823823">
+    <text>Lhota - Lhota, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5773879" lon="15.9795982">
+      <ele>418</ele>
+      <time>2022-01-17T22:50:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5773708" lon="15.9799147">
+      <ele>416</ele>
+      <time>2022-01-17T22:51:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5774287" lon="15.9800649">
+      <ele>417</ele>
+      <time>2022-01-17T22:51:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5774935" lon="15.9804296">
+      <ele>417</ele>
+      <time>2022-01-17T22:52:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5774935" lon="15.9807086">
+      <ele>418</ele>
+      <time>2022-01-17T22:52:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5772788" lon="15.981583">
+      <ele>424</ele>
+      <time>2022-01-17T22:54:15Z</time>
+    </trkpt>
+    <trkpt lat="50.5771664" lon="15.9819585">
+      <ele>427</ele>
+      <time>2022-01-17T22:54:58Z</time>
+    </trkpt>
+    <trkpt lat="50.5770608" lon="15.9823823">
+      <ele>432</ele>
+      <time>2022-01-17T22:55:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

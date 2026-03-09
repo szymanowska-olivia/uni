@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:44Z</time>
+    <bounds maxlat="50.8484468" maxlon="15.5576975" minlat="50.8462249" minlon="15.5551278"/>
+  </metadata>
+  <wpt lat="50.848447" lon="15.557697">
+    <ele>595</ele>
+    <name>Szklarska Poreba Dolna PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2240">
+      <text>Szklarska Poreba Dolna PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="50.846225" lon="15.555128">
+    <ele>592</ele>
+    <name>Szklarska Poreba Dolna</name>
+    <link href="https://mapa-turystyczna.pl/node/2239">
+      <text>Szklarska Poreba Dolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szklarska Poreba Dolna PKP - Szklarska Poreba Dolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8484468,15.5576975;50.847318800815884,15.55624234999998;50.8462249,15.5551278">
+    <text>Szklarska Poreba Dolna PKP - Szklarska Poreba Dolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8484468" lon="15.5576975">
+      <ele>595</ele>
+      <time>2022-01-17T21:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8475947" lon="15.5565361">
+      <ele>597</ele>
+      <time>2022-01-17T21:27:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8470429" lon="15.5559486">
+      <ele>595</ele>
+      <time>2022-01-17T21:28:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8462249" lon="15.5551278">
+      <ele>592</ele>
+      <time>2022-01-17T21:30:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:39Z</time>
+    <bounds maxlat="50.5850586" maxlon="16.4090735" minlat="50.5847931" minlon="16.4087627"/>
+  </metadata>
+  <wpt lat="50.585059" lon="16.408763">
+    <ele>418</ele>
+    <name>Sonov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7826">
+      <text>Sonov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.584793" lon="16.409074">
+    <ele>416</ele>
+    <name>Sonov, obec, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/2427">
+      <text>Sonov, obec, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sonov, rozc. - Sonov, obec, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5850586,16.4087627;50.58492585018712,16.4089181;50.5847931,16.4090735">
+    <text>Sonov, rozc. - Sonov, obec, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5850586" lon="16.4087627">
+      <ele>418</ele>
+      <time>2022-01-17T23:28:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5847931" lon="16.4090735">
+      <ele>416</ele>
+      <time>2022-01-17T23:29:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

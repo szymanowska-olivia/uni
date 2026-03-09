@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:03Z</time>
+    <bounds maxlat="50.1623157" maxlon="16.2753063" minlat="50.1580405" minlon="16.2740457"/>
+  </metadata>
+  <wpt lat="50.158068" lon="16.274046">
+    <ele>309</ele>
+    <name>Rychnov nad Kneznou, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7682">
+      <text>Rychnov nad Kneznou, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.162316" lon="16.274072">
+    <ele>322</ele>
+    <name>Rychnov nad Kneznou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7683">
+      <text>Rychnov nad Kneznou, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rychnov nad Kneznou, zeleznicni stanice - Rychnov nad Kneznou, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.158068,16.2740457;50.15991355038737,16.275220550000007;50.1623157,16.2740725">
+    <text>Rychnov nad Kneznou, zeleznicni stanice - Rychnov nad Kneznou, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.158068" lon="16.2740457">
+      <ele>309</ele>
+      <time>2022-01-17T23:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1580405" lon="16.2742871">
+      <ele>309</ele>
+      <time>2022-01-17T23:25:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1584323" lon="16.2753063">
+      <ele>310</ele>
+      <time>2022-01-17T23:26:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1588447" lon="16.2748289">
+      <ele>309</ele>
+      <time>2022-01-17T23:27:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1591781" lon="16.2749898">
+      <ele>313</ele>
+      <time>2022-01-17T23:28:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1597211" lon="16.2751991">
+      <ele>313</ele>
+      <time>2022-01-17T23:29:40Z</time>
+    </trkpt>
+    <trkpt lat="50.160106" lon="16.275242">
+      <ele>316</ele>
+      <time>2022-01-17T23:30:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1604565" lon="16.2751454">
+      <ele>319</ele>
+      <time>2022-01-17T23:31:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1606971" lon="16.275022">
+      <ele>320</ele>
+      <time>2022-01-17T23:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1615666" lon="16.2744749">
+      <ele>319</ele>
+      <time>2022-01-17T23:33:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1623157" lon="16.2740725">
+      <ele>322</ele>
+      <time>2022-01-17T23:35:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

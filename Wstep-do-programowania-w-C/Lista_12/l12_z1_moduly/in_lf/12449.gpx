@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:24Z</time>
+    <bounds maxlat="53.8480282" maxlon="14.6130551" minlat="53.8453717" minlon="14.6116617"/>
+  </metadata>
+  <wpt lat="53.845372" lon="14.613055">
+    <ele>3</ele>
+    <name>Wolin, ul. Gryfitow</name>
+    <link href="https://mapa-turystyczna.pl/node/8570">
+      <text>Wolin, ul. Gryfitow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.848028" lon="14.611837">
+    <ele>2</ele>
+    <name>Wolin, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8564">
+      <text>Wolin, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin, ul. Gryfitow - Wolin, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8453717,14.6130551;53.84636365029911,14.611913850000029;53.8480282,14.6118367">
+    <text>Wolin, ul. Gryfitow - Wolin, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8453717" lon="14.6130551">
+      <ele>3</ele>
+      <time>2022-01-17T23:50:24Z</time>
+    </trkpt>
+    <trkpt lat="53.8454649" lon="14.6127024">
+      <ele>2</ele>
+      <time>2022-01-17T23:50:46Z</time>
+    </trkpt>
+    <trkpt lat="53.8458193" lon="14.6116617">
+      <ele>1</ele>
+      <time>2022-01-17T23:51:53Z</time>
+    </trkpt>
+    <trkpt lat="53.8462054" lon="14.6118763">
+      <ele>-0</ele>
+      <time>2022-01-17T23:52:31Z</time>
+    </trkpt>
+    <trkpt lat="53.8465219" lon="14.6119514">
+      <ele>1</ele>
+      <time>2022-01-17T23:53:01Z</time>
+    </trkpt>
+    <trkpt lat="53.8480282" lon="14.6118367">
+      <ele>2</ele>
+      <time>2022-01-17T23:55:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

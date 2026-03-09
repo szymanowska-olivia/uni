@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:23:52Z</time>
+    <bounds maxlat="49.5158382" maxlon="18.1550789" minlat="49.513395" minlon="18.1547141"/>
+  </metadata>
+  <wpt lat="49.515838" lon="18.154961">
+    <ele>706</ele>
+    <name>Pramen Jicinky</name>
+    <link href="https://mapa-turystyczna.pl/node/7586">
+      <text>Pramen Jicinky</text>
+    </link>
+  </wpt>
+  <wpt lat="49.513395" lon="18.154714">
+    <ele>695</ele>
+    <name>U Pramene Jicinky</name>
+    <link href="https://mapa-turystyczna.pl/node/7587">
+      <text>U Pramene Jicinky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pramen Jicinky - U Pramene Jicinky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5158382,18.1549609;49.514527500402814,18.155036000000013;49.513395,18.1547141">
+    <text>Pramen Jicinky - U Pramene Jicinky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5158382" lon="18.1549609">
+      <ele>706</ele>
+      <time>2022-01-17T23:23:52Z</time>
+    </trkpt>
+    <trkpt lat="49.514726" lon="18.1549931">
+      <ele>706</ele>
+      <time>2022-01-17T23:26:06Z</time>
+    </trkpt>
+    <trkpt lat="49.514329" lon="18.1550789">
+      <ele>702</ele>
+      <time>2022-01-17T23:26:55Z</time>
+    </trkpt>
+    <trkpt lat="49.513932" lon="18.1550092">
+      <ele>699</ele>
+      <time>2022-01-17T23:27:43Z</time>
+    </trkpt>
+    <trkpt lat="49.5137404" lon="18.1549072">
+      <ele>698</ele>
+      <time>2022-01-17T23:28:08Z</time>
+    </trkpt>
+    <trkpt lat="49.513395" lon="18.1547141">
+      <ele>695</ele>
+      <time>2022-01-17T23:28:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

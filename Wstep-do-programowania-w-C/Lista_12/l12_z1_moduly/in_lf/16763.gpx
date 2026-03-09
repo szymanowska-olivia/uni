@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:30Z</time>
+    <bounds maxlat="52.1441374" maxlon="21.2923255" minlat="52.1429565" minlon="21.2917103"/>
+  </metadata>
+  <wpt lat="52.144137" lon="21.29171">
+    <ele>101</ele>
+    <name>Mladz, Madralin</name>
+    <link href="https://mapa-turystyczna.pl/node/11452">
+      <text>Mladz, Madralin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.142956" lon="21.292326">
+    <ele>97</ele>
+    <name>Mladz, most na rzece Swider</name>
+    <link href="https://mapa-turystyczna.pl/node/11453">
+      <text>Mladz, most na rzece Swider</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mladz, Madralin - Mladz, most na rzece Swider</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1441374,21.2917103;52.143546953914246,21.2920179;52.1429565,21.2923255">
+    <text>Mladz, Madralin - Mladz, most na rzece Swider</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1441374" lon="21.2917103">
+      <ele>101</ele>
+      <time>2022-01-18T01:02:30Z</time>
+    </trkpt>
+    <trkpt lat="52.1429565" lon="21.2923255">
+      <ele>97</ele>
+      <time>2022-01-18T01:04:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:58Z</time>
+    <bounds maxlat="50.8212642" maxlon="15.0695657" minlat="50.8201749" minlon="15.0693182"/>
+  </metadata>
+  <wpt lat="50.821264" lon="15.069344">
+    <ele>415</ele>
+    <name>Fojtka, dolni rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8735">
+      <text>Fojtka, dolni rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.820175" lon="15.069566">
+    <ele>413</ele>
+    <name>Fojtka</name>
+    <link href="https://mapa-turystyczna.pl/node/8736">
+      <text>Fojtka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fojtka, dolni rozc. - Fojtka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8212642,15.0693444;50.82059325187405,15.069441949999995;50.8201749,15.0695657">
+    <text>Fojtka, dolni rozc. - Fojtka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8212642" lon="15.0693444">
+      <ele>415</ele>
+      <time>2022-01-17T23:54:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8210116" lon="15.0693182">
+      <ele>413</ele>
+      <time>2022-01-17T23:55:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8201749" lon="15.0695657">
+      <ele>413</ele>
+      <time>2022-01-17T23:56:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

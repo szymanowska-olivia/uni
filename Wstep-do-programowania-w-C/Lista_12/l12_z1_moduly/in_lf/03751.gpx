@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:57Z</time>
+    <bounds maxlat="50.3167778" maxlon="17.5736779" minlat="50.3031873" minlon="17.5669536"/>
+  </metadata>
+  <wpt lat="50.316778" lon="17.573678">
+    <ele>264</ele>
+    <name>Prudnik, Staszica</name>
+    <link href="https://mapa-turystyczna.pl/node/2682">
+      <text>Prudnik, Staszica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.303187" lon="17.567149">
+    <ele>263</ele>
+    <name>Lipy</name>
+    <link href="https://mapa-turystyczna.pl/node/2617">
+      <text>Lipy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prudnik, Staszica - Lipy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3167778,17.5736779;50.31001641455437,17.567861499999996;50.3031873,17.5671494">
+    <text>Prudnik, Staszica - Lipy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3167778" lon="17.5736779">
+      <ele>264</ele>
+      <time>2022-01-17T21:33:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3153113" lon="17.5729195">
+      <ele>256</ele>
+      <time>2022-01-17T21:36:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3139408" lon="17.572315">
+      <ele>252</ele>
+      <time>2022-01-17T21:38:49Z</time>
+    </trkpt>
+    <trkpt lat="50.313855" lon="17.5723703">
+      <ele>252</ele>
+      <time>2022-01-17T21:38:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3135076" lon="17.5712824">
+      <ele>252</ele>
+      <time>2022-01-17T21:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3130918" lon="17.5701194">
+      <ele>254</ele>
+      <time>2022-01-17T21:41:38Z</time>
+    </trkpt>
+    <trkpt lat="50.313024" lon="17.5698427">
+      <ele>254</ele>
+      <time>2022-01-17T21:41:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3129639" lon="17.5695037">
+      <ele>255</ele>
+      <time>2022-01-17T21:42:19Z</time>
+    </trkpt>
+    <trkpt lat="50.3127633" lon="17.5689072">
+      <ele>261</ele>
+      <time>2022-01-17T21:43:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3124941" lon="17.5687077">
+      <ele>262</ele>
+      <time>2022-01-17T21:43:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3075386" lon="17.5670153">
+      <ele>255</ele>
+      <time>2022-01-17T21:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3042752" lon="17.5669536">
+      <ele>262</ele>
+      <time>2022-01-17T21:57:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3031873" lon="17.5671494">
+      <ele>263</ele>
+      <time>2022-01-17T21:58:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

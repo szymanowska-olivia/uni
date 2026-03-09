@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:19Z</time>
+    <bounds maxlat="51.9183307" maxlon="15.4605119" minlat="51.9174702" minlon="15.4602982"/>
+  </metadata>
+  <wpt lat="51.918331" lon="15.460512">
+    <ele>200</ele>
+    <name>Rozdroze pod Jagodowym Wzgorzem</name>
+    <link href="https://mapa-turystyczna.pl/node/11141">
+      <text>Rozdroze pod Jagodowym Wzgorzem</text>
+    </link>
+  </wpt>
+  <wpt lat="51.91747" lon="15.460298">
+    <ele>204</ele>
+    <name>Rozejscie pod Gora Wilkanowska</name>
+    <link href="https://mapa-turystyczna.pl/node/11161">
+      <text>Rozejscie pod Gora Wilkanowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Jagodowym Wzgorzem - Rozejscie pod Gora Wilkanowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9183307,15.4605119;51.91793670009903,15.460436350000014;51.9174702,15.4602982">
+    <text>Rozdroze pod Jagodowym Wzgorzem - Rozejscie pod Gora Wilkanowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9183307" lon="15.4605119">
+      <ele>200</ele>
+      <time>2022-01-18T00:55:19Z</time>
+    </trkpt>
+    <trkpt lat="51.918031" lon="15.460431">
+      <ele>202</ele>
+      <time>2022-01-18T00:56:01Z</time>
+    </trkpt>
+    <trkpt lat="51.9178424" lon="15.4604417">
+      <ele>203</ele>
+      <time>2022-01-18T00:56:26Z</time>
+    </trkpt>
+    <trkpt lat="51.9177035" lon="15.4604095">
+      <ele>203</ele>
+      <time>2022-01-18T00:56:46Z</time>
+    </trkpt>
+    <trkpt lat="51.9174702" lon="15.4602982">
+      <ele>204</ele>
+      <time>2022-01-18T00:57:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

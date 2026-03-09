@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:47Z</time>
+    <bounds maxlat="49.3365463" maxlon="22.7121233" minlat="49.3251885" minlon="22.7071208"/>
+  </metadata>
+  <wpt lat="49.336546" lon="22.712123">
+    <ele>873</ele>
+    <name>Pod Jawornikami</name>
+    <link href="https://mapa-turystyczna.pl/node/9837">
+      <text>Pod Jawornikami</text>
+    </link>
+  </wpt>
+  <wpt lat="49.325189" lon="22.707592">
+    <ele>778</ele>
+    <name>Besida</name>
+    <link href="https://mapa-turystyczna.pl/node/3982">
+      <text>Besida</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jawornikami - Besida</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3365463,22.7121233;49.331240501143945,22.708537049999993;49.3251885,22.7075922">
+    <text>Pod Jawornikami - Besida</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3365463" lon="22.7121233">
+      <ele>873</ele>
+      <time>2022-01-18T00:21:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3328066" lon="22.7103824">
+      <ele>846</ele>
+      <time>2022-01-18T00:28:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3321634" lon="22.7098674">
+      <ele>857</ele>
+      <time>2022-01-18T00:29:22Z</time>
+    </trkpt>
+    <trkpt lat="49.3315761" lon="22.7088804">
+      <ele>863</ele>
+      <time>2022-01-18T00:30:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3309049" lon="22.7081937">
+      <ele>856</ele>
+      <time>2022-01-18T00:32:06Z</time>
+    </trkpt>
+    <trkpt lat="49.3302404" lon="22.7077961">
+      <ele>851</ele>
+      <time>2022-01-18T00:33:16Z</time>
+    </trkpt>
+    <trkpt lat="49.3295691" lon="22.7072811">
+      <ele>850</ele>
+      <time>2022-01-18T00:34:30Z</time>
+    </trkpt>
+    <trkpt lat="49.3288073" lon="22.7071208">
+      <ele>841</ele>
+      <time>2022-01-18T00:35:45Z</time>
+    </trkpt>
+    <trkpt lat="49.3270452" lon="22.70755">
+      <ele>811</ele>
+      <time>2022-01-18T00:38:42Z</time>
+    </trkpt>
+    <trkpt lat="49.3257866" lon="22.7077217">
+      <ele>787</ele>
+      <time>2022-01-18T00:40:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3251885" lon="22.7075922">
+      <ele>778</ele>
+      <time>2022-01-18T00:41:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

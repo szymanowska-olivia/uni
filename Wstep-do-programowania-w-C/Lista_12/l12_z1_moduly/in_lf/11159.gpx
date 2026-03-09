@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:32Z</time>
+    <bounds maxlat="49.616608" maxlon="18.898417" minlat="49.616012" minlon="18.898197"/>
+  </metadata>
+  <wpt lat="49.616012" lon="18.898417">
+    <ele>774</ele>
+    <name>Wajdowka</name>
+    <link href="https://mapa-turystyczna.pl/node/7862">
+      <text>Wajdowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.616608" lon="18.898197">
+    <ele>774</ele>
+    <name>Kozince</name>
+    <link href="https://mapa-turystyczna.pl/node/765">
+      <text>Kozince</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wajdowka - Kozince</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.616012,18.898417;49.616306500069825,18.898395500000014;49.616608,18.898197">
+    <text>Wajdowka - Kozince</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.616012" lon="18.898417">
+      <ele>774</ele>
+      <time>2022-01-17T23:29:32Z</time>
+    </trkpt>
+    <trkpt lat="49.616224" lon="18.898416">
+      <ele>775</ele>
+      <time>2022-01-17T23:29:52Z</time>
+    </trkpt>
+    <trkpt lat="49.616389" lon="18.898375">
+      <ele>776</ele>
+      <time>2022-01-17T23:30:08Z</time>
+    </trkpt>
+    <trkpt lat="49.616608" lon="18.898197">
+      <ele>774</ele>
+      <time>2022-01-17T23:30:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

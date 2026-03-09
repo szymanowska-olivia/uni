@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:29Z</time>
+    <bounds maxlat="52.4212144" maxlon="21.0386542" minlat="52.4198913" minlon="21.0319916"/>
+  </metadata>
+  <wpt lat="52.419891" lon="21.031992">
+    <ele>82</ele>
+    <name>Nieporet, Plac Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/11410">
+      <text>Nieporet, Plac Wolnosci</text>
+    </link>
+  </wpt>
+  <wpt lat="52.420598" lon="21.038654">
+    <ele>77</ele>
+    <name>Nieporet</name>
+    <link href="https://mapa-turystyczna.pl/node/11411">
+      <text>Nieporet</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nieporet, Plac Wolnosci - Nieporet</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4198913,21.0319916;52.42101650044414,21.03636190000001;52.420598,21.0386542">
+    <text>Nieporet, Plac Wolnosci - Nieporet</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4198913" lon="21.0319916">
+      <ele>82</ele>
+      <time>2022-01-18T01:01:29Z</time>
+    </trkpt>
+    <trkpt lat="52.4205274" lon="21.0352783">
+      <ele>79</ele>
+      <time>2022-01-18T01:05:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4208186" lon="21.0353534">
+      <ele>79</ele>
+      <time>2022-01-18T01:06:16Z</time>
+    </trkpt>
+    <trkpt lat="52.4212144" lon="21.0373704">
+      <ele>78</ele>
+      <time>2022-01-18T01:08:51Z</time>
+    </trkpt>
+    <trkpt lat="52.4205209" lon="21.0376815">
+      <ele>80</ele>
+      <time>2022-01-18T01:10:17Z</time>
+    </trkpt>
+    <trkpt lat="52.420598" lon="21.0386542">
+      <ele>77</ele>
+      <time>2022-01-18T01:11:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

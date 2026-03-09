@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:13Z</time>
+    <bounds maxlat="52.5318778" maxlon="21.0706278" minlat="52.5310942" minlon="21.0704993"/>
+  </metadata>
+  <wpt lat="52.531878" lon="21.070515">
+    <ele>91</ele>
+    <name>Wierzbica</name>
+    <link href="https://mapa-turystyczna.pl/node/12276">
+      <text>Wierzbica</text>
+    </link>
+  </wpt>
+  <wpt lat="52.531094" lon="21.070628">
+    <ele>88</ele>
+    <name>Wierzbica, rondo</name>
+    <link href="https://mapa-turystyczna.pl/node/12214">
+      <text>Wierzbica, rondo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wierzbica - Wierzbica, rondo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5318778,21.0705153;52.53166410051996,21.070507299999992;52.5310942,21.0706278">
+    <text>Wierzbica - Wierzbica, rondo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5318778" lon="21.0705153">
+      <ele>91</ele>
+      <time>2022-01-18T01:24:13Z</time>
+    </trkpt>
+    <trkpt lat="52.5314504" lon="21.0704993">
+      <ele>89</ele>
+      <time>2022-01-18T01:24:45Z</time>
+    </trkpt>
+    <trkpt lat="52.5313263" lon="21.0705368">
+      <ele>89</ele>
+      <time>2022-01-18T01:24:55Z</time>
+    </trkpt>
+    <trkpt lat="52.5312448" lon="21.0706119">
+      <ele>88</ele>
+      <time>2022-01-18T01:25:02Z</time>
+    </trkpt>
+    <trkpt lat="52.5310942" lon="21.0706278">
+      <ele>88</ele>
+      <time>2022-01-18T01:25:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:31Z</time>
+    <bounds maxlat="50.7918819" maxlon="15.5134034" minlat="50.7906428" minlon="15.5097878"/>
+  </metadata>
+  <wpt lat="50.791882" lon="15.513403">
+    <ele>1362</ele>
+    <name>Schronisko Szrenica</name>
+    <link href="https://mapa-turystyczna.pl/node/1360">
+      <text>Schronisko Szrenica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.790643" lon="15.509788">
+    <ele>1314</ele>
+    <name>Graniczna Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/1295">
+      <text>Graniczna Laka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko Szrenica - Graniczna Laka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7918819,15.5134034;50.79132525028159,15.51231310000003;50.7906428,15.5097878">
+    <text>Schronisko Szrenica - Graniczna Laka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7918819" lon="15.5134034">
+      <ele>1362</ele>
+      <time>2022-01-17T21:07:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7915611" lon="15.5134034">
+      <ele>1357</ele>
+      <time>2022-01-17T21:08:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7914507" lon="15.5133615">
+      <ele>1355</ele>
+      <time>2022-01-17T21:08:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7914206" lon="15.5133129">
+      <ele>1353</ele>
+      <time>2022-01-17T21:08:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7914294" lon="15.5131473">
+      <ele>1351</ele>
+      <time>2022-01-17T21:08:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7914686" lon="15.5130407">
+      <ele>1349</ele>
+      <time>2022-01-17T21:08:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7914875" lon="15.5128804">
+      <ele>1347</ele>
+      <time>2022-01-17T21:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.791163" lon="15.5117458">
+      <ele>1331</ele>
+      <time>2022-01-17T21:10:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7906428" lon="15.5097878">
+      <ele>1314</ele>
+      <time>2022-01-17T21:12:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

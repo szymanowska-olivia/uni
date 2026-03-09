@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:11Z</time>
+    <bounds maxlat="50.7916222" maxlon="15.1588611" minlat="50.7903539" minlon="15.1574127"/>
+  </metadata>
+  <wpt lat="50.791622" lon="15.158861">
+    <ele>848</ele>
+    <name>Kralovka, chata, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/8831">
+      <text>Kralovka, chata, rozhledna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.790354" lon="15.157413">
+    <ele>822</ele>
+    <name>Pod Kralovkou</name>
+    <link href="https://mapa-turystyczna.pl/node/8830">
+      <text>Pod Kralovkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralovka, chata, rozhledna - Pod Kralovkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7916222,15.1588611;50.79113280005422,15.158071549999987;50.7903539,15.1574127">
+    <text>Kralovka, chata, rozhledna - Pod Kralovkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7916222" lon="15.1588611">
+      <ele>848</ele>
+      <time>2022-01-17T23:57:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7914448" lon="15.1581949">
+      <ele>848</ele>
+      <time>2022-01-17T23:57:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7912888" lon="15.1582271">
+      <ele>845</ele>
+      <time>2022-01-17T23:58:15Z</time>
+    </trkpt>
+    <trkpt lat="50.791204" lon="15.1581145">
+      <ele>844</ele>
+      <time>2022-01-17T23:58:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7910616" lon="15.1580286">
+      <ele>841</ele>
+      <time>2022-01-17T23:58:43Z</time>
+    </trkpt>
+    <trkpt lat="50.790848" lon="15.1579535">
+      <ele>837</ele>
+      <time>2022-01-17T23:59:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7906784" lon="15.1577658">
+      <ele>833</ele>
+      <time>2022-01-17T23:59:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7904071" lon="15.1575298">
+      <ele>824</ele>
+      <time>2022-01-18T00:00:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7903539" lon="15.1574127">
+      <ele>822</ele>
+      <time>2022-01-18T00:00:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

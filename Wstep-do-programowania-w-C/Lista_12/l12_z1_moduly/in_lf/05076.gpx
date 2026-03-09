@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:50:35Z</time>
+    <bounds maxlat="51.0450027" maxlon="15.3820717" minlat="51.0402201" minlon="15.3747762"/>
+  </metadata>
+  <wpt lat="51.045003" lon="15.374776">
+    <ele>311</ele>
+    <name>Biedrzychowice, palac</name>
+    <link href="https://mapa-turystyczna.pl/node/3552">
+      <text>Biedrzychowice, palac</text>
+    </link>
+  </wpt>
+  <wpt lat="51.04022" lon="15.382072">
+    <ele>325</ele>
+    <name>Biedrzychowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3425">
+      <text>Biedrzychowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Biedrzychowice, palac - Biedrzychowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0450027,15.3747762;51.04281975067699,15.378786999999994;51.0402201,15.3820717">
+    <text>Biedrzychowice, palac - Biedrzychowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0450027" lon="15.3747762">
+      <ele>311</ele>
+      <time>2022-01-17T21:50:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0444414" lon="15.3759448">
+      <ele>310</ele>
+      <time>2022-01-17T21:52:39Z</time>
+    </trkpt>
+    <trkpt lat="51.0440517" lon="15.3768924">
+      <ele>313</ele>
+      <time>2022-01-17T21:54:15Z</time>
+    </trkpt>
+    <trkpt lat="51.0430702" lon="15.3784789">
+      <ele>316</ele>
+      <time>2022-01-17T21:57:24Z</time>
+    </trkpt>
+    <trkpt lat="51.0425693" lon="15.3790951">
+      <ele>319</ele>
+      <time>2022-01-17T21:58:49Z</time>
+    </trkpt>
+    <trkpt lat="51.0415499" lon="15.3801864">
+      <ele>320</ele>
+      <time>2022-01-17T22:01:34Z</time>
+    </trkpt>
+    <trkpt lat="51.040885" lon="15.3809681">
+      <ele>323</ele>
+      <time>2022-01-17T22:03:26Z</time>
+    </trkpt>
+    <trkpt lat="51.0402201" lon="15.3820717">
+      <ele>325</ele>
+      <time>2022-01-17T22:05:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

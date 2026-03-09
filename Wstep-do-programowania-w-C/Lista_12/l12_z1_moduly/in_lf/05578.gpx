@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:52Z</time>
+    <bounds maxlat="50.7657057" maxlon="15.5355992" minlat="50.7638039" minlon="15.5350649"/>
+  </metadata>
+  <wpt lat="50.763804" lon="15.535065">
+    <ele>1337</ele>
+    <name>U ctyr panu</name>
+    <link href="https://mapa-turystyczna.pl/node/1252">
+      <text>U ctyr panu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.765706" lon="15.535599">
+    <ele>1336</ele>
+    <name>Mumlavska louka</name>
+    <link href="https://mapa-turystyczna.pl/node/3905">
+      <text>Mumlavska louka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U ctyr panu - Mumlavska louka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7638039,15.5350649;50.765211402611094,15.53553589999999;50.7657057,15.5355992">
+    <text>U ctyr panu - Mumlavska louka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7638039" lon="15.5350649">
+      <ele>1337</ele>
+      <time>2022-01-17T21:57:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7647171" lon="15.5354726">
+      <ele>1334</ele>
+      <time>2022-01-17T21:59:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7657057" lon="15.5355992">
+      <ele>1336</ele>
+      <time>2022-01-17T22:00:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

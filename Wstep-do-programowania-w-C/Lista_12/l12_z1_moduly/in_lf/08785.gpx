@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:08Z</time>
+    <bounds maxlat="50.2633526" maxlon="17.1653277" minlat="50.2623889" minlon="17.1646947"/>
+  </metadata>
+  <wpt lat="50.262389" lon="17.164695">
+    <ele>961</ele>
+    <name>Pramen Pokroku, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6110">
+      <text>Pramen Pokroku, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.263353" lon="17.165328">
+    <ele>947</ele>
+    <name>Ripperuv kamen</name>
+    <link href="https://mapa-turystyczna.pl/node/6109">
+      <text>Ripperuv kamen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pramen Pokroku, rozc. - Ripperuv kamen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2623889,17.1646947;50.262754150266886,17.164960199999964;50.2633526,17.1653277">
+    <text>Pramen Pokroku, rozc. - Ripperuv kamen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2623889" lon="17.1646947">
+      <ele>961</ele>
+      <time>2022-01-17T22:45:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2625947" lon="17.1648663">
+      <ele>958</ele>
+      <time>2022-01-17T22:45:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2629136" lon="17.1650541">
+      <ele>953</ele>
+      <time>2022-01-17T22:46:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2631571" lon="17.1651828">
+      <ele>949</ele>
+      <time>2022-01-17T22:46:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2633526" lon="17.1653277">
+      <ele>947</ele>
+      <time>2022-01-17T22:47:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

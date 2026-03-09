@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:15:32Z</time>
+    <bounds maxlat="49.201411" maxlon="20.070888" minlat="49.201182" minlon="20.07081"/>
+  </metadata>
+  <wpt lat="49.201411" lon="20.07081">
+    <ele>1406</ele>
+    <name>Schronisko PTTK przy Morskim Oku</name>
+    <link href="https://mapa-turystyczna.pl/node/278">
+      <text>Schronisko PTTK przy Morskim Oku</text>
+    </link>
+  </wpt>
+  <wpt lat="49.201182" lon="20.070832">
+    <ele>1400</ele>
+    <name>Morskie Oko</name>
+    <link href="https://mapa-turystyczna.pl/node/9602">
+      <text>Morskie Oko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK przy Morskim Oku - Morskie Oko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.201411,20.07081;49.2012865000071,20.07086300000001;49.201182,20.070832">
+    <text>Schronisko PTTK przy Morskim Oku - Morskie Oko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.201411" lon="20.07081">
+      <ele>1406</ele>
+      <time>2022-01-18T00:15:32Z</time>
+    </trkpt>
+    <trkpt lat="49.201313" lon="20.070838">
+      <ele>1403</ele>
+      <time>2022-01-18T00:15:56Z</time>
+    </trkpt>
+    <trkpt lat="49.20126" lon="20.070888">
+      <ele>1402</ele>
+      <time>2022-01-18T00:16:11Z</time>
+    </trkpt>
+    <trkpt lat="49.201229" lon="20.070882">
+      <ele>1401</ele>
+      <time>2022-01-18T00:16:18Z</time>
+    </trkpt>
+    <trkpt lat="49.201182" lon="20.070832">
+      <ele>1400</ele>
+      <time>2022-01-18T00:16:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

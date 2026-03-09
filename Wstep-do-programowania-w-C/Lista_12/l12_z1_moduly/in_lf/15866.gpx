@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:00Z</time>
+    <bounds maxlat="54.5178371" maxlon="18.3254635" minlat="54.5161338" minlon="18.3244497"/>
+  </metadata>
+  <wpt lat="54.517837" lon="18.325464">
+    <ele>137</ele>
+    <name>Skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10857">
+      <text>Skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.516134" lon="18.32445">
+    <ele>131</ele>
+    <name>Piekielko</name>
+    <link href="https://mapa-turystyczna.pl/node/10856">
+      <text>Piekielko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / czarny - Piekielko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.5178371,18.3254635;54.51729685357313,18.32509605000002;54.5161338,18.3244497">
+    <text>Skrzyzowanie szlakow czerwony / czarny - Piekielko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.5178371" lon="18.3254635">
+      <ele>137</ele>
+      <time>2022-01-18T00:47:00Z</time>
+    </trkpt>
+    <trkpt lat="54.5167566" lon="18.3247286">
+      <ele>139</ele>
+      <time>2022-01-18T00:48:56Z</time>
+    </trkpt>
+    <trkpt lat="54.5161338" lon="18.3244497">
+      <ele>131</ele>
+      <time>2022-01-18T00:50:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

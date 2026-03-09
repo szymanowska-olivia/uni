@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:36Z</time>
+    <bounds maxlat="49.9424557" maxlon="18.5565363" minlat="49.9394118" minlon="18.5551771"/>
+  </metadata>
+  <wpt lat="49.939412" lon="18.555177">
+    <ele>225</ele>
+    <name>Moszczenica, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9541">
+      <text>Moszczenica, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="49.942456" lon="18.556536">
+    <ele>240</ele>
+    <name>Jastrzebie Zdroj, ul. Armii Krajowej</name>
+    <link href="https://mapa-turystyczna.pl/node/9866">
+      <text>Jastrzebie Zdroj, ul. Armii Krajowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Moszczenica, kosciol - Jastrzebie Zdroj, ul. Armii Krajowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9394118,18.5551771;49.9403552592375,18.555446000000025;49.9424557,18.5565363">
+    <text>Moszczenica, kosciol - Jastrzebie Zdroj, ul. Armii Krajowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9394118" lon="18.5551771">
+      <ele>225</ele>
+      <time>2022-01-18T00:22:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9412987" lon="18.5557149">
+      <ele>236</ele>
+      <time>2022-01-18T00:25:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9414678" lon="18.5558013">
+      <ele>237</ele>
+      <time>2022-01-18T00:25:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9424557" lon="18.5565363">
+      <ele>240</ele>
+      <time>2022-01-18T00:27:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

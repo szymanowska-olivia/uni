@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:49Z</time>
+    <bounds maxlat="50.6544675" maxlon="15.7488155" minlat="50.64957" minlon="15.7474047"/>
+  </metadata>
+  <wpt lat="50.654468" lon="15.747405">
+    <ele>1260</ele>
+    <name>Cerna bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1098">
+      <text>Cerna bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.64957" lon="15.748317">
+    <ele>1272</ele>
+    <name>Cerna hora, Sokolska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1099">
+      <text>Cerna hora, Sokolska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerna bouda - Cerna hora, Sokolska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6544675,15.7474047;50.6518194528808,15.748708249999979;50.64957,15.7483166">
+    <text>Cerna bouda - Cerna hora, Sokolska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6544675" lon="15.7474047">
+      <ele>1260</ele>
+      <time>2022-01-17T21:00:49Z</time>
+    </trkpt>
+    <trkpt lat="50.654116" lon="15.747638">
+      <ele>1268</ele>
+      <time>2022-01-17T21:01:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6539618" lon="15.7477748">
+      <ele>1271</ele>
+      <time>2022-01-17T21:01:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6531413" lon="15.7485607">
+      <ele>1279</ele>
+      <time>2022-01-17T21:03:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6527595" lon="15.7486922">
+      <ele>1280</ele>
+      <time>2022-01-17T21:04:33Z</time>
+    </trkpt>
+    <trkpt lat="50.6523397" lon="15.7488155">
+      <ele>1281</ele>
+      <time>2022-01-17T21:05:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6512992" lon="15.748601">
+      <ele>1280</ele>
+      <time>2022-01-17T21:07:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6502431" lon="15.7484186">
+      <ele>1277</ele>
+      <time>2022-01-17T21:09:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6499047" lon="15.7483757">
+      <ele>1275</ele>
+      <time>2022-01-17T21:10:10Z</time>
+    </trkpt>
+    <trkpt lat="50.64957" lon="15.7483166">
+      <ele>1272</ele>
+      <time>2022-01-17T21:10:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:08Z</time>
+    <bounds maxlat="52.0846692" maxlon="21.1192073" minlat="52.0826814" minlon="21.1166828"/>
+  </metadata>
+  <wpt lat="52.084669" lon="21.116894">
+    <ele>93</ele>
+    <name>Konstancin-Jeziorna, Park Zdrojowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11912">
+      <text>Konstancin-Jeziorna, Park Zdrojowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.082681" lon="21.119207">
+    <ele>94</ele>
+    <name>Konstancin-Jeziorna, ul. Batorego</name>
+    <link href="https://mapa-turystyczna.pl/node/11935">
+      <text>Konstancin-Jeziorna, ul. Batorego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna, Park Zdrojowy - Konstancin-Jeziorna, ul. Batorego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0846692,21.1168937;52.08306315163265,21.11794504999999;52.0826814,21.1192073">
+    <text>Konstancin-Jeziorna, Park Zdrojowy - Konstancin-Jeziorna, ul. Batorego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0846692" lon="21.1168937">
+      <ele>93</ele>
+      <time>2022-01-18T01:16:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0844015" lon="21.1168043">
+      <ele>95</ele>
+      <time>2022-01-18T01:16:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0841668" lon="21.1167686">
+      <ele>95</ele>
+      <time>2022-01-18T01:17:00Z</time>
+    </trkpt>
+    <trkpt lat="52.0834449" lon="21.1166828">
+      <ele>95</ele>
+      <time>2022-01-18T01:18:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0826814" lon="21.1192073">
+      <ele>94</ele>
+      <time>2022-01-18T01:21:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

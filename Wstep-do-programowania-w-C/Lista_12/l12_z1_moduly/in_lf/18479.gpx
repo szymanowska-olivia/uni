@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:36Z</time>
+    <bounds maxlat="50.447115" maxlon="18.8633682" minlat="50.4462127" minlon="18.8619793"/>
+  </metadata>
+  <wpt lat="50.447115" lon="18.863368">
+    <ele>296</ele>
+    <name>Tarnowskie Gory, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9496">
+      <text>Tarnowskie Gory, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.446213" lon="18.861979">
+    <ele>298</ele>
+    <name>Tarnowskie Gory, ul. Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12513">
+      <text>Tarnowskie Gory, ul. Pilsudskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, dworzec kolejowy - Tarnowskie Gory, ul. Pilsudskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.447115,18.8633682;50.446707450146754,18.86257944999997;50.4462127,18.8619793">
+    <text>Tarnowskie Gory, dworzec kolejowy - Tarnowskie Gory, ul. Pilsudskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.447115" lon="18.8633682">
+      <ele>296</ele>
+      <time>2022-01-18T01:31:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4469996" lon="18.8631186">
+      <ele>297</ele>
+      <time>2022-01-18T01:31:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4469449" lon="18.8629791">
+      <ele>296</ele>
+      <time>2022-01-18T01:32:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4469312" lon="18.8628772">
+      <ele>296</ele>
+      <time>2022-01-18T01:32:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4468766" lon="18.8628718">
+      <ele>296</ele>
+      <time>2022-01-18T01:32:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4468253" lon="18.8628289">
+      <ele>296</ele>
+      <time>2022-01-18T01:32:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4465896" lon="18.86233">
+      <ele>297</ele>
+      <time>2022-01-18T01:32:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4462127" lon="18.8619793">
+      <ele>298</ele>
+      <time>2022-01-18T01:33:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

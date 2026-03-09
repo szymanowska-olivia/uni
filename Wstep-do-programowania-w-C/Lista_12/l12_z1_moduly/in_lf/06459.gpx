@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:30Z</time>
+    <bounds maxlat="50.7229386" maxlon="19.3293822" minlat="50.7214464" minlon="19.3237817"/>
+  </metadata>
+  <wpt lat="50.721446" lon="19.329382">
+    <ele>336</ele>
+    <name>Zrebice</name>
+    <link href="https://mapa-turystyczna.pl/node/4511">
+      <text>Zrebice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.722751" lon="19.323782">
+    <ele>330</ele>
+    <name>Zrebice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4512">
+      <text>Zrebice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrebice - Zrebice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7214464,19.3293822;50.722896350019056,19.327373299999987;50.7227506,19.3237817">
+    <text>Zrebice - Zrebice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7214464" lon="19.3293822">
+      <ele>336</ele>
+      <time>2022-01-17T22:07:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7219979" lon="19.3290528">
+      <ele>333</ele>
+      <time>2022-01-17T22:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7223394" lon="19.3288033">
+      <ele>333</ele>
+      <time>2022-01-17T22:09:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7229386" lon="19.328691">
+      <ele>334</ele>
+      <time>2022-01-17T22:10:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7228541" lon="19.3260556">
+      <ele>331</ele>
+      <time>2022-01-17T22:14:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7227506" lon="19.3237817">
+      <ele>330</ele>
+      <time>2022-01-17T22:17:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

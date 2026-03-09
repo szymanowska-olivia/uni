@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:34Z</time>
+    <bounds maxlat="51.3157539" maxlon="16.9647502" minlat="51.3150065" minlon="16.9620323"/>
+  </metadata>
+  <wpt lat="51.315754" lon="16.962032">
+    <ele>219</ele>
+    <name>Pod Kuraszkowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/10523">
+      <text>Pod Kuraszkowa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="51.315007" lon="16.96475">
+    <ele>222</ele>
+    <name>Skrzyzowanie pod Gniezdzcem</name>
+    <link href="https://mapa-turystyczna.pl/node/10522">
+      <text>Skrzyzowanie pod Gniezdzcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kuraszkowa Gora - Skrzyzowanie pod Gniezdzcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3157539,16.9620323;51.31531150008286,16.963392799999983;51.3150065,16.9647502">
+    <text>Pod Kuraszkowa Gora - Skrzyzowanie pod Gniezdzcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3157539" lon="16.9620323">
+      <ele>219</ele>
+      <time>2022-01-18T00:38:34Z</time>
+    </trkpt>
+    <trkpt lat="51.3153987" lon="16.9630763">
+      <ele>218</ele>
+      <time>2022-01-18T00:39:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3152243" lon="16.9637093">
+      <ele>219</ele>
+      <time>2022-01-18T00:40:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3150065" lon="16.9647502">
+      <ele>222</ele>
+      <time>2022-01-18T00:41:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

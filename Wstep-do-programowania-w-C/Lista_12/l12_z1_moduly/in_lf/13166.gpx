@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:27Z</time>
+    <bounds maxlat="49.35235" maxlon="21.8268313" minlat="49.3485759" minlon="21.8214669"/>
+  </metadata>
+  <wpt lat="49.348576" lon="21.826831">
+    <ele>432</ele>
+    <name>Certizne</name>
+    <link href="https://mapa-turystyczna.pl/node/9079">
+      <text>Certizne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.35235" lon="21.821467">
+    <ele>441</ele>
+    <name>Certizne, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9080">
+      <text>Certizne, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Certizne - Certizne, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3485759,21.8268313;49.35077360264568,21.824474300000002;49.35235,21.8214669">
+    <text>Certizne - Certizne, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3485759" lon="21.8268313">
+      <ele>432</ele>
+      <time>2022-01-18T00:03:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3492359" lon="21.8265021">
+      <ele>433</ele>
+      <time>2022-01-18T00:04:45Z</time>
+    </trkpt>
+    <trkpt lat="49.3502634" lon="21.8252897">
+      <ele>436</ele>
+      <time>2022-01-18T00:07:11Z</time>
+    </trkpt>
+    <trkpt lat="49.3512838" lon="21.8236589">
+      <ele>438</ele>
+      <time>2022-01-18T00:09:57Z</time>
+    </trkpt>
+    <trkpt lat="49.3519058" lon="21.822865">
+      <ele>439</ele>
+      <time>2022-01-18T00:11:29Z</time>
+    </trkpt>
+    <trkpt lat="49.3522552" lon="21.8222535">
+      <ele>440</ele>
+      <time>2022-01-18T00:12:28Z</time>
+    </trkpt>
+    <trkpt lat="49.35235" lon="21.8214669">
+      <ele>441</ele>
+      <time>2022-01-18T00:13:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

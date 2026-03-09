@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:52Z</time>
+    <bounds maxlat="50.451971" maxlon="16.4228422" minlat="50.4496105" minlon="16.4203227"/>
+  </metadata>
+  <wpt lat="50.44961" lon="16.422842">
+    <ele>679</ele>
+    <name>Skalne Grzyby, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11666">
+      <text>Skalne Grzyby, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.451971" lon="16.420323">
+    <ele>692</ele>
+    <name>Pod Dzikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1785">
+      <text>Pod Dzikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalne Grzyby, parking - Pod Dzikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4496105,16.4228422;50.45077270080794,16.421475349999984;50.451971,16.4203227">
+    <text>Skalne Grzyby, parking - Pod Dzikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4496105" lon="16.4228422">
+      <ele>679</ele>
+      <time>2022-01-18T01:07:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4496431" lon="16.4228278">
+      <ele>679</ele>
+      <time>2022-01-18T01:07:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4497921" lon="16.4226975">
+      <ele>681</ele>
+      <time>2022-01-18T01:08:13Z</time>
+    </trkpt>
+    <trkpt lat="50.450056" lon="16.4224134">
+      <ele>686</ele>
+      <time>2022-01-18T01:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4504962" lon="16.421881">
+      <ele>689</ele>
+      <time>2022-01-18T01:09:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4510492" lon="16.4210697">
+      <ele>689</ele>
+      <time>2022-01-18T01:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4513122" lon="16.4206429">
+      <ele>693</ele>
+      <time>2022-01-18T01:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.451575" lon="16.4204709">
+      <ele>693</ele>
+      <time>2022-01-18T01:12:10Z</time>
+    </trkpt>
+    <trkpt lat="50.451971" lon="16.4203227">
+      <ele>692</ele>
+      <time>2022-01-18T01:12:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

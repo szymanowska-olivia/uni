@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:46Z</time>
+    <bounds maxlat="50.8919916" maxlon="16.7290529" minlat="50.8885688" minlon="16.7274383"/>
+  </metadata>
+  <wpt lat="50.888569" lon="16.729053">
+    <ele>373</ele>
+    <name>Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11700">
+      <text>Pod Wiezyca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.891992" lon="16.727438">
+    <ele>294</ele>
+    <name>Przelecz pod Wiezyca, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8039">
+      <text>Przelecz pod Wiezyca, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wiezyca - Przelecz pod Wiezyca, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8885688,16.7290529;50.8899341025889,16.728632749999992;50.8919916,16.7274383">
+    <text>Pod Wiezyca - Przelecz pod Wiezyca, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8885688" lon="16.7290529">
+      <ele>373</ele>
+      <time>2022-01-18T01:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8888119" lon="16.7290356">
+      <ele>365</ele>
+      <time>2022-01-18T01:09:07Z</time>
+    </trkpt>
+    <trkpt lat="50.889443" lon="16.7289558">
+      <ele>345</ele>
+      <time>2022-01-18T01:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8904252" lon="16.7283097">
+      <ele>318</ele>
+      <time>2022-01-18T01:11:29Z</time>
+    </trkpt>
+    <trkpt lat="50.891245" lon="16.727846">
+      <ele>307</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8919048" lon="16.7274665">
+      <ele>296</ele>
+      <time>2022-01-18T01:13:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8919916" lon="16.7274383">
+      <ele>294</ele>
+      <time>2022-01-18T01:13:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

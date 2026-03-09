@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:58Z</time>
+    <bounds maxlat="50.2303242" maxlon="17.0336687" minlat="50.2286724" minlon="17.028358"/>
+  </metadata>
+  <wpt lat="50.230036" lon="17.028358">
+    <ele>1109</ele>
+    <name>Przelecz Trzech Granic</name>
+    <link href="https://mapa-turystyczna.pl/node/2152">
+      <text>Przelecz Trzech Granic</text>
+    </link>
+  </wpt>
+  <wpt lat="50.228672" lon="17.033669">
+    <ele>1127</ele>
+    <name>Smrk</name>
+    <link href="https://mapa-turystyczna.pl/node/9845">
+      <text>Smrk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Trzech Granic - Smrk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.230036,17.028358;50.230211000134375,17.030337449999998;50.2286724,17.0336687">
+    <text>Przelecz Trzech Granic - Smrk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.230036" lon="17.028358">
+      <ele>1109</ele>
+      <time>2022-01-18T00:21:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2300978" lon="17.028873">
+      <ele>1110</ele>
+      <time>2022-01-18T00:22:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2303242" lon="17.0318019">
+      <ele>1122</ele>
+      <time>2022-01-18T00:26:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2301705" lon="17.0324767">
+      <ele>1125</ele>
+      <time>2022-01-18T00:28:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2300154" lon="17.032907">
+      <ele>1126</ele>
+      <time>2022-01-18T00:28:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2296859" lon="17.0331538">
+      <ele>1128</ele>
+      <time>2022-01-18T00:29:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2294114" lon="17.0332932">
+      <ele>1130</ele>
+      <time>2022-01-18T00:30:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2286724" lon="17.0336687">
+      <ele>1127</ele>
+      <time>2022-01-18T00:31:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:08Z</time>
+    <bounds maxlat="50.7377588" maxlon="16.9319326" minlat="50.7308037" minlon="16.9275566"/>
+  </metadata>
+  <wpt lat="50.737759" lon="16.931933">
+    <ele>189</ele>
+    <name>Rozdroze nad Mala Sleza</name>
+    <link href="https://mapa-turystyczna.pl/node/3763">
+      <text>Rozdroze nad Mala Sleza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.730804" lon="16.927588">
+    <ele>210</ele>
+    <name>Kowalskie</name>
+    <link href="https://mapa-turystyczna.pl/node/3759">
+      <text>Kowalskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze nad Mala Sleza - Kowalskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7377588,16.9319326;50.73424006514341,16.928810800000008;50.7308037,16.9275883">
+    <text>Rozdroze nad Mala Sleza - Kowalskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7377588" lon="16.9319326">
+      <ele>189</ele>
+      <time>2022-01-17T21:54:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7354311" lon="16.929787">
+      <ele>202</ele>
+      <time>2022-01-17T21:59:26Z</time>
+    </trkpt>
+    <trkpt lat="50.733049" lon="16.9278346">
+      <ele>215</ele>
+      <time>2022-01-17T22:04:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7320503" lon="16.9276337">
+      <ele>216</ele>
+      <time>2022-01-17T22:06:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7312701" lon="16.9275566">
+      <ele>214</ele>
+      <time>2022-01-17T22:08:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7310807" lon="16.9276137">
+      <ele>212</ele>
+      <time>2022-01-17T22:08:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7308037" lon="16.9275883">
+      <ele>210</ele>
+      <time>2022-01-17T22:09:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:48Z</time>
+    <bounds maxlat="50.7808621" maxlon="16.3079864" minlat="50.7801599" minlon="16.3070852"/>
+  </metadata>
+  <wpt lat="50.78016" lon="16.307085">
+    <ele>514</ele>
+    <name>Nowy Poniatow</name>
+    <link href="https://mapa-turystyczna.pl/node/2547">
+      <text>Nowy Poniatow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.780862" lon="16.307858">
+    <ele>528</ele>
+    <name>Rozdroze pod Lisim Kamieniem</name>
+    <link href="https://mapa-turystyczna.pl/node/2608">
+      <text>Rozdroze pod Lisim Kamieniem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowy Poniatow - Rozdroze pod Lisim Kamieniem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7801599,16.3070852;50.78035025025473,16.307884449999992;50.7808621,16.3078576">
+    <text>Nowy Poniatow - Rozdroze pod Lisim Kamieniem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7801599" lon="16.3070852">
+      <ele>514</ele>
+      <time>2022-01-17T21:33:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7801993" lon="16.3074231">
+      <ele>516</ele>
+      <time>2022-01-17T21:34:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7801959" lon="16.3079864">
+      <ele>515</ele>
+      <time>2022-01-17T21:36:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7805046" lon="16.3077825">
+      <ele>522</ele>
+      <time>2022-01-17T21:37:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7806497" lon="16.3078362">
+      <ele>524</ele>
+      <time>2022-01-17T21:37:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7808621" lon="16.3078576">
+      <ele>528</ele>
+      <time>2022-01-17T21:38:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

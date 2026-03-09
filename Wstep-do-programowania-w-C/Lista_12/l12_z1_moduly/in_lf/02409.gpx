@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:01Z</time>
+    <bounds maxlat="50.231189" maxlon="16.766746" minlat="50.2286016" minlon="16.7651796"/>
+  </metadata>
+  <wpt lat="50.231189" lon="16.766746">
+    <ele>610</ele>
+    <name>Miedzygorze, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/1754">
+      <text>Miedzygorze, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.228602" lon="16.76518">
+    <ele>575</ele>
+    <name>Miedzygorze</name>
+    <link href="https://mapa-turystyczna.pl/node/1745">
+      <text>Miedzygorze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzygorze, ul. Wojska Polskiego - Miedzygorze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.231189,16.766746;50.23010205198362,16.765771050000005;50.2286016,16.7651796">
+    <text>Miedzygorze, ul. Wojska Polskiego - Miedzygorze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.231189" lon="16.766746">
+      <ele>610</ele>
+      <time>2022-01-17T21:16:01Z</time>
+    </trkpt>
+    <trkpt lat="50.230537" lon="16.765995">
+      <ele>604</ele>
+      <time>2022-01-17T21:17:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2296671" lon="16.7655471">
+      <ele>591</ele>
+      <time>2022-01-17T21:19:04Z</time>
+    </trkpt>
+    <trkpt lat="50.229106" lon="16.7654747">
+      <ele>586</ele>
+      <time>2022-01-17T21:20:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2286016" lon="16.7651796">
+      <ele>575</ele>
+      <time>2022-01-17T21:21:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

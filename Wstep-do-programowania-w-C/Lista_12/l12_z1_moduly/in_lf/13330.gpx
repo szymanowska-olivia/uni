@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:26Z</time>
+    <bounds maxlat="49.285641" maxlon="19.010344" minlat="49.28532" minlon="19.009699"/>
+  </metadata>
+  <wpt lat="49.285641" lon="19.010344">
+    <ele>737</ele>
+    <name>Kacerovci, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9190">
+      <text>Kacerovci, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.28532" lon="19.009699">
+    <ele>745</ele>
+    <name>Kacerovci</name>
+    <link href="https://mapa-turystyczna.pl/node/9189">
+      <text>Kacerovci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kacerovci, razc. - Kacerovci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.285641,19.010344;49.28553750010864,19.010189000000008;49.28532,19.009699">
+    <text>Kacerovci, razc. - Kacerovci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.285641" lon="19.010344">
+      <ele>737</ele>
+      <time>2022-01-18T00:05:26Z</time>
+    </trkpt>
+    <trkpt lat="49.285434" lon="19.010034">
+      <ele>741</ele>
+      <time>2022-01-18T00:06:30Z</time>
+    </trkpt>
+    <trkpt lat="49.285339" lon="19.009828">
+      <ele>744</ele>
+      <time>2022-01-18T00:07:07Z</time>
+    </trkpt>
+    <trkpt lat="49.28532" lon="19.009699">
+      <ele>745</ele>
+      <time>2022-01-18T00:07:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

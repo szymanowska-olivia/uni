@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:55Z</time>
+    <bounds maxlat="50.685872" maxlon="15.5672354" minlat="50.6732154" minlon="15.5636036"/>
+  </metadata>
+  <wpt lat="50.685872" lon="15.56369">
+    <ele>859</ele>
+    <name>Na rovince</name>
+    <link href="https://mapa-turystyczna.pl/node/1219">
+      <text>Na rovince</text>
+    </link>
+  </wpt>
+  <wpt lat="50.673215" lon="15.567235">
+    <ele>908</ele>
+    <name>Pod Zadnim Zalym</name>
+    <link href="https://mapa-turystyczna.pl/node/1300">
+      <text>Pod Zadnim Zalym</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na rovince - Pod Zadnim Zalym</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.685872,15.5636895;50.68117515215687,15.564856199999983;50.6732154,15.5672354">
+    <text>Na rovince - Pod Zadnim Zalym</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.685872" lon="15.5636895">
+      <ele>859</ele>
+      <time>2022-01-17T21:03:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6855308" lon="15.5636036">
+      <ele>860</ele>
+      <time>2022-01-17T21:04:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6768191" lon="15.5661088">
+      <ele>922</ele>
+      <time>2022-01-17T21:25:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6732154" lon="15.5672354">
+      <ele>908</ele>
+      <time>2022-01-17T21:33:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

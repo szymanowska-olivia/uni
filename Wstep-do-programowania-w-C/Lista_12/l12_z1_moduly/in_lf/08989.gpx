@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:59Z</time>
+    <bounds maxlat="50.229257" maxlon="17.2127063" minlat="50.2266488" minlon="17.2085756"/>
+  </metadata>
+  <wpt lat="50.227116" lon="17.208576">
+    <ele>441</ele>
+    <name>Jesenik, Nabrezni</name>
+    <link href="https://mapa-turystyczna.pl/node/6256">
+      <text>Jesenik, Nabrezni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229257" lon="17.212706">
+    <ele>478</ele>
+    <name>Pamatnik Priessnitze</name>
+    <link href="https://mapa-turystyczna.pl/node/6259">
+      <text>Pamatnik Priessnitze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesenik, Nabrezni - Pamatnik Priessnitze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2271156,17.2085756;50.227216803382454,17.2113463;50.229257,17.2127063">
+    <text>Jesenik, Nabrezni - Pamatnik Priessnitze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2271156" lon="17.2085756">
+      <ele>441</ele>
+      <time>2022-01-17T22:48:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2270229" lon="17.2090047">
+      <ele>442</ele>
+      <time>2022-01-17T22:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2268033" lon="17.2097182">
+      <ele>443</ele>
+      <time>2022-01-17T22:50:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2267346" lon="17.2100991">
+      <ele>445</ele>
+      <time>2022-01-17T22:51:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2266488" lon="17.210775">
+      <ele>452</ele>
+      <time>2022-01-17T22:52:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2277848" lon="17.2119176">
+      <ele>465</ele>
+      <time>2022-01-17T22:55:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2279255" lon="17.2119981">
+      <ele>466</ele>
+      <time>2022-01-17T22:55:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2285123" lon="17.2120142">
+      <ele>468</ele>
+      <time>2022-01-17T22:57:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2286667" lon="17.2121698">
+      <ele>471</ele>
+      <time>2022-01-17T22:57:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2290648" lon="17.2126257">
+      <ele>478</ele>
+      <time>2022-01-17T22:58:32Z</time>
+    </trkpt>
+    <trkpt lat="50.229257" lon="17.2127063">
+      <ele>478</ele>
+      <time>2022-01-17T22:58:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

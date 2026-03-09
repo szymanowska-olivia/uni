@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:51Z</time>
+    <bounds maxlat="50.7692241" maxlon="16.2778724" minlat="50.7688228" minlon="16.2775749"/>
+  </metadata>
+  <wpt lat="50.769224" lon="16.277575">
+    <ele>433</ele>
+    <name>Walbrzych, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8143">
+      <text>Walbrzych, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.768823" lon="16.277629">
+    <ele>428</ele>
+    <name>Walbrzych</name>
+    <link href="https://mapa-turystyczna.pl/node/2536">
+      <text>Walbrzych</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walbrzych, rozejscie szlakow - Walbrzych</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7692241,16.2775749;50.769053550067994,16.277765099999993;50.7688228,16.2776291">
+    <text>Walbrzych, rozejscie szlakow - Walbrzych</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7692241" lon="16.2775749">
+      <ele>433</ele>
+      <time>2022-01-17T23:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7691333" lon="16.2776578">
+      <ele>432</ele>
+      <time>2022-01-17T23:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7689738" lon="16.2778724">
+      <ele>431</ele>
+      <time>2022-01-17T23:38:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7688228" lon="16.2776291">
+      <ele>428</ele>
+      <time>2022-01-17T23:38:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

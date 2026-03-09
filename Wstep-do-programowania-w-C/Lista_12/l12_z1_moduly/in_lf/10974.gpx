@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:12Z</time>
+    <bounds maxlat="50.6846323" maxlon="16.2789444" minlat="50.6831207" minlon="16.278282"/>
+  </metadata>
+  <wpt lat="50.683121" lon="16.278793">
+    <ele>812</ele>
+    <name>Pod Waligora</name>
+    <link href="https://mapa-turystyczna.pl/node/7728">
+      <text>Pod Waligora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.684632" lon="16.278282">
+    <ele>797</ele>
+    <name>Przelecz Trzech Dolin</name>
+    <link href="https://mapa-turystyczna.pl/node/7727">
+      <text>Przelecz Trzech Dolin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Waligora - Przelecz Trzech Dolin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6831207,16.2787932;50.68373250089986,16.27879420000001;50.6846323,16.278282">
+    <text>Pod Waligora - Przelecz Trzech Dolin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6831207" lon="16.2787932">
+      <ele>812</ele>
+      <time>2022-01-17T23:26:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6831836" lon="16.2788586">
+      <ele>812</ele>
+      <time>2022-01-17T23:26:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6833365" lon="16.2789122">
+      <ele>811</ele>
+      <time>2022-01-17T23:26:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6834419" lon="16.2789444">
+      <ele>811</ele>
+      <time>2022-01-17T23:26:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6840231" lon="16.278644">
+      <ele>805</ele>
+      <time>2022-01-17T23:27:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6846323" lon="16.278282">
+      <ele>797</ele>
+      <time>2022-01-17T23:29:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

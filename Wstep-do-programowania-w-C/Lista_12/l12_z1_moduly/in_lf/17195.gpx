@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:24Z</time>
+    <bounds maxlat="50.8179034" maxlon="16.6336602" minlat="50.8166497" minlon="16.6328234"/>
+  </metadata>
+  <wpt lat="50.817903" lon="16.632823">
+    <ele>466</ele>
+    <name>Szczytna</name>
+    <link href="https://mapa-turystyczna.pl/node/2738">
+      <text>Szczytna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.81665" lon="16.632972">
+    <ele>432</ele>
+    <name>Pod Szczytna</name>
+    <link href="https://mapa-turystyczna.pl/node/11715">
+      <text>Pod Szczytna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczytna - Pod Szczytna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8179034,16.6328234;50.817358500257896,16.633479799999982;50.8166497,16.6329721">
+    <text>Szczytna - Pod Szczytna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8179034" lon="16.6328234">
+      <ele>466</ele>
+      <time>2022-01-18T01:09:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8177862" lon="16.6330849">
+      <ele>463</ele>
+      <time>2022-01-18T01:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8177761" lon="16.6333799">
+      <ele>462</ele>
+      <time>2022-01-18T01:10:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8176778" lon="16.6335945">
+      <ele>460</ele>
+      <time>2022-01-18T01:10:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8175137" lon="16.6336602">
+      <ele>459</ele>
+      <time>2022-01-18T01:10:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8172033" lon="16.6332994">
+      <ele>450</ele>
+      <time>2022-01-18T01:11:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8169491" lon="16.6330527">
+      <ele>443</ele>
+      <time>2022-01-18T01:11:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8166576" lon="16.6329722">
+      <ele>433</ele>
+      <time>2022-01-18T01:12:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8166497" lon="16.6329721">
+      <ele>432</ele>
+      <time>2022-01-18T01:12:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

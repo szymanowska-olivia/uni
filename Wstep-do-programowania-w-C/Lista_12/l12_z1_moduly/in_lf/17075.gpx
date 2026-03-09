@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:30Z</time>
+    <bounds maxlat="52.258334" maxlon="16.7895005" minlat="52.2545288" minlon="16.785447"/>
+  </metadata>
+  <wpt lat="52.258334" lon="16.785447">
+    <ele>89</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11653">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.254529" lon="16.7895">
+    <ele>80</ele>
+    <name>Lesniczowka Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11652">
+      <text>Lesniczowka Gorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Lesniczowka Gorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.258334,16.785447;52.25624770089904,16.787877650000016;52.2545288,16.7895005">
+    <text>Rozejscie szlakow - Lesniczowka Gorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.258334" lon="16.785447">
+      <ele>89</ele>
+      <time>2022-01-18T01:07:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2579683" lon="16.7860859">
+      <ele>90</ele>
+      <time>2022-01-18T01:08:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2577122" lon="16.7865902">
+      <ele>91</ele>
+      <time>2022-01-18T01:09:31Z</time>
+    </trkpt>
+    <trkpt lat="52.2572853" lon="16.7870408">
+      <ele>91</ele>
+      <time>2022-01-18T01:10:37Z</time>
+    </trkpt>
+    <trkpt lat="52.2565301" lon="16.7876631">
+      <ele>88</ele>
+      <time>2022-01-18T01:12:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2559653" lon="16.7880922">
+      <ele>89</ele>
+      <time>2022-01-18T01:13:47Z</time>
+    </trkpt>
+    <trkpt lat="52.2555055" lon="16.7883712">
+      <ele>85</ele>
+      <time>2022-01-18T01:14:51Z</time>
+    </trkpt>
+    <trkpt lat="52.2552954" lon="16.7886287">
+      <ele>83</ele>
+      <time>2022-01-18T01:15:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2551574" lon="16.7889291">
+      <ele>82</ele>
+      <time>2022-01-18T01:15:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2549867" lon="16.7892188">
+      <ele>82</ele>
+      <time>2022-01-18T01:16:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2548225" lon="16.789369">
+      <ele>82</ele>
+      <time>2022-01-18T01:16:51Z</time>
+    </trkpt>
+    <trkpt lat="52.2545288" lon="16.7895005">
+      <ele>80</ele>
+      <time>2022-01-18T01:17:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

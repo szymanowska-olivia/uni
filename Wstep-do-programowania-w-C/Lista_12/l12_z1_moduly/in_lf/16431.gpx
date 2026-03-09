@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:39Z</time>
+    <bounds maxlat="51.8603988" maxlon="15.56343" minlat="51.8596751" minlon="15.5614894"/>
+  </metadata>
+  <wpt lat="51.860399" lon="15.561489">
+    <ele>81</ele>
+    <name>Zatonie</name>
+    <link href="https://mapa-turystyczna.pl/node/11164">
+      <text>Zatonie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.859675" lon="15.56343">
+    <ele>81</ele>
+    <name>Zatonie, Oranzeria</name>
+    <link href="https://mapa-turystyczna.pl/node/11220">
+      <text>Zatonie, Oranzeria</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zatonie - Zatonie, Oranzeria</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8603988,15.5614894;51.86003695145517,15.562459700000018;51.8596751,15.56343">
+    <text>Zatonie - Zatonie, Oranzeria</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8603988" lon="15.5614894">
+      <ele>81</ele>
+      <time>2022-01-18T00:56:39Z</time>
+    </trkpt>
+    <trkpt lat="51.8596751" lon="15.56343">
+      <ele>81</ele>
+      <time>2022-01-18T00:58:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

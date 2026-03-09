@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:59Z</time>
+    <bounds maxlat="52.4755812" maxlon="20.7391866" minlat="52.4745062" minlon="20.7355978"/>
+  </metadata>
+  <wpt lat="52.475581" lon="20.735598">
+    <ele>91</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12242">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.474506" lon="20.739187">
+    <ele>85</ele>
+    <name>Pomiechowek</name>
+    <link href="https://mapa-turystyczna.pl/node/12239">
+      <text>Pomiechowek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Pomiechowek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4755812,20.7355978;52.475087702767276,20.737136499999984;52.4745062,20.7391866">
+    <text>Rozejscie szlakow zolty / czarny - Pomiechowek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4755812" lon="20.7355978">
+      <ele>91</ele>
+      <time>2022-01-18T01:22:59Z</time>
+    </trkpt>
+    <trkpt lat="52.4745942" lon="20.7386752">
+      <ele>86</ele>
+      <time>2022-01-18T01:27:19Z</time>
+    </trkpt>
+    <trkpt lat="52.4745062" lon="20.7391866">
+      <ele>85</ele>
+      <time>2022-01-18T01:27:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:04Z</time>
+    <bounds maxlat="50.0908376" maxlon="16.464783" minlat="50.0872443" minlon="16.4605236"/>
+  </metadata>
+  <wpt lat="50.087244" lon="16.464783">
+    <ele>423</ele>
+    <name>Zamberk</name>
+    <link href="https://mapa-turystyczna.pl/node/1949">
+      <text>Zamberk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.090838" lon="16.460524">
+    <ele>406</ele>
+    <name>Zamberk, Pod Lecebnou</name>
+    <link href="https://mapa-turystyczna.pl/node/2002">
+      <text>Zamberk, Pod Lecebnou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamberk - Zamberk, Pod Lecebnou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0872443,16.464783;50.08892490045616,16.46285174999998;50.0908376,16.4605236">
+    <text>Zamberk - Zamberk, Pod Lecebnou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0872443" lon="16.464783">
+      <ele>423</ele>
+      <time>2022-01-17T21:21:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0872444" lon="16.4646435">
+      <ele>423</ele>
+      <time>2022-01-17T21:21:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0885592" lon="16.4633346">
+      <ele>408</ele>
+      <time>2022-01-17T21:24:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0887158" lon="16.4629912">
+      <ele>406</ele>
+      <time>2022-01-17T21:25:16Z</time>
+    </trkpt>
+    <trkpt lat="50.089134" lon="16.4627123">
+      <ele>403</ele>
+      <time>2022-01-17T21:26:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0908376" lon="16.4605236">
+      <ele>406</ele>
+      <time>2022-01-17T21:31:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

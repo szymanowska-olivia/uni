@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:44Z</time>
+    <bounds maxlat="51.1103997" maxlon="15.5835164" minlat="51.1099372" minlon="15.5818172"/>
+  </metadata>
+  <wpt lat="51.109937" lon="15.581817">
+    <ele>217</ele>
+    <name>Lwowek Slaski, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/9156">
+      <text>Lwowek Slaski, ul. Koscielna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.1104" lon="15.583516">
+    <ele>215</ele>
+    <name>Lwowek Slaski, ul. Orzeszkowej</name>
+    <link href="https://mapa-turystyczna.pl/node/9157">
+      <text>Lwowek Slaski, ul. Orzeszkowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Koscielna - Lwowek Slaski, ul. Orzeszkowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1099372,15.5818172;51.11020085042781,15.582770899999998;51.1103997,15.5835164">
+    <text>Lwowek Slaski, ul. Koscielna - Lwowek Slaski, ul. Orzeszkowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1099372" lon="15.5818172">
+      <ele>217</ele>
+      <time>2022-01-18T00:04:44Z</time>
+    </trkpt>
+    <trkpt lat="51.110002" lon="15.5820254">
+      <ele>216</ele>
+      <time>2022-01-18T00:04:59Z</time>
+    </trkpt>
+    <trkpt lat="51.1103997" lon="15.5835164">
+      <ele>215</ele>
+      <time>2022-01-18T00:06:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

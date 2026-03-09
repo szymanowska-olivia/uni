@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:08Z</time>
+    <bounds maxlat="50.3634775" maxlon="16.9263429" minlat="50.3629026" minlon="16.9197822"/>
+  </metadata>
+  <wpt lat="50.363419" lon="16.926343">
+    <ele>647</ele>
+    <name>Rozhrani</name>
+    <link href="https://mapa-turystyczna.pl/node/2113">
+      <text>Rozhrani</text>
+    </link>
+  </wpt>
+  <wpt lat="50.363478" lon="16.919782">
+    <ele>629</ele>
+    <name>Nad Pramenem</name>
+    <link href="https://mapa-turystyczna.pl/node/2177">
+      <text>Nad Pramenem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozhrani - Nad Pramenem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3634193,16.9263429;50.362991550083336,16.923782700000007;50.3634775,16.9197822">
+    <text>Rozhrani - Nad Pramenem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3634193" lon="16.9263429">
+      <ele>647</ele>
+      <time>2022-01-17T21:24:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3633953" lon="16.9261511">
+      <ele>647</ele>
+      <time>2022-01-17T21:24:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3630805" lon="16.9247738">
+      <ele>642</ele>
+      <time>2022-01-17T21:25:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3629026" lon="16.9227916">
+      <ele>636</ele>
+      <time>2022-01-17T21:26:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3632687" lon="16.920552">
+      <ele>632</ele>
+      <time>2022-01-17T21:28:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3634775" lon="16.9197822">
+      <ele>629</ele>
+      <time>2022-01-17T21:29:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

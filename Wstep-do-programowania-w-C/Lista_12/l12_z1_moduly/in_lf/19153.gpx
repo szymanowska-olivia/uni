@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:12Z</time>
+    <bounds maxlat="50.4613132" maxlon="16.4179271" minlat="50.4604581" minlon="16.4176028"/>
+  </metadata>
+  <wpt lat="50.460458" lon="16.417603">
+    <ele>715</ele>
+    <name>Skalne Grzyby, Dwa Borowiki</name>
+    <link href="https://mapa-turystyczna.pl/node/1802">
+      <text>Skalne Grzyby, Dwa Borowiki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.461313" lon="16.417786">
+    <ele>712</ele>
+    <name>Odejscie do skaly Zolw</name>
+    <link href="https://mapa-turystyczna.pl/node/12943">
+      <text>Odejscie do skaly Zolw</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalne Grzyby, Dwa Borowiki - Odejscie do skaly Zolw</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4604581,16.4176028;50.46088305013994,16.417919550000022;50.4613132,16.4177859">
+    <text>Skalne Grzyby, Dwa Borowiki - Odejscie do skaly Zolw</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4604581" lon="16.4176028">
+      <ele>715</ele>
+      <time>2022-01-18T01:43:12Z</time>
+    </trkpt>
+    <trkpt lat="50.460768" lon="16.417912">
+      <ele>713</ele>
+      <time>2022-01-18T01:43:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4609981" lon="16.4179271">
+      <ele>713</ele>
+      <time>2022-01-18T01:44:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4612418" lon="16.4178778">
+      <ele>712</ele>
+      <time>2022-01-18T01:45:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4613132" lon="16.4177859">
+      <ele>712</ele>
+      <time>2022-01-18T01:45:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

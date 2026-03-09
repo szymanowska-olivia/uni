@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:20Z</time>
+    <bounds maxlat="52.0301125" maxlon="20.3626042" minlat="52.025221" minlon="20.3563064"/>
+  </metadata>
+  <wpt lat="52.030113" lon="20.362604">
+    <ele>114</ele>
+    <name>Jesionka</name>
+    <link href="https://mapa-turystyczna.pl/node/11975">
+      <text>Jesionka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.025221" lon="20.356306">
+    <ele>119</ele>
+    <name>Jesionka, Aleja Partyzantow</name>
+    <link href="https://mapa-turystyczna.pl/node/11976">
+      <text>Jesionka, Aleja Partyzantow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesionka - Jesionka, Aleja Partyzantow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0301125,20.3626042;52.027932350514696,20.358100849999985;52.025221,20.3563064">
+    <text>Jesionka - Jesionka, Aleja Partyzantow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0301125" lon="20.3626042">
+      <ele>114</ele>
+      <time>2022-01-18T01:17:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0281469" lon="20.3585032">
+      <ele>115</ele>
+      <time>2022-01-18T01:22:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0277178" lon="20.3576985">
+      <ele>115</ele>
+      <time>2022-01-18T01:23:16Z</time>
+    </trkpt>
+    <trkpt lat="52.0275132" lon="20.3575268">
+      <ele>116</ele>
+      <time>2022-01-18T01:23:37Z</time>
+    </trkpt>
+    <trkpt lat="52.025221" lon="20.3563064">
+      <ele>119</ele>
+      <time>2022-01-18T01:27:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

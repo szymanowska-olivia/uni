@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:21Z</time>
+    <bounds maxlat="50.4788206" maxlon="16.2935874" minlat="50.4787795" minlon="16.2929606"/>
+  </metadata>
+  <wpt lat="50.478821" lon="16.292961">
+    <ele>843</ele>
+    <name>Bledne Skaly, wyjscie</name>
+    <link href="https://mapa-turystyczna.pl/node/1815">
+      <text>Bledne Skaly, wyjscie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.47878" lon="16.293587">
+    <ele>842</ele>
+    <name>Bledne Skaly, skrzyzowanie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/10379">
+      <text>Bledne Skaly, skrzyzowanie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledne Skaly, wyjscie - Bledne Skaly, skrzyzowanie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4788206,16.2929606;50.47880015000443,16.29327240000002;50.4787795,16.2935874">
+    <text>Bledne Skaly, wyjscie - Bledne Skaly, skrzyzowanie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4788206" lon="16.2929606">
+      <ele>843</ele>
+      <time>2022-01-18T00:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4787797" lon="16.2935842">
+      <ele>842</ele>
+      <time>2022-01-18T00:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4787795" lon="16.2935874">
+      <ele>842</ele>
+      <time>2022-01-18T00:36:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

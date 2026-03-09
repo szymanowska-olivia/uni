@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:06Z</time>
+    <bounds maxlat="54.0980338" maxlon="15.0846324" minlat="54.095427" minlon="15.0774628"/>
+  </metadata>
+  <wpt lat="54.095427" lon="15.084632">
+    <ele>4</ele>
+    <name>Niechorze, ul. Szczecinska</name>
+    <link href="https://mapa-turystyczna.pl/node/12645">
+      <text>Niechorze, ul. Szczecinska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.096181" lon="15.077658">
+    <ele>4</ele>
+    <name>Niechorze, ul. Mazowiecka</name>
+    <link href="https://mapa-turystyczna.pl/node/12646">
+      <text>Niechorze, ul. Mazowiecka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niechorze, ul. Szczecinska - Niechorze, ul. Mazowiecka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.095427,15.0846324;54.09763340043334,15.080163450000006;54.0961811,15.0776577">
+    <text>Niechorze, ul. Szczecinska - Niechorze, ul. Mazowiecka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.095427" lon="15.0846324">
+      <ele>4</ele>
+      <time>2022-01-18T01:35:06Z</time>
+    </trkpt>
+    <trkpt lat="54.0969074" lon="15.0843916">
+      <ele>4</ele>
+      <time>2022-01-18T01:37:50Z</time>
+    </trkpt>
+    <trkpt lat="54.0975932" lon="15.0843004">
+      <ele>4</ele>
+      <time>2022-01-18T01:39:06Z</time>
+    </trkpt>
+    <trkpt lat="54.0980338" lon="15.0841898">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:56Z</time>
+    </trkpt>
+    <trkpt lat="54.097823" lon="15.082382">
+      <ele>1</ele>
+      <time>2022-01-18T01:41:55Z</time>
+    </trkpt>
+    <trkpt lat="54.0974438" lon="15.0779449">
+      <ele>1</ele>
+      <time>2022-01-18T01:46:46Z</time>
+    </trkpt>
+    <trkpt lat="54.0972756" lon="15.0774628">
+      <ele>3</ele>
+      <time>2022-01-18T01:47:22Z</time>
+    </trkpt>
+    <trkpt lat="54.0970475" lon="15.0775533">
+      <ele>4</ele>
+      <time>2022-01-18T01:47:48Z</time>
+    </trkpt>
+    <trkpt lat="54.0964609" lon="15.0783533">
+      <ele>4</ele>
+      <time>2022-01-18T01:49:11Z</time>
+    </trkpt>
+    <trkpt lat="54.0961811" lon="15.0776577">
+      <ele>4</ele>
+      <time>2022-01-18T01:50:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

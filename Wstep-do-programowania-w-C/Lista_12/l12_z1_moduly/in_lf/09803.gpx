@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:28Z</time>
+    <bounds maxlat="50.0847042" maxlon="17.1447498" minlat="50.0754853" minlon="17.1441972"/>
+  </metadata>
+  <wpt lat="50.084704" lon="17.144197">
+    <ele>1163</ele>
+    <name>Tetrevi chata</name>
+    <link href="https://mapa-turystyczna.pl/node/6885">
+      <text>Tetrevi chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.075485" lon="17.144659">
+    <ele>1272</ele>
+    <name>Mravenecnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6890">
+      <text>Mravenecnik, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tetrevi chata - Mravenecnik, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0847042,17.1441972;50.08018790121136,17.144508350000017;50.0754853,17.1446586">
+    <text>Tetrevi chata - Mravenecnik, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0847042" lon="17.1441972">
+      <ele>1163</ele>
+      <time>2022-01-17T23:04:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0844735" lon="17.1443367">
+      <ele>1165</ele>
+      <time>2022-01-17T23:05:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0839779" lon="17.1447498">
+      <ele>1164</ele>
+      <time>2022-01-17T23:06:36Z</time>
+    </trkpt>
+    <trkpt lat="50.083909" lon="17.1445298">
+      <ele>1166</ele>
+      <time>2022-01-17T23:07:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0838574" lon="17.1443957">
+      <ele>1166</ele>
+      <time>2022-01-17T23:07:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0828179" lon="17.1444118">
+      <ele>1177</ele>
+      <time>2022-01-17T23:10:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0812619" lon="17.1444762">
+      <ele>1190</ele>
+      <time>2022-01-17T23:14:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0805287" lon="17.1445137">
+      <ele>1197</ele>
+      <time>2022-01-17T23:16:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0798471" lon="17.144503">
+      <ele>1205</ele>
+      <time>2022-01-17T23:17:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0787042" lon="17.1445298">
+      <ele>1222</ele>
+      <time>2022-01-17T23:20:54Z</time>
+    </trkpt>
+    <trkpt lat="50.0780364" lon="17.144562">
+      <ele>1238</ele>
+      <time>2022-01-17T23:22:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0754853" lon="17.1446586">
+      <ele>1272</ele>
+      <time>2022-01-17T23:29:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

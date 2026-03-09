@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:22Z</time>
+    <bounds maxlat="51.0284165" maxlon="15.300704" minlat="51.0274624" minlon="15.2990609"/>
+  </metadata>
+  <wpt lat="51.028416" lon="15.300704">
+    <ele>313</ele>
+    <name>Zamek Czocha, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8244">
+      <text>Zamek Czocha, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="51.027462" lon="15.299061">
+    <ele>314</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10744">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Czocha, parking - Rozejscie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0284165,15.300704;51.0277560506637,15.299545849999987;51.0274624,15.2990609">
+    <text>Zamek Czocha, parking - Rozejscie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0284165" lon="15.300704">
+      <ele>313</ele>
+      <time>2022-01-18T00:44:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0280041" lon="15.2999348">
+      <ele>313</ele>
+      <time>2022-01-18T00:45:16Z</time>
+    </trkpt>
+    <trkpt lat="51.027508" lon="15.2991569">
+      <ele>313</ele>
+      <time>2022-01-18T00:46:16Z</time>
+    </trkpt>
+    <trkpt lat="51.0274624" lon="15.2990609">
+      <ele>314</ele>
+      <time>2022-01-18T00:46:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

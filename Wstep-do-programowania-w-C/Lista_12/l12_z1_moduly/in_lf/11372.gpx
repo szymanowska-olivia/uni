@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:31Z</time>
+    <bounds maxlat="50.6974384" maxlon="16.4449829" minlat="50.6945956" minlon="16.4421602"/>
+  </metadata>
+  <wpt lat="50.697438" lon="16.44216">
+    <ele>510</ele>
+    <name>Walim, CKiT</name>
+    <link href="https://mapa-turystyczna.pl/node/8003">
+      <text>Walim, CKiT</text>
+    </link>
+  </wpt>
+  <wpt lat="50.694596" lon="16.444983">
+    <ele>527</ele>
+    <name>Walim, ul. 3-go Maja</name>
+    <link href="https://mapa-turystyczna.pl/node/2026">
+      <text>Walim, ul. 3-go Maja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walim, CKiT - Walim, ul. 3-go Maja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6974384,16.4421602;50.695936700036356,16.44354250000001;50.6945956,16.4449829">
+    <text>Walim, CKiT - Walim, ul. 3-go Maja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6974384" lon="16.4421602">
+      <ele>510</ele>
+      <time>2022-01-17T23:33:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6968464" lon="16.4423837">
+      <ele>514</ele>
+      <time>2022-01-17T23:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.6965468" lon="16.4425098">
+      <ele>517</ele>
+      <time>2022-01-17T23:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6964352" lon="16.442585">
+      <ele>518</ele>
+      <time>2022-01-17T23:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6963367" lon="16.4426948">
+      <ele>518</ele>
+      <time>2022-01-17T23:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6959951" lon="16.4433789">
+      <ele>517</ele>
+      <time>2022-01-17T23:38:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6958783" lon="16.4437061">
+      <ele>518</ele>
+      <time>2022-01-17T23:39:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6958065" lon="16.443855">
+      <ele>519</ele>
+      <time>2022-01-17T23:39:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6953096" lon="16.4442762">
+      <ele>524</ele>
+      <time>2022-01-17T23:41:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6951073" lon="16.4444877">
+      <ele>525</ele>
+      <time>2022-01-17T23:41:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6948778" lon="16.4447958">
+      <ele>526</ele>
+      <time>2022-01-17T23:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6945956" lon="16.4449829">
+      <ele>527</ele>
+      <time>2022-01-17T23:43:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

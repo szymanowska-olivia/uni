@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:34Z</time>
+    <bounds maxlat="50.1467683" maxlon="19.1353583" minlat="50.1451575" minlon="19.1348255"/>
+  </metadata>
+  <wpt lat="50.146768" lon="19.135358">
+    <ele>265</ele>
+    <name>Holdunow</name>
+    <link href="https://mapa-turystyczna.pl/node/9094">
+      <text>Holdunow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.145158" lon="19.134826">
+    <ele>262</ele>
+    <name>Holdunow, ul. Warynskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9891">
+      <text>Holdunow, ul. Warynskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Holdunow - Holdunow, ul. Warynskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1467683,19.1353583;50.145599402041384,19.134994449999997;50.1451575,19.1348255">
+    <text>Holdunow - Holdunow, ul. Warynskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1467683" lon="19.1353583">
+      <ele>265</ele>
+      <time>2022-01-18T00:23:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1460413" lon="19.1351634">
+      <ele>264</ele>
+      <time>2022-01-18T00:24:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1451575" lon="19.1348255">
+      <ele>262</ele>
+      <time>2022-01-18T00:26:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

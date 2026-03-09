@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:31Z</time>
+    <bounds maxlat="51.5287559" maxlon="17.2723364" minlat="51.5280062" minlon="17.2705539"/>
+  </metadata>
+  <wpt lat="51.528756" lon="17.270554">
+    <ele>110</ele>
+    <name>Milicz, park</name>
+    <link href="https://mapa-turystyczna.pl/node/10552">
+      <text>Milicz, park</text>
+    </link>
+  </wpt>
+  <wpt lat="51.52829" lon="17.272336">
+    <ele>110</ele>
+    <name>Milicz</name>
+    <link href="https://mapa-turystyczna.pl/node/10553">
+      <text>Milicz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Milicz, park - Milicz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5287559,17.2705539;51.52814810022114,17.271663149999988;51.52829,17.2723364">
+    <text>Milicz, park - Milicz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5287559" lon="17.2705539">
+      <ele>110</ele>
+      <time>2022-01-18T00:39:31Z</time>
+    </trkpt>
+    <trkpt lat="51.5280062" lon="17.2709899">
+      <ele>106</ele>
+      <time>2022-01-18T00:40:56Z</time>
+    </trkpt>
+    <trkpt lat="51.52829" lon="17.2723364">
+      <ele>110</ele>
+      <time>2022-01-18T00:42:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

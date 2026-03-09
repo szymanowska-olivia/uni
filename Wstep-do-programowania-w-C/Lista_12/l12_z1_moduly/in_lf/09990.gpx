@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:06Z</time>
+    <bounds maxlat="48.9533885" maxlon="20.5109167" minlat="48.9510283" minlon="20.5077732"/>
+  </metadata>
+  <wpt lat="48.951028" lon="20.507773">
+    <ele>489</ele>
+    <name>Smizany, Masa</name>
+    <link href="https://mapa-turystyczna.pl/node/6979">
+      <text>Smizany, Masa</text>
+    </link>
+  </wpt>
+  <wpt lat="48.953389" lon="20.510917">
+    <ele>487</ele>
+    <name>Smizany, vlak, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7035">
+      <text>Smizany, vlak, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smizany, Masa - Smizany, vlak, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9510283,20.5077732;48.95244445287339,20.50984914999998;48.9533885,20.5109167">
+    <text>Smizany, Masa - Smizany, vlak, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9510283" lon="20.5077732">
+      <ele>489</ele>
+      <time>2022-01-17T23:08:06Z</time>
+    </trkpt>
+    <trkpt lat="48.951141" lon="20.5081272">
+      <ele>488</ele>
+      <time>2022-01-17T23:08:30Z</time>
+    </trkpt>
+    <trkpt lat="48.9514792" lon="20.5086637">
+      <ele>487</ele>
+      <time>2022-01-17T23:09:16Z</time>
+    </trkpt>
+    <trkpt lat="48.951909" lon="20.5091035">
+      <ele>486</ele>
+      <time>2022-01-17T23:10:05Z</time>
+    </trkpt>
+    <trkpt lat="48.9529799" lon="20.5105948">
+      <ele>487</ele>
+      <time>2022-01-17T23:12:21Z</time>
+    </trkpt>
+    <trkpt lat="48.9531701" lon="20.5106485">
+      <ele>487</ele>
+      <time>2022-01-17T23:12:40Z</time>
+    </trkpt>
+    <trkpt lat="48.9533885" lon="20.5109167">
+      <ele>487</ele>
+      <time>2022-01-17T23:13:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

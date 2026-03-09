@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:49Z</time>
+    <bounds maxlat="50.7616009" maxlon="15.5868209" minlat="50.7607255" minlon="15.586487"/>
+  </metadata>
+  <wpt lat="50.761601" lon="15.586487">
+    <ele>1079</ele>
+    <name>Medvedi bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3903">
+      <text>Medvedi bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.760725" lon="15.586821">
+    <ele>1058</ele>
+    <name>Medvedi bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1205">
+      <text>Medvedi bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Medvedi bouda, rozc. - Medvedi bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7616009,15.586487;50.7611632020471,15.58665395000002;50.7607255,15.5868209">
+    <text>Medvedi bouda, rozc. - Medvedi bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7616009" lon="15.586487">
+      <ele>1079</ele>
+      <time>2022-01-17T21:57:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7607255" lon="15.5868209">
+      <ele>1058</ele>
+      <time>2022-01-17T21:59:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

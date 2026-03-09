@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:34Z</time>
+    <bounds maxlat="50.7432607" maxlon="15.5044448" minlat="50.742352" minlon="15.4989088"/>
+  </metadata>
+  <wpt lat="50.742781" lon="15.498909">
+    <ele>943</ele>
+    <name>Nad Svetlankou</name>
+    <link href="https://mapa-turystyczna.pl/node/1242">
+      <text>Nad Svetlankou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.743231" lon="15.504445">
+    <ele>916</ele>
+    <name>Hutsky potok</name>
+    <link href="https://mapa-turystyczna.pl/node/1141">
+      <text>Hutsky potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Svetlankou - Hutsky potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7427809,15.4989088;50.74263940015327,15.502108649999995;50.7432307,15.5044448">
+    <text>Nad Svetlankou - Hutsky potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7427809" lon="15.4989088">
+      <ele>943</ele>
+      <time>2022-01-17T21:04:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7425257" lon="15.4992253">
+      <ele>945</ele>
+      <time>2022-01-17T21:04:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7423913" lon="15.499802">
+      <ele>941</ele>
+      <time>2022-01-17T21:05:29Z</time>
+    </trkpt>
+    <trkpt lat="50.742352" lon="15.5003411">
+      <ele>939</ele>
+      <time>2022-01-17T21:05:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7425196" lon="15.5016768">
+      <ele>935</ele>
+      <time>2022-01-17T21:07:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7427592" lon="15.5025405">
+      <ele>924</ele>
+      <time>2022-01-17T21:07:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7431278" lon="15.5034256">
+      <ele>919</ele>
+      <time>2022-01-17T21:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7432607" lon="15.5039888">
+      <ele>918</ele>
+      <time>2022-01-17T21:09:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7432307" lon="15.5044448">
+      <ele>916</ele>
+      <time>2022-01-17T21:09:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

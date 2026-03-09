@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:59Z</time>
+    <bounds maxlat="51.9360672" maxlon="15.4547867" minlat="51.934215" minlon="15.4534791"/>
+  </metadata>
+  <wpt lat="51.936067" lon="15.454787">
+    <ele>139</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11138">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.934215" lon="15.454647">
+    <ele>146</ele>
+    <name>Rozdroze za Cegielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/11139">
+      <text>Rozdroze za Cegielnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / czarny - Rozdroze za Cegielnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9360672,15.4547867;51.93510875016682,15.4535971;51.934215,15.4546472">
+    <text>Rozejscie szlakow zielony / czarny - Rozdroze za Cegielnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9360672" lon="15.4547867">
+      <ele>139</ele>
+      <time>2022-01-18T00:54:59Z</time>
+    </trkpt>
+    <trkpt lat="51.9360069" lon="15.4544067">
+      <ele>135</ele>
+      <time>2022-01-18T00:55:28Z</time>
+    </trkpt>
+    <trkpt lat="51.9359521" lon="15.4542194">
+      <ele>134</ele>
+      <time>2022-01-18T00:55:43Z</time>
+    </trkpt>
+    <trkpt lat="51.9358" lon="15.453919">
+      <ele>135</ele>
+      <time>2022-01-18T00:56:12Z</time>
+    </trkpt>
+    <trkpt lat="51.9356379" lon="15.4537312">
+      <ele>139</ele>
+      <time>2022-01-18T00:56:36Z</time>
+    </trkpt>
+    <trkpt lat="51.9354163" lon="15.4535274">
+      <ele>143</ele>
+      <time>2022-01-18T00:57:07Z</time>
+    </trkpt>
+    <trkpt lat="51.9352311" lon="15.4534791">
+      <ele>145</ele>
+      <time>2022-01-18T00:57:30Z</time>
+    </trkpt>
+    <trkpt lat="51.9349864" lon="15.4537151">
+      <ele>145</ele>
+      <time>2022-01-18T00:58:04Z</time>
+    </trkpt>
+    <trkpt lat="51.9343447" lon="15.4544232">
+      <ele>145</ele>
+      <time>2022-01-18T00:59:36Z</time>
+    </trkpt>
+    <trkpt lat="51.934215" lon="15.4546472">
+      <ele>146</ele>
+      <time>2022-01-18T00:59:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

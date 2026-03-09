@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:59:43Z</time>
+    <bounds maxlat="49.7427315" maxlon="19.1858894" minlat="49.7415361" minlon="19.1816059"/>
+  </metadata>
+  <wpt lat="49.742731" lon="19.181606">
+    <ele>590</ele>
+    <name>Pod Przyszopem</name>
+    <link href="https://mapa-turystyczna.pl/node/1040">
+      <text>Pod Przyszopem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.741536" lon="19.185889">
+    <ele>578</ele>
+    <name>Przyszop</name>
+    <link href="https://mapa-turystyczna.pl/node/1054">
+      <text>Przyszop</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Przyszopem - Przyszop</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7427315,19.1816059;49.74207420011886,19.183477400000022;49.7415361,19.1858894">
+    <text>Pod Przyszopem - Przyszop</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7427315" lon="19.1816059">
+      <ele>590</ele>
+      <time>2022-01-17T20:59:43Z</time>
+    </trkpt>
+    <trkpt lat="49.7425839" lon="19.1821168">
+      <ele>591</ele>
+      <time>2022-01-17T21:00:18Z</time>
+    </trkpt>
+    <trkpt lat="49.742491" lon="19.1825842">
+      <ele>591</ele>
+      <time>2022-01-17T21:00:49Z</time>
+    </trkpt>
+    <trkpt lat="49.7423721" lon="19.1828665">
+      <ele>592</ele>
+      <time>2022-01-17T21:01:11Z</time>
+    </trkpt>
+    <trkpt lat="49.7421816" lon="19.1831575">
+      <ele>592</ele>
+      <time>2022-01-17T21:01:37Z</time>
+    </trkpt>
+    <trkpt lat="49.7419668" lon="19.1837973">
+      <ele>585</ele>
+      <time>2022-01-17T21:02:23Z</time>
+    </trkpt>
+    <trkpt lat="49.7418375" lon="19.1844008">
+      <ele>580</ele>
+      <time>2022-01-17T21:03:04Z</time>
+    </trkpt>
+    <trkpt lat="49.7417516" lon="19.1850686">
+      <ele>576</ele>
+      <time>2022-01-17T21:03:47Z</time>
+    </trkpt>
+    <trkpt lat="49.7415361" lon="19.1858894">
+      <ele>578</ele>
+      <time>2022-01-17T21:04:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

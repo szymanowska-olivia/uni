@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:06Z</time>
+    <bounds maxlat="50.4058474" maxlon="16.931769" minlat="50.4050166" minlon="16.9291377"/>
+  </metadata>
+  <wpt lat="50.405017" lon="16.929138">
+    <ele>686</ele>
+    <name>Vysoky Kamen, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2104">
+      <text>Vysoky Kamen, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.405847" lon="16.931769">
+    <ele>691</ele>
+    <name>Vysoky Kamen</name>
+    <link href="https://mapa-turystyczna.pl/node/2176">
+      <text>Vysoky Kamen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vysoky Kamen, rozc. - Vysoky Kamen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4050166,16.9291377;50.40527505002415,16.930704099999986;50.4058474,16.931769">
+    <text>Vysoky Kamen, rozc. - Vysoky Kamen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4050166" lon="16.9291377">
+      <ele>686</ele>
+      <time>2022-01-17T21:24:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4052135" lon="16.9296527">
+      <ele>685</ele>
+      <time>2022-01-17T21:24:59Z</time>
+    </trkpt>
+    <trkpt lat="50.405446" lon="16.9300818">
+      <ele>686</ele>
+      <time>2022-01-17T21:25:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4053229" lon="16.9305539">
+      <ele>687</ele>
+      <time>2022-01-17T21:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.4052272" lon="16.9308543">
+      <ele>688</ele>
+      <time>2022-01-17T21:27:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4055144" lon="16.9311118">
+      <ele>691</ele>
+      <time>2022-01-17T21:27:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4057058" lon="16.9312406">
+      <ele>691</ele>
+      <time>2022-01-17T21:28:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4058474" lon="16.931769">
+      <ele>691</ele>
+      <time>2022-01-17T21:29:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

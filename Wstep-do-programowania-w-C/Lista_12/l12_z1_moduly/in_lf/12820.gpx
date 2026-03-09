@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:55Z</time>
+    <bounds maxlat="50.814581" maxlon="15.185641" minlat="50.8129953" minlon="15.180827"/>
+  </metadata>
+  <wpt lat="50.813037" lon="15.185641">
+    <ele>815</ele>
+    <name>Kristianov</name>
+    <link href="https://mapa-turystyczna.pl/node/8816">
+      <text>Kristianov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.814581" lon="15.180827">
+    <ele>802</ele>
+    <name>Pod Kristianovem</name>
+    <link href="https://mapa-turystyczna.pl/node/8818">
+      <text>Pod Kristianovem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kristianov - Pod Kristianovem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8130373,15.185641;50.81377860015491,15.182816699999968;50.814581,15.180827">
+    <text>Kristianov - Pod Kristianovem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8130373" lon="15.185641">
+      <ele>815</ele>
+      <time>2022-01-17T23:56:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8129953" lon="15.1854264">
+      <ele>815</ele>
+      <time>2022-01-17T23:57:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8129973" lon="15.1852226">
+      <ele>815</ele>
+      <time>2022-01-17T23:57:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8130956" lon="15.1847881">
+      <ele>815</ele>
+      <time>2022-01-17T23:57:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8133736" lon="15.1840317">
+      <ele>815</ele>
+      <time>2022-01-17T23:58:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8136583" lon="15.183329">
+      <ele>815</ele>
+      <time>2022-01-17T23:59:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8138989" lon="15.1823044">
+      <ele>811</ele>
+      <time>2022-01-18T00:00:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8140582" lon="15.1818269">
+      <ele>808</ele>
+      <time>2022-01-18T00:00:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8143396" lon="15.181269">
+      <ele>805</ele>
+      <time>2022-01-18T00:01:23Z</time>
+    </trkpt>
+    <trkpt lat="50.814581" lon="15.180827">
+      <ele>802</ele>
+      <time>2022-01-18T00:01:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:05Z</time>
+    <bounds maxlat="50.3827794" maxlon="18.9437908" minlat="50.3778772" minlon="18.9434297"/>
+  </metadata>
+  <wpt lat="50.382779" lon="18.943791">
+    <ele>299</ele>
+    <name>Piekary Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/9582">
+      <text>Piekary Slaskie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.377877" lon="18.943696">
+    <ele>289</ele>
+    <name>Piekary Slaskie, ogrodki</name>
+    <link href="https://mapa-turystyczna.pl/node/9684">
+      <text>Piekary Slaskie, ogrodki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piekary Slaskie - Piekary Slaskie, ogrodki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3827794,18.9437908;50.379583130675485,18.943562699999994;50.3778772,18.9436957">
+    <text>Piekary Slaskie - Piekary Slaskie, ogrodki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3827794" lon="18.9437908">
+      <ele>299</ele>
+      <time>2022-01-18T00:18:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3814532" lon="18.9434404">
+      <ele>294</ele>
+      <time>2022-01-18T00:20:49Z</time>
+    </trkpt>
+    <trkpt lat="50.381289" lon="18.9434297">
+      <ele>293</ele>
+      <time>2022-01-18T00:21:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3778772" lon="18.9436957">
+      <ele>289</ele>
+      <time>2022-01-18T00:28:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

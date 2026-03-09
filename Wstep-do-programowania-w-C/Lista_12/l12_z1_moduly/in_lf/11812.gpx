@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:40:22Z</time>
+    <bounds maxlat="50.6634721" maxlon="16.1035538" minlat="50.6601007" minlon="16.1002112"/>
+  </metadata>
+  <wpt lat="50.663472" lon="16.103554">
+    <ele>649</ele>
+    <name>Straznicze Naroze</name>
+    <link href="https://mapa-turystyczna.pl/node/2908">
+      <text>Straznicze Naroze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.660101" lon="16.100211">
+    <ele>700</ele>
+    <name>Zielonka</name>
+    <link href="https://mapa-turystyczna.pl/node/8216">
+      <text>Zielonka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Straznicze Naroze - Zielonka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6634721,16.1035538;50.66254715050441,16.10097350000001;50.6601007,16.1002112">
+    <text>Straznicze Naroze - Zielonka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6634721" lon="16.1035538">
+      <ele>649</ele>
+      <time>2022-01-17T23:40:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6632324" lon="16.1034666">
+      <ele>653</ele>
+      <time>2022-01-17T23:41:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6630198" lon="16.1031649">
+      <ele>662</ele>
+      <time>2022-01-17T23:42:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6629212" lon="16.1023682">
+      <ele>667</ele>
+      <time>2022-01-17T23:43:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6627648" lon="16.1013544">
+      <ele>676</ele>
+      <time>2022-01-17T23:45:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6623295" lon="16.1005926">
+      <ele>685</ele>
+      <time>2022-01-17T23:48:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6612618" lon="16.1002922">
+      <ele>706</ele>
+      <time>2022-01-17T23:51:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6601007" lon="16.1002112">
+      <ele>700</ele>
+      <time>2022-01-17T23:55:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

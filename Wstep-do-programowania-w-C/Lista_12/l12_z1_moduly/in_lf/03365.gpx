@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:51Z</time>
+    <bounds maxlat="50.7852136" maxlon="16.0238224" minlat="50.7828327" minlon="16.019209"/>
+  </metadata>
+  <wpt lat="50.785214" lon="16.023822">
+    <ele>448</ele>
+    <name>Kamienna Gora, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2408">
+      <text>Kamienna Gora, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="50.783324" lon="16.019209">
+    <ele>449</ele>
+    <name>Kamienna Gora, pod Widokiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2409">
+      <text>Kamienna Gora, pod Widokiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienna Gora, PKP - Kamienna Gora, pod Widokiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7852136,16.0238224;50.784023165155006,16.022422300000017;50.7833245,16.019209">
+    <text>Kamienna Gora, PKP - Kamienna Gora, pod Widokiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7852136" lon="16.0238224">
+      <ele>448</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7828327" lon="16.0210222">
+      <ele>446</ele>
+      <time>2022-01-17T21:32:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7830721" lon="16.0199805">
+      <ele>446</ele>
+      <time>2022-01-17T21:33:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7833245" lon="16.019209">
+      <ele>449</ele>
+      <time>2022-01-17T21:33:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

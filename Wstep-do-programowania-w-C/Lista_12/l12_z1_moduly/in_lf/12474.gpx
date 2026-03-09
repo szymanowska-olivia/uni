@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:42Z</time>
+    <bounds maxlat="49.339579" maxlon="21.009075" minlat="49.337122" minlon="21.006861"/>
+  </metadata>
+  <wpt lat="49.337122" lon="21.009075">
+    <ele>751</ele>
+    <name>Kralova studna</name>
+    <link href="https://mapa-turystyczna.pl/node/8587">
+      <text>Kralova studna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.339579" lon="21.006861">
+    <ele>718</ele>
+    <name>Nad Wojkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/422">
+      <text>Nad Wojkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralova studna - Nad Wojkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.337122,21.009075;49.33809100103383,21.008138000000006;49.339579,21.006861">
+    <text>Kralova studna - Nad Wojkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.337122" lon="21.009075">
+      <ele>751</ele>
+      <time>2022-01-17T23:50:42Z</time>
+    </trkpt>
+    <trkpt lat="49.337276" lon="21.008877">
+      <ele>745</ele>
+      <time>2022-01-17T23:51:04Z</time>
+    </trkpt>
+    <trkpt lat="49.337772" lon="21.00841">
+      <ele>734</ele>
+      <time>2022-01-17T23:52:05Z</time>
+    </trkpt>
+    <trkpt lat="49.33841" lon="21.007866">
+      <ele>729</ele>
+      <time>2022-01-17T23:53:22Z</time>
+    </trkpt>
+    <trkpt lat="49.33866" lon="21.007675">
+      <ele>727</ele>
+      <time>2022-01-17T23:53:51Z</time>
+    </trkpt>
+    <trkpt lat="49.338922" lon="21.007463">
+      <ele>726</ele>
+      <time>2022-01-17T23:54:22Z</time>
+    </trkpt>
+    <trkpt lat="49.339432" lon="21.007024">
+      <ele>719</ele>
+      <time>2022-01-17T23:55:23Z</time>
+    </trkpt>
+    <trkpt lat="49.339579" lon="21.006861">
+      <ele>718</ele>
+      <time>2022-01-17T23:55:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:25Z</time>
+    <bounds maxlat="50.1508157" maxlon="16.6135168" minlat="50.1479145" minlon="16.5983034"/>
+  </metadata>
+  <wpt lat="50.147956" lon="16.598303">
+    <ele>595</ele>
+    <name>Lesica</name>
+    <link href="https://mapa-turystyczna.pl/node/1984">
+      <text>Lesica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.150816" lon="16.613517">
+    <ele>620</ele>
+    <name>Lesica, zolty szlak</name>
+    <link href="https://mapa-turystyczna.pl/node/1985">
+      <text>Lesica, zolty szlak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesica - Lesica, zolty szlak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1479558,16.5983034;50.14839750000373,16.60629495000002;50.1508157,16.6135168">
+    <text>Lesica - Lesica, zolty szlak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1479558" lon="16.5983034">
+      <ele>595</ele>
+      <time>2022-01-17T21:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1479145" lon="16.5987754">
+      <ele>596</ele>
+      <time>2022-01-17T21:21:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1479145" lon="16.5991187">
+      <ele>597</ele>
+      <time>2022-01-17T21:21:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1480864" lon="16.5996981">
+      <ele>599</ele>
+      <time>2022-01-17T21:22:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1482789" lon="16.6007066">
+      <ele>603</ele>
+      <time>2022-01-17T21:23:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1486845" lon="16.6023481">
+      <ele>608</ele>
+      <time>2022-01-17T21:25:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1487121" lon="16.6044671">
+      <ele>609</ele>
+      <time>2022-01-17T21:28:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1484164" lon="16.6060495">
+      <ele>613</ele>
+      <time>2022-01-17T21:30:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1483786" lon="16.6065404">
+      <ele>615</ele>
+      <time>2022-01-17T21:30:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1484851" lon="16.6070259">
+      <ele>615</ele>
+      <time>2022-01-17T21:31:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1487189" lon="16.6079593">
+      <ele>614</ele>
+      <time>2022-01-17T21:32:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1497398" lon="16.6099119">
+      <ele>614</ele>
+      <time>2022-01-17T21:35:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1508157" lon="16.6135168">
+      <ele>620</ele>
+      <time>2022-01-17T21:40:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

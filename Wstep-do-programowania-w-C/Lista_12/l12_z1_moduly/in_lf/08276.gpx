@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:56Z</time>
+    <bounds maxlat="50.5076374" maxlon="16.3115162" minlat="50.5071189" minlon="16.3095635"/>
+  </metadata>
+  <wpt lat="50.507119" lon="16.309563">
+    <ele>565</ele>
+    <name>U Zabiteho</name>
+    <link href="https://mapa-turystyczna.pl/node/5753">
+      <text>U Zabiteho</text>
+    </link>
+  </wpt>
+  <wpt lat="50.507637" lon="16.311516">
+    <ele>587</ele>
+    <name>U Zabiteho, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5752">
+      <text>U Zabiteho, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Zabiteho - U Zabiteho, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5071189,16.3095635;50.5072007500005,16.31040375000001;50.5076374,16.3115162">
+    <text>U Zabiteho - U Zabiteho, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5071189" lon="16.3095635">
+      <ele>565</ele>
+      <time>2022-01-17T22:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.5071939" lon="16.3099377">
+      <ele>568</ele>
+      <time>2022-01-17T22:36:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5072076" lon="16.3108698">
+      <ele>576</ele>
+      <time>2022-01-17T22:38:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5074055" lon="16.3112144">
+      <ele>582</ele>
+      <time>2022-01-17T22:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5076374" lon="16.3115162">
+      <ele>587</ele>
+      <time>2022-01-17T22:40:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:27Z</time>
+    <bounds maxlat="50.5908931" maxlon="16.4015043" minlat="50.5903447" minlon="16.3965368"/>
+  </metadata>
+  <wpt lat="50.590893" lon="16.401504">
+    <ele>441</ele>
+    <name>Sonov</name>
+    <link href="https://mapa-turystyczna.pl/node/2423">
+      <text>Sonov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.590512" lon="16.396537">
+    <ele>467</ele>
+    <name>Sonov, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/2424">
+      <text>Sonov, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sonov - Sonov, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5908931,16.4015043;50.59041530005294,16.39908670000002;50.5905116,16.3965368">
+    <text>Sonov - Sonov, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5908931" lon="16.4015043">
+      <ele>441</ele>
+      <time>2022-01-17T21:29:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5906517" lon="16.4012696">
+      <ele>443</ele>
+      <time>2022-01-17T21:30:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5904723" lon="16.4008856">
+      <ele>444</ele>
+      <time>2022-01-17T21:31:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5904042" lon="16.4004725">
+      <ele>444</ele>
+      <time>2022-01-17T21:31:55Z</time>
+    </trkpt>
+    <trkpt lat="50.590411" lon="16.3997751">
+      <ele>444</ele>
+      <time>2022-01-17T21:33:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5903447" lon="16.3995248">
+      <ele>444</ele>
+      <time>2022-01-17T21:33:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5904859" lon="16.3986486">
+      <ele>451</ele>
+      <time>2022-01-17T21:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5905985" lon="16.3975239">
+      <ele>461</ele>
+      <time>2022-01-17T21:37:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5906364" lon="16.3970572">
+      <ele>464</ele>
+      <time>2022-01-17T21:38:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5906198" lon="16.3966227">
+      <ele>466</ele>
+      <time>2022-01-17T21:39:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5905116" lon="16.3965368">
+      <ele>467</ele>
+      <time>2022-01-17T21:39:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

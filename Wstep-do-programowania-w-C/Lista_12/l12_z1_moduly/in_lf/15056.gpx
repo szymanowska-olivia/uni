@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:31Z</time>
+    <bounds maxlat="52.2553835" maxlon="16.806722" minlat="52.2548608" minlon="16.8004209"/>
+  </metadata>
+  <wpt lat="52.255384" lon="16.800421">
+    <ele>92</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10266">
+      <text>Skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.254976" lon="16.806722">
+    <ele>91</ele>
+    <name>Glaz Franciszka Jaskowiaka</name>
+    <link href="https://mapa-turystyczna.pl/node/10245">
+      <text>Glaz Franciszka Jaskowiaka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski - Glaz Franciszka Jaskowiaka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2553835,16.8004209;52.25494620003935,16.803855799999994;52.2549757,16.806722">
+    <text>Skrzyzowanie szlakow czerwony / niebieski - Glaz Franciszka Jaskowiaka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2553835" lon="16.8004209">
+      <ele>92</ele>
+      <time>2022-01-18T00:32:31Z</time>
+    </trkpt>
+    <trkpt lat="52.255071" lon="16.8013131">
+      <ele>87</ele>
+      <time>2022-01-18T00:33:19Z</time>
+    </trkpt>
+    <trkpt lat="52.254979" lon="16.801871">
+      <ele>85</ele>
+      <time>2022-01-18T00:33:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2550053" lon="16.8034266">
+      <ele>88</ele>
+      <time>2022-01-18T00:34:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2548871" lon="16.804285">
+      <ele>88</ele>
+      <time>2022-01-18T00:35:38Z</time>
+    </trkpt>
+    <trkpt lat="52.2548608" lon="16.8049823">
+      <ele>87</ele>
+      <time>2022-01-18T00:36:10Z</time>
+    </trkpt>
+    <trkpt lat="52.2549199" lon="16.8060338">
+      <ele>89</ele>
+      <time>2022-01-18T00:36:59Z</time>
+    </trkpt>
+    <trkpt lat="52.2549757" lon="16.806722">
+      <ele>91</ele>
+      <time>2022-01-18T00:37:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

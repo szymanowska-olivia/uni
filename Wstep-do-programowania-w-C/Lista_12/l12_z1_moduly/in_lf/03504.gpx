@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:53Z</time>
+    <bounds maxlat="49.244041" maxlon="20.006104" minlat="49.24305" minlon="20.005588"/>
+  </metadata>
+  <wpt lat="49.244041" lon="20.006104">
+    <ele>1516</ele>
+    <name>Stacja IMGW</name>
+    <link href="https://mapa-turystyczna.pl/node/2470">
+      <text>Stacja IMGW</text>
+    </link>
+  </wpt>
+  <wpt lat="49.24305" lon="20.005599">
+    <ele>1508</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12700">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stacja IMGW - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.244041,20.006104;49.243538500319026,20.005849499999986;49.24305,20.005599">
+    <text>Stacja IMGW - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.244041" lon="20.006104">
+      <ele>1516</ele>
+      <time>2022-01-17T21:30:53Z</time>
+    </trkpt>
+    <trkpt lat="49.243716" lon="20.005923">
+      <ele>1514</ele>
+      <time>2022-01-17T21:31:32Z</time>
+    </trkpt>
+    <trkpt lat="49.243361" lon="20.005776">
+      <ele>1509</ele>
+      <time>2022-01-17T21:32:14Z</time>
+    </trkpt>
+    <trkpt lat="49.243156" lon="20.005607">
+      <ele>1508</ele>
+      <time>2022-01-17T21:32:41Z</time>
+    </trkpt>
+    <trkpt lat="49.243096" lon="20.005588">
+      <ele>1508</ele>
+      <time>2022-01-17T21:32:48Z</time>
+    </trkpt>
+    <trkpt lat="49.24305" lon="20.005599">
+      <ele>1508</ele>
+      <time>2022-01-17T21:32:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

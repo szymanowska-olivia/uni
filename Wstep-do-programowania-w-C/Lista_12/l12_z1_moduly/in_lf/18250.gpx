@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:51Z</time>
+    <bounds maxlat="52.3044001" maxlon="20.874179" minlat="52.3042244" minlon="20.870016"/>
+  </metadata>
+  <wpt lat="52.3044" lon="20.870016">
+    <ele>94</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12391">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.304224" lon="20.874179">
+    <ele>95</ele>
+    <name>Polana Turystyczna Opalen</name>
+    <link href="https://mapa-turystyczna.pl/node/4990">
+      <text>Polana Turystyczna Opalen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Polana Turystyczna Opalen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3044001,20.870016;52.30431225008717,20.8720975;52.3042244,20.874179">
+    <text>Odejscie sciezki dydaktycznej - Polana Turystyczna Opalen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3044001" lon="20.870016">
+      <ele>94</ele>
+      <time>2022-01-18T01:27:51Z</time>
+    </trkpt>
+    <trkpt lat="52.3042244" lon="20.874179">
+      <ele>95</ele>
+      <time>2022-01-18T01:32:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

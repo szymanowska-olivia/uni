@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:48Z</time>
+    <bounds maxlat="50.7419209" maxlon="15.34657" minlat="50.7415611" minlon="15.3445852"/>
+  </metadata>
+  <wpt lat="50.741561" lon="15.34657">
+    <ele>798</ele>
+    <name>Prichovice, hrbitov</name>
+    <link href="https://mapa-turystyczna.pl/node/3075">
+      <text>Prichovice, hrbitov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.741921" lon="15.344585">
+    <ele>789</ele>
+    <name>Prichovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3086">
+      <text>Prichovice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prichovice, hrbitov - Prichovice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7415611,15.34657;50.74180380014642,15.345124300000021;50.7419209,15.3445852">
+    <text>Prichovice, hrbitov - Prichovice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7415611" lon="15.34657">
+      <ele>798</ele>
+      <time>2022-01-17T21:42:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7416867" lon="15.3456634">
+      <ele>796</ele>
+      <time>2022-01-17T21:43:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7419209" lon="15.3445852">
+      <ele>789</ele>
+      <time>2022-01-17T21:44:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

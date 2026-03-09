@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:21Z</time>
+    <bounds maxlat="51.4092882" maxlon="23.1266196" minlat="51.4004928" minlon="23.1195983"/>
+  </metadata>
+  <wpt lat="51.409288" lon="23.119598">
+    <ele>168</ele>
+    <name>Rozejscie szlakow, wiata turystyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12984">
+      <text>Rozejscie szlakow, wiata turystyczna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.400493" lon="23.125749">
+    <ele>171</ele>
+    <name>Nowe Zalucze</name>
+    <link href="https://mapa-turystyczna.pl/node/12985">
+      <text>Nowe Zalucze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow, wiata turystyczna - Nowe Zalucze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4092882,23.1195983;51.405631810287694,23.12498590000001;51.4004928,23.1257494">
+    <text>Rozejscie szlakow, wiata turystyczna - Nowe Zalucze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4092882" lon="23.1195983">
+      <ele>168</ele>
+      <time>2022-01-18T01:44:21Z</time>
+    </trkpt>
+    <trkpt lat="51.4086041" lon="23.1210985">
+      <ele>168</ele>
+      <time>2022-01-18T01:46:34Z</time>
+    </trkpt>
+    <trkpt lat="51.4076172" lon="23.1222041">
+      <ele>166</ele>
+      <time>2022-01-18T01:48:52Z</time>
+    </trkpt>
+    <trkpt lat="51.4070526" lon="23.123202">
+      <ele>166</ele>
+      <time>2022-01-18T01:50:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4066018" lon="23.1242858">
+      <ele>168</ele>
+      <time>2022-01-18T01:52:01Z</time>
+    </trkpt>
+    <trkpt lat="51.4046618" lon="23.125686">
+      <ele>167</ele>
+      <time>2022-01-18T01:56:05Z</time>
+    </trkpt>
+    <trkpt lat="51.4035496" lon="23.1263084">
+      <ele>172</ele>
+      <time>2022-01-18T01:58:20Z</time>
+    </trkpt>
+    <trkpt lat="51.4030821" lon="23.1265686">
+      <ele>174</ele>
+      <time>2022-01-18T01:59:17Z</time>
+    </trkpt>
+    <trkpt lat="51.4026716" lon="23.1266196">
+      <ele>174</ele>
+      <time>2022-01-18T02:00:04Z</time>
+    </trkpt>
+    <trkpt lat="51.4004928" lon="23.1257494">
+      <ele>171</ele>
+      <time>2022-01-18T02:04:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

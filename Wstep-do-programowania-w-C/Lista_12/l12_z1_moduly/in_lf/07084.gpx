@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:29Z</time>
+    <bounds maxlat="50.483985" maxlon="16.3375604" minlat="50.4835143" minlon="16.336793"/>
+  </metadata>
+  <wpt lat="50.483514" lon="16.33756">
+    <ele>867</ele>
+    <name>Szczeliniec Wielki, przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1822">
+      <text>Szczeliniec Wielki, przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.483985" lon="16.336793">
+    <ele>864</ele>
+    <name>Szczeliniec Wielki, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4827">
+      <text>Szczeliniec Wielki, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczeliniec Wielki, przelecz - Szczeliniec Wielki, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4835143,16.3375604;50.48384140021819,16.33699029999999;50.483985,16.336793">
+    <text>Szczeliniec Wielki, przelecz - Szczeliniec Wielki, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4835143" lon="16.3375604">
+      <ele>867</ele>
+      <time>2022-01-17T22:17:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4836978" lon="16.3371876">
+      <ele>866</ele>
+      <time>2022-01-17T22:17:55Z</time>
+    </trkpt>
+    <trkpt lat="50.483985" lon="16.336793">
+      <ele>864</ele>
+      <time>2022-01-17T22:18:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

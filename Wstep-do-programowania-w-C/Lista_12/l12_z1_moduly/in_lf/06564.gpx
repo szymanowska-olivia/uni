@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:20Z</time>
+    <bounds maxlat="50.4563292" maxlon="19.5511794" minlat="50.4545361" minlon="19.5479017"/>
+  </metadata>
+  <wpt lat="50.456329" lon="19.551179">
+    <ele>425</ele>
+    <name>Podzamcze, ul. Partyzantow</name>
+    <link href="https://mapa-turystyczna.pl/node/4571">
+      <text>Podzamcze, ul. Partyzantow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.454536" lon="19.547902">
+    <ele>430</ele>
+    <name>Podzamcze, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4554">
+      <text>Podzamcze, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podzamcze, ul. Partyzantow - Podzamcze, ul. Wojska Polskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4563292,19.5511794;50.45568750435234,19.550199749999997;50.4545361,19.5479017">
+    <text>Podzamcze, ul. Partyzantow - Podzamcze, ul. Wojska Polskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4563292" lon="19.5511794">
+      <ele>425</ele>
+      <time>2022-01-17T22:09:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4550458" lon="19.5492201">
+      <ele>430</ele>
+      <time>2022-01-17T22:12:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4547256" lon="19.5485589">
+      <ele>429</ele>
+      <time>2022-01-17T22:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4545361" lon="19.5479017">
+      <ele>430</ele>
+      <time>2022-01-17T22:14:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

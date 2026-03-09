@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:17Z</time>
+    <bounds maxlat="50.8472702" maxlon="15.1739579" minlat="50.847001" minlon="15.1736863"/>
+  </metadata>
+  <wpt lat="50.84727" lon="15.173958">
+    <ele>992</ele>
+    <name>Ptaci kupy, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8804">
+      <text>Ptaci kupy, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.847001" lon="15.173686">
+    <ele>994</ele>
+    <name>Ptaci kupy</name>
+    <link href="https://mapa-turystyczna.pl/node/12917">
+      <text>Ptaci kupy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ptaci kupy, rozc. - Ptaci kupy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8472702,15.1739579;50.84707555000995,15.173849950000022;50.847001,15.1736863">
+    <text>Ptaci kupy, rozc. - Ptaci kupy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8472702" lon="15.1739579">
+      <ele>992</ele>
+      <time>2022-01-18T01:42:17Z</time>
+    </trkpt>
+    <trkpt lat="50.847106" lon="15.1738955">
+      <ele>994</ele>
+      <time>2022-01-18T01:42:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8470451" lon="15.1738044">
+      <ele>994</ele>
+      <time>2022-01-18T01:43:02Z</time>
+    </trkpt>
+    <trkpt lat="50.847001" lon="15.1736863">
+      <ele>994</ele>
+      <time>2022-01-18T01:43:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

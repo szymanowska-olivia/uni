@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:16Z</time>
+    <bounds maxlat="49.356006" maxlon="20.897002" minlat="49.354792" minlon="20.895979"/>
+  </metadata>
+  <wpt lat="49.356006" lon="20.897002">
+    <ele>450</ele>
+    <name>Muszyna, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/8673">
+      <text>Muszyna, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.354792" lon="20.895979">
+    <ele>450</ele>
+    <name>Muszyna, ul. Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8672">
+      <text>Muszyna, ul. Ogrodowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Muszyna, Rynek - Muszyna, ul. Ogrodowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.356006,20.897002;49.35537400001546,20.896452000000032;49.354792,20.895979">
+    <text>Muszyna, Rynek - Muszyna, ul. Ogrodowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.356006" lon="20.897002">
+      <ele>450</ele>
+      <time>2022-01-17T23:53:16Z</time>
+    </trkpt>
+    <trkpt lat="49.355762" lon="20.896726">
+      <ele>450</ele>
+      <time>2022-01-17T23:53:42Z</time>
+    </trkpt>
+    <trkpt lat="49.35563" lon="20.896636">
+      <ele>450</ele>
+      <time>2022-01-17T23:53:55Z</time>
+    </trkpt>
+    <trkpt lat="49.355413" lon="20.896476">
+      <ele>451</ele>
+      <time>2022-01-17T23:54:15Z</time>
+    </trkpt>
+    <trkpt lat="49.355335" lon="20.896428">
+      <ele>451</ele>
+      <time>2022-01-17T23:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.355127" lon="20.89627">
+      <ele>451</ele>
+      <time>2022-01-17T23:54:43Z</time>
+    </trkpt>
+    <trkpt lat="49.354897" lon="20.896083">
+      <ele>450</ele>
+      <time>2022-01-17T23:55:05Z</time>
+    </trkpt>
+    <trkpt lat="49.354792" lon="20.895979">
+      <ele>450</ele>
+      <time>2022-01-17T23:55:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

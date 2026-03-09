@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:21Z</time>
+    <bounds maxlat="51.1185291" maxlon="20.3583205" minlat="51.1137069" minlon="20.3495336"/>
+  </metadata>
+  <wpt lat="51.113707" lon="20.349534">
+    <ele>231</ele>
+    <name>Sielpia Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/3209">
+      <text>Sielpia Wielka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.117162" lon="20.358321">
+    <ele>236</ele>
+    <name>Sielpia-Letnisko</name>
+    <link href="https://mapa-turystyczna.pl/node/7270">
+      <text>Sielpia-Letnisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sielpia Wielka - Sielpia-Letnisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1137069,20.3495336;51.116710735782156,20.350917550000002;51.1171619,20.3583205">
+    <text>Sielpia Wielka - Sielpia-Letnisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1137069" lon="20.3495336">
+      <ele>231</ele>
+      <time>2022-01-17T23:14:21Z</time>
+    </trkpt>
+    <trkpt lat="51.1142322" lon="20.3495336">
+      <ele>231</ele>
+      <time>2022-01-17T23:15:12Z</time>
+    </trkpt>
+    <trkpt lat="51.1148923" lon="20.3497481">
+      <ele>231</ele>
+      <time>2022-01-17T23:16:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1185291" lon="20.352087">
+      <ele>235</ele>
+      <time>2022-01-17T23:22:35Z</time>
+    </trkpt>
+    <trkpt lat="51.1181385" lon="20.3537178">
+      <ele>238</ele>
+      <time>2022-01-17T23:24:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1175593" lon="20.357666">
+      <ele>236</ele>
+      <time>2022-01-17T23:28:26Z</time>
+    </trkpt>
+    <trkpt lat="51.1171619" lon="20.3583205">
+      <ele>236</ele>
+      <time>2022-01-17T23:29:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

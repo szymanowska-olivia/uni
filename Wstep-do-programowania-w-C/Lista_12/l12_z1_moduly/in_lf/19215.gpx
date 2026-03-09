@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:13Z</time>
+    <bounds maxlat="51.5235426" maxlon="23.5881382" minlat="51.5167786" minlon="23.5729667"/>
+  </metadata>
+  <wpt lat="51.523543" lon="23.572967">
+    <ele>159</ele>
+    <name>Orchowek</name>
+    <link href="https://mapa-turystyczna.pl/node/12980">
+      <text>Orchowek</text>
+    </link>
+  </wpt>
+  <wpt lat="51.516779" lon="23.586489">
+    <ele>160</ele>
+    <name>Orchowek, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12953">
+      <text>Orchowek, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orchowek - Orchowek, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5235426,23.5729667;51.52091587389779,23.583310199999985;51.5167786,23.5864892">
+    <text>Orchowek - Orchowek, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5235426" lon="23.5729667">
+      <ele>159</ele>
+      <time>2022-01-18T01:44:13Z</time>
+    </trkpt>
+    <trkpt lat="51.5223912" lon="23.5784822">
+      <ele>158</ele>
+      <time>2022-01-18T01:49:43Z</time>
+    </trkpt>
+    <trkpt lat="51.5194405" lon="23.5881382">
+      <ele>159</ele>
+      <time>2022-01-18T01:59:52Z</time>
+    </trkpt>
+    <trkpt lat="51.5185666" lon="23.5874235">
+      <ele>161</ele>
+      <time>2022-01-18T02:01:22Z</time>
+    </trkpt>
+    <trkpt lat="51.5183429" lon="23.5872733">
+      <ele>160</ele>
+      <time>2022-01-18T02:01:44Z</time>
+    </trkpt>
+    <trkpt lat="51.5167786" lon="23.5864892">
+      <ele>160</ele>
+      <time>2022-01-18T02:04:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

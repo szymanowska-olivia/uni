@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:54Z</time>
+    <bounds maxlat="50.8837163" maxlon="16.7317412" minlat="50.8825832" minlon="16.7289056"/>
+  </metadata>
+  <wpt lat="50.883716" lon="16.728906">
+    <ele>387</ele>
+    <name>Przelecz Debowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8325">
+      <text>Przelecz Debowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.882583" lon="16.731741">
+    <ele>371</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11696">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Debowa - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8837163,16.7289056;50.882974450107,16.730454749999986;50.8825832,16.7317412">
+    <text>Przelecz Debowa - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8837163" lon="16.7289056">
+      <ele>387</ele>
+      <time>2022-01-18T01:08:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8835887" lon="16.7289903">
+      <ele>387</ele>
+      <time>2022-01-18T01:09:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8834974" lon="16.7290493">
+      <ele>387</ele>
+      <time>2022-01-18T01:09:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8834161" lon="16.7292209">
+      <ele>386</ele>
+      <time>2022-01-18T01:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8832875" lon="16.7296608">
+      <ele>385</ele>
+      <time>2022-01-18T01:10:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8830743" lon="16.7301597">
+      <ele>380</ele>
+      <time>2022-01-18T01:11:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8828746" lon="16.7307498">
+      <ele>374</ele>
+      <time>2022-01-18T01:12:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8827257" lon="16.7313667">
+      <ele>371</ele>
+      <time>2022-01-18T01:13:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8825832" lon="16.7317412">
+      <ele>371</ele>
+      <time>2022-01-18T01:13:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

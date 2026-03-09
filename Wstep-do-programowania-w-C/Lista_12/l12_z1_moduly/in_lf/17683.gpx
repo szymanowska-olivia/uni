@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:47Z</time>
+    <bounds maxlat="51.7929503" maxlon="21.1824402" minlat="51.787064" minlon="21.1706867"/>
+  </metadata>
+  <wpt lat="51.787064" lon="21.18244">
+    <ele>121</ele>
+    <name>Warka, ul. Gosniewska</name>
+    <link href="https://mapa-turystyczna.pl/node/12002">
+      <text>Warka, ul. Gosniewska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.79295" lon="21.170687">
+    <ele>117</ele>
+    <name>Warka, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12003">
+      <text>Warka, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Gosniewska - Warka, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.787064,21.1824402;51.788274766249565,21.178781899999997;51.7929503,21.1706867">
+    <text>Warka, ul. Gosniewska - Warka, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.787064" lon="21.1824402">
+      <ele>121</ele>
+      <time>2022-01-18T01:17:47Z</time>
+    </trkpt>
+    <trkpt lat="51.7894855" lon="21.1751236">
+      <ele>113</ele>
+      <time>2022-01-18T01:25:50Z</time>
+    </trkpt>
+    <trkpt lat="51.7895728" lon="21.174877">
+      <ele>113</ele>
+      <time>2022-01-18T01:26:06Z</time>
+    </trkpt>
+    <trkpt lat="51.7898184" lon="21.1745337">
+      <ele>114</ele>
+      <time>2022-01-18T01:26:37Z</time>
+    </trkpt>
+    <trkpt lat="51.7898781" lon="21.1744478">
+      <ele>115</ele>
+      <time>2022-01-18T01:26:44Z</time>
+    </trkpt>
+    <trkpt lat="51.7915471" lon="21.1725166">
+      <ele>115</ele>
+      <time>2022-01-18T01:29:57Z</time>
+    </trkpt>
+    <trkpt lat="51.7918723" lon="21.1721036">
+      <ele>117</ele>
+      <time>2022-01-18T01:30:36Z</time>
+    </trkpt>
+    <trkpt lat="51.7924113" lon="21.1714274">
+      <ele>118</ele>
+      <time>2022-01-18T01:31:40Z</time>
+    </trkpt>
+    <trkpt lat="51.7929503" lon="21.1706867">
+      <ele>117</ele>
+      <time>2022-01-18T01:32:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

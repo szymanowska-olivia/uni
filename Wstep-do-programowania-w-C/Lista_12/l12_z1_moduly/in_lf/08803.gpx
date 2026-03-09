@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:29Z</time>
+    <bounds maxlat="50.2416199" maxlon="17.1883196" minlat="50.2407347" minlon="17.1876812"/>
+  </metadata>
+  <wpt lat="50.240735" lon="17.187681">
+    <ele>612</ele>
+    <name>Lazne Jesenik</name>
+    <link href="https://mapa-turystyczna.pl/node/6124">
+      <text>Lazne Jesenik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.24162" lon="17.18832">
+    <ele>626</ele>
+    <name>Lazne Jesenik, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6122">
+      <text>Lazne Jesenik, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lazne Jesenik - Lazne Jesenik, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2407347,17.1876812;50.24139515052985,17.18807149999997;50.2416199,17.1883196">
+    <text>Lazne Jesenik - Lazne Jesenik, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2407347" lon="17.1876812">
+      <ele>612</ele>
+      <time>2022-01-17T22:45:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2410572" lon="17.1877027">
+      <ele>617</ele>
+      <time>2022-01-17T22:46:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2411704" lon="17.1878234">
+      <ele>619</ele>
+      <time>2022-01-17T22:46:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2416199" lon="17.1883196">
+      <ele>626</ele>
+      <time>2022-01-17T22:48:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

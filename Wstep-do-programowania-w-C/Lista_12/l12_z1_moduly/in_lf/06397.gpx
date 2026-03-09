@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:28Z</time>
+    <bounds maxlat="50.458894" maxlon="19.4589731" minlat="50.456155" minlon="19.454805"/>
+  </metadata>
+  <wpt lat="50.458894" lon="19.454805">
+    <ele>348</ele>
+    <name>Zawiercie, Jozefow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4464">
+      <text>Zawiercie, Jozefow, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.456155" lon="19.458973">
+    <ele>339</ele>
+    <name>Zawiercie, Jozefow</name>
+    <link href="https://mapa-turystyczna.pl/node/4465">
+      <text>Zawiercie, Jozefow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawiercie, Jozefow, skrzyzowanie - Zawiercie, Jozefow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.458894,19.454805;50.45783040021554,19.457446300000004;50.456155,19.4589731">
+    <text>Zawiercie, Jozefow, skrzyzowanie - Zawiercie, Jozefow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.458894" lon="19.454805">
+      <ele>348</ele>
+      <time>2022-01-17T22:06:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4587403" lon="19.4553796">
+      <ele>347</ele>
+      <time>2022-01-17T22:06:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4585252" lon="19.4560079">
+      <ele>348</ele>
+      <time>2022-01-17T22:07:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4583664" lon="19.4566725">
+      <ele>347</ele>
+      <time>2022-01-17T22:08:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4582076" lon="19.4570902">
+      <ele>347</ele>
+      <time>2022-01-17T22:08:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4579732" lon="19.4574081">
+      <ele>345</ele>
+      <time>2022-01-17T22:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4576876" lon="19.4574845">
+      <ele>345</ele>
+      <time>2022-01-17T22:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4573008" lon="19.4578386">
+      <ele>343</ele>
+      <time>2022-01-17T22:09:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4569208" lon="19.4581739">
+      <ele>342</ele>
+      <time>2022-01-17T22:10:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4565477" lon="19.4583911">
+      <ele>340</ele>
+      <time>2022-01-17T22:10:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4564051" lon="19.458666">
+      <ele>340</ele>
+      <time>2022-01-17T22:11:04Z</time>
+    </trkpt>
+    <trkpt lat="50.456155" lon="19.4589731">
+      <ele>339</ele>
+      <time>2022-01-17T22:11:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

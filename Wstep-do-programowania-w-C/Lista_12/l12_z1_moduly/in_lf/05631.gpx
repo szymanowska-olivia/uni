@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:45Z</time>
+    <bounds maxlat="49.8372743" maxlon="20.9617956" minlat="49.834488" minlon="20.9597308"/>
+  </metadata>
+  <wpt lat="49.837274" lon="20.961796">
+    <ele>236</ele>
+    <name>Gromnik, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3931">
+      <text>Gromnik, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.834488" lon="20.959731">
+    <ele>236</ele>
+    <name>Gromnik</name>
+    <link href="https://mapa-turystyczna.pl/node/3600">
+      <text>Gromnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gromnik, rozejscie szlakow - Gromnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8372743,20.9617956;49.8365673551677,20.961274050000004;49.834488,20.9597308">
+    <text>Gromnik, rozejscie szlakow - Gromnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8372743" lon="20.9617956">
+      <ele>236</ele>
+      <time>2022-01-17T21:58:45Z</time>
+    </trkpt>
+    <trkpt lat="49.8358604" lon="20.9607525">
+      <ele>235</ele>
+      <time>2022-01-17T22:01:17Z</time>
+    </trkpt>
+    <trkpt lat="49.834488" lon="20.9597308">
+      <ele>236</ele>
+      <time>2022-01-17T22:03:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

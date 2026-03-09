@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:16Z</time>
+    <bounds maxlat="50.865783" maxlon="16.7111124" minlat="50.8643716" minlon="16.7107801"/>
+  </metadata>
+  <wpt lat="50.865783" lon="16.71078">
+    <ele>675</ele>
+    <name>Rozejscie szlakow pod Sleza</name>
+    <link href="https://mapa-turystyczna.pl/node/12530">
+      <text>Rozejscie szlakow pod Sleza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.864372" lon="16.711005">
+    <ele>673</ele>
+    <name>Sleza, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12529">
+      <text>Sleza, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow pod Sleza - Sleza, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.865783,16.7107801;50.865122500130745,16.71102480000002;50.8643716,16.7110054">
+    <text>Rozejscie szlakow pod Sleza - Sleza, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.865783" lon="16.7107801">
+      <ele>675</ele>
+      <time>2022-01-18T01:32:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8654997" lon="16.7108964">
+      <ele>675</ele>
+      <time>2022-01-18T01:32:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8652329" lon="16.7109818">
+      <ele>675</ele>
+      <time>2022-01-18T01:33:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8650121" lon="16.7110678">
+      <ele>674</ele>
+      <time>2022-01-18T01:33:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8648455" lon="16.7111124">
+      <ele>673</ele>
+      <time>2022-01-18T01:34:16Z</time>
+    </trkpt>
+    <trkpt lat="50.864629" lon="16.7110276">
+      <ele>674</ele>
+      <time>2022-01-18T01:34:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8643716" lon="16.7110054">
+      <ele>673</ele>
+      <time>2022-01-18T01:35:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:40Z</time>
+    <bounds maxlat="51.2676971" maxlon="16.4683251" minlat="51.2633361" minlon="16.4674791"/>
+  </metadata>
+  <wpt lat="51.267697" lon="16.467491">
+    <ele>105</ele>
+    <name>Lubiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/10019">
+      <text>Lubiaz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.263336" lon="16.468172">
+    <ele>99</ele>
+    <name>Lubiaz, Brama Glowna</name>
+    <link href="https://mapa-turystyczna.pl/node/10021">
+      <text>Lubiaz, Brama Glowna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubiaz - Lubiaz, Brama Glowna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2676971,16.4674914;51.26482720598633,16.467922750000014;51.2633361,16.4681716">
+    <text>Lubiaz - Lubiaz, Brama Glowna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2676971" lon="16.4674914">
+      <ele>105</ele>
+      <time>2022-01-18T00:26:40Z</time>
+    </trkpt>
+    <trkpt lat="51.2670493" lon="16.4674791">
+      <ele>106</ele>
+      <time>2022-01-18T00:27:24Z</time>
+    </trkpt>
+    <trkpt lat="51.266482" lon="16.4675097">
+      <ele>105</ele>
+      <time>2022-01-18T00:28:02Z</time>
+    </trkpt>
+    <trkpt lat="51.265569" lon="16.4678101">
+      <ele>102</ele>
+      <time>2022-01-18T00:29:04Z</time>
+    </trkpt>
+    <trkpt lat="51.2640854" lon="16.4680354">
+      <ele>100</ele>
+      <time>2022-01-18T00:30:45Z</time>
+    </trkpt>
+    <trkpt lat="51.2638907" lon="16.4681642">
+      <ele>100</ele>
+      <time>2022-01-18T00:30:59Z</time>
+    </trkpt>
+    <trkpt lat="51.2637766" lon="16.4683251">
+      <ele>100</ele>
+      <time>2022-01-18T00:31:09Z</time>
+    </trkpt>
+    <trkpt lat="51.263657" lon="16.4682112">
+      <ele>99</ele>
+      <time>2022-01-18T00:31:18Z</time>
+    </trkpt>
+    <trkpt lat="51.2633361" lon="16.4681716">
+      <ele>99</ele>
+      <time>2022-01-18T00:31:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

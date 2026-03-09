@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:28:13Z</time>
+    <bounds maxlat="51.480306" maxlon="16.1545376" minlat="51.4774904" minlon="16.1475363"/>
+  </metadata>
+  <wpt lat="51.47749" lon="16.154538">
+    <ele>205</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10094">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.480303" lon="16.147536">
+    <ele>210</ele>
+    <name>Pieszkowice, pod Ostrzyca</name>
+    <link href="https://mapa-turystyczna.pl/node/10093">
+      <text>Pieszkowice, pod Ostrzyca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Pieszkowice, pod Ostrzyca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4774904,16.1545376;51.47885935022621,16.15106494999999;51.4803025,16.1475363">
+    <text>Rozejscie szlakow czerwony / niebieski - Pieszkowice, pod Ostrzyca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4774904" lon="16.1545376">
+      <ele>205</ele>
+      <time>2022-01-18T00:28:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4787157" lon="16.15136">
+      <ele>213</ele>
+      <time>2022-01-18T00:32:42Z</time>
+    </trkpt>
+    <trkpt lat="51.479003" lon="16.1507699">
+      <ele>210</ele>
+      <time>2022-01-18T00:33:36Z</time>
+    </trkpt>
+    <trkpt lat="51.4797915" lon="16.1487207">
+      <ele>210</ele>
+      <time>2022-01-18T00:36:29Z</time>
+    </trkpt>
+    <trkpt lat="51.480306" lon="16.1475512">
+      <ele>210</ele>
+      <time>2022-01-18T00:38:12Z</time>
+    </trkpt>
+    <trkpt lat="51.4803025" lon="16.1475363">
+      <ele>210</ele>
+      <time>2022-01-18T00:38:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

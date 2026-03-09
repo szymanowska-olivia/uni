@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:11Z</time>
+    <bounds maxlat="50.7457593" maxlon="15.8218812" minlat="50.7445829" minlon="15.8202643"/>
+  </metadata>
+  <wpt lat="50.745759" lon="15.821881">
+    <ele>1049</ele>
+    <name>Pomezni bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/9311">
+      <text>Pomezni bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.744583" lon="15.820264">
+    <ele>1040</ele>
+    <name>Pomezni Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1305">
+      <text>Pomezni Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomezni bouda - Pomezni Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7457593,15.8218812;50.74522815221327,15.821125200000017;50.7445829,15.8202643">
+    <text>Pomezni bouda - Pomezni Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7457593" lon="15.8218812">
+      <ele>1049</ele>
+      <time>2022-01-18T00:08:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7456834" lon="15.8217501">
+      <ele>1050</ele>
+      <time>2022-01-18T00:08:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7447729" lon="15.8205003">
+      <ele>1042</ele>
+      <time>2022-01-18T00:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7445829" lon="15.8202643">
+      <ele>1040</ele>
+      <time>2022-01-18T00:11:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

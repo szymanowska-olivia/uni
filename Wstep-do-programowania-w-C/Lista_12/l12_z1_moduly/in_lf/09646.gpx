@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:32Z</time>
+    <bounds maxlat="50.2098536" maxlon="17.3359591" minlat="50.209445" minlon="17.3343766"/>
+  </metadata>
+  <wpt lat="50.209445" lon="17.334377">
+    <ele>730</ele>
+    <name>Pod Kobrstejnem</name>
+    <link href="https://mapa-turystyczna.pl/node/6768">
+      <text>Pod Kobrstejnem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.209854" lon="17.335959">
+    <ele>710</ele>
+    <name>Pod Kobrstejnem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6769">
+      <text>Pod Kobrstejnem, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kobrstejnem - Pod Kobrstejnem, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.209445,17.3343766;50.20958920021789,17.334795;50.2098536,17.3359591">
+    <text>Pod Kobrstejnem - Pod Kobrstejnem, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.209445" lon="17.3343766">
+      <ele>730</ele>
+      <time>2022-01-17T23:01:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2097334" lon="17.3352134">
+      <ele>718</ele>
+      <time>2022-01-17T23:02:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2098536" lon="17.3359591">
+      <ele>710</ele>
+      <time>2022-01-17T23:03:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

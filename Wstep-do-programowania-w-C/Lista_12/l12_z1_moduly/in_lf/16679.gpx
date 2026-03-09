@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:58Z</time>
+    <bounds maxlat="52.3855423" maxlon="20.9492144" minlat="52.3819799" minlon="20.9441289"/>
+  </metadata>
+  <wpt lat="52.38198" lon="20.944129">
+    <ele>85</ele>
+    <name>Rezerwat Bukowiec Jablonowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11390">
+      <text>Rezerwat Bukowiec Jablonowski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.385542" lon="20.949214">
+    <ele>83</ele>
+    <name>Rozejscie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11574">
+      <text>Rozejscie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Bukowiec Jablonowski - Rozejscie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3819799,20.9441289;52.38349882612749,20.94630785000002;52.3855423,20.9492144">
+    <text>Rezerwat Bukowiec Jablonowski - Rozejscie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3819799" lon="20.9441289">
+      <ele>85</ele>
+      <time>2022-01-18T01:00:58Z</time>
+    </trkpt>
+    <trkpt lat="52.3850177" lon="20.9484868">
+      <ele>85</ele>
+      <time>2022-01-18T01:09:31Z</time>
+    </trkpt>
+    <trkpt lat="52.3855423" lon="20.9492144">
+      <ele>83</ele>
+      <time>2022-01-18T01:10:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

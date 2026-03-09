@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:03Z</time>
+    <bounds maxlat="50.8535007" maxlon="15.2249011" minlat="50.8531214" minlon="15.2245854"/>
+  </metadata>
+  <wpt lat="50.853121" lon="15.224816">
+    <ele>988</ele>
+    <name>Poledni kameny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8783">
+      <text>Poledni kameny, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.853501" lon="15.224585">
+    <ele>1007</ele>
+    <name>Poledni kameny</name>
+    <link href="https://mapa-turystyczna.pl/node/8784">
+      <text>Poledni kameny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poledni kameny, rozc. - Poledni kameny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8531214,15.224816;50.85337085001628,15.22479914999999;50.8535007,15.2245854">
+    <text>Poledni kameny, rozc. - Poledni kameny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8531214" lon="15.224816">
+      <ele>988</ele>
+      <time>2022-01-17T23:56:03Z</time>
+    </trkpt>
+    <trkpt lat="50.85321" lon="15.2249011">
+      <ele>992</ele>
+      <time>2022-01-17T23:56:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8532642" lon="15.2249011">
+      <ele>995</ele>
+      <time>2022-01-17T23:57:03Z</time>
+    </trkpt>
+    <trkpt lat="50.8533319" lon="15.2248635">
+      <ele>998</ele>
+      <time>2022-01-17T23:57:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8534098" lon="15.2247348">
+      <ele>1002</ele>
+      <time>2022-01-17T23:58:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8535007" lon="15.2245854">
+      <ele>1007</ele>
+      <time>2022-01-17T23:59:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

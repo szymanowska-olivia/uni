@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:05Z</time>
+    <bounds maxlat="50.7477292" maxlon="15.5124593" minlat="50.7475513" minlon="15.5101791"/>
+  </metadata>
+  <wpt lat="50.747551" lon="15.512459">
+    <ele>1131</ele>
+    <name>Chata Dvoracky</name>
+    <link href="https://mapa-turystyczna.pl/node/1107">
+      <text>Chata Dvoracky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.747729" lon="15.510179">
+    <ele>1123</ele>
+    <name>Pod Dvorackami</name>
+    <link href="https://mapa-turystyczna.pl/node/1268">
+      <text>Pod Dvorackami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Dvoracky - Pod Dvorackami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7475513,15.5124593;50.747701700008086,15.510802800000008;50.7477292,15.5101791">
+    <text>Chata Dvoracky - Pod Dvorackami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7475513" lon="15.5124593">
+      <ele>1131</ele>
+      <time>2022-01-17T21:01:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7476742" lon="15.5114265">
+      <ele>1131</ele>
+      <time>2022-01-17T21:02:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7477292" lon="15.5101791">
+      <ele>1123</ele>
+      <time>2022-01-17T21:03:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

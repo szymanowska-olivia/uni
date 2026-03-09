@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:21Z</time>
+    <bounds maxlat="50.7785944" maxlon="15.7477725" minlat="50.7779094" minlon="15.7465761"/>
+  </metadata>
+  <wpt lat="50.778594" lon="15.746576">
+    <ele>721</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13125">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.777909" lon="15.74775">
+    <ele>722</ele>
+    <name>Karpatka</name>
+    <link href="https://mapa-turystyczna.pl/node/11769">
+      <text>Karpatka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Karpatka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7785944,15.7465761;50.778317850392696,15.747179749999969;50.7779094,15.7477498">
+    <text>Rozejscie szlakow - Karpatka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7785944" lon="15.7465761">
+      <ele>721</ele>
+      <time>2022-01-18T01:48:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7785095" lon="15.7467104">
+      <ele>721</ele>
+      <time>2022-01-18T01:48:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7781262" lon="15.7476491">
+      <ele>723</ele>
+      <time>2022-01-18T01:49:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7780618" lon="15.7477403">
+      <ele>724</ele>
+      <time>2022-01-18T01:50:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7780075" lon="15.7477725">
+      <ele>723</ele>
+      <time>2022-01-18T01:50:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7779094" lon="15.7477498">
+      <ele>722</ele>
+      <time>2022-01-18T01:50:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:02Z</time>
+    <bounds maxlat="49.756609" maxlon="19.002927" minlat="49.755244" minlon="19.002453"/>
+  </metadata>
+  <wpt lat="49.755244" lon="19.002927">
+    <ele>1002</ele>
+    <name>Schronisko PTTK Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/818">
+      <text>Schronisko PTTK Szyndzielnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.756609" lon="19.002453">
+    <ele>987</ele>
+    <name>Pod Szyndzielnia, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/4815">
+      <text>Pod Szyndzielnia, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Szyndzielnia - Pod Szyndzielnia, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.755244,19.002927;49.75582900027059,19.002566000000012;49.756609,19.002453">
+    <text>Schronisko PTTK Szyndzielnia - Pod Szyndzielnia, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.755244" lon="19.002927">
+      <ele>1002</ele>
+      <time>2022-01-17T22:17:02Z</time>
+    </trkpt>
+    <trkpt lat="49.755387" lon="19.002858">
+      <ele>1002</ele>
+      <time>2022-01-17T22:17:21Z</time>
+    </trkpt>
+    <trkpt lat="49.755464" lon="19.002811">
+      <ele>1002</ele>
+      <time>2022-01-17T22:17:31Z</time>
+    </trkpt>
+    <trkpt lat="49.755494" lon="19.002786">
+      <ele>1002</ele>
+      <time>2022-01-17T22:17:35Z</time>
+    </trkpt>
+    <trkpt lat="49.75556" lon="19.002704">
+      <ele>1003</ele>
+      <time>2022-01-17T22:17:46Z</time>
+    </trkpt>
+    <trkpt lat="49.755667" lon="19.002588">
+      <ele>1004</ele>
+      <time>2022-01-17T22:18:02Z</time>
+    </trkpt>
+    <trkpt lat="49.755991" lon="19.002544">
+      <ele>999</ele>
+      <time>2022-01-17T22:18:43Z</time>
+    </trkpt>
+    <trkpt lat="49.756609" lon="19.002453">
+      <ele>987</ele>
+      <time>2022-01-17T22:20:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

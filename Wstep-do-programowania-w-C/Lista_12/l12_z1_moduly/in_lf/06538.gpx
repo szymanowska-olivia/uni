@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:53Z</time>
+    <bounds maxlat="50.4917671" maxlon="19.548642" minlat="50.4903406" minlon="19.5482853"/>
+  </metadata>
+  <wpt lat="50.490341" lon="19.548556">
+    <ele>360</ele>
+    <name>Karlin</name>
+    <link href="https://mapa-turystyczna.pl/node/4453">
+      <text>Karlin</text>
+    </link>
+  </wpt>
+  <wpt lat="50.491767" lon="19.548642">
+    <ele>359</ele>
+    <name>Karlin, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4559">
+      <text>Karlin, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karlin - Karlin, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4903406,19.5485562;50.49096330009979,19.548291649999996;50.4917671,19.548642">
+    <text>Karlin - Karlin, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4903406" lon="19.5485562">
+      <ele>360</ele>
+      <time>2022-01-17T22:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4908662" lon="19.5482853">
+      <ele>359</ele>
+      <time>2022-01-17T22:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4910604" lon="19.548298">
+      <ele>358</ele>
+      <time>2022-01-17T22:10:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4917671" lon="19.548642">
+      <ele>359</ele>
+      <time>2022-01-17T22:11:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

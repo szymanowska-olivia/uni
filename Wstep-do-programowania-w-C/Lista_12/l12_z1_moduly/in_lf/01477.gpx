@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:08Z</time>
+    <bounds maxlat="50.7057993" maxlon="15.6745076" minlat="50.7033452" minlon="15.6691861"/>
+  </metadata>
+  <wpt lat="50.705799" lon="15.674508">
+    <ele>1349</ele>
+    <name>Chata na Rozcesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1108">
+      <text>Chata na Rozcesti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.703345" lon="15.669186">
+    <ele>1318</ele>
+    <name>Dvorska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1118">
+      <text>Dvorska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata na Rozcesti - Dvorska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7057993,15.6745076;50.70400625465978,15.670629149999996;50.7033452,15.6691861">
+    <text>Chata na Rozcesti - Dvorska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7057993" lon="15.6745076">
+      <ele>1349</ele>
+      <time>2022-01-17T21:01:08Z</time>
+    </trkpt>
+    <trkpt lat="50.705111" lon="15.6731826">
+      <ele>1343</ele>
+      <time>2022-01-17T21:02:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7046673" lon="15.6720722">
+      <ele>1336</ele>
+      <time>2022-01-17T21:03:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7033452" lon="15.6691861">
+      <ele>1318</ele>
+      <time>2022-01-17T21:06:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:44Z</time>
+    <bounds maxlat="50.2469648" maxlon="19.8063219" minlat="50.243843" minlon="19.8020196"/>
+  </metadata>
+  <wpt lat="50.246965" lon="19.80202">
+    <ele>441</ele>
+    <name>Herianowka, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4414">
+      <text>Herianowka, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.243843" lon="19.806322">
+    <ele>430</ele>
+    <name>Skrzyzowanie pod Sloneczna</name>
+    <link href="https://mapa-turystyczna.pl/node/4415">
+      <text>Skrzyzowanie pod Sloneczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Herianowka, skrzyzowanie szlakow - Skrzyzowanie pod Sloneczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2469648,19.8020196;50.24540392556021,19.804170749999983;50.243843,19.8063219">
+    <text>Herianowka, skrzyzowanie szlakow - Skrzyzowanie pod Sloneczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2469648" lon="19.8020196">
+      <ele>441</ele>
+      <time>2022-01-17T22:05:44Z</time>
+    </trkpt>
+    <trkpt lat="50.243843" lon="19.8063219">
+      <ele>430</ele>
+      <time>2022-01-17T22:10:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

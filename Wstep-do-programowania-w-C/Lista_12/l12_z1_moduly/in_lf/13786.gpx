@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:34Z</time>
+    <bounds maxlat="50.23787" maxlon="18.9386289" minlat="50.2347086" minlon="18.9385203"/>
+  </metadata>
+  <wpt lat="50.23787" lon="18.938629">
+    <ele>268</ele>
+    <name>Panewniki, staw nr 4</name>
+    <link href="https://mapa-turystyczna.pl/node/9400">
+      <text>Panewniki, staw nr 4</text>
+    </link>
+  </wpt>
+  <wpt lat="50.234709" lon="18.93852">
+    <ele>265</ele>
+    <name>Panewniki, ul. Goscinna</name>
+    <link href="https://mapa-turystyczna.pl/node/9470">
+      <text>Panewniki, ul. Goscinna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Panewniki, staw nr 4 - Panewniki, ul. Goscinna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.23787,18.9386289;50.236289326204314,18.938574599999985;50.2347086,18.9385203">
+    <text>Panewniki, staw nr 4 - Panewniki, ul. Goscinna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.23787" lon="18.9386289">
+      <ele>268</ele>
+      <time>2022-01-18T00:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2347086" lon="18.9385203">
+      <ele>265</ele>
+      <time>2022-01-18T00:17:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

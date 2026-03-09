@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:27Z</time>
+    <bounds maxlat="50.6762531" maxlon="16.2348871" minlat="50.6741334" minlon="16.2289585"/>
+  </metadata>
+  <wpt lat="50.674133" lon="16.234887">
+    <ele>748</ele>
+    <name>Pod Posrednia</name>
+    <link href="https://mapa-turystyczna.pl/node/13413">
+      <text>Pod Posrednia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.676253" lon="16.228959">
+    <ele>797</ele>
+    <name>Garbatka</name>
+    <link href="https://mapa-turystyczna.pl/node/8201">
+      <text>Garbatka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Posrednia - Garbatka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6741334,16.2348871;50.675288554562535,16.23110084999997;50.6762531,16.2289585">
+    <text>Pod Posrednia - Garbatka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6741334" lon="16.2348871">
+      <ele>748</ele>
+      <time>2022-01-18T01:56:27Z</time>
+    </trkpt>
+    <trkpt lat="50.674471" lon="16.2333512">
+      <ele>763</ele>
+      <time>2022-01-18T01:58:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6746341" lon="16.2324178">
+      <ele>766</ele>
+      <time>2022-01-18T02:00:13Z</time>
+    </trkpt>
+    <trkpt lat="50.675943" lon="16.2297839">
+      <ele>796</ele>
+      <time>2022-01-18T02:05:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6762531" lon="16.2289585">
+      <ele>797</ele>
+      <time>2022-01-18T02:06:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

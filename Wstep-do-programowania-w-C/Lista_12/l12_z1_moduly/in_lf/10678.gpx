@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:29Z</time>
+    <bounds maxlat="49.5896094" maxlon="18.7652179" minlat="49.5813362" minlon="18.7554753"/>
+  </metadata>
+  <wpt lat="49.589609" lon="18.755475">
+    <ele>382</ele>
+    <name>Navsi</name>
+    <link href="https://mapa-turystyczna.pl/node/4777">
+      <text>Navsi</text>
+    </link>
+  </wpt>
+  <wpt lat="49.581336" lon="18.765218">
+    <ele>386</ele>
+    <name>Jablunkov, rozcesti</name>
+    <link href="https://mapa-turystyczna.pl/node/3897">
+      <text>Jablunkov, rozcesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Navsi - Jablunkov, rozcesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5896094,18.7554753;49.58547297536694,18.76034660000002;49.5813362,18.7652179">
+    <text>Navsi - Jablunkov, rozcesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5896094" lon="18.7554753">
+      <ele>382</ele>
+      <time>2022-01-17T23:20:29Z</time>
+    </trkpt>
+    <trkpt lat="49.5813362" lon="18.7652179">
+      <ele>386</ele>
+      <time>2022-01-17T23:40:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

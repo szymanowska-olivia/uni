@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:44Z</time>
+    <bounds maxlat="50.5555705" maxlon="16.2680268" minlat="50.5548991" minlon="16.2668198"/>
+  </metadata>
+  <wpt lat="50.554899" lon="16.26682">
+    <ele>548</ele>
+    <name>Pod Kovarovou rokli</name>
+    <link href="https://mapa-turystyczna.pl/node/5831">
+      <text>Pod Kovarovou rokli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.555571" lon="16.268027">
+    <ele>545</ele>
+    <name>Kovarova rokle, dolni rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5832">
+      <text>Kovarova rokle, dolni rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kovarovou rokli - Kovarova rokle, dolni rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5548991,16.2668198;50.55512315053246,16.267196649999978;50.5555705,16.2680268">
+    <text>Pod Kovarovou rokli - Kovarova rokle, dolni rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5548991" lon="16.2668198">
+      <ele>548</ele>
+      <time>2022-01-17T22:37:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5553472" lon="16.2675735">
+      <ele>546</ele>
+      <time>2022-01-17T22:39:01Z</time>
+    </trkpt>
+    <trkpt lat="50.5555705" lon="16.2680268">
+      <ele>545</ele>
+      <time>2022-01-17T22:39:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

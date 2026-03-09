@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:30Z</time>
+    <bounds maxlat="49.994973" maxlon="18.4721529" minlat="49.994886" minlon="18.4716874"/>
+  </metadata>
+  <wpt lat="49.994886" lon="18.471687">
+    <ele>265</ele>
+    <name>Wodzislaw Slaski, ul. Kopernika</name>
+    <link href="https://mapa-turystyczna.pl/node/9824">
+      <text>Wodzislaw Slaski, ul. Kopernika</text>
+    </link>
+  </wpt>
+  <wpt lat="49.994973" lon="18.472153">
+    <ele>265</ele>
+    <name>Wodzislaw Slaski, ul. Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/9825">
+      <text>Wodzislaw Slaski, ul. Gorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wodzislaw Slaski, ul. Kopernika - Wodzislaw Slaski, ul. Gorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.994886,18.4716874;49.994930550018736,18.471920600000015;49.994973,18.4721529">
+    <text>Wodzislaw Slaski, ul. Kopernika - Wodzislaw Slaski, ul. Gorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.994886" lon="18.4716874">
+      <ele>265</ele>
+      <time>2022-01-18T00:21:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9948881" lon="18.4716883">
+      <ele>265</ele>
+      <time>2022-01-18T00:21:30Z</time>
+    </trkpt>
+    <trkpt lat="49.994973" lon="18.4721529">
+      <ele>265</ele>
+      <time>2022-01-18T00:22:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:46Z</time>
+    <bounds maxlat="50.811698" maxlon="15.3603546" minlat="50.8114953" minlon="15.3567685"/>
+  </metadata>
+  <wpt lat="50.811694" lon="15.356768">
+    <ele>913</ele>
+    <name>Pralouka</name>
+    <link href="https://mapa-turystyczna.pl/node/13136">
+      <text>Pralouka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.811698" lon="15.360355">
+    <ele>917</ele>
+    <name>Stary lom</name>
+    <link href="https://mapa-turystyczna.pl/node/13138">
+      <text>Stary lom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pralouka - Stary lom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8116943,15.3567685;50.81150885000197,15.358607849999988;50.811698,15.3603546">
+    <text>Pralouka - Stary lom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8116943" lon="15.3567685">
+      <ele>913</ele>
+      <time>2022-01-18T01:48:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8116953" lon="15.3571434">
+      <ele>915</ele>
+      <time>2022-01-18T01:49:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8116648" lon="15.3574921">
+      <ele>916</ele>
+      <time>2022-01-18T01:49:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8116004" lon="15.3578783">
+      <ele>915</ele>
+      <time>2022-01-18T01:50:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8115529" lon="15.358227">
+      <ele>915</ele>
+      <time>2022-01-18T01:50:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8115224" lon="15.3584469">
+      <ele>915</ele>
+      <time>2022-01-18T01:51:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8114953" lon="15.3587688">
+      <ele>915</ele>
+      <time>2022-01-18T01:51:32Z</time>
+    </trkpt>
+    <trkpt lat="50.811536" lon="15.359096">
+      <ele>917</ele>
+      <time>2022-01-18T01:52:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8115766" lon="15.3593428">
+      <ele>919</ele>
+      <time>2022-01-18T01:52:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8116105" lon="15.3599919">
+      <ele>917</ele>
+      <time>2022-01-18T01:53:14Z</time>
+    </trkpt>
+    <trkpt lat="50.811698" lon="15.3603546">
+      <ele>917</ele>
+      <time>2022-01-18T01:53:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

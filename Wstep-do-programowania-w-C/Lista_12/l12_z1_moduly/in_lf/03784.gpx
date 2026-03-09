@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:29Z</time>
+    <bounds maxlat="50.2593196" maxlon="17.3863417" minlat="50.258596" minlon="17.3840672"/>
+  </metadata>
+  <wpt lat="50.25932" lon="17.384067">
+    <ele>440</ele>
+    <name>Zlate Hory, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/2650">
+      <text>Zlate Hory, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.258596" lon="17.386342">
+    <ele>439</ele>
+    <name>Zlate Hory, Nadrazni</name>
+    <link href="https://mapa-turystyczna.pl/node/2651">
+      <text>Zlate Hory, Nadrazni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory, zeleznicni stanice - Zlate Hory, Nadrazni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2593196,17.3840672;50.25883260058757,17.385475349999986;50.258596,17.3863417">
+    <text>Zlate Hory, zeleznicni stanice - Zlate Hory, Nadrazni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2593196" lon="17.3840672">
+      <ele>440</ele>
+      <time>2022-01-17T21:34:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2592236" lon="17.384212">
+      <ele>440</ele>
+      <time>2022-01-17T21:34:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2590692" lon="17.384609">
+      <ele>440</ele>
+      <time>2022-01-17T21:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.258596" lon="17.3863417">
+      <ele>439</ele>
+      <time>2022-01-17T21:37:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

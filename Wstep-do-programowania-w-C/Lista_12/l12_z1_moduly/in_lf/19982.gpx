@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:24Z</time>
+    <bounds maxlat="49.745981" maxlon="18.934679" minlat="49.74594" minlon="18.932877"/>
+  </metadata>
+  <wpt lat="49.745946" lon="18.932877">
+    <ele>864</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13476">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.745945" lon="18.934679">
+    <ele>854</ele>
+    <name>Wielka Cisowa</name>
+    <link href="https://mapa-turystyczna.pl/node/846">
+      <text>Wielka Cisowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Wielka Cisowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.745946,18.932877;49.7459455000003,18.933513500000014;49.745945,18.934679">
+    <text>Rozejscie szlakow - Wielka Cisowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.745946" lon="18.932877">
+      <ele>864</ele>
+      <time>2022-01-18T01:58:24Z</time>
+    </trkpt>
+    <trkpt lat="49.745951" lon="18.933099">
+      <ele>864</ele>
+      <time>2022-01-18T01:58:39Z</time>
+    </trkpt>
+    <trkpt lat="49.74594" lon="18.933928">
+      <ele>862</ele>
+      <time>2022-01-18T01:59:33Z</time>
+    </trkpt>
+    <trkpt lat="49.745961" lon="18.934081">
+      <ele>861</ele>
+      <time>2022-01-18T01:59:44Z</time>
+    </trkpt>
+    <trkpt lat="49.745981" lon="18.934209">
+      <ele>859</ele>
+      <time>2022-01-18T01:59:52Z</time>
+    </trkpt>
+    <trkpt lat="49.745981" lon="18.934312">
+      <ele>858</ele>
+      <time>2022-01-18T01:59:59Z</time>
+    </trkpt>
+    <trkpt lat="49.745945" lon="18.934679">
+      <ele>854</ele>
+      <time>2022-01-18T02:00:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

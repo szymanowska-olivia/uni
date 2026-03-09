@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:19Z</time>
+    <bounds maxlat="50.4752873" maxlon="16.0922778" minlat="50.4746728" minlon="16.090883"/>
+  </metadata>
+  <wpt lat="50.475287" lon="16.090883">
+    <ele>412</ele>
+    <name>Cerveny Kostelec</name>
+    <link href="https://mapa-turystyczna.pl/node/6159">
+      <text>Cerveny Kostelec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.474673" lon="16.092278">
+    <ele>416</ele>
+    <name>Cerveny Kostelec, Sokolska</name>
+    <link href="https://mapa-turystyczna.pl/node/6160">
+      <text>Cerveny Kostelec, Sokolska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerveny Kostelec - Cerveny Kostelec, Sokolska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4752873,16.090883;50.47491695001361,16.091515999999988;50.4746728,16.0922778">
+    <text>Cerveny Kostelec - Cerveny Kostelec, Sokolska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4752873" lon="16.090883">
+      <ele>412</ele>
+      <time>2022-01-17T22:46:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4749528" lon="16.0914516">
+      <ele>414</ele>
+      <time>2022-01-17T22:47:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4748811" lon="16.0915804">
+      <ele>415</ele>
+      <time>2022-01-17T22:47:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4746728" lon="16.0922778">
+      <ele>416</ele>
+      <time>2022-01-17T22:48:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

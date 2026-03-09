@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:34Z</time>
+    <bounds maxlat="50.3261505" maxlon="16.3887317" minlat="50.3234946" minlon="16.3864516"/>
+  </metadata>
+  <wpt lat="50.32615" lon="16.386452">
+    <ele>1012</ele>
+    <name>Masarykova chata</name>
+    <link href="https://mapa-turystyczna.pl/node/1901">
+      <text>Masarykova chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.323495" lon="16.388732">
+    <ele>983</ele>
+    <name>Serlich sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/1902">
+      <text>Serlich sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Masarykova chata - Serlich sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3261505,16.3864516;50.32478590441217,16.38732845;50.3234946,16.3887317">
+    <text>Masarykova chata - Serlich sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3261505" lon="16.3864516">
+      <ele>1012</ele>
+      <time>2022-01-17T21:21:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3257383" lon="16.3865796">
+      <ele>1010</ele>
+      <time>2022-01-17T21:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3254335" lon="16.3867781">
+      <ele>1005</ele>
+      <time>2022-01-17T21:22:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3241383" lon="16.3878788">
+      <ele>984</ele>
+      <time>2022-01-17T21:25:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3239842" lon="16.3882275">
+      <ele>983</ele>
+      <time>2022-01-17T21:25:37Z</time>
+    </trkpt>
+    <trkpt lat="50.323628" lon="16.3885547">
+      <ele>983</ele>
+      <time>2022-01-17T21:26:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3234946" lon="16.3887317">
+      <ele>983</ele>
+      <time>2022-01-17T21:26:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

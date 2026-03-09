@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:03Z</time>
+    <bounds maxlat="50.7349206" maxlon="19.2726266" minlat="50.7319055" minlon="19.2722808"/>
+  </metadata>
+  <wpt lat="50.731906" lon="19.272627">
+    <ele>305</ele>
+    <name>Pod Biaklem</name>
+    <link href="https://mapa-turystyczna.pl/node/4529">
+      <text>Pod Biaklem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734921" lon="19.272294">
+    <ele>302</ele>
+    <name>Pod Biaklem</name>
+    <link href="https://mapa-turystyczna.pl/node/4535">
+      <text>Pod Biaklem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Biaklem - Pod Biaklem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7319055,19.2726266;50.733473900847684,19.272355899999987;50.7349206,19.272294">
+    <text>Pod Biaklem - Pod Biaklem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7319055" lon="19.2726266">
+      <ele>305</ele>
+      <time>2022-01-17T22:08:03Z</time>
+    </trkpt>
+    <trkpt lat="50.732642" lon="19.2725276">
+      <ele>305</ele>
+      <time>2022-01-17T22:09:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7331921" lon="19.2723988">
+      <ele>298</ele>
+      <time>2022-01-17T22:10:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7337557" lon="19.272313">
+      <ele>296</ele>
+      <time>2022-01-17T22:11:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7343668" lon="19.2722808">
+      <ele>303</ele>
+      <time>2022-01-17T22:12:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7349206" lon="19.272294">
+      <ele>302</ele>
+      <time>2022-01-17T22:13:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

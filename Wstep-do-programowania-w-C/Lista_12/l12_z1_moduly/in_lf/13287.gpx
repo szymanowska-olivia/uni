@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:50Z</time>
+    <bounds maxlat="50.9508707" maxlon="15.6372678" minlat="50.9506578" minlon="15.6366777"/>
+  </metadata>
+  <wpt lat="50.950658" lon="15.637268">
+    <ele>336</ele>
+    <name>Kapitanski Mostek, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9160">
+      <text>Kapitanski Mostek, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.950871" lon="15.636678">
+    <ele>348</ele>
+    <name>Kapitanski Mostek, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3393">
+      <text>Kapitanski Mostek, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kapitanski Mostek, odejscie na punkt widokowy - Kapitanski Mostek, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9506578,15.6372678;50.95082255002495,15.636825249999973;50.9508707,15.6366777">
+    <text>Kapitanski Mostek, odejscie na punkt widokowy - Kapitanski Mostek, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9506578" lon="15.6372678">
+      <ele>336</ele>
+      <time>2022-01-18T00:04:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9507744" lon="15.6369728">
+      <ele>343</ele>
+      <time>2022-01-18T00:05:52Z</time>
+    </trkpt>
+    <trkpt lat="50.9508707" lon="15.6366777">
+      <ele>348</ele>
+      <time>2022-01-18T00:06:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

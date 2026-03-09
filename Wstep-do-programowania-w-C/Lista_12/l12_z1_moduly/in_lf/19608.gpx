@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:27Z</time>
+    <bounds maxlat="50.5937708" maxlon="16.5041994" minlat="50.5924677" minlon="16.5028711"/>
+  </metadata>
+  <wpt lat="50.593771" lon="16.502871">
+    <ele>533</ele>
+    <name>Bogusza</name>
+    <link href="https://mapa-turystyczna.pl/node/13223">
+      <text>Bogusza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.592468" lon="16.503953">
+    <ele>502</ele>
+    <name>Pod Bogusza</name>
+    <link href="https://mapa-turystyczna.pl/node/13222">
+      <text>Pod Bogusza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bogusza - Pod Bogusza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5937708,16.5028711;50.59307395024394,16.5040009;50.5924677,16.5039526">
+    <text>Bogusza - Pod Bogusza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5937708" lon="16.5028711">
+      <ele>533</ele>
+      <time>2022-01-18T01:51:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5937358" lon="16.5029602">
+      <ele>533</ele>
+      <time>2022-01-18T01:51:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5937119" lon="16.5030621">
+      <ele>533</ele>
+      <time>2022-01-18T01:51:41Z</time>
+    </trkpt>
+    <trkpt lat="50.593638" lon="16.5032244">
+      <ele>533</ele>
+      <time>2022-01-18T01:51:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5934196" lon="16.5035396">
+      <ele>530</ele>
+      <time>2022-01-18T01:52:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5932255" lon="16.5038346">
+      <ele>527</ele>
+      <time>2022-01-18T01:52:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5929224" lon="16.5041672">
+      <ele>519</ele>
+      <time>2022-01-18T01:53:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5927896" lon="16.5041994">
+      <ele>515</ele>
+      <time>2022-01-18T01:53:47Z</time>
+    </trkpt>
+    <trkpt lat="50.5926262" lon="16.5041457">
+      <ele>508</ele>
+      <time>2022-01-18T01:54:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5924677" lon="16.5039526">
+      <ele>502</ele>
+      <time>2022-01-18T01:54:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:21Z</time>
+    <bounds maxlat="50.3263615" maxlon="16.3864516" minlat="50.3261505" minlon="16.3864409"/>
+  </metadata>
+  <wpt lat="50.326361" lon="16.386441">
+    <ele>1013</ele>
+    <name>Masarykova chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5692">
+      <text>Masarykova chata, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.32615" lon="16.386452">
+    <ele>1012</ele>
+    <name>Masarykova chata</name>
+    <link href="https://mapa-turystyczna.pl/node/1901">
+      <text>Masarykova chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Masarykova chata, rozc. - Masarykova chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3263615,16.3864409;50.326256000117105,16.386446249999985;50.3261505,16.3864516">
+    <text>Masarykova chata, rozc. - Masarykova chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3263615" lon="16.3864409">
+      <ele>1013</ele>
+      <time>2022-01-17T22:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3261505" lon="16.3864516">
+      <ele>1012</ele>
+      <time>2022-01-17T22:35:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

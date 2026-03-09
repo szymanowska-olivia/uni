@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:53Z</time>
+    <bounds maxlat="50.6732245" maxlon="15.7281387" minlat="50.6711863" minlon="15.7255493"/>
+  </metadata>
+  <wpt lat="50.673225" lon="15.725549">
+    <ele>1076</ele>
+    <name>Husova bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7991">
+      <text>Husova bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.671186" lon="15.728139">
+    <ele>1106</ele>
+    <name>Bouda na Lucinach</name>
+    <link href="https://mapa-turystyczna.pl/node/7992">
+      <text>Bouda na Lucinach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Husova bouda, rozc. - Bouda na Lucinach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6732245,15.7255493;50.67230770165265,15.727046750000024;50.6711863,15.7281387">
+    <text>Husova bouda, rozc. - Bouda na Lucinach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6732245" lon="15.7255493">
+      <ele>1076</ele>
+      <time>2022-01-17T21:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6731664" lon="15.7256555">
+      <ele>1077</ele>
+      <time>2022-01-17T21:02:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6728196" lon="15.7264387">
+      <ele>1085</ele>
+      <time>2022-01-17T21:03:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6727016" lon="15.7266498">
+      <ele>1087</ele>
+      <time>2022-01-17T21:03:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6719138" lon="15.7274437">
+      <ele>1095</ele>
+      <time>2022-01-17T21:05:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6711863" lon="15.7281387">
+      <ele>1106</ele>
+      <time>2022-01-17T21:06:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

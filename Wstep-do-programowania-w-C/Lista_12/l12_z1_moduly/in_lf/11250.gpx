@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:11Z</time>
+    <bounds maxlat="50.0403322" maxlon="16.9215099" minlat="50.0401291" minlon="16.9194714"/>
+  </metadata>
+  <wpt lat="50.040243" lon="16.919471">
+    <ele>527</ele>
+    <name>Novy hrad</name>
+    <link href="https://mapa-turystyczna.pl/node/7925">
+      <text>Novy hrad</text>
+    </link>
+  </wpt>
+  <wpt lat="50.040332" lon="16.92151">
+    <ele>504</ele>
+    <name>Novy hrad, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7926">
+      <text>Novy hrad, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Novy hrad - Novy hrad, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0402426,16.9194714;50.04015150000521,16.920306499999995;50.0403322,16.9215099">
+    <text>Novy hrad - Novy hrad, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0402426" lon="16.9194714">
+      <ele>527</ele>
+      <time>2022-01-17T23:31:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0401602" lon="16.9195823">
+      <ele>525</ele>
+      <time>2022-01-17T23:31:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0401291" lon="16.9197164">
+      <ele>524</ele>
+      <time>2022-01-17T23:31:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0401739" lon="16.9208966">
+      <ele>509</ele>
+      <time>2022-01-17T23:32:34Z</time>
+    </trkpt>
+    <trkpt lat="50.0402945" lon="16.9213096">
+      <ele>506</ele>
+      <time>2022-01-17T23:32:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0403322" lon="16.9215099">
+      <ele>504</ele>
+      <time>2022-01-17T23:33:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

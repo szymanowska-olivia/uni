@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:23Z</time>
+    <bounds maxlat="49.694221" maxlon="19.573221" minlat="49.692381" minlon="19.572055"/>
+  </metadata>
+  <wpt lat="49.694221" lon="19.573221">
+    <ele>699</ele>
+    <name>Zawoja, Przyslop</name>
+    <link href="https://mapa-turystyczna.pl/node/643">
+      <text>Zawoja, Przyslop</text>
+    </link>
+  </wpt>
+  <wpt lat="49.692381" lon="19.572055">
+    <ele>675</ele>
+    <name>Zawoja, Przyslop, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4061">
+      <text>Zawoja, Przyslop, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawoja, Przyslop - Zawoja, Przyslop, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.694221,19.573221;49.693316500180615,19.57278599999997;49.692381,19.572055">
+    <text>Zawoja, Przyslop - Zawoja, Przyslop, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.694221" lon="19.573221">
+      <ele>699</ele>
+      <time>2022-01-17T22:02:23Z</time>
+    </trkpt>
+    <trkpt lat="49.694038" lon="19.573114">
+      <ele>696</ele>
+      <time>2022-01-17T22:02:41Z</time>
+    </trkpt>
+    <trkpt lat="49.693745" lon="19.572999">
+      <ele>691</ele>
+      <time>2022-01-17T22:03:08Z</time>
+    </trkpt>
+    <trkpt lat="49.693449" lon="19.572878">
+      <ele>685</ele>
+      <time>2022-01-17T22:03:36Z</time>
+    </trkpt>
+    <trkpt lat="49.693184" lon="19.572694">
+      <ele>682</ele>
+      <time>2022-01-17T22:04:02Z</time>
+    </trkpt>
+    <trkpt lat="49.692963" lon="19.572539">
+      <ele>679</ele>
+      <time>2022-01-17T22:04:23Z</time>
+    </trkpt>
+    <trkpt lat="49.692738" lon="19.572276">
+      <ele>677</ele>
+      <time>2022-01-17T22:04:49Z</time>
+    </trkpt>
+    <trkpt lat="49.692585" lon="19.572153">
+      <ele>677</ele>
+      <time>2022-01-17T22:05:04Z</time>
+    </trkpt>
+    <trkpt lat="49.692504" lon="19.572107">
+      <ele>676</ele>
+      <time>2022-01-17T22:05:12Z</time>
+    </trkpt>
+    <trkpt lat="49.692381" lon="19.572055">
+      <ele>675</ele>
+      <time>2022-01-17T22:05:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

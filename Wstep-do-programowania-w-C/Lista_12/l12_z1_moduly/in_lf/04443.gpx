@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:35Z</time>
+    <bounds maxlat="50.7439288" maxlon="15.3654903" minlat="50.7438015" minlon="15.363586"/>
+  </metadata>
+  <wpt lat="50.743929" lon="15.363586">
+    <ele>921</ele>
+    <name>Hvezda</name>
+    <link href="https://mapa-turystyczna.pl/node/3077">
+      <text>Hvezda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.743801" lon="15.36549">
+    <ele>926</ele>
+    <name>Pod Hvezdou</name>
+    <link href="https://mapa-turystyczna.pl/node/3079">
+      <text>Pod Hvezdou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hvezda - Pod Hvezdou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7439288,15.363586;50.74386515004327,15.364538150000016;50.7438015,15.3654903">
+    <text>Hvezda - Pod Hvezdou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7439288" lon="15.363586">
+      <ele>921</ele>
+      <time>2022-01-17T21:42:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7438015" lon="15.3654903">
+      <ele>926</ele>
+      <time>2022-01-17T21:44:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

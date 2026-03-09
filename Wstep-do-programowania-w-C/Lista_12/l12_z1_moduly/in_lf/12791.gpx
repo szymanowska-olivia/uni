@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:21Z</time>
+    <bounds maxlat="50.8467551" maxlon="15.2102865" minlat="50.8435077" minlon="15.2033044"/>
+  </metadata>
+  <wpt lat="50.846755" lon="15.203304">
+    <ele>903</ele>
+    <name>U Tetrevi boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/8796">
+      <text>U Tetrevi boudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.843508" lon="15.210287">
+    <ele>943</ele>
+    <name>Na Zdarku</name>
+    <link href="https://mapa-turystyczna.pl/node/8795">
+      <text>Na Zdarku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Tetrevi boudy - Na Zdarku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8467551,15.2033044;50.84524562442011,15.20636885;50.8435077,15.2102865">
+    <text>U Tetrevi boudy - Na Zdarku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8467551" lon="15.2033044">
+      <ele>903</ele>
+      <time>2022-01-17T23:56:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8437361" lon="15.2094333">
+      <ele>942</ele>
+      <time>2022-01-18T00:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8436074" lon="15.2098089">
+      <ele>943</ele>
+      <time>2022-01-18T00:10:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8435077" lon="15.2102865">
+      <ele>943</ele>
+      <time>2022-01-18T00:11:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:53Z</time>
+    <bounds maxlat="52.0020192" maxlon="20.5591796" minlat="52.0007837" minlon="20.5586378"/>
+  </metadata>
+  <wpt lat="52.002019" lon="20.558914">
+    <ele>149</ele>
+    <name>Radziejowice, droga S8</name>
+    <link href="https://mapa-turystyczna.pl/node/12095">
+      <text>Radziejowice, droga S8</text>
+    </link>
+  </wpt>
+  <wpt lat="52.000784" lon="20.558685">
+    <ele>145</ele>
+    <name>Radziejowice, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/12097">
+      <text>Radziejowice, przystanek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radziejowice, droga S8 - Radziejowice, przystanek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0020192,20.5589136;52.00133495000782,20.559026700000004;52.0007837,20.5586848">
+    <text>Radziejowice, droga S8 - Radziejowice, przystanek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0020192" lon="20.5589136">
+      <ele>149</ele>
+      <time>2022-01-18T01:19:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0019723" lon="20.5589221">
+      <ele>149</ele>
+      <time>2022-01-18T01:19:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0018898" lon="20.5587719">
+      <ele>149</ele>
+      <time>2022-01-18T01:20:12Z</time>
+    </trkpt>
+    <trkpt lat="52.0017643" lon="20.5586914">
+      <ele>148</ele>
+      <time>2022-01-18T01:20:28Z</time>
+    </trkpt>
+    <trkpt lat="52.001685" lon="20.5586378">
+      <ele>148</ele>
+      <time>2022-01-18T01:20:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0013614" lon="20.5589436">
+      <ele>147</ele>
+      <time>2022-01-18T01:21:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0013085" lon="20.5591098">
+      <ele>147</ele>
+      <time>2022-01-18T01:21:33Z</time>
+    </trkpt>
+    <trkpt lat="52.0012061" lon="20.5591474">
+      <ele>147</ele>
+      <time>2022-01-18T01:21:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0009717" lon="20.5591796">
+      <ele>147</ele>
+      <time>2022-01-18T01:22:12Z</time>
+    </trkpt>
+    <trkpt lat="52.0007837" lon="20.5586848">
+      <ele>145</ele>
+      <time>2022-01-18T01:22:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

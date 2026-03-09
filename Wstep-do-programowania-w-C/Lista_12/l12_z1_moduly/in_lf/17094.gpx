@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:50Z</time>
+    <bounds maxlat="50.4646681" maxlon="16.4046817" minlat="50.4637808" minlon="16.4035749"/>
+  </metadata>
+  <wpt lat="50.463781" lon="16.403575">
+    <ele>719</ele>
+    <name>Skalne Grzyby, odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11665">
+      <text>Skalne Grzyby, odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.464668" lon="16.404682">
+    <ele>715</ele>
+    <name>Skalne Grzyby, skrzyzowanie przy Borowiku</name>
+    <link href="https://mapa-turystyczna.pl/node/5683">
+      <text>Skalne Grzyby, skrzyzowanie przy Borowiku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalne Grzyby, odejscie sciezki edukacyjnej - Skalne Grzyby, skrzyzowanie przy Borowiku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4637808,16.4035749;50.46428515026511,16.404277100000016;50.4646681,16.4046817">
+    <text>Skalne Grzyby, odejscie sciezki edukacyjnej - Skalne Grzyby, skrzyzowanie przy Borowiku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4637808" lon="16.4035749">
+      <ele>719</ele>
+      <time>2022-01-18T01:07:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4641268" lon="16.4040832">
+      <ele>719</ele>
+      <time>2022-01-18T01:08:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4644435" lon="16.404471">
+      <ele>717</ele>
+      <time>2022-01-18T01:09:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4646681" lon="16.4046817">
+      <ele>715</ele>
+      <time>2022-01-18T01:09:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

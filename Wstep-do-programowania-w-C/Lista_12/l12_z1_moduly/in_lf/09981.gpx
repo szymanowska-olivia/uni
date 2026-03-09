@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:07:55Z</time>
+    <bounds maxlat="48.8541551" maxlon="20.3081793" minlat="48.8539292" minlon="20.3062963"/>
+  </metadata>
+  <wpt lat="48.854155" lon="20.306296">
+    <ele>911</ele>
+    <name>Pod Hanesovou</name>
+    <link href="https://mapa-turystyczna.pl/node/7030">
+      <text>Pod Hanesovou</text>
+    </link>
+  </wpt>
+  <wpt lat="48.853929" lon="20.308179">
+    <ele>909</ele>
+    <name>Pod Hanesovou</name>
+    <link href="https://mapa-turystyczna.pl/node/6959">
+      <text>Pod Hanesovou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Hanesovou - Pod Hanesovou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8541551,20.3062963;48.85399095003809,20.30768844999999;48.8539292,20.3081793">
+    <text>Pod Hanesovou - Pod Hanesovou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8541551" lon="20.3062963">
+      <ele>911</ele>
+      <time>2022-01-17T23:07:55Z</time>
+    </trkpt>
+    <trkpt lat="48.8541339" lon="20.3065109">
+      <ele>912</ele>
+      <time>2022-01-17T23:08:09Z</time>
+    </trkpt>
+    <trkpt lat="48.8540527" lon="20.3071976">
+      <ele>913</ele>
+      <time>2022-01-17T23:08:52Z</time>
+    </trkpt>
+    <trkpt lat="48.8539292" lon="20.3081793">
+      <ele>909</ele>
+      <time>2022-01-17T23:09:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

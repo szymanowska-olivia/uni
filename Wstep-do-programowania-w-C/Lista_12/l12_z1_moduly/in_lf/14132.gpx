@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:17Z</time>
+    <bounds maxlat="50.1294764" maxlon="18.273628" minlat="50.1251003" minlon="18.2676864"/>
+  </metadata>
+  <wpt lat="50.1251" lon="18.267686">
+    <ele>188</ele>
+    <name>Rezerwat Lezczok</name>
+    <link href="https://mapa-turystyczna.pl/node/9652">
+      <text>Rezerwat Lezczok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.129475" lon="18.273628">
+    <ele>187</ele>
+    <name>Lezczok, Dab Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9657">
+      <text>Lezczok, Dab Sobieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Lezczok - Lezczok, Dab Sobieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1251003,18.2676864;50.127664004228514,18.270820200000024;50.1294753,18.273628">
+    <text>Rezerwat Lezczok - Lezczok, Dab Sobieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1251003" lon="18.2676864">
+      <ele>188</ele>
+      <time>2022-01-18T00:17:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1262987" lon="18.2690982">
+      <ele>193</ele>
+      <time>2022-01-18T00:19:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1270278" lon="18.2698814">
+      <ele>194</ele>
+      <time>2022-01-18T00:21:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1283002" lon="18.271759">
+      <ele>186</ele>
+      <time>2022-01-18T00:24:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1290431" lon="18.2724563">
+      <ele>186</ele>
+      <time>2022-01-18T00:25:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1293044" lon="18.2728855">
+      <ele>187</ele>
+      <time>2022-01-18T00:26:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1294145" lon="18.2731752">
+      <ele>187</ele>
+      <time>2022-01-18T00:26:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1294764" lon="18.2736258">
+      <ele>187</ele>
+      <time>2022-01-18T00:27:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1294753" lon="18.273628">
+      <ele>187</ele>
+      <time>2022-01-18T00:27:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

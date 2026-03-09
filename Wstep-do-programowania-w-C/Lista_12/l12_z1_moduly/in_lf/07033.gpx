@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:38Z</time>
+    <bounds maxlat="50.6649573" maxlon="16.4658719" minlat="50.6621119" minlon="16.4624225"/>
+  </metadata>
+  <wpt lat="50.664957" lon="16.462422">
+    <ele>721</ele>
+    <name>Rzeczka, Korona</name>
+    <link href="https://mapa-turystyczna.pl/node/4802">
+      <text>Rzeczka, Korona</text>
+    </link>
+  </wpt>
+  <wpt lat="50.662112" lon="16.465872">
+    <ele>754</ele>
+    <name>Przelecz Sokola</name>
+    <link href="https://mapa-turystyczna.pl/node/2030">
+      <text>Przelecz Sokola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rzeczka, Korona - Przelecz Sokola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6649573,16.4624225;50.66353180005611,16.46398665;50.6621119,16.4658719">
+    <text>Rzeczka, Korona - Przelecz Sokola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6649573" lon="16.4624225">
+      <ele>721</ele>
+      <time>2022-01-17T22:16:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6643831" lon="16.4629926">
+      <ele>729</ele>
+      <time>2022-01-17T22:18:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6636044" lon="16.4639206">
+      <ele>739</ele>
+      <time>2022-01-17T22:21:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6634592" lon="16.4640527">
+      <ele>741</ele>
+      <time>2022-01-17T22:21:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6632732" lon="16.4641848">
+      <ele>744</ele>
+      <time>2022-01-17T22:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.662989" lon="16.464441">
+      <ele>745</ele>
+      <time>2022-01-17T22:23:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6628116" lon="16.4647038">
+      <ele>747</ele>
+      <time>2022-01-17T22:23:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6626931" lon="16.4649077">
+      <ele>748</ele>
+      <time>2022-01-17T22:24:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6621119" lon="16.4658719">
+      <ele>754</ele>
+      <time>2022-01-17T22:26:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

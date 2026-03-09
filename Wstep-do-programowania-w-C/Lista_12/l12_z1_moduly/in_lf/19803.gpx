@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:09Z</time>
+    <bounds maxlat="49.174392" maxlon="18.951638" minlat="49.173982" minlon="18.951002"/>
+  </metadata>
+  <wpt lat="49.174392" lon="18.951002">
+    <ele>1215</ele>
+    <name>Prislop pod Suchym</name>
+    <link href="https://mapa-turystyczna.pl/node/5030">
+      <text>Prislop pod Suchym</text>
+    </link>
+  </wpt>
+  <wpt lat="49.173982" lon="18.951638">
+    <ele>1228</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13370">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prislop pod Suchym - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.174392,18.951002;49.17419150007559,18.95134200000001;49.173982,18.951638">
+    <text>Prislop pod Suchym - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.174392" lon="18.951002">
+      <ele>1215</ele>
+      <time>2022-01-18T01:55:09Z</time>
+    </trkpt>
+    <trkpt lat="49.174278" lon="18.951187">
+      <ele>1218</ele>
+      <time>2022-01-18T01:55:43Z</time>
+    </trkpt>
+    <trkpt lat="49.174105" lon="18.951497">
+      <ele>1224</ele>
+      <time>2022-01-18T01:56:37Z</time>
+    </trkpt>
+    <trkpt lat="49.173982" lon="18.951638">
+      <ele>1228</ele>
+      <time>2022-01-18T01:57:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

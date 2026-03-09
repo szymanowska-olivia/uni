@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:57Z</time>
+    <bounds maxlat="50.515006" maxlon="16.309117" minlat="50.5147297" minlon="16.3088501"/>
+  </metadata>
+  <wpt lat="50.515006" lon="16.30885">
+    <ele>730</ele>
+    <name>Junacka vyhlidka, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5756">
+      <text>Junacka vyhlidka, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.51473" lon="16.309117">
+    <ele>719</ele>
+    <name>Junacka vyhlidka</name>
+    <link href="https://mapa-turystyczna.pl/node/5755">
+      <text>Junacka vyhlidka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Junacka vyhlidka, odbocka - Junacka vyhlidka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.515006,16.3088501;50.51493610005176,16.308942600000016;50.5147297,16.309117">
+    <text>Junacka vyhlidka, odbocka - Junacka vyhlidka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.515006" lon="16.3088501">
+      <ele>730</ele>
+      <time>2022-01-17T22:35:57Z</time>
+    </trkpt>
+    <trkpt lat="50.5148662" lon="16.3090351">
+      <ele>724</ele>
+      <time>2022-01-17T22:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5147297" lon="16.309117">
+      <ele>719</ele>
+      <time>2022-01-17T22:36:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

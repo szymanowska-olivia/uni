@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:26Z</time>
+    <bounds maxlat="49.656013" maxlon="20.276728" minlat="49.65525" minlon="20.276025"/>
+  </metadata>
+  <wpt lat="49.656013" lon="20.276025">
+    <ele>1143</ele>
+    <name>Pod Mogielica</name>
+    <link href="https://mapa-turystyczna.pl/node/3920">
+      <text>Pod Mogielica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.65525" lon="20.276728">
+    <ele>1170</ele>
+    <name>Mogielica</name>
+    <link href="https://mapa-turystyczna.pl/node/902">
+      <text>Mogielica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Mogielica - Mogielica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.656013,20.276025;49.65562200002569,20.276400500000022;49.65525,20.276728">
+    <text>Pod Mogielica - Mogielica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.656013" lon="20.276025">
+      <ele>1143</ele>
+      <time>2022-01-17T21:58:26Z</time>
+    </trkpt>
+    <trkpt lat="49.655938" lon="20.276175">
+      <ele>1147</ele>
+      <time>2022-01-17T21:59:07Z</time>
+    </trkpt>
+    <trkpt lat="49.65586" lon="20.27625">
+      <ele>1150</ele>
+      <time>2022-01-17T21:59:37Z</time>
+    </trkpt>
+    <trkpt lat="49.655759" lon="20.276282">
+      <ele>1153</ele>
+      <time>2022-01-17T22:00:11Z</time>
+    </trkpt>
+    <trkpt lat="49.655672" lon="20.276331">
+      <ele>1155</ele>
+      <time>2022-01-17T22:00:41Z</time>
+    </trkpt>
+    <trkpt lat="49.655572" lon="20.27647">
+      <ele>1160</ele>
+      <time>2022-01-17T22:01:26Z</time>
+    </trkpt>
+    <trkpt lat="49.655443" lon="20.276612">
+      <ele>1165</ele>
+      <time>2022-01-17T22:02:18Z</time>
+    </trkpt>
+    <trkpt lat="49.65533" lon="20.276669">
+      <ele>1168</ele>
+      <time>2022-01-17T22:02:57Z</time>
+    </trkpt>
+    <trkpt lat="49.65525" lon="20.276728">
+      <ele>1170</ele>
+      <time>2022-01-17T22:03:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

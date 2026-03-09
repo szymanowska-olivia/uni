@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:26Z</time>
+    <bounds maxlat="50.7033452" maxlon="15.6691861" minlat="50.6995418" minlon="15.661264"/>
+  </metadata>
+  <wpt lat="50.703345" lon="15.669186">
+    <ele>1318</ele>
+    <name>Dvorska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1118">
+      <text>Dvorska bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.699542" lon="15.661264">
+    <ele>1272</ele>
+    <name>Zadni Rennerovky</name>
+    <link href="https://mapa-turystyczna.pl/node/1445">
+      <text>Zadni Rennerovky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dvorska bouda - Zadni Rennerovky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7033452,15.6691861;50.70185680015047,15.665111900000012;50.6995418,15.661264">
+    <text>Dvorska bouda - Zadni Rennerovky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7033452" lon="15.6691861">
+      <ele>1318</ele>
+      <time>2022-01-17T21:01:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7027769" lon="15.667947">
+      <ele>1310</ele>
+      <time>2022-01-17T21:02:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7019756" lon="15.6653989">
+      <ele>1295</ele>
+      <time>2022-01-17T21:05:48Z</time>
+    </trkpt>
+    <trkpt lat="50.701738" lon="15.6648249">
+      <ele>1292</ele>
+      <time>2022-01-17T21:06:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7007394" lon="15.6630707">
+      <ele>1282</ele>
+      <time>2022-01-17T21:08:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6998577" lon="15.6618004">
+      <ele>1275</ele>
+      <time>2022-01-17T21:10:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6995418" lon="15.661264">
+      <ele>1272</ele>
+      <time>2022-01-17T21:11:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

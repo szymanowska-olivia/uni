@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:46Z</time>
+    <bounds maxlat="50.2297168" maxlon="17.3116368" minlat="50.2293085" minlon="17.297861"/>
+  </metadata>
+  <wpt lat="50.229309" lon="17.297861">
+    <ele>780</ele>
+    <name>Rejviz</name>
+    <link href="https://mapa-turystyczna.pl/node/6268">
+      <text>Rejviz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229717" lon="17.311637">
+    <ele>756</ele>
+    <name>Rejviz, hotel Franz</name>
+    <link href="https://mapa-turystyczna.pl/node/6289">
+      <text>Rejviz, hotel Franz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rejviz - Rejviz, hotel Franz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2293085,17.297861;50.22944745007407,17.301760950000006;50.2297168,17.3116368">
+    <text>Rejviz - Rejviz, hotel Franz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2293085" lon="17.297861">
+      <ele>780</ele>
+      <time>2022-01-17T22:49:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2293634" lon="17.2983009">
+      <ele>780</ele>
+      <time>2022-01-17T22:50:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2295315" lon="17.305221">
+      <ele>768</ele>
+      <time>2022-01-17T22:57:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2297168" lon="17.3116368">
+      <ele>756</ele>
+      <time>2022-01-17T23:04:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:29Z</time>
+    <bounds maxlat="50.2173282" maxlon="16.9224859" minlat="50.2168498" minlon="16.9223186"/>
+  </metadata>
+  <wpt lat="50.217328" lon="16.922319">
+    <ele>726</ele>
+    <name>Kladska brana, hajovna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9781">
+      <text>Kladska brana, hajovna, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.21685" lon="16.922486">
+    <ele>719</ele>
+    <name>Kladska brana, hajovna</name>
+    <link href="https://mapa-turystyczna.pl/node/1731">
+      <text>Kladska brana, hajovna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kladska brana, hajovna, rozc. - Kladska brana, hajovna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2173282,16.9223186;50.21708900059964,16.922402250000015;50.2168498,16.9224859">
+    <text>Kladska brana, hajovna, rozc. - Kladska brana, hajovna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2173282" lon="16.9223186">
+      <ele>726</ele>
+      <time>2022-01-18T00:20:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2168498" lon="16.9224859">
+      <ele>719</ele>
+      <time>2022-01-18T00:21:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

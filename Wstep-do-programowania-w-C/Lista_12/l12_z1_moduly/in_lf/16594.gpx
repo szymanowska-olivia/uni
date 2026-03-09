@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:22Z</time>
+    <bounds maxlat="49.566757" maxlon="20.038596" minlat="49.564453" minlon="20.037763"/>
+  </metadata>
+  <wpt lat="49.566757" lon="20.038387">
+    <ele>934</ele>
+    <name>Odejscie na Stare Izbiska</name>
+    <link href="https://mapa-turystyczna.pl/node/11329">
+      <text>Odejscie na Stare Izbiska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.564453" lon="20.037763">
+    <ele>918</ele>
+    <name>Przelecz Posrednie</name>
+    <link href="https://mapa-turystyczna.pl/node/82">
+      <text>Przelecz Posrednie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na Stare Izbiska - Przelecz Posrednie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.566757,20.038387;49.56561700036196,20.038593000000002;49.564453,20.037763">
+    <text>Odejscie na Stare Izbiska - Przelecz Posrednie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.566757" lon="20.038387">
+      <ele>934</ele>
+      <time>2022-01-18T00:59:22Z</time>
+    </trkpt>
+    <trkpt lat="49.566506" lon="20.038413">
+      <ele>932</ele>
+      <time>2022-01-18T00:59:52Z</time>
+    </trkpt>
+    <trkpt lat="49.566282" lon="20.038521">
+      <ele>930</ele>
+      <time>2022-01-18T01:00:20Z</time>
+    </trkpt>
+    <trkpt lat="49.566036" lon="20.038556">
+      <ele>930</ele>
+      <time>2022-01-18T01:00:50Z</time>
+    </trkpt>
+    <trkpt lat="49.565805" lon="20.03859">
+      <ele>929</ele>
+      <time>2022-01-18T01:01:17Z</time>
+    </trkpt>
+    <trkpt lat="49.565429" lon="20.038596">
+      <ele>925</ele>
+      <time>2022-01-18T01:02:02Z</time>
+    </trkpt>
+    <trkpt lat="49.565245" lon="20.038564">
+      <ele>924</ele>
+      <time>2022-01-18T01:02:25Z</time>
+    </trkpt>
+    <trkpt lat="49.565041" lon="20.03847">
+      <ele>922</ele>
+      <time>2022-01-18T01:02:50Z</time>
+    </trkpt>
+    <trkpt lat="49.564768" lon="20.038277">
+      <ele>920</ele>
+      <time>2022-01-18T01:03:26Z</time>
+    </trkpt>
+    <trkpt lat="49.564591" lon="20.038097">
+      <ele>919</ele>
+      <time>2022-01-18T01:03:51Z</time>
+    </trkpt>
+    <trkpt lat="49.564453" lon="20.037763">
+      <ele>918</ele>
+      <time>2022-01-18T01:04:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

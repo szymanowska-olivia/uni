@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:21Z</time>
+    <bounds maxlat="50.3791137" maxlon="16.1857206" minlat="50.3780716" minlon="16.1834192"/>
+  </metadata>
+  <wpt lat="50.378433" lon="16.183419">
+    <ele>347</ele>
+    <name>Kralickuv smrk</name>
+    <link href="https://mapa-turystyczna.pl/node/5974">
+      <text>Kralickuv smrk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.379114" lon="16.185721">
+    <ele>340</ele>
+    <name>Peklo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5725">
+      <text>Peklo, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralickuv smrk - Peklo, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.378433,16.1834192;50.378150500045365,16.184841200000005;50.3791137,16.1857206">
+    <text>Kralickuv smrk - Peklo, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.378433" lon="16.1834192">
+      <ele>347</ele>
+      <time>2022-01-17T22:41:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3781302" lon="16.1841515">
+      <ele>340</ele>
+      <time>2022-01-17T22:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3780716" lon="16.1843775">
+      <ele>338</ele>
+      <time>2022-01-17T22:43:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3780849" lon="16.1846625">
+      <ele>335</ele>
+      <time>2022-01-17T22:43:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3782161" lon="16.1850199">
+      <ele>331</ele>
+      <time>2022-01-17T22:44:02Z</time>
+    </trkpt>
+    <trkpt lat="50.378473" lon="16.1851924">
+      <ele>331</ele>
+      <time>2022-01-17T22:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3787299" lon="16.1853327">
+      <ele>333</ele>
+      <time>2022-01-17T22:45:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3791137" lon="16.1857206">
+      <ele>340</ele>
+      <time>2022-01-17T22:46:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

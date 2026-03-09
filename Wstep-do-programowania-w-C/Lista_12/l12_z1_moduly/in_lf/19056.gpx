@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:45Z</time>
+    <bounds maxlat="52.0994933" maxlon="21.2835345" minlat="52.0946331" minlon="21.2790425"/>
+  </metadata>
+  <wpt lat="52.094633" lon="21.283534">
+    <ele>103</ele>
+    <name>Otwock, ul. Narutowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/12899">
+      <text>Otwock, ul. Narutowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.099493" lon="21.279042">
+    <ele>102</ele>
+    <name>Otwock, dawna Willa Zulita</name>
+    <link href="https://mapa-turystyczna.pl/node/12900">
+      <text>Otwock, dawna Willa Zulita</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Narutowicza - Otwock, dawna Willa Zulita</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0946331,21.2835345;52.097209152666565,21.281944599999985;52.0994933,21.2790425">
+    <text>Otwock, ul. Narutowicza - Otwock, dawna Willa Zulita</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0946331" lon="21.2835345">
+      <ele>103</ele>
+      <time>2022-01-18T01:41:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0961612" lon="21.2814081">
+      <ele>103</ele>
+      <time>2022-01-18T01:44:47Z</time>
+    </trkpt>
+    <trkpt lat="52.0964116" lon="21.2814081">
+      <ele>102</ele>
+      <time>2022-01-18T01:45:09Z</time>
+    </trkpt>
+    <trkpt lat="52.0967214" lon="21.2813438">
+      <ele>101</ele>
+      <time>2022-01-18T01:45:37Z</time>
+    </trkpt>
+    <trkpt lat="52.0976969" lon="21.2825454">
+      <ele>98</ele>
+      <time>2022-01-18T01:47:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0992918" lon="21.2791658">
+      <ele>101</ele>
+      <time>2022-01-18T01:51:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0993775" lon="21.2790478">
+      <ele>102</ele>
+      <time>2022-01-18T01:51:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0994933" lon="21.2790425">
+      <ele>102</ele>
+      <time>2022-01-18T01:51:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

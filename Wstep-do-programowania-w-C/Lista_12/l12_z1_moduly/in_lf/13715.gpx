@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:33Z</time>
+    <bounds maxlat="50.2154683" maxlon="19.0092658" minlat="50.2129778" minlon="19.0005965"/>
+  </metadata>
+  <wpt lat="50.212978" lon="19.000597">
+    <ele>295</ele>
+    <name>Katowice, ul. Olszynowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9422">
+      <text>Katowice, ul. Olszynowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.215468" lon="19.009266">
+    <ele>301</ele>
+    <name>Ochojec, miejsce postoju</name>
+    <link href="https://mapa-turystyczna.pl/node/9438">
+      <text>Ochojec, miejsce postoju</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowice, ul. Olszynowa - Ochojec, miejsce postoju</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2129778,19.0005965;50.2141780000178,19.005090049999982;50.2154683,19.0092658">
+    <text>Katowice, ul. Olszynowa - Ochojec, miejsce postoju</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2129778" lon="19.0005965">
+      <ele>295</ele>
+      <time>2022-01-18T00:11:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2130795" lon="19.0007529">
+      <ele>296</ele>
+      <time>2022-01-18T00:11:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2132203" lon="19.0008548">
+      <ele>297</ele>
+      <time>2022-01-18T00:12:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2134674" lon="19.0011177">
+      <ele>298</ele>
+      <time>2022-01-18T00:12:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2140236" lon="19.0018901">
+      <ele>301</ele>
+      <time>2022-01-18T00:13:38Z</time>
+    </trkpt>
+    <trkpt lat="50.214003" lon="19.002845">
+      <ele>302</ele>
+      <time>2022-01-18T00:14:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2140476" lon="19.0036336">
+      <ele>303</ele>
+      <time>2022-01-18T00:15:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2141368" lon="19.0047816">
+      <ele>302</ele>
+      <time>2022-01-18T00:16:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2142192" lon="19.0053985">
+      <ele>301</ele>
+      <time>2022-01-18T00:17:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2144973" lon="19.006981">
+      <ele>299</ele>
+      <time>2022-01-18T00:18:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2147067" lon="19.0076301">
+      <ele>300</ele>
+      <time>2022-01-18T00:19:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2148646" lon="19.0080485">
+      <ele>302</ele>
+      <time>2022-01-18T00:20:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2153795" lon="19.0089443">
+      <ele>302</ele>
+      <time>2022-01-18T00:21:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2154683" lon="19.0092658">
+      <ele>301</ele>
+      <time>2022-01-18T00:21:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

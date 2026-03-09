@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:02:44Z</time>
+    <bounds maxlat="50.7089695" maxlon="15.6673354" minlat="50.7071471" minlon="15.66225"/>
+  </metadata>
+  <wpt lat="50.708958" lon="15.66225">
+    <ele>1279</ele>
+    <name>Klinovka</name>
+    <link href="https://mapa-turystyczna.pl/node/1174">
+      <text>Klinovka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.707147" lon="15.667335">
+    <ele>1331</ele>
+    <name>Nad Klinovymi Boudami</name>
+    <link href="https://mapa-turystyczna.pl/node/1231">
+      <text>Nad Klinovymi Boudami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klinovka - Nad Klinovymi Boudami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7089579,15.66225;50.70847285239872,15.66391825000001;50.7071471,15.6673354">
+    <text>Klinovka - Nad Klinovymi Boudami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7089579" lon="15.66225">
+      <ele>1279</ele>
+      <time>2022-01-17T21:02:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7089695" lon="15.6623438">
+      <ele>1280</ele>
+      <time>2022-01-17T21:02:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7089471" lon="15.6624377">
+      <ele>1281</ele>
+      <time>2022-01-17T21:03:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7079986" lon="15.6653988">
+      <ele>1310</ele>
+      <time>2022-01-17T21:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7078291" lon="15.6659513">
+      <ele>1316</ele>
+      <time>2022-01-17T21:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7075848" lon="15.6665897">
+      <ele>1324</ele>
+      <time>2022-01-17T21:11:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7073" lon="15.667094">
+      <ele>1328</ele>
+      <time>2022-01-17T21:12:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7071471" lon="15.6673354">
+      <ele>1331</ele>
+      <time>2022-01-17T21:12:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

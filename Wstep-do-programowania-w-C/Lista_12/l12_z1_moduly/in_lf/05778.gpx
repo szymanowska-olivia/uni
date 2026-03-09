@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:49Z</time>
+    <bounds maxlat="50.5512605" maxlon="16.5263289" minlat="50.5506377" minlon="16.5211562"/>
+  </metadata>
+  <wpt lat="50.550638" lon="16.521156">
+    <ele>648</ele>
+    <name>Gora Wszystkich Swietych</name>
+    <link href="https://mapa-turystyczna.pl/node/4006">
+      <text>Gora Wszystkich Swietych</text>
+    </link>
+  </wpt>
+  <wpt lat="50.551" lon="16.526329">
+    <ele>612</ele>
+    <name>Koscielec</name>
+    <link href="https://mapa-turystyczna.pl/node/2068">
+      <text>Koscielec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Wszystkich Swietych - Koscielec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5506377,16.5211562;50.55121025002677,16.524988200000006;50.5509998,16.5263289">
+    <text>Gora Wszystkich Swietych - Koscielec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5506377" lon="16.5211562">
+      <ele>648</ele>
+      <time>2022-01-17T22:00:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5508464" lon="16.5218121">
+      <ele>642</ele>
+      <time>2022-01-17T22:01:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5510168" lon="16.5226463">
+      <ele>634</ele>
+      <time>2022-01-17T22:02:14Z</time>
+    </trkpt>
+    <trkpt lat="50.5510577" lon="16.5233531">
+      <ele>625</ele>
+      <time>2022-01-17T22:02:52Z</time>
+    </trkpt>
+    <trkpt lat="50.55116" lon="16.5237172">
+      <ele>623</ele>
+      <time>2022-01-17T22:03:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5512605" lon="16.5262592">
+      <ele>615</ele>
+      <time>2022-01-17T22:05:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5509998" lon="16.5263289">
+      <ele>612</ele>
+      <time>2022-01-17T22:05:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

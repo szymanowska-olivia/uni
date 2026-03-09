@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:11Z</time>
+    <bounds maxlat="49.654599" maxlon="18.859439" minlat="49.654514" minlon="18.859159"/>
+  </metadata>
+  <wpt lat="49.654514" lon="18.859159">
+    <ele>428</ele>
+    <name>Wisla, Muzeum Beskidzkie</name>
+    <link href="https://mapa-turystyczna.pl/node/12339">
+      <text>Wisla, Muzeum Beskidzkie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.654579" lon="18.859439">
+    <ele>429</ele>
+    <name>Wisla, Plac Hoffa</name>
+    <link href="https://mapa-turystyczna.pl/node/12331">
+      <text>Wisla, Plac Hoffa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, Muzeum Beskidzkie - Wisla, Plac Hoffa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.654514,18.859159;49.65455650001855,18.85923250000002;49.654579,18.859439">
+    <text>Wisla, Muzeum Beskidzkie - Wisla, Plac Hoffa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.654514" lon="18.859159">
+      <ele>428</ele>
+      <time>2022-01-18T01:26:11Z</time>
+    </trkpt>
+    <trkpt lat="49.654599" lon="18.859306">
+      <ele>429</ele>
+      <time>2022-01-18T01:26:46Z</time>
+    </trkpt>
+    <trkpt lat="49.654579" lon="18.859439">
+      <ele>429</ele>
+      <time>2022-01-18T01:27:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

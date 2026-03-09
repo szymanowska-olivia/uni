@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:57Z</time>
+    <bounds maxlat="53.9390439" maxlon="14.475131" minlat="53.9376907" minlon="14.4695876"/>
+  </metadata>
+  <wpt lat="53.937692" lon="14.475131">
+    <ele>60</ele>
+    <name>Parking Kwasowo</name>
+    <link href="https://mapa-turystyczna.pl/node/12673">
+      <text>Parking Kwasowo</text>
+    </link>
+  </wpt>
+  <wpt lat="53.939044" lon="14.469588">
+    <ele>66</ele>
+    <name>Sciezka przyrodniczo-historyczna Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/8584">
+      <text>Sciezka przyrodniczo-historyczna Biala Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Parking Kwasowo - Sciezka przyrodniczo-historyczna Biala Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.937692,14.475131;53.93787750012888,14.472613349999994;53.9390439,14.4695876">
+    <text>Parking Kwasowo - Sciezka przyrodniczo-historyczna Biala Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.937692" lon="14.475131">
+      <ele>60</ele>
+      <time>2022-01-18T01:35:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9376907" lon="14.4751275">
+      <ele>60</ele>
+      <time>2022-01-18T01:35:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9377538" lon="14.4745159">
+      <ele>62</ele>
+      <time>2022-01-18T01:36:56Z</time>
+    </trkpt>
+    <trkpt lat="53.9377738" lon="14.4740797">
+      <ele>62</ele>
+      <time>2022-01-18T01:37:36Z</time>
+    </trkpt>
+    <trkpt lat="53.9379812" lon="14.471147">
+      <ele>55</ele>
+      <time>2022-01-18T01:42:13Z</time>
+    </trkpt>
+    <trkpt lat="53.9384778" lon="14.4704531">
+      <ele>57</ele>
+      <time>2022-01-18T01:43:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9387075" lon="14.470042">
+      <ele>60</ele>
+      <time>2022-01-18T01:44:48Z</time>
+    </trkpt>
+    <trkpt lat="53.9390439" lon="14.4695876">
+      <ele>66</ele>
+      <time>2022-01-18T01:45:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

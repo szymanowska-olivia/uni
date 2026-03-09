@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:50Z</time>
+    <bounds maxlat="51.2959541" maxlon="20.2217102" minlat="51.2690174" minlon="20.2110243"/>
+  </metadata>
+  <wpt lat="51.295954" lon="20.22171">
+    <ele>204</ele>
+    <name>Miedzna Murowana</name>
+    <link href="https://mapa-turystyczna.pl/node/7290">
+      <text>Miedzna Murowana</text>
+    </link>
+  </wpt>
+  <wpt lat="51.269017" lon="20.215015">
+    <ele>199</ele>
+    <name>Nadole</name>
+    <link href="https://mapa-turystyczna.pl/node/7291">
+      <text>Nadole</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzna Murowana - Nadole</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2959541,20.2217102;51.2818904565965,20.214049800000016;51.2690174,20.2150154">
+    <text>Miedzna Murowana - Nadole</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2959541" lon="20.2217102">
+      <ele>204</ele>
+      <time>2022-01-17T23:14:50Z</time>
+    </trkpt>
+    <trkpt lat="51.2945586" lon="20.2205944">
+      <ele>203</ele>
+      <time>2022-01-17T23:17:27Z</time>
+    </trkpt>
+    <trkpt lat="51.2931363" lon="20.2181482">
+      <ele>201</ele>
+      <time>2022-01-17T23:20:57Z</time>
+    </trkpt>
+    <trkpt lat="51.2826689" lon="20.2110243">
+      <ele>203</ele>
+      <time>2022-01-17T23:40:01Z</time>
+    </trkpt>
+    <trkpt lat="51.281112" lon="20.2170753">
+      <ele>204</ele>
+      <time>2022-01-17T23:46:53Z</time>
+    </trkpt>
+    <trkpt lat="51.2779175" lon="20.2156162">
+      <ele>196</ele>
+      <time>2022-01-17T23:52:27Z</time>
+    </trkpt>
+    <trkpt lat="51.2729777" lon="20.2119255">
+      <ele>196</ele>
+      <time>2022-01-18T00:01:36Z</time>
+    </trkpt>
+    <trkpt lat="51.2714473" lon="20.2114105">
+      <ele>195</ele>
+      <time>2022-01-18T00:04:13Z</time>
+    </trkpt>
+    <trkpt lat="51.2697558" lon="20.2143502">
+      <ele>197</ele>
+      <time>2022-01-18T00:08:25Z</time>
+    </trkpt>
+    <trkpt lat="51.2690174" lon="20.2150154">
+      <ele>199</ele>
+      <time>2022-01-18T00:09:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

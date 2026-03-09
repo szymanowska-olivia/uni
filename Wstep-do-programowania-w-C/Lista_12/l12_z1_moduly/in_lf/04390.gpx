@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:48Z</time>
+    <bounds maxlat="49.382551" maxlon="20.554245" minlat="49.381866" minlon="20.552398"/>
+  </metadata>
+  <wpt lat="49.381866" lon="20.552398">
+    <ele>964</ele>
+    <name>Pod Wysoka</name>
+    <link href="https://mapa-turystyczna.pl/node/3045">
+      <text>Pod Wysoka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.382551" lon="20.554245">
+    <ele>947</ele>
+    <name>Polana pod Wysoka</name>
+    <link href="https://mapa-turystyczna.pl/node/29">
+      <text>Polana pod Wysoka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wysoka - Polana pod Wysoka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.381866,20.552398;49.382041500000206,20.553461500000008;49.382551,20.554245">
+    <text>Pod Wysoka - Polana pod Wysoka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.381866" lon="20.552398">
+      <ele>964</ele>
+      <time>2022-01-17T21:41:48Z</time>
+    </trkpt>
+    <trkpt lat="49.381992" lon="20.552781">
+      <ele>970</ele>
+      <time>2022-01-17T21:42:22Z</time>
+    </trkpt>
+    <trkpt lat="49.382013" lon="20.553011">
+      <ele>972</ele>
+      <time>2022-01-17T21:42:40Z</time>
+    </trkpt>
+    <trkpt lat="49.382037" lon="20.553381">
+      <ele>972</ele>
+      <time>2022-01-17T21:43:09Z</time>
+    </trkpt>
+    <trkpt lat="49.382046" lon="20.553542">
+      <ele>973</ele>
+      <time>2022-01-17T21:43:21Z</time>
+    </trkpt>
+    <trkpt lat="49.382086" lon="20.553631">
+      <ele>972</ele>
+      <time>2022-01-17T21:43:30Z</time>
+    </trkpt>
+    <trkpt lat="49.382149" lon="20.553725">
+      <ele>970</ele>
+      <time>2022-01-17T21:43:40Z</time>
+    </trkpt>
+    <trkpt lat="49.382334" lon="20.553945">
+      <ele>963</ele>
+      <time>2022-01-17T21:44:09Z</time>
+    </trkpt>
+    <trkpt lat="49.382551" lon="20.554245">
+      <ele>947</ele>
+      <time>2022-01-17T21:44:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

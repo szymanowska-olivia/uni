@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:44Z</time>
+    <bounds maxlat="50.8626034" maxlon="15.2833879" minlat="50.8622093" minlon="15.2827893"/>
+  </metadata>
+  <wpt lat="50.862209" lon="15.283388">
+    <ele>890</ele>
+    <name>Predel</name>
+    <link href="https://mapa-turystyczna.pl/node/2279">
+      <text>Predel</text>
+    </link>
+  </wpt>
+  <wpt lat="50.862603" lon="15.282789">
+    <ele>890</ele>
+    <name>Predel, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8685">
+      <text>Predel, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Predel - Predel, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8622093,15.2833879;50.86240635041641,15.283088600000019;50.8626034,15.2827893">
+    <text>Predel - Predel, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8622093" lon="15.2833879">
+      <ele>890</ele>
+      <time>2022-01-17T23:53:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8626034" lon="15.2827893">
+      <ele>890</ele>
+      <time>2022-01-17T23:54:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

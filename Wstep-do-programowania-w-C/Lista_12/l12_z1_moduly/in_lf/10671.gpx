@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:21Z</time>
+    <bounds maxlat="49.621176" maxlon="18.666037" minlat="49.620235" minlon="18.665383"/>
+  </metadata>
+  <wpt lat="49.621176" lon="18.665383">
+    <ele>635</ele>
+    <name>Horska chata Kozinec</name>
+    <link href="https://mapa-turystyczna.pl/node/7445">
+      <text>Horska chata Kozinec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.620235" lon="18.666037">
+    <ele>650</ele>
+    <name>Horska chata Kozinec, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7446">
+      <text>Horska chata Kozinec, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horska chata Kozinec - Horska chata Kozinec, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.621176,18.665383;49.620563501107334,18.66602850000002;49.620235,18.666037">
+    <text>Horska chata Kozinec - Horska chata Kozinec, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.621176" lon="18.665383">
+      <ele>635</ele>
+      <time>2022-01-17T23:20:21Z</time>
+    </trkpt>
+    <trkpt lat="49.621102" lon="18.665394">
+      <ele>637</ele>
+      <time>2022-01-17T23:20:40Z</time>
+    </trkpt>
+    <trkpt lat="49.621024" lon="18.665483">
+      <ele>639</ele>
+      <time>2022-01-17T23:21:04Z</time>
+    </trkpt>
+    <trkpt lat="49.620979" lon="18.665608">
+      <ele>639</ele>
+      <time>2022-01-17T23:21:27Z</time>
+    </trkpt>
+    <trkpt lat="49.620892" lon="18.66602">
+      <ele>639</ele>
+      <time>2022-01-17T23:22:37Z</time>
+    </trkpt>
+    <trkpt lat="49.620235" lon="18.666037">
+      <ele>650</ele>
+      <time>2022-01-17T23:25:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

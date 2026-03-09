@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:06Z</time>
+    <bounds maxlat="49.204948" maxlon="20.237155" minlat="49.204334" minlon="20.2358"/>
+  </metadata>
+  <wpt lat="49.204363" lon="20.2358">
+    <ele>2023</ele>
+    <name>Sedlo pod Svistovkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1585">
+      <text>Sedlo pod Svistovkou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.204948" lon="20.237126">
+    <ele>2037</ele>
+    <name>Velka Svistovka</name>
+    <link href="https://mapa-turystyczna.pl/node/6301">
+      <text>Velka Svistovka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo pod Svistovkou - Velka Svistovka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.204363,20.2358;49.20446750004339,20.236498499999996;49.204948,20.237126">
+    <text>Sedlo pod Svistovkou - Velka Svistovka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.204363" lon="20.2358">
+      <ele>2023</ele>
+      <time>2022-01-17T22:50:06Z</time>
+    </trkpt>
+    <trkpt lat="49.204334" lon="20.236064">
+      <ele>2025</ele>
+      <time>2022-01-17T22:50:50Z</time>
+    </trkpt>
+    <trkpt lat="49.204402" lon="20.236361">
+      <ele>2028</ele>
+      <time>2022-01-17T22:51:42Z</time>
+    </trkpt>
+    <trkpt lat="49.204533" lon="20.236636">
+      <ele>2034</ele>
+      <time>2022-01-17T22:52:39Z</time>
+    </trkpt>
+    <trkpt lat="49.204755" lon="20.236826">
+      <ele>2038</ele>
+      <time>2022-01-17T22:53:43Z</time>
+    </trkpt>
+    <trkpt lat="49.204846" lon="20.237134">
+      <ele>2039</ele>
+      <time>2022-01-17T22:54:38Z</time>
+    </trkpt>
+    <trkpt lat="49.20493" lon="20.237155">
+      <ele>2037</ele>
+      <time>2022-01-17T22:54:59Z</time>
+    </trkpt>
+    <trkpt lat="49.204948" lon="20.237126">
+      <ele>2037</ele>
+      <time>2022-01-17T22:55:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

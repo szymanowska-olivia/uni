@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:29Z</time>
+    <bounds maxlat="49.9374353" maxlon="18.6463484" minlat="49.93649" minlon="18.6439415"/>
+  </metadata>
+  <wpt lat="49.937435" lon="18.646348">
+    <ele>257</ele>
+    <name>Bzie Zameckie</name>
+    <link href="https://mapa-turystyczna.pl/node/9822">
+      <text>Bzie Zameckie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.93649" lon="18.643942">
+    <ele>268</ele>
+    <name>Bzie Zameckie, dwor</name>
+    <link href="https://mapa-turystyczna.pl/node/9823">
+      <text>Bzie Zameckie, dwor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bzie Zameckie - Bzie Zameckie, dwor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9374353,18.6463484;49.93697285036734,18.64542505;49.93649,18.6439415">
+    <text>Bzie Zameckie - Bzie Zameckie, dwor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9374353" lon="18.6463484">
+      <ele>257</ele>
+      <time>2022-01-18T00:21:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9374303" lon="18.6460983">
+      <ele>257</ele>
+      <time>2022-01-18T00:21:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9374027" lon="18.6459856">
+      <ele>257</ele>
+      <time>2022-01-18T00:22:05Z</time>
+    </trkpt>
+    <trkpt lat="49.9373613" lon="18.6458676">
+      <ele>257</ele>
+      <time>2022-01-18T00:22:18Z</time>
+    </trkpt>
+    <trkpt lat="49.9373026" lon="18.6457711">
+      <ele>257</ele>
+      <time>2022-01-18T00:22:31Z</time>
+    </trkpt>
+    <trkpt lat="49.937161" lon="18.645594">
+      <ele>259</ele>
+      <time>2022-01-18T00:22:58Z</time>
+    </trkpt>
+    <trkpt lat="49.9367847" lon="18.6452561">
+      <ele>262</ele>
+      <time>2022-01-18T00:24:03Z</time>
+    </trkpt>
+    <trkpt lat="49.9365775" lon="18.6450361">
+      <ele>261</ele>
+      <time>2022-01-18T00:24:41Z</time>
+    </trkpt>
+    <trkpt lat="49.936543" lon="18.6449557">
+      <ele>261</ele>
+      <time>2022-01-18T00:24:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9365257" lon="18.6442958">
+      <ele>266</ele>
+      <time>2022-01-18T00:25:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9365085" lon="18.6440437">
+      <ele>268</ele>
+      <time>2022-01-18T00:26:19Z</time>
+    </trkpt>
+    <trkpt lat="49.93649" lon="18.6439415">
+      <ele>268</ele>
+      <time>2022-01-18T00:26:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

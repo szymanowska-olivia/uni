@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:07Z</time>
+    <bounds maxlat="51.3095798" maxlon="17.0662917" minlat="51.3090465" minlon="17.0648305"/>
+  </metadata>
+  <wpt lat="51.309047" lon="17.06483">
+    <ele>183</ele>
+    <name>Trzebnica, Sanktuarium</name>
+    <link href="https://mapa-turystyczna.pl/node/10508">
+      <text>Trzebnica, Sanktuarium</text>
+    </link>
+  </wpt>
+  <wpt lat="51.30958" lon="17.066292">
+    <ele>184</ele>
+    <name>Trzebnica, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/10542">
+      <text>Trzebnica, muzeum</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, Sanktuarium - Trzebnica, muzeum</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3090465,17.0648305;51.309472450125575,17.065847499999983;51.3095798,17.0662917">
+    <text>Trzebnica, Sanktuarium - Trzebnica, muzeum</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3090465" lon="17.0648305">
+      <ele>183</ele>
+      <time>2022-01-18T00:39:07Z</time>
+    </trkpt>
+    <trkpt lat="51.3092243" lon="17.0650063">
+      <ele>183</ele>
+      <time>2022-01-18T00:39:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3093651" lon="17.0654033">
+      <ele>184</ele>
+      <time>2022-01-18T00:40:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3095798" lon="17.0662917">
+      <ele>184</ele>
+      <time>2022-01-18T00:41:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

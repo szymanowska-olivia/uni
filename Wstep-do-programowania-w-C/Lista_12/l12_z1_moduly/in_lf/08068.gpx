@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:25Z</time>
+    <bounds maxlat="50.3451934" maxlon="19.453724" minlat="50.3450051" minlon="19.4506234"/>
+  </metadata>
+  <wpt lat="50.345193" lon="19.453724">
+    <ele>304</ele>
+    <name>Bledow</name>
+    <link href="https://mapa-turystyczna.pl/node/5632">
+      <text>Bledow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.345005" lon="19.450623">
+    <ele>304</ele>
+    <name>Bledow, szkola</name>
+    <link href="https://mapa-turystyczna.pl/node/5633">
+      <text>Bledow, szkola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledow - Bledow, szkola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3451934,19.453724;50.34509925009333,19.4521737;50.3450051,19.4506234">
+    <text>Bledow - Bledow, szkola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3451934" lon="19.453724">
+      <ele>304</ele>
+      <time>2022-01-17T22:32:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3450051" lon="19.4506234">
+      <ele>304</ele>
+      <time>2022-01-17T22:35:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:30Z</time>
+    <bounds maxlat="50.3219999" maxlon="16.4572736" minlat="50.3219435" minlon="16.4559737"/>
+  </metadata>
+  <wpt lat="50.322" lon="16.455974">
+    <ele>780</ele>
+    <name>Pod Krzemionka</name>
+    <link href="https://mapa-turystyczna.pl/node/5940">
+      <text>Pod Krzemionka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.321944" lon="16.457274">
+    <ele>781</ele>
+    <name>Pod Krzemionka</name>
+    <link href="https://mapa-turystyczna.pl/node/5941">
+      <text>Pod Krzemionka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krzemionka - Pod Krzemionka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3219999,16.4559737;50.32197170000836,16.456623650000015;50.3219435,16.4572736">
+    <text>Pod Krzemionka - Pod Krzemionka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3219999" lon="16.4559737">
+      <ele>780</ele>
+      <time>2022-01-17T22:40:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3219435" lon="16.4572736">
+      <ele>781</ele>
+      <time>2022-01-17T22:41:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

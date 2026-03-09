@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:56Z</time>
+    <bounds maxlat="49.408415" maxlon="19.104882" minlat="49.407195" minlon="19.103643"/>
+  </metadata>
+  <wpt lat="49.408415" lon="19.103643">
+    <ele>970</ele>
+    <name>Nad Przelecza Przyslop</name>
+    <link href="https://mapa-turystyczna.pl/node/3970">
+      <text>Nad Przelecza Przyslop</text>
+    </link>
+  </wpt>
+  <wpt lat="49.407195" lon="19.104882">
+    <ele>940</ele>
+    <name>Przelecz Przyslop</name>
+    <link href="https://mapa-turystyczna.pl/node/639">
+      <text>Przelecz Przyslop</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Przelecza Przyslop - Przelecz Przyslop</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.408415,19.103643;49.40780150018699,19.104314000000016;49.407195,19.104882">
+    <text>Nad Przelecza Przyslop - Przelecz Przyslop</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.408415" lon="19.103643">
+      <ele>970</ele>
+      <time>2022-01-17T21:59:56Z</time>
+    </trkpt>
+    <trkpt lat="49.408138" lon="19.103918">
+      <ele>958</ele>
+      <time>2022-01-17T22:00:38Z</time>
+    </trkpt>
+    <trkpt lat="49.407937" lon="19.104184">
+      <ele>951</ele>
+      <time>2022-01-17T22:01:10Z</time>
+    </trkpt>
+    <trkpt lat="49.407666" lon="19.104444">
+      <ele>945</ele>
+      <time>2022-01-17T22:01:49Z</time>
+    </trkpt>
+    <trkpt lat="49.407227" lon="19.104825">
+      <ele>940</ele>
+      <time>2022-01-17T22:02:50Z</time>
+    </trkpt>
+    <trkpt lat="49.407195" lon="19.104882">
+      <ele>940</ele>
+      <time>2022-01-17T22:02:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

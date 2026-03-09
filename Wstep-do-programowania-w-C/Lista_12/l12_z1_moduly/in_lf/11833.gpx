@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:40:42Z</time>
+    <bounds maxlat="50.8153852" maxlon="16.6630036" minlat="50.8104444" minlon="16.6426545"/>
+  </metadata>
+  <wpt lat="50.810444" lon="16.642654">
+    <ele>278</ele>
+    <name>Kielczyn</name>
+    <link href="https://mapa-turystyczna.pl/node/8226">
+      <text>Kielczyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.815385" lon="16.663004">
+    <ele>276</ele>
+    <name>Jedrzejowice</name>
+    <link href="https://mapa-turystyczna.pl/node/2694">
+      <text>Jedrzejowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kielczyn - Jedrzejowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8104444,16.6426545;50.812751600134035,16.653353000000013;50.8153852,16.6630036">
+    <text>Kielczyn - Jedrzejowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8104444" lon="16.6426545">
+      <ele>278</ele>
+      <time>2022-01-17T23:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8106585" lon="16.643874">
+      <ele>277</ele>
+      <time>2022-01-17T23:42:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8107992" lon="16.6451454">
+      <ele>277</ele>
+      <time>2022-01-17T23:43:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8123245" lon="16.651234">
+      <ele>279</ele>
+      <time>2022-01-17T23:50:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8126397" lon="16.6525805">
+      <ele>277</ele>
+      <time>2022-01-17T23:52:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8128635" lon="16.6541255">
+      <ele>279</ele>
+      <time>2022-01-17T23:54:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8129516" lon="16.6551715">
+      <ele>278</ele>
+      <time>2022-01-17T23:55:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8129685" lon="16.6570249">
+      <ele>279</ele>
+      <time>2022-01-17T23:57:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8137617" lon="16.6599727">
+      <ele>279</ele>
+      <time>2022-01-18T00:01:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8146582" lon="16.6617">
+      <ele>277</ele>
+      <time>2022-01-18T00:03:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8153852" lon="16.6630036">
+      <ele>276</ele>
+      <time>2022-01-18T00:05:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

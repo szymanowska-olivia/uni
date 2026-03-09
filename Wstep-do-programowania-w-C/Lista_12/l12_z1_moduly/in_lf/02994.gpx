@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:35Z</time>
+    <bounds maxlat="50.2298301" maxlon="17.1417832" minlat="50.2291412" minlon="17.1357858"/>
+  </metadata>
+  <wpt lat="50.22983" lon="17.141783">
+    <ele>504</ele>
+    <name>Lipova-lazne, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2147">
+      <text>Lipova-lazne, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229274" lon="17.135786">
+    <ele>512</ele>
+    <name>Lipova-lazne, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2145">
+      <text>Lipova-lazne, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipova-lazne, rozc. - Lipova-lazne, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2298301,17.1417832;50.229314450005624,17.138477399999974;50.2292742,17.1357858">
+    <text>Lipova-lazne, rozc. - Lipova-lazne, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2298301" lon="17.1417832">
+      <ele>504</ele>
+      <time>2022-01-17T21:23:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2297915" lon="17.1412669">
+      <ele>503</ele>
+      <time>2022-01-17T21:24:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2295882" lon="17.1407935">
+      <ele>502</ele>
+      <time>2022-01-17T21:25:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2292913" lon="17.1393317">
+      <ele>500</ele>
+      <time>2022-01-17T21:27:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2293376" lon="17.1376231">
+      <ele>507</ele>
+      <time>2022-01-17T21:30:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2291412" lon="17.1358354">
+      <ele>511</ele>
+      <time>2022-01-17T21:33:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2292742" lon="17.1357858">
+      <ele>512</ele>
+      <time>2022-01-17T21:33:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

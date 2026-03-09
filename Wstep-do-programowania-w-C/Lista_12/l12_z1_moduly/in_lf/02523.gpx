@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:27Z</time>
+    <bounds maxlat="50.4423412" maxlon="16.3332876" minlat="50.4405302" minlon="16.3310655"/>
+  </metadata>
+  <wpt lat="50.442341" lon="16.333288">
+    <ele>724</ele>
+    <name>Nad Kociolkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1830">
+      <text>Nad Kociolkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.440537" lon="16.331066">
+    <ele>684</ele>
+    <name>Zyznow</name>
+    <link href="https://mapa-turystyczna.pl/node/1831">
+      <text>Zyznow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Kociolkiem - Zyznow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4423412,16.3332876;50.44136085120796,16.332120800000002;50.4405374,16.3310655">
+    <text>Nad Kociolkiem - Zyznow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4423412" lon="16.3332876">
+      <ele>724</ele>
+      <time>2022-01-17T21:17:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4421346" lon="16.3326962">
+      <ele>720</ele>
+      <time>2022-01-17T21:18:19Z</time>
+    </trkpt>
+    <trkpt lat="50.441699" lon="16.3322952">
+      <ele>710</ele>
+      <time>2022-01-17T21:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4410227" lon="16.3319464">
+      <ele>701</ele>
+      <time>2022-01-17T21:20:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4408485" lon="16.3318257">
+      <ele>697</ele>
+      <time>2022-01-17T21:21:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4406433" lon="16.3316005">
+      <ele>691</ele>
+      <time>2022-01-17T21:21:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4405503" lon="16.3314251">
+      <ele>688</ele>
+      <time>2022-01-17T21:21:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4405302" lon="16.331256">
+      <ele>686</ele>
+      <time>2022-01-17T21:22:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4405374" lon="16.3310655">
+      <ele>684</ele>
+      <time>2022-01-17T21:22:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

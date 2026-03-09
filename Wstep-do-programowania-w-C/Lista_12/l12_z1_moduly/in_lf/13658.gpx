@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:42Z</time>
+    <bounds maxlat="50.7408365" maxlon="16.3072572" minlat="50.738566" minlon="16.3064418"/>
+  </metadata>
+  <wpt lat="50.740837" lon="16.306498">
+    <ele>640</ele>
+    <name>Platforma widokowa pod Dluzyna</name>
+    <link href="https://mapa-turystyczna.pl/node/9410">
+      <text>Platforma widokowa pod Dluzyna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.738566" lon="16.307161">
+    <ele>661</ele>
+    <name>Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/9412">
+      <text>Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Platforma widokowa pod Dluzyna - Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7408365,16.3064976;50.739690400504166,16.306892400000006;50.738566,16.3071612">
+    <text>Platforma widokowa pod Dluzyna - Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7408365" lon="16.3064976">
+      <ele>640</ele>
+      <time>2022-01-18T00:10:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7408039" lon="16.3064418">
+      <ele>638</ele>
+      <time>2022-01-18T00:10:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7406478" lon="16.3064525">
+      <ele>640</ele>
+      <time>2022-01-18T00:11:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7402132" lon="16.3068817">
+      <ele>656</ele>
+      <time>2022-01-18T00:12:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7399077" lon="16.3069568">
+      <ele>658</ele>
+      <time>2022-01-18T00:12:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7394731" lon="16.306828">
+      <ele>651</ele>
+      <time>2022-01-18T00:13:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7391065" lon="16.3070212">
+      <ele>655</ele>
+      <time>2022-01-18T00:14:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7388349" lon="16.3072572">
+      <ele>660</ele>
+      <time>2022-01-18T00:15:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7386108" lon="16.3072357">
+      <ele>662</ele>
+      <time>2022-01-18T00:15:34Z</time>
+    </trkpt>
+    <trkpt lat="50.738566" lon="16.3071612">
+      <ele>661</ele>
+      <time>2022-01-18T00:15:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

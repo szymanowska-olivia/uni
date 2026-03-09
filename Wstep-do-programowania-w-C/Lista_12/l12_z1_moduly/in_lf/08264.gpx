@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:42Z</time>
+    <bounds maxlat="50.517919" maxlon="16.3114947" minlat="50.5173903" minlon="16.3107544"/>
+  </metadata>
+  <wpt lat="50.517919" lon="16.310754">
+    <ele>732</ele>
+    <name>Panuv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/5742">
+      <text>Panuv kriz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.51739" lon="16.311495">
+    <ele>731</ele>
+    <name>Panuv kriz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5743">
+      <text>Panuv kriz, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Panuv kriz - Panuv kriz, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.517919,16.3107544;50.51758385039684,16.311290849999985;50.5173903,16.3114947">
+    <text>Panuv kriz - Panuv kriz, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.517919" lon="16.3107544">
+      <ele>732</ele>
+      <time>2022-01-17T22:35:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5177774" lon="16.311087">
+      <ele>731</ele>
+      <time>2022-01-17T22:36:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5173903" lon="16.3114947">
+      <ele>731</ele>
+      <time>2022-01-17T22:36:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:19Z</time>
+    <bounds maxlat="50.8578225" maxlon="16.690243" minlat="50.857563" minlon="16.6898143"/>
+  </metadata>
+  <wpt lat="50.857822" lon="16.689814">
+    <ele>529</ele>
+    <name>Odejscie sciezki przyrodniczej</name>
+    <link href="https://mapa-turystyczna.pl/node/11686">
+      <text>Odejscie sciezki przyrodniczej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.857563" lon="16.690243">
+    <ele>534</ele>
+    <name>Skalna</name>
+    <link href="https://mapa-turystyczna.pl/node/8320">
+      <text>Skalna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki przyrodniczej - Skalna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8578225,16.6898143;50.85763740005937,16.690133449999998;50.857563,16.690243">
+    <text>Odejscie sciezki przyrodniczej - Skalna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8578225" lon="16.6898143">
+      <ele>529</ele>
+      <time>2022-01-18T01:08:19Z</time>
+    </trkpt>
+    <trkpt lat="50.857766" lon="16.6898361">
+      <ele>530</ele>
+      <time>2022-01-18T01:08:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8577118" lon="16.6900239">
+      <ele>532</ele>
+      <time>2022-01-18T01:08:48Z</time>
+    </trkpt>
+    <trkpt lat="50.857563" lon="16.690243">
+      <ele>534</ele>
+      <time>2022-01-18T01:09:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

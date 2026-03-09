@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:55Z</time>
+    <bounds maxlat="50.8304722" maxlon="16.3111889" minlat="50.8302892" minlon="16.3057839"/>
+  </metadata>
+  <wpt lat="50.830289" lon="16.311189">
+    <ele>391</ele>
+    <name>Lubiechow, przy Palmiarni</name>
+    <link href="https://mapa-turystyczna.pl/node/2583">
+      <text>Lubiechow, przy Palmiarni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.830455" lon="16.305784">
+    <ele>397</ele>
+    <name>Walbrzych, Palmiarnia</name>
+    <link href="https://mapa-turystyczna.pl/node/7323">
+      <text>Walbrzych, Palmiarnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubiechow, przy Palmiarni - Walbrzych, Palmiarnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8302892,16.3111889;50.8304196500296,16.308729349999997;50.8304548,16.3057839">
+    <text>Lubiechow, przy Palmiarni - Walbrzych, Palmiarnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8302892" lon="16.3111889">
+      <ele>391</ele>
+      <time>2022-01-17T23:15:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8303671" lon="16.309467">
+      <ele>395</ele>
+      <time>2022-01-17T23:17:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8304722" lon="16.3079917">
+      <ele>394</ele>
+      <time>2022-01-17T23:18:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8304451" lon="16.3065916">
+      <ele>395</ele>
+      <time>2022-01-17T23:20:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8304548" lon="16.3057839">
+      <ele>397</ele>
+      <time>2022-01-17T23:20:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

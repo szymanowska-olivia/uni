@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:13Z</time>
+    <bounds maxlat="50.3544669" maxlon="16.362737" minlat="50.353202" minlon="16.3613459"/>
+  </metadata>
+  <wpt lat="50.354467" lon="16.362737">
+    <ele>1058</ele>
+    <name>Pod Orlica</name>
+    <link href="https://mapa-turystyczna.pl/node/4895">
+      <text>Pod Orlica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.353493" lon="16.361346">
+    <ele>1076</ele>
+    <name>Orlica, wieza widokowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13180">
+      <text>Orlica, wieza widokowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Orlica - Orlica, wieza widokowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3544669,16.362737;50.35342790027265,16.362255200000007;50.3534929,16.3613459">
+    <text>Pod Orlica - Orlica, wieza widokowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3544669" lon="16.362737">
+      <ele>1058</ele>
+      <time>2022-01-18T01:50:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3542528" lon="16.3626334">
+      <ele>1058</ele>
+      <time>2022-01-18T01:50:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3538181" lon="16.3624563">
+      <ele>1060</ele>
+      <time>2022-01-18T01:51:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3535888" lon="16.3623598">
+      <ele>1063</ele>
+      <time>2022-01-18T01:52:37Z</time>
+    </trkpt>
+    <trkpt lat="50.353267" lon="16.3621506">
+      <ele>1070</ele>
+      <time>2022-01-18T01:53:32Z</time>
+    </trkpt>
+    <trkpt lat="50.353202" lon="16.3620808">
+      <ele>1070</ele>
+      <time>2022-01-18T01:53:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3532362" lon="16.361995">
+      <ele>1071</ele>
+      <time>2022-01-18T01:53:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3533903" lon="16.3617053">
+      <ele>1073</ele>
+      <time>2022-01-18T01:54:33Z</time>
+    </trkpt>
+    <trkpt lat="50.3534108" lon="16.3615551">
+      <ele>1074</ele>
+      <time>2022-01-18T01:54:48Z</time>
+    </trkpt>
+    <trkpt lat="50.353445" lon="16.3614585">
+      <ele>1075</ele>
+      <time>2022-01-18T01:54:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3534929" lon="16.3613459">
+      <ele>1076</ele>
+      <time>2022-01-18T01:55:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

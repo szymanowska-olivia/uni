@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:16Z</time>
+    <bounds maxlat="52.2827502" maxlon="16.7263908" minlat="52.2786908" minlon="16.7228276"/>
+  </metadata>
+  <wpt lat="52.278691" lon="16.722828">
+    <ele>85</ele>
+    <name>Steszew, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11648">
+      <text>Steszew, las</text>
+    </link>
+  </wpt>
+  <wpt lat="52.2826" lon="16.726391">
+    <ele>88</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11650">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Steszew, las - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2786908,16.7228276;52.28045600452669,16.724737799999986;52.2826004,16.7263908">
+    <text>Steszew, las - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2786908" lon="16.7228276">
+      <ele>85</ele>
+      <time>2022-01-18T01:07:16Z</time>
+    </trkpt>
+    <trkpt lat="52.2787362" lon="16.7229353">
+      <ele>86</ele>
+      <time>2022-01-18T01:07:24Z</time>
+    </trkpt>
+    <trkpt lat="52.2793171" lon="16.7243247">
+      <ele>92</ele>
+      <time>2022-01-18T01:09:13Z</time>
+    </trkpt>
+    <trkpt lat="52.2798226" lon="16.7252957">
+      <ele>88</ele>
+      <time>2022-01-18T01:10:35Z</time>
+    </trkpt>
+    <trkpt lat="52.2810894" lon="16.7241799">
+      <ele>83</ele>
+      <time>2022-01-18T01:13:07Z</time>
+    </trkpt>
+    <trkpt lat="52.2816309" lon="16.7251133">
+      <ele>91</ele>
+      <time>2022-01-18T01:14:31Z</time>
+    </trkpt>
+    <trkpt lat="52.2823627" lon="16.7253869">
+      <ele>90</ele>
+      <time>2022-01-18T01:15:50Z</time>
+    </trkpt>
+    <trkpt lat="52.2827502" lon="16.7260394">
+      <ele>88</ele>
+      <time>2022-01-18T01:16:48Z</time>
+    </trkpt>
+    <trkpt lat="52.2826004" lon="16.7263908">
+      <ele>88</ele>
+      <time>2022-01-18T01:17:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

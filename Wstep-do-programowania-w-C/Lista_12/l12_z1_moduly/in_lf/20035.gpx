@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:17Z</time>
+    <bounds maxlat="50.1622908" maxlon="19.8219617" minlat="50.1604958" minlon="19.8204382"/>
+  </metadata>
+  <wpt lat="50.162291" lon="19.821909">
+    <ele>332</ele>
+    <name>Poczatek sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/13503">
+      <text>Poczatek sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.160496" lon="19.820781">
+    <ele>368</ele>
+    <name>Rezerwat Dolina Kluczwody</name>
+    <link href="https://mapa-turystyczna.pl/node/13504">
+      <text>Rezerwat Dolina Kluczwody</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poczatek sciezki spacerowej - Rezerwat Dolina Kluczwody</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1622908,19.8219087;50.16130000004935,19.821269650000005;50.1604958,19.8207815">
+    <text>Poczatek sciezki spacerowej - Rezerwat Dolina Kluczwody</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1622908" lon="19.8219087">
+      <ele>332</ele>
+      <time>2022-01-18T01:59:17Z</time>
+    </trkpt>
+    <trkpt lat="50.161843" lon="19.8219617">
+      <ele>343</ele>
+      <time>2022-01-18T02:00:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1617192" lon="19.821908">
+      <ele>347</ele>
+      <time>2022-01-18T02:00:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1615131" lon="19.8217149">
+      <ele>354</ele>
+      <time>2022-01-18T02:01:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1613687" lon="19.821393">
+      <ele>359</ele>
+      <time>2022-01-18T02:01:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1612313" lon="19.8211463">
+      <ele>361</ele>
+      <time>2022-01-18T02:02:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1610938" lon="19.8208244">
+      <ele>364</ele>
+      <time>2022-01-18T02:02:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1607914" lon="19.820524">
+      <ele>366</ele>
+      <time>2022-01-18T02:03:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1606402" lon="19.8204382">
+      <ele>368</ele>
+      <time>2022-01-18T02:03:43Z</time>
+    </trkpt>
+    <trkpt lat="50.160592" lon="19.8205455">
+      <ele>368</ele>
+      <time>2022-01-18T02:03:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1604958" lon="19.8207815">
+      <ele>368</ele>
+      <time>2022-01-18T02:04:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

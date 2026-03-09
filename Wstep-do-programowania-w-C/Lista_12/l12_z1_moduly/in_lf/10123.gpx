@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:41Z</time>
+    <bounds maxlat="50.0175396" maxlon="17.3136377" minlat="50.0169157" minlon="17.3131174"/>
+  </metadata>
+  <wpt lat="50.01754" lon="17.313117">
+    <ele>659</ele>
+    <name>Mala Moravka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7126">
+      <text>Mala Moravka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.016916" lon="17.313638">
+    <ele>656</ele>
+    <name>Mala Moravka</name>
+    <link href="https://mapa-turystyczna.pl/node/7125">
+      <text>Mala Moravka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Moravka, rozc. - Mala Moravka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0175396,17.3131174;50.017227651012696,17.313377549999974;50.0169157,17.3136377">
+    <text>Mala Moravka, rozc. - Mala Moravka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0175396" lon="17.3131174">
+      <ele>659</ele>
+      <time>2022-01-17T23:10:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0169157" lon="17.3136377">
+      <ele>656</ele>
+      <time>2022-01-17T23:11:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

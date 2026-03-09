@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:37Z</time>
+    <bounds maxlat="51.9467803" maxlon="15.5154338" minlat="51.9466419" minlon="15.5144285"/>
+  </metadata>
+  <wpt lat="51.946644" lon="15.515434">
+    <ele>136</ele>
+    <name>Zielona Gora, pl. Kolejarza</name>
+    <link href="https://mapa-turystyczna.pl/node/11175">
+      <text>Zielona Gora, pl. Kolejarza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.94678" lon="15.514428">
+    <ele>132</ele>
+    <name>Zielona Gora, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11154">
+      <text>Zielona Gora, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielona Gora, pl. Kolejarza - Zielona Gora, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.946644,15.5154338;51.94669315001102,15.514997950000033;51.9467803,15.5144285">
+    <text>Zielona Gora, pl. Kolejarza - Zielona Gora, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.946644" lon="15.5154338">
+      <ele>136</ele>
+      <time>2022-01-18T00:55:37Z</time>
+    </trkpt>
+    <trkpt lat="51.9466419" lon="15.515403">
+      <ele>136</ele>
+      <time>2022-01-18T00:55:39Z</time>
+    </trkpt>
+    <trkpt lat="51.9466617" lon="15.5151508">
+      <ele>137</ele>
+      <time>2022-01-18T00:55:54Z</time>
+    </trkpt>
+    <trkpt lat="51.9467246" lon="15.5148451">
+      <ele>135</ele>
+      <time>2022-01-18T00:56:12Z</time>
+    </trkpt>
+    <trkpt lat="51.9467803" lon="15.5144285">
+      <ele>132</ele>
+      <time>2022-01-18T00:56:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

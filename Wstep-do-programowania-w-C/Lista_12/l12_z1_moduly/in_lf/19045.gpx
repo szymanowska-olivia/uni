@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:34Z</time>
+    <bounds maxlat="52.0946331" maxlon="21.2889612" minlat="52.0926912" minlon="21.2835345"/>
+  </metadata>
+  <wpt lat="52.092691" lon="21.288961">
+    <ele>106</ele>
+    <name>Otwock, ul. Sulkowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12898">
+      <text>Otwock, ul. Sulkowskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.094633" lon="21.283534">
+    <ele>103</ele>
+    <name>Otwock, ul. Narutowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/12899">
+      <text>Otwock, ul. Narutowicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Sulkowskiego - Otwock, ul. Narutowicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0926912,21.2889612;52.09384115702912,21.285550600000025;52.0946331,21.2835345">
+    <text>Otwock, ul. Sulkowskiego - Otwock, ul. Narutowicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0926912" lon="21.2889612">
+      <ele>106</ele>
+      <time>2022-01-18T01:41:34Z</time>
+    </trkpt>
+    <trkpt lat="52.0930492" lon="21.2875667">
+      <ele>104</ele>
+      <time>2022-01-18T01:42:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0946331" lon="21.2835345">
+      <ele>103</ele>
+      <time>2022-01-18T01:46:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

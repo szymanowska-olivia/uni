@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:24Z</time>
+    <bounds maxlat="50.8652408" maxlon="15.6811083" minlat="50.8646212" minlon="15.6809152"/>
+  </metadata>
+  <wpt lat="50.864621" lon="15.680915">
+    <ele>351</ele>
+    <name>Cieplice, Park Zdrojowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11051">
+      <text>Cieplice, Park Zdrojowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.865241" lon="15.681108">
+    <ele>346</ele>
+    <name>Cieplice, pl. Piastowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11052">
+      <text>Cieplice, pl. Piastowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieplice, Park Zdrojowy - Cieplice, pl. Piastowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8646212,15.6809152;50.86505545036846,15.681065349999983;50.8652408,15.6811083">
+    <text>Cieplice, Park Zdrojowy - Cieplice, pl. Piastowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8646212" lon="15.6809152">
+      <ele>351</ele>
+      <time>2022-01-18T00:52:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8648472" lon="15.6809581">
+      <ele>350</ele>
+      <time>2022-01-18T00:52:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8648701" lon="15.6810224">
+      <ele>350</ele>
+      <time>2022-01-18T00:52:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8652408" lon="15.6811083">
+      <ele>346</ele>
+      <time>2022-01-18T00:53:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

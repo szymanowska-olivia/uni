@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:39:35Z</time>
+    <bounds maxlat="50.5585525" maxlon="16.2143209" minlat="50.557249" minlon="16.2136692"/>
+  </metadata>
+  <wpt lat="50.558552" lon="16.213669">
+    <ele>589</ele>
+    <name>Ostas osada</name>
+    <link href="https://mapa-turystyczna.pl/node/5903">
+      <text>Ostas osada</text>
+    </link>
+  </wpt>
+  <wpt lat="50.557249" lon="16.214321">
+    <ele>567</ele>
+    <name>Ostas</name>
+    <link href="https://mapa-turystyczna.pl/node/5905">
+      <text>Ostas</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostas osada - Ostas</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5585525,16.2136692;50.55782110008902,16.21410339999999;50.557249,16.2143209">
+    <text>Ostas osada - Ostas</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5585525" lon="16.2136692">
+      <ele>589</ele>
+      <time>2022-01-17T22:39:35Z</time>
+    </trkpt>
+    <trkpt lat="50.5581027" lon="16.213924">
+      <ele>580</ele>
+      <time>2022-01-17T22:40:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5579127" lon="16.2140615">
+      <ele>577</ele>
+      <time>2022-01-17T22:40:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5577295" lon="16.2141453">
+      <ele>574</ele>
+      <time>2022-01-17T22:40:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5574918" lon="16.2141728">
+      <ele>570</ele>
+      <time>2022-01-17T22:41:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5573591" lon="16.2141843">
+      <ele>568</ele>
+      <time>2022-01-17T22:41:23Z</time>
+    </trkpt>
+    <trkpt lat="50.557249" lon="16.2143209">
+      <ele>567</ele>
+      <time>2022-01-17T22:41:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:54:03Z</time>
+    <bounds maxlat="49.600131" maxlon="20.093703" minlat="49.599545" minlon="20.091974"/>
+  </metadata>
+  <wpt lat="49.599545" lon="20.093703">
+    <ele>690</ele>
+    <name>Orkanowka</name>
+    <link href="https://mapa-turystyczna.pl/node/3950">
+      <text>Orkanowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.600131" lon="20.091974">
+    <ele>684</ele>
+    <name>Orkanowka, kapliczka</name>
+    <link href="https://mapa-turystyczna.pl/node/6455">
+      <text>Orkanowka, kapliczka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orkanowka - Orkanowka, kapliczka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.599545,20.093703;49.5997710000357,20.09291599999998;49.600131,20.091974">
+    <text>Orkanowka - Orkanowka, kapliczka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.599545" lon="20.093703">
+      <ele>690</ele>
+      <time>2022-01-17T22:54:03Z</time>
+    </trkpt>
+    <trkpt lat="49.599712" lon="20.093066">
+      <ele>688</ele>
+      <time>2022-01-17T22:54:45Z</time>
+    </trkpt>
+    <trkpt lat="49.59983" lon="20.092766">
+      <ele>687</ele>
+      <time>2022-01-17T22:55:07Z</time>
+    </trkpt>
+    <trkpt lat="49.599985" lon="20.09239">
+      <ele>686</ele>
+      <time>2022-01-17T22:55:34Z</time>
+    </trkpt>
+    <trkpt lat="49.600089" lon="20.092127">
+      <ele>684</ele>
+      <time>2022-01-17T22:55:53Z</time>
+    </trkpt>
+    <trkpt lat="49.600131" lon="20.091974">
+      <ele>684</ele>
+      <time>2022-01-17T22:56:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

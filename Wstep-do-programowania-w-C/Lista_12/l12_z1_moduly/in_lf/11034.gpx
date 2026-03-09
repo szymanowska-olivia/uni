@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:14Z</time>
+    <bounds maxlat="50.0583791" maxlon="16.8396496" minlat="50.0572938" minlon="16.836513"/>
+  </metadata>
+  <wpt lat="50.058379" lon="16.836513">
+    <ele>869</ele>
+    <name>Svata Trojice</name>
+    <link href="https://mapa-turystyczna.pl/node/7766">
+      <text>Svata Trojice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.057294" lon="16.83965">
+    <ele>863</ele>
+    <name>Pramen Rudolf</name>
+    <link href="https://mapa-turystyczna.pl/node/7769">
+      <text>Pramen Rudolf</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svata Trojice - Pramen Rudolf</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0583791,16.836513;50.05774695044504,16.83786115000002;50.0572938,16.8396496">
+    <text>Svata Trojice - Pramen Rudolf</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0583791" lon="16.836513">
+      <ele>869</ele>
+      <time>2022-01-17T23:27:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0579536" lon="16.837314">
+      <ele>869</ele>
+      <time>2022-01-17T23:28:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0575403" lon="16.8384083">
+      <ele>866</ele>
+      <time>2022-01-17T23:30:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0574095" lon="16.8392559">
+      <ele>864</ele>
+      <time>2022-01-17T23:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0572938" lon="16.8396496">
+      <ele>863</ele>
+      <time>2022-01-17T23:32:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

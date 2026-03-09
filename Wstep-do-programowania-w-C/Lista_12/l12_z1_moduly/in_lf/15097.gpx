@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:10Z</time>
+    <bounds maxlat="49.4375857" maxlon="21.7126269" minlat="49.4363729" minlon="21.7117005"/>
+  </metadata>
+  <wpt lat="49.436373" lon="21.712627">
+    <ele>422</ele>
+    <name>Zyndranowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10287">
+      <text>Zyndranowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.437586" lon="21.7117">
+    <ele>417</ele>
+    <name>Zyndranowa, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/10288">
+      <text>Zyndranowa, muzeum</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zyndranowa - Zyndranowa, muzeum</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4363729,21.7126269;49.43697930374887,21.712163699999987;49.4375857,21.7117005">
+    <text>Zyndranowa - Zyndranowa, muzeum</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4363729" lon="21.7126269">
+      <ele>422</ele>
+      <time>2022-01-18T00:33:10Z</time>
+    </trkpt>
+    <trkpt lat="49.4375857" lon="21.7117005">
+      <ele>417</ele>
+      <time>2022-01-18T00:35:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

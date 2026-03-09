@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:36Z</time>
+    <bounds maxlat="50.2040959" maxlon="17.3264587" minlat="50.2036187" minlon="17.3260161"/>
+  </metadata>
+  <wpt lat="50.204096" lon="17.326067">
+    <ele>909</ele>
+    <name>Kobrstejn, zricenina</name>
+    <link href="https://mapa-turystyczna.pl/node/6771">
+      <text>Kobrstejn, zricenina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.203619" lon="17.326459">
+    <ele>917</ele>
+    <name>Kobrstejn, zricenina rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6770">
+      <text>Kobrstejn, zricenina rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kobrstejn, zricenina - Kobrstejn, zricenina rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2040959,17.3260671;50.203854700116835,17.326138149999995;50.2036187,17.3264587">
+    <text>Kobrstejn, zricenina - Kobrstejn, zricenina rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2040959" lon="17.3260671">
+      <ele>909</ele>
+      <time>2022-01-17T23:01:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2039603" lon="17.3260161">
+      <ele>912</ele>
+      <time>2022-01-17T23:02:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2037491" lon="17.3262602">
+      <ele>915</ele>
+      <time>2022-01-17T23:02:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2036187" lon="17.3264587">
+      <ele>917</ele>
+      <time>2022-01-17T23:03:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:47Z</time>
+    <bounds maxlat="49.390387" maxlon="20.07818" minlat="49.389566" minlon="20.07745"/>
+  </metadata>
+  <wpt lat="49.390387" lon="20.07745">
+    <ele>874</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12783">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.389566" lon="20.07818">
+    <ele>886</ele>
+    <name>Pod Kotelnica</name>
+    <link href="https://mapa-turystyczna.pl/node/2961">
+      <text>Pod Kotelnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Kotelnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.390387,20.07745;49.39001900006845,20.077970499999996;49.389566,20.07818">
+    <text>Rozejscie szlakow - Pod Kotelnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.390387" lon="20.07745">
+      <ele>874</ele>
+      <time>2022-01-18T01:38:47Z</time>
+    </trkpt>
+    <trkpt lat="49.390258" lon="20.077702">
+      <ele>879</ele>
+      <time>2022-01-18T01:39:26Z</time>
+    </trkpt>
+    <trkpt lat="49.390101" lon="20.077901">
+      <ele>882</ele>
+      <time>2022-01-18T01:40:03Z</time>
+    </trkpt>
+    <trkpt lat="49.389937" lon="20.07804">
+      <ele>885</ele>
+      <time>2022-01-18T01:40:37Z</time>
+    </trkpt>
+    <trkpt lat="49.389755" lon="20.078126">
+      <ele>887</ele>
+      <time>2022-01-18T01:41:12Z</time>
+    </trkpt>
+    <trkpt lat="49.389566" lon="20.07818">
+      <ele>886</ele>
+      <time>2022-01-18T01:41:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:23:59Z</time>
+    <bounds maxlat="49.502635" maxlon="18.0125557" minlat="49.5023914" minlon="18.012498"/>
+  </metadata>
+  <wpt lat="49.502635" lon="18.012498">
+    <ele>460</ele>
+    <name>Jehlicna</name>
+    <link href="https://mapa-turystyczna.pl/node/7563">
+      <text>Jehlicna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.502391" lon="18.012556">
+    <ele>458</ele>
+    <name>Jehlicna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7647">
+      <text>Jehlicna, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jehlicna - Jehlicna, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.502635,18.012498;49.502513200151604,18.01252685;49.5023914,18.0125557">
+    <text>Jehlicna - Jehlicna, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.502635" lon="18.012498">
+      <ele>460</ele>
+      <time>2022-01-17T23:23:59Z</time>
+    </trkpt>
+    <trkpt lat="49.5023914" lon="18.0125557">
+      <ele>458</ele>
+      <time>2022-01-17T23:24:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

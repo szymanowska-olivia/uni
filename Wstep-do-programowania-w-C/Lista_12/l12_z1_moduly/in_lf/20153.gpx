@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:28Z</time>
+    <bounds maxlat="50.6633032" maxlon="16.6410166" minlat="50.6618752" minlon="16.6402677"/>
+  </metadata>
+  <wpt lat="50.661875" lon="16.640268">
+    <ele>429</ele>
+    <name>Platforma widokowa pod Wrona</name>
+    <link href="https://mapa-turystyczna.pl/node/9377">
+      <text>Platforma widokowa pod Wrona</text>
+    </link>
+  </wpt>
+  <wpt lat="50.663303" lon="16.641017">
+    <ele>446</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13565">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Platforma widokowa pod Wrona - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6618752,16.6402677;50.662598600146524,16.64051844999999;50.6633032,16.6410166">
+    <text>Platforma widokowa pod Wrona - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6618752" lon="16.6402677">
+      <ele>429</ele>
+      <time>2022-01-18T02:01:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6619372" lon="16.6404607">
+      <ele>433</ele>
+      <time>2022-01-18T02:01:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6620324" lon="16.6404326">
+      <ele>434</ele>
+      <time>2022-01-18T02:02:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6624813" lon="16.6404541">
+      <ele>436</ele>
+      <time>2022-01-18T02:03:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6627159" lon="16.6405828">
+      <ele>439</ele>
+      <time>2022-01-18T02:04:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6633032" lon="16.6410166">
+      <ele>446</ele>
+      <time>2022-01-18T02:06:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

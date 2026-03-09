@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:54Z</time>
+    <bounds maxlat="52.0108856" maxlon="20.9047901" minlat="52.0077949" minlon="20.8964431"/>
+  </metadata>
+  <wpt lat="52.010886" lon="20.90479">
+    <ele>121</ele>
+    <name>Zlotoklos, boisko</name>
+    <link href="https://mapa-turystyczna.pl/node/11476">
+      <text>Zlotoklos, boisko</text>
+    </link>
+  </wpt>
+  <wpt lat="52.007795" lon="20.896443">
+    <ele>124</ele>
+    <name>Zlotoklos, petla autobusowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11477">
+      <text>Zlotoklos, petla autobusowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlotoklos, boisko - Zlotoklos, petla autobusowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0108856,20.9047901;52.01036150306922,20.901755150000007;52.0077949,20.8964431">
+    <text>Zlotoklos, boisko - Zlotoklos, petla autobusowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0108856" lon="20.9047901">
+      <ele>121</ele>
+      <time>2022-01-18T01:02:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0098374" lon="20.8987202">
+      <ele>121</ele>
+      <time>2022-01-18T01:09:00Z</time>
+    </trkpt>
+    <trkpt lat="52.0087435" lon="20.897528">
+      <ele>122</ele>
+      <time>2022-01-18T01:11:04Z</time>
+    </trkpt>
+    <trkpt lat="52.0080576" lon="20.8967729">
+      <ele>125</ele>
+      <time>2022-01-18T01:12:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0077949" lon="20.8964431">
+      <ele>124</ele>
+      <time>2022-01-18T01:12:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

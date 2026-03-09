@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:06Z</time>
+    <bounds maxlat="50.5680017" maxlon="16.498159" minlat="50.5676936" minlon="16.4978083"/>
+  </metadata>
+  <wpt lat="50.568002" lon="16.498159">
+    <ele>612</ele>
+    <name>Przelecz pod Krepcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2066">
+      <text>Przelecz pod Krepcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.567694" lon="16.49784">
+    <ele>612</ele>
+    <name>Przelecz pod Krepcem</name>
+    <link href="https://mapa-turystyczna.pl/node/13214">
+      <text>Przelecz pod Krepcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Krepcem - Przelecz pod Krepcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5680017,16.498159;50.567928450007884,16.497907449999985;50.5676936,16.4978405">
+    <text>Przelecz pod Krepcem - Przelecz pod Krepcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5680017" lon="16.498159">
+      <ele>612</ele>
+      <time>2022-01-18T01:51:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5679557" lon="16.4979611">
+      <ele>613</ele>
+      <time>2022-01-18T01:51:24Z</time>
+    </trkpt>
+    <trkpt lat="50.5679012" lon="16.4978538">
+      <ele>613</ele>
+      <time>2022-01-18T01:51:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5678369" lon="16.4978083">
+      <ele>613</ele>
+      <time>2022-01-18T01:51:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5676936" lon="16.4978405">
+      <ele>612</ele>
+      <time>2022-01-18T01:52:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

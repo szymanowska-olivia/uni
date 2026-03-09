@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:59Z</time>
+    <bounds maxlat="52.3173367" maxlon="16.801473" minlat="52.315475" minlon="16.7975134"/>
+  </metadata>
+  <wpt lat="52.315475" lon="16.801473">
+    <ele>98</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11764">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.317337" lon="16.799664">
+    <ele>87</ele>
+    <name>Szreniawa, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10238">
+      <text>Szreniawa, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki spacerowej - Szreniawa, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.315475,16.801473;52.316134504913755,16.799493200000022;52.3173367,16.7996644">
+    <text>Odejscie sciezki spacerowej - Szreniawa, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.315475" lon="16.801473">
+      <ele>98</ele>
+      <time>2022-01-18T01:10:59Z</time>
+    </trkpt>
+    <trkpt lat="52.316794" lon="16.7975134">
+      <ele>89</ele>
+      <time>2022-01-18T01:14:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3168399" lon="16.7975456">
+      <ele>89</ele>
+      <time>2022-01-18T01:14:17Z</time>
+    </trkpt>
+    <trkpt lat="52.3168891" lon="16.7976583">
+      <ele>88</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="52.3171285" lon="16.7985112">
+      <ele>86</ele>
+      <time>2022-01-18T01:15:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3171416" lon="16.7986775">
+      <ele>86</ele>
+      <time>2022-01-18T01:15:11Z</time>
+    </trkpt>
+    <trkpt lat="52.3171285" lon="16.799112">
+      <ele>87</ele>
+      <time>2022-01-18T01:15:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3171908" lon="16.7993642">
+      <ele>88</ele>
+      <time>2022-01-18T01:15:42Z</time>
+    </trkpt>
+    <trkpt lat="52.317244" lon="16.7995545">
+      <ele>88</ele>
+      <time>2022-01-18T01:15:51Z</time>
+    </trkpt>
+    <trkpt lat="52.3173367" lon="16.7996644">
+      <ele>87</ele>
+      <time>2022-01-18T01:15:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

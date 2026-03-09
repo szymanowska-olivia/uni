@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:13Z</time>
+    <bounds maxlat="51.1289127" maxlon="15.7396619" minlat="51.1255265" minlon="15.7377112"/>
+  </metadata>
+  <wpt lat="51.128913" lon="15.737711">
+    <ele>280</ele>
+    <name>Czaple, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/11771">
+      <text>Czaple, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.125526" lon="15.739662">
+    <ele>283</ele>
+    <name>Cyganskie Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/11772">
+      <text>Cyganskie Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czaple, skrzyzowanie - Cyganskie Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1289127,15.7377112;51.127021950344734,15.738684750000006;51.1255265,15.7396619">
+    <text>Czaple, skrzyzowanie - Cyganskie Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1289127" lon="15.7377112">
+      <ele>280</ele>
+      <time>2022-01-18T01:11:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1284057" lon="15.7378694">
+      <ele>278</ele>
+      <time>2022-01-18T01:11:55Z</time>
+    </trkpt>
+    <trkpt lat="51.1278805" lon="15.7381376">
+      <ele>274</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="51.1272004" lon="15.7385131">
+      <ele>271</ele>
+      <time>2022-01-18T01:13:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1268435" lon="15.7388564">
+      <ele>271</ele>
+      <time>2022-01-18T01:14:14Z</time>
+    </trkpt>
+    <trkpt lat="51.1265877" lon="15.7391569">
+      <ele>272</ele>
+      <time>2022-01-18T01:14:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1264261" lon="15.7393392">
+      <ele>275</ele>
+      <time>2022-01-18T01:14:56Z</time>
+    </trkpt>
+    <trkpt lat="51.126251" lon="15.7393929">
+      <ele>279</ele>
+      <time>2022-01-18T01:15:11Z</time>
+    </trkpt>
+    <trkpt lat="51.1260086" lon="15.7393929">
+      <ele>282</ele>
+      <time>2022-01-18T01:15:31Z</time>
+    </trkpt>
+    <trkpt lat="51.125847" lon="15.739468">
+      <ele>283</ele>
+      <time>2022-01-18T01:15:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1256248" lon="15.7396182">
+      <ele>283</ele>
+      <time>2022-01-18T01:16:05Z</time>
+    </trkpt>
+    <trkpt lat="51.1255265" lon="15.7396619">
+      <ele>283</ele>
+      <time>2022-01-18T01:16:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

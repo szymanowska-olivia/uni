@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:51Z</time>
+    <bounds maxlat="50.6760449" maxlon="19.4027834" minlat="50.6749707" minlon="19.4010143"/>
+  </metadata>
+  <wpt lat="50.676045" lon="19.402783">
+    <ele>329</ele>
+    <name>Ostreznik</name>
+    <link href="https://mapa-turystyczna.pl/node/4515">
+      <text>Ostreznik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.674971" lon="19.401014">
+    <ele>357</ele>
+    <name>Jaskinia Ostreznicka</name>
+    <link href="https://mapa-turystyczna.pl/node/8043">
+      <text>Jaskinia Ostreznicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostreznik - Jaskinia Ostreznicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6760449,19.4027834;50.67532280012612,19.402176300000008;50.6749707,19.4010143">
+    <text>Ostreznik - Jaskinia Ostreznicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6760449" lon="19.4027834">
+      <ele>329</ele>
+      <time>2022-01-17T23:34:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6755675" lon="19.4023962">
+      <ele>335</ele>
+      <time>2022-01-17T23:36:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6754316" lon="19.402246">
+      <ele>338</ele>
+      <time>2022-01-17T23:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.675214" lon="19.4021066">
+      <ele>341</ele>
+      <time>2022-01-17T23:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6751324" lon="19.4019027">
+      <ele>344</ele>
+      <time>2022-01-17T23:38:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6750644" lon="19.4016667">
+      <ele>347</ele>
+      <time>2022-01-17T23:38:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6749964" lon="19.4013448">
+      <ele>352</ele>
+      <time>2022-01-17T23:39:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6749707" lon="19.4010143">
+      <ele>357</ele>
+      <time>2022-01-17T23:39:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

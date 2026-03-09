@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:25Z</time>
+    <bounds maxlat="50.2084899" maxlon="18.9226867" minlat="50.2080615" minlon="18.9172339"/>
+  </metadata>
+  <wpt lat="50.208061" lon="18.917234">
+    <ele>270</ele>
+    <name>Starganiec</name>
+    <link href="https://mapa-turystyczna.pl/node/9465">
+      <text>Starganiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.20849" lon="18.922687">
+    <ele>269</ele>
+    <name>Starganiec, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9138">
+      <text>Starganiec, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starganiec - Starganiec, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2080615,18.9172339;50.208302700004445,18.920111100000007;50.2084899,18.9226867">
+    <text>Starganiec - Starganiec, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2080615" lon="18.9172339">
+      <ele>270</ele>
+      <time>2022-01-18T00:12:25Z</time>
+    </trkpt>
+    <trkpt lat="50.208083" lon="18.9178849">
+      <ele>269</ele>
+      <time>2022-01-18T00:13:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2081242" lon="18.9182282">
+      <ele>268</ele>
+      <time>2022-01-18T00:13:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2083233" lon="18.9194888">
+      <ele>272</ele>
+      <time>2022-01-18T00:14:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2082821" lon="18.9207334">
+      <ele>269</ele>
+      <time>2022-01-18T00:15:37Z</time>
+    </trkpt>
+    <trkpt lat="50.208313" lon="18.9219565">
+      <ele>268</ele>
+      <time>2022-01-18T00:16:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2083886" lon="18.9222193">
+      <ele>268</ele>
+      <time>2022-01-18T00:16:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2084899" lon="18.9226867">
+      <ele>269</ele>
+      <time>2022-01-18T00:17:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

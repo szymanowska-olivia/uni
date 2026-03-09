@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:03Z</time>
+    <bounds maxlat="50.1620941" maxlon="19.245256" minlat="50.161596" minlon="19.2439751"/>
+  </metadata>
+  <wpt lat="50.162094" lon="19.243975">
+    <ele>241</ele>
+    <name>Jaworzno, Jelen</name>
+    <link href="https://mapa-turystyczna.pl/node/9093">
+      <text>Jaworzno, Jelen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.161596" lon="19.245256">
+    <ele>241</ele>
+    <name>Jelen, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12273">
+      <text>Jelen, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzno, Jelen - Jelen, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1620941,19.2439751;50.161774500137135,19.24481850000003;50.161596,19.245256">
+    <text>Jaworzno, Jelen - Jelen, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1620941" lon="19.2439751">
+      <ele>241</ele>
+      <time>2022-01-18T01:24:03Z</time>
+    </trkpt>
+    <trkpt lat="50.161889" lon="19.244544">
+      <ele>242</ele>
+      <time>2022-01-18T01:24:55Z</time>
+    </trkpt>
+    <trkpt lat="50.16166" lon="19.245093">
+      <ele>242</ele>
+      <time>2022-01-18T01:25:48Z</time>
+    </trkpt>
+    <trkpt lat="50.161596" lon="19.245256">
+      <ele>241</ele>
+      <time>2022-01-18T01:26:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

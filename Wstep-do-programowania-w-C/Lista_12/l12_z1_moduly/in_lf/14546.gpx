@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:24:13Z</time>
+    <bounds maxlat="50.304434" maxlon="18.7126617" minlat="50.3010985" minlon="18.7108847"/>
+  </metadata>
+  <wpt lat="50.304434" lon="18.711437">
+    <ele>239</ele>
+    <name>Gliwice, Zameczek Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/9900">
+      <text>Gliwice, Zameczek Lesny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.301265" lon="18.712662">
+    <ele>235</ele>
+    <name>Gliwice, park</name>
+    <link href="https://mapa-turystyczna.pl/node/9913">
+      <text>Gliwice, park</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, Zameczek Lesny - Gliwice, park</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.304434,18.7114373;50.30189345664303,18.711431849999997;50.3012647,18.7126617">
+    <text>Gliwice, Zameczek Lesny - Gliwice, park</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.304434" lon="18.7114373">
+      <ele>239</ele>
+      <time>2022-01-18T00:24:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3042063" lon="18.7112495">
+      <ele>241</ele>
+      <time>2022-01-18T00:24:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3038877" lon="18.711059">
+      <ele>242</ele>
+      <time>2022-01-18T00:24:58Z</time>
+    </trkpt>
+    <trkpt lat="50.303569" lon="18.710933">
+      <ele>241</ele>
+      <time>2022-01-18T00:25:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3032675" lon="18.7109035">
+      <ele>242</ele>
+      <time>2022-01-18T00:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3029728" lon="18.7108847">
+      <ele>242</ele>
+      <time>2022-01-18T00:26:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3026884" lon="18.710992">
+      <ele>242</ele>
+      <time>2022-01-18T00:26:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3010985" lon="18.7118717">
+      <ele>237</ele>
+      <time>2022-01-18T00:28:33Z</time>
+    </trkpt>
+    <trkpt lat="50.3012647" lon="18.7126617">
+      <ele>235</ele>
+      <time>2022-01-18T00:29:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

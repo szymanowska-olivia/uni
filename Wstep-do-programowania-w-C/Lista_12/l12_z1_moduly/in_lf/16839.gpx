@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:51Z</time>
+    <bounds maxlat="52.2380853" maxlon="21.1705013" minlat="52.2365282" minlon="21.1574121"/>
+  </metadata>
+  <wpt lat="52.236528" lon="21.157412">
+    <ele>95</ele>
+    <name>Rezerwat im. Krola Jana Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11525">
+      <text>Rezerwat im. Krola Jana Sobieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.238085" lon="21.170501">
+    <ele>100</ele>
+    <name>Rozejscie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11526">
+      <text>Rozejscie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat im. Krola Jana Sobieskiego - Rozejscie szlakow zielony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2365282,21.1574121;52.23730675682848,21.163956699999975;52.2380853,21.1705013">
+    <text>Rezerwat im. Krola Jana Sobieskiego - Rozejscie szlakow zielony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2365282" lon="21.1574121">
+      <ele>95</ele>
+      <time>2022-01-18T01:03:51Z</time>
+    </trkpt>
+    <trkpt lat="52.2380853" lon="21.1705013">
+      <ele>100</ele>
+      <time>2022-01-18T01:18:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

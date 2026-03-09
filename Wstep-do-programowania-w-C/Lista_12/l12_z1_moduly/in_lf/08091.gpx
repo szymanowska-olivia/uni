@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:47Z</time>
+    <bounds maxlat="50.711259" maxlon="15.8521686" minlat="50.7089993" minlon="15.8492696"/>
+  </metadata>
+  <wpt lat="50.708999" lon="15.84927">
+    <ele>899</ele>
+    <name>Pod Alberickym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/1261">
+      <text>Pod Alberickym vrchem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.711259" lon="15.852169">
+    <ele>883</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/5645">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Alberickym vrchem - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7089993,15.8492696;50.71044895202429,15.850007300000003;50.711259,15.8521686">
+    <text>Pod Alberickym vrchem - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7089993" lon="15.8492696">
+      <ele>899</ele>
+      <time>2022-01-17T22:32:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7100133" lon="15.8498973">
+      <ele>905</ele>
+      <time>2022-01-17T22:34:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7108846" lon="15.8501173">
+      <ele>902</ele>
+      <time>2022-01-17T22:35:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7109963" lon="15.8505463">
+      <ele>898</ele>
+      <time>2022-01-17T22:36:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7110698" lon="15.8512438">
+      <ele>893</ele>
+      <time>2022-01-17T22:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.711259" lon="15.8521686">
+      <ele>883</ele>
+      <time>2022-01-17T22:37:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

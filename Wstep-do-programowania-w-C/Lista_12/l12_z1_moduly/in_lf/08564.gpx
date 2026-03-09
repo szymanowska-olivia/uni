@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:00Z</time>
+    <bounds maxlat="50.3434749" maxlon="16.199314" minlat="50.3432182" minlon="16.1987025"/>
+  </metadata>
+  <wpt lat="50.343218" lon="16.198702">
+    <ele>412</ele>
+    <name>Slavonov, dreveny koste</name>
+    <link href="https://mapa-turystyczna.pl/node/5961">
+      <text>Slavonov, dreveny koste</text>
+    </link>
+  </wpt>
+  <wpt lat="50.343475" lon="16.199314">
+    <ele>410</ele>
+    <name>Slavonov</name>
+    <link href="https://mapa-turystyczna.pl/node/5960">
+      <text>Slavonov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slavonov, dreveny koste - Slavonov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3432182,16.1987025;50.34337395000889,16.199136950000028;50.3434749,16.199314">
+    <text>Slavonov, dreveny koste - Slavonov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3432182" lon="16.1987025">
+      <ele>412</ele>
+      <time>2022-01-17T22:41:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3433449" lon="16.1989921">
+      <ele>409</ele>
+      <time>2022-01-17T22:41:27Z</time>
+    </trkpt>
+    <trkpt lat="50.343403" lon="16.1992818">
+      <ele>410</ele>
+      <time>2022-01-17T22:41:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3434749" lon="16.199314">
+      <ele>410</ele>
+      <time>2022-01-17T22:42:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

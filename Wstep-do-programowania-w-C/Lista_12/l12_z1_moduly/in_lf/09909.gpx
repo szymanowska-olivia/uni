@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:31Z</time>
+    <bounds maxlat="48.9643058" maxlon="20.386076" minlat="48.9640611" minlon="20.3850836"/>
+  </metadata>
+  <wpt lat="48.964306" lon="20.385084">
+    <ele>545</ele>
+    <name>Autocamping Podlesok</name>
+    <link href="https://mapa-turystyczna.pl/node/6995">
+      <text>Autocamping Podlesok</text>
+    </link>
+  </wpt>
+  <wpt lat="48.964061" lon="20.386076">
+    <ele>545</ele>
+    <name>Podlesok, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6996">
+      <text>Podlesok, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Autocamping Podlesok - Podlesok, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9643058,20.3850836;48.964179050001974,20.38551540000001;48.9640611,20.386076">
+    <text>Autocamping Podlesok - Podlesok, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9643058" lon="20.3850836">
+      <ele>545</ele>
+      <time>2022-01-17T23:06:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9641931" lon="20.385451">
+      <ele>546</ele>
+      <time>2022-01-17T23:06:54Z</time>
+    </trkpt>
+    <trkpt lat="48.964165" lon="20.3855798">
+      <ele>546</ele>
+      <time>2022-01-17T23:07:01Z</time>
+    </trkpt>
+    <trkpt lat="48.9641509" lon="20.3857836">
+      <ele>545</ele>
+      <time>2022-01-17T23:07:13Z</time>
+    </trkpt>
+    <trkpt lat="48.9641297" lon="20.3858721">
+      <ele>545</ele>
+      <time>2022-01-17T23:07:18Z</time>
+    </trkpt>
+    <trkpt lat="48.9640611" lon="20.386076">
+      <ele>545</ele>
+      <time>2022-01-17T23:07:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

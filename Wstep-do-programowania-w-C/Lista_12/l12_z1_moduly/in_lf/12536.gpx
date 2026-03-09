@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:38Z</time>
+    <bounds maxlat="53.8701983" maxlon="14.4976136" minlat="53.8664297" minlon="14.4749286"/>
+  </metadata>
+  <wpt lat="53.86643" lon="14.497614">
+    <ele>54</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8618">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.869694" lon="14.474929">
+    <ele>60</ele>
+    <name>Odejscie do Debu Wolinian</name>
+    <link href="https://mapa-turystyczna.pl/node/8574">
+      <text>Odejscie do Debu Wolinian</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Odejscie do Debu Wolinian</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8664297,14.4976136;53.8692620522118,14.487713399999977;53.8696937,14.4749286">
+    <text>Skrzyzowanie szlakow - Odejscie do Debu Wolinian</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8664297" lon="14.4976136">
+      <ele>54</ele>
+      <time>2022-01-17T23:51:38Z</time>
+    </trkpt>
+    <trkpt lat="53.867554" lon="14.4938396">
+      <ele>57</ele>
+      <time>2022-01-17T23:56:01Z</time>
+    </trkpt>
+    <trkpt lat="53.8688319" lon="14.4895909">
+      <ele>56</ele>
+      <time>2022-01-18T00:00:58Z</time>
+    </trkpt>
+    <trkpt lat="53.8696922" lon="14.4858359">
+      <ele>54</ele>
+      <time>2022-01-18T00:05:09Z</time>
+    </trkpt>
+    <trkpt lat="53.8699832" lon="14.483218">
+      <ele>52</ele>
+      <time>2022-01-18T00:07:54Z</time>
+    </trkpt>
+    <trkpt lat="53.8701603" lon="14.4824026">
+      <ele>49</ele>
+      <time>2022-01-18T00:08:49Z</time>
+    </trkpt>
+    <trkpt lat="53.8701603" lon="14.4819091">
+      <ele>48</ele>
+      <time>2022-01-18T00:09:19Z</time>
+    </trkpt>
+    <trkpt lat="53.8701983" lon="14.4810079">
+      <ele>49</ele>
+      <time>2022-01-18T00:10:16Z</time>
+    </trkpt>
+    <trkpt lat="53.8701603" lon="14.4801281">
+      <ele>54</ele>
+      <time>2022-01-18T00:11:11Z</time>
+    </trkpt>
+    <trkpt lat="53.8696937" lon="14.4749286">
+      <ele>60</ele>
+      <time>2022-01-18T00:16:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

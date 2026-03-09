@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:40Z</time>
+    <bounds maxlat="50.7029611" maxlon="15.4295951" minlat="50.7015271" minlon="15.4263496"/>
+  </metadata>
+  <wpt lat="50.701527" lon="15.42635">
+    <ele>455</ele>
+    <name>Penzion U Lyzarskeho vleku</name>
+    <link href="https://mapa-turystyczna.pl/node/3082">
+      <text>Penzion U Lyzarskeho vleku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.702961" lon="15.429595">
+    <ele>447</ele>
+    <name>Jablonec Nad Jizerou</name>
+    <link href="https://mapa-turystyczna.pl/node/1142">
+      <text>Jablonec Nad Jizerou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Penzion U Lyzarskeho vleku - Jablonec Nad Jizerou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7015271,15.4263496;50.70231210027193,15.4284015;50.7029611,15.4295951">
+    <text>Penzion U Lyzarskeho vleku - Jablonec Nad Jizerou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7015271" lon="15.4263496">
+      <ele>455</ele>
+      <time>2022-01-17T21:42:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7016224" lon="15.4268861">
+      <ele>450</ele>
+      <time>2022-01-17T21:43:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7021524" lon="15.4279697">
+      <ele>445</ele>
+      <time>2022-01-17T21:45:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7024718" lon="15.4288333">
+      <ele>444</ele>
+      <time>2022-01-17T21:46:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7026791" lon="15.429233">
+      <ele>445</ele>
+      <time>2022-01-17T21:46:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7029611" lon="15.4295951">
+      <ele>447</ele>
+      <time>2022-01-17T21:47:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

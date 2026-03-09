@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:36Z</time>
+    <bounds maxlat="52.3123061" maxlon="20.7153578" minlat="52.3050904" minlon="20.711444"/>
+  </metadata>
+  <wpt lat="52.312306" lon="20.711444">
+    <ele>92</ele>
+    <name>Mogila Powstancow 1869 r.</name>
+    <link href="https://mapa-turystyczna.pl/node/4993">
+      <text>Mogila Powstancow 1869 r.</text>
+    </link>
+  </wpt>
+  <wpt lat="52.30509" lon="20.715097">
+    <ele>84</ele>
+    <name>Zaborow Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/4971">
+      <text>Zaborow Lesny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mogila Powstancow 1869 r. - Zaborow Lesny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3123061,20.711444;52.310628531788815,20.71330815;52.3050904,20.7150972">
+    <text>Mogila Powstancow 1869 r. - Zaborow Lesny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3123061" lon="20.711444">
+      <ele>92</ele>
+      <time>2022-01-17T22:21:36Z</time>
+    </trkpt>
+    <trkpt lat="52.3089509" lon="20.7151723">
+      <ele>91</ele>
+      <time>2022-01-17T22:29:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3086885" lon="20.7152796">
+      <ele>90</ele>
+      <time>2022-01-17T22:29:42Z</time>
+    </trkpt>
+    <trkpt lat="52.3083986" lon="20.7153578">
+      <ele>89</ele>
+      <time>2022-01-17T22:30:15Z</time>
+    </trkpt>
+    <trkpt lat="52.3075275" lon="20.7151937">
+      <ele>88</ele>
+      <time>2022-01-17T22:31:54Z</time>
+    </trkpt>
+    <trkpt lat="52.3065094" lon="20.7149018">
+      <ele>87</ele>
+      <time>2022-01-17T22:33:50Z</time>
+    </trkpt>
+    <trkpt lat="52.3060515" lon="20.7148504">
+      <ele>86</ele>
+      <time>2022-01-17T22:34:41Z</time>
+    </trkpt>
+    <trkpt lat="52.305507" lon="20.7147646">
+      <ele>83</ele>
+      <time>2022-01-17T22:35:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3052663" lon="20.714875">
+      <ele>83</ele>
+      <time>2022-01-17T22:36:11Z</time>
+    </trkpt>
+    <trkpt lat="52.3050904" lon="20.7150972">
+      <ele>84</ele>
+      <time>2022-01-17T22:36:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

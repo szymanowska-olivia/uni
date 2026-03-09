@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:07Z</time>
+    <bounds maxlat="50.017789" maxlon="17.0333898" minlat="50.0136106" minlon="17.0294742"/>
+  </metadata>
+  <wpt lat="50.017789" lon="17.029474">
+    <ele>373</ele>
+    <name>Rapotin, V Aleji</name>
+    <link href="https://mapa-turystyczna.pl/node/7963">
+      <text>Rapotin, V Aleji</text>
+    </link>
+  </wpt>
+  <wpt lat="50.014637" lon="17.03339">
+    <ele>374</ele>
+    <name>Rapotin, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6916">
+      <text>Rapotin, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rapotin, V Aleji - Rapotin, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.017789,17.0294742;50.01618341505963,17.030609899999998;50.0146372,17.0333898">
+    <text>Rapotin, V Aleji - Rapotin, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.017789" lon="17.0294742">
+      <ele>373</ele>
+      <time>2022-01-17T23:32:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0173864" lon="17.029765">
+      <ele>373</ele>
+      <time>2022-01-17T23:32:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0149804" lon="17.0314548">
+      <ele>373</ele>
+      <time>2022-01-17T23:37:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0137422" lon="17.0322991">
+      <ele>371</ele>
+      <time>2022-01-17T23:39:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0136106" lon="17.0324207">
+      <ele>370</ele>
+      <time>2022-01-17T23:40:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0146372" lon="17.0333898">
+      <ele>374</ele>
+      <time>2022-01-17T23:42:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

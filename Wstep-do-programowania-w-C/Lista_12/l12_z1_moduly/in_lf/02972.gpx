@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:13Z</time>
+    <bounds maxlat="50.2719784" maxlon="16.9643857" minlat="50.2698882" minlon="16.9560832"/>
+  </metadata>
+  <wpt lat="50.271978" lon="16.964386">
+    <ele>1080</ele>
+    <name>Pod Czernica</name>
+    <link href="https://mapa-turystyczna.pl/node/5017">
+      <text>Pod Czernica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.269888" lon="16.956083">
+    <ele>990</ele>
+    <name>Pod Czernica</name>
+    <link href="https://mapa-turystyczna.pl/node/2131">
+      <text>Pod Czernica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Czernica - Pod Czernica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2719784,16.9643857;50.27044465035453,16.959812700000008;50.2698882,16.9560832">
+    <text>Pod Czernica - Pod Czernica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2719784" lon="16.9643857">
+      <ele>1080</ele>
+      <time>2022-01-17T21:23:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2709032" lon="16.9611365">
+      <ele>1057</ele>
+      <time>2022-01-17T21:27:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2706284" lon="16.9602414">
+      <ele>1050</ele>
+      <time>2022-01-17T21:28:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2702609" lon="16.959384">
+      <ele>1040</ele>
+      <time>2022-01-17T21:29:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2701911" lon="16.9591067">
+      <ele>1035</ele>
+      <time>2022-01-17T21:29:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2702277" lon="16.958706">
+      <ele>1030</ele>
+      <time>2022-01-17T21:30:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2703671" lon="16.958241">
+      <ele>1025</ele>
+      <time>2022-01-17T21:30:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2703898" lon="16.9579044">
+      <ele>1021</ele>
+      <time>2022-01-17T21:31:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2703117" lon="16.9575101">
+      <ele>1014</ele>
+      <time>2022-01-17T21:31:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2700726" lon="16.9570354">
+      <ele>1005</ele>
+      <time>2022-01-17T21:32:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2698882" lon="16.9560832">
+      <ele>990</ele>
+      <time>2022-01-17T21:33:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

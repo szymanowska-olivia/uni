@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:02Z</time>
+    <bounds maxlat="50.7623633" maxlon="16.2839783" minlat="50.761929" minlon="16.2839461"/>
+  </metadata>
+  <wpt lat="50.761929" lon="16.283978">
+    <ele>438</ele>
+    <name>Walbrzych, ul. Poselska</name>
+    <link href="https://mapa-turystyczna.pl/node/11734">
+      <text>Walbrzych, ul. Poselska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762363" lon="16.283946">
+    <ele>437</ele>
+    <name>Walbrzych, ul. Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/11735">
+      <text>Walbrzych, ul. Mickiewicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walbrzych, ul. Poselska - Walbrzych, ul. Mickiewicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.761929,16.2839783;50.76214615050389,16.283962199999994;50.7623633,16.2839461">
+    <text>Walbrzych, ul. Poselska - Walbrzych, ul. Mickiewicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.761929" lon="16.2839783">
+      <ele>438</ele>
+      <time>2022-01-18T01:10:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7623633" lon="16.2839461">
+      <ele>437</ele>
+      <time>2022-01-18T01:11:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

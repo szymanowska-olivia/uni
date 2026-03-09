@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:31Z</time>
+    <bounds maxlat="50.1295751" maxlon="17.3403901" minlat="50.1278968" minlon="17.3351437"/>
+  </metadata>
+  <wpt lat="50.128622" lon="17.335144">
+    <ele>624</ele>
+    <name>Hute</name>
+    <link href="https://mapa-turystyczna.pl/node/6809">
+      <text>Hute</text>
+    </link>
+  </wpt>
+  <wpt lat="50.129575" lon="17.34039">
+    <ele>618</ele>
+    <name>Na Vysluni</name>
+    <link href="https://mapa-turystyczna.pl/node/6810">
+      <text>Na Vysluni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hute - Na Vysluni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1286225,17.3351437;50.12798110007424,17.338110250000003;50.1295751,17.3403901">
+    <text>Hute - Na Vysluni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1286225" lon="17.3351437">
+      <ele>624</ele>
+      <time>2022-01-17T23:02:31Z</time>
+    </trkpt>
+    <trkpt lat="50.128564" lon="17.3355621">
+      <ele>622</ele>
+      <time>2022-01-17T23:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1281754" lon="17.3365331">
+      <ele>607</ele>
+      <time>2022-01-17T23:04:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1280619" lon="17.3370373">
+      <ele>604</ele>
+      <time>2022-01-17T23:05:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1278968" lon="17.3379976">
+      <ele>594</ele>
+      <time>2022-01-17T23:07:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1280654" lon="17.3382229">
+      <ele>595</ele>
+      <time>2022-01-17T23:07:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1283233" lon="17.3385286">
+      <ele>601</ele>
+      <time>2022-01-17T23:08:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1287669" lon="17.3387969">
+      <ele>613</ele>
+      <time>2022-01-17T23:09:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1293636" lon="17.339792">
+      <ele>618</ele>
+      <time>2022-01-17T23:11:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1295751" lon="17.3403901">
+      <ele>618</ele>
+      <time>2022-01-17T23:12:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

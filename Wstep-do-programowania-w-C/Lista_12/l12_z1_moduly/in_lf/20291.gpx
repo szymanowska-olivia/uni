@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:59Z</time>
+    <bounds maxlat="51.020628" maxlon="16.130377" minlat="51.019395" minlon="16.128358"/>
+  </metadata>
+  <wpt lat="51.020628" lon="16.130377">
+    <ele>280</ele>
+    <name>Rozejscie szlakow pod Ratajem</name>
+    <link href="https://mapa-turystyczna.pl/node/2846">
+      <text>Rozejscie szlakow pod Ratajem</text>
+    </link>
+  </wpt>
+  <wpt lat="51.019395" lon="16.128358">
+    <ele>292</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13640">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow pod Ratajem - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.020628,16.130377;51.02012250092267,16.129650500000015;51.019395,16.128358">
+    <text>Rozejscie szlakow pod Ratajem - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.020628" lon="16.130377">
+      <ele>280</ele>
+      <time>2022-01-18T02:03:59Z</time>
+    </trkpt>
+    <trkpt lat="51.020415" lon="16.130087">
+      <ele>283</ele>
+      <time>2022-01-18T02:04:46Z</time>
+    </trkpt>
+    <trkpt lat="51.01983" lon="16.129214">
+      <ele>292</ele>
+      <time>2022-01-18T02:07:02Z</time>
+    </trkpt>
+    <trkpt lat="51.019543" lon="16.128772">
+      <ele>292</ele>
+      <time>2022-01-18T02:08:09Z</time>
+    </trkpt>
+    <trkpt lat="51.019468" lon="16.128581">
+      <ele>292</ele>
+      <time>2022-01-18T02:08:32Z</time>
+    </trkpt>
+    <trkpt lat="51.019395" lon="16.128358">
+      <ele>292</ele>
+      <time>2022-01-18T02:08:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:21Z</time>
+    <bounds maxlat="51.0548499" maxlon="16.1974204" minlat="51.0503448" minlon="16.1925817"/>
+  </metadata>
+  <wpt lat="51.05485" lon="16.19742">
+    <ele>195</ele>
+    <name>Jawor, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2848">
+      <text>Jawor, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="51.050345" lon="16.192582">
+    <ele>202</ele>
+    <name>Jawor, Urzad Miasta</name>
+    <link href="https://mapa-turystyczna.pl/node/2850">
+      <text>Jawor, Urzad Miasta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jawor, PKP - Jawor, Urzad Miasta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0548499,16.1974204;51.05193225068591,16.19526044999999;51.0503448,16.1925817">
+    <text>Jawor, PKP - Jawor, Urzad Miasta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0548499" lon="16.1974204">
+      <ele>195</ele>
+      <time>2022-01-17T21:37:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0529211" lon="16.1959007">
+      <ele>199</ele>
+      <time>2022-01-17T21:40:51Z</time>
+    </trkpt>
+    <trkpt lat="51.0521843" lon="16.1956501">
+      <ele>203</ele>
+      <time>2022-01-17T21:42:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0516802" lon="16.1948708">
+      <ele>206</ele>
+      <time>2022-01-17T21:43:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0504695" lon="16.193912">
+      <ele>204</ele>
+      <time>2022-01-17T21:45:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0508133" lon="16.1930633">
+      <ele>203</ele>
+      <time>2022-01-17T21:46:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0503448" lon="16.1925817">
+      <ele>202</ele>
+      <time>2022-01-17T21:47:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

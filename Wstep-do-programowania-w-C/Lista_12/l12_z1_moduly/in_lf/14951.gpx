@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:30:56Z</time>
+    <bounds maxlat="51.4736779" maxlon="16.6139676" minlat="51.4708867" minlon="16.60427"/>
+  </metadata>
+  <wpt lat="51.473678" lon="16.60427">
+    <ele>162</ele>
+    <name>Winsko, ul. Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10182">
+      <text>Winsko, ul. Pilsudskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.470887" lon="16.613968">
+    <ele>180</ele>
+    <name>Winsko</name>
+    <link href="https://mapa-turystyczna.pl/node/10040">
+      <text>Winsko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Winsko, ul. Pilsudskiego - Winsko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4736779,16.60427;51.47206290059092,16.60888545000001;51.4708867,16.6139676">
+    <text>Winsko, ul. Pilsudskiego - Winsko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4736779" lon="16.60427">
+      <ele>162</ele>
+      <time>2022-01-18T00:30:56Z</time>
+    </trkpt>
+    <trkpt lat="51.4725791" lon="16.6073244">
+      <ele>168</ele>
+      <time>2022-01-18T00:35:51Z</time>
+    </trkpt>
+    <trkpt lat="51.4722951" lon="16.6083651">
+      <ele>170</ele>
+      <time>2022-01-18T00:37:26Z</time>
+    </trkpt>
+    <trkpt lat="51.4718307" lon="16.6094058">
+      <ele>171</ele>
+      <time>2022-01-18T00:39:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4716736" lon="16.6098511">
+      <ele>172</ele>
+      <time>2022-01-18T00:39:55Z</time>
+    </trkpt>
+    <trkpt lat="51.4715567" lon="16.6102856">
+      <ele>172</ele>
+      <time>2022-01-18T00:40:35Z</time>
+    </trkpt>
+    <trkpt lat="51.4712459" lon="16.6115999">
+      <ele>174</ele>
+      <time>2022-01-18T00:42:32Z</time>
+    </trkpt>
+    <trkpt lat="51.4710755" lon="16.6128552">
+      <ele>177</ele>
+      <time>2022-01-18T00:44:20Z</time>
+    </trkpt>
+    <trkpt lat="51.4708867" lon="16.6139676">
+      <ele>180</ele>
+      <time>2022-01-18T00:45:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:43Z</time>
+    <bounds maxlat="52.3123093" maxlon="20.8556557" minlat="52.3110893" minlon="20.8534884"/>
+  </metadata>
+  <wpt lat="52.312309" lon="20.853488">
+    <ele>88</ele>
+    <name>Pod Luzowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4978">
+      <text>Pod Luzowa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.311089" lon="20.855656">
+    <ele>84</ele>
+    <name>Uroczysko Luze</name>
+    <link href="https://mapa-turystyczna.pl/node/5004">
+      <text>Uroczysko Luze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Luzowa Gora - Uroczysko Luze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3123093,20.8534884;52.31188955199022,20.854276999999986;52.3110893,20.8556557">
+    <text>Pod Luzowa Gora - Uroczysko Luze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3123093" lon="20.8534884">
+      <ele>88</ele>
+      <time>2022-01-17T22:21:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3114698" lon="20.8550656">
+      <ele>84</ele>
+      <time>2022-01-17T22:23:50Z</time>
+    </trkpt>
+    <trkpt lat="52.3111943" lon="20.8555537">
+      <ele>84</ele>
+      <time>2022-01-17T22:24:31Z</time>
+    </trkpt>
+    <trkpt lat="52.3110893" lon="20.8556557">
+      <ele>84</ele>
+      <time>2022-01-17T22:24:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

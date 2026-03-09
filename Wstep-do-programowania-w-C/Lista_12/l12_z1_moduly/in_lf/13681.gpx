@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:03Z</time>
+    <bounds maxlat="50.2016576" maxlon="19.0109547" minlat="50.2012009" minlon="19.0064776"/>
+  </metadata>
+  <wpt lat="50.201201" lon="19.010955">
+    <ele>299</ele>
+    <name>Rozlewisko Slepotki</name>
+    <link href="https://mapa-turystyczna.pl/node/9420">
+      <text>Rozlewisko Slepotki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.201298" lon="19.006478">
+    <ele>300</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9421">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozlewisko Slepotki - Rozejscie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2012009,19.0109547;50.2016542000001,19.008700700000006;50.2012976,19.0064776">
+    <text>Rozlewisko Slepotki - Rozejscie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2012009" lon="19.0109547">
+      <ele>299</ele>
+      <time>2022-01-18T00:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.201328" lon="19.0102399">
+      <ele>298</ele>
+      <time>2022-01-18T00:11:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2014104" lon="19.0097356">
+      <ele>296</ele>
+      <time>2022-01-18T00:12:24Z</time>
+    </trkpt>
+    <trkpt lat="50.201534" lon="19.009285">
+      <ele>295</ele>
+      <time>2022-01-18T00:12:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2016508" lon="19.0088666">
+      <ele>295</ele>
+      <time>2022-01-18T00:13:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2016576" lon="19.0085348">
+      <ele>297</ele>
+      <time>2022-01-18T00:13:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2012976" lon="19.0064776">
+      <ele>300</ele>
+      <time>2022-01-18T00:16:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

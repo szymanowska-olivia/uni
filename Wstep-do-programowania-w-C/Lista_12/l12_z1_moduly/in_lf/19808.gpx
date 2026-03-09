@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:15Z</time>
+    <bounds maxlat="49.201514" maxlon="18.920292" minlat="49.20085" minlon="18.919085"/>
+  </metadata>
+  <wpt lat="49.201514" lon="18.919085">
+    <ele>513</ele>
+    <name>Krasnany, Zerucha</name>
+    <link href="https://mapa-turystyczna.pl/node/13372">
+      <text>Krasnany, Zerucha</text>
+    </link>
+  </wpt>
+  <wpt lat="49.20085" lon="18.920292">
+    <ele>513</ele>
+    <name>Dolina Kur</name>
+    <link href="https://mapa-turystyczna.pl/node/5052">
+      <text>Dolina Kur</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krasnany, Zerucha - Dolina Kur</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.201514,18.919085;49.20104450038247,18.91994399999997;49.20085,18.920292">
+    <text>Krasnany, Zerucha - Dolina Kur</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.201514" lon="18.919085">
+      <ele>513</ele>
+      <time>2022-01-18T01:55:15Z</time>
+    </trkpt>
+    <trkpt lat="49.201239" lon="18.919596">
+      <ele>514</ele>
+      <time>2022-01-18T01:56:05Z</time>
+    </trkpt>
+    <trkpt lat="49.20085" lon="18.920292">
+      <ele>513</ele>
+      <time>2022-01-18T01:57:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

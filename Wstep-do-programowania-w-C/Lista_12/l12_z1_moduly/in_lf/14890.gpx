@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:48Z</time>
+    <bounds maxlat="51.3226048" maxlon="16.2719443" minlat="51.3201647" minlon="16.2703502"/>
+  </metadata>
+  <wpt lat="51.322605" lon="16.270379">
+    <ele>126</ele>
+    <name>Miloradzice, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/10141">
+      <text>Miloradzice, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="51.320165" lon="16.271944">
+    <ele>126</ele>
+    <name>Miloradzice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10128">
+      <text>Miloradzice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miloradzice, kosciol - Miloradzice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3226048,16.2703786;51.32123905050177,16.270715;51.3201647,16.2719443">
+    <text>Miloradzice, kosciol - Miloradzice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3226048" lon="16.2703786">
+      <ele>126</ele>
+      <time>2022-01-18T00:29:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3222247" lon="16.2703502">
+      <ele>122</ele>
+      <time>2022-01-18T00:30:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3217821" lon="16.2703931">
+      <ele>123</ele>
+      <time>2022-01-18T00:31:18Z</time>
+    </trkpt>
+    <trkpt lat="51.3214536" lon="16.2705326">
+      <ele>125</ele>
+      <time>2022-01-18T00:31:56Z</time>
+    </trkpt>
+    <trkpt lat="51.3210245" lon="16.2708974">
+      <ele>125</ele>
+      <time>2022-01-18T00:32:49Z</time>
+    </trkpt>
+    <trkpt lat="51.3204277" lon="16.2715089">
+      <ele>126</ele>
+      <time>2022-01-18T00:34:07Z</time>
+    </trkpt>
+    <trkpt lat="51.3201647" lon="16.2719443">
+      <ele>126</ele>
+      <time>2022-01-18T00:34:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

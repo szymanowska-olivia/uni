@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:01Z</time>
+    <bounds maxlat="54.3557904" maxlon="18.807959" minlat="54.3544024" minlon="18.8030148"/>
+  </metadata>
+  <wpt lat="54.354402" lon="18.80751">
+    <ele>3</ele>
+    <name>Jezioro Karas</name>
+    <link href="https://mapa-turystyczna.pl/node/10906">
+      <text>Jezioro Karas</text>
+    </link>
+  </wpt>
+  <wpt lat="54.35579" lon="18.803015">
+    <ele>2</ele>
+    <name>Jezioro Karas, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10907">
+      <text>Jezioro Karas, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Karas - Jezioro Karas, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3544024,18.8075101;54.35503500064485,18.80639079999998;54.3557904,18.8030148">
+    <text>Jezioro Karas - Jezioro Karas, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3544024" lon="18.8075101">
+      <ele>3</ele>
+      <time>2022-01-18T00:48:01Z</time>
+    </trkpt>
+    <trkpt lat="54.3548048" lon="18.807959">
+      <ele>4</ele>
+      <time>2022-01-18T00:48:42Z</time>
+    </trkpt>
+    <trkpt lat="54.3552652" lon="18.8048226">
+      <ele>2</ele>
+      <time>2022-01-18T00:51:21Z</time>
+    </trkpt>
+    <trkpt lat="54.3555653" lon="18.803857">
+      <ele>3</ele>
+      <time>2022-01-18T00:52:15Z</time>
+    </trkpt>
+    <trkpt lat="54.3557904" lon="18.8030148">
+      <ele>2</ele>
+      <time>2022-01-18T00:53:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

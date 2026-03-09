@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:15Z</time>
+    <bounds maxlat="50.8616439" maxlon="15.7119751" minlat="50.8567405" minlon="15.7081649"/>
+  </metadata>
+  <wpt lat="50.861644" lon="15.711975">
+    <ele>411</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11043">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="50.856741" lon="15.708177">
+    <ele>402</ele>
+    <name>Cieplice, ul. Krosnienska</name>
+    <link href="https://mapa-turystyczna.pl/node/11041">
+      <text>Cieplice, ul. Krosnienska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Cieplice, ul. Krosnienska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8616439,15.7119751;50.85914625303076,15.70937189999999;50.8567405,15.7081767">
+    <text>Rozejscie szlakow czerwony / zielony - Cieplice, ul. Krosnienska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8616439" lon="15.7119751">
+      <ele>411</ele>
+      <time>2022-01-18T00:52:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8602874" lon="15.7112012">
+      <ele>401</ele>
+      <time>2022-01-18T00:54:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8598066" lon="15.7109652">
+      <ele>407</ele>
+      <time>2022-01-18T00:55:33Z</time>
+    </trkpt>
+    <trkpt lat="50.859705" lon="15.7107935">
+      <ele>408</ele>
+      <time>2022-01-18T00:55:48Z</time>
+    </trkpt>
+    <trkpt lat="50.859705" lon="15.7105789">
+      <ele>407</ele>
+      <time>2022-01-18T00:56:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8596779" lon="15.7102785">
+      <ele>406</ele>
+      <time>2022-01-18T00:56:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8586146" lon="15.7084653">
+      <ele>420</ele>
+      <time>2022-01-18T00:59:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8583979" lon="15.7083259">
+      <ele>418</ele>
+      <time>2022-01-18T00:59:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8579984" lon="15.7081649">
+      <ele>413</ele>
+      <time>2022-01-18T01:00:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8567405" lon="15.7081767">
+      <ele>402</ele>
+      <time>2022-01-18T01:02:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

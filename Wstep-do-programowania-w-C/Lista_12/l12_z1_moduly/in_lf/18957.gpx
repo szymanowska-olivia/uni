@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:11Z</time>
+    <bounds maxlat="52.0792418" maxlon="23.1265032" minlat="52.0742265" minlon="23.1255222"/>
+  </metadata>
+  <wpt lat="52.074227" lon="23.125715">
+    <ele>139</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12832">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.079242" lon="23.126503">
+    <ele>143</ele>
+    <name>Roskosz, Wioska Ginacych Zawodow</name>
+    <link href="https://mapa-turystyczna.pl/node/12834">
+      <text>Roskosz, Wioska Ginacych Zawodow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Roskosz, Wioska Ginacych Zawodow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0742265,23.1257151;52.07680615013664,23.125956649999996;52.0792418,23.1265032">
+    <text>Skrzyzowanie szlakow - Roskosz, Wioska Ginacych Zawodow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0742265" lon="23.1257151">
+      <ele>139</ele>
+      <time>2022-01-18T01:40:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0764352" lon="23.1262303">
+      <ele>144</ele>
+      <time>2022-01-18T01:44:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0766957" lon="23.1260693">
+      <ele>146</ele>
+      <time>2022-01-18T01:44:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0769166" lon="23.125844">
+      <ele>147</ele>
+      <time>2022-01-18T01:45:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0771869" lon="23.1255758">
+      <ele>149</ele>
+      <time>2022-01-18T01:46:03Z</time>
+    </trkpt>
+    <trkpt lat="52.0774375" lon="23.1255222">
+      <ele>148</ele>
+      <time>2022-01-18T01:46:32Z</time>
+    </trkpt>
+    <trkpt lat="52.0777564" lon="23.1255436">
+      <ele>147</ele>
+      <time>2022-01-18T01:47:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0781389" lon="23.1256724">
+      <ele>147</ele>
+      <time>2022-01-18T01:47:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0792418" lon="23.1265032">
+      <ele>143</ele>
+      <time>2022-01-18T01:50:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

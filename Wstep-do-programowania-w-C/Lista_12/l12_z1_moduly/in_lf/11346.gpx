@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:00Z</time>
+    <bounds maxlat="50.6708041" maxlon="15.7307053" minlat="50.6705747" minlon="15.730687"/>
+  </metadata>
+  <wpt lat="50.670575" lon="15.730687">
+    <ele>1126</ele>
+    <name>Prazska bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7990">
+      <text>Prazska bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670804" lon="15.730705">
+    <ele>1123</ele>
+    <name>Prazska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1308">
+      <text>Prazska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prazska bouda, rozc. - Prazska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6705747,15.730687;50.67072480006697,15.730704350000018;50.6708041,15.7307053">
+    <text>Prazska bouda, rozc. - Prazska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6705747" lon="15.730687">
+      <ele>1126</ele>
+      <time>2022-01-17T23:33:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6706455" lon="15.7307034">
+      <ele>1125</ele>
+      <time>2022-01-17T23:33:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6708041" lon="15.7307053">
+      <ele>1123</ele>
+      <time>2022-01-17T23:34:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

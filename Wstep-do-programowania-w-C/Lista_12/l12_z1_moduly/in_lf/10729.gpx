@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:24Z</time>
+    <bounds maxlat="49.5211093" maxlon="18.016237" minlat="49.5196702" minlon="18.0147806"/>
+  </metadata>
+  <wpt lat="49.51967" lon="18.014781">
+    <ele>390</ele>
+    <name>Hostasovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7570">
+      <text>Hostasovice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.521109" lon="18.016237">
+    <ele>387</ele>
+    <name>Hostasovice, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7571">
+      <text>Hostasovice, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hostasovice, rozc. - Hostasovice, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5196702,18.0147806;49.52042150006206,18.015586599999967;49.5211093,18.016237">
+    <text>Hostasovice, rozc. - Hostasovice, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5196702" lon="18.0147806">
+      <ele>390</ele>
+      <time>2022-01-17T23:21:24Z</time>
+    </trkpt>
+    <trkpt lat="49.519769" lon="18.0149603">
+      <ele>389</ele>
+      <time>2022-01-17T23:21:40Z</time>
+    </trkpt>
+    <trkpt lat="49.5199013" lon="18.0151534">
+      <ele>390</ele>
+      <time>2022-01-17T23:21:59Z</time>
+    </trkpt>
+    <trkpt lat="49.520139" lon="18.0153693">
+      <ele>391</ele>
+      <time>2022-01-17T23:22:27Z</time>
+    </trkpt>
+    <trkpt lat="49.5203436" lon="18.015537">
+      <ele>391</ele>
+      <time>2022-01-17T23:22:51Z</time>
+    </trkpt>
+    <trkpt lat="49.5204994" lon="18.0156362">
+      <ele>390</ele>
+      <time>2022-01-17T23:23:08Z</time>
+    </trkpt>
+    <trkpt lat="49.5206692" lon="18.0157207">
+      <ele>389</ele>
+      <time>2022-01-17T23:23:27Z</time>
+    </trkpt>
+    <trkpt lat="49.5209034" lon="18.015942">
+      <ele>387</ele>
+      <time>2022-01-17T23:23:55Z</time>
+    </trkpt>
+    <trkpt lat="49.5211093" lon="18.016237">
+      <ele>387</ele>
+      <time>2022-01-17T23:24:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

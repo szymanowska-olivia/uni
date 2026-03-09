@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:51Z</time>
+    <bounds maxlat="52.2790369" maxlon="20.588662" minlat="52.2743958" minlon="20.587821"/>
+  </metadata>
+  <wpt lat="52.274396" lon="20.587821">
+    <ele>93</ele>
+    <name>Julinek</name>
+    <link href="https://mapa-turystyczna.pl/node/12449">
+      <text>Julinek</text>
+    </link>
+  </wpt>
+  <wpt lat="52.279037" lon="20.588662">
+    <ele>103</ele>
+    <name>Rozejscie pod Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12450">
+      <text>Rozejscie pod Biala Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Julinek - Rozejscie pod Biala Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2743958,20.5878213;52.276695209380996,20.588228700000002;52.2790369,20.588662">
+    <text>Julinek - Rozejscie pod Biala Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2743958" lon="20.5878213">
+      <ele>93</ele>
+      <time>2022-01-18T01:29:51Z</time>
+    </trkpt>
+    <trkpt lat="52.2744009" lon="20.587821">
+      <ele>93</ele>
+      <time>2022-01-18T01:29:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2789894" lon="20.5886364">
+      <ele>103</ele>
+      <time>2022-01-18T01:39:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2790369" lon="20.588662">
+      <ele>103</ele>
+      <time>2022-01-18T01:39:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:10Z</time>
+    <bounds maxlat="50.7516509" maxlon="15.2823029" minlat="50.751267" minlon="15.2812733"/>
+  </metadata>
+  <wpt lat="50.751651" lon="15.281273">
+    <ele>794</ele>
+    <name>Fanterova skala</name>
+    <link href="https://mapa-turystyczna.pl/node/8702">
+      <text>Fanterova skala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.751267" lon="15.282303">
+    <ele>805</ele>
+    <name>Spicak</name>
+    <link href="https://mapa-turystyczna.pl/node/8703">
+      <text>Spicak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fanterova skala - Spicak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7516509,15.2812733;50.75136330000251,15.28169730000001;50.751267,15.2823029">
+    <text>Fanterova skala - Spicak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7516509" lon="15.2812733">
+      <ele>794</ele>
+      <time>2022-01-17T23:54:10Z</time>
+    </trkpt>
+    <trkpt lat="50.751589" lon="15.2813674">
+      <ele>795</ele>
+      <time>2022-01-17T23:54:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7515177" lon="15.2814317">
+      <ele>797</ele>
+      <time>2022-01-17T23:54:35Z</time>
+    </trkpt>
+    <trkpt lat="50.751443" lon="15.2814532">
+      <ele>798</ele>
+      <time>2022-01-17T23:54:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7513786" lon="15.2815659">
+      <ele>800</ele>
+      <time>2022-01-17T23:55:00Z</time>
+    </trkpt>
+    <trkpt lat="50.751348" lon="15.2818287">
+      <ele>802</ele>
+      <time>2022-01-17T23:55:25Z</time>
+    </trkpt>
+    <trkpt lat="50.751267" lon="15.2823029">
+      <ele>805</ele>
+      <time>2022-01-17T23:56:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

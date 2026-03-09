@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:54Z</time>
+    <bounds maxlat="50.2271945" maxlon="17.2085756" minlat="50.2271121" minlon="17.2079962"/>
+  </metadata>
+  <wpt lat="50.227112" lon="17.207996">
+    <ele>440</ele>
+    <name>Jesenik, nadrazi bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6205">
+      <text>Jesenik, nadrazi bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.227116" lon="17.208576">
+    <ele>441</ele>
+    <name>Jesenik, Nabrezni</name>
+    <link href="https://mapa-turystyczna.pl/node/6256">
+      <text>Jesenik, Nabrezni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesenik, nadrazi bus - Jesenik, Nabrezni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2271121,17.2079962;50.22715505001631,17.208315449999983;50.2271156,17.2085756">
+    <text>Jesenik, nadrazi bus - Jesenik, Nabrezni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2271121" lon="17.2079962">
+      <ele>440</ele>
+      <time>2022-01-17T22:48:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2271945" lon="17.2080553">
+      <ele>440</ele>
+      <time>2022-01-17T22:49:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2271156" lon="17.2085756">
+      <ele>441</ele>
+      <time>2022-01-17T22:49:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

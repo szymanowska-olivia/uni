@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:12Z</time>
+    <bounds maxlat="50.6910969" maxlon="15.8590739" minlat="50.690432" minlon="15.8564"/>
+  </metadata>
+  <wpt lat="50.690432" lon="15.8564">
+    <ele>855</ele>
+    <name>Nad Hornimi Albericemi</name>
+    <link href="https://mapa-turystyczna.pl/node/3913">
+      <text>Nad Hornimi Albericemi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.691097" lon="15.859074">
+    <ele>853</ele>
+    <name>Niedamirow, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/3912">
+      <text>Niedamirow, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Hornimi Albericemi - Niedamirow, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.690432,15.8564;50.69076745031991,15.858197050000008;50.6910969,15.8590739">
+    <text>Nad Hornimi Albericemi - Niedamirow, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.690432" lon="15.8564">
+      <ele>855</ele>
+      <time>2022-01-17T21:58:12Z</time>
+    </trkpt>
+    <trkpt lat="50.690445" lon="15.8571576">
+      <ele>860</ele>
+      <time>2022-01-17T21:59:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6905942" lon="15.8577832">
+      <ele>860</ele>
+      <time>2022-01-17T22:00:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6909407" lon="15.8586109">
+      <ele>857</ele>
+      <time>2022-01-17T22:02:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6910969" lon="15.8590739">
+      <ele>853</ele>
+      <time>2022-01-17T22:03:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

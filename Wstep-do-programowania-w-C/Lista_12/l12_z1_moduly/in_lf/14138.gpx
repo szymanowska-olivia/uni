@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:24Z</time>
+    <bounds maxlat="50.298969" maxlon="18.4686445" minlat="50.2831433" minlon="18.4524958"/>
+  </metadata>
+  <wpt lat="50.283143" lon="18.468644">
+    <ele>226</ele>
+    <name>Sierakowice, ul. Polna</name>
+    <link href="https://mapa-turystyczna.pl/node/9561">
+      <text>Sierakowice, ul. Polna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.298969" lon="18.452496">
+    <ele>244</ele>
+    <name>Droga Sierakowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9660">
+      <text>Droga Sierakowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sierakowice, ul. Polna - Droga Sierakowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2831433,18.4686445;50.28952448926277,18.46234544999997;50.298969,18.4524958">
+    <text>Sierakowice, ul. Polna - Droga Sierakowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2831433" lon="18.4686445">
+      <ele>226</ele>
+      <time>2022-01-18T00:17:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2846848" lon="18.4671842">
+      <ele>229</ele>
+      <time>2022-01-18T00:20:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2847876" lon="18.4670232">
+      <ele>229</ele>
+      <time>2022-01-18T00:21:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2875914" lon="18.4642552">
+      <ele>231</ele>
+      <time>2022-01-18T00:27:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2914575" lon="18.4604357">
+      <ele>243</ele>
+      <time>2022-01-18T00:35:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2920333" lon="18.4595345">
+      <ele>252</ele>
+      <time>2022-01-18T00:37:07Z</time>
+    </trkpt>
+    <trkpt lat="50.298969" lon="18.4524958">
+      <ele>244</ele>
+      <time>2022-01-18T00:52:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:43Z</time>
+    <bounds maxlat="50.5871195" maxlon="16.3315845" minlat="50.5856448" minlon="16.330466"/>
+  </metadata>
+  <wpt lat="50.58712" lon="16.330597">
+    <ele>415</ele>
+    <name>Broumov, Pivovarska</name>
+    <link href="https://mapa-turystyczna.pl/node/2428">
+      <text>Broumov, Pivovarska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.585645" lon="16.331585">
+    <ele>416</ele>
+    <name>Broumov, Mirove namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/5782">
+      <text>Broumov, Mirove namesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Broumov, Pivovarska - Broumov, Mirove namesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5871195,16.3305974;50.58629715019627,16.330835099999977;50.5856448,16.3315845">
+    <text>Broumov, Pivovarska - Broumov, Mirove namesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5871195" lon="16.3305974">
+      <ele>415</ele>
+      <time>2022-01-17T22:36:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5868999" lon="16.3308012">
+      <ele>415</ele>
+      <time>2022-01-17T22:37:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5867185" lon="16.330466">
+      <ele>414</ele>
+      <time>2022-01-17T22:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5865724" lon="16.3305702">
+      <ele>415</ele>
+      <time>2022-01-17T22:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5864331" lon="16.3307067">
+      <ele>415</ele>
+      <time>2022-01-17T22:38:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5861612" lon="16.3309635">
+      <ele>414</ele>
+      <time>2022-01-17T22:38:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5856448" lon="16.3315845">
+      <ele>416</ele>
+      <time>2022-01-17T22:39:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

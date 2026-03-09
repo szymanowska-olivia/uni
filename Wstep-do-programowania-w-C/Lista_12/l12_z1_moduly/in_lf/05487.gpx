@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:31Z</time>
+    <bounds maxlat="49.425127" maxlon="19.104037" minlat="49.422517" minlon="19.096288"/>
+  </metadata>
+  <wpt lat="49.425127" lon="19.104037">
+    <ele>1123</ele>
+    <name>Skrzadnita</name>
+    <link href="https://mapa-turystyczna.pl/node/3861">
+      <text>Skrzadnita</text>
+    </link>
+  </wpt>
+  <wpt lat="49.422517" lon="19.096288">
+    <ele>1207</ele>
+    <name>Rycerzowa Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/650">
+      <text>Rycerzowa Mala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzadnita - Rycerzowa Mala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.425127,19.104037;49.42387450002396,19.10022600000002;49.422517,19.096288">
+    <text>Skrzadnita - Rycerzowa Mala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.425127" lon="19.104037">
+      <ele>1123</ele>
+      <time>2022-01-17T21:56:31Z</time>
+    </trkpt>
+    <trkpt lat="49.424682" lon="19.103219">
+      <ele>1127</ele>
+      <time>2022-01-17T21:58:55Z</time>
+    </trkpt>
+    <trkpt lat="49.424564" lon="19.102914">
+      <ele>1127</ele>
+      <time>2022-01-17T21:59:43Z</time>
+    </trkpt>
+    <trkpt lat="49.424278" lon="19.101953">
+      <ele>1134</ele>
+      <time>2022-01-17T22:02:05Z</time>
+    </trkpt>
+    <trkpt lat="49.424076" lon="19.101184">
+      <ele>1138</ele>
+      <time>2022-01-17T22:03:57Z</time>
+    </trkpt>
+    <trkpt lat="49.423923" lon="19.100407">
+      <ele>1146</ele>
+      <time>2022-01-17T22:05:47Z</time>
+    </trkpt>
+    <trkpt lat="49.423826" lon="19.100045">
+      <ele>1148</ele>
+      <time>2022-01-17T22:06:40Z</time>
+    </trkpt>
+    <trkpt lat="49.423727" lon="19.09963">
+      <ele>1155</ele>
+      <time>2022-01-17T22:07:41Z</time>
+    </trkpt>
+    <trkpt lat="49.423606" lon="19.09912">
+      <ele>1166</ele>
+      <time>2022-01-17T22:08:57Z</time>
+    </trkpt>
+    <trkpt lat="49.423488" lon="19.098631">
+      <ele>1174</ele>
+      <time>2022-01-17T22:10:09Z</time>
+    </trkpt>
+    <trkpt lat="49.42337" lon="19.098083">
+      <ele>1180</ele>
+      <time>2022-01-17T22:11:27Z</time>
+    </trkpt>
+    <trkpt lat="49.42285" lon="19.096986">
+      <ele>1196</ele>
+      <time>2022-01-17T22:14:33Z</time>
+    </trkpt>
+    <trkpt lat="49.422777" lon="19.096842">
+      <ele>1199</ele>
+      <time>2022-01-17T22:14:58Z</time>
+    </trkpt>
+    <trkpt lat="49.422517" lon="19.096288">
+      <ele>1207</ele>
+      <time>2022-01-17T22:16:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:55Z</time>
+    <bounds maxlat="50.822175" maxlon="15.6169474" minlat="50.8220525" minlon="15.6145649"/>
+  </metadata>
+  <wpt lat="50.822052" lon="15.616947">
+    <ele>520</ele>
+    <name>Jagniatkow</name>
+    <link href="https://mapa-turystyczna.pl/node/1143">
+      <text>Jagniatkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.822055" lon="15.614565">
+    <ele>528</ele>
+    <name>Jagniatkow, ul. Michalowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/3906">
+      <text>Jagniatkow, ul. Michalowicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jagniatkow - Jagniatkow, ul. Michalowicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8220525,15.6169474;50.822136050003735,15.615689049999997;50.8220551,15.6145649">
+    <text>Jagniatkow - Jagniatkow, ul. Michalowicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8220525" lon="15.6169474">
+      <ele>520</ele>
+      <time>2022-01-17T21:57:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8220598" lon="15.6166385">
+      <ele>517</ele>
+      <time>2022-01-17T21:58:33Z</time>
+    </trkpt>
+    <trkpt lat="50.822175" lon="15.6160216">
+      <ele>519</ele>
+      <time>2022-01-17T21:59:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8221547" lon="15.6157963">
+      <ele>520</ele>
+      <time>2022-01-17T22:00:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8221174" lon="15.6155818">
+      <ele>522</ele>
+      <time>2022-01-17T22:00:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8220903" lon="15.6153404">
+      <ele>523</ele>
+      <time>2022-01-17T22:01:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8221106" lon="15.6149541">
+      <ele>525</ele>
+      <time>2022-01-17T22:02:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8220897" lon="15.6147434">
+      <ele>527</ele>
+      <time>2022-01-17T22:02:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8220551" lon="15.6145649">
+      <ele>528</ele>
+      <time>2022-01-17T22:02:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

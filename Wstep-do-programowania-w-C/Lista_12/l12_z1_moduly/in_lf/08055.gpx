@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:12Z</time>
+    <bounds maxlat="48.8833299" maxlon="19.0467632" minlat="48.88321" minlon="19.0456688"/>
+  </metadata>
+  <wpt lat="48.883295" lon="19.045669">
+    <ele>1325</ele>
+    <name>Kralova studna, pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/5626">
+      <text>Kralova studna, pramen</text>
+    </link>
+  </wpt>
+  <wpt lat="48.88321" lon="19.046763">
+    <ele>1336</ele>
+    <name>Kralova studna, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5475">
+      <text>Kralova studna, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralova studna, pramen - Kralova studna, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8832946,19.0456688;48.8833122500031,19.046028250000013;48.88321,19.0467632">
+    <text>Kralova studna, pramen - Kralova studna, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8832946" lon="19.0456688">
+      <ele>1325</ele>
+      <time>2022-01-17T22:32:12Z</time>
+    </trkpt>
+    <trkpt lat="48.8833299" lon="19.0463877">
+      <ele>1332</ele>
+      <time>2022-01-17T22:33:28Z</time>
+    </trkpt>
+    <trkpt lat="48.88321" lon="19.0467632">
+      <ele>1336</ele>
+      <time>2022-01-17T22:34:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:58Z</time>
+    <bounds maxlat="50.8718107" maxlon="15.2613992" minlat="50.8715232" minlon="15.2580188"/>
+  </metadata>
+  <wpt lat="50.871523" lon="15.261399">
+    <ele>932</ele>
+    <name>Pod Klinovym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/2277">
+      <text>Pod Klinovym vrchem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.871811" lon="15.258019">
+    <ele>923</ele>
+    <name>Palicnik, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13143">
+      <text>Palicnik, odb.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Klinovym vrchem - Palicnik, odb.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8715232,15.2613992;50.87155680000928,15.259914750000032;50.8718107,15.2580188">
+    <text>Pod Klinovym vrchem - Palicnik, odb.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8715232" lon="15.2613992">
+      <ele>932</ele>
+      <time>2022-01-18T01:48:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8715316" lon="15.2608211">
+      <ele>929</ele>
+      <time>2022-01-18T01:49:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8715274" lon="15.2602827">
+      <ele>929</ele>
+      <time>2022-01-18T01:50:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8715862" lon="15.2595468">
+      <ele>928</ele>
+      <time>2022-01-18T01:51:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8716518" lon="15.2592722">
+      <ele>927</ele>
+      <time>2022-01-18T01:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.871794" lon="15.2588081">
+      <ele>927</ele>
+      <time>2022-01-18T01:52:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8718107" lon="15.2580188">
+      <ele>923</ele>
+      <time>2022-01-18T01:53:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

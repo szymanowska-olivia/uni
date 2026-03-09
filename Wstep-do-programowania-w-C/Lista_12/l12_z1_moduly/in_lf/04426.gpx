@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:16Z</time>
+    <bounds maxlat="50.4435129" maxlon="16.87108" minlat="50.4432807" minlon="16.8666315"/>
+  </metadata>
+  <wpt lat="50.443281" lon="16.866632">
+    <ele>375</ele>
+    <name>Zloty Stok, Klodzki Wawoz</name>
+    <link href="https://mapa-turystyczna.pl/node/2173">
+      <text>Zloty Stok, Klodzki Wawoz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.443299" lon="16.87108">
+    <ele>365</ele>
+    <name>Zloty Stok, ul. Boleslawa Chrobrego</name>
+    <link href="https://mapa-turystyczna.pl/node/3064">
+      <text>Zloty Stok, ul. Boleslawa Chrobrego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zloty Stok, Klodzki Wawoz - Zloty Stok, ul. Boleslawa Chrobrego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4432807,16.8666315;50.443506850000404,16.868852399999977;50.4432992,16.87108">
+    <text>Zloty Stok, Klodzki Wawoz - Zloty Stok, ul. Boleslawa Chrobrego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4432807" lon="16.8666315">
+      <ele>375</ele>
+      <time>2022-01-17T21:42:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4433849" lon="16.8676615">
+      <ele>374</ele>
+      <time>2022-01-17T21:43:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4435008" lon="16.8687934">
+      <ele>371</ele>
+      <time>2022-01-17T21:44:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4435129" lon="16.8689114">
+      <ele>371</ele>
+      <time>2022-01-17T21:44:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4435027" lon="16.8696624">
+      <ele>367</ele>
+      <time>2022-01-17T21:45:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4434719" lon="16.869995">
+      <ele>366</ele>
+      <time>2022-01-17T21:46:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4432992" lon="16.87108">
+      <ele>365</ele>
+      <time>2022-01-17T21:47:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:36Z</time>
+    <bounds maxlat="49.5813362" maxlon="18.7667416" minlat="49.5784382" minlon="18.7652179"/>
+  </metadata>
+  <wpt lat="49.578438" lon="18.7667">
+    <ele>382</ele>
+    <name>Jablunkov</name>
+    <link href="https://mapa-turystyczna.pl/node/750">
+      <text>Jablunkov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.581336" lon="18.765218">
+    <ele>386</ele>
+    <name>Jablunkov, rozcesti</name>
+    <link href="https://mapa-turystyczna.pl/node/3897">
+      <text>Jablunkov, rozcesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablunkov - Jablunkov, rozcesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5784382,18.7666997;49.57998840541113,18.76614069999997;49.5813362,18.7652179">
+    <text>Jablunkov - Jablunkov, rozcesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5784382" lon="18.7666997">
+      <ele>382</ele>
+      <time>2022-01-17T21:57:36Z</time>
+    </trkpt>
+    <trkpt lat="49.5787247" lon="18.7667416">
+      <ele>383</ele>
+      <time>2022-01-17T21:58:04Z</time>
+    </trkpt>
+    <trkpt lat="49.5792617" lon="18.7665689">
+      <ele>384</ele>
+      <time>2022-01-17T21:58:57Z</time>
+    </trkpt>
+    <trkpt lat="49.5807151" lon="18.7657125">
+      <ele>385</ele>
+      <time>2022-01-17T22:01:28Z</time>
+    </trkpt>
+    <trkpt lat="49.5813362" lon="18.7652179">
+      <ele>386</ele>
+      <time>2022-01-17T22:02:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

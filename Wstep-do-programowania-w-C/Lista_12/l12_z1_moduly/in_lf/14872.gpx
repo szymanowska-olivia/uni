@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:28Z</time>
+    <bounds maxlat="51.4045269" maxlon="16.2019756" minlat="51.4031558" minlon="16.2018353"/>
+  </metadata>
+  <wpt lat="51.403156" lon="16.201835">
+    <ele>130</ele>
+    <name>Lubin, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/10130">
+      <text>Lubin, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.404527" lon="16.201948">
+    <ele>132</ele>
+    <name>Lubin, ul. Szkolna</name>
+    <link href="https://mapa-turystyczna.pl/node/10125">
+      <text>Lubin, ul. Szkolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, ul. Kosciuszki - Lubin, ul. Szkolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4031558,16.2018353;51.403794504460066,16.201905449999998;51.4045268,16.2019479">
+    <text>Lubin, ul. Kosciuszki - Lubin, ul. Szkolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4031558" lon="16.2018353">
+      <ele>130</ele>
+      <time>2022-01-18T00:29:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4044332" lon="16.2019756">
+      <ele>133</ele>
+      <time>2022-01-18T00:32:15Z</time>
+    </trkpt>
+    <trkpt lat="51.4045269" lon="16.2019488">
+      <ele>132</ele>
+      <time>2022-01-18T00:32:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4045268" lon="16.2019479">
+      <ele>132</ele>
+      <time>2022-01-18T00:32:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

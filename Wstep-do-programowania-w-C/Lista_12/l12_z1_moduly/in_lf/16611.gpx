@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:40Z</time>
+    <bounds maxlat="49.2097467" maxlon="22.3314709" minlat="49.2091662" minlon="22.3298547"/>
+  </metadata>
+  <wpt lat="49.209634" lon="22.329855">
+    <ele>553</ele>
+    <name>Cisna, stacja kolejki</name>
+    <link href="https://mapa-turystyczna.pl/node/11336">
+      <text>Cisna, stacja kolejki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.209166" lon="22.331471">
+    <ele>566</ele>
+    <name>Odejscie sciezki przyrodniczej</name>
+    <link href="https://mapa-turystyczna.pl/node/11337">
+      <text>Odejscie sciezki przyrodniczej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cisna, stacja kolejki - Odejscie sciezki przyrodniczej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2096342,22.3298547;49.20944500078612,22.331138550000006;49.2091662,22.3314709">
+    <text>Cisna, stacja kolejki - Odejscie sciezki przyrodniczej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2096342" lon="22.3298547">
+      <ele>553</ele>
+      <time>2022-01-18T00:59:40Z</time>
+    </trkpt>
+    <trkpt lat="49.2097467" lon="22.3305058">
+      <ele>555</ele>
+      <time>2022-01-18T01:00:39Z</time>
+    </trkpt>
+    <trkpt lat="49.2097238" lon="22.3308062">
+      <ele>558</ele>
+      <time>2022-01-18T01:01:05Z</time>
+    </trkpt>
+    <trkpt lat="49.2091662" lon="22.3314709">
+      <ele>566</ele>
+      <time>2022-01-18T01:02:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

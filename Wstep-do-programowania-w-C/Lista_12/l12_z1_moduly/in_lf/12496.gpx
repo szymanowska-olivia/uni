@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:03Z</time>
+    <bounds maxlat="54.0046255" maxlon="14.6964764" minlat="54.001194" minlon="14.6814825"/>
+  </metadata>
+  <wpt lat="54.001194" lon="14.681482">
+    <ele>9</ele>
+    <name>Miedzywodzie, ul. Wczasowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8598">
+      <text>Miedzywodzie, ul. Wczasowa</text>
+    </link>
+  </wpt>
+  <wpt lat="54.004626" lon="14.696476">
+    <ele>1</ele>
+    <name>Miedzywodzie</name>
+    <link href="https://mapa-turystyczna.pl/node/8549">
+      <text>Miedzywodzie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzywodzie, ul. Wczasowa - Miedzywodzie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.001194,14.6814825;54.002425168207374,14.686683750000027;54.0046255,14.6964764">
+    <text>Miedzywodzie, ul. Wczasowa - Miedzywodzie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.001194" lon="14.6814825">
+      <ele>9</ele>
+      <time>2022-01-17T23:51:03Z</time>
+    </trkpt>
+    <trkpt lat="54.0036563" lon="14.691885">
+      <ele>6</ele>
+      <time>2022-01-18T00:01:30Z</time>
+    </trkpt>
+    <trkpt lat="54.0046255" lon="14.6964764">
+      <ele>1</ele>
+      <time>2022-01-18T00:06:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

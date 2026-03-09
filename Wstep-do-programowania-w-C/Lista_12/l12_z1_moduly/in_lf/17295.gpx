@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:06Z</time>
+    <bounds maxlat="50.6766093" maxlon="15.9239531" minlat="50.6752012" minlon="15.9210272"/>
+  </metadata>
+  <wpt lat="50.676609" lon="15.923953">
+    <ele>595</ele>
+    <name>Cerna voda</name>
+    <link href="https://mapa-turystyczna.pl/node/2399">
+      <text>Cerna voda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.675201" lon="15.921027">
+    <ele>592</ele>
+    <name>Zacler, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/11768">
+      <text>Zacler, odb.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerna voda - Zacler, odb.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6766093,15.9239531;50.67622770155128,15.923017000000005;50.6752012,15.9210272">
+    <text>Cerna voda - Zacler, odb.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6766093" lon="15.9239531">
+      <ele>595</ele>
+      <time>2022-01-18T01:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6758461" lon="15.9220809">
+      <ele>591</ele>
+      <time>2022-01-18T01:14:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6754365" lon="15.9212816">
+      <ele>592</ele>
+      <time>2022-01-18T01:15:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6752012" lon="15.9210272">
+      <ele>592</ele>
+      <time>2022-01-18T01:16:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

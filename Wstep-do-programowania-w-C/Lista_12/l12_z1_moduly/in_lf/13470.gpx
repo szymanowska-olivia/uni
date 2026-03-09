@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:00Z</time>
+    <bounds maxlat="49.9803889" maxlon="18.9491504" minlat="49.9786996" minlon="18.9457336"/>
+  </metadata>
+  <wpt lat="49.980389" lon="18.945734">
+    <ele>250</ele>
+    <name>Pszczyna, ul. Katowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/9286">
+      <text>Pszczyna, ul. Katowicka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.9787" lon="18.94915">
+    <ele>248</ele>
+    <name>Pszczyna, Stary Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/9307">
+      <text>Pszczyna, Stary Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pszczyna, ul. Katowicka - Pszczyna, Stary Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9803889,18.9457336;49.97990750109503,18.94686820000003;49.9786996,18.9491504">
+    <text>Pszczyna, ul. Katowicka - Pszczyna, Stary Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9803889" lon="18.9457336">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9802321" lon="18.946098">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9795829" lon="18.9476384">
+      <ele>246</ele>
+      <time>2022-01-18T00:10:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9794346" lon="18.9479174">
+      <ele>247</ele>
+      <time>2022-01-18T00:11:01Z</time>
+    </trkpt>
+    <trkpt lat="49.9793311" lon="18.9480515">
+      <ele>248</ele>
+      <time>2022-01-18T00:11:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9791724" lon="18.9481964">
+      <ele>249</ele>
+      <time>2022-01-18T00:11:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9790345" lon="18.9482983">
+      <ele>249</ele>
+      <time>2022-01-18T00:11:51Z</time>
+    </trkpt>
+    <trkpt lat="49.9789423" lon="18.9484274">
+      <ele>249</ele>
+      <time>2022-01-18T00:12:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9788388" lon="18.9486742">
+      <ele>248</ele>
+      <time>2022-01-18T00:12:24Z</time>
+    </trkpt>
+    <trkpt lat="49.9786996" lon="18.9491504">
+      <ele>248</ele>
+      <time>2022-01-18T00:13:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

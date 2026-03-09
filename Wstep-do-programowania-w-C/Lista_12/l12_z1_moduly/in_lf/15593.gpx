@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:50Z</time>
+    <bounds maxlat="49.9574757" maxlon="20.9151081" minlat="49.9565024" minlon="20.9016287"/>
+  </metadata>
+  <wpt lat="49.957476" lon="20.915108">
+    <ele>249</ele>
+    <name>Osicze</name>
+    <link href="https://mapa-turystyczna.pl/node/10634">
+      <text>Osicze</text>
+    </link>
+  </wpt>
+  <wpt lat="49.956732" lon="20.901629">
+    <ele>260</ele>
+    <name>Blonie</name>
+    <link href="https://mapa-turystyczna.pl/node/3615">
+      <text>Blonie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Osicze - Blonie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9574757,20.9151081;49.956923901762636,20.907828650000013;49.9567319,20.9016287">
+    <text>Osicze - Blonie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9574757" lon="20.9151081">
+      <ele>249</ele>
+      <time>2022-01-18T00:41:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9573083" lon="20.9141922">
+      <ele>251</ele>
+      <time>2022-01-18T00:42:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9573083" lon="20.9128833">
+      <ele>250</ele>
+      <time>2022-01-18T00:44:19Z</time>
+    </trkpt>
+    <trkpt lat="49.9573635" lon="20.9118748">
+      <ele>252</ele>
+      <time>2022-01-18T00:45:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9573359" lon="20.9112954">
+      <ele>253</ele>
+      <time>2022-01-18T00:46:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9565119" lon="20.9043619">
+      <ele>265</ele>
+      <time>2022-01-18T00:53:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9565024" lon="20.9036082">
+      <ele>261</ele>
+      <time>2022-01-18T00:54:38Z</time>
+    </trkpt>
+    <trkpt lat="49.9567319" lon="20.9016287">
+      <ele>260</ele>
+      <time>2022-01-18T00:56:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

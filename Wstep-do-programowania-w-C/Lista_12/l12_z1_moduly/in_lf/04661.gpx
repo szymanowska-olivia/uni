@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:10Z</time>
+    <bounds maxlat="50.6841231" maxlon="16.8856001" minlat="50.6840507" minlon="16.8851924"/>
+  </metadata>
+  <wpt lat="50.684066" lon="16.885192">
+    <ele>322</ele>
+    <name>Kawia Gora (Lysica)</name>
+    <link href="https://mapa-turystyczna.pl/node/2800">
+      <text>Kawia Gora (Lysica)</text>
+    </link>
+  </wpt>
+  <wpt lat="50.684111" lon="16.8856">
+    <ele>323</ele>
+    <name>Kawia Gora (wieza)</name>
+    <link href="https://mapa-turystyczna.pl/node/3248">
+      <text>Kawia Gora (wieza)</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kawia Gora (Lysica) - Kawia Gora (wieza)</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6840661,16.8851924;50.684083950003405,16.885420600000014;50.6841112,16.8856001">
+    <text>Kawia Gora (Lysica) - Kawia Gora (wieza)</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6840661" lon="16.8851924">
+      <ele>322</ele>
+      <time>2022-01-17T21:45:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6841231" lon="16.8852433">
+      <ele>322</ele>
+      <time>2022-01-17T21:45:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6841018" lon="16.8853761">
+      <ele>323</ele>
+      <time>2022-01-17T21:45:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6840661" lon="16.8854651">
+      <ele>323</ele>
+      <time>2022-01-17T21:45:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6840507" lon="16.8855648">
+      <ele>323</ele>
+      <time>2022-01-17T21:45:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6841112" lon="16.8856001">
+      <ele>323</ele>
+      <time>2022-01-17T21:46:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

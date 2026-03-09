@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:54Z</time>
+    <bounds maxlat="50.8449132" maxlon="16.3041791" minlat="50.8417096" minlon="16.2985504"/>
+  </metadata>
+  <wpt lat="50.844913" lon="16.304179">
+    <ele>384</ele>
+    <name>Dolina Rozanecznikow</name>
+    <link href="https://mapa-turystyczna.pl/node/7322">
+      <text>Dolina Rozanecznikow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.84175" lon="16.29855">
+    <ele>415</ele>
+    <name>Stado Ogierow</name>
+    <link href="https://mapa-turystyczna.pl/node/2598">
+      <text>Stado Ogierow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Rozanecznikow - Stado Ogierow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8449132,16.3041791;50.843273803297365,16.30153029999999;50.8417503,16.2985504">
+    <text>Dolina Rozanecznikow - Stado Ogierow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8449132" lon="16.3041791">
+      <ele>384</ele>
+      <time>2022-01-17T23:15:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8448091" lon="16.3040168">
+      <ele>385</ele>
+      <time>2022-01-17T23:16:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8438285" lon="16.3023967">
+      <ele>390</ele>
+      <time>2022-01-17T23:19:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8427191" lon="16.3006639">
+      <ele>403</ele>
+      <time>2022-01-17T23:22:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8417096" lon="16.2990492">
+      <ele>412</ele>
+      <time>2022-01-17T23:25:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8417503" lon="16.2985504">
+      <ele>415</ele>
+      <time>2022-01-17T23:25:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

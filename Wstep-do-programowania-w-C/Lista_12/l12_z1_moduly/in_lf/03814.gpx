@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:57Z</time>
+    <bounds maxlat="50.256744" maxlon="17.4288225" minlat="50.2561815" minlon="17.4279481"/>
+  </metadata>
+  <wpt lat="50.256181" lon="17.427948">
+    <ele>870</ele>
+    <name>Biskupia Kopa, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/2675">
+      <text>Biskupia Kopa, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.256744" lon="17.428822">
+    <ele>891</ele>
+    <name>Biskupia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2638">
+      <text>Biskupia Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Biskupia Kopa, odejscie szlaku niebieskiego - Biskupia Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2561815,17.4279481;50.256485350104846,17.428502100000003;50.256744,17.4288225">
+    <text>Biskupia Kopa, odejscie szlaku niebieskiego - Biskupia Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2561815" lon="17.4279481">
+      <ele>870</ele>
+      <time>2022-01-17T21:34:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2563031" lon="17.4281843">
+      <ele>877</ele>
+      <time>2022-01-17T21:35:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2563854" lon="17.4284096">
+      <ele>883</ele>
+      <time>2022-01-17T21:36:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2565853" lon="17.4285946">
+      <ele>888</ele>
+      <time>2022-01-17T21:37:10Z</time>
+    </trkpt>
+    <trkpt lat="50.256744" lon="17.4288225">
+      <ele>891</ele>
+      <time>2022-01-17T21:37:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

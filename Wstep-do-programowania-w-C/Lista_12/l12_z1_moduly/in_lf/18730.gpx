@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:09Z</time>
+    <bounds maxlat="51.9108937" maxlon="15.4444606" minlat="51.9098496" minlon="15.439986"/>
+  </metadata>
+  <wpt lat="51.910894" lon="15.439986">
+    <ele>204</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12678">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.910866" lon="15.444461">
+    <ele>213</ele>
+    <name>Sloneczna Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/12511">
+      <text>Sloneczna Polana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Sloneczna Polana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9108937,15.439986;51.91012760086046,15.44168935;51.9108665,15.4444606">
+    <text>Rozejscie szlakow czerwony / czarny - Sloneczna Polana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9108937" lon="15.439986">
+      <ele>204</ele>
+      <time>2022-01-18T01:36:09Z</time>
+    </trkpt>
+    <trkpt lat="51.9104519" lon="15.4404931">
+      <ele>206</ele>
+      <time>2022-01-18T01:36:54Z</time>
+    </trkpt>
+    <trkpt lat="51.9098496" lon="15.4411905">
+      <ele>205</ele>
+      <time>2022-01-18T01:37:55Z</time>
+    </trkpt>
+    <trkpt lat="51.9104056" lon="15.4421882">
+      <ele>216</ele>
+      <time>2022-01-18T01:39:04Z</time>
+    </trkpt>
+    <trkpt lat="51.9108689" lon="15.4437654">
+      <ele>217</ele>
+      <time>2022-01-18T01:40:33Z</time>
+    </trkpt>
+    <trkpt lat="51.9108755" lon="15.4440229">
+      <ele>215</ele>
+      <time>2022-01-18T01:40:47Z</time>
+    </trkpt>
+    <trkpt lat="51.9108665" lon="15.4444606">
+      <ele>213</ele>
+      <time>2022-01-18T01:41:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

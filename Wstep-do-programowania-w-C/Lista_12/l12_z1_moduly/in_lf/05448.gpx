@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:55Z</time>
+    <bounds maxlat="49.728867" maxlon="19.679331" minlat="49.727097" minlon="19.678509"/>
+  </metadata>
+  <wpt lat="49.728867" lon="19.679331">
+    <ele>361</ele>
+    <name>Makow Podhalanski, ul. 3 Maja</name>
+    <link href="https://mapa-turystyczna.pl/node/3842">
+      <text>Makow Podhalanski, ul. 3 Maja</text>
+    </link>
+  </wpt>
+  <wpt lat="49.727097" lon="19.678509">
+    <ele>374</ele>
+    <name>Makow Podhalanski</name>
+    <link href="https://mapa-turystyczna.pl/node/597">
+      <text>Makow Podhalanski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Makow Podhalanski, ul. 3 Maja - Makow Podhalanski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.728867,19.679331;49.72809200032638,19.678942999999983;49.727097,19.678509">
+    <text>Makow Podhalanski, ul. 3 Maja - Makow Podhalanski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.728867" lon="19.679331">
+      <ele>361</ele>
+      <time>2022-01-17T21:55:55Z</time>
+    </trkpt>
+    <trkpt lat="49.728701" lon="19.679249">
+      <ele>362</ele>
+      <time>2022-01-17T21:56:23Z</time>
+    </trkpt>
+    <trkpt lat="49.72827" lon="19.679025">
+      <ele>364</ele>
+      <time>2022-01-17T21:57:37Z</time>
+    </trkpt>
+    <trkpt lat="49.727914" lon="19.678861">
+      <ele>367</ele>
+      <time>2022-01-17T21:58:37Z</time>
+    </trkpt>
+    <trkpt lat="49.727162" lon="19.678521">
+      <ele>373</ele>
+      <time>2022-01-17T22:00:44Z</time>
+    </trkpt>
+    <trkpt lat="49.727097" lon="19.678509">
+      <ele>374</ele>
+      <time>2022-01-17T22:00:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

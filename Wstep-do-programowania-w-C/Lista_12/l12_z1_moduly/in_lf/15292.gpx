@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:40Z</time>
+    <bounds maxlat="51.5353229" maxlon="17.2731885" minlat="51.5341678" minlon="17.2720083"/>
+  </metadata>
+  <wpt lat="51.534168" lon="17.273188">
+    <ele>104</ele>
+    <name>Milicz, most na Baryczy</name>
+    <link href="https://mapa-turystyczna.pl/node/10430">
+      <text>Milicz, most na Baryczy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.535323" lon="17.272008">
+    <ele>106</ele>
+    <name>Milicz, ul. Krucza</name>
+    <link href="https://mapa-turystyczna.pl/node/10431">
+      <text>Milicz, ul. Krucza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Milicz, most na Baryczy - Milicz, ul. Krucza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5341678,17.2731885;51.53474535366405,17.272598399999993;51.5353229,17.2720083">
+    <text>Milicz, most na Baryczy - Milicz, ul. Krucza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5341678" lon="17.2731885">
+      <ele>104</ele>
+      <time>2022-01-18T00:36:40Z</time>
+    </trkpt>
+    <trkpt lat="51.5353229" lon="17.2720083">
+      <ele>106</ele>
+      <time>2022-01-18T00:38:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

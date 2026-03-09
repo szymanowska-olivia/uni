@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:04Z</time>
+    <bounds maxlat="50.4550129" maxlon="18.159627" minlat="50.4545717" minlon="18.1593703"/>
+  </metadata>
+  <wpt lat="50.454572" lon="18.159627">
+    <ele>318</ele>
+    <name>Gora Swietej Anny, amfiteatr</name>
+    <link href="https://mapa-turystyczna.pl/node/9986">
+      <text>Gora Swietej Anny, amfiteatr</text>
+    </link>
+  </wpt>
+  <wpt lat="50.455013" lon="18.15937">
+    <ele>319</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12757">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Swietej Anny, amfiteatr - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4545717,18.159627;50.45476280007404,18.15951919999997;50.4550129,18.1593703">
+    <text>Gora Swietej Anny, amfiteatr - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4545717" lon="18.159627">
+      <ele>318</ele>
+      <time>2022-01-18T01:38:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4546791" lon="18.159605">
+      <ele>318</ele>
+      <time>2022-01-18T01:38:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4548465" lon="18.1594334">
+      <ele>319</ele>
+      <time>2022-01-18T01:38:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4550104" lon="18.1593744">
+      <ele>319</ele>
+      <time>2022-01-18T01:39:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4550129" lon="18.1593703">
+      <ele>319</ele>
+      <time>2022-01-18T01:39:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

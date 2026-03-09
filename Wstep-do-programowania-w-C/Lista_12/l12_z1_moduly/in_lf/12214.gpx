@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:46:43Z</time>
+    <bounds maxlat="51.1757486" maxlon="20.6372166" minlat="51.1710023" minlon="20.6241467"/>
+  </metadata>
+  <wpt lat="51.171002" lon="20.637217">
+    <ele>326</ele>
+    <name>Nadziejow</name>
+    <link href="https://mapa-turystyczna.pl/node/7276">
+      <text>Nadziejow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.175749" lon="20.624147">
+    <ele>284</ele>
+    <name>Nieklan</name>
+    <link href="https://mapa-turystyczna.pl/node/8423">
+      <text>Nieklan</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nadziejow - Nieklan</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1710023,20.6372166;51.17361765015891,20.63033935;51.1757486,20.6241467">
+    <text>Nadziejow - Nieklan</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1710023" lon="20.6372166">
+      <ele>326</ele>
+      <time>2022-01-17T23:46:43Z</time>
+    </trkpt>
+    <trkpt lat="51.1710077" lon="20.6372166">
+      <ele>326</ele>
+      <time>2022-01-17T23:46:43Z</time>
+    </trkpt>
+    <trkpt lat="51.1722454" lon="20.6342769">
+      <ele>316</ele>
+      <time>2022-01-17T23:50:04Z</time>
+    </trkpt>
+    <trkpt lat="51.1728777" lon="20.6328177">
+      <ele>307</ele>
+      <time>2022-01-17T23:51:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1734966" lon="20.63241">
+      <ele>304</ele>
+      <time>2022-01-17T23:52:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1737387" lon="20.6282687">
+      <ele>297</ele>
+      <time>2022-01-17T23:56:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1741154" lon="20.6276035">
+      <ele>298</ele>
+      <time>2022-01-17T23:57:31Z</time>
+    </trkpt>
+    <trkpt lat="51.1747074" lon="20.6264019">
+      <ele>300</ele>
+      <time>2022-01-17T23:58:58Z</time>
+    </trkpt>
+    <trkpt lat="51.1750975" lon="20.6258225">
+      <ele>294</ele>
+      <time>2022-01-17T23:59:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1753531" lon="20.6256294">
+      <ele>288</ele>
+      <time>2022-01-18T00:00:12Z</time>
+    </trkpt>
+    <trkpt lat="51.1757486" lon="20.6241467">
+      <ele>284</ele>
+      <time>2022-01-18T00:01:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

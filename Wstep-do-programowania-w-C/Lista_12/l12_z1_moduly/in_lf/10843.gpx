@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:23:39Z</time>
+    <bounds maxlat="49.547512" maxlon="18.2130159" minlat="49.5472153" minlon="18.2121617"/>
+  </metadata>
+  <wpt lat="49.547512" lon="18.212162">
+    <ele>399</ele>
+    <name>Frenstat pod Radhostem</name>
+    <link href="https://mapa-turystyczna.pl/node/7600">
+      <text>Frenstat pod Radhostem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.547215" lon="18.213016">
+    <ele>400</ele>
+    <name>Frenstat pod Radhostem, u Kycery</name>
+    <link href="https://mapa-turystyczna.pl/node/7643">
+      <text>Frenstat pod Radhostem, u Kycery</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Frenstat pod Radhostem - Frenstat pod Radhostem, u Kycery</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.547512,18.2121617;49.54733640015009,18.212712149999977;49.5472153,18.2130159">
+    <text>Frenstat pod Radhostem - Frenstat pod Radhostem, u Kycery</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.547512" lon="18.2121617">
+      <ele>399</ele>
+      <time>2022-01-17T23:23:39Z</time>
+    </trkpt>
+    <trkpt lat="49.5474575" lon="18.2124084">
+      <ele>400</ele>
+      <time>2022-01-17T23:23:55Z</time>
+    </trkpt>
+    <trkpt lat="49.5472153" lon="18.2130159">
+      <ele>400</ele>
+      <time>2022-01-17T23:24:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:24Z</time>
+    <bounds maxlat="50.7743923" maxlon="15.6118191" minlat="50.7723436" minlon="15.6101309"/>
+  </metadata>
+  <wpt lat="50.774392" lon="15.610131">
+    <ele>1316</ele>
+    <name>Nad Petrovou Boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1236">
+      <text>Nad Petrovou Boudou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.772344" lon="15.611819">
+    <ele>1283</ele>
+    <name>Petrova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1258">
+      <text>Petrova bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Petrovou Boudou - Petrova bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7743923,15.6101309;50.77317805307053,15.611412700000006;50.7723436,15.6118191">
+    <text>Nad Petrovou Boudou - Petrova bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7743923" lon="15.6101309">
+      <ele>1316</ele>
+      <time>2022-01-17T21:04:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7740803" lon="15.6106424">
+      <ele>1311</ele>
+      <time>2022-01-17T21:05:21Z</time>
+    </trkpt>
+    <trkpt lat="50.773714" lon="15.6110269">
+      <ele>1303</ele>
+      <time>2022-01-17T21:06:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7726421" lon="15.6117985">
+      <ele>1286</ele>
+      <time>2022-01-17T21:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7723436" lon="15.6118191">
+      <ele>1283</ele>
+      <time>2022-01-17T21:09:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

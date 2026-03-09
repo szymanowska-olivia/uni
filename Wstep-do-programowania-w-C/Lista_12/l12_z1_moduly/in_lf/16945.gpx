@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:30Z</time>
+    <bounds maxlat="52.3660815" maxlon="21.0823931" minlat="52.3651927" minlon="21.0748147"/>
+  </metadata>
+  <wpt lat="52.366081" lon="21.082393">
+    <ele>87</ele>
+    <name>Rezerwat Puszcza Slupecka</name>
+    <link href="https://mapa-turystyczna.pl/node/11590">
+      <text>Rezerwat Puszcza Slupecka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.365193" lon="21.074815">
+    <ele>84</ele>
+    <name>Rezerwat Legi Czarnej Strugi</name>
+    <link href="https://mapa-turystyczna.pl/node/11425">
+      <text>Rezerwat Legi Czarnej Strugi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Puszcza Slupecka - Rezerwat Legi Czarnej Strugi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3660815,21.0823931;52.36547900092769,21.078224599999995;52.3651927,21.0748147">
+    <text>Rezerwat Puszcza Slupecka - Rezerwat Legi Czarnej Strugi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3660815" lon="21.0823931">
+      <ele>87</ele>
+      <time>2022-01-18T01:05:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3657653" lon="21.0816345">
+      <ele>89</ele>
+      <time>2022-01-18T01:06:41Z</time>
+    </trkpt>
+    <trkpt lat="52.3651927" lon="21.0748147">
+      <ele>84</ele>
+      <time>2022-01-18T01:15:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

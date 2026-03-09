@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:49Z</time>
+    <bounds maxlat="52.2583858" maxlon="16.7673991" minlat="52.2560915" minlon="16.7535368"/>
+  </metadata>
+  <wpt lat="52.256091" lon="16.753537">
+    <ele>72</ele>
+    <name>Jezioro Lodzko-Dymaczewskie</name>
+    <link href="https://mapa-turystyczna.pl/node/10264">
+      <text>Jezioro Lodzko-Dymaczewskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.258386" lon="16.767399">
+    <ele>78</ele>
+    <name>Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11859">
+      <text>Gorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Lodzko-Dymaczewskie - Gorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2560915,16.7535368;52.25733130031631,16.761158850000005;52.2583858,16.7673991">
+    <text>Jezioro Lodzko-Dymaczewskie - Gorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2560915" lon="16.7535368">
+      <ele>72</ele>
+      <time>2022-01-18T01:13:49Z</time>
+    </trkpt>
+    <trkpt lat="52.2563692" lon="16.7551963">
+      <ele>87</ele>
+      <time>2022-01-18T01:15:38Z</time>
+    </trkpt>
+    <trkpt lat="52.2571638" lon="16.7601369">
+      <ele>84</ele>
+      <time>2022-01-18T01:20:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2574988" lon="16.7621808">
+      <ele>80</ele>
+      <time>2022-01-18T01:23:10Z</time>
+    </trkpt>
+    <trkpt lat="52.2582555" lon="16.7667617">
+      <ele>77</ele>
+      <time>2022-01-18T01:28:07Z</time>
+    </trkpt>
+    <trkpt lat="52.2583409" lon="16.767266">
+      <ele>78</ele>
+      <time>2022-01-18T01:28:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2583858" lon="16.7673991">
+      <ele>78</ele>
+      <time>2022-01-18T01:28:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

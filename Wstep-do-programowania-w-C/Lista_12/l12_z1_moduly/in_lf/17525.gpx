@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:49Z</time>
+    <bounds maxlat="50.8396705" maxlon="16.2986199" minlat="50.8394131" minlon="16.296324"/>
+  </metadata>
+  <wpt lat="50.839413" lon="16.29862">
+    <ele>431</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11887">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.83967" lon="16.296324">
+    <ele>396</ele>
+    <name>Punkt widokowy na Zamek Ksiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/11888">
+      <text>Punkt widokowy na Zamek Ksiaz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Punkt widokowy na Zamek Ksiaz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8394131,16.2986199;50.839477900003075,16.297238949999997;50.8396705,16.296324">
+    <text>Odejscie na punkt widokowy - Punkt widokowy na Zamek Ksiaz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8394131" lon="16.2986199">
+      <ele>431</ele>
+      <time>2022-01-18T01:14:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8394339" lon="16.2978451">
+      <ele>425</ele>
+      <time>2022-01-18T01:15:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8394135" lon="16.2975983">
+      <ele>421</ele>
+      <time>2022-01-18T01:16:01Z</time>
+    </trkpt>
+    <trkpt lat="50.839461" lon="16.2973516">
+      <ele>419</ele>
+      <time>2022-01-18T01:16:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8394948" lon="16.2971263">
+      <ele>415</ele>
+      <time>2022-01-18T01:16:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8394745" lon="16.2969117">
+      <ele>410</ele>
+      <time>2022-01-18T01:16:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8394542" lon="16.2965898">
+      <ele>402</ele>
+      <time>2022-01-18T01:17:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8394813" lon="16.2964718">
+      <ele>399</ele>
+      <time>2022-01-18T01:17:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8395423" lon="16.2963967">
+      <ele>398</ele>
+      <time>2022-01-18T01:17:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8396705" lon="16.296324">
+      <ele>396</ele>
+      <time>2022-01-18T01:17:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

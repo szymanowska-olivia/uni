@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:38Z</time>
+    <bounds maxlat="50.5948707" maxlon="16.884668" minlat="50.5928428" minlon="16.8816948"/>
+  </metadata>
+  <wpt lat="50.594871" lon="16.881695">
+    <ele>321</ele>
+    <name>Skrzyzowanie pod Gora Wapienna</name>
+    <link href="https://mapa-turystyczna.pl/node/2789">
+      <text>Skrzyzowanie pod Gora Wapienna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.592843" lon="16.884632">
+    <ele>310</ele>
+    <name>Stolec</name>
+    <link href="https://mapa-turystyczna.pl/node/2790">
+      <text>Stolec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Gora Wapienna - Stolec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5948707,16.8816948;50.59415705017499,16.884205349999984;50.5928428,16.8846318">
+    <text>Skrzyzowanie pod Gora Wapienna - Stolec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5948707" lon="16.8816948">
+      <ele>321</ele>
+      <time>2022-01-17T21:36:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5945897" lon="16.8826443">
+      <ele>319</ele>
+      <time>2022-01-17T21:37:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5942854" lon="16.8837923">
+      <ele>319</ele>
+      <time>2022-01-17T21:38:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5940287" lon="16.8846184">
+      <ele>317</ele>
+      <time>2022-01-17T21:39:47Z</time>
+    </trkpt>
+    <trkpt lat="50.593854" lon="16.884603">
+      <ele>315</ele>
+      <time>2022-01-17T21:40:04Z</time>
+    </trkpt>
+    <trkpt lat="50.5930594" lon="16.884668">
+      <ele>309</ele>
+      <time>2022-01-17T21:41:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5928428" lon="16.8846318">
+      <ele>310</ele>
+      <time>2022-01-17T21:41:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:25Z</time>
+    <bounds maxlat="50.6891276" maxlon="15.7632995" minlat="50.688816" minlon="15.7628173"/>
+  </metadata>
+  <wpt lat="50.689128" lon="15.7633">
+    <ele>709</ele>
+    <name>Velka Upa</name>
+    <link href="https://mapa-turystyczna.pl/node/1426">
+      <text>Velka Upa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.688816" lon="15.762817">
+    <ele>714</ele>
+    <name>Javori Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/9318">
+      <text>Javori Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Upa - Javori Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6891276,15.7632995;50.68885955000156,15.763101000000033;50.688816,15.7628173">
+    <text>Velka Upa - Javori Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6891276" lon="15.7632995">
+      <ele>709</ele>
+      <time>2022-01-18T00:08:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6888717" lon="15.7632673">
+      <ele>709</ele>
+      <time>2022-01-18T00:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6888474" lon="15.7629347">
+      <ele>712</ele>
+      <time>2022-01-18T00:09:16Z</time>
+    </trkpt>
+    <trkpt lat="50.688816" lon="15.7628173">
+      <ele>714</ele>
+      <time>2022-01-18T00:09:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

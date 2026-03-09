@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:58Z</time>
+    <bounds maxlat="50.6696359" maxlon="15.7186225" minlat="50.6695804" minlon="15.7180131"/>
+  </metadata>
+  <wpt lat="50.669636" lon="15.718623">
+    <ele>1068</ele>
+    <name>Hrncirske Boudy, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7989">
+      <text>Hrncirske Boudy, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.66958" lon="15.718013">
+    <ele>1062</ele>
+    <name>Hrncirske Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1138">
+      <text>Hrncirske Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hrncirske Boudy, rozc. - Hrncirske Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6696359,15.7186225;50.669624750001354,15.718411650000021;50.6695804,15.7180131">
+    <text>Hrncirske Boudy, rozc. - Hrncirske Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6696359" lon="15.7186225">
+      <ele>1068</ele>
+      <time>2022-01-17T23:32:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6696136" lon="15.7182008">
+      <ele>1064</ele>
+      <time>2022-01-17T23:33:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6695804" lon="15.7180131">
+      <ele>1062</ele>
+      <time>2022-01-17T23:33:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:40Z</time>
+    <bounds maxlat="52.1060762" maxlon="21.2897633" minlat="52.1048882" minlon="21.2882544"/>
+  </metadata>
+  <wpt lat="52.104888" lon="21.288254">
+    <ele>104</ele>
+    <name>Otwock, Dom Pomocy Spolecznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12893">
+      <text>Otwock, Dom Pomocy Spolecznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.106076" lon="21.289763">
+    <ele>107</ele>
+    <name>Otwock, ul. Krasinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12894">
+      <text>Otwock, ul. Krasinskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, Dom Pomocy Spolecznej - Otwock, ul. Krasinskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1048882,21.2882544;52.10535030077905,21.28894839999999;52.1060762,21.2897633">
+    <text>Otwock, Dom Pomocy Spolecznej - Otwock, ul. Krasinskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1048882" lon="21.2882544">
+      <ele>104</ele>
+      <time>2022-01-18T01:41:40Z</time>
+    </trkpt>
+    <trkpt lat="52.1050867" lon="21.2886775">
+      <ele>105</ele>
+      <time>2022-01-18T01:42:19Z</time>
+    </trkpt>
+    <trkpt lat="52.1056139" lon="21.2892193">
+      <ele>105</ele>
+      <time>2022-01-18T01:43:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1059895" lon="21.2897182">
+      <ele>106</ele>
+      <time>2022-01-18T01:44:29Z</time>
+    </trkpt>
+    <trkpt lat="52.1060762" lon="21.2897633">
+      <ele>107</ele>
+      <time>2022-01-18T01:44:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

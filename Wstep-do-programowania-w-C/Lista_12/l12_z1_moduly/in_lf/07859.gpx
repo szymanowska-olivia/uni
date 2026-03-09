@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:28:29Z</time>
+    <bounds maxlat="48.8775584" maxlon="19.0399718" minlat="48.8763553" minlon="19.0395689"/>
+  </metadata>
+  <wpt lat="48.877558" lon="19.039814">
+    <ele>1260</ele>
+    <name>Kralova studna, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5476">
+      <text>Kralova studna, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.876355" lon="19.039972">
+    <ele>1264</ele>
+    <name>Kralova studna, hotel</name>
+    <link href="https://mapa-turystyczna.pl/node/5474">
+      <text>Kralova studna, hotel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralova studna, razc. - Kralova studna, hotel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8775584,19.0398136;48.8768761000646,19.039586049999997;48.8763553,19.0399718">
+    <text>Kralova studna, razc. - Kralova studna, hotel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8775584" lon="19.0398136">
+      <ele>1260</ele>
+      <time>2022-01-17T22:28:29Z</time>
+    </trkpt>
+    <trkpt lat="48.8774839" lon="19.0398766">
+      <ele>1260</ele>
+      <time>2022-01-17T22:28:40Z</time>
+    </trkpt>
+    <trkpt lat="48.8773902" lon="19.0398706">
+      <ele>1261</ele>
+      <time>2022-01-17T22:28:53Z</time>
+    </trkpt>
+    <trkpt lat="48.877174" lon="19.0397013">
+      <ele>1260</ele>
+      <time>2022-01-17T22:29:25Z</time>
+    </trkpt>
+    <trkpt lat="48.8769565" lon="19.0396032">
+      <ele>1262</ele>
+      <time>2022-01-17T22:29:55Z</time>
+    </trkpt>
+    <trkpt lat="48.8767957" lon="19.0395689">
+      <ele>1261</ele>
+      <time>2022-01-17T22:30:17Z</time>
+    </trkpt>
+    <trkpt lat="48.8766596" lon="19.039599">
+      <ele>1261</ele>
+      <time>2022-01-17T22:30:35Z</time>
+    </trkpt>
+    <trkpt lat="48.8765445" lon="19.0396607">
+      <ele>1262</ele>
+      <time>2022-01-17T22:30:51Z</time>
+    </trkpt>
+    <trkpt lat="48.876484" lon="19.0397224">
+      <ele>1262</ele>
+      <time>2022-01-17T22:31:01Z</time>
+    </trkpt>
+    <trkpt lat="48.8764305" lon="19.0398002">
+      <ele>1263</ele>
+      <time>2022-01-17T22:31:11Z</time>
+    </trkpt>
+    <trkpt lat="48.8763553" lon="19.0399718">
+      <ele>1264</ele>
+      <time>2022-01-17T22:31:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

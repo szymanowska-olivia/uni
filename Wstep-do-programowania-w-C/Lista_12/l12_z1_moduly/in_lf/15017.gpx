@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:05Z</time>
+    <bounds maxlat="52.2967877" maxlon="16.7685927" minlat="52.2966237" minlon="16.7679061"/>
+  </metadata>
+  <wpt lat="52.296624" lon="16.767906">
+    <ele>89</ele>
+    <name>Trzebaw Rosnowko, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10232">
+      <text>Trzebaw Rosnowko, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.296788" lon="16.768593">
+    <ele>89</ele>
+    <name>Trzebaw Rosnowko</name>
+    <link href="https://mapa-turystyczna.pl/node/10231">
+      <text>Trzebaw Rosnowko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebaw Rosnowko, stacja kolejowa - Trzebaw Rosnowko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2966237,16.7679061;52.29670570007591,16.76824940000003;52.2967877,16.7685927">
+    <text>Trzebaw Rosnowko, stacja kolejowa - Trzebaw Rosnowko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2966237" lon="16.7679061">
+      <ele>89</ele>
+      <time>2022-01-18T00:32:05Z</time>
+    </trkpt>
+    <trkpt lat="52.2967877" lon="16.7685927">
+      <ele>89</ele>
+      <time>2022-01-18T00:33:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

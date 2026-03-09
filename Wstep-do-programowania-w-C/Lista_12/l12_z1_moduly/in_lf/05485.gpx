@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:29Z</time>
+    <bounds maxlat="49.41903" maxlon="19.097358" minlat="49.418906" minlon="19.094779"/>
+  </metadata>
+  <wpt lat="49.419025" lon="19.094779">
+    <ele>1147</ele>
+    <name>Hala Rycerzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3860">
+      <text>Hala Rycerzowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.418943" lon="19.097358">
+    <ele>1117</ele>
+    <name>Bacowka PTTK Na Rycerzowej</name>
+    <link href="https://mapa-turystyczna.pl/node/558">
+      <text>Bacowka PTTK Na Rycerzowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hala Rycerzowa - Bacowka PTTK Na Rycerzowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.419025,19.094779;49.41891850000072,19.096200500000005;49.418943,19.097358">
+    <text>Hala Rycerzowa - Bacowka PTTK Na Rycerzowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.419025" lon="19.094779">
+      <ele>1147</ele>
+      <time>2022-01-17T21:56:29Z</time>
+    </trkpt>
+    <trkpt lat="49.41903" lon="19.09518">
+      <ele>1146</ele>
+      <time>2022-01-17T21:56:56Z</time>
+    </trkpt>
+    <trkpt lat="49.41898" lon="19.095625">
+      <ele>1141</ele>
+      <time>2022-01-17T21:57:27Z</time>
+    </trkpt>
+    <trkpt lat="49.41891" lon="19.096057">
+      <ele>1133</ele>
+      <time>2022-01-17T21:57:59Z</time>
+    </trkpt>
+    <trkpt lat="49.418927" lon="19.096344">
+      <ele>1129</ele>
+      <time>2022-01-17T21:58:19Z</time>
+    </trkpt>
+    <trkpt lat="49.418934" lon="19.096585">
+      <ele>1126</ele>
+      <time>2022-01-17T21:58:35Z</time>
+    </trkpt>
+    <trkpt lat="49.418906" lon="19.096977">
+      <ele>1121</ele>
+      <time>2022-01-17T21:59:02Z</time>
+    </trkpt>
+    <trkpt lat="49.418943" lon="19.097358">
+      <ele>1117</ele>
+      <time>2022-01-17T21:59:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

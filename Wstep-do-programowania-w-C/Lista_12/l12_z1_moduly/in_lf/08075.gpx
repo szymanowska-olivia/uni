@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:33Z</time>
+    <bounds maxlat="50.1050516" maxlon="19.7079994" minlat="50.1021176" minlon="19.7070751"/>
+  </metadata>
+  <wpt lat="50.105052" lon="19.707999">
+    <ele>310</ele>
+    <name>Nielepice, odejscie do skaly z krzyzem</name>
+    <link href="https://mapa-turystyczna.pl/node/5636">
+      <text>Nielepice, odejscie do skaly z krzyzem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.102118" lon="19.707075">
+    <ele>302</ele>
+    <name>Nielepice, ul. Spacerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/5627">
+      <text>Nielepice, ul. Spacerowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nielepice, odejscie do skaly z krzyzem - Nielepice, ul. Spacerowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1050516,19.7079994;50.10355202095002,19.707833850000014;50.1021176,19.7070751">
+    <text>Nielepice, odejscie do skaly z krzyzem - Nielepice, ul. Spacerowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1050516" lon="19.7079994">
+      <ele>310</ele>
+      <time>2022-01-17T22:32:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1049687" lon="19.707917">
+      <ele>309</ele>
+      <time>2022-01-17T22:32:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1021353" lon="19.7077507">
+      <ele>301</ele>
+      <time>2022-01-17T22:36:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1021271" lon="19.7071177">
+      <ele>302</ele>
+      <time>2022-01-17T22:37:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1021176" lon="19.7070751">
+      <ele>302</ele>
+      <time>2022-01-17T22:37:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

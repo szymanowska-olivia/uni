@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:34Z</time>
+    <bounds maxlat="50.3219435" maxlon="16.4601394" minlat="50.3094586" minlon="16.4572736"/>
+  </metadata>
+  <wpt lat="50.321944" lon="16.457274">
+    <ele>781</ele>
+    <name>Pod Krzemionka</name>
+    <link href="https://mapa-turystyczna.pl/node/5941">
+      <text>Pod Krzemionka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.309459" lon="16.460139">
+    <ele>745</ele>
+    <name>Rozdroze nad Lasowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8035">
+      <text>Rozdroze nad Lasowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krzemionka - Rozdroze nad Lasowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3219435,16.4572736;50.31604239069853,16.45781480000001;50.3094586,16.4601394">
+    <text>Pod Krzemionka - Rozdroze nad Lasowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3219435" lon="16.4572736">
+      <ele>781</ele>
+      <time>2022-01-17T23:34:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3180095" lon="16.4576916">
+      <ele>762</ele>
+      <time>2022-01-17T23:42:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3140752" lon="16.457938">
+      <ele>737</ele>
+      <time>2022-01-17T23:49:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3123015" lon="16.457718">
+      <ele>729</ele>
+      <time>2022-01-17T23:53:03Z</time>
+    </trkpt>
+    <trkpt lat="50.31139" lon="16.4578454">
+      <ele>733</ele>
+      <time>2022-01-17T23:54:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3108059" lon="16.4583279">
+      <ele>735</ele>
+      <time>2022-01-17T23:56:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3106508" lon="16.4588051">
+      <ele>740</ele>
+      <time>2022-01-17T23:56:43Z</time>
+    </trkpt>
+    <trkpt lat="50.310327" lon="16.4592213">
+      <ele>746</ele>
+      <time>2022-01-17T23:57:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3100825" lon="16.4595845">
+      <ele>750</ele>
+      <time>2022-01-17T23:58:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3097079" lon="16.4598082">
+      <ele>749</ele>
+      <time>2022-01-17T23:58:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3094611" lon="16.4601353">
+      <ele>746</ele>
+      <time>2022-01-17T23:59:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3094586" lon="16.4601394">
+      <ele>745</ele>
+      <time>2022-01-17T23:59:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

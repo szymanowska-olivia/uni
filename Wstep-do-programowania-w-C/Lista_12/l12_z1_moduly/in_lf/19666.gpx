@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:30Z</time>
+    <bounds maxlat="51.4470881" maxlon="23.1409103" minlat="51.4453928" minlon="23.123698"/>
+  </metadata>
+  <wpt lat="51.447088" lon="23.14091">
+    <ele>177</ele>
+    <name>Szalowily</name>
+    <link href="https://mapa-turystyczna.pl/node/13269">
+      <text>Szalowily</text>
+    </link>
+  </wpt>
+  <wpt lat="51.445393" lon="23.123698">
+    <ele>175</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12863">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szalowily - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4470881,23.1409103;51.446808450157555,23.13136039999998;51.4453928,23.123698">
+    <text>Szalowily - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4470881" lon="23.1409103">
+      <ele>177</ele>
+      <time>2022-01-18T01:52:30Z</time>
+    </trkpt>
+    <trkpt lat="51.4468277" lon="23.1351807">
+      <ele>180</ele>
+      <time>2022-01-18T01:59:01Z</time>
+    </trkpt>
+    <trkpt lat="51.4469284" lon="23.1330345">
+      <ele>184</ele>
+      <time>2022-01-18T02:01:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4466885" lon="23.1296863">
+      <ele>179</ele>
+      <time>2022-01-18T02:05:18Z</time>
+    </trkpt>
+    <trkpt lat="51.4456461" lon="23.1252438">
+      <ele>175</ele>
+      <time>2022-01-18T02:10:41Z</time>
+    </trkpt>
+    <trkpt lat="51.4453928" lon="23.123698">
+      <ele>175</ele>
+      <time>2022-01-18T02:12:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

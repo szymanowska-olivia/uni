@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:03:09Z</time>
+    <bounds maxlat="50.6547833" maxlon="17.1115017" minlat="50.6537465" minlon="17.1076012"/>
+  </metadata>
+  <wpt lat="50.653746" lon="17.111502">
+    <ele>246</ele>
+    <name>Boznowice, wschod</name>
+    <link href="https://mapa-turystyczna.pl/node/4082">
+      <text>Boznowice, wschod</text>
+    </link>
+  </wpt>
+  <wpt lat="50.654783" lon="17.107601">
+    <ele>253</ele>
+    <name>Boznowice, zachod</name>
+    <link href="https://mapa-turystyczna.pl/node/2806">
+      <text>Boznowice, zachod</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Boznowice, wschod - Boznowice, zachod</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6537465,17.1115017;50.65413840014773,17.10959654999997;50.6547833,17.1076012">
+    <text>Boznowice, wschod - Boznowice, zachod</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6537465" lon="17.1115017">
+      <ele>246</ele>
+      <time>2022-01-17T22:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.653778" lon="17.1110764">
+      <ele>246</ele>
+      <time>2022-01-17T22:03:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6538719" lon="17.1105409">
+      <ele>248</ele>
+      <time>2022-01-17T22:04:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6540206" lon="17.1099611">
+      <ele>250</ele>
+      <time>2022-01-17T22:05:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6542562" lon="17.109232">
+      <ele>251</ele>
+      <time>2022-01-17T22:06:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6544798" lon="17.108443">
+      <ele>251</ele>
+      <time>2022-01-17T22:07:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6547213" lon="17.1078207">
+      <ele>252</ele>
+      <time>2022-01-17T22:07:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6547833" lon="17.1076012">
+      <ele>253</ele>
+      <time>2022-01-17T22:08:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

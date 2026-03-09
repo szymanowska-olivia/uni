@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:49Z</time>
+    <bounds maxlat="52.304489" maxlon="20.8678884" minlat="52.3025614" minlon="20.8671355"/>
+  </metadata>
+  <wpt lat="52.302561" lon="20.867135">
+    <ele>100</ele>
+    <name>Opalen, skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/4989">
+      <text>Opalen, skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.304489" lon="20.867888">
+    <ele>97</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12390">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Opalen, skrzyzowanie szlakow czerwony / zolty - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3025614,20.8671355;52.30352521048964,20.867511950000004;52.304489,20.8678884">
+    <text>Opalen, skrzyzowanie szlakow czerwony / zolty - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3025614" lon="20.8671355">
+      <ele>100</ele>
+      <time>2022-01-18T01:27:49Z</time>
+    </trkpt>
+    <trkpt lat="52.304489" lon="20.8678884">
+      <ele>97</ele>
+      <time>2022-01-18T01:30:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

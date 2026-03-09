@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:44Z</time>
+    <bounds maxlat="50.1815083" maxlon="19.3070287" minlat="50.1812012" minlon="19.3051536"/>
+  </metadata>
+  <wpt lat="50.181238" lon="19.305154">
+    <ele>327</ele>
+    <name>Pod Grodziskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/10593">
+      <text>Pod Grodziskiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.181508" lon="19.307029">
+    <ele>318</ele>
+    <name>Pod Grodziskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/10594">
+      <text>Pod Grodziskiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Grodziskiem - Pod Grodziskiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1812382,19.3051536;50.181226550001405,19.305719200000006;50.1815083,19.3070287">
+    <text>Pod Grodziskiem - Pod Grodziskiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1812382" lon="19.3051536">
+      <ele>327</ele>
+      <time>2022-01-18T00:40:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1812149" lon="19.3062848">
+      <ele>323</ele>
+      <time>2022-01-18T00:41:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1812012" lon="19.306392">
+      <ele>322</ele>
+      <time>2022-01-18T00:41:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1813111" lon="19.3066656">
+      <ele>322</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1815083" lon="19.3070287">
+      <ele>318</ele>
+      <time>2022-01-18T00:42:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

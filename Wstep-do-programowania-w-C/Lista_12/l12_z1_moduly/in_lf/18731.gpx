@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:10Z</time>
+    <bounds maxlat="51.8805607" maxlon="15.4898864" minlat="51.8743059" minlon="15.483216"/>
+  </metadata>
+  <wpt lat="51.880561" lon="15.489886">
+    <ele>94</ele>
+    <name>Skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11208">
+      <text>Skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="51.874306" lon="15.483216">
+    <ele>80</ele>
+    <name>Ochla, ogrodki dzialkowe</name>
+    <link href="https://mapa-turystyczna.pl/node/12681">
+      <text>Ochla, ogrodki dzialkowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zolty - Ochla, ogrodki dzialkowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8805607,15.4898864;51.878040854782,15.486865399999994;51.8743059,15.483216">
+    <text>Skrzyzowanie szlakow niebieski / zolty - Ochla, ogrodki dzialkowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8805607" lon="15.4898864">
+      <ele>94</ele>
+      <time>2022-01-18T01:36:10Z</time>
+    </trkpt>
+    <trkpt lat="51.8786966" lon="15.4876513">
+      <ele>90</ele>
+      <time>2022-01-18T01:40:48Z</time>
+    </trkpt>
+    <trkpt lat="51.8773851" lon="15.4860795">
+      <ele>90</ele>
+      <time>2022-01-18T01:44:03Z</time>
+    </trkpt>
+    <trkpt lat="51.8762028" lon="15.4847169">
+      <ele>83</ele>
+      <time>2022-01-18T01:46:57Z</time>
+    </trkpt>
+    <trkpt lat="51.8756928" lon="15.4841966">
+      <ele>82</ele>
+      <time>2022-01-18T01:48:09Z</time>
+    </trkpt>
+    <trkpt lat="51.8749642" lon="15.4836279">
+      <ele>82</ele>
+      <time>2022-01-18T01:49:46Z</time>
+    </trkpt>
+    <trkpt lat="51.8744012" lon="15.4832685">
+      <ele>81</ele>
+      <time>2022-01-18T01:50:58Z</time>
+    </trkpt>
+    <trkpt lat="51.8743059" lon="15.483216">
+      <ele>80</ele>
+      <time>2022-01-18T01:51:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

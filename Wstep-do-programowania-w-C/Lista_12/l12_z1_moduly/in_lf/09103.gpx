@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:02Z</time>
+    <bounds maxlat="50.2284952" maxlon="17.3947746" minlat="50.2263194" minlon="17.3911214"/>
+  </metadata>
+  <wpt lat="50.228495" lon="17.391121">
+    <ele>805</ele>
+    <name>Vyr</name>
+    <link href="https://mapa-turystyczna.pl/node/6334">
+      <text>Vyr</text>
+    </link>
+  </wpt>
+  <wpt lat="50.226319" lon="17.394775">
+    <ele>738</ele>
+    <name>Panna Marie Pomocna</name>
+    <link href="https://mapa-turystyczna.pl/node/6335">
+      <text>Panna Marie Pomocna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyr - Panna Marie Pomocna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2284952,17.3911214;50.22760635018783,17.392958699999976;50.2263194,17.3947746">
+    <text>Vyr - Panna Marie Pomocna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2284952" lon="17.3911214">
+      <ele>805</ele>
+      <time>2022-01-17T22:51:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2279015" lon="17.3920387">
+      <ele>793</ele>
+      <time>2022-01-17T22:52:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2277402" lon="17.3926717">
+      <ele>785</ele>
+      <time>2022-01-17T22:52:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2274725" lon="17.3932457">
+      <ele>777</ele>
+      <time>2022-01-17T22:53:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2270675" lon="17.3936588">
+      <ele>766</ele>
+      <time>2022-01-17T22:54:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2266694" lon="17.3941469">
+      <ele>754</ele>
+      <time>2022-01-17T22:55:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2263194" lon="17.3947746">
+      <ele>738</ele>
+      <time>2022-01-17T22:56:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

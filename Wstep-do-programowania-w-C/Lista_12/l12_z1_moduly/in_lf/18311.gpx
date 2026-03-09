@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:52Z</time>
+    <bounds maxlat="52.2896734" maxlon="20.4486758" minlat="52.288881" minlon="20.4479212"/>
+  </metadata>
+  <wpt lat="52.289673" lon="20.448676">
+    <ele>81</ele>
+    <name>Cmentarz wojenny</name>
+    <link href="https://mapa-turystyczna.pl/node/12420">
+      <text>Cmentarz wojenny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.288881" lon="20.447921">
+    <ele>80</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12422">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cmentarz wojenny - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2896734,20.4486758;52.289322851386956,20.44833395;52.288881,20.4479212">
+    <text>Cmentarz wojenny - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2896734" lon="20.4486758">
+      <ele>81</ele>
+      <time>2022-01-18T01:28:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2889723" lon="20.4479921">
+      <ele>80</ele>
+      <time>2022-01-18T01:30:39Z</time>
+    </trkpt>
+    <trkpt lat="52.288881" lon="20.4479212">
+      <ele>80</ele>
+      <time>2022-01-18T01:30:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

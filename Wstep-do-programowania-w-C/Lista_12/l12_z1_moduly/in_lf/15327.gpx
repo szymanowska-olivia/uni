@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:21Z</time>
+    <bounds maxlat="51.253753" maxlon="17.190177" minlat="51.2505633" minlon="17.1896857"/>
+  </metadata>
+  <wpt lat="51.250563" lon="17.190137">
+    <ele>162</ele>
+    <name>Zaprezyn</name>
+    <link href="https://mapa-turystyczna.pl/node/10461">
+      <text>Zaprezyn</text>
+    </link>
+  </wpt>
+  <wpt lat="51.253753" lon="17.190164">
+    <ele>175</ele>
+    <name>Zaprezyn, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10462">
+      <text>Zaprezyn, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zaprezyn - Zaprezyn, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2505633,17.1901373;51.25224680043757,17.18977555;51.253753,17.1901641">
+    <text>Zaprezyn - Zaprezyn, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2505633" lon="17.1901373">
+      <ele>162</ele>
+      <time>2022-01-18T00:37:21Z</time>
+    </trkpt>
+    <trkpt lat="51.2506612" lon="17.1899807">
+      <ele>163</ele>
+      <time>2022-01-18T00:37:34Z</time>
+    </trkpt>
+    <trkpt lat="51.2509298" lon="17.1897447">
+      <ele>165</ele>
+      <time>2022-01-18T00:38:01Z</time>
+    </trkpt>
+    <trkpt lat="51.2510607" lon="17.1897071">
+      <ele>167</ele>
+      <time>2022-01-18T00:38:14Z</time>
+    </trkpt>
+    <trkpt lat="51.2517457" lon="17.1896857">
+      <ele>171</ele>
+      <time>2022-01-18T00:39:16Z</time>
+    </trkpt>
+    <trkpt lat="51.2520462" lon="17.1897206">
+      <ele>173</ele>
+      <time>2022-01-18T00:39:43Z</time>
+    </trkpt>
+    <trkpt lat="51.2524474" lon="17.1898305">
+      <ele>174</ele>
+      <time>2022-01-18T00:40:20Z</time>
+    </trkpt>
+    <trkpt lat="51.2530048" lon="17.1900987">
+      <ele>175</ele>
+      <time>2022-01-18T00:41:13Z</time>
+    </trkpt>
+    <trkpt lat="51.2534595" lon="17.190177">
+      <ele>175</ele>
+      <time>2022-01-18T00:41:54Z</time>
+    </trkpt>
+    <trkpt lat="51.253753" lon="17.1901641">
+      <ele>175</ele>
+      <time>2022-01-18T00:42:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

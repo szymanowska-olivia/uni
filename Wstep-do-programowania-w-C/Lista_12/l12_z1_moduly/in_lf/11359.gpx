@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:16Z</time>
+    <bounds maxlat="49.8146917" maxlon="19.2849203" minlat="49.814302" minlon="19.2833689"/>
+  </metadata>
+  <wpt lat="49.814692" lon="19.283369">
+    <ele>662</ele>
+    <name>Przelecz Bukowska</name>
+    <link href="https://mapa-turystyczna.pl/node/1004">
+      <text>Przelecz Bukowska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.814302" lon="19.28492">
+    <ele>663</ele>
+    <name>Przelecz Bukowska, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/7997">
+      <text>Przelecz Bukowska, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Bukowska - Przelecz Bukowska, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8146917,19.2833689;49.81450175001367,19.28435430000001;49.814302,19.2849203">
+    <text>Przelecz Bukowska - Przelecz Bukowska, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8146917" lon="19.2833689">
+      <ele>662</ele>
+      <time>2022-01-17T23:33:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8145381" lon="19.2841397">
+      <ele>664</ele>
+      <time>2022-01-17T23:34:14Z</time>
+    </trkpt>
+    <trkpt lat="49.8144654" lon="19.2845689">
+      <ele>664</ele>
+      <time>2022-01-17T23:34:45Z</time>
+    </trkpt>
+    <trkpt lat="49.814302" lon="19.2849203">
+      <ele>663</ele>
+      <time>2022-01-17T23:35:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

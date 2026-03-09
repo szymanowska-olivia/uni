@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:28:10Z</time>
+    <bounds maxlat="51.4748309" maxlon="16.2133694" minlat="51.4741758" minlon="16.2109732"/>
+  </metadata>
+  <wpt lat="51.474176" lon="16.213369">
+    <ele>154</ele>
+    <name>Rynarcice</name>
+    <link href="https://mapa-turystyczna.pl/node/10002">
+      <text>Rynarcice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.474831" lon="16.210973">
+    <ele>158</ele>
+    <name>Rynarcice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10091">
+      <text>Rynarcice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rynarcice - Rynarcice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4741758,16.2133694;51.47466960028518,16.211595600000006;51.4748309,16.2109732">
+    <text>Rynarcice - Rynarcice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4741758" lon="16.2133694">
+      <ele>154</ele>
+      <time>2022-01-18T00:28:10Z</time>
+    </trkpt>
+    <trkpt lat="51.4742744" lon="16.212851">
+      <ele>155</ele>
+      <time>2022-01-18T00:28:47Z</time>
+    </trkpt>
+    <trkpt lat="51.474368" lon="16.212615">
+      <ele>155</ele>
+      <time>2022-01-18T00:29:06Z</time>
+    </trkpt>
+    <trkpt lat="51.4745083" lon="16.212218">
+      <ele>155</ele>
+      <time>2022-01-18T00:29:38Z</time>
+    </trkpt>
+    <trkpt lat="51.4748309" lon="16.2109732">
+      <ele>158</ele>
+      <time>2022-01-18T00:31:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

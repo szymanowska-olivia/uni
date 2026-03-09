@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:46Z</time>
+    <bounds maxlat="51.4810288" maxlon="23.1714354" minlat="51.4806298" minlon="23.1680295"/>
+  </metadata>
+  <wpt lat="51.481029" lon="23.168029">
+    <ele>166</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12865">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.48063" lon="23.171435">
+    <ele>167</ele>
+    <name>Stawy Pieszowolskie</name>
+    <link href="https://mapa-turystyczna.pl/node/12852">
+      <text>Stawy Pieszowolskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Stawy Pieszowolskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4810288,23.1680295;51.48082930043634,23.169732449999998;51.4806298,23.1714354">
+    <text>Rozejscie szlakow - Stawy Pieszowolskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4810288" lon="23.1680295">
+      <ele>166</ele>
+      <time>2022-01-18T01:40:46Z</time>
+    </trkpt>
+    <trkpt lat="51.4806298" lon="23.1714354">
+      <ele>167</ele>
+      <time>2022-01-18T01:45:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

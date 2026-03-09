@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:18:57Z</time>
+    <bounds maxlat="51.7262333" maxlon="21.1155079" minlat="51.7228572" minlon="21.1115597"/>
+  </metadata>
+  <wpt lat="51.722857" lon="21.11156">
+    <ele>113</ele>
+    <name>Biala Gora, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12061">
+      <text>Biala Gora, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.726233" lon="21.115508">
+    <ele>108</ele>
+    <name>Biala Gora, Pilica</name>
+    <link href="https://mapa-turystyczna.pl/node/12060">
+      <text>Biala Gora, Pilica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Biala Gora, rozejscie szlakow - Biala Gora, Pilica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7228572,21.1115597;51.725315907755636,21.114172250000017;51.7262333,21.1155079">
+    <text>Biala Gora, rozejscie szlakow - Biala Gora, Pilica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7228572" lon="21.1115597">
+      <ele>113</ele>
+      <time>2022-01-18T01:18:57Z</time>
+    </trkpt>
+    <trkpt lat="51.7244785" lon="21.1131047">
+      <ele>115</ele>
+      <time>2022-01-18T01:21:11Z</time>
+    </trkpt>
+    <trkpt lat="51.7261533" lon="21.1152398">
+      <ele>109</ele>
+      <time>2022-01-18T01:23:44Z</time>
+    </trkpt>
+    <trkpt lat="51.7262333" lon="21.1155079">
+      <ele>108</ele>
+      <time>2022-01-18T01:23:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

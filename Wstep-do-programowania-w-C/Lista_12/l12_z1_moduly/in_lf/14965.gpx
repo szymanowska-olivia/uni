@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:12Z</time>
+    <bounds maxlat="51.5619841" maxlon="16.6914466" minlat="51.5618273" minlon="16.6912267"/>
+  </metadata>
+  <wpt lat="51.561984" lon="16.691447">
+    <ele>88</ele>
+    <name>Wasosz, ul. Kilinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10193">
+      <text>Wasosz, ul. Kilinskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.561827" lon="16.691227">
+    <ele>88</ele>
+    <name>Wasosz</name>
+    <link href="https://mapa-turystyczna.pl/node/10194">
+      <text>Wasosz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz, ul. Kilinskiego - Wasosz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5619841,16.6914466;51.56190570006759,16.69133665000003;51.5618273,16.6912267">
+    <text>Wasosz, ul. Kilinskiego - Wasosz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5619841" lon="16.6914466">
+      <ele>88</ele>
+      <time>2022-01-18T00:31:12Z</time>
+    </trkpt>
+    <trkpt lat="51.5618273" lon="16.6912267">
+      <ele>88</ele>
+      <time>2022-01-18T00:32:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

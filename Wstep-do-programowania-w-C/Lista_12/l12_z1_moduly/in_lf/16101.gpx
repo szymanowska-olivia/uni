@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:59Z</time>
+    <bounds maxlat="49.580496" maxlon="20.087414" minlat="49.579925" minlon="20.086246"/>
+  </metadata>
+  <wpt lat="49.579925" lon="20.087414">
+    <ele>672</ele>
+    <name>Oberowka</name>
+    <link href="https://mapa-turystyczna.pl/node/10992">
+      <text>Oberowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.580496" lon="20.086246">
+    <ele>677</ele>
+    <name>Odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11006">
+      <text>Odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oberowka - Odejscie sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.579925,20.087414;49.580263000048795,20.08673000000002;49.580496,20.086246">
+    <text>Oberowka - Odejscie sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.579925" lon="20.087414">
+      <ele>672</ele>
+      <time>2022-01-18T00:50:59Z</time>
+    </trkpt>
+    <trkpt lat="49.580027" lon="20.087326">
+      <ele>674</ele>
+      <time>2022-01-18T00:51:13Z</time>
+    </trkpt>
+    <trkpt lat="49.580194" lon="20.087001">
+      <ele>676</ele>
+      <time>2022-01-18T00:51:46Z</time>
+    </trkpt>
+    <trkpt lat="49.580332" lon="20.086459">
+      <ele>675</ele>
+      <time>2022-01-18T00:52:33Z</time>
+    </trkpt>
+    <trkpt lat="49.580496" lon="20.086246">
+      <ele>677</ele>
+      <time>2022-01-18T00:52:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

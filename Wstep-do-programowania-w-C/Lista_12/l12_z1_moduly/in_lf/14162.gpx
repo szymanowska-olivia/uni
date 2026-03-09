@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:46Z</time>
+    <bounds maxlat="50.1855703" maxlon="18.7988223" minlat="50.1848539" minlon="18.7973503"/>
+  </metadata>
+  <wpt lat="50.184854" lon="18.79735">
+    <ele>299</ele>
+    <name>Bujakow</name>
+    <link href="https://mapa-turystyczna.pl/node/9488">
+      <text>Bujakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.18557" lon="18.798822">
+    <ele>298</ele>
+    <name>Bujakow, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9672">
+      <text>Bujakow, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bujakow - Bujakow, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1848539,18.7973503;50.18507735018783,18.798025799999984;50.1855703,18.7988223">
+    <text>Bujakow - Bujakow, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1848539" lon="18.7973503">
+      <ele>299</ele>
+      <time>2022-01-18T00:17:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1849434" lon="18.7978166">
+      <ele>299</ele>
+      <time>2022-01-18T00:18:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1852113" lon="18.798235">
+      <ele>298</ele>
+      <time>2022-01-18T00:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1855703" lon="18.7988223">
+      <ele>298</ele>
+      <time>2022-01-18T00:19:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

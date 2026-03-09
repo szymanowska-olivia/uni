@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:00Z</time>
+    <bounds maxlat="52.3007218" maxlon="16.8292453" minlat="52.2890981" minlon="16.812872"/>
+  </metadata>
+  <wpt lat="52.289098" lon="16.812872">
+    <ele>100</ele>
+    <name>Greiserowka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11634">
+      <text>Greiserowka, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.300722" lon="16.829245">
+    <ele>115</ele>
+    <name>Wiry, osada lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/11641">
+      <text>Wiry, osada lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Greiserowka, parking - Wiry, osada lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2890981,16.812872;52.295216000924896,16.821452600000004;52.3007218,16.8292453">
+    <text>Greiserowka, parking - Wiry, osada lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2890981" lon="16.812872">
+      <ele>100</ele>
+      <time>2022-01-18T01:07:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2922259" lon="16.8171262">
+      <ele>104</ele>
+      <time>2022-01-18T01:14:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2982059" lon="16.825779">
+      <ele>120</ele>
+      <time>2022-01-18T01:30:34Z</time>
+    </trkpt>
+    <trkpt lat="52.3007218" lon="16.8292453">
+      <ele>115</ele>
+      <time>2022-01-18T01:37:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

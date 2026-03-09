@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:50Z</time>
+    <bounds maxlat="49.286678" maxlon="19.555348" minlat="49.286458" minlon="19.55389"/>
+  </metadata>
+  <wpt lat="49.286678" lon="19.555348">
+    <ele>649</ele>
+    <name>Oravsky Biely Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/8970">
+      <text>Oravsky Biely Potok</text>
+    </link>
+  </wpt>
+  <wpt lat="49.286458" lon="19.55389">
+    <ele>649</ele>
+    <name>Oravsky Biely Potok, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8971">
+      <text>Oravsky Biely Potok, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oravsky Biely Potok - Oravsky Biely Potok, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.286678,19.555348;49.28661450004088,19.554975999999982;49.286458,19.55389">
+    <text>Oravsky Biely Potok - Oravsky Biely Potok, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.286678" lon="19.555348">
+      <ele>649</ele>
+      <time>2022-01-18T00:00:50Z</time>
+    </trkpt>
+    <trkpt lat="49.286551" lon="19.554604">
+      <ele>649</ele>
+      <time>2022-01-18T00:01:52Z</time>
+    </trkpt>
+    <trkpt lat="49.286458" lon="19.55389">
+      <ele>649</ele>
+      <time>2022-01-18T00:02:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

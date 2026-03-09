@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:15Z</time>
+    <bounds maxlat="52.279237" maxlon="16.7891704" minlat="52.2728371" minlon="16.7656321"/>
+  </metadata>
+  <wpt lat="52.272837" lon="16.765632">
+    <ele>72</ele>
+    <name>Trzebaw, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11805">
+      <text>Trzebaw, lacznik</text>
+    </link>
+  </wpt>
+  <wpt lat="52.279237" lon="16.78917">
+    <ele>90</ele>
+    <name>Jaroslawiec, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11806">
+      <text>Jaroslawiec, lacznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebaw, lacznik - Jaroslawiec, lacznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2728371,16.7656321;52.27603716551595,16.777401250000022;52.279237,16.7891704">
+    <text>Trzebaw, lacznik - Jaroslawiec, lacznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2728371" lon="16.7656321">
+      <ele>72</ele>
+      <time>2022-01-18T01:12:15Z</time>
+    </trkpt>
+    <trkpt lat="52.279237" lon="16.7891704">
+      <ele>90</ele>
+      <time>2022-01-18T01:42:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

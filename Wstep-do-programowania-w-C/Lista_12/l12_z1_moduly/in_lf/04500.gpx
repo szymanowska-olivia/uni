@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:30Z</time>
+    <bounds maxlat="50.9056647" maxlon="20.7925701" minlat="50.901639" minlon="20.7868731"/>
+  </metadata>
+  <wpt lat="50.901639" lon="20.786873">
+    <ele>285</ele>
+    <name>Przelom Lubrzanki</name>
+    <link href="https://mapa-turystyczna.pl/node/3120">
+      <text>Przelom Lubrzanki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.905665" lon="20.79257">
+    <ele>278</ele>
+    <name>Pod Radostowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3119">
+      <text>Pod Radostowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelom Lubrzanki - Pod Radostowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.901639,20.7868731;50.903817752189774,20.789538049999976;50.9056647,20.7925701">
+    <text>Przelom Lubrzanki - Pod Radostowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.901639" lon="20.7868731">
+      <ele>285</ele>
+      <time>2022-01-17T21:43:30Z</time>
+    </trkpt>
+    <trkpt lat="50.9029559" lon="20.7881111">
+      <ele>288</ele>
+      <time>2022-01-17T21:46:19Z</time>
+    </trkpt>
+    <trkpt lat="50.9033662" lon="20.7886625">
+      <ele>289</ele>
+      <time>2022-01-17T21:47:18Z</time>
+    </trkpt>
+    <trkpt lat="50.9042693" lon="20.7904136">
+      <ele>282</ele>
+      <time>2022-01-17T21:49:55Z</time>
+    </trkpt>
+    <trkpt lat="50.9049848" lon="20.7914972">
+      <ele>277</ele>
+      <time>2022-01-17T21:51:44Z</time>
+    </trkpt>
+    <trkpt lat="50.9056647" lon="20.7925701">
+      <ele>278</ele>
+      <time>2022-01-17T21:53:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:34Z</time>
+    <bounds maxlat="49.5541936" maxlon="22.2116518" minlat="49.553167" minlon="22.2097957"/>
+  </metadata>
+  <wpt lat="49.553167" lon="22.211652">
+    <ele>288</ele>
+    <name>Sanok, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/3669">
+      <text>Sanok, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="49.554194" lon="22.209796">
+    <ele>288</ele>
+    <name>Sanok</name>
+    <link href="https://mapa-turystyczna.pl/node/3670">
+      <text>Sanok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sanok, PKP - Sanok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.553167,22.2116518;49.553680302697195,22.21072374999999;49.5541936,22.2097957">
+    <text>Sanok, PKP - Sanok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.553167" lon="22.2116518">
+      <ele>288</ele>
+      <time>2022-01-17T21:52:34Z</time>
+    </trkpt>
+    <trkpt lat="49.5541936" lon="22.2097957">
+      <ele>288</ele>
+      <time>2022-01-17T21:55:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

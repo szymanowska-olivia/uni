@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:30Z</time>
+    <bounds maxlat="50.7021523" maxlon="17.1095832" minlat="50.7016819" minlon="17.1093991"/>
+  </metadata>
+  <wpt lat="50.701682" lon="17.109583">
+    <ele>392</ele>
+    <name>Gromnik, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/7780">
+      <text>Gromnik, rozwidlenie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.702152" lon="17.109441">
+    <ele>395</ele>
+    <name>Gromnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2856">
+      <text>Gromnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gromnik, rozwidlenie - Gromnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7016819,17.1095832;50.702025200172244,17.109420150000005;50.7021523,17.1094412">
+    <text>Gromnik, rozwidlenie - Gromnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7016819" lon="17.1095832">
+      <ele>392</ele>
+      <time>2022-01-17T23:27:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7018068" lon="17.1094175">
+      <ele>392</ele>
+      <time>2022-01-17T23:27:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7018981" lon="17.1093991">
+      <ele>393</ele>
+      <time>2022-01-17T23:28:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7021523" lon="17.1094412">
+      <ele>395</ele>
+      <time>2022-01-17T23:28:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

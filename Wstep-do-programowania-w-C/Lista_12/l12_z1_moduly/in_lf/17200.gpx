@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:30Z</time>
+    <bounds maxlat="50.8572716" maxlon="16.6932469" minlat="50.8572109" minlon="16.6928776"/>
+  </metadata>
+  <wpt lat="50.857272" lon="16.692878">
+    <ele>535</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11709">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.857211" lon="16.693247">
+    <ele>534</ele>
+    <name>Polana z Debami</name>
+    <link href="https://mapa-turystyczna.pl/node/8321">
+      <text>Polana z Debami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezek - Polana z Debami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8572716,16.6928776;50.85724125000987,16.69306225;50.8572109,16.6932469">
+    <text>Rozejscie sciezek - Polana z Debami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8572716" lon="16.6928776">
+      <ele>535</ele>
+      <time>2022-01-18T01:09:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8572109" lon="16.6932469">
+      <ele>534</ele>
+      <time>2022-01-18T01:10:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

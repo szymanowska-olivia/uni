@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:34Z</time>
+    <bounds maxlat="50.4857398" maxlon="16.0761362" minlat="50.4837942" minlon="16.0759538"/>
+  </metadata>
+  <wpt lat="50.48574" lon="16.07612">
+    <ele>427</ele>
+    <name>Cerveny Kostelec, Devet krizu</name>
+    <link href="https://mapa-turystyczna.pl/node/6169">
+      <text>Cerveny Kostelec, Devet krizu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.483794" lon="16.075954">
+    <ele>429</ele>
+    <name>Cerveny Kostelec, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6168">
+      <text>Cerveny Kostelec, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerveny Kostelec, Devet krizu - Cerveny Kostelec, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4857398,16.0761201;50.48513565146458,16.07607184999999;50.4837942,16.0759538">
+    <text>Cerveny Kostelec, Devet krizu - Cerveny Kostelec, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4857398" lon="16.0761201">
+      <ele>427</ele>
+      <time>2022-01-17T22:46:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4855077" lon="16.0761362">
+      <ele>427</ele>
+      <time>2022-01-17T22:46:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4847636" lon="16.0760075">
+      <ele>428</ele>
+      <time>2022-01-17T22:48:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4837942" lon="16.0759538">
+      <ele>429</ele>
+      <time>2022-01-17T22:49:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

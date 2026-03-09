@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:08Z</time>
+    <bounds maxlat="49.33908" maxlon="22.4089365" minlat="49.3348808" minlon="22.4035971"/>
+  </metadata>
+  <wpt lat="49.33908" lon="22.403597">
+    <ele>452</ele>
+    <name>Wolkowyja, ul. Cicha</name>
+    <link href="https://mapa-turystyczna.pl/node/11279">
+      <text>Wolkowyja, ul. Cicha</text>
+    </link>
+  </wpt>
+  <wpt lat="49.334881" lon="22.408936">
+    <ele>439</ele>
+    <name>Wolkowyja</name>
+    <link href="https://mapa-turystyczna.pl/node/404">
+      <text>Wolkowyja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolkowyja, ul. Cicha - Wolkowyja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.33908,22.4035971;49.336536105319105,22.40565059999997;49.3348808,22.4089365">
+    <text>Wolkowyja, ul. Cicha - Wolkowyja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.33908" lon="22.4035971">
+      <ele>452</ele>
+      <time>2022-01-18T00:58:08Z</time>
+    </trkpt>
+    <trkpt lat="49.3381056" lon="22.4044436">
+      <ele>450</ele>
+      <time>2022-01-18T01:00:06Z</time>
+    </trkpt>
+    <trkpt lat="49.3378189" lon="22.4045617">
+      <ele>448</ele>
+      <time>2022-01-18T01:00:38Z</time>
+    </trkpt>
+    <trkpt lat="49.3375183" lon="22.4046689">
+      <ele>445</ele>
+      <time>2022-01-18T01:01:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3372597" lon="22.4048084">
+      <ele>443</ele>
+      <time>2022-01-18T01:01:39Z</time>
+    </trkpt>
+    <trkpt lat="49.3358125" lon="22.4064928">
+      <ele>445</ele>
+      <time>2022-01-18T01:04:51Z</time>
+    </trkpt>
+    <trkpt lat="49.3353371" lon="22.4073833">
+      <ele>448</ele>
+      <time>2022-01-18T01:06:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3349876" lon="22.408703">
+      <ele>442</ele>
+      <time>2022-01-18T01:07:48Z</time>
+    </trkpt>
+    <trkpt lat="49.3348808" lon="22.4089365">
+      <ele>439</ele>
+      <time>2022-01-18T01:08:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

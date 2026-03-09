@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:34Z</time>
+    <bounds maxlat="51.1830252" maxlon="20.657537" minlat="51.1710023" minlon="20.6372166"/>
+  </metadata>
+  <wpt lat="51.182464" lon="20.657537">
+    <ele>341</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7279">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.171002" lon="20.637217">
+    <ele>326</ele>
+    <name>Nadziejow</name>
+    <link href="https://mapa-turystyczna.pl/node/7276">
+      <text>Nadziejow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Nadziejow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1824636,20.657537;51.176639144537596,20.64352515000003;51.1710023,20.6372166">
+    <text>Rozejscie szlakow czerwony / czarny - Nadziejow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1824636" lon="20.657537">
+      <ele>341</ele>
+      <time>2022-01-17T23:14:34Z</time>
+    </trkpt>
+    <trkpt lat="51.1830252" lon="20.6562683">
+      <ele>343</ele>
+      <time>2022-01-17T23:16:07Z</time>
+    </trkpt>
+    <trkpt lat="51.1829411" lon="20.6539697">
+      <ele>337</ele>
+      <time>2022-01-17T23:18:25Z</time>
+    </trkpt>
+    <trkpt lat="51.1826116" lon="20.6519473">
+      <ele>331</ele>
+      <time>2022-01-17T23:20:30Z</time>
+    </trkpt>
+    <trkpt lat="51.1822753" lon="20.6498337">
+      <ele>324</ele>
+      <time>2022-01-17T23:22:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1710023" lon="20.6372166">
+      <ele>326</ele>
+      <time>2022-01-17T23:44:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

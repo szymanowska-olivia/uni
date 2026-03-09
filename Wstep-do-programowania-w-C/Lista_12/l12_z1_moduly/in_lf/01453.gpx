@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:43Z</time>
+    <bounds maxlat="50.7673315" maxlon="15.586487" minlat="50.7616009" minlon="15.5811775"/>
+  </metadata>
+  <wpt lat="50.767331" lon="15.581178">
+    <ele>1185</ele>
+    <name>Bradlerovy boudy, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1095">
+      <text>Bradlerovy boudy, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.761601" lon="15.586487">
+    <ele>1079</ele>
+    <name>Medvedi bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3903">
+      <text>Medvedi bouda, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bradlerovy boudy, skrzyzowanie - Medvedi bouda, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7673315,15.5811775;50.7639994519234,15.584138649999977;50.7616009,15.586487">
+    <text>Bradlerovy boudy, skrzyzowanie - Medvedi bouda, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7673315" lon="15.5811775">
+      <ele>1185</ele>
+      <time>2022-01-17T21:00:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7669567" lon="15.5816817">
+      <ele>1182</ele>
+      <time>2022-01-17T21:01:27Z</time>
+    </trkpt>
+    <trkpt lat="50.765727" lon="15.5827868">
+      <ele>1166</ele>
+      <time>2022-01-17T21:03:33Z</time>
+    </trkpt>
+    <trkpt lat="50.7651378" lon="15.5830551">
+      <ele>1156</ele>
+      <time>2022-01-17T21:04:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7648215" lon="15.5835057">
+      <ele>1150</ele>
+      <time>2022-01-17T21:05:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7644237" lon="15.5837417">
+      <ele>1142</ele>
+      <time>2022-01-17T21:05:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7635752" lon="15.5845356">
+      <ele>1128</ele>
+      <time>2022-01-17T21:07:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7629168" lon="15.5853724">
+      <ele>1108</ele>
+      <time>2022-01-17T21:08:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7621156" lon="15.5860376">
+      <ele>1092</ele>
+      <time>2022-01-17T21:09:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7616009" lon="15.586487">
+      <ele>1079</ele>
+      <time>2022-01-17T21:10:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

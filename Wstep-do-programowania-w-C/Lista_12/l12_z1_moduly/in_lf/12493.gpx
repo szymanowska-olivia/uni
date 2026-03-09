@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:59Z</time>
+    <bounds maxlat="53.9652262" maxlon="14.6226215" minlat="53.9646281" minlon="14.6185572"/>
+  </metadata>
+  <wpt lat="53.9651" lon="14.618557">
+    <ele>7</ele>
+    <name>Kolczewo, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/8596">
+      <text>Kolczewo, ul. Koscielna</text>
+    </link>
+  </wpt>
+  <wpt lat="53.964628" lon="14.622621">
+    <ele>6</ele>
+    <name>Kolczewo, ul. Zwirowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8597">
+      <text>Kolczewo, ul. Zwirowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolczewo, ul. Koscielna - Kolczewo, ul. Zwirowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9650999,14.6185572;53.96520410000584,14.620937399999997;53.9646281,14.6226215">
+    <text>Kolczewo, ul. Koscielna - Kolczewo, ul. Zwirowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9650999" lon="14.6185572">
+      <ele>7</ele>
+      <time>2022-01-17T23:50:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9652262" lon="14.6207282">
+      <ele>6</ele>
+      <time>2022-01-17T23:53:28Z</time>
+    </trkpt>
+    <trkpt lat="53.965182" lon="14.6211466">
+      <ele>5</ele>
+      <time>2022-01-17T23:53:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9650999" lon="14.6216723">
+      <ele>5</ele>
+      <time>2022-01-17T23:54:34Z</time>
+    </trkpt>
+    <trkpt lat="53.9646281" lon="14.6226215">
+      <ele>6</ele>
+      <time>2022-01-17T23:55:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

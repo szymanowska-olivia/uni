@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:59Z</time>
+    <bounds maxlat="50.7342439" maxlon="15.6973278" minlat="50.7341228" minlon="15.6919527"/>
+  </metadata>
+  <wpt lat="50.734198" lon="15.691953">
+    <ele>1419</ele>
+    <name>U Lucni Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1419">
+      <text>U Lucni Boudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734134" lon="15.697328">
+    <ele>1413</ele>
+    <name>Lucni Bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1199">
+      <text>Lucni Bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Lucni Boudy - Lucni Bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7341981,15.6919527;50.73423980000018,15.694212450000009;50.734134,15.6973278">
+    <text>U Lucni Boudy - Lucni Bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7341981" lon="15.6919527">
+      <ele>1419</ele>
+      <time>2022-01-17T21:08:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7342439" lon="15.6931436">
+      <ele>1418</ele>
+      <time>2022-01-17T21:10:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7342357" lon="15.6952813">
+      <ele>1415</ele>
+      <time>2022-01-17T21:12:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7342406" lon="15.6962872">
+      <ele>1414</ele>
+      <time>2022-01-17T21:13:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7341613" lon="15.6966694">
+      <ele>1414</ele>
+      <time>2022-01-17T21:13:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7341228" lon="15.6970409">
+      <ele>1414</ele>
+      <time>2022-01-17T21:13:43Z</time>
+    </trkpt>
+    <trkpt lat="50.734134" lon="15.6973278">
+      <ele>1413</ele>
+      <time>2022-01-17T21:13:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:43:25Z</time>
+    <bounds maxlat="49.8582429" maxlon="17.0543389" minlat="49.8558497" minlon="17.0541433"/>
+  </metadata>
+  <wpt lat="49.858243" lon="17.054157">
+    <ele>552</ele>
+    <name>U studanky</name>
+    <link href="https://mapa-turystyczna.pl/node/10708">
+      <text>U studanky</text>
+    </link>
+  </wpt>
+  <wpt lat="49.85585" lon="17.054339">
+    <ele>562</ele>
+    <name>Pod Bradlem</name>
+    <link href="https://mapa-turystyczna.pl/node/10709">
+      <text>Pod Bradlem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U studanky - Pod Bradlem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8582429,17.0541565;49.85718325059777,17.05424255000002;49.8558497,17.0543389">
+    <text>U studanky - Pod Bradlem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8582429" lon="17.0541565">
+      <ele>552</ele>
+      <time>2022-01-18T00:43:25Z</time>
+    </trkpt>
+    <trkpt lat="49.8579217" lon="17.0541433">
+      <ele>554</ele>
+      <time>2022-01-18T00:44:05Z</time>
+    </trkpt>
+    <trkpt lat="49.8574236" lon="17.0542184">
+      <ele>555</ele>
+      <time>2022-01-18T00:45:08Z</time>
+    </trkpt>
+    <trkpt lat="49.8569429" lon="17.0542667">
+      <ele>561</ele>
+      <time>2022-01-18T00:46:08Z</time>
+    </trkpt>
+    <trkpt lat="49.8565763" lon="17.0543364">
+      <ele>565</ele>
+      <time>2022-01-18T00:46:54Z</time>
+    </trkpt>
+    <trkpt lat="49.8560887" lon="17.0543204">
+      <ele>563</ele>
+      <time>2022-01-18T00:47:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8558497" lon="17.0543389">
+      <ele>562</ele>
+      <time>2022-01-18T00:48:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

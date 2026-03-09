@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:00Z</time>
+    <bounds maxlat="50.0607443" maxlon="16.8360138" minlat="50.0583901" minlon="16.8277852"/>
+  </metadata>
+  <wpt lat="50.060744" lon="16.827785">
+    <ele>928</ele>
+    <name>Pod Jerabem</name>
+    <link href="https://mapa-turystyczna.pl/node/7765">
+      <text>Pod Jerabem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.05839" lon="16.836014">
+    <ele>869</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13550">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jerabem - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0607443,16.8277852;50.059791150321544,16.83158835000003;50.0583901,16.8360138">
+    <text>Pod Jerabem - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0607443" lon="16.8277852">
+      <ele>928</ele>
+      <time>2022-01-18T02:01:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0599668" lon="16.8308051">
+      <ele>892</ele>
+      <time>2022-01-18T02:04:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0596155" lon="16.8323716">
+      <ele>884</ele>
+      <time>2022-01-18T02:06:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0593125" lon="16.8328758">
+      <ele>879</ele>
+      <time>2022-01-18T02:07:09Z</time>
+    </trkpt>
+    <trkpt lat="50.059216" lon="16.8330904">
+      <ele>876</ele>
+      <time>2022-01-18T02:07:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0589887" lon="16.8341096">
+      <ele>872</ele>
+      <time>2022-01-18T02:08:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0588303" lon="16.834571">
+      <ele>873</ele>
+      <time>2022-01-18T02:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.058479" lon="16.8352254">
+      <ele>872</ele>
+      <time>2022-01-18T02:10:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0584308" lon="16.8354937">
+      <ele>871</ele>
+      <time>2022-01-18T02:10:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0583964" lon="16.8357619">
+      <ele>870</ele>
+      <time>2022-01-18T02:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0583901" lon="16.8360138">
+      <ele>869</ele>
+      <time>2022-01-18T02:11:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

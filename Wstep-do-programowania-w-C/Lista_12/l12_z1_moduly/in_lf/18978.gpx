@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:30Z</time>
+    <bounds maxlat="51.4580221" maxlon="23.1172057" minlat="51.4579629" minlon="23.1167474"/>
+  </metadata>
+  <wpt lat="51.457963" lon="23.116747">
+    <ele>170</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12847">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.458022" lon="23.117206">
+    <ele>167</ele>
+    <name>Jezioro Moszne, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12848">
+      <text>Jezioro Moszne, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Jezioro Moszne, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4579629,23.1167474;51.45799250000961,23.11697655000002;51.4580221,23.1172057">
+    <text>Rozejscie sciezki - Jezioro Moszne, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4579629" lon="23.1167474">
+      <ele>170</ele>
+      <time>2022-01-18T01:40:30Z</time>
+    </trkpt>
+    <trkpt lat="51.4580221" lon="23.1172057">
+      <ele>167</ele>
+      <time>2022-01-18T01:41:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

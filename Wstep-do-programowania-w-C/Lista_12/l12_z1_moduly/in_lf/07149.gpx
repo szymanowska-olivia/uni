@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:38Z</time>
+    <bounds maxlat="50.7388261" maxlon="15.6994341" minlat="50.7348586" minlon="15.6974083"/>
+  </metadata>
+  <wpt lat="50.738826" lon="15.699434">
+    <ele>1429</ele>
+    <name>Jantarova cesta, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/4630">
+      <text>Jantarova cesta, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734859" lon="15.697492">
+    <ele>1415</ele>
+    <name>Lucni Bouda, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4867">
+      <text>Lucni Bouda, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jantarova cesta, granica - Lucni Bouda, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7388261,15.6994341;50.736824552188374,15.698324650000005;50.7348586,15.6974925">
+    <text>Jantarova cesta, granica - Lucni Bouda, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7388261" lon="15.6994341">
+      <ele>1429</ele>
+      <time>2022-01-17T22:18:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7380809" lon="15.6989909">
+      <ele>1428</ele>
+      <time>2022-01-17T22:19:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7372773" lon="15.6985503">
+      <ele>1425</ele>
+      <time>2022-01-17T22:20:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7363718" lon="15.698099">
+      <ele>1420</ele>
+      <time>2022-01-17T22:21:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7358373" lon="15.6977758">
+      <ele>1419</ele>
+      <time>2022-01-17T22:22:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7350944" lon="15.6974083">
+      <ele>1414</ele>
+      <time>2022-01-17T22:23:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7348586" lon="15.6974925">
+      <ele>1415</ele>
+      <time>2022-01-17T22:23:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

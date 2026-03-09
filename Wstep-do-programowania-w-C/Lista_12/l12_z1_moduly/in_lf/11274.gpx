@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:39Z</time>
+    <bounds maxlat="49.9822928" maxlon="16.8788907" minlat="49.9794949" minlon="16.875847"/>
+  </metadata>
+  <wpt lat="49.979495" lon="16.875847">
+    <ele>327</ele>
+    <name>Ruda nad Moravou</name>
+    <link href="https://mapa-turystyczna.pl/node/7944">
+      <text>Ruda nad Moravou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.982293" lon="16.878891">
+    <ele>330</ele>
+    <name>Ruda nad Moravou, kostel</name>
+    <link href="https://mapa-turystyczna.pl/node/7940">
+      <text>Ruda nad Moravou, kostel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruda nad Moravou - Ruda nad Moravou, kostel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9794949,16.875847;49.980908151544114,16.87787499999999;49.9822928,16.8788907">
+    <text>Ruda nad Moravou - Ruda nad Moravou, kostel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9794949" lon="16.875847">
+      <ele>327</ele>
+      <time>2022-01-17T23:31:39Z</time>
+    </trkpt>
+    <trkpt lat="49.9796948" lon="16.8760384">
+      <ele>327</ele>
+      <time>2022-01-17T23:31:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9802587" lon="16.8771099">
+      <ele>328</ele>
+      <time>2022-01-17T23:33:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9805227" lon="16.8774438">
+      <ele>329</ele>
+      <time>2022-01-17T23:33:44Z</time>
+    </trkpt>
+    <trkpt lat="49.9812936" lon="16.8783062">
+      <ele>326</ele>
+      <time>2022-01-17T23:35:06Z</time>
+    </trkpt>
+    <trkpt lat="49.9815611" lon="16.8784953">
+      <ele>327</ele>
+      <time>2022-01-17T23:35:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9819104" lon="16.8786079">
+      <ele>328</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9821829" lon="16.8787206">
+      <ele>329</ele>
+      <time>2022-01-17T23:36:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9822928" lon="16.8788907">
+      <ele>330</ele>
+      <time>2022-01-17T23:36:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

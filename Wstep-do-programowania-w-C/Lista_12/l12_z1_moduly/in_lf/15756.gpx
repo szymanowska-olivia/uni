@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:53Z</time>
+    <bounds maxlat="50.941126" maxlon="20.9592533" minlat="50.940972" minlon="20.9572624"/>
+  </metadata>
+  <wpt lat="50.941126" lon="20.957262">
+    <ele>287</ele>
+    <name>Bodzentyn</name>
+    <link href="https://mapa-turystyczna.pl/node/10757">
+      <text>Bodzentyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.941035" lon="20.959253">
+    <ele>284</ele>
+    <name>Bodzentyn, ul. Bankowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3112">
+      <text>Bodzentyn, ul. Bankowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bodzentyn - Bodzentyn, ul. Bankowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.941126,20.9572624;50.94098950000328,20.958441450000006;50.9410353,20.9592533">
+    <text>Bodzentyn - Bodzentyn, ul. Bankowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.941126" lon="20.9572624">
+      <ele>287</ele>
+      <time>2022-01-18T00:44:53Z</time>
+    </trkpt>
+    <trkpt lat="50.9409955" lon="20.9578085">
+      <ele>286</ele>
+      <time>2022-01-18T00:45:27Z</time>
+    </trkpt>
+    <trkpt lat="50.940972" lon="20.9580349">
+      <ele>286</ele>
+      <time>2022-01-18T00:45:41Z</time>
+    </trkpt>
+    <trkpt lat="50.941007" lon="20.958848">
+      <ele>284</ele>
+      <time>2022-01-18T00:46:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9410353" lon="20.9592533">
+      <ele>284</ele>
+      <time>2022-01-18T00:46:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:53Z</time>
+    <bounds maxlat="50.8363028" maxlon="16.7412865" minlat="50.8353103" minlon="16.7411481"/>
+  </metadata>
+  <wpt lat="50.83531" lon="16.741287">
+    <ele>326</ele>
+    <name>Przelecz Slupicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2690">
+      <text>Przelecz Slupicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.836303" lon="16.741228">
+    <ele>330</ele>
+    <name>Przelecz Slupicka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/5255">
+      <text>Przelecz Slupicka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Slupicka - Przelecz Slupicka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8353103,16.7412865;50.835855450110486,16.741158650000017;50.8363028,16.7412283">
+    <text>Przelecz Slupicka - Przelecz Slupicka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8353103" lon="16.7412865">
+      <ele>326</ele>
+      <time>2022-01-17T22:27:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8357539" lon="16.7411692">
+      <ele>329</ele>
+      <time>2022-01-17T22:28:47Z</time>
+    </trkpt>
+    <trkpt lat="50.835957" lon="16.7411481">
+      <ele>329</ele>
+      <time>2022-01-17T22:29:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8361085" lon="16.7411621">
+      <ele>329</ele>
+      <time>2022-01-17T22:29:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8363028" lon="16.7412283">
+      <ele>331</ele>
+      <time>2022-01-17T22:29:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

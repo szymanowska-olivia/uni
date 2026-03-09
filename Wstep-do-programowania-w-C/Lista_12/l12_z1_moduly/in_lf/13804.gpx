@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:44Z</time>
+    <bounds maxlat="50.2242843" maxlon="18.771821" minlat="50.2239096" minlon="18.77131"/>
+  </metadata>
+  <wpt lat="50.22391" lon="18.77131">
+    <ele>235</ele>
+    <name>Chudow, Podzamcze</name>
+    <link href="https://mapa-turystyczna.pl/node/9476">
+      <text>Chudow, Podzamcze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.224284" lon="18.771821">
+    <ele>234</ele>
+    <name>Chudow, ruiny zamku</name>
+    <link href="https://mapa-turystyczna.pl/node/9475">
+      <text>Chudow, ruiny zamku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chudow, Podzamcze - Chudow, ruiny zamku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2239104,18.77131;50.224149900096826,18.771622549999982;50.2242843,18.771821">
+    <text>Chudow, Podzamcze - Chudow, ruiny zamku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2239104" lon="18.77131">
+      <ele>235</ele>
+      <time>2022-01-18T00:12:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2239096" lon="18.7713114">
+      <ele>235</ele>
+      <time>2022-01-18T00:12:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2240538" lon="18.771526">
+      <ele>235</ele>
+      <time>2022-01-18T00:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.224246" lon="18.7717191">
+      <ele>234</ele>
+      <time>2022-01-18T00:13:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2242843" lon="18.771821">
+      <ele>234</ele>
+      <time>2022-01-18T00:13:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

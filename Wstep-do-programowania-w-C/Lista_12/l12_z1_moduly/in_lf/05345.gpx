@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:18Z</time>
+    <bounds maxlat="49.7711728" maxlon="22.8989518" minlat="49.7700053" minlon="22.8971976"/>
+  </metadata>
+  <wpt lat="49.770005" lon="22.897198">
+    <ele>223</ele>
+    <name>Fort Borek, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3773">
+      <text>Fort Borek, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.771173" lon="22.898952">
+    <ele>223</ele>
+    <name>Fort Borek</name>
+    <link href="https://mapa-turystyczna.pl/node/3774">
+      <text>Fort Borek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fort Borek, skrzyzowanie - Fort Borek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7700053,22.8971976;49.770632351364945,22.897565049999994;49.7711728,22.8989518">
+    <text>Fort Borek, skrzyzowanie - Fort Borek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7700053" lon="22.8971976">
+      <ele>223</ele>
+      <time>2022-01-17T21:54:18Z</time>
+    </trkpt>
+    <trkpt lat="49.7701023" lon="22.8974175">
+      <ele>223</ele>
+      <time>2022-01-17T21:54:44Z</time>
+    </trkpt>
+    <trkpt lat="49.7702686" lon="22.8974926">
+      <ele>224</ele>
+      <time>2022-01-17T21:55:10Z</time>
+    </trkpt>
+    <trkpt lat="49.7709961" lon="22.8976375">
+      <ele>222</ele>
+      <time>2022-01-17T21:56:59Z</time>
+    </trkpt>
+    <trkpt lat="49.7711261" lon="22.8977528">
+      <ele>221</ele>
+      <time>2022-01-17T21:57:21Z</time>
+    </trkpt>
+    <trkpt lat="49.7711702" lon="22.8980197">
+      <ele>220</ele>
+      <time>2022-01-17T21:57:48Z</time>
+    </trkpt>
+    <trkpt lat="49.7711728" lon="22.8989518">
+      <ele>223</ele>
+      <time>2022-01-17T21:59:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

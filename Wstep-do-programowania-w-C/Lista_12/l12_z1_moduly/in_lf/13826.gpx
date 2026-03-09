@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:04Z</time>
+    <bounds maxlat="50.261154" maxlon="19.0183932" minlat="50.2595798" minlon="19.0182636"/>
+  </metadata>
+  <wpt lat="50.261154" lon="19.018393">
+    <ele>268</ele>
+    <name>Katowice, ul. Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/9487">
+      <text>Katowice, ul. Mickiewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.25958" lon="19.018282">
+    <ele>269</ele>
+    <name>Galeria Katowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/9486">
+      <text>Galeria Katowicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowice, ul. Mickiewicza - Galeria Katowicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.261154,19.0183932;50.2602860052348,19.018272749999994;50.2595798,19.0182819">
+    <text>Katowice, ul. Mickiewicza - Galeria Katowicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.261154" lon="19.0183932">
+      <ele>268</ele>
+      <time>2022-01-18T00:13:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2609922" lon="19.0182636">
+      <ele>269</ele>
+      <time>2022-01-18T00:13:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2595798" lon="19.0182819">
+      <ele>269</ele>
+      <time>2022-01-18T00:16:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:17Z</time>
+    <bounds maxlat="50.3994618" maxlon="16.352556" minlat="50.3980035" minlon="16.3489116"/>
+  </metadata>
+  <wpt lat="50.398004" lon="16.348912">
+    <ele>660</ele>
+    <name>Przelecz Polskie Wrota</name>
+    <link href="https://mapa-turystyczna.pl/node/2971">
+      <text>Przelecz Polskie Wrota</text>
+    </link>
+  </wpt>
+  <wpt lat="50.399462" lon="16.352556">
+    <ele>675</ele>
+    <name>Ludowe</name>
+    <link href="https://mapa-turystyczna.pl/node/2970">
+      <text>Ludowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Polskie Wrota - Ludowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3980035,16.3489116;50.39872650031061,16.350942500000002;50.3994618,16.352556">
+    <text>Przelecz Polskie Wrota - Ludowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3980035" lon="16.3489116">
+      <ele>660</ele>
+      <time>2022-01-17T21:40:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3980728" lon="16.3490573">
+      <ele>656</ele>
+      <time>2022-01-17T21:40:29Z</time>
+    </trkpt>
+    <trkpt lat="50.398189" lon="16.3491593">
+      <ele>656</ele>
+      <time>2022-01-17T21:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3980232" lon="16.3496234">
+      <ele>657</ele>
+      <time>2022-01-17T21:41:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3981104" lon="16.3497493">
+      <ele>657</ele>
+      <time>2022-01-17T21:41:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3982437" lon="16.3501624">
+      <ele>662</ele>
+      <time>2022-01-17T21:41:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3984318" lon="16.3504253">
+      <ele>666</ele>
+      <time>2022-01-17T21:42:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3985549" lon="16.3506559">
+      <ele>669</ele>
+      <time>2022-01-17T21:42:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3988981" lon="16.3512291">
+      <ele>671</ele>
+      <time>2022-01-17T21:43:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3991157" lon="16.3515786">
+      <ele>671</ele>
+      <time>2022-01-17T21:44:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3993038" lon="16.3520131">
+      <ele>673</ele>
+      <time>2022-01-17T21:44:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3994618" lon="16.352556">
+      <ele>675</ele>
+      <time>2022-01-17T21:45:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

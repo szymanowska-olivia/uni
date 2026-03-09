@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:50Z</time>
+    <bounds maxlat="50.0837335" maxlon="17.2220671" minlat="50.0807697" minlon="17.2207797"/>
+  </metadata>
+  <wpt lat="50.083734" lon="17.222067">
+    <ele>1418</ele>
+    <name>Praded, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6904">
+      <text>Praded, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.08077" lon="17.221091">
+    <ele>1404</ele>
+    <name>Pod Pradedem</name>
+    <link href="https://mapa-turystyczna.pl/node/6903">
+      <text>Pod Pradedem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Praded, rozc. - Pod Pradedem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0837335,17.2220671;50.0824753504982,17.220817250000014;50.0807697,17.2210908">
+    <text>Praded, rozc. - Pod Pradedem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0837335" lon="17.2220671">
+      <ele>1418</ele>
+      <time>2022-01-17T23:04:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0835889" lon="17.2217721">
+      <ele>1419</ele>
+      <time>2022-01-17T23:05:12Z</time>
+    </trkpt>
+    <trkpt lat="50.083403" lon="17.2214395">
+      <ele>1420</ele>
+      <time>2022-01-17T23:05:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0831036" lon="17.2210801">
+      <ele>1419</ele>
+      <time>2022-01-17T23:06:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0826939" lon="17.2208548">
+      <ele>1417</ele>
+      <time>2022-01-17T23:06:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0822568" lon="17.2207797">
+      <ele>1414</ele>
+      <time>2022-01-17T23:07:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0816854" lon="17.2208869">
+      <ele>1408</ele>
+      <time>2022-01-17T23:08:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0807697" lon="17.2210908">
+      <ele>1404</ele>
+      <time>2022-01-17T23:09:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

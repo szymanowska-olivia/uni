@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:45Z</time>
+    <bounds maxlat="52.3110893" maxlon="20.8569217" minlat="52.3050543" minlon="20.8556557"/>
+  </metadata>
+  <wpt lat="52.311089" lon="20.855656">
+    <ele>84</ele>
+    <name>Uroczysko Luze</name>
+    <link href="https://mapa-turystyczna.pl/node/5004">
+      <text>Uroczysko Luze</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305054" lon="20.856922">
+    <ele>97</ele>
+    <name>Michalowka</name>
+    <link href="https://mapa-turystyczna.pl/node/4988">
+      <text>Michalowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Uroczysko Luze - Michalowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3110893,20.8556557;52.30671728123161,20.856631999999994;52.3050543,20.8569217">
+    <text>Uroczysko Luze - Michalowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3110893" lon="20.8556557">
+      <ele>84</ele>
+      <time>2022-01-17T22:21:45Z</time>
+    </trkpt>
+    <trkpt lat="52.3105072" lon="20.855881">
+      <ele>87</ele>
+      <time>2022-01-17T22:22:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3089936" lon="20.8561063">
+      <ele>90</ele>
+      <time>2022-01-17T22:25:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3083802" lon="20.8563423">
+      <ele>90</ele>
+      <time>2022-01-17T22:26:16Z</time>
+    </trkpt>
+    <trkpt lat="52.3050543" lon="20.8569217">
+      <ele>97</ele>
+      <time>2022-01-17T22:31:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

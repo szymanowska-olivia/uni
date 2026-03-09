@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:38Z</time>
+    <bounds maxlat="50.8835833" maxlon="16.7330791" minlat="50.8825832" minlon="16.7317412"/>
+  </metadata>
+  <wpt lat="50.882583" lon="16.731741">
+    <ele>371</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11696">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.883583" lon="16.733079">
+    <ele>357</ele>
+    <name>Rozdroze pod Stolna</name>
+    <link href="https://mapa-turystyczna.pl/node/2748">
+      <text>Rozdroze pod Stolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Rozdroze pod Stolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8825832,16.7317412;50.88320620152609,16.73275219999999;50.8835833,16.7330791">
+    <text>Skrzyzowanie szlakow - Rozdroze pod Stolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8825832" lon="16.7317412">
+      <ele>371</ele>
+      <time>2022-01-18T01:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8826095" lon="16.7318895">
+      <ele>370</ele>
+      <time>2022-01-18T01:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8828291" lon="16.7324253">
+      <ele>366</ele>
+      <time>2022-01-18T01:09:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8835833" lon="16.7330791">
+      <ele>357</ele>
+      <time>2022-01-18T01:10:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

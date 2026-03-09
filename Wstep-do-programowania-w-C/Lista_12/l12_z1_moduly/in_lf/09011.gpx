@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:21Z</time>
+    <bounds maxlat="50.245325" maxlon="17.2304624" minlat="50.244138" minlon="17.2303176"/>
+  </metadata>
+  <wpt lat="50.245325" lon="17.230462">
+    <ele>575</ele>
+    <name>U Zapomenuteho pramene</name>
+    <link href="https://mapa-turystyczna.pl/node/6275">
+      <text>U Zapomenuteho pramene</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244138" lon="17.230318">
+    <ele>602</ele>
+    <name>Zapomenuty pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6276">
+      <text>Zapomenuty pramen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Zapomenuteho pramene - Zapomenuty pramen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.245325,17.2304624;50.24473150369524,17.230389999999982;50.244138,17.2303176">
+    <text>U Zapomenuteho pramene - Zapomenuty pramen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.245325" lon="17.2304624">
+      <ele>575</ele>
+      <time>2022-01-17T22:49:21Z</time>
+    </trkpt>
+    <trkpt lat="50.244138" lon="17.2303176">
+      <ele>602</ele>
+      <time>2022-01-17T22:54:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:41Z</time>
+    <bounds maxlat="50.6999099" maxlon="19.4301635" minlat="50.6985779" minlon="19.4260651"/>
+  </metadata>
+  <wpt lat="50.698578" lon="19.426065">
+    <ele>312</ele>
+    <name>Grota Niedzwiedzia</name>
+    <link href="https://mapa-turystyczna.pl/node/4519">
+      <text>Grota Niedzwiedzia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.69991" lon="19.430163">
+    <ele>310</ele>
+    <name>Skrzyzowanie przy Grocie Niedzwiedzia</name>
+    <link href="https://mapa-turystyczna.pl/node/4520">
+      <text>Skrzyzowanie przy Grocie Niedzwiedzia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grota Niedzwiedzia - Skrzyzowanie przy Grocie Niedzwiedzia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6985779,19.4260651;50.69906555008006,19.428245700000005;50.6999099,19.4301635">
+    <text>Grota Niedzwiedzia - Skrzyzowanie przy Grocie Niedzwiedzia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6985779" lon="19.4260651">
+      <ele>312</ele>
+      <time>2022-01-17T22:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6986187" lon="19.426277">
+      <ele>311</ele>
+      <time>2022-01-17T22:07:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6986238" lon="19.4264821">
+      <ele>312</ele>
+      <time>2022-01-17T22:08:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6986968" lon="19.4270092">
+      <ele>309</ele>
+      <time>2022-01-17T22:08:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6989245" lon="19.4276744">
+      <ele>302</ele>
+      <time>2022-01-17T22:09:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6989789" lon="19.427948">
+      <ele>301</ele>
+      <time>2022-01-17T22:09:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6991522" lon="19.4285434">
+      <ele>301</ele>
+      <time>2022-01-17T22:10:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6994682" lon="19.4293803">
+      <ele>308</ele>
+      <time>2022-01-17T22:11:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6997637" lon="19.4297934">
+      <ele>310</ele>
+      <time>2022-01-17T22:12:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6999099" lon="19.4301635">
+      <ele>310</ele>
+      <time>2022-01-17T22:12:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

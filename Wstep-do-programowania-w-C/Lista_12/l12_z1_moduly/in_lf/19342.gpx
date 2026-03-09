@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:46:41Z</time>
+    <bounds maxlat="50.3248831" maxlon="16.5432261" minlat="50.3245338" minlon="16.5406468"/>
+  </metadata>
+  <wpt lat="50.324562" lon="16.540647">
+    <ele>814</ele>
+    <name>Wojtowska Rownina</name>
+    <link href="https://mapa-turystyczna.pl/node/13076">
+      <text>Wojtowska Rownina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.32463" lon="16.543226">
+    <ele>830</ele>
+    <name>Fort Wilhelma</name>
+    <link href="https://mapa-turystyczna.pl/node/13077">
+      <text>Fort Wilhelma</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wojtowska Rownina - Fort Wilhelma</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3245615,16.5406468;50.3246159500242,16.542163949999992;50.3246297,16.5432261">
+    <text>Wojtowska Rownina - Fort Wilhelma</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3245615" lon="16.5406468">
+      <ele>814</ele>
+      <time>2022-01-18T01:46:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3245338" lon="16.5409838">
+      <ele>816</ele>
+      <time>2022-01-18T01:47:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3245338" lon="16.5413593">
+      <ele>818</ele>
+      <time>2022-01-18T01:47:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3245543" lon="16.5417884">
+      <ele>821</ele>
+      <time>2022-01-18T01:48:35Z</time>
+    </trkpt>
+    <trkpt lat="50.324568" lon="16.5420137">
+      <ele>823</ele>
+      <time>2022-01-18T01:48:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3246639" lon="16.5423142">
+      <ele>826</ele>
+      <time>2022-01-18T01:49:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3247393" lon="16.5424429">
+      <ele>826</ele>
+      <time>2022-01-18T01:49:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3248626" lon="16.5425502">
+      <ele>827</ele>
+      <time>2022-01-18T01:50:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3248763" lon="16.5426575">
+      <ele>827</ele>
+      <time>2022-01-18T01:50:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3248831" lon="16.5428506">
+      <ele>829</ele>
+      <time>2022-01-18T01:50:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3248215" lon="16.5431188">
+      <ele>830</ele>
+      <time>2022-01-18T01:51:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3247598" lon="16.5432046">
+      <ele>830</ele>
+      <time>2022-01-18T01:51:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3246297" lon="16.5432261">
+      <ele>830</ele>
+      <time>2022-01-18T01:51:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

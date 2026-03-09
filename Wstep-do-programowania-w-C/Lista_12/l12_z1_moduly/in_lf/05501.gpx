@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:43Z</time>
+    <bounds maxlat="49.724651" maxlon="19.153731" minlat="49.724205" minlon="19.152249"/>
+  </metadata>
+  <wpt lat="49.724205" lon="19.152249">
+    <ele>362</ele>
+    <name>Lodygowice, ul. Rzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/3868">
+      <text>Lodygowice, ul. Rzeczna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.724651" lon="19.153731">
+    <ele>367</ele>
+    <name>Lodygowice, fabryka mebli</name>
+    <link href="https://mapa-turystyczna.pl/node/3867">
+      <text>Lodygowice, fabryka mebli</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lodygowice, ul. Rzeczna - Lodygowice, fabryka mebli</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.724205,19.152249;49.724498000042175,19.15297000000001;49.724651,19.153731">
+    <text>Lodygowice, ul. Rzeczna - Lodygowice, fabryka mebli</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.724205" lon="19.152249">
+      <ele>362</ele>
+      <time>2022-01-17T21:56:43Z</time>
+    </trkpt>
+    <trkpt lat="49.724329" lon="19.152556">
+      <ele>361</ele>
+      <time>2022-01-17T21:57:19Z</time>
+    </trkpt>
+    <trkpt lat="49.724421" lon="19.152782">
+      <ele>361</ele>
+      <time>2022-01-17T21:57:46Z</time>
+    </trkpt>
+    <trkpt lat="49.724434" lon="19.152814">
+      <ele>361</ele>
+      <time>2022-01-17T21:57:50Z</time>
+    </trkpt>
+    <trkpt lat="49.724562" lon="19.153126">
+      <ele>362</ele>
+      <time>2022-01-17T21:58:27Z</time>
+    </trkpt>
+    <trkpt lat="49.724589" lon="19.153192">
+      <ele>362</ele>
+      <time>2022-01-17T21:58:35Z</time>
+    </trkpt>
+    <trkpt lat="49.724584" lon="19.153225">
+      <ele>362</ele>
+      <time>2022-01-17T21:58:38Z</time>
+    </trkpt>
+    <trkpt lat="49.724579" lon="19.153268">
+      <ele>363</ele>
+      <time>2022-01-17T21:58:42Z</time>
+    </trkpt>
+    <trkpt lat="49.724498" lon="19.153346">
+      <ele>362</ele>
+      <time>2022-01-17T21:58:57Z</time>
+    </trkpt>
+    <trkpt lat="49.724539" lon="19.153448">
+      <ele>364</ele>
+      <time>2022-01-17T21:59:09Z</time>
+    </trkpt>
+    <trkpt lat="49.72463" lon="19.153679">
+      <ele>367</ele>
+      <time>2022-01-17T21:59:37Z</time>
+    </trkpt>
+    <trkpt lat="49.724651" lon="19.153731">
+      <ele>367</ele>
+      <time>2022-01-17T21:59:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

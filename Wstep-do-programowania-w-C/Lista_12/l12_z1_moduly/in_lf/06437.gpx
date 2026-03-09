@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:04Z</time>
+    <bounds maxlat="50.6761707" maxlon="19.3662089" minlat="50.6736857" minlon="19.3634355"/>
+  </metadata>
+  <wpt lat="50.673686" lon="19.363436">
+    <ele>385</ele>
+    <name>Suliszowice</name>
+    <link href="https://mapa-turystyczna.pl/node/4493">
+      <text>Suliszowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.676171" lon="19.366209">
+    <ele>395</ele>
+    <name>Suliszowice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4494">
+      <text>Suliszowice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Suliszowice - Suliszowice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6736857,19.3634355;50.67492610336689,19.364853700000012;50.6761707,19.3662089">
+    <text>Suliszowice - Suliszowice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6736857" lon="19.3634355">
+      <ele>385</ele>
+      <time>2022-01-17T22:07:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6739398" lon="19.363874">
+      <ele>387</ele>
+      <time>2022-01-17T22:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.674145" lon="19.3640397">
+      <ele>390</ele>
+      <time>2022-01-17T22:08:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6743639" lon="19.364334">
+      <ele>392</ele>
+      <time>2022-01-17T22:08:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6754883" lon="19.3653734">
+      <ele>399</ele>
+      <time>2022-01-17T22:10:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6757031" lon="19.3654884">
+      <ele>399</ele>
+      <time>2022-01-17T22:10:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6759315" lon="19.3657107">
+      <ele>398</ele>
+      <time>2022-01-17T22:11:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6761707" lon="19.3662089">
+      <ele>395</ele>
+      <time>2022-01-17T22:12:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:42Z</time>
+    <bounds maxlat="49.281743" maxlon="18.929045" minlat="49.28144" minlon="18.928783"/>
+  </metadata>
+  <wpt lat="49.281743" lon="18.929045">
+    <ele>737</ele>
+    <name>Sedlo nad Melisovcami, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9201">
+      <text>Sedlo nad Melisovcami, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.28144" lon="18.928783">
+    <ele>730</ele>
+    <name>Sedlo nad Melisovcami</name>
+    <link href="https://mapa-turystyczna.pl/node/9202">
+      <text>Sedlo nad Melisovcami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo nad Melisovcami, razc. - Sedlo nad Melisovcami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.281743,18.929045;49.28152400007156,18.928857000000026;49.28144,18.928783">
+    <text>Sedlo nad Melisovcami, razc. - Sedlo nad Melisovcami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.281743" lon="18.929045">
+      <ele>737</ele>
+      <time>2022-01-18T00:05:42Z</time>
+    </trkpt>
+    <trkpt lat="49.281608" lon="18.928931">
+      <ele>733</ele>
+      <time>2022-01-18T00:06:09Z</time>
+    </trkpt>
+    <trkpt lat="49.28144" lon="18.928783">
+      <ele>730</ele>
+      <time>2022-01-18T00:06:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

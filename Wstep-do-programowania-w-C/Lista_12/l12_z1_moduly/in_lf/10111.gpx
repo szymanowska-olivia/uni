@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:27Z</time>
+    <bounds maxlat="50.0660306" maxlon="17.247473" minlat="50.0632551" minlon="17.2413844"/>
+  </metadata>
+  <wpt lat="50.066031" lon="17.241384">
+    <ele>1370</ele>
+    <name>Nad Ovcarnou</name>
+    <link href="https://mapa-turystyczna.pl/node/7063">
+      <text>Nad Ovcarnou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.063255" lon="17.247473">
+    <ele>1371</ele>
+    <name>Nad Velkym kotlem</name>
+    <link href="https://mapa-turystyczna.pl/node/7115">
+      <text>Nad Velkym kotlem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Ovcarnou - Nad Velkym kotlem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0660306,17.2413844;50.06441215057151,17.24413635000003;50.0632551,17.247473">
+    <text>Nad Ovcarnou - Nad Velkym kotlem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0660306" lon="17.2413844">
+      <ele>1370</ele>
+      <time>2022-01-17T23:10:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0656759" lon="17.2419852">
+      <ele>1376</ele>
+      <time>2022-01-17T23:11:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0653488" lon="17.2426718">
+      <ele>1383</ele>
+      <time>2022-01-17T23:12:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0646463" lon="17.2437555">
+      <ele>1398</ele>
+      <time>2022-01-17T23:14:40Z</time>
+    </trkpt>
+    <trkpt lat="50.064178" lon="17.2445172">
+      <ele>1400</ele>
+      <time>2022-01-17T23:16:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0636545" lon="17.2456169">
+      <ele>1396</ele>
+      <time>2022-01-17T23:17:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0634479" lon="17.2463733">
+      <ele>1388</ele>
+      <time>2022-01-17T23:18:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0633171" lon="17.2469419">
+      <ele>1380</ele>
+      <time>2022-01-17T23:19:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0633033" lon="17.2472584">
+      <ele>1376</ele>
+      <time>2022-01-17T23:20:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0632551" lon="17.247473">
+      <ele>1371</ele>
+      <time>2022-01-17T23:20:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

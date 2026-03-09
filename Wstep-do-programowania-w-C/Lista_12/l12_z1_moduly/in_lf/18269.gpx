@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:08Z</time>
+    <bounds maxlat="52.2985542" maxlon="20.824589" minlat="52.2977992" minlon="20.8225162"/>
+  </metadata>
+  <wpt lat="52.298554" lon="20.822516">
+    <ele>88</ele>
+    <name>Dyrekcja Kampinoskiego Parku Narodowego</name>
+    <link href="https://mapa-turystyczna.pl/node/12401">
+      <text>Dyrekcja Kampinoskiego Parku Narodowego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.297799" lon="20.824589">
+    <ele>96</ele>
+    <name>Polana wypoczynkowa "Jakubow"</name>
+    <link href="https://mapa-turystyczna.pl/node/12402">
+      <text>Polana wypoczynkowa "Jakubow"</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dyrekcja Kampinoskiego Parku Narodowego - Polana wypoczynkowa &quot;Jakubow&quot;</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2985542,20.8225162;52.298024600573605,20.823900749999993;52.2977992,20.824589">
+    <text>Dyrekcja Kampinoskiego Parku Narodowego - Polana wypoczynkowa &quot;Jakubow&quot;</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2985542" lon="20.8225162">
+      <ele>88</ele>
+      <time>2022-01-18T01:28:08Z</time>
+    </trkpt>
+    <trkpt lat="52.2983883" lon="20.8230679">
+      <ele>90</ele>
+      <time>2022-01-18T01:28:53Z</time>
+    </trkpt>
+    <trkpt lat="52.29825" lon="20.8232125">
+      <ele>91</ele>
+      <time>2022-01-18T01:29:13Z</time>
+    </trkpt>
+    <trkpt lat="52.2977992" lon="20.824589">
+      <ele>96</ele>
+      <time>2022-01-18T01:31:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:05Z</time>
+    <bounds maxlat="51.3107735" maxlon="17.0769787" minlat="51.3092632" minlon="17.0679463"/>
+  </metadata>
+  <wpt lat="51.310219" lon="17.067946">
+    <ele>174</ele>
+    <name>Trzebnica, ul. Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/10541">
+      <text>Trzebnica, ul. Jana Pawla II</text>
+    </link>
+  </wpt>
+  <wpt lat="51.309263" lon="17.076979">
+    <ele>202</ele>
+    <name>Trzebnica, ul. Henryka Brodatego</name>
+    <link href="https://mapa-turystyczna.pl/node/10537">
+      <text>Trzebnica, ul. Henryka Brodatego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, ul. Jana Pawla II - Trzebnica, ul. Henryka Brodatego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3102189,17.0679463;51.310267150133406,17.07243605;51.3092632,17.0769787">
+    <text>Trzebnica, ul. Jana Pawla II - Trzebnica, ul. Henryka Brodatego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3102189" lon="17.0679463">
+      <ele>174</ele>
+      <time>2022-01-18T00:39:05Z</time>
+    </trkpt>
+    <trkpt lat="51.310465" lon="17.0683859">
+      <ele>173</ele>
+      <time>2022-01-18T00:39:59Z</time>
+    </trkpt>
+    <trkpt lat="51.3104784" lon="17.0686541">
+      <ele>174</ele>
+      <time>2022-01-18T00:40:24Z</time>
+    </trkpt>
+    <trkpt lat="51.3107467" lon="17.0692442">
+      <ele>177</ele>
+      <time>2022-01-18T00:41:31Z</time>
+    </trkpt>
+    <trkpt lat="51.3107735" lon="17.0702742">
+      <ele>179</ele>
+      <time>2022-01-18T00:43:06Z</time>
+    </trkpt>
+    <trkpt lat="51.31074" lon="17.0706926">
+      <ele>182</ele>
+      <time>2022-01-18T00:43:45Z</time>
+    </trkpt>
+    <trkpt lat="51.3103778" lon="17.0719801">
+      <ele>187</ele>
+      <time>2022-01-18T00:45:55Z</time>
+    </trkpt>
+    <trkpt lat="51.3101565" lon="17.072892">
+      <ele>189</ele>
+      <time>2022-01-18T00:47:25Z</time>
+    </trkpt>
+    <trkpt lat="51.3100559" lon="17.073761">
+      <ele>191</ele>
+      <time>2022-01-18T00:48:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3096401" lon="17.0758102">
+      <ele>201</ele>
+      <time>2022-01-18T00:52:04Z</time>
+    </trkpt>
+    <trkpt lat="51.3093517" lon="17.0766686">
+      <ele>202</ele>
+      <time>2022-01-18T00:53:34Z</time>
+    </trkpt>
+    <trkpt lat="51.3092632" lon="17.0769787">
+      <ele>202</ele>
+      <time>2022-01-18T00:54:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

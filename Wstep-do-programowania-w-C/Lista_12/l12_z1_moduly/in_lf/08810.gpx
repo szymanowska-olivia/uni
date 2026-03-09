@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:37Z</time>
+    <bounds maxlat="50.2833718" maxlon="17.2164023" minlat="50.2822406" minlon="17.2118264"/>
+  </metadata>
+  <wpt lat="50.282241" lon="17.211826">
+    <ele>684</ele>
+    <name>Bile Kameny, vrchol</name>
+    <link href="https://mapa-turystyczna.pl/node/6128">
+      <text>Bile Kameny, vrchol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.283372" lon="17.216402">
+    <ele>608</ele>
+    <name>Pod Bilymi Kameny</name>
+    <link href="https://mapa-turystyczna.pl/node/6130">
+      <text>Pod Bilymi Kameny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bile Kameny, vrchol - Pod Bilymi Kameny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2822406,17.2118264;50.28280620336055,17.21411435000001;50.2833718,17.2164023">
+    <text>Bile Kameny, vrchol - Pod Bilymi Kameny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2822406" lon="17.2118264">
+      <ele>684</ele>
+      <time>2022-01-17T22:45:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2833718" lon="17.2164023">
+      <ele>608</ele>
+      <time>2022-01-17T22:50:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

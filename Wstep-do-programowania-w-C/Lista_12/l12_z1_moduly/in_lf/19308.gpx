@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:46:02Z</time>
+    <bounds maxlat="52.4843251" maxlon="15.098784" minlat="52.4838144" minlon="15.0974214"/>
+  </metadata>
+  <wpt lat="52.484162" lon="15.098784">
+    <ele>81</ele>
+    <name>Jezioro Glebokie (Pierwsze)</name>
+    <link href="https://mapa-turystyczna.pl/node/13050">
+      <text>Jezioro Glebokie (Pierwsze)</text>
+    </link>
+  </wpt>
+  <wpt lat="52.484325" lon="15.097421">
+    <ele>85</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13051">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Glebokie (Pierwsze) - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4841617,15.098784;52.48406975074113,15.097716199999969;52.4843251,15.0974214">
+    <text>Jezioro Glebokie (Pierwsze) - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4841617" lon="15.098784">
+      <ele>81</ele>
+      <time>2022-01-18T01:46:02Z</time>
+    </trkpt>
+    <trkpt lat="52.4839973" lon="15.0986225">
+      <ele>82</ele>
+      <time>2022-01-18T01:46:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4838144" lon="15.098011">
+      <ele>83</ele>
+      <time>2022-01-18T01:47:01Z</time>
+    </trkpt>
+    <trkpt lat="52.4843251" lon="15.0974214">
+      <ele>85</ele>
+      <time>2022-01-18T01:48:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

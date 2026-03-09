@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:33Z</time>
+    <bounds maxlat="50.7098161" maxlon="15.6753123" minlat="50.7057993" minlon="15.6745076"/>
+  </metadata>
+  <wpt lat="50.709816" lon="15.675071">
+    <ele>1351</ele>
+    <name>Zadni Planina</name>
+    <link href="https://mapa-turystyczna.pl/node/1443">
+      <text>Zadni Planina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.705799" lon="15.674508">
+    <ele>1349</ele>
+    <name>Chata na Rozcesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1108">
+      <text>Chata na Rozcesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zadni Planina - Chata na Rozcesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7098161,15.6750709;50.70775435241589,15.6750897;50.7057993,15.6745076">
+    <text>Zadni Planina - Chata na Rozcesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7098161" lon="15.6750709">
+      <ele>1351</ele>
+      <time>2022-01-17T21:09:33Z</time>
+    </trkpt>
+    <trkpt lat="50.7091455" lon="15.6749717">
+      <ele>1347</ele>
+      <time>2022-01-17T21:11:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7082303" lon="15.6749368">
+      <ele>1341</ele>
+      <time>2022-01-17T21:13:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7072784" lon="15.6752426">
+      <ele>1342</ele>
+      <time>2022-01-17T21:15:43Z</time>
+    </trkpt>
+    <trkpt lat="50.706999" lon="15.6753123">
+      <ele>1344</ele>
+      <time>2022-01-17T21:16:24Z</time>
+    </trkpt>
+    <trkpt lat="50.706695" lon="15.675205">
+      <ele>1347</ele>
+      <time>2022-01-17T21:17:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7057993" lon="15.6745076">
+      <ele>1349</ele>
+      <time>2022-01-17T21:19:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:44Z</time>
+    <bounds maxlat="50.6707891" maxlon="16.4624225" minlat="50.6649573" minlon="16.4531744"/>
+  </metadata>
+  <wpt lat="50.664957" lon="16.462422">
+    <ele>721</ele>
+    <name>Rzeczka, Korona</name>
+    <link href="https://mapa-turystyczna.pl/node/4802">
+      <text>Rzeczka, Korona</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670789" lon="16.453174">
+    <ele>652</ele>
+    <name>Rzeczka, Krokus</name>
+    <link href="https://mapa-turystyczna.pl/node/4805">
+      <text>Rzeczka, Krokus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rzeczka, Korona - Rzeczka, Krokus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6649573,16.4624225;50.668951453038666,16.458149599999974;50.6707891,16.4531744">
+    <text>Rzeczka, Korona - Rzeczka, Krokus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6649573" lon="16.4624225">
+      <ele>721</ele>
+      <time>2022-01-17T22:16:44Z</time>
+    </trkpt>
+    <trkpt lat="50.666941" lon="16.4614777">
+      <ele>695</ele>
+      <time>2022-01-17T22:20:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6671653" lon="16.4613306">
+      <ele>692</ele>
+      <time>2022-01-17T22:20:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6674407" lon="16.4610624">
+      <ele>689</ele>
+      <time>2022-01-17T22:21:16Z</time>
+    </trkpt>
+    <trkpt lat="50.667789" lon="16.4605704">
+      <ele>686</ele>
+      <time>2022-01-17T22:22:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6684173" lon="16.4590671">
+      <ele>680</ele>
+      <time>2022-01-17T22:24:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6694856" lon="16.4572321">
+      <ele>670</ele>
+      <time>2022-01-17T22:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.669701" lon="16.4567923">
+      <ele>665</ele>
+      <time>2022-01-17T22:27:20Z</time>
+    </trkpt>
+    <trkpt lat="50.669901" lon="16.4561267">
+      <ele>663</ele>
+      <time>2022-01-17T22:28:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6701676" lon="16.4545167">
+      <ele>660</ele>
+      <time>2022-01-17T22:29:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6707891" lon="16.4531744">
+      <ele>652</ele>
+      <time>2022-01-17T22:31:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

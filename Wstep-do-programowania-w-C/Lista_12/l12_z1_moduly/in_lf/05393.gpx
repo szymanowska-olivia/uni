@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:01Z</time>
+    <bounds maxlat="49.7515716" maxlon="22.7289816" minlat="49.74992" minlon="22.7274728"/>
+  </metadata>
+  <wpt lat="49.751572" lon="22.728982">
+    <ele>394</ele>
+    <name>Iwanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3813">
+      <text>Iwanowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.74992" lon="22.727473">
+    <ele>401</ele>
+    <name>Fort Helicha</name>
+    <link href="https://mapa-turystyczna.pl/node/3814">
+      <text>Fort Helicha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Iwanowa - Fort Helicha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7515716,22.7289816;49.75076780091852,22.72859724999999;49.74992,22.7274728">
+    <text>Iwanowa - Fort Helicha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7515716" lon="22.7289816">
+      <ele>394</ele>
+      <time>2022-01-17T21:55:01Z</time>
+    </trkpt>
+    <trkpt lat="49.7514767" lon="22.7288313">
+      <ele>394</ele>
+      <time>2022-01-17T21:55:21Z</time>
+    </trkpt>
+    <trkpt lat="49.7510663" lon="22.7285979">
+      <ele>397</ele>
+      <time>2022-01-17T21:56:24Z</time>
+    </trkpt>
+    <trkpt lat="49.7504693" lon="22.7285966">
+      <ele>400</ele>
+      <time>2022-01-17T21:57:50Z</time>
+    </trkpt>
+    <trkpt lat="49.74992" lon="22.7274728">
+      <ele>401</ele>
+      <time>2022-01-17T22:00:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:25Z</time>
+    <bounds maxlat="49.613803" maxlon="19.469181" minlat="49.611991" minlon="19.467398"/>
+  </metadata>
+  <wpt lat="49.613803" lon="19.467398">
+    <ele>1150</ele>
+    <name>Modralova</name>
+    <link href="https://mapa-turystyczna.pl/node/4121">
+      <text>Modralova</text>
+    </link>
+  </wpt>
+  <wpt lat="49.611991" lon="19.469181">
+    <ele>1109</ele>
+    <name>Pod Medralowa</name>
+    <link href="https://mapa-turystyczna.pl/node/617">
+      <text>Pod Medralowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modralova - Pod Medralowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.613803,19.467398;49.61284400018421,19.4683985;49.611991,19.469181">
+    <text>Modralova - Pod Medralowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.613803" lon="19.467398">
+      <ele>1150</ele>
+      <time>2022-01-17T22:04:25Z</time>
+    </trkpt>
+    <trkpt lat="49.613651" lon="19.467599">
+      <ele>1150</ele>
+      <time>2022-01-17T22:04:52Z</time>
+    </trkpt>
+    <trkpt lat="49.613515" lon="19.467819">
+      <ele>1149</ele>
+      <time>2022-01-17T22:05:19Z</time>
+    </trkpt>
+    <trkpt lat="49.613284" lon="19.468023">
+      <ele>1145</ele>
+      <time>2022-01-17T22:05:56Z</time>
+    </trkpt>
+    <trkpt lat="49.612978" lon="19.468313">
+      <ele>1137</ele>
+      <time>2022-01-17T22:06:46Z</time>
+    </trkpt>
+    <trkpt lat="49.61271" lon="19.468484">
+      <ele>1130</ele>
+      <time>2022-01-17T22:07:26Z</time>
+    </trkpt>
+    <trkpt lat="49.612268" lon="19.468846">
+      <ele>1118</ele>
+      <time>2022-01-17T22:08:36Z</time>
+    </trkpt>
+    <trkpt lat="49.612104" lon="19.469005">
+      <ele>1114</ele>
+      <time>2022-01-17T22:09:02Z</time>
+    </trkpt>
+    <trkpt lat="49.611991" lon="19.469181">
+      <ele>1109</ele>
+      <time>2022-01-17T22:09:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

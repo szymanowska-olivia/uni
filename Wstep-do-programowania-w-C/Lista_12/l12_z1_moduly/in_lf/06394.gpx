@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:24Z</time>
+    <bounds maxlat="50.5274283" maxlon="19.520098" minlat="50.5236317" minlon="19.5080655"/>
+  </metadata>
+  <wpt lat="50.523632" lon="19.520098">
+    <ele>385</ele>
+    <name>Okiennik Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/4460">
+      <text>Okiennik Wielki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.526756" lon="19.508066">
+    <ele>394</ele>
+    <name>Zawiercie, Skarzyce</name>
+    <link href="https://mapa-turystyczna.pl/node/4455">
+      <text>Zawiercie, Skarzyce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okiennik Wielki - Zawiercie, Skarzyce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5236317,19.520098;50.526501759096824,19.513204099999996;50.5267557,19.5080655">
+    <text>Okiennik Wielki - Zawiercie, Skarzyce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5236317" lon="19.520098">
+      <ele>385</ele>
+      <time>2022-01-17T22:06:24Z</time>
+    </trkpt>
+    <trkpt lat="50.5253763" lon="19.5153746">
+      <ele>387</ele>
+      <time>2022-01-17T22:11:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5255752" lon="19.5149457">
+      <ele>388</ele>
+      <time>2022-01-17T22:12:26Z</time>
+    </trkpt>
+    <trkpt lat="50.5274283" lon="19.5114625">
+      <ele>399</ele>
+      <time>2022-01-17T22:17:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5274043" lon="19.511372">
+      <ele>399</ele>
+      <time>2022-01-17T22:17:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5273224" lon="19.5112868">
+      <ele>400</ele>
+      <time>2022-01-17T22:17:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5266094" lon="19.5109019">
+      <ele>398</ele>
+      <time>2022-01-17T22:18:27Z</time>
+    </trkpt>
+    <trkpt lat="50.526544" lon="19.5108346">
+      <ele>398</ele>
+      <time>2022-01-17T22:18:35Z</time>
+    </trkpt>
+    <trkpt lat="50.5265088" lon="19.510609">
+      <ele>398</ele>
+      <time>2022-01-17T22:18:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5267557" lon="19.5080655">
+      <ele>394</ele>
+      <time>2022-01-17T22:21:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

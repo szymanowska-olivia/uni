@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:22Z</time>
+    <bounds maxlat="50.6683038" maxlon="16.5051681" minlat="50.6681133" minlon="16.5047586"/>
+  </metadata>
+  <wpt lat="50.668291" lon="16.505168">
+    <ele>892</ele>
+    <name>Kozie Siodlo, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/6309">
+      <text>Kozie Siodlo, rozwidlenie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.668113" lon="16.504759">
+    <ele>888</ele>
+    <name>Kozie Siodlo</name>
+    <link href="https://mapa-turystyczna.pl/node/2037">
+      <text>Kozie Siodlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kozie Siodlo, rozwidlenie - Kozie Siodlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6682912,16.5051681;50.668208550096615,16.504953050000005;50.6681133,16.5047586">
+    <text>Kozie Siodlo, rozwidlenie - Kozie Siodlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6682912" lon="16.5051681">
+      <ele>892</ele>
+      <time>2022-01-17T22:50:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6683038" lon="16.5051475">
+      <ele>892</ele>
+      <time>2022-01-17T22:50:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6681133" lon="16.5047586">
+      <ele>888</ele>
+      <time>2022-01-17T22:51:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

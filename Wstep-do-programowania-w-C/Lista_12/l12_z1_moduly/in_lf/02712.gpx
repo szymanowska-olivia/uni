@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:50Z</time>
+    <bounds maxlat="50.2783292" maxlon="16.4789772" minlat="50.2734198" minlon="16.4755225"/>
+  </metadata>
+  <wpt lat="50.27342" lon="16.478977">
+    <ele>664</ele>
+    <name>Kunstat</name>
+    <link href="https://mapa-turystyczna.pl/node/1997">
+      <text>Kunstat</text>
+    </link>
+  </wpt>
+  <wpt lat="50.278329" lon="16.475523">
+    <ele>682</ele>
+    <name>Orlicke Zahori</name>
+    <link href="https://mapa-turystyczna.pl/node/1919">
+      <text>Orlicke Zahori</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kunstat - Orlicke Zahori</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2734198,16.4789772;50.27563200458586,16.476934699999983;50.2783292,16.4755225">
+    <text>Kunstat - Orlicke Zahori</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2734198" lon="16.4789772">
+      <ele>664</ele>
+      <time>2022-01-17T21:19:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2744175" lon="16.4783067">
+      <ele>666</ele>
+      <time>2022-01-17T21:21:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2749712" lon="16.4773276">
+      <ele>671</ele>
+      <time>2022-01-17T21:23:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2762928" lon="16.4765418">
+      <ele>669</ele>
+      <time>2022-01-17T21:25:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2768037" lon="16.4762038">
+      <ele>669</ele>
+      <time>2022-01-17T21:26:56Z</time>
+    </trkpt>
+    <trkpt lat="50.277731" lon="16.4758846">
+      <ele>676</ele>
+      <time>2022-01-17T21:28:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2783292" lon="16.4755225">
+      <ele>682</ele>
+      <time>2022-01-17T21:29:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

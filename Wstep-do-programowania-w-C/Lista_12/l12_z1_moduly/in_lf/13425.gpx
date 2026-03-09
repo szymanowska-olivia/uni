@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:15Z</time>
+    <bounds maxlat="50.7148763" maxlon="15.5827646" minlat="50.7140684" minlon="15.5804846"/>
+  </metadata>
+  <wpt lat="50.714766" lon="15.581856">
+    <ele>702</ele>
+    <name>Labska</name>
+    <link href="https://mapa-turystyczna.pl/node/9267">
+      <text>Labska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.714068" lon="15.580485">
+    <ele>704</ele>
+    <name>Labska, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1191">
+      <text>Labska, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Labska - Labska, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7147657,15.5818563;50.71445975009117,15.582094950000025;50.7140684,15.5804846">
+    <text>Labska - Labska, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7147657" lon="15.5818563">
+      <ele>702</ele>
+      <time>2022-01-18T00:07:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7148763" lon="15.5825232">
+      <ele>702</ele>
+      <time>2022-01-18T00:08:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7148763" lon="15.5827646">
+      <ele>702</ele>
+      <time>2022-01-18T00:08:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7145522" lon="15.5823071">
+      <ele>698</ele>
+      <time>2022-01-18T00:09:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7143673" lon="15.5818828">
+      <ele>698</ele>
+      <time>2022-01-18T00:10:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7142907" lon="15.5817063">
+      <ele>698</ele>
+      <time>2022-01-18T00:10:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7142247" lon="15.5814305">
+      <ele>699</ele>
+      <time>2022-01-18T00:10:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7140684" lon="15.5804846">
+      <ele>704</ele>
+      <time>2022-01-18T00:12:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

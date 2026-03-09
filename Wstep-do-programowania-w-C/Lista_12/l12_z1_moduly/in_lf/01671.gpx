@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:17Z</time>
+    <bounds maxlat="50.704959" maxlon="15.8077677" minlat="50.7008101" minlon="15.8071804"/>
+  </metadata>
+  <wpt lat="50.704959" lon="15.807651">
+    <ele>810</ele>
+    <name>Nad Krakonosovym udolim</name>
+    <link href="https://mapa-turystyczna.pl/node/1232">
+      <text>Nad Krakonosovym udolim</text>
+    </link>
+  </wpt>
+  <wpt lat="50.70081" lon="15.807459">
+    <ele>869</ele>
+    <name>Pod Dlouhym hrebenem, Emmina cesta</name>
+    <link href="https://mapa-turystyczna.pl/node/1267">
+      <text>Pod Dlouhym hrebenem, Emmina cesta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Krakonosovym udolim - Pod Dlouhym hrebenem, Emmina cesta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.704959,15.8076508;50.70328905278818,15.8074884;50.7008101,15.8074594">
+    <text>Nad Krakonosovym udolim - Pod Dlouhym hrebenem, Emmina cesta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.704959" lon="15.8076508">
+      <ele>810</ele>
+      <time>2022-01-17T21:04:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7048359" lon="15.8077677">
+      <ele>815</ele>
+      <time>2022-01-17T21:04:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7046078" lon="15.8077564">
+      <ele>815</ele>
+      <time>2022-01-17T21:05:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7043526" lon="15.8077022">
+      <ele>814</ele>
+      <time>2022-01-17T21:06:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7038004" lon="15.8076033">
+      <ele>820</ele>
+      <time>2022-01-17T21:08:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7027777" lon="15.8073735">
+      <ele>844</ele>
+      <time>2022-01-17T21:12:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7023315" lon="15.8072662">
+      <ele>852</ele>
+      <time>2022-01-17T21:13:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7020573" lon="15.8072555">
+      <ele>855</ele>
+      <time>2022-01-17T21:14:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7014108" lon="15.8071804">
+      <ele>857</ele>
+      <time>2022-01-17T21:16:57Z</time>
+    </trkpt>
+    <trkpt lat="50.701191" lon="15.8072126">
+      <ele>860</ele>
+      <time>2022-01-17T21:17:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7008692" lon="15.8073199">
+      <ele>865</ele>
+      <time>2022-01-17T21:18:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7008101" lon="15.8074594">
+      <ele>869</ele>
+      <time>2022-01-17T21:19:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

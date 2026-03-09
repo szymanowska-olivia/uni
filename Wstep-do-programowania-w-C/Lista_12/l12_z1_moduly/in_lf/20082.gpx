@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:11Z</time>
+    <bounds maxlat="50.3735646" maxlon="16.9354087" minlat="50.3731336" minlon="16.9333444"/>
+  </metadata>
+  <wpt lat="50.373134" lon="16.933344">
+    <ele>496</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13527">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.373565" lon="16.935409">
+    <ele>484</ele>
+    <name>Travna</name>
+    <link href="https://mapa-turystyczna.pl/node/2114">
+      <text>Travna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Travna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3731336,16.9333444;50.373328900213714,16.934226550000027;50.3735646,16.9354087">
+    <text>Rozejscie szlakow - Travna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3731336" lon="16.9333444">
+      <ele>496</ele>
+      <time>2022-01-18T02:00:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3731865" lon="16.9338021">
+      <ele>496</ele>
+      <time>2022-01-18T02:00:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3734713" lon="16.934651">
+      <ele>490</ele>
+      <time>2022-01-18T02:01:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3735646" lon="16.9354087">
+      <ele>484</ele>
+      <time>2022-01-18T02:02:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

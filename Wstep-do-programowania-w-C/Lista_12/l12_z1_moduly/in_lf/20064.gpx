@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:51Z</time>
+    <bounds maxlat="49.624036" maxlon="18.88529" minlat="49.623848" minlon="18.885255"/>
+  </metadata>
+  <wpt lat="49.623848" lon="18.88529">
+    <ele>584</ele>
+    <name>Wisla, Gron</name>
+    <link href="https://mapa-turystyczna.pl/node/856">
+      <text>Wisla, Gron</text>
+    </link>
+  </wpt>
+  <wpt lat="49.624036" lon="18.885255">
+    <ele>583</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13519">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, Gron - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.623848,18.88529;49.6239090000382,18.885275999999994;49.624036,18.885255">
+    <text>Wisla, Gron - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.623848" lon="18.88529">
+      <ele>584</ele>
+      <time>2022-01-18T01:59:51Z</time>
+    </trkpt>
+    <trkpt lat="49.62397" lon="18.885262">
+      <ele>584</ele>
+      <time>2022-01-18T02:00:30Z</time>
+    </trkpt>
+    <trkpt lat="49.624036" lon="18.885255">
+      <ele>583</ele>
+      <time>2022-01-18T02:00:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:12Z</time>
+    <bounds maxlat="54.1596473" maxlon="15.5808594" minlat="54.1595782" minlon="15.5803873"/>
+  </metadata>
+  <wpt lat="54.159578" lon="15.580859">
+    <ele>10</ele>
+    <name>Budzistowo, ul. Kolobrzeska</name>
+    <link href="https://mapa-turystyczna.pl/node/12610">
+      <text>Budzistowo, ul. Kolobrzeska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.159647" lon="15.580387">
+    <ele>11</ele>
+    <name>Budzistowo, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/12611">
+      <text>Budzistowo, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Budzistowo, ul. Kolobrzeska - Budzistowo, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1595782,15.5808594;54.15961275001442,15.580623350000007;54.1596473,15.5803873">
+    <text>Budzistowo, ul. Kolobrzeska - Budzistowo, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1595782" lon="15.5808594">
+      <ele>10</ele>
+      <time>2022-01-18T01:34:12Z</time>
+    </trkpt>
+    <trkpt lat="54.1596473" lon="15.5803873">
+      <ele>11</ele>
+      <time>2022-01-18T01:35:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

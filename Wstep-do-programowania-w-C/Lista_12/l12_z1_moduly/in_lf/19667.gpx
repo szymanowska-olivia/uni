@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:31Z</time>
+    <bounds maxlat="51.4476032" maxlon="23.1534235" minlat="51.4470881" minlon="23.1409103"/>
+  </metadata>
+  <wpt lat="51.447603" lon="23.153423">
+    <ele>169</ele>
+    <name>Kolonia Wola Wereszczynska</name>
+    <link href="https://mapa-turystyczna.pl/node/13270">
+      <text>Kolonia Wola Wereszczynska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.447088" lon="23.14091">
+    <ele>177</ele>
+    <name>Szalowily</name>
+    <link href="https://mapa-turystyczna.pl/node/13269">
+      <text>Szalowily</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolonia Wola Wereszczynska - Szalowily</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4476032,23.1534235;51.44734565072636,23.14716689999998;51.4470881,23.1409103">
+    <text>Kolonia Wola Wereszczynska - Szalowily</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4476032" lon="23.1534235">
+      <ele>169</ele>
+      <time>2022-01-18T01:52:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4470881" lon="23.1409103">
+      <ele>177</ele>
+      <time>2022-01-18T02:07:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

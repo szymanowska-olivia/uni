@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:36Z</time>
+    <bounds maxlat="50.0681379" maxlon="17.1846128" minlat="50.0657448" minlon="17.1689004"/>
+  </metadata>
+  <wpt lat="50.068138" lon="17.1689">
+    <ele>1277</ele>
+    <name>Mala Jezerna</name>
+    <link href="https://mapa-turystyczna.pl/node/6893">
+      <text>Mala Jezerna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.065745" lon="17.184613">
+    <ele>1241</ele>
+    <name>Velka Jezerna</name>
+    <link href="https://mapa-turystyczna.pl/node/6894">
+      <text>Velka Jezerna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Jezerna - Velka Jezerna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0681379,17.1689004;50.06714625049067,17.17600019999999;50.0657448,17.1846128">
+    <text>Mala Jezerna - Velka Jezerna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0681379" lon="17.1689004">
+      <ele>1277</ele>
+      <time>2022-01-17T23:04:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0678108" lon="17.1713948">
+      <ele>1271</ele>
+      <time>2022-01-17T23:07:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0677764" lon="17.1721351">
+      <ele>1270</ele>
+      <time>2022-01-17T23:08:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0673632" lon="17.1746618">
+      <ele>1261</ele>
+      <time>2022-01-17T23:11:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0669293" lon="17.1773386">
+      <ele>1234</ele>
+      <time>2022-01-17T23:15:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0665987" lon="17.1793932">
+      <ele>1231</ele>
+      <time>2022-01-17T23:17:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0663474" lon="17.1811581">
+      <ele>1235</ele>
+      <time>2022-01-17T23:20:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0661304" lon="17.1828264">
+      <ele>1237</ele>
+      <time>2022-01-17T23:22:12Z</time>
+    </trkpt>
+    <trkpt lat="50.06591" lon="17.1843982">
+      <ele>1241</ele>
+      <time>2022-01-17T23:24:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0657448" lon="17.1846128">
+      <ele>1241</ele>
+      <time>2022-01-17T23:24:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

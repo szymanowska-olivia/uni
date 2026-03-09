@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:26Z</time>
+    <bounds maxlat="52.0445903" maxlon="21.0420702" minlat="52.0415647" minlon="21.0403821"/>
+  </metadata>
+  <wpt lat="52.04459" lon="21.040382">
+    <ele>112</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11918">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.041565" lon="21.041632">
+    <ele>110</ele>
+    <name>Zimne Doly</name>
+    <link href="https://mapa-turystyczna.pl/node/11919">
+      <text>Zimne Doly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow niebieski / zolty - Zimne Doly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0445903,21.0403821;52.0430513566629,21.04146209999998;52.0415647,21.041632">
+    <text>Rozejscie szlakow niebieski / zolty - Zimne Doly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0445903" lon="21.0403821">
+      <ele>112</ele>
+      <time>2022-01-18T01:15:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0438231" lon="21.0408969">
+      <ele>117</ele>
+      <time>2022-01-18T01:16:41Z</time>
+    </trkpt>
+    <trkpt lat="52.0422796" lon="21.0420273">
+      <ele>115</ele>
+      <time>2022-01-18T01:19:14Z</time>
+    </trkpt>
+    <trkpt lat="52.0421707" lon="21.0420702">
+      <ele>114</ele>
+      <time>2022-01-18T01:19:24Z</time>
+    </trkpt>
+    <trkpt lat="52.042042" lon="21.0420648">
+      <ele>112</ele>
+      <time>2022-01-18T01:19:35Z</time>
+    </trkpt>
+    <trkpt lat="52.0418902" lon="21.0420273">
+      <ele>111</ele>
+      <time>2022-01-18T01:19:49Z</time>
+    </trkpt>
+    <trkpt lat="52.0418077" lon="21.04192">
+      <ele>111</ele>
+      <time>2022-01-18T01:19:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0416658" lon="21.0417751">
+      <ele>110</ele>
+      <time>2022-01-18T01:20:14Z</time>
+    </trkpt>
+    <trkpt lat="52.0415647" lon="21.041632">
+      <ele>110</ele>
+      <time>2022-01-18T01:20:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

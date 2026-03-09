@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:13Z</time>
+    <bounds maxlat="50.8380481" maxlon="15.2480556" minlat="50.830703" minlon="15.2429539"/>
+  </metadata>
+  <wpt lat="50.838048" lon="15.248056">
+    <ele>971</ele>
+    <name>Pod Jizerou</name>
+    <link href="https://mapa-turystyczna.pl/node/8788">
+      <text>Pod Jizerou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.830703" lon="15.242954">
+    <ele>987</ele>
+    <name>Na Knejpe</name>
+    <link href="https://mapa-turystyczna.pl/node/8790">
+      <text>Na Knejpe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jizerou - Na Knejpe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8380481,15.2480556;50.83484391071538,15.24482739999998;50.830703,15.2429539">
+    <text>Pod Jizerou - Na Knejpe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8380481" lon="15.2480556">
+      <ele>971</ele>
+      <time>2022-01-17T23:56:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8376124" lon="15.247413">
+      <ele>973</ele>
+      <time>2022-01-17T23:57:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8360947" lon="15.2455462">
+      <ele>974</ele>
+      <time>2022-01-18T00:00:49Z</time>
+    </trkpt>
+    <trkpt lat="50.835844" lon="15.2453102">
+      <ele>975</ele>
+      <time>2022-01-18T00:01:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8338438" lon="15.2443446">
+      <ele>981</ele>
+      <time>2022-01-18T00:05:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8320291" lon="15.2435506">
+      <ele>988</ele>
+      <time>2022-01-18T00:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8311705" lon="15.2433897">
+      <ele>986</ele>
+      <time>2022-01-18T00:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8309029" lon="15.2432073">
+      <ele>986</ele>
+      <time>2022-01-18T00:10:45Z</time>
+    </trkpt>
+    <trkpt lat="50.830703" lon="15.2429539">
+      <ele>987</ele>
+      <time>2022-01-18T00:11:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

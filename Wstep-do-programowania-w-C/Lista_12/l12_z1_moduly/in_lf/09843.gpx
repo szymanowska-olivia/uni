@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:15Z</time>
+    <bounds maxlat="50.0236024" maxlon="17.0755863" minlat="50.0222996" minlon="17.0745671"/>
+  </metadata>
+  <wpt lat="50.0223" lon="17.074567">
+    <ele>419</ele>
+    <name>Sobotin, lavka pres Mertu</name>
+    <link href="https://mapa-turystyczna.pl/node/6922">
+      <text>Sobotin, lavka pres Mertu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.023602" lon="17.075586">
+    <ele>434</ele>
+    <name>Pod Kozusnou</name>
+    <link href="https://mapa-turystyczna.pl/node/6923">
+      <text>Pod Kozusnou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotin, lavka pres Mertu - Pod Kozusnou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0222996,17.0745671;50.02300440058021,17.075079400000007;50.0236024,17.0755863">
+    <text>Sobotin, lavka pres Mertu - Pod Kozusnou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0222996" lon="17.0745671">
+      <ele>419</ele>
+      <time>2022-01-17T23:05:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0227683" lon="17.0749158">
+      <ele>420</ele>
+      <time>2022-01-17T23:07:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0232405" lon="17.075243">
+      <ele>429</ele>
+      <time>2022-01-17T23:08:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0236024" lon="17.0755863">
+      <ele>434</ele>
+      <time>2022-01-17T23:10:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

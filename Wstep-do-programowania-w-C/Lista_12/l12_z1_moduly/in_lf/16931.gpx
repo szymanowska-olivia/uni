@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:17Z</time>
+    <bounds maxlat="49.1301303" maxlon="22.7459584" minlat="49.1287805" minlon="22.7430892"/>
+  </metadata>
+  <wpt lat="49.13013" lon="22.745958">
+    <ele>719</ele>
+    <name>Muczne</name>
+    <link href="https://mapa-turystyczna.pl/node/355">
+      <text>Muczne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.12878" lon="22.743089">
+    <ele>729</ele>
+    <name>Muczne, domek mysliwski</name>
+    <link href="https://mapa-turystyczna.pl/node/11581">
+      <text>Muczne, domek mysliwski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Muczne - Muczne, domek mysliwski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1301303,22.7459584;49.129266002377065,22.743845750000027;49.1287805,22.7430892">
+    <text>Muczne - Muczne, domek mysliwski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1301303" lon="22.7459584">
+      <ele>719</ele>
+      <time>2022-01-18T01:05:17Z</time>
+    </trkpt>
+    <trkpt lat="49.1300884" lon="22.7457503">
+      <ele>721</ele>
+      <time>2022-01-18T01:05:35Z</time>
+    </trkpt>
+    <trkpt lat="49.129948" lon="22.7451334">
+      <ele>729</ele>
+      <time>2022-01-18T01:06:30Z</time>
+    </trkpt>
+    <trkpt lat="49.1297515" lon="22.7446023">
+      <ele>732</ele>
+      <time>2022-01-18T01:07:21Z</time>
+    </trkpt>
+    <trkpt lat="49.1287805" lon="22.7430892">
+      <ele>729</ele>
+      <time>2022-01-18T01:10:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

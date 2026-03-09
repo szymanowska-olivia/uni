@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:15Z</time>
+    <bounds maxlat="50.8188023" maxlon="15.5032196" minlat="50.8172558" minlon="15.5024117"/>
+  </metadata>
+  <wpt lat="50.818802" lon="15.502412">
+    <ele>755</ele>
+    <name>Rozdroze pod Kamienczykiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1334">
+      <text>Rozdroze pod Kamienczykiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.817256" lon="15.50304">
+    <ele>772</ele>
+    <name>Wysoki Most</name>
+    <link href="https://mapa-turystyczna.pl/node/8025">
+      <text>Wysoki Most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Kamienczykiem - Wysoki Most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8188023,15.5024117;50.81817390010687,15.503035599999992;50.8172558,15.5030397">
+    <text>Rozdroze pod Kamienczykiem - Wysoki Most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8188023" lon="15.5024117">
+      <ele>755</ele>
+      <time>2022-01-17T23:34:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8182738" lon="15.5029428">
+      <ele>758</ele>
+      <time>2022-01-17T23:36:05Z</time>
+    </trkpt>
+    <trkpt lat="50.818074" lon="15.5031284">
+      <ele>762</ele>
+      <time>2022-01-17T23:36:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8179384" lon="15.5032196">
+      <ele>763</ele>
+      <time>2022-01-17T23:37:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8176368" lon="15.5032196">
+      <ele>767</ele>
+      <time>2022-01-17T23:38:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8175012" lon="15.503166">
+      <ele>768</ele>
+      <time>2022-01-17T23:38:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8172558" lon="15.5030397">
+      <ele>772</ele>
+      <time>2022-01-17T23:39:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:31Z</time>
+    <bounds maxlat="50.3076397" maxlon="17.3807281" minlat="50.3072837" minlon="17.3790655"/>
+  </metadata>
+  <wpt lat="50.30764" lon="17.380728">
+    <ele>297</ele>
+    <name>Glucholazy-Zdroj, al. Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/8128">
+      <text>Glucholazy-Zdroj, al. Jana Pawla II</text>
+    </link>
+  </wpt>
+  <wpt lat="50.307284" lon="17.379065">
+    <ele>304</ele>
+    <name>Glucholazy-Zdroj, promenada</name>
+    <link href="https://mapa-turystyczna.pl/node/8129">
+      <text>Glucholazy-Zdroj, promenada</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glucholazy-Zdroj, al. Jana Pawla II - Glucholazy-Zdroj, promenada</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3076397,17.3807281;50.30749355001995,17.3797755;50.3072837,17.3790655">
+    <text>Glucholazy-Zdroj, al. Jana Pawla II - Glucholazy-Zdroj, promenada</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3076397" lon="17.3807281">
+      <ele>297</ele>
+      <time>2022-01-17T23:37:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3076188" lon="17.3806815">
+      <ele>297</ele>
+      <time>2022-01-17T23:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3075845" lon="17.3804562">
+      <ele>297</ele>
+      <time>2022-01-17T23:38:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3075371" lon="17.3799418">
+      <ele>296</ele>
+      <time>2022-01-17T23:38:53Z</time>
+    </trkpt>
+    <trkpt lat="50.30745" lon="17.3796092">
+      <ele>299</ele>
+      <time>2022-01-17T23:39:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3072837" lon="17.3790655">
+      <ele>304</ele>
+      <time>2022-01-17T23:40:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

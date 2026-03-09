@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:05Z</time>
+    <bounds maxlat="50.7862209" maxlon="16.3014778" minlat="50.7855845" minlon="16.2997198"/>
+  </metadata>
+  <wpt lat="50.785584" lon="16.301478">
+    <ele>564</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7215">
+      <text>Skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="50.786221" lon="16.29972">
+    <ele>536</ele>
+    <name>Skrzyzowanie pod Ptasia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2554">
+      <text>Skrzyzowanie pod Ptasia Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zielony - Skrzyzowanie pod Ptasia Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7855845,16.3014778;50.78603710002081,16.300846349999993;50.7862209,16.2997198">
+    <text>Skrzyzowanie szlakow niebieski / zielony - Skrzyzowanie pod Ptasia Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7855845" lon="16.3014778">
+      <ele>564</ele>
+      <time>2022-01-17T23:13:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7858709" lon="16.3011253">
+      <ele>555</ele>
+      <time>2022-01-17T23:13:37Z</time>
+    </trkpt>
+    <trkpt lat="50.785993" lon="16.3009644">
+      <ele>554</ele>
+      <time>2022-01-17T23:13:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7860812" lon="16.3007283">
+      <ele>551</ele>
+      <time>2022-01-17T23:14:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7861151" lon="16.3004923">
+      <ele>547</ele>
+      <time>2022-01-17T23:14:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7861693" lon="16.3001275">
+      <ele>540</ele>
+      <time>2022-01-17T23:14:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7862209" lon="16.2997198">
+      <ele>536</ele>
+      <time>2022-01-17T23:15:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

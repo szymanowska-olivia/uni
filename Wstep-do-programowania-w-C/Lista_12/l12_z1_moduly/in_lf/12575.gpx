@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:22Z</time>
+    <bounds maxlat="49.310106" maxlon="21.020121" minlat="49.310103" minlon="21.019826"/>
+  </metadata>
+  <wpt lat="49.310106" lon="21.020121">
+    <ele>474</ele>
+    <name>Lenartov</name>
+    <link href="https://mapa-turystyczna.pl/node/8631">
+      <text>Lenartov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.310103" lon="21.019826">
+    <ele>474</ele>
+    <name>Lenartov, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8632">
+      <text>Lenartov, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lenartov - Lenartov, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.310106,21.020121;49.31010450000003,21.01997350000002;49.310103,21.019826">
+    <text>Lenartov - Lenartov, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.310106" lon="21.020121">
+      <ele>474</ele>
+      <time>2022-01-17T23:52:22Z</time>
+    </trkpt>
+    <trkpt lat="49.310103" lon="21.019826">
+      <ele>474</ele>
+      <time>2022-01-17T23:53:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

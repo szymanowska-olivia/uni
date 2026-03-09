@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:11Z</time>
+    <bounds maxlat="51.2110211" maxlon="16.1649857" minlat="51.2073032" minlon="16.1615367"/>
+  </metadata>
+  <wpt lat="51.207303" lon="16.161537">
+    <ele>128</ele>
+    <name>Legnica</name>
+    <link href="https://mapa-turystyczna.pl/node/9963">
+      <text>Legnica</text>
+    </link>
+  </wpt>
+  <wpt lat="51.211021" lon="16.163707">
+    <ele>123</ele>
+    <name>Legnica, Zamek Piastowski</name>
+    <link href="https://mapa-turystyczna.pl/node/9996">
+      <text>Legnica, Zamek Piastowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legnica - Legnica, Zamek Piastowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2073032,16.1615367;51.20908725028266,16.164459949999983;51.2110211,16.1637071">
+    <text>Legnica - Legnica, Zamek Piastowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2073032" lon="16.1615367">
+      <ele>128</ele>
+      <time>2022-01-18T00:26:11Z</time>
+    </trkpt>
+    <trkpt lat="51.2079513" lon="16.1626843">
+      <ele>123</ele>
+      <time>2022-01-18T00:28:11Z</time>
+    </trkpt>
+    <trkpt lat="51.2089259" lon="16.1641649">
+      <ele>124</ele>
+      <time>2022-01-18T00:30:58Z</time>
+    </trkpt>
+    <trkpt lat="51.2092486" lon="16.164755">
+      <ele>124</ele>
+      <time>2022-01-18T00:31:59Z</time>
+    </trkpt>
+    <trkpt lat="51.2095645" lon="16.1649857">
+      <ele>123</ele>
+      <time>2022-01-18T00:32:42Z</time>
+    </trkpt>
+    <trkpt lat="51.2096535" lon="16.1648247">
+      <ele>123</ele>
+      <time>2022-01-18T00:32:58Z</time>
+    </trkpt>
+    <trkpt lat="51.2098199" lon="16.1645887">
+      <ele>123</ele>
+      <time>2022-01-18T00:33:26Z</time>
+    </trkpt>
+    <trkpt lat="51.2099509" lon="16.1644546">
+      <ele>122</ele>
+      <time>2022-01-18T00:33:45Z</time>
+    </trkpt>
+    <trkpt lat="51.2104181" lon="16.1642454">
+      <ele>121</ele>
+      <time>2022-01-18T00:34:45Z</time>
+    </trkpt>
+    <trkpt lat="51.2107608" lon="16.1639772">
+      <ele>121</ele>
+      <time>2022-01-18T00:35:32Z</time>
+    </trkpt>
+    <trkpt lat="51.2110211" lon="16.1637071">
+      <ele>123</ele>
+      <time>2022-01-18T00:36:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

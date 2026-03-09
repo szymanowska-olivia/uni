@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:04Z</time>
+    <bounds maxlat="49.335111" maxlon="21.245049" minlat="49.334957" minlon="21.244895"/>
+  </metadata>
+  <wpt lat="49.335111" lon="21.244895">
+    <ele>533</ele>
+    <name>Sedlo Ceresna, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8942">
+      <text>Sedlo Ceresna, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.334957" lon="21.245049">
+    <ele>533</ele>
+    <name>Sedlo Ceresna</name>
+    <link href="https://mapa-turystyczna.pl/node/8949">
+      <text>Sedlo Ceresna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Ceresna, razc. - Sedlo Ceresna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.335111,21.244895;49.33505750002908,21.244940500000006;49.334957,21.245049">
+    <text>Sedlo Ceresna, razc. - Sedlo Ceresna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.335111" lon="21.244895">
+      <ele>533</ele>
+      <time>2022-01-18T00:00:04Z</time>
+    </trkpt>
+    <trkpt lat="49.335004" lon="21.244986">
+      <ele>533</ele>
+      <time>2022-01-18T00:00:44Z</time>
+    </trkpt>
+    <trkpt lat="49.334957" lon="21.245049">
+      <ele>533</ele>
+      <time>2022-01-18T00:01:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

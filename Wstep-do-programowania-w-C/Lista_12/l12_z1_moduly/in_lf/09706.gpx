@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:37Z</time>
+    <bounds maxlat="50.1008587" maxlon="17.1079874" minlat="50.0998746" minlon="17.1076763"/>
+  </metadata>
+  <wpt lat="50.099875" lon="17.107821">
+    <ele>558</ele>
+    <name>Kouty nad Desnou</name>
+    <link href="https://mapa-turystyczna.pl/node/6813">
+      <text>Kouty nad Desnou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.100859" lon="17.107987">
+    <ele>562</ele>
+    <name>Kouty nad Desnou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6815">
+      <text>Kouty nad Desnou, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kouty nad Desnou - Kouty nad Desnou, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0998746,17.1078211;50.10057825082092,17.107877450000018;50.1008587,17.1079874">
+    <text>Kouty nad Desnou - Kouty nad Desnou, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0998746" lon="17.1078211">
+      <ele>558</ele>
+      <time>2022-01-17T23:02:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0999107" lon="17.1076763">
+      <ele>558</ele>
+      <time>2022-01-17T23:02:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1002978" lon="17.1077675">
+      <ele>558</ele>
+      <time>2022-01-17T23:03:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1008587" lon="17.1079874">
+      <ele>562</ele>
+      <time>2022-01-17T23:04:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

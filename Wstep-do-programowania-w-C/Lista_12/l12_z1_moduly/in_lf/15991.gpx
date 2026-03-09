@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:23Z</time>
+    <bounds maxlat="49.4627869" maxlon="21.7340084" minlat="49.4623767" minlon="21.7338088"/>
+  </metadata>
+  <wpt lat="49.462787" lon="21.733809">
+    <ele>397</ele>
+    <name>Poczatek sciezki przyrodniczej W przelomie Jasiolki</name>
+    <link href="https://mapa-turystyczna.pl/node/10949">
+      <text>Poczatek sciezki przyrodniczej W przelomie Jasiolki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.462377" lon="21.734008">
+    <ele>403</ele>
+    <name>Rozejscie sciezki przyrodniczej</name>
+    <link href="https://mapa-turystyczna.pl/node/10950">
+      <text>Rozejscie sciezki przyrodniczej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poczatek sciezki przyrodniczej W przelomie Jasiolki - Rozejscie sciezki przyrodniczej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4627869,21.7338088;49.46258180042924,21.733908599999967;49.4623767,21.7340084">
+    <text>Poczatek sciezki przyrodniczej W przelomie Jasiolki - Rozejscie sciezki przyrodniczej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4627869" lon="21.7338088">
+      <ele>397</ele>
+      <time>2022-01-18T00:49:23Z</time>
+    </trkpt>
+    <trkpt lat="49.4623767" lon="21.7340084">
+      <ele>403</ele>
+      <time>2022-01-18T00:50:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

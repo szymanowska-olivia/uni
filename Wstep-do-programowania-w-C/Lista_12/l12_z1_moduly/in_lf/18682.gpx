@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:23Z</time>
+    <bounds maxlat="54.0603501" maxlon="14.9338691" minlat="54.0598864" minlon="14.9324595"/>
+  </metadata>
+  <wpt lat="54.06035" lon="14.93246">
+    <ele>9</ele>
+    <name>Pobierowo, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12653">
+      <text>Pobierowo, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="54.060168" lon="14.933869">
+    <ele>11</ele>
+    <name>Pobierowo, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12556">
+      <text>Pobierowo, dworzec autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pobierowo, ul. Wojska Polskiego - Pobierowo, dworzec autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0603501,14.9324595;54.06002725023882,14.933383649999996;54.0601681,14.9338691">
+    <text>Pobierowo, ul. Wojska Polskiego - Pobierowo, dworzec autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0603501" lon="14.9324595">
+      <ele>9</ele>
+      <time>2022-01-18T01:35:23Z</time>
+    </trkpt>
+    <trkpt lat="54.0598864" lon="14.9328982">
+      <ele>9</ele>
+      <time>2022-01-18T01:36:18Z</time>
+    </trkpt>
+    <trkpt lat="54.0601681" lon="14.9338691">
+      <ele>11</ele>
+      <time>2022-01-18T01:37:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

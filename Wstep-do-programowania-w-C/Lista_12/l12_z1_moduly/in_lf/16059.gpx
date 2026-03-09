@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:28Z</time>
+    <bounds maxlat="49.572512" maxlon="20.219472" minlat="49.568991" minlon="20.218816"/>
+  </metadata>
+  <wpt lat="49.572512" lon="20.219119">
+    <ele>761</ele>
+    <name>Gorska olszyna bagienna</name>
+    <link href="https://mapa-turystyczna.pl/node/10986">
+      <text>Gorska olszyna bagienna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.568991" lon="20.219468">
+    <ele>778</ele>
+    <name>Papiezowka</name>
+    <link href="https://mapa-turystyczna.pl/node/10987">
+      <text>Papiezowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorska olszyna bagienna - Papiezowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.572512,20.219119;49.570752000331886,20.218962500000018;49.568991,20.219468">
+    <text>Gorska olszyna bagienna - Papiezowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.572512" lon="20.219119">
+      <ele>761</ele>
+      <time>2022-01-18T00:50:28Z</time>
+    </trkpt>
+    <trkpt lat="49.572259" lon="20.219116">
+      <ele>765</ele>
+      <time>2022-01-18T00:51:11Z</time>
+    </trkpt>
+    <trkpt lat="49.572084" lon="20.219089">
+      <ele>766</ele>
+      <time>2022-01-18T00:51:40Z</time>
+    </trkpt>
+    <trkpt lat="49.571317" lon="20.218843">
+      <ele>764</ele>
+      <time>2022-01-18T00:53:50Z</time>
+    </trkpt>
+    <trkpt lat="49.571103" lon="20.218816">
+      <ele>765</ele>
+      <time>2022-01-18T00:54:26Z</time>
+    </trkpt>
+    <trkpt lat="49.570932" lon="20.218846">
+      <ele>767</ele>
+      <time>2022-01-18T00:54:55Z</time>
+    </trkpt>
+    <trkpt lat="49.570572" lon="20.219079">
+      <ele>772</ele>
+      <time>2022-01-18T00:56:00Z</time>
+    </trkpt>
+    <trkpt lat="49.570477" lon="20.219126">
+      <ele>773</ele>
+      <time>2022-01-18T00:56:17Z</time>
+    </trkpt>
+    <trkpt lat="49.569761" lon="20.219373">
+      <ele>772</ele>
+      <time>2022-01-18T00:58:18Z</time>
+    </trkpt>
+    <trkpt lat="49.56954" lon="20.219455">
+      <ele>772</ele>
+      <time>2022-01-18T00:58:56Z</time>
+    </trkpt>
+    <trkpt lat="49.569354" lon="20.219472">
+      <ele>773</ele>
+      <time>2022-01-18T00:59:27Z</time>
+    </trkpt>
+    <trkpt lat="49.568991" lon="20.219468">
+      <ele>778</ele>
+      <time>2022-01-18T01:00:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

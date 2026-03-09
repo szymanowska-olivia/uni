@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:56Z</time>
+    <bounds maxlat="49.622414" maxlon="19.477314" minlat="49.621253" minlon="19.474962"/>
+  </metadata>
+  <wpt lat="49.621253" lon="19.474962">
+    <ele>1119</ele>
+    <name>Kolisty Gron</name>
+    <link href="https://mapa-turystyczna.pl/node/13004">
+      <text>Kolisty Gron</text>
+    </link>
+  </wpt>
+  <wpt lat="49.622414" lon="19.477314">
+    <ele>1105</ele>
+    <name>Kolisty Gron, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4021">
+      <text>Kolisty Gron, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolisty Gron - Kolisty Gron, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.621253,19.474962;49.622048000366554,19.47637349999998;49.622414,19.477314">
+    <text>Kolisty Gron - Kolisty Gron, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.621253" lon="19.474962">
+      <ele>1119</ele>
+      <time>2022-01-18T01:44:56Z</time>
+    </trkpt>
+    <trkpt lat="49.621318" lon="19.475085">
+      <ele>1120</ele>
+      <time>2022-01-18T01:45:06Z</time>
+    </trkpt>
+    <trkpt lat="49.621366" lon="19.475211">
+      <ele>1121</ele>
+      <time>2022-01-18T01:45:14Z</time>
+    </trkpt>
+    <trkpt lat="49.621544" lon="19.475482">
+      <ele>1119</ele>
+      <time>2022-01-18T01:45:38Z</time>
+    </trkpt>
+    <trkpt lat="49.621859" lon="19.475959">
+      <ele>1116</ele>
+      <time>2022-01-18T01:46:19Z</time>
+    </trkpt>
+    <trkpt lat="49.622237" lon="19.476788">
+      <ele>1109</ele>
+      <time>2022-01-18T01:47:20Z</time>
+    </trkpt>
+    <trkpt lat="49.622414" lon="19.477314">
+      <ele>1105</ele>
+      <time>2022-01-18T01:47:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

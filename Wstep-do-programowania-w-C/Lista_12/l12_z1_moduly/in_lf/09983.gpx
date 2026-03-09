@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:07:57Z</time>
+    <bounds maxlat="48.8495204" maxlon="20.3783941" minlat="48.8489592" minlon="20.3776431"/>
+  </metadata>
+  <wpt lat="48.848959" lon="20.377643">
+    <ele>851</ele>
+    <name>Dobsinsky Kopec</name>
+    <link href="https://mapa-turystyczna.pl/node/6951">
+      <text>Dobsinsky Kopec</text>
+    </link>
+  </wpt>
+  <wpt lat="48.84952" lon="20.378394">
+    <ele>860</ele>
+    <name>Dobsinsky Kopec, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7031">
+      <text>Dobsinsky Kopec, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dobsinsky Kopec - Dobsinsky Kopec, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8489592,20.3776431;48.84917800003188,20.378070899999997;48.8495204,20.3783941">
+    <text>Dobsinsky Kopec - Dobsinsky Kopec, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8489592" lon="20.3776431">
+      <ele>851</ele>
+      <time>2022-01-17T23:07:57Z</time>
+    </trkpt>
+    <trkpt lat="48.8491215" lon="20.3779918">
+      <ele>856</ele>
+      <time>2022-01-17T23:08:41Z</time>
+    </trkpt>
+    <trkpt lat="48.8492345" lon="20.37815">
+      <ele>857</ele>
+      <time>2022-01-17T23:09:06Z</time>
+    </trkpt>
+    <trkpt lat="48.8493686" lon="20.3782654">
+      <ele>859</ele>
+      <time>2022-01-17T23:09:30Z</time>
+    </trkpt>
+    <trkpt lat="48.8495204" lon="20.3783941">
+      <ele>860</ele>
+      <time>2022-01-17T23:09:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

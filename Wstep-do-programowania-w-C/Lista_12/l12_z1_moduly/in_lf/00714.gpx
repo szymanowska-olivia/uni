@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:51:55Z</time>
+    <bounds maxlat="49.425127" maxlon="19.104093" minlat="49.423396" minlon="19.102917"/>
+  </metadata>
+  <wpt lat="49.423396" lon="19.102917">
+    <ele>1109</ele>
+    <name>Hala Rycerzowa, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/3862">
+      <text>Hala Rycerzowa, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.425127" lon="19.104037">
+    <ele>1123</ele>
+    <name>Skrzadnita</name>
+    <link href="https://mapa-turystyczna.pl/node/3861">
+      <text>Skrzadnita</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hala Rycerzowa, odejscie szlaku czarnego - Skrzadnita</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.423396,19.102917;49.42418800004173,19.103904499999985;49.425127,19.104037">
+    <text>Hala Rycerzowa, odejscie szlaku czarnego - Skrzadnita</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.423396" lon="19.102917">
+      <ele>1109</ele>
+      <time>2022-01-17T20:51:55Z</time>
+    </trkpt>
+    <trkpt lat="49.423632" lon="19.10309">
+      <ele>1110</ele>
+      <time>2022-01-17T20:52:34Z</time>
+    </trkpt>
+    <trkpt lat="49.423755" lon="19.103299">
+      <ele>1113</ele>
+      <time>2022-01-17T20:53:01Z</time>
+    </trkpt>
+    <trkpt lat="49.423821" lon="19.103495">
+      <ele>1115</ele>
+      <time>2022-01-17T20:53:23Z</time>
+    </trkpt>
+    <trkpt lat="49.423987" lon="19.103704">
+      <ele>1119</ele>
+      <time>2022-01-17T20:53:55Z</time>
+    </trkpt>
+    <trkpt lat="49.424124" lon="19.103832">
+      <ele>1121</ele>
+      <time>2022-01-17T20:54:19Z</time>
+    </trkpt>
+    <trkpt lat="49.424252" lon="19.103977">
+      <ele>1123</ele>
+      <time>2022-01-17T20:54:43Z</time>
+    </trkpt>
+    <trkpt lat="49.424358" lon="19.104069">
+      <ele>1124</ele>
+      <time>2022-01-17T20:55:01Z</time>
+    </trkpt>
+    <trkpt lat="49.424499" lon="19.104093">
+      <ele>1126</ele>
+      <time>2022-01-17T20:55:22Z</time>
+    </trkpt>
+    <trkpt lat="49.425127" lon="19.104037">
+      <ele>1123</ele>
+      <time>2022-01-17T20:56:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

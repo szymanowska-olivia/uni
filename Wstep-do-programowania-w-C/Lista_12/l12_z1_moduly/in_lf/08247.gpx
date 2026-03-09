@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:23Z</time>
+    <bounds maxlat="50.9786861" maxlon="15.8199184" minlat="50.9785184" minlon="15.8180495"/>
+  </metadata>
+  <wpt lat="50.978686" lon="15.81805">
+    <ele>673</ele>
+    <name>Skrzyzowanie pod Okolem</name>
+    <link href="https://mapa-turystyczna.pl/node/5731">
+      <text>Skrzyzowanie pod Okolem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.978564" lon="15.819918">
+    <ele>663</ele>
+    <name>Skrzyzowanie pod Okolem</name>
+    <link href="https://mapa-turystyczna.pl/node/5732">
+      <text>Skrzyzowanie pod Okolem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Okolem - Skrzyzowanie pod Okolem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9786861,15.8180495;50.97853115000176,15.818844600000007;50.9785638,15.8199184">
+    <text>Skrzyzowanie pod Okolem - Skrzyzowanie pod Okolem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9786861" lon="15.8180495">
+      <ele>673</ele>
+      <time>2022-01-17T22:35:23Z</time>
+    </trkpt>
+    <trkpt lat="50.9785439" lon="15.8186514">
+      <ele>670</ele>
+      <time>2022-01-17T22:36:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9785184" lon="15.8190378">
+      <ele>668</ele>
+      <time>2022-01-17T22:36:28Z</time>
+    </trkpt>
+    <trkpt lat="50.978547" lon="15.8194243">
+      <ele>667</ele>
+      <time>2022-01-17T22:36:52Z</time>
+    </trkpt>
+    <trkpt lat="50.9785638" lon="15.8199184">
+      <ele>663</ele>
+      <time>2022-01-17T22:37:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

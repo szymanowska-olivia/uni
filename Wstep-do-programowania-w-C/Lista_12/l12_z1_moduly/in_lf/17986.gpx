@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:23Z</time>
+    <bounds maxlat="52.4948903" maxlon="20.6995202" minlat="52.4936359" minlon="20.6989801"/>
+  </metadata>
+  <wpt lat="52.49489" lon="20.69898">
+    <ele>73</ele>
+    <name>Kosewko, most</name>
+    <link href="https://mapa-turystyczna.pl/node/12248">
+      <text>Kosewko, most</text>
+    </link>
+  </wpt>
+  <wpt lat="52.493636" lon="20.69952">
+    <ele>76</ele>
+    <name>Kosewko</name>
+    <link href="https://mapa-turystyczna.pl/node/12255">
+      <text>Kosewko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kosewko, most - Kosewko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4948903,20.6989801;52.49440595266746,20.699199549999996;52.4936359,20.6995202">
+    <text>Kosewko, most - Kosewko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4948903" lon="20.6989801">
+      <ele>73</ele>
+      <time>2022-01-18T01:23:23Z</time>
+    </trkpt>
+    <trkpt lat="52.4939216" lon="20.699419">
+      <ele>73</ele>
+      <time>2022-01-18T01:24:56Z</time>
+    </trkpt>
+    <trkpt lat="52.4936603" lon="20.6995048">
+      <ele>75</ele>
+      <time>2022-01-18T01:25:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4936359" lon="20.6995202">
+      <ele>76</ele>
+      <time>2022-01-18T01:25:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

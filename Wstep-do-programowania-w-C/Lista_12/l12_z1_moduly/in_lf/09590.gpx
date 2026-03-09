@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:00:28Z</time>
+    <bounds maxlat="48.9264187" maxlon="19.6906757" minlat="48.9260522" minlon="19.6901849"/>
+  </metadata>
+  <wpt lat="48.926419" lon="19.690676">
+    <ele>1502</ele>
+    <name>Bocianske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6580">
+      <text>Bocianske sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="48.926052" lon="19.690185">
+    <ele>1506</ele>
+    <name>Bocianske sedlo, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6736">
+      <text>Bocianske sedlo, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bocianske sedlo - Bocianske sedlo, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9264187,19.6906757;48.92627075000051,19.69042624999999;48.9260522,19.6901849">
+    <text>Bocianske sedlo - Bocianske sedlo, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9264187" lon="19.6906757">
+      <ele>1502</ele>
+      <time>2022-01-17T23:00:28Z</time>
+    </trkpt>
+    <trkpt lat="48.9263518" lon="19.6906382">
+      <ele>1503</ele>
+      <time>2022-01-17T23:00:36Z</time>
+    </trkpt>
+    <trkpt lat="48.9262778" lon="19.6905094">
+      <ele>1504</ele>
+      <time>2022-01-17T23:00:48Z</time>
+    </trkpt>
+    <trkpt lat="48.9262637" lon="19.6903431">
+      <ele>1505</ele>
+      <time>2022-01-17T23:01:01Z</time>
+    </trkpt>
+    <trkpt lat="48.9262134" lon="19.690256">
+      <ele>1505</ele>
+      <time>2022-01-17T23:01:09Z</time>
+    </trkpt>
+    <trkpt lat="48.9261421" lon="19.6901903">
+      <ele>1505</ele>
+      <time>2022-01-17T23:01:18Z</time>
+    </trkpt>
+    <trkpt lat="48.9260522" lon="19.6901849">
+      <ele>1506</ele>
+      <time>2022-01-17T23:01:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

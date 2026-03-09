@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:48Z</time>
+    <bounds maxlat="50.8506159" maxlon="15.5854038" minlat="50.850564" minlon="15.5839536"/>
+  </metadata>
+  <wpt lat="50.850564" lon="15.583954">
+    <ele>394</ele>
+    <name>Piechowice, ul. Wiejska</name>
+    <link href="https://mapa-turystyczna.pl/node/5871">
+      <text>Piechowice, ul. Wiejska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.850616" lon="15.585404">
+    <ele>393</ele>
+    <name>Piechowice, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2224">
+      <text>Piechowice, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piechowice, ul. Wiejska - Piechowice, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.850564,15.5839536;50.850576450001675,15.584501900000015;50.8506159,15.5854038">
+    <text>Piechowice, ul. Wiejska - Piechowice, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.850564" lon="15.5839536">
+      <ele>394</ele>
+      <time>2022-01-17T22:38:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8505889" lon="15.5850502">
+      <ele>391</ele>
+      <time>2022-01-17T22:40:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8506159" lon="15.5854038">
+      <ele>393</ele>
+      <time>2022-01-17T22:40:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

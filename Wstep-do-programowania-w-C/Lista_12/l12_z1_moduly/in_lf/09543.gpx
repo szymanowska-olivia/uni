@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:28Z</time>
+    <bounds maxlat="48.8929241" maxlon="19.7019088" minlat="48.8923527" minlon="19.7015521"/>
+  </metadata>
+  <wpt lat="48.892924" lon="19.701909">
+    <ele>880</ele>
+    <name>Horna Jaraba, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6712">
+      <text>Horna Jaraba, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.892353" lon="19.701552">
+    <ele>874</ele>
+    <name>Horna Jaraba</name>
+    <link href="https://mapa-turystyczna.pl/node/6578">
+      <text>Horna Jaraba</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horna Jaraba, razc. - Horna Jaraba</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8929241,19.7019088;48.892744200323676,19.70178005;48.8923527,19.7015521">
+    <text>Horna Jaraba, razc. - Horna Jaraba</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8929241" lon="19.7019088">
+      <ele>880</ele>
+      <time>2022-01-17T22:59:28Z</time>
+    </trkpt>
+    <trkpt lat="48.8925643" lon="19.7016513">
+      <ele>874</ele>
+      <time>2022-01-17T23:00:07Z</time>
+    </trkpt>
+    <trkpt lat="48.8923527" lon="19.7015521">
+      <ele>874</ele>
+      <time>2022-01-17T23:00:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:21Z</time>
+    <bounds maxlat="50.7799632" maxlon="16.2118809" minlat="50.7796974" minlon="16.211577"/>
+  </metadata>
+  <wpt lat="50.779963" lon="16.211577">
+    <ele>842</ele>
+    <name>Chelmiec, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/2557">
+      <text>Chelmiec, krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.779697" lon="16.211881">
+    <ele>843</ele>
+    <name>Chelmiec, stacja XIV</name>
+    <link href="https://mapa-turystyczna.pl/node/8062">
+      <text>Chelmiec, stacja XIV</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmiec, krzyz - Chelmiec, stacja XIV</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7799632,16.211577;50.77986640001923,16.211785200000026;50.7796974,16.2118809">
+    <text>Chelmiec, krzyz - Chelmiec, stacja XIV</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7799632" lon="16.211577">
+      <ele>842</ele>
+      <time>2022-01-17T23:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7799088" lon="16.2117342">
+      <ele>842</ele>
+      <time>2022-01-17T23:35:40Z</time>
+    </trkpt>
+    <trkpt lat="50.779824" lon="16.2118362">
+      <ele>842</ele>
+      <time>2022-01-17T23:35:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7797047" lon="16.2118808">
+      <ele>843</ele>
+      <time>2022-01-17T23:36:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7796974" lon="16.2118809">
+      <ele>843</ele>
+      <time>2022-01-17T23:36:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

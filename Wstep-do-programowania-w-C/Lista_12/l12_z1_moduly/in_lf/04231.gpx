@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:39:39Z</time>
+    <bounds maxlat="49.369135" maxlon="20.080612" minlat="49.364791" minlon="20.078106"/>
+  </metadata>
+  <wpt lat="49.364791" lon="20.080612">
+    <ele>922</ele>
+    <name>Pod Jankulakowskim Wierchem</name>
+    <link href="https://mapa-turystyczna.pl/node/2952">
+      <text>Pod Jankulakowskim Wierchem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.369135" lon="20.078106">
+    <ele>899</ele>
+    <name>Gliczarow Dolny, Gile</name>
+    <link href="https://mapa-turystyczna.pl/node/2955">
+      <text>Gliczarow Dolny, Gile</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jankulakowskim Wierchem - Gliczarow Dolny, Gile</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.364791,20.080612;49.366813501031636,20.079387499999974;49.369135,20.078106">
+    <text>Pod Jankulakowskim Wierchem - Gliczarow Dolny, Gile</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.364791" lon="20.080612">
+      <ele>922</ele>
+      <time>2022-01-17T21:39:39Z</time>
+    </trkpt>
+    <trkpt lat="49.364905" lon="20.080604">
+      <ele>922</ele>
+      <time>2022-01-17T21:39:54Z</time>
+    </trkpt>
+    <trkpt lat="49.365039" lon="20.08052">
+      <ele>921</ele>
+      <time>2022-01-17T21:40:12Z</time>
+    </trkpt>
+    <trkpt lat="49.365421" lon="20.080224">
+      <ele>921</ele>
+      <time>2022-01-17T21:41:07Z</time>
+    </trkpt>
+    <trkpt lat="49.36575" lon="20.079897">
+      <ele>922</ele>
+      <time>2022-01-17T21:41:57Z</time>
+    </trkpt>
+    <trkpt lat="49.365908" lon="20.079774">
+      <ele>922</ele>
+      <time>2022-01-17T21:42:20Z</time>
+    </trkpt>
+    <trkpt lat="49.366181" lon="20.079687">
+      <ele>919</ele>
+      <time>2022-01-17T21:42:56Z</time>
+    </trkpt>
+    <trkpt lat="49.366495" lon="20.079525">
+      <ele>918</ele>
+      <time>2022-01-17T21:43:39Z</time>
+    </trkpt>
+    <trkpt lat="49.367132" lon="20.07925">
+      <ele>917</ele>
+      <time>2022-01-17T21:45:04Z</time>
+    </trkpt>
+    <trkpt lat="49.367434" lon="20.079101">
+      <ele>916</ele>
+      <time>2022-01-17T21:45:44Z</time>
+    </trkpt>
+    <trkpt lat="49.368289" lon="20.078577">
+      <ele>910</ele>
+      <time>2022-01-17T21:47:43Z</time>
+    </trkpt>
+    <trkpt lat="49.36845" lon="20.078466">
+      <ele>908</ele>
+      <time>2022-01-17T21:48:06Z</time>
+    </trkpt>
+    <trkpt lat="49.369135" lon="20.078106">
+      <ele>899</ele>
+      <time>2022-01-17T21:49:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

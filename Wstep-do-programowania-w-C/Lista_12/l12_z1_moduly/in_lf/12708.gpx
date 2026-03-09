@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:46Z</time>
+    <bounds maxlat="50.8692442" maxlon="15.0842955" minlat="50.8687879" minlon="15.0840025"/>
+  </metadata>
+  <wpt lat="50.868788" lon="15.084003">
+    <ele>607</ele>
+    <name>Hrebenovy buk</name>
+    <link href="https://mapa-turystyczna.pl/node/8713">
+      <text>Hrebenovy buk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.869244" lon="15.084295">
+    <ele>605</ele>
+    <name>Hrebenovy buk, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8727">
+      <text>Hrebenovy buk, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hrebenovy buk - Hrebenovy buk, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8687879,15.0840025;50.86890365014369,15.084102549999988;50.8692442,15.0842955">
+    <text>Hrebenovy buk - Hrebenovy buk, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8687879" lon="15.0840025">
+      <ele>607</ele>
+      <time>2022-01-17T23:54:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8690194" lon="15.0842026">
+      <ele>607</ele>
+      <time>2022-01-17T23:55:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8692442" lon="15.0842955">
+      <ele>605</ele>
+      <time>2022-01-17T23:55:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

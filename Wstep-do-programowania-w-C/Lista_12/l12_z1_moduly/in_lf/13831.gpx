@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:06Z</time>
+    <bounds maxlat="50.2017037" maxlon="18.9156981" minlat="50.1937777" minlon="18.9138647"/>
+  </metadata>
+  <wpt lat="50.193778" lon="18.915311">
+    <ele>281</ele>
+    <name>Dolina Jamny</name>
+    <link href="https://mapa-turystyczna.pl/node/9479">
+      <text>Dolina Jamny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.201704" lon="18.913865">
+    <ele>278</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9480">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Jamny - Rozejscie szlakow czerwony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1937777,18.9153112;50.1978821092719,18.91512409999997;50.2017037,18.9138647">
+    <text>Dolina Jamny - Rozejscie szlakow czerwony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1937777" lon="18.9153112">
+      <ele>281</ele>
+      <time>2022-01-18T00:13:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1969412" lon="18.9156981">
+      <ele>277</ele>
+      <time>2022-01-18T00:18:58Z</time>
+    </trkpt>
+    <trkpt lat="50.198823" lon="18.9145501">
+      <ele>281</ele>
+      <time>2022-01-18T00:22:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2017037" lon="18.9138647">
+      <ele>278</ele>
+      <time>2022-01-18T00:28:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

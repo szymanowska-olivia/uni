@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:12Z</time>
+    <bounds maxlat="49.820318" maxlon="19.2183268" minlat="49.81489" minlon="19.216019"/>
+  </metadata>
+  <wpt lat="49.81489" lon="19.216019">
+    <ele>309</ele>
+    <name>Porabka, ul. Smrekowa</name>
+    <link href="https://mapa-turystyczna.pl/node/7995">
+      <text>Porabka, ul. Smrekowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.820318" lon="19.218327">
+    <ele>300</ele>
+    <name>Porabka</name>
+    <link href="https://mapa-turystyczna.pl/node/7830">
+      <text>Porabka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Porabka, ul. Smrekowa - Porabka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.81489,19.216019;49.816954965137,19.21675694999999;49.820318,19.2183268">
+    <text>Porabka, ul. Smrekowa - Porabka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.81489" lon="19.216019">
+      <ele>309</ele>
+      <time>2022-01-17T23:33:12Z</time>
+    </trkpt>
+    <trkpt lat="49.8152567" lon="19.2162091">
+      <ele>308</ele>
+      <time>2022-01-17T23:33:53Z</time>
+    </trkpt>
+    <trkpt lat="49.8157446" lon="19.2164304">
+      <ele>301</ele>
+      <time>2022-01-17T23:34:47Z</time>
+    </trkpt>
+    <trkpt lat="49.8181653" lon="19.2170835">
+      <ele>302</ele>
+      <time>2022-01-17T23:39:05Z</time>
+    </trkpt>
+    <trkpt lat="49.8188151" lon="19.2173219">
+      <ele>300</ele>
+      <time>2022-01-17T23:40:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8195558" lon="19.217633">
+      <ele>298</ele>
+      <time>2022-01-17T23:41:37Z</time>
+    </trkpt>
+    <trkpt lat="49.8197849" lon="19.2177349">
+      <ele>298</ele>
+      <time>2022-01-17T23:42:02Z</time>
+    </trkpt>
+    <trkpt lat="49.8199718" lon="19.2178529">
+      <ele>299</ele>
+      <time>2022-01-17T23:42:23Z</time>
+    </trkpt>
+    <trkpt lat="49.8201898" lon="19.218089">
+      <ele>299</ele>
+      <time>2022-01-17T23:42:51Z</time>
+    </trkpt>
+    <trkpt lat="49.820318" lon="19.2183268">
+      <ele>300</ele>
+      <time>2022-01-17T23:43:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

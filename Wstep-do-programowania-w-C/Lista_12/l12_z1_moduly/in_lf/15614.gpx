@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:10Z</time>
+    <bounds maxlat="49.9584555" maxlon="17.1016853" minlat="49.9583174" minlon="17.1007358"/>
+  </metadata>
+  <wpt lat="49.958455" lon="17.101685">
+    <ele>905</ele>
+    <name>Pod Smrcnikem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10659">
+      <text>Pod Smrcnikem, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.958317" lon="17.100736">
+    <ele>906</ele>
+    <name>Pod Smrcnikem</name>
+    <link href="https://mapa-turystyczna.pl/node/10660">
+      <text>Pod Smrcnikem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Smrcnikem, rozc. - Pod Smrcnikem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9584555,17.1016853;49.958350100002505,17.10121359999997;49.9583174,17.1007358">
+    <text>Pod Smrcnikem, rozc. - Pod Smrcnikem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9584555" lon="17.1016853">
+      <ele>905</ele>
+      <time>2022-01-18T00:42:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9583656" lon="17.1013693">
+      <ele>905</ele>
+      <time>2022-01-18T00:42:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9583346" lon="17.1010579">
+      <ele>906</ele>
+      <time>2022-01-18T00:42:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9583174" lon="17.1007358">
+      <ele>906</ele>
+      <time>2022-01-18T00:43:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

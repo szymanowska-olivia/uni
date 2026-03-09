@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:05Z</time>
+    <bounds maxlat="52.604684" maxlon="21.551696" minlat="52.5991681" minlon="21.5456557"/>
+  </metadata>
+  <wpt lat="52.599168" lon="21.551696">
+    <ele>86</ele>
+    <name>Kamienczyk, ul. 3 Maja</name>
+    <link href="https://mapa-turystyczna.pl/node/12156">
+      <text>Kamienczyk, ul. 3 Maja</text>
+    </link>
+  </wpt>
+  <wpt lat="52.604684" lon="21.546073">
+    <ele>89</ele>
+    <name>Kamienczyk</name>
+    <link href="https://mapa-turystyczna.pl/node/12157">
+      <text>Kamienczyk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienczyk, ul. 3 Maja - Kamienczyk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5991681,21.551696;52.60177470181085,21.546982999999983;52.604684,21.5460734">
+    <text>Kamienczyk, ul. 3 Maja - Kamienczyk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5991681" lon="21.551696">
+      <ele>86</ele>
+      <time>2022-01-18T01:21:05Z</time>
+    </trkpt>
+    <trkpt lat="52.5994383" lon="21.5504893">
+      <ele>87</ele>
+      <time>2022-01-18T01:22:42Z</time>
+    </trkpt>
+    <trkpt lat="52.5994014" lon="21.5502745">
+      <ele>87</ele>
+      <time>2022-01-18T01:22:59Z</time>
+    </trkpt>
+    <trkpt lat="52.5994991" lon="21.5501189">
+      <ele>87</ele>
+      <time>2022-01-18T01:23:16Z</time>
+    </trkpt>
+    <trkpt lat="52.6013764" lon="21.5475511">
+      <ele>84</ele>
+      <time>2022-01-18T01:28:20Z</time>
+    </trkpt>
+    <trkpt lat="52.602173" lon="21.5464149">
+      <ele>86</ele>
+      <time>2022-01-18T01:30:31Z</time>
+    </trkpt>
+    <trkpt lat="52.6026762" lon="21.5457791">
+      <ele>87</ele>
+      <time>2022-01-18T01:31:50Z</time>
+    </trkpt>
+    <trkpt lat="52.6028163" lon="21.5456557">
+      <ele>87</ele>
+      <time>2022-01-18T01:32:10Z</time>
+    </trkpt>
+    <trkpt lat="52.6029694" lon="21.5456718">
+      <ele>87</ele>
+      <time>2022-01-18T01:32:29Z</time>
+    </trkpt>
+    <trkpt lat="52.6035781" lon="21.5458166">
+      <ele>87</ele>
+      <time>2022-01-18T01:33:46Z</time>
+    </trkpt>
+    <trkpt lat="52.604684" lon="21.5460734">
+      <ele>89</ele>
+      <time>2022-01-18T01:36:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

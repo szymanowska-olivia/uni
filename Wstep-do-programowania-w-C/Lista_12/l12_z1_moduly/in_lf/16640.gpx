@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:11Z</time>
+    <bounds maxlat="52.4245599" maxlon="20.7789162" minlat="52.420583" minlon="20.7785085"/>
+  </metadata>
+  <wpt lat="52.420583" lon="20.778916">
+    <ele>81</ele>
+    <name>Janowek Drugi, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11360">
+      <text>Janowek Drugi, las</text>
+    </link>
+  </wpt>
+  <wpt lat="52.42456" lon="20.778509">
+    <ele>73</ele>
+    <name>Janowek, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11361">
+      <text>Janowek, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janowek Drugi, las - Janowek, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.420583,20.7789162;52.422571494841655,20.778712350000017;52.4245599,20.7785085">
+    <text>Janowek Drugi, las - Janowek, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.420583" lon="20.7789162">
+      <ele>81</ele>
+      <time>2022-01-18T01:00:11Z</time>
+    </trkpt>
+    <trkpt lat="52.4245599" lon="20.7785085">
+      <ele>73</ele>
+      <time>2022-01-18T01:05:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

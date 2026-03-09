@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:20Z</time>
+    <bounds maxlat="51.3981139" maxlon="16.207543" minlat="51.3974151" minlon="16.2062804"/>
+  </metadata>
+  <wpt lat="51.397415" lon="16.207543">
+    <ele>129</ele>
+    <name>Lubin, Park Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10025">
+      <text>Lubin, Park Pilsudskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.398114" lon="16.20628">
+    <ele>130</ele>
+    <name>Lubin, Park Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10124">
+      <text>Lubin, Park Pilsudskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, Park Pilsudskiego - Lubin, Park Pilsudskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3974151,16.207543;51.39762890049965,16.207229649999995;51.3981139,16.2062804">
+    <text>Lubin, Park Pilsudskiego - Lubin, Park Pilsudskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3974151" lon="16.207543">
+      <ele>129</ele>
+      <time>2022-01-18T00:29:20Z</time>
+    </trkpt>
+    <trkpt lat="51.3978427" lon="16.2069163">
+      <ele>130</ele>
+      <time>2022-01-18T00:30:26Z</time>
+    </trkpt>
+    <trkpt lat="51.3981139" lon="16.2062804">
+      <ele>130</ele>
+      <time>2022-01-18T00:31:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

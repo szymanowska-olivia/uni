@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:44Z</time>
+    <bounds maxlat="52.0546468" maxlon="21.2870665" minlat="52.0470693" minlon="21.2506425"/>
+  </metadata>
+  <wpt lat="52.047069" lon="21.250643">
+    <ele>90</ele>
+    <name>Otwock Wielki, ul. Wislana</name>
+    <link href="https://mapa-turystyczna.pl/node/11519">
+      <text>Otwock Wielki, ul. Wislana</text>
+    </link>
+  </wpt>
+  <wpt lat="52.054647" lon="21.287067">
+    <ele>90</ele>
+    <name>Janow</name>
+    <link href="https://mapa-turystyczna.pl/node/11459">
+      <text>Janow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock Wielki, ul. Wislana - Janow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0470693,21.2506425;52.05075900829539,21.268722099999998;52.0546468,21.2870665">
+    <text>Otwock Wielki, ul. Wislana - Janow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0470693" lon="21.2506425">
+      <ele>90</ele>
+      <time>2022-01-18T01:03:44Z</time>
+    </trkpt>
+    <trkpt lat="52.0477391" lon="21.254497">
+      <ele>86</ele>
+      <time>2022-01-18T01:08:05Z</time>
+    </trkpt>
+    <trkpt lat="52.0480624" lon="21.2559561">
+      <ele>85</ele>
+      <time>2022-01-18T01:09:46Z</time>
+    </trkpt>
+    <trkpt lat="52.048874" lon="21.2588851">
+      <ele>87</ele>
+      <time>2022-01-18T01:13:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0499231" lon="21.2625222">
+      <ele>87</ele>
+      <time>2022-01-18T01:17:37Z</time>
+    </trkpt>
+    <trkpt lat="52.05162" lon="21.2681159">
+      <ele>89</ele>
+      <time>2022-01-18T01:24:23Z</time>
+    </trkpt>
+    <trkpt lat="52.049898" lon="21.2693283">
+      <ele>88</ele>
+      <time>2022-01-18T01:27:42Z</time>
+    </trkpt>
+    <trkpt lat="52.0524909" lon="21.2787375">
+      <ele>90</ele>
+      <time>2022-01-18T01:38:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0540677" lon="21.2846062">
+      <ele>89</ele>
+      <time>2022-01-18T01:45:51Z</time>
+    </trkpt>
+    <trkpt lat="52.0543184" lon="21.2860116">
+      <ele>88</ele>
+      <time>2022-01-18T01:47:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0544965" lon="21.2867197">
+      <ele>90</ele>
+      <time>2022-01-18T01:48:16Z</time>
+    </trkpt>
+    <trkpt lat="52.0546468" lon="21.2870665">
+      <ele>90</ele>
+      <time>2022-01-18T01:48:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

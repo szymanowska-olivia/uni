@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:07Z</time>
+    <bounds maxlat="50.2833442" maxlon="18.7833405" minlat="50.2703839" minlon="18.7739423"/>
+  </metadata>
+  <wpt lat="50.283344" lon="18.779267">
+    <ele>248</ele>
+    <name>Zabrze, os. Janek</name>
+    <link href="https://mapa-turystyczna.pl/node/9848">
+      <text>Zabrze, os. Janek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.270384" lon="18.773942">
+    <ele>236</ele>
+    <name>Zabrze, Makoszowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9595">
+      <text>Zabrze, Makoszowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabrze, os. Janek - Zabrze, Makoszowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2833442,18.7792675;50.276046100096785,18.78255730000001;50.2703839,18.7739423">
+    <text>Zabrze, os. Janek - Zabrze, Makoszowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2833442" lon="18.7792675">
+      <ele>248</ele>
+      <time>2022-01-18T00:22:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2773897" lon="18.7828752">
+      <ele>235</ele>
+      <time>2022-01-18T00:32:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2772735" lon="18.7833405">
+      <ele>234</ele>
+      <time>2022-01-18T00:32:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2771018" lon="18.78324">
+      <ele>234</ele>
+      <time>2022-01-18T00:32:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2768517" lon="18.7831615">
+      <ele>233</ele>
+      <time>2022-01-18T00:33:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2766015" lon="18.7831045">
+      <ele>234</ele>
+      <time>2022-01-18T00:33:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2764027" lon="18.782965">
+      <ele>234</ele>
+      <time>2022-01-18T00:33:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2761421" lon="18.7827182">
+      <ele>234</ele>
+      <time>2022-01-18T00:34:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2759501" lon="18.7823964">
+      <ele>235</ele>
+      <time>2022-01-18T00:34:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2756553" lon="18.7819565">
+      <ele>237</ele>
+      <time>2022-01-18T00:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2754839" lon="18.7820101">
+      <ele>238</ele>
+      <time>2022-01-18T00:35:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2703839" lon="18.7739423">
+      <ele>236</ele>
+      <time>2022-01-18T00:47:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

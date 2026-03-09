@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:15Z</time>
+    <bounds maxlat="51.9886182" maxlon="22.9140709" minlat="51.9769593" minlon="22.892167"/>
+  </metadata>
+  <wpt lat="51.976959" lon="22.892224">
+    <ele>145</ele>
+    <name>Utrowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12799">
+      <text>Utrowka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.988618" lon="22.914071">
+    <ele>146</ele>
+    <name>Szachy</name>
+    <link href="https://mapa-turystyczna.pl/node/12800">
+      <text>Szachy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Utrowka - Szachy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9769593,22.8922236;51.98302350486359,22.90381855000002;51.9886182,22.9140709">
+    <text>Utrowka - Szachy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9769593" lon="22.8922236">
+      <ele>145</ele>
+      <time>2022-01-18T01:39:15Z</time>
+    </trkpt>
+    <trkpt lat="51.9786059" lon="22.892167">
+      <ele>145</ele>
+      <time>2022-01-18T01:41:53Z</time>
+    </trkpt>
+    <trkpt lat="51.9791148" lon="22.8961689">
+      <ele>142</ele>
+      <time>2022-01-18T01:45:55Z</time>
+    </trkpt>
+    <trkpt lat="51.9792602" lon="22.8969092">
+      <ele>143</ele>
+      <time>2022-01-18T01:46:40Z</time>
+    </trkpt>
+    <trkpt lat="51.9808065" lon="22.8997094">
+      <ele>143</ele>
+      <time>2022-01-18T01:50:23Z</time>
+    </trkpt>
+    <trkpt lat="51.9852404" lon="22.9079277">
+      <ele>143</ele>
+      <time>2022-01-18T02:01:08Z</time>
+    </trkpt>
+    <trkpt lat="51.9886182" lon="22.9140709">
+      <ele>146</ele>
+      <time>2022-01-18T02:09:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

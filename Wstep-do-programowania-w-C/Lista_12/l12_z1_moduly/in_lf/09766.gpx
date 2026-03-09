@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:45Z</time>
+    <bounds maxlat="50.0709717" maxlon="16.5901709" minlat="50.0688644" minlon="16.5852785"/>
+  </metadata>
+  <wpt lat="50.070972" lon="16.585279">
+    <ele>618</ele>
+    <name>Studensky horni les</name>
+    <link href="https://mapa-turystyczna.pl/node/6780">
+      <text>Studensky horni les</text>
+    </link>
+  </wpt>
+  <wpt lat="50.068864" lon="16.590171">
+    <ele>560</ele>
+    <name>Studene</name>
+    <link href="https://mapa-turystyczna.pl/node/6860">
+      <text>Studene</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studensky horni les - Studene</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0709717,16.5852785;50.07033985002602,16.588065350000008;50.0688644,16.5901709">
+    <text>Studensky horni les - Studene</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0709717" lon="16.5852785">
+      <ele>618</ele>
+      <time>2022-01-17T23:03:45Z</time>
+    </trkpt>
+    <trkpt lat="50.0706859" lon="16.5863782">
+      <ele>616</ele>
+      <time>2022-01-17T23:04:42Z</time>
+    </trkpt>
+    <trkpt lat="50.070555" lon="16.5871722">
+      <ele>610</ele>
+      <time>2022-01-17T23:05:21Z</time>
+    </trkpt>
+    <trkpt lat="50.0704862" lon="16.5875316">
+      <ele>603</ele>
+      <time>2022-01-17T23:05:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0703898" lon="16.5878588">
+      <ele>596</ele>
+      <time>2022-01-17T23:05:57Z</time>
+    </trkpt>
+    <trkpt lat="50.0702899" lon="16.5882719">
+      <ele>587</ele>
+      <time>2022-01-17T23:06:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0698217" lon="16.5890282">
+      <ele>572</ele>
+      <time>2022-01-17T23:07:11Z</time>
+    </trkpt>
+    <trkpt lat="50.06956" lon="16.5890819">
+      <ele>569</ele>
+      <time>2022-01-17T23:07:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0692673" lon="16.5893662">
+      <ele>564</ele>
+      <time>2022-01-17T23:07:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0688644" lon="16.5901709">
+      <ele>560</ele>
+      <time>2022-01-17T23:08:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:36Z</time>
+    <bounds maxlat="50.6825392" maxlon="17.0397359" minlat="50.6728867" minlon="17.0315659"/>
+  </metadata>
+  <wpt lat="50.672887" lon="17.031566">
+    <ele>191</ele>
+    <name>Raczyce</name>
+    <link href="https://mapa-turystyczna.pl/node/2805">
+      <text>Raczyce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.682507" lon="17.039736">
+    <ele>189</ele>
+    <name>Witostowice</name>
+    <link href="https://mapa-turystyczna.pl/node/2857">
+      <text>Witostowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raczyce - Witostowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6728867,17.0315659;50.6776554080574,17.035153349999987;50.6825069,17.0397359">
+    <text>Raczyce - Witostowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6728867" lon="17.0315659">
+      <ele>191</ele>
+      <time>2022-01-17T21:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6732777" lon="17.031751">
+      <ele>190</ele>
+      <time>2022-01-17T21:38:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6753209" lon="17.0333093">
+      <ele>188</ele>
+      <time>2022-01-17T21:42:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6799898" lon="17.0369974">
+      <ele>185</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6802159" lon="17.0371073">
+      <ele>186</ele>
+      <time>2022-01-17T21:51:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6817149" lon="17.0372951">
+      <ele>186</ele>
+      <time>2022-01-17T21:54:13Z</time>
+    </trkpt>
+    <trkpt lat="50.681946" lon="17.0373702">
+      <ele>186</ele>
+      <time>2022-01-17T21:54:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6820344" lon="17.0375311">
+      <ele>187</ele>
+      <time>2022-01-17T21:54:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6821704" lon="17.0379979">
+      <ele>188</ele>
+      <time>2022-01-17T21:55:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6825392" lon="17.0385477">
+      <ele>189</ele>
+      <time>2022-01-17T21:56:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6825069" lon="17.0397359">
+      <ele>189</ele>
+      <time>2022-01-17T21:57:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

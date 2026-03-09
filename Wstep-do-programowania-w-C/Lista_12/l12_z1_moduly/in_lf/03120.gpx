@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:20Z</time>
+    <bounds maxlat="50.8506771" maxlon="15.5919302" minlat="50.8494487" minlon="15.5854038"/>
+  </metadata>
+  <wpt lat="50.850616" lon="15.585404">
+    <ele>393</ele>
+    <name>Piechowice, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2224">
+      <text>Piechowice, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.849449" lon="15.59193">
+    <ele>386</ele>
+    <name>Piechowice</name>
+    <link href="https://mapa-turystyczna.pl/node/1259">
+      <text>Piechowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piechowice, skrzyzowanie - Piechowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8506159,15.5854038;50.850213400202676,15.588829900000002;50.8494487,15.5919302">
+    <text>Piechowice, skrzyzowanie - Piechowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8506159" lon="15.5854038">
+      <ele>393</ele>
+      <time>2022-01-17T21:25:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8506771" lon="15.5860603">
+      <ele>392</ele>
+      <time>2022-01-17T21:25:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8506063" lon="15.586808">
+      <ele>391</ele>
+      <time>2022-01-17T21:26:22Z</time>
+    </trkpt>
+    <trkpt lat="50.85046" lon="15.5874247">
+      <ele>391</ele>
+      <time>2022-01-17T21:26:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8503509" lon="15.5879985">
+      <ele>389</ele>
+      <time>2022-01-17T21:27:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8500759" lon="15.5896613">
+      <ele>389</ele>
+      <time>2022-01-17T21:28:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8496997" lon="15.5911015">
+      <ele>388</ele>
+      <time>2022-01-17T21:29:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8494487" lon="15.5919302">
+      <ele>386</ele>
+      <time>2022-01-17T21:30:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:54:34Z</time>
+    <bounds maxlat="49.679055" maxlon="18.804651" minlat="49.678869" minlon="18.795808"/>
+  </metadata>
+  <wpt lat="49.679055" lon="18.795808">
+    <ele>952</ele>
+    <name>Chata Na Czantorii</name>
+    <link href="https://mapa-turystyczna.pl/node/730">
+      <text>Chata Na Czantorii</text>
+    </link>
+  </wpt>
+  <wpt lat="49.678869" lon="18.804651">
+    <ele>995</ele>
+    <name>Czantoria Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/737">
+      <text>Czantoria Wielka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Na Czantorii - Czantoria Wielka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.679055,18.795808;49.67895750000077,18.799820000000036;49.678869,18.804651">
+    <text>Chata Na Czantorii - Czantoria Wielka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.679055" lon="18.795808">
+      <ele>952</ele>
+      <time>2022-01-17T20:54:34Z</time>
+    </trkpt>
+    <trkpt lat="49.679044" lon="18.795942">
+      <ele>953</ele>
+      <time>2022-01-17T20:54:48Z</time>
+    </trkpt>
+    <trkpt lat="49.679016" lon="18.79669">
+      <ele>956</ele>
+      <time>2022-01-17T20:56:04Z</time>
+    </trkpt>
+    <trkpt lat="49.678966" lon="18.798943">
+      <ele>963</ele>
+      <time>2022-01-17T20:59:53Z</time>
+    </trkpt>
+    <trkpt lat="49.678949" lon="18.800697">
+      <ele>976</ele>
+      <time>2022-01-17T21:02:52Z</time>
+    </trkpt>
+    <trkpt lat="49.678928" lon="18.802988">
+      <ele>991</ele>
+      <time>2022-01-17T21:06:45Z</time>
+    </trkpt>
+    <trkpt lat="49.678871" lon="18.804414">
+      <ele>995</ele>
+      <time>2022-01-17T21:09:10Z</time>
+    </trkpt>
+    <trkpt lat="49.678869" lon="18.804651">
+      <ele>995</ele>
+      <time>2022-01-17T21:09:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

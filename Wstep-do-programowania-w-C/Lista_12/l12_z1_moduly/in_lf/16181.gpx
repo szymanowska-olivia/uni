@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:25Z</time>
+    <bounds maxlat="50.8652408" maxlon="15.6820446" minlat="50.8652397" minlon="15.6811083"/>
+  </metadata>
+  <wpt lat="50.865241" lon="15.681108">
+    <ele>346</ele>
+    <name>Cieplice, pl. Piastowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11052">
+      <text>Cieplice, pl. Piastowski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.865223" lon="15.682012">
+    <ele>346</ele>
+    <name>Cieplice, Palac Schaffgotschow</name>
+    <link href="https://mapa-turystyczna.pl/node/3387">
+      <text>Cieplice, Palac Schaffgotschow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieplice, pl. Piastowski - Cieplice, Palac Schaffgotschow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8652408,15.6811083;50.86524025000002,15.681576449999985;50.8652228,15.6820124">
+    <text>Cieplice, pl. Piastowski - Cieplice, Palac Schaffgotschow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8652408" lon="15.6811083">
+      <ele>346</ele>
+      <time>2022-01-18T00:52:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8652397" lon="15.6820446">
+      <ele>345</ele>
+      <time>2022-01-18T00:53:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

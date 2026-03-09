@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:20Z</time>
+    <bounds maxlat="50.0872443" maxlon="16.464783" minlat="50.0866455" minlon="16.4637315"/>
+  </metadata>
+  <wpt lat="50.086646" lon="16.463732">
+    <ele>427</ele>
+    <name>Zamberk, Kostelni</name>
+    <link href="https://mapa-turystyczna.pl/node/7695">
+      <text>Zamberk, Kostelni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.087244" lon="16.464783">
+    <ele>423</ele>
+    <name>Zamberk</name>
+    <link href="https://mapa-turystyczna.pl/node/1949">
+      <text>Zamberk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamberk, Kostelni - Zamberk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0866455,16.4637315;50.0868382503876,16.46397290000002;50.0872443,16.464783">
+    <text>Zamberk, Kostelni - Zamberk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0866455" lon="16.4637315">
+      <ele>427</ele>
+      <time>2022-01-17T23:25:20Z</time>
+    </trkpt>
+    <trkpt lat="50.087031" lon="16.4642143">
+      <ele>425</ele>
+      <time>2022-01-17T23:26:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0871824" lon="16.4644933">
+      <ele>424</ele>
+      <time>2022-01-17T23:26:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0872443" lon="16.464783">
+      <ele>423</ele>
+      <time>2022-01-17T23:27:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

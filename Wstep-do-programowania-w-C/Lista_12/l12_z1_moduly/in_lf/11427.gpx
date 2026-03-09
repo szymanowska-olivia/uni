@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:29Z</time>
+    <bounds maxlat="50.2844516" maxlon="17.432068" minlat="50.2788469" minlon="17.4260706"/>
+  </metadata>
+  <wpt lat="50.284452" lon="17.426071">
+    <ele>358</ele>
+    <name>Jarnoltowek</name>
+    <link href="https://mapa-turystyczna.pl/node/2648">
+      <text>Jarnoltowek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.278849" lon="17.432055">
+    <ele>400</ele>
+    <name>Bolkowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8033">
+      <text>Bolkowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarnoltowek - Bolkowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2844516,17.4260706;50.28141190038362,17.428758150000004;50.2788488,17.4320547">
+    <text>Jarnoltowek - Bolkowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2844516" lon="17.4260706">
+      <ele>358</ele>
+      <time>2022-01-17T23:34:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2840711" lon="17.4262825">
+      <ele>359</ele>
+      <time>2022-01-17T23:35:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2837917" lon="17.4266244">
+      <ele>362</ele>
+      <time>2022-01-17T23:36:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2832998" lon="17.4269557">
+      <ele>364</ele>
+      <time>2022-01-17T23:37:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2824994" lon="17.4278677">
+      <ele>369</ele>
+      <time>2022-01-17T23:39:27Z</time>
+    </trkpt>
+    <trkpt lat="50.281603" lon="17.4287152">
+      <ele>374</ele>
+      <time>2022-01-17T23:41:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2812208" lon="17.4288011">
+      <ele>377</ele>
+      <time>2022-01-17T23:42:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2805262" lon="17.4297331">
+      <ele>382</ele>
+      <time>2022-01-17T23:44:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2798659" lon="17.4307296">
+      <ele>389</ele>
+      <time>2022-01-17T23:46:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2788469" lon="17.432068">
+      <ele>400</ele>
+      <time>2022-01-17T23:49:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2788488" lon="17.4320547">
+      <ele>400</ele>
+      <time>2022-01-17T23:49:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

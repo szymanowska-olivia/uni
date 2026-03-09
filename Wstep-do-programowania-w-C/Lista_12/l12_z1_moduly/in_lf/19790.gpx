@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:54Z</time>
+    <bounds maxlat="50.4635206" maxlon="16.3480639" minlat="50.4621383" minlon="16.3458618"/>
+  </metadata>
+  <wpt lat="50.463521" lon="16.345862">
+    <ele>824</ele>
+    <name>Odejscie do Fortu Karola</name>
+    <link href="https://mapa-turystyczna.pl/node/13360">
+      <text>Odejscie do Fortu Karola</text>
+    </link>
+  </wpt>
+  <wpt lat="50.462138" lon="16.348064">
+    <ele>791</ele>
+    <name>Lisia Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1827">
+      <text>Lisia Przelecz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Fortu Karola - Lisia Przelecz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4635206,16.3458618;50.462663550216945,16.346838849999994;50.4621383,16.3480639">
+    <text>Odejscie do Fortu Karola - Lisia Przelecz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4635206" lon="16.3458618">
+      <ele>824</ele>
+      <time>2022-01-18T01:54:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4634202" lon="16.3459732">
+      <ele>821</ele>
+      <time>2022-01-18T01:55:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4630244" lon="16.3460845">
+      <ele>812</ele>
+      <time>2022-01-18T01:55:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4628068" lon="16.3464412">
+      <ele>808</ele>
+      <time>2022-01-18T01:56:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4625203" lon="16.3472365">
+      <ele>801</ele>
+      <time>2022-01-18T01:56:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4621383" lon="16.3480639">
+      <ele>791</ele>
+      <time>2022-01-18T01:57:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

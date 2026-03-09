@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:39Z</time>
+    <bounds maxlat="50.4443797" maxlon="18.8558114" minlat="50.444292" minlon="18.8548046"/>
+  </metadata>
+  <wpt lat="50.44438" lon="18.854805">
+    <ele>307</ele>
+    <name>Tarnowskie Gory</name>
+    <link href="https://mapa-turystyczna.pl/node/9514">
+      <text>Tarnowskie Gory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.444292" lon="18.855811">
+    <ele>307</ele>
+    <name>Tarnowskie Gory, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/12514">
+      <text>Tarnowskie Gory, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory - Tarnowskie Gory, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4443797,18.8548046;50.444335850020316,18.855308000000004;50.444292,18.8558114">
+    <text>Tarnowskie Gory - Tarnowskie Gory, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4443797" lon="18.8548046">
+      <ele>307</ele>
+      <time>2022-01-18T01:31:39Z</time>
+    </trkpt>
+    <trkpt lat="50.444292" lon="18.8558114">
+      <ele>307</ele>
+      <time>2022-01-18T01:32:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

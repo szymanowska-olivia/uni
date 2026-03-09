@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:18:00Z</time>
+    <bounds maxlat="51.6856164" maxlon="21.3446543" minlat="51.6833282" minlon="21.3356635"/>
+  </metadata>
+  <wpt lat="51.685616" lon="21.335663">
+    <ele>129</ele>
+    <name>Pomnik Poleglych w Bitwie pod Studziankami</name>
+    <link href="https://mapa-turystyczna.pl/node/12010">
+      <text>Pomnik Poleglych w Bitwie pod Studziankami</text>
+    </link>
+  </wpt>
+  <wpt lat="51.683328" lon="21.344654">
+    <ele>138</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12011">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomnik Poleglych w Bitwie pod Studziankami - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6856164,21.3356635;51.68402725539664,21.341942399999997;51.6833282,21.3446543">
+    <text>Pomnik Poleglych w Bitwie pod Studziankami - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6856164" lon="21.3356635">
+      <ele>129</ele>
+      <time>2022-01-18T01:18:00Z</time>
+    </trkpt>
+    <trkpt lat="51.6852418" lon="21.3372778">
+      <ele>129</ele>
+      <time>2022-01-18T01:19:46Z</time>
+    </trkpt>
+    <trkpt lat="51.6850988" lon="21.3377016">
+      <ele>130</ele>
+      <time>2022-01-18T01:20:16Z</time>
+    </trkpt>
+    <trkpt lat="51.6849092" lon="21.3383561">
+      <ele>131</ele>
+      <time>2022-01-18T01:21:01Z</time>
+    </trkpt>
+    <trkpt lat="51.6847263" lon="21.3392305">
+      <ele>134</ele>
+      <time>2022-01-18T01:21:58Z</time>
+    </trkpt>
+    <trkpt lat="51.6833282" lon="21.3446543">
+      <ele>138</ele>
+      <time>2022-01-18T01:28:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

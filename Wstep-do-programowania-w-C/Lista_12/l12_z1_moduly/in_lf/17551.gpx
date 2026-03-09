@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:15Z</time>
+    <bounds maxlat="52.1198127" maxlon="21.0734331" minlat="52.1151023" minlon="21.0698022"/>
+  </metadata>
+  <wpt lat="52.119813" lon="21.073433">
+    <ele>116</ele>
+    <name>Las Kabacki</name>
+    <link href="https://mapa-turystyczna.pl/node/11908">
+      <text>Las Kabacki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.115102" lon="21.06985">
+    <ele>117</ele>
+    <name>Rozejscie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11909">
+      <text>Rozejscie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Kabacki - Rozejscie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1198127,21.0734331;52.11825067737005,21.07187514999998;52.1151023,21.0698497">
+    <text>Las Kabacki - Rozejscie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1198127" lon="21.0734331">
+      <ele>116</ele>
+      <time>2022-01-18T01:15:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1166886" lon="21.0703172">
+      <ele>116</ele>
+      <time>2022-01-18T01:22:08Z</time>
+    </trkpt>
+    <trkpt lat="52.1165107" lon="21.0701884">
+      <ele>117</ele>
+      <time>2022-01-18T01:22:30Z</time>
+    </trkpt>
+    <trkpt lat="52.1163921" lon="21.0700812">
+      <ele>117</ele>
+      <time>2022-01-18T01:22:46Z</time>
+    </trkpt>
+    <trkpt lat="52.1161681" lon="21.0699202">
+      <ele>116</ele>
+      <time>2022-01-18T01:23:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1159507" lon="21.0698022">
+      <ele>115</ele>
+      <time>2022-01-18T01:23:39Z</time>
+    </trkpt>
+    <trkpt lat="52.1157333" lon="21.0698022">
+      <ele>115</ele>
+      <time>2022-01-18T01:24:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1154829" lon="21.0698129">
+      <ele>116</ele>
+      <time>2022-01-18T01:24:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1151023" lon="21.0698497">
+      <ele>117</ele>
+      <time>2022-01-18T01:25:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

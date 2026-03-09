@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:12Z</time>
+    <bounds maxlat="50.5904776" maxlon="16.4307349" minlat="50.5903375" minlon="16.4306284"/>
+  </metadata>
+  <wpt lat="50.590478" lon="16.430735">
+    <ele>649</ele>
+    <name>Homole</name>
+    <link href="https://mapa-turystyczna.pl/node/2426">
+      <text>Homole</text>
+    </link>
+  </wpt>
+  <wpt lat="50.590337" lon="16.430628">
+    <ele>647</ele>
+    <name>Sopka</name>
+    <link href="https://mapa-turystyczna.pl/node/13556">
+      <text>Sopka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Homole - Sopka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5904776,16.4307349;50.59040755005212,16.430681650000007;50.5903375,16.4306284">
+    <text>Homole - Sopka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5904776" lon="16.4307349">
+      <ele>649</ele>
+      <time>2022-01-18T02:01:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5903375" lon="16.4306284">
+      <ele>647</ele>
+      <time>2022-01-18T02:02:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

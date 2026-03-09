@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:35Z</time>
+    <bounds maxlat="50.9040206" maxlon="15.908584" minlat="50.9033788" minlon="15.9078741"/>
+  </metadata>
+  <wpt lat="50.903379" lon="15.907874">
+    <ele>444</ele>
+    <name>Radomierz</name>
+    <link href="https://mapa-turystyczna.pl/node/9151">
+      <text>Radomierz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.904021" lon="15.908584">
+    <ele>445</ele>
+    <name>Radomierz, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3261">
+      <text>Radomierz, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radomierz - Radomierz, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9033788,15.9078741;50.903796650416595,15.908295799999994;50.9040206,15.908584">
+    <text>Radomierz - Radomierz, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9033788" lon="15.9078741">
+      <ele>444</ele>
+      <time>2022-01-18T00:04:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9035997" lon="15.9080599">
+      <ele>444</ele>
+      <time>2022-01-18T00:04:54Z</time>
+    </trkpt>
+    <trkpt lat="50.9039936" lon="15.9085317">
+      <ele>445</ele>
+      <time>2022-01-18T00:05:32Z</time>
+    </trkpt>
+    <trkpt lat="50.9040206" lon="15.908584">
+      <ele>445</ele>
+      <time>2022-01-18T00:05:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:18Z</time>
+    <bounds maxlat="49.155341" maxlon="19.453739" minlat="49.155058" minlon="19.453652"/>
+  </metadata>
+  <wpt lat="49.155341" lon="19.453652">
+    <ele>1195</ele>
+    <name>Pravnac, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/13373">
+      <text>Pravnac, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.155058" lon="19.45371">
+    <ele>1192</ele>
+    <name>Pravnac</name>
+    <link href="https://mapa-turystyczna.pl/node/7241">
+      <text>Pravnac</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pravnac, razc. - Pravnac</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.155341,19.453652;49.15518550000275,19.453716000000032;49.155058,19.45371">
+    <text>Pravnac, razc. - Pravnac</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.155341" lon="19.453652">
+      <ele>1195</ele>
+      <time>2022-01-18T01:55:18Z</time>
+    </trkpt>
+    <trkpt lat="49.155286" lon="19.453654">
+      <ele>1196</ele>
+      <time>2022-01-18T01:55:29Z</time>
+    </trkpt>
+    <trkpt lat="49.155244" lon="19.453699">
+      <ele>1195</ele>
+      <time>2022-01-18T01:55:39Z</time>
+    </trkpt>
+    <trkpt lat="49.155202" lon="19.453695">
+      <ele>1194</ele>
+      <time>2022-01-18T01:55:47Z</time>
+    </trkpt>
+    <trkpt lat="49.155169" lon="19.453737">
+      <ele>1193</ele>
+      <time>2022-01-18T01:55:56Z</time>
+    </trkpt>
+    <trkpt lat="49.155125" lon="19.453735">
+      <ele>1193</ele>
+      <time>2022-01-18T01:56:04Z</time>
+    </trkpt>
+    <trkpt lat="49.155096" lon="19.453739">
+      <ele>1192</ele>
+      <time>2022-01-18T01:56:10Z</time>
+    </trkpt>
+    <trkpt lat="49.155058" lon="19.45371">
+      <ele>1192</ele>
+      <time>2022-01-18T01:56:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

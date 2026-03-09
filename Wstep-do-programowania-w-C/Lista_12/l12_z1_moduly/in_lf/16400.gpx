@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:15Z</time>
+    <bounds maxlat="52.0164234" maxlon="15.4646781" minlat="52.0160601" minlon="15.4595979"/>
+  </metadata>
+  <wpt lat="52.016423" lon="15.464678">
+    <ele>59</ele>
+    <name>Wysokie</name>
+    <link href="https://mapa-turystyczna.pl/node/11185">
+      <text>Wysokie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.016103" lon="15.459598">
+    <ele>68</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11202">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wysokie - Rozejscie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0164234,15.4646781;52.01607660000304,15.461990300000013;52.0161025,15.4595979">
+    <text>Wysokie - Rozejscie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0164234" lon="15.4646781">
+      <ele>59</ele>
+      <time>2022-01-18T00:56:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0163441" lon="15.4641736">
+      <ele>59</ele>
+      <time>2022-01-18T00:56:45Z</time>
+    </trkpt>
+    <trkpt lat="52.016146" lon="15.4629184">
+      <ele>62</ele>
+      <time>2022-01-18T00:58:01Z</time>
+    </trkpt>
+    <trkpt lat="52.0160931" lon="15.462221">
+      <ele>62</ele>
+      <time>2022-01-18T00:58:42Z</time>
+    </trkpt>
+    <trkpt lat="52.0160601" lon="15.4617596">
+      <ele>62</ele>
+      <time>2022-01-18T00:59:09Z</time>
+    </trkpt>
+    <trkpt lat="52.0160931" lon="15.460558">
+      <ele>65</ele>
+      <time>2022-01-18T01:00:19Z</time>
+    </trkpt>
+    <trkpt lat="52.0161196" lon="15.4598392">
+      <ele>68</ele>
+      <time>2022-01-18T01:01:01Z</time>
+    </trkpt>
+    <trkpt lat="52.0161025" lon="15.4595979">
+      <ele>68</ele>
+      <time>2022-01-18T01:01:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

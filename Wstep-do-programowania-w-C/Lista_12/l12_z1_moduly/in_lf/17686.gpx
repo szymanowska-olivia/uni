@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:50Z</time>
+    <bounds maxlat="51.7839844" maxlon="21.1909964" minlat="51.7835481" minlon="21.1891078"/>
+  </metadata>
+  <wpt lat="51.783984" lon="21.190996">
+    <ele>115</ele>
+    <name>Warka, ul. Senatorska</name>
+    <link href="https://mapa-turystyczna.pl/node/11999">
+      <text>Warka, ul. Senatorska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.783548" lon="21.189108">
+    <ele>118</ele>
+    <name>Warka, ul. Przechodnia</name>
+    <link href="https://mapa-turystyczna.pl/node/12006">
+      <text>Warka, ul. Przechodnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Senatorska - Warka, ul. Przechodnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7839844,21.1909964;51.78376625052745,21.190052100000006;51.7835481,21.1891078">
+    <text>Warka, ul. Senatorska - Warka, ul. Przechodnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7839844" lon="21.1909964">
+      <ele>115</ele>
+      <time>2022-01-18T01:17:50Z</time>
+    </trkpt>
+    <trkpt lat="51.7835481" lon="21.1891078">
+      <ele>118</ele>
+      <time>2022-01-18T01:19:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

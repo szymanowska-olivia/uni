@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:34Z</time>
+    <bounds maxlat="50.3790898" maxlon="16.2349927" minlat="50.3784843" minlon="16.2343329"/>
+  </metadata>
+  <wpt lat="50.37909" lon="16.234333">
+    <ele>526</ele>
+    <name>U Borovskeho mostku</name>
+    <link href="https://mapa-turystyczna.pl/node/5703">
+      <text>U Borovskeho mostku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.378484" lon="16.234993">
+    <ele>527</ele>
+    <name>U Borovskeho mostku</name>
+    <link href="https://mapa-turystyczna.pl/node/5704">
+      <text>U Borovskeho mostku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Borovskeho mostku - U Borovskeho mostku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3790898,16.2343329;50.37876990013035,16.234678300000006;50.3784843,16.2349927">
+    <text>U Borovskeho mostku - U Borovskeho mostku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3790898" lon="16.2343329">
+      <ele>526</ele>
+      <time>2022-01-17T22:34:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3788811" lon="16.2345234">
+      <ele>523</ele>
+      <time>2022-01-17T22:35:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3786587" lon="16.2348332">
+      <ele>523</ele>
+      <time>2022-01-17T22:36:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3784843" lon="16.2349927">
+      <ele>527</ele>
+      <time>2022-01-17T22:36:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

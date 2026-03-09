@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:36Z</time>
+    <bounds maxlat="50.4758999" maxlon="16.3387321" minlat="50.4753556" minlon="16.3378286"/>
+  </metadata>
+  <wpt lat="50.475356" lon="16.337829">
+    <ele>754</ele>
+    <name>Karlow</name>
+    <link href="https://mapa-turystyczna.pl/node/1820">
+      <text>Karlow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.4759" lon="16.338732">
+    <ele>755</ele>
+    <name>Karlow, poczatek sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11658">
+      <text>Karlow, poczatek sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karlow - Karlow, poczatek sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4753556,16.3378286;50.47559465007703,16.338453549999997;50.4758999,16.3387321">
+    <text>Karlow - Karlow, poczatek sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4753556" lon="16.3378286">
+      <ele>754</ele>
+      <time>2022-01-18T01:07:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4754188" lon="16.3380271">
+      <ele>754</ele>
+      <time>2022-01-18T01:07:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4755093" lon="16.3382256">
+      <ele>754</ele>
+      <time>2022-01-18T01:08:17Z</time>
+    </trkpt>
+    <trkpt lat="50.47568" lon="16.3386815">
+      <ele>757</ele>
+      <time>2022-01-18T01:09:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4757551" lon="16.3386789">
+      <ele>756</ele>
+      <time>2022-01-18T01:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4758438" lon="16.3386762">
+      <ele>756</ele>
+      <time>2022-01-18T01:09:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4758999" lon="16.3387321">
+      <ele>755</ele>
+      <time>2022-01-18T01:09:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

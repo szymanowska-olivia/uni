@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:05Z</time>
+    <bounds maxlat="49.1059235" maxlon="22.6468563" minlat="49.1045299" minlon="22.6462415"/>
+  </metadata>
+  <wpt lat="49.105924" lon="22.646241">
+    <ele>661</ele>
+    <name>Rzeczyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11069">
+      <text>Rzeczyca</text>
+    </link>
+  </wpt>
+  <wpt lat="49.10453" lon="22.646779">
+    <ele>656</ele>
+    <name>Ustrzyki Gorne, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/2488">
+      <text>Ustrzyki Gorne, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rzeczyca - Ustrzyki Gorne, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1059235,22.6462415;49.10528250011194,22.6468536;49.1045299,22.6467789">
+    <text>Rzeczyca - Ustrzyki Gorne, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1059235" lon="22.6462415">
+      <ele>661</ele>
+      <time>2022-01-18T00:53:05Z</time>
+    </trkpt>
+    <trkpt lat="49.1057456" lon="22.6464057">
+      <ele>654</ele>
+      <time>2022-01-18T00:53:30Z</time>
+    </trkpt>
+    <trkpt lat="49.1053879" lon="22.6468563">
+      <ele>653</ele>
+      <time>2022-01-18T00:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.1051771" lon="22.6468509">
+      <ele>653</ele>
+      <time>2022-01-18T00:54:47Z</time>
+    </trkpt>
+    <trkpt lat="49.1050225" lon="22.6467812">
+      <ele>653</ele>
+      <time>2022-01-18T00:55:05Z</time>
+    </trkpt>
+    <trkpt lat="49.1048029" lon="22.6466793">
+      <ele>655</ele>
+      <time>2022-01-18T00:55:31Z</time>
+    </trkpt>
+    <trkpt lat="49.1047434" lon="22.6466507">
+      <ele>655</ele>
+      <time>2022-01-18T00:55:39Z</time>
+    </trkpt>
+    <trkpt lat="49.1046615" lon="22.6466766">
+      <ele>656</ele>
+      <time>2022-01-18T00:55:48Z</time>
+    </trkpt>
+    <trkpt lat="49.1045299" lon="22.6467789">
+      <ele>656</ele>
+      <time>2022-01-18T00:56:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

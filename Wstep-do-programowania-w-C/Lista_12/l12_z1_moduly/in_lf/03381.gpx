@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:02Z</time>
+    <bounds maxlat="50.6885771" maxlon="16.2403739" minlat="50.6871531" minlon="16.2398851"/>
+  </metadata>
+  <wpt lat="50.687153" lon="16.239885">
+    <ele>572</ele>
+    <name>Sokolowsko</name>
+    <link href="https://mapa-turystyczna.pl/node/2343">
+      <text>Sokolowsko</text>
+    </link>
+  </wpt>
+  <wpt lat="50.688577" lon="16.240368">
+    <ele>583</ele>
+    <name>Sokolowsko, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2415">
+      <text>Sokolowsko, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sokolowsko - Sokolowsko, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6871531,16.2398851;50.68751590140273,16.240058100000006;50.6885771,16.2403679">
+    <text>Sokolowsko - Sokolowsko, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6871531" lon="16.2398851">
+      <ele>572</ele>
+      <time>2022-01-17T21:29:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6878787" lon="16.2402311">
+      <ele>573</ele>
+      <time>2022-01-17T21:31:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6880749" lon="16.2401976">
+      <ele>576</ele>
+      <time>2022-01-17T21:32:15Z</time>
+    </trkpt>
+    <trkpt lat="50.688343" lon="16.2403739">
+      <ele>581</ele>
+      <time>2022-01-17T21:33:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6885771" lon="16.2403679">
+      <ele>583</ele>
+      <time>2022-01-17T21:34:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

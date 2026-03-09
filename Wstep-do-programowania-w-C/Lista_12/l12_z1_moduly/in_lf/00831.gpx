@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:53:16Z</time>
+    <bounds maxlat="49.422517" maxlon="19.096288" minlat="49.419025" minlon="19.094779"/>
+  </metadata>
+  <wpt lat="49.422517" lon="19.096288">
+    <ele>1207</ele>
+    <name>Rycerzowa Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/650">
+      <text>Rycerzowa Mala</text>
+    </link>
+  </wpt>
+  <wpt lat="49.419025" lon="19.094779">
+    <ele>1147</ele>
+    <name>Hala Rycerzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3860">
+      <text>Hala Rycerzowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rycerzowa Mala - Hala Rycerzowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.422517,19.096288;49.42079000008068,19.09524750000001;49.419025,19.094779">
+    <text>Rycerzowa Mala - Hala Rycerzowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.422517" lon="19.096288">
+      <ele>1207</ele>
+      <time>2022-01-17T20:53:16Z</time>
+    </trkpt>
+    <trkpt lat="49.422397" lon="19.096173">
+      <ele>1206</ele>
+      <time>2022-01-17T20:53:27Z</time>
+    </trkpt>
+    <trkpt lat="49.422227" lon="19.096032">
+      <ele>1205</ele>
+      <time>2022-01-17T20:53:43Z</time>
+    </trkpt>
+    <trkpt lat="49.421783" lon="19.095677">
+      <ele>1203</ele>
+      <time>2022-01-17T20:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.421589" lon="19.095567">
+      <ele>1201</ele>
+      <time>2022-01-17T20:54:40Z</time>
+    </trkpt>
+    <trkpt lat="49.421137" lon="19.095319">
+      <ele>1191</ele>
+      <time>2022-01-17T20:55:20Z</time>
+    </trkpt>
+    <trkpt lat="49.420879" lon="19.095237">
+      <ele>1186</ele>
+      <time>2022-01-17T20:55:41Z</time>
+    </trkpt>
+    <trkpt lat="49.420701" lon="19.095258">
+      <ele>1183</ele>
+      <time>2022-01-17T20:55:56Z</time>
+    </trkpt>
+    <trkpt lat="49.420457" lon="19.095147">
+      <ele>1178</ele>
+      <time>2022-01-17T20:56:17Z</time>
+    </trkpt>
+    <trkpt lat="49.419984" lon="19.095036">
+      <ele>1163</ele>
+      <time>2022-01-17T20:56:57Z</time>
+    </trkpt>
+    <trkpt lat="49.419676" lon="19.094964">
+      <ele>1157</ele>
+      <time>2022-01-17T20:57:22Z</time>
+    </trkpt>
+    <trkpt lat="49.419391" lon="19.094914">
+      <ele>1153</ele>
+      <time>2022-01-17T20:57:45Z</time>
+    </trkpt>
+    <trkpt lat="49.419025" lon="19.094779">
+      <ele>1147</ele>
+      <time>2022-01-17T20:58:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

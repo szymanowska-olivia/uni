@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:46Z</time>
+    <bounds maxlat="50.7223634" maxlon="16.2885721" minlat="50.7191446" minlon="16.2855545"/>
+  </metadata>
+  <wpt lat="50.722363" lon="16.285554">
+    <ele>717</ele>
+    <name>Rozdroze Lesne Berdo</name>
+    <link href="https://mapa-turystyczna.pl/node/7869">
+      <text>Rozdroze Lesne Berdo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.719145" lon="16.288572">
+    <ele>698</ele>
+    <name>Kamionka</name>
+    <link href="https://mapa-turystyczna.pl/node/7870">
+      <text>Kamionka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze Lesne Berdo - Kamionka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7223634,16.2855545;50.72115930009773,16.2880581;50.7191446,16.2885721">
+    <text>Rozdroze Lesne Berdo - Kamionka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7223634" lon="16.2855545">
+      <ele>717</ele>
+      <time>2022-01-17T23:29:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7223125" lon="16.2856489">
+      <ele>718</ele>
+      <time>2022-01-17T23:29:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7219483" lon="16.2863047">
+      <ele>720</ele>
+      <time>2022-01-17T23:30:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7216146" lon="16.2874594">
+      <ele>719</ele>
+      <time>2022-01-17T23:31:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7214159" lon="16.2878269">
+      <ele>719</ele>
+      <time>2022-01-17T23:31:53Z</time>
+    </trkpt>
+    <trkpt lat="50.721255" lon="16.288015">
+      <ele>718</ele>
+      <time>2022-01-17T23:32:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7210636" lon="16.2881012">
+      <ele>717</ele>
+      <time>2022-01-17T23:32:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7207282" lon="16.2880911">
+      <ele>711</ele>
+      <time>2022-01-17T23:32:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7202816" lon="16.2880817">
+      <ele>704</ele>
+      <time>2022-01-17T23:33:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7191446" lon="16.2885721">
+      <ele>698</ele>
+      <time>2022-01-17T23:34:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

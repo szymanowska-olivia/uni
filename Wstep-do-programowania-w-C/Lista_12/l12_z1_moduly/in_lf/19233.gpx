@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:33Z</time>
+    <bounds maxlat="52.5194644" maxlon="17.1505966" minlat="52.5188565" minlon="17.1431313"/>
+  </metadata>
+  <wpt lat="52.519397" lon="17.150597">
+    <ele>108</ele>
+    <name>Steszewko</name>
+    <link href="https://mapa-turystyczna.pl/node/12990">
+      <text>Steszewko</text>
+    </link>
+  </wpt>
+  <wpt lat="52.518856" lon="17.143131">
+    <ele>97</ele>
+    <name>Tuczno</name>
+    <link href="https://mapa-turystyczna.pl/node/12831">
+      <text>Tuczno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Steszewko - Tuczno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5193973,17.1505966;52.519255500496655,17.146794350000032;52.5188565,17.1431313">
+    <text>Steszewko - Tuczno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5193973" lon="17.1505966">
+      <ele>108</ele>
+      <time>2022-01-18T01:44:33Z</time>
+    </trkpt>
+    <trkpt lat="52.5194644" lon="17.148865">
+      <ele>104</ele>
+      <time>2022-01-18T01:46:51Z</time>
+    </trkpt>
+    <trkpt lat="52.5190466" lon="17.1447237">
+      <ele>96</ele>
+      <time>2022-01-18T01:52:24Z</time>
+    </trkpt>
+    <trkpt lat="52.5188565" lon="17.1431313">
+      <ele>97</ele>
+      <time>2022-01-18T01:54:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

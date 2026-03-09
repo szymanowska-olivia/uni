@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:15Z</time>
+    <bounds maxlat="49.120219" maxlon="19.263316" minlat="49.118756" minlon="19.262622"/>
+  </metadata>
+  <wpt lat="49.118756" lon="19.262622">
+    <ele>1087</ele>
+    <name>Sedlo pod Radicinou</name>
+    <link href="https://mapa-turystyczna.pl/node/7180">
+      <text>Sedlo pod Radicinou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.120219" lon="19.263316">
+    <ele>1127</ele>
+    <name>Radicina, vrchol</name>
+    <link href="https://mapa-turystyczna.pl/node/7181">
+      <text>Radicina, vrchol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo pod Radicinou - Radicina, vrchol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.118756,19.262622;49.119580000126454,19.263259500000025;49.120219,19.263316">
+    <text>Sedlo pod Radicinou - Radicina, vrchol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.118756" lon="19.262622">
+      <ele>1087</ele>
+      <time>2022-01-17T23:12:15Z</time>
+    </trkpt>
+    <trkpt lat="49.118995" lon="19.262779">
+      <ele>1093</ele>
+      <time>2022-01-17T23:13:01Z</time>
+    </trkpt>
+    <trkpt lat="49.119085" lon="19.262886">
+      <ele>1096</ele>
+      <time>2022-01-17T23:13:22Z</time>
+    </trkpt>
+    <trkpt lat="49.119128" lon="19.26304">
+      <ele>1099</ele>
+      <time>2022-01-17T23:13:41Z</time>
+    </trkpt>
+    <trkpt lat="49.119212" lon="19.263136">
+      <ele>1102</ele>
+      <time>2022-01-17T23:14:00Z</time>
+    </trkpt>
+    <trkpt lat="49.119294" lon="19.263207">
+      <ele>1105</ele>
+      <time>2022-01-17T23:14:17Z</time>
+    </trkpt>
+    <trkpt lat="49.119468" lon="19.263224">
+      <ele>1111</ele>
+      <time>2022-01-17T23:14:49Z</time>
+    </trkpt>
+    <trkpt lat="49.119692" lon="19.263295">
+      <ele>1119</ele>
+      <time>2022-01-17T23:15:31Z</time>
+    </trkpt>
+    <trkpt lat="49.119807" lon="19.263283">
+      <ele>1122</ele>
+      <time>2022-01-17T23:15:51Z</time>
+    </trkpt>
+    <trkpt lat="49.119939" lon="19.263185">
+      <ele>1124</ele>
+      <time>2022-01-17T23:16:17Z</time>
+    </trkpt>
+    <trkpt lat="49.12001" lon="19.263151">
+      <ele>1126</ele>
+      <time>2022-01-17T23:16:30Z</time>
+    </trkpt>
+    <trkpt lat="49.120086" lon="19.263164">
+      <ele>1126</ele>
+      <time>2022-01-17T23:16:44Z</time>
+    </trkpt>
+    <trkpt lat="49.120182" lon="19.263259">
+      <ele>1127</ele>
+      <time>2022-01-17T23:17:04Z</time>
+    </trkpt>
+    <trkpt lat="49.120177" lon="19.263283">
+      <ele>1127</ele>
+      <time>2022-01-17T23:17:07Z</time>
+    </trkpt>
+    <trkpt lat="49.12019" lon="19.263301">
+      <ele>1127</ele>
+      <time>2022-01-17T23:17:10Z</time>
+    </trkpt>
+    <trkpt lat="49.120207" lon="19.263306">
+      <ele>1127</ele>
+      <time>2022-01-17T23:17:13Z</time>
+    </trkpt>
+    <trkpt lat="49.120219" lon="19.263316">
+      <ele>1127</ele>
+      <time>2022-01-17T23:17:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

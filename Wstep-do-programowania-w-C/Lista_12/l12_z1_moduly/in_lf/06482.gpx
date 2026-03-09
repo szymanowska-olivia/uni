@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:54Z</time>
+    <bounds maxlat="50.7165354" maxlon="19.2971635" minlat="50.7153465" minlon="19.2894066"/>
+  </metadata>
+  <wpt lat="50.715347" lon="19.297163">
+    <ele>329</ele>
+    <name>Pod Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4533">
+      <text>Pod Jodlowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.716535" lon="19.289407">
+    <ele>327</ele>
+    <name>Pod Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4501">
+      <text>Pod Jodlowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jodlowa - Pod Jodlowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7153465,19.2971635;50.71594095376973,19.293285050000016;50.7165354,19.2894066">
+    <text>Pod Jodlowa - Pod Jodlowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7153465" lon="19.2971635">
+      <ele>329</ele>
+      <time>2022-01-17T22:07:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7165354" lon="19.2894066">
+      <ele>327</ele>
+      <time>2022-01-17T22:17:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

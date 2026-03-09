@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:18Z</time>
+    <bounds maxlat="50.7979342" maxlon="15.7321161" minlat="50.795812" minlon="15.7313705"/>
+  </metadata>
+  <wpt lat="50.797934" lon="15.731371">
+    <ele>724</ele>
+    <name>Przelaczka pod Grabowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/1314">
+      <text>Przelaczka pod Grabowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.795812" lon="15.732014">
+    <ele>735</ele>
+    <name>Pod Przelaczka</name>
+    <link href="https://mapa-turystyczna.pl/node/1289">
+      <text>Pod Przelaczka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelaczka pod Grabowcem - Pod Przelaczka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7979342,15.7313705;50.79705640113495,15.731937400000001;50.795812,15.7320142">
+    <text>Przelaczka pod Grabowcem - Pod Przelaczka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7979342" lon="15.7313705">
+      <ele>724</ele>
+      <time>2022-01-17T21:06:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7978419" lon="15.7315743">
+      <ele>724</ele>
+      <time>2022-01-17T21:06:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7973821" lon="15.7321161">
+      <ele>719</ele>
+      <time>2022-01-17T21:07:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7967307" lon="15.7317587">
+      <ele>725</ele>
+      <time>2022-01-17T21:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7961857" lon="15.7318478">
+      <ele>732</ele>
+      <time>2022-01-17T21:10:29Z</time>
+    </trkpt>
+    <trkpt lat="50.795812" lon="15.7320142">
+      <ele>735</ele>
+      <time>2022-01-17T21:11:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

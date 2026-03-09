@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:35Z</time>
+    <bounds maxlat="50.347632" maxlon="19.6020126" minlat="50.3451591" minlon="19.6000623"/>
+  </metadata>
+  <wpt lat="50.345159" lon="19.602013">
+    <ele>395</ele>
+    <name>Jaskinia Blotna</name>
+    <link href="https://mapa-turystyczna.pl/node/4421">
+      <text>Jaskinia Blotna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.347632" lon="19.600062">
+    <ele>415</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13454">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaskinia Blotna - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3451591,19.6020126;50.34596875690177,19.601199900000026;50.347632,19.6000623">
+    <text>Jaskinia Blotna - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3451591" lon="19.6020126">
+      <ele>395</ele>
+      <time>2022-01-18T01:57:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3467784" lon="19.6003872">
+      <ele>411</ele>
+      <time>2022-01-18T02:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3475759" lon="19.6000707">
+      <ele>415</ele>
+      <time>2022-01-18T02:02:29Z</time>
+    </trkpt>
+    <trkpt lat="50.347632" lon="19.6000623">
+      <ele>415</ele>
+      <time>2022-01-18T02:02:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:23Z</time>
+    <bounds maxlat="48.8895625" maxlon="19.2310471" minlat="48.8888533" minlon="19.2288862"/>
+  </metadata>
+  <wpt lat="48.889562" lon="19.228886">
+    <ele>1337</ele>
+    <name>Nova hola, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5935">
+      <text>Nova hola, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.888935" lon="19.231047">
+    <ele>1352</ele>
+    <name>Nova hola</name>
+    <link href="https://mapa-turystyczna.pl/node/5937">
+      <text>Nova hola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nova hola, razc. - Nova hola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8895625,19.2288862;48.888955600028,19.22979459999999;48.888935,19.2310471">
+    <text>Nova hola, razc. - Nova hola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8895625" lon="19.2288862">
+      <ele>1337</ele>
+      <time>2022-01-17T22:40:23Z</time>
+    </trkpt>
+    <trkpt lat="48.8895129" lon="19.2290838">
+      <ele>1338</ele>
+      <time>2022-01-17T22:40:47Z</time>
+    </trkpt>
+    <trkpt lat="48.8893613" lon="19.2293359">
+      <ele>1341</ele>
+      <time>2022-01-17T22:41:25Z</time>
+    </trkpt>
+    <trkpt lat="48.8892978" lon="19.2293735">
+      <ele>1343</ele>
+      <time>2022-01-17T22:41:37Z</time>
+    </trkpt>
+    <trkpt lat="48.8892131" lon="19.2293627">
+      <ele>1344</ele>
+      <time>2022-01-17T22:41:51Z</time>
+    </trkpt>
+    <trkpt lat="48.889132" lon="19.2294271">
+      <ele>1346</ele>
+      <time>2022-01-17T22:42:07Z</time>
+    </trkpt>
+    <trkpt lat="48.8890085" lon="19.229631">
+      <ele>1350</ele>
+      <time>2022-01-17T22:42:38Z</time>
+    </trkpt>
+    <trkpt lat="48.8889027" lon="19.2299582">
+      <ele>1354</ele>
+      <time>2022-01-17T22:43:19Z</time>
+    </trkpt>
+    <trkpt lat="48.8888533" lon="19.2306287">
+      <ele>1355</ele>
+      <time>2022-01-17T22:44:34Z</time>
+    </trkpt>
+    <trkpt lat="48.888935" lon="19.2310471">
+      <ele>1352</ele>
+      <time>2022-01-17T22:45:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

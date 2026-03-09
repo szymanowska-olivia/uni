@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:48Z</time>
+    <bounds maxlat="50.448036" maxlon="19.6032196" minlat="50.4319646" minlon="19.5809359"/>
+  </metadata>
+  <wpt lat="50.431965" lon="19.60322">
+    <ele>400</ele>
+    <name>Ryczow, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4557">
+      <text>Ryczow, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.448036" lon="19.580936">
+    <ele>395</ele>
+    <name>Podzamcze, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4451">
+      <text>Podzamcze, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ryczow, ul. Lesna - Podzamcze, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4319646,19.6032196;50.44091236152629,19.589724099999994;50.448036,19.5809359">
+    <text>Ryczow, ul. Lesna - Podzamcze, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4319646" lon="19.6032196">
+      <ele>400</ele>
+      <time>2022-01-17T22:08:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4371037" lon="19.5947278">
+      <ele>424</ele>
+      <time>2022-01-17T22:22:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4374189" lon="19.5943857">
+      <ele>424</ele>
+      <time>2022-01-17T22:23:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4388138" lon="19.5935396">
+      <ele>418</ele>
+      <time>2022-01-17T22:25:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4398678" lon="19.5923406">
+      <ele>404</ele>
+      <time>2022-01-17T22:28:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4419569" lon="19.5871076">
+      <ele>393</ele>
+      <time>2022-01-17T22:35:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4421602" lon="19.586767">
+      <ele>394</ele>
+      <time>2022-01-17T22:36:04Z</time>
+    </trkpt>
+    <trkpt lat="50.448036" lon="19.5809359">
+      <ele>395</ele>
+      <time>2022-01-17T22:48:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

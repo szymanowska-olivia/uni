@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:52Z</time>
+    <bounds maxlat="51.1095709" maxlon="15.5905218" minlat="51.1086491" minlon="15.5847287"/>
+  </metadata>
+  <wpt lat="51.109571" lon="15.590522">
+    <ele>210</ele>
+    <name>Lwowek Slaski, Park Jozefa Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9154">
+      <text>Lwowek Slaski, Park Jozefa Pilsudskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.108669" lon="15.584729">
+    <ele>217</ele>
+    <name>Lwowek Slaski, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11833">
+      <text>Lwowek Slaski, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, Park Jozefa Pilsudskiego - Lwowek Slaski, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1095709,15.5905218;51.108971200180605,15.588344650000021;51.1086686,15.5847287">
+    <text>Lwowek Slaski, Park Jozefa Pilsudskiego - Lwowek Slaski, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1095709" lon="15.5905218">
+      <ele>210</ele>
+      <time>2022-01-18T01:12:52Z</time>
+    </trkpt>
+    <trkpt lat="51.1092748" lon="15.5901334">
+      <ele>212</ele>
+      <time>2022-01-18T01:13:22Z</time>
+    </trkpt>
+    <trkpt lat="51.1091738" lon="15.5899">
+      <ele>212</ele>
+      <time>2022-01-18T01:13:36Z</time>
+    </trkpt>
+    <trkpt lat="51.1091004" lon="15.5892207">
+      <ele>213</ele>
+      <time>2022-01-18T01:14:09Z</time>
+    </trkpt>
+    <trkpt lat="51.108842" lon="15.5874686">
+      <ele>217</ele>
+      <time>2022-01-18T01:15:37Z</time>
+    </trkpt>
+    <trkpt lat="51.1086989" lon="15.5858847">
+      <ele>220</ele>
+      <time>2022-01-18T01:16:55Z</time>
+    </trkpt>
+    <trkpt lat="51.1086491" lon="15.5853047">
+      <ele>219</ele>
+      <time>2022-01-18T01:17:24Z</time>
+    </trkpt>
+    <trkpt lat="51.1086686" lon="15.5847287">
+      <ele>217</ele>
+      <time>2022-01-18T01:17:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

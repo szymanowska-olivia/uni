@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:26Z</time>
+    <bounds maxlat="50.2181301" maxlon="17.3250425" minlat="50.2166404" minlon="17.3229343"/>
+  </metadata>
+  <wpt lat="50.216644" lon="17.322934">
+    <ele>737</ele>
+    <name>Lurdska jeskyne, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6765">
+      <text>Lurdska jeskyne, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.21813" lon="17.32405">
+    <ele>780</ele>
+    <name>Lurdska jeskyne</name>
+    <link href="https://mapa-turystyczna.pl/node/6764">
+      <text>Lurdska jeskyne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lurdska jeskyne, rozc. - Lurdska jeskyne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2166438,17.3229343;50.21743845094546,17.324669649999993;50.2181301,17.3240501">
+    <text>Lurdska jeskyne, rozc. - Lurdska jeskyne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2166438" lon="17.3229343">
+      <ele>737</ele>
+      <time>2022-01-17T23:01:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2166404" lon="17.3230845">
+      <ele>738</ele>
+      <time>2022-01-17T23:01:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2170008" lon="17.3238462">
+      <ele>754</ele>
+      <time>2022-01-17T23:04:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2171381" lon="17.3242968">
+      <ele>761</ele>
+      <time>2022-01-17T23:05:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2177388" lon="17.3250425">
+      <ele>774</ele>
+      <time>2022-01-17T23:08:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2179447" lon="17.3248976">
+      <ele>779</ele>
+      <time>2022-01-17T23:09:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2180443" lon="17.3246509">
+      <ele>780</ele>
+      <time>2022-01-17T23:09:55Z</time>
+    </trkpt>
+    <trkpt lat="50.218082" lon="17.3242003">
+      <ele>779</ele>
+      <time>2022-01-17T23:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2181301" lon="17.3240501">
+      <ele>780</ele>
+      <time>2022-01-17T23:11:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

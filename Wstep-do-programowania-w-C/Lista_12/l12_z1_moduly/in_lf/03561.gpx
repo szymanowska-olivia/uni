@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:47Z</time>
+    <bounds maxlat="49.3533211" maxlon="21.9524538" minlat="49.3501039" minlon="21.9504236"/>
+  </metadata>
+  <wpt lat="49.353321" lon="21.950424">
+    <ele>823</ele>
+    <name>Kanasiowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2497">
+      <text>Kanasiowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.350104" lon="21.952454">
+    <ele>830</ele>
+    <name>Pod Kanasiowka</name>
+    <link href="https://mapa-turystyczna.pl/node/460">
+      <text>Pod Kanasiowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kanasiowka - Pod Kanasiowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3533211,21.9504236;49.35163205058181,21.95157410000002;49.3501039,21.9524538">
+    <text>Kanasiowka - Pod Kanasiowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3533211" lon="21.9504236">
+      <ele>823</ele>
+      <time>2022-01-17T21:31:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3528786" lon="21.950609">
+      <ele>825</ele>
+      <time>2022-01-17T21:32:26Z</time>
+    </trkpt>
+    <trkpt lat="49.3525711" lon="21.9506841">
+      <ele>825</ele>
+      <time>2022-01-17T21:32:53Z</time>
+    </trkpt>
+    <trkpt lat="49.3522972" lon="21.9509411">
+      <ele>826</ele>
+      <time>2022-01-17T21:33:20Z</time>
+    </trkpt>
+    <trkpt lat="49.3518713" lon="21.9514132">
+      <ele>827</ele>
+      <time>2022-01-17T21:34:05Z</time>
+    </trkpt>
+    <trkpt lat="49.3513928" lon="21.951735">
+      <ele>832</ele>
+      <time>2022-01-17T21:34:49Z</time>
+    </trkpt>
+    <trkpt lat="49.3511498" lon="21.9518339">
+      <ele>832</ele>
+      <time>2022-01-17T21:35:11Z</time>
+    </trkpt>
+    <trkpt lat="49.3506955" lon="21.9521558">
+      <ele>831</ele>
+      <time>2022-01-17T21:35:53Z</time>
+    </trkpt>
+    <trkpt lat="49.3503601" lon="21.9524025">
+      <ele>830</ele>
+      <time>2022-01-17T21:36:25Z</time>
+    </trkpt>
+    <trkpt lat="49.3501039" lon="21.9524538">
+      <ele>830</ele>
+      <time>2022-01-17T21:36:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

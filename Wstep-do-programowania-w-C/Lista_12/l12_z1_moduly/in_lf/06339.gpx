@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:36Z</time>
+    <bounds maxlat="50.2035706" maxlon="19.8285022" minlat="50.202616" minlon="19.8273209"/>
+  </metadata>
+  <wpt lat="50.202616" lon="19.828364">
+    <ele>318</ele>
+    <name>Ojcow, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/4408">
+      <text>Ojcow, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.203571" lon="19.827321">
+    <ele>325</ele>
+    <name>Ojcow, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/4409">
+      <text>Ojcow, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ojcow, odejscie szlaku czarnego - Ojcow, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.202616,19.8283643;50.20324805008475,19.828362949999974;50.2035706,19.8273209">
+    <text>Ojcow, odejscie szlaku czarnego - Ojcow, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.202616" lon="19.8283643">
+      <ele>318</ele>
+      <time>2022-01-17T22:05:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2027585" lon="19.8284457">
+      <ele>319</ele>
+      <time>2022-01-17T22:05:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2029652" lon="19.8285022">
+      <ele>319</ele>
+      <time>2022-01-17T22:06:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2031581" lon="19.8284406">
+      <ele>318</ele>
+      <time>2022-01-17T22:06:42Z</time>
+    </trkpt>
+    <trkpt lat="50.203338" lon="19.8282853">
+      <ele>318</ele>
+      <time>2022-01-17T22:07:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2034023" lon="19.8281034">
+      <ele>319</ele>
+      <time>2022-01-17T22:07:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2033714" lon="19.8277085">
+      <ele>322</ele>
+      <time>2022-01-17T22:07:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2033766" lon="19.8275274">
+      <ele>323</ele>
+      <time>2022-01-17T22:08:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2034702" lon="19.8273651">
+      <ele>324</ele>
+      <time>2022-01-17T22:08:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2035706" lon="19.8273209">
+      <ele>325</ele>
+      <time>2022-01-17T22:08:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

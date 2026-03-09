@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:58Z</time>
+    <bounds maxlat="50.5501036" maxlon="17.0685807" minlat="50.544409" minlon="17.0524442"/>
+  </metadata>
+  <wpt lat="50.549984" lon="17.052444">
+    <ele>264</ele>
+    <name>Starczowek</name>
+    <link href="https://mapa-turystyczna.pl/node/2774">
+      <text>Starczowek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.544409" lon="17.068581">
+    <ele>270</ele>
+    <name>Kamien graniczny sw. Jana</name>
+    <link href="https://mapa-turystyczna.pl/node/10759">
+      <text>Kamien graniczny sw. Jana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starczowek - Kamien graniczny sw. Jana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.549984,17.0524442;50.549421901601434,17.06193954999998;50.544409,17.0685807">
+    <text>Starczowek - Kamien graniczny sw. Jana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.549984" lon="17.0524442">
+      <ele>264</ele>
+      <time>2022-01-18T00:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.5499945" lon="17.0529488">
+      <ele>264</ele>
+      <time>2022-01-18T00:45:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5500354" lon="17.0531526">
+      <ele>264</ele>
+      <time>2022-01-18T00:45:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5500627" lon="17.0540002">
+      <ele>265</ele>
+      <time>2022-01-18T00:46:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5501036" lon="17.0557919">
+      <ele>271</ele>
+      <time>2022-01-18T00:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5500831" lon="17.0562854">
+      <ele>274</ele>
+      <time>2022-01-18T00:49:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5498105" lon="17.0590106">
+      <ele>284</ele>
+      <time>2022-01-18T00:52:55Z</time>
+    </trkpt>
+    <trkpt lat="50.5490333" lon="17.0648685">
+      <ele>267</ele>
+      <time>2022-01-18T01:00:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5488629" lon="17.0652011">
+      <ele>267</ele>
+      <time>2022-01-18T01:00:37Z</time>
+    </trkpt>
+    <trkpt lat="50.545027" lon="17.0680281">
+      <ele>273</ele>
+      <time>2022-01-18T01:08:37Z</time>
+    </trkpt>
+    <trkpt lat="50.544409" lon="17.0685807">
+      <ele>270</ele>
+      <time>2022-01-18T01:09:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

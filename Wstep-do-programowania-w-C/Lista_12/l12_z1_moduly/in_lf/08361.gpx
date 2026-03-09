@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:25Z</time>
+    <bounds maxlat="50.7357345" maxlon="15.5701884" minlat="50.7345125" minlon="15.5691705"/>
+  </metadata>
+  <wpt lat="50.735734" lon="15.569171">
+    <ele>1034</ele>
+    <name>Jimnecka bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/5821">
+      <text>Jimnecka bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734513" lon="15.57018">
+    <ele>1020</ele>
+    <name>Horni Misecky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1162">
+      <text>Horni Misecky, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jimnecka bouda - Horni Misecky, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7357345,15.5691705;50.73492420050408,15.569954899999988;50.7345125,15.5701805">
+    <text>Jimnecka bouda - Horni Misecky, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7357345" lon="15.5691705">
+      <ele>1034</ele>
+      <time>2022-01-17T22:37:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7354256" lon="15.5694287">
+      <ele>1031</ele>
+      <time>2022-01-17T22:37:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7351415" lon="15.5697564">
+      <ele>1029</ele>
+      <time>2022-01-17T22:38:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7347069" lon="15.5701534">
+      <ele>1024</ele>
+      <time>2022-01-17T22:39:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7345961" lon="15.5701884">
+      <ele>1022</ele>
+      <time>2022-01-17T22:39:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7345125" lon="15.5701805">
+      <ele>1020</ele>
+      <time>2022-01-17T22:39:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:41Z</time>
+    <bounds maxlat="50.6970421" maxlon="16.4749791" minlat="50.6962211" minlon="16.4745142"/>
+  </metadata>
+  <wpt lat="50.697042" lon="16.474712">
+    <ele>755</ele>
+    <name>Przelecz Walimska</name>
+    <link href="https://mapa-turystyczna.pl/node/2017">
+      <text>Przelecz Walimska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.696221" lon="16.474979">
+    <ele>763</ele>
+    <name>Przelecz Walimska, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/4804">
+      <text>Przelecz Walimska, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Walimska - Przelecz Walimska, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6970421,16.4747125;50.69652120005695,16.474527099999978;50.6962211,16.4749791">
+    <text>Przelecz Walimska - Przelecz Walimska, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6970421" lon="16.4747125">
+      <ele>755</ele>
+      <time>2022-01-17T22:16:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6969035" lon="16.474584">
+      <ele>756</ele>
+      <time>2022-01-17T22:17:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6967723" lon="16.4745646">
+      <ele>756</ele>
+      <time>2022-01-17T22:17:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6965943" lon="16.4745142">
+      <ele>758</ele>
+      <time>2022-01-17T22:17:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6964481" lon="16.47454">
+      <ele>759</ele>
+      <time>2022-01-17T22:17:57Z</time>
+    </trkpt>
+    <trkpt lat="50.69637" lon="16.4746537">
+      <ele>760</ele>
+      <time>2022-01-17T22:18:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6962211" lon="16.4749791">
+      <ele>763</ele>
+      <time>2022-01-17T22:18:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:15:34Z</time>
+    <bounds maxlat="50.4779843" maxlon="16.3744354" minlat="50.4749025" minlon="16.3715398"/>
+  </metadata>
+  <wpt lat="50.474902" lon="16.37154">
+    <ele>753</ele>
+    <name>Ksztaltna Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/4765">
+      <text>Ksztaltna Laka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.477984" lon="16.374435">
+    <ele>698</ele>
+    <name>Droga nad Urwiskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1824">
+      <text>Droga nad Urwiskiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ksztaltna Laka - Droga nad Urwiskiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4749025,16.3715398;50.476340950709826,16.37364814999998;50.4779843,16.3744354">
+    <text>Ksztaltna Laka - Droga nad Urwiskiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4749025" lon="16.3715398">
+      <ele>753</ele>
+      <time>2022-01-17T22:15:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4749777" lon="16.3715528">
+      <ele>753</ele>
+      <time>2022-01-17T22:15:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4751211" lon="16.3723896">
+      <ele>752</ele>
+      <time>2022-01-17T22:16:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4752942" lon="16.3726329">
+      <ele>750</ele>
+      <time>2022-01-17T22:16:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4754547" lon="16.3729656">
+      <ele>746</ele>
+      <time>2022-01-17T22:17:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4756215" lon="16.3732271">
+      <ele>744</ele>
+      <time>2022-01-17T22:17:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4757869" lon="16.3734865">
+      <ele>743</ele>
+      <time>2022-01-17T22:17:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4760819" lon="16.3735422">
+      <ele>740</ele>
+      <time>2022-01-17T22:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4766" lon="16.3737541">
+      <ele>730</ele>
+      <time>2022-01-17T22:18:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4772478" lon="16.3742128">
+      <ele>714</ele>
+      <time>2022-01-17T22:19:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4775353" lon="16.3743906">
+      <ele>708</ele>
+      <time>2022-01-17T22:19:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4779843" lon="16.3744354">
+      <ele>698</ele>
+      <time>2022-01-17T22:20:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

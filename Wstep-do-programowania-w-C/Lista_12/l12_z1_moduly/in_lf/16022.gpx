@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:55Z</time>
+    <bounds maxlat="49.48671" maxlon="20.680888" minlat="49.484752" minlon="20.680322"/>
+  </metadata>
+  <wpt lat="49.48671" lon="20.680888">
+    <ele>350</ele>
+    <name>Rytro, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4897">
+      <text>Rytro, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.484752" lon="20.680322">
+    <ele>344</ele>
+    <name>Rytro, most</name>
+    <link href="https://mapa-turystyczna.pl/node/10967">
+      <text>Rytro, most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rytro, stacja kolejowa - Rytro, most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.48671,20.680888;49.48545850288492,20.680525999999983;49.484752,20.680322">
+    <text>Rytro, stacja kolejowa - Rytro, most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.48671" lon="20.680888">
+      <ele>350</ele>
+      <time>2022-01-18T00:49:55Z</time>
+    </trkpt>
+    <trkpt lat="49.486472" lon="20.680823">
+      <ele>349</ele>
+      <time>2022-01-18T00:50:17Z</time>
+    </trkpt>
+    <trkpt lat="49.486152" lon="20.680729">
+      <ele>349</ele>
+      <time>2022-01-18T00:50:46Z</time>
+    </trkpt>
+    <trkpt lat="49.48599" lon="20.680682">
+      <ele>349</ele>
+      <time>2022-01-18T00:51:01Z</time>
+    </trkpt>
+    <trkpt lat="49.484927" lon="20.68037">
+      <ele>346</ele>
+      <time>2022-01-18T00:52:39Z</time>
+    </trkpt>
+    <trkpt lat="49.484752" lon="20.680322">
+      <ele>344</ele>
+      <time>2022-01-18T00:52:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

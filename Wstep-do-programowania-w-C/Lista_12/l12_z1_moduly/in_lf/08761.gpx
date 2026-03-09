@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:40Z</time>
+    <bounds maxlat="50.2643951" maxlon="17.0132732" minlat="50.2619673" minlon="17.0115149"/>
+  </metadata>
+  <wpt lat="50.261967" lon="17.011515">
+    <ele>924</ele>
+    <name>Pod Kowadlem</name>
+    <link href="https://mapa-turystyczna.pl/node/6095">
+      <text>Pod Kowadlem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.264395" lon="17.013273">
+    <ele>989</ele>
+    <name>Kowadlo</name>
+    <link href="https://mapa-turystyczna.pl/node/2134">
+      <text>Kowadlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kowadlem - Kowadlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2619673,17.0115149;50.263014802871375,17.01256510000001;50.2643951,17.0132732">
+    <text>Pod Kowadlem - Kowadlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2619673" lon="17.0115149">
+      <ele>924</ele>
+      <time>2022-01-17T22:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2624918" lon="17.0118999">
+      <ele>944</ele>
+      <time>2022-01-17T22:46:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2635378" lon="17.0132303">
+      <ele>990</ele>
+      <time>2022-01-17T22:51:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2643951" lon="17.0132732">
+      <ele>989</ele>
+      <time>2022-01-17T22:54:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

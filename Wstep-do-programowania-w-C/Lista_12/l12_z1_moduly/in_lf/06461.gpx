@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:32Z</time>
+    <bounds maxlat="50.7144771" maxlon="19.4354796" minlat="50.7097215" minlon="19.4333982"/>
+  </metadata>
+  <wpt lat="50.709722" lon="19.433398">
+    <ele>282</ele>
+    <name>Zloty Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/4514">
+      <text>Zloty Potok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.714477" lon="19.43548">
+    <ele>281</ele>
+    <name>Janow, szkola</name>
+    <link href="https://mapa-turystyczna.pl/node/4513">
+      <text>Janow, szkola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zloty Potok - Janow, szkola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7097215,19.4333982;50.71271073328193,19.4348466;50.7144771,19.4354796">
+    <text>Zloty Potok - Janow, szkola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7097215" lon="19.4333982">
+      <ele>282</ele>
+      <time>2022-01-17T22:07:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7109443" lon="19.4342136">
+      <ele>283</ele>
+      <time>2022-01-17T22:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7144771" lon="19.4354796">
+      <ele>281</ele>
+      <time>2022-01-17T22:17:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

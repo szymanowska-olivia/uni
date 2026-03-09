@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:54Z</time>
+    <bounds maxlat="49.5533225" maxlon="18.3806151" minlat="49.5528146" minlon="18.3793317"/>
+  </metadata>
+  <wpt lat="49.552815" lon="18.379332">
+    <ele>394</ele>
+    <name>Reka Ostravice</name>
+    <link href="https://mapa-turystyczna.pl/node/7482">
+      <text>Reka Ostravice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.55318" lon="18.380615">
+    <ele>396</ele>
+    <name>U Bezrucova srubu</name>
+    <link href="https://mapa-turystyczna.pl/node/7529">
+      <text>U Bezrucova srubu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Reka Ostravice - U Bezrucova srubu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5528146,18.3793317;49.55306855066019,18.379817500000033;49.5531797,18.3806151">
+    <text>Reka Ostravice - U Bezrucova srubu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5528146" lon="18.3793317">
+      <ele>394</ele>
+      <time>2022-01-17T23:20:54Z</time>
+    </trkpt>
+    <trkpt lat="49.5533225" lon="18.3803033">
+      <ele>396</ele>
+      <time>2022-01-17T23:22:26Z</time>
+    </trkpt>
+    <trkpt lat="49.5531797" lon="18.3806151">
+      <ele>396</ele>
+      <time>2022-01-17T23:22:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

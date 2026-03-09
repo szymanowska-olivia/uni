@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:31Z</time>
+    <bounds maxlat="52.9924891" maxlon="16.9254708" minlat="52.9923525" minlon="16.9208949"/>
+  </metadata>
+  <wpt lat="52.992446" lon="16.920895">
+    <ele>63</ele>
+    <name>Chodziez, ul. Staszica</name>
+    <link href="https://mapa-turystyczna.pl/node/10622">
+      <text>Chodziez, ul. Staszica</text>
+    </link>
+  </wpt>
+  <wpt lat="52.992353" lon="16.925471">
+    <ele>55</ele>
+    <name>Promenada Chodzieska</name>
+    <link href="https://mapa-turystyczna.pl/node/10624">
+      <text>Promenada Chodzieska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chodziez, ul. Staszica - Promenada Chodzieska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9924461,16.9208949;52.992467600005355,16.922230300000017;52.9923525,16.9254708">
+    <text>Chodziez, ul. Staszica - Promenada Chodzieska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9924461" lon="16.9208949">
+      <ele>63</ele>
+      <time>2022-01-18T00:41:31Z</time>
+    </trkpt>
+    <trkpt lat="52.9924891" lon="16.9235657">
+      <ele>56</ele>
+      <time>2022-01-18T00:44:26Z</time>
+    </trkpt>
+    <trkpt lat="52.9924342" lon="16.9239734">
+      <ele>55</ele>
+      <time>2022-01-18T00:44:53Z</time>
+    </trkpt>
+    <trkpt lat="52.9923525" lon="16.9254708">
+      <ele>55</ele>
+      <time>2022-01-18T00:46:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

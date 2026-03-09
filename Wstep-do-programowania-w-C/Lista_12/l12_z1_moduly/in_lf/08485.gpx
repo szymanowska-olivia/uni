@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:39:34Z</time>
+    <bounds maxlat="50.5588065" maxlon="16.2136692" minlat="50.5585525" minlon="16.2128216"/>
+  </metadata>
+  <wpt lat="50.558807" lon="16.212822">
+    <ele>595</ele>
+    <name>Ostas osada, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5904">
+      <text>Ostas osada, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.558552" lon="16.213669">
+    <ele>589</ele>
+    <name>Ostas osada</name>
+    <link href="https://mapa-turystyczna.pl/node/5903">
+      <text>Ostas osada</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostas osada, rozc. - Ostas osada</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5588065,16.2128216;50.55874275000446,16.213231949999987;50.5585525,16.2136692">
+    <text>Ostas osada, rozc. - Ostas osada</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5588065" lon="16.2128216">
+      <ele>595</ele>
+      <time>2022-01-17T22:39:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5587632" lon="16.2131193">
+      <ele>594</ele>
+      <time>2022-01-17T22:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5587223" lon="16.2133446">
+      <ele>593</ele>
+      <time>2022-01-17T22:40:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5586408" lon="16.2135391">
+      <ele>591</ele>
+      <time>2022-01-17T22:40:22Z</time>
+    </trkpt>
+    <trkpt lat="50.5585525" lon="16.2136692">
+      <ele>589</ele>
+      <time>2022-01-17T22:40:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

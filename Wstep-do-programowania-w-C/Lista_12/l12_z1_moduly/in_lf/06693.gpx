@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:16Z</time>
+    <bounds maxlat="50.1462278" maxlon="16.676302" minlat="50.1361222" minlon="16.6657773"/>
+  </metadata>
+  <wpt lat="50.146228" lon="16.665777">
+    <ele>445</ele>
+    <name>Miedzylesie, ul. Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4631">
+      <text>Miedzylesie, ul. Sobieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.136122" lon="16.676302">
+    <ele>537</ele>
+    <name>Sikornik</name>
+    <link href="https://mapa-turystyczna.pl/node/1710">
+      <text>Sikornik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzylesie, ul. Sobieskiego - Sikornik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1462278,16.6657773;50.14125590384352,16.669815000000018;50.1361222,16.676302">
+    <text>Miedzylesie, ul. Sobieskiego - Sikornik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1462278" lon="16.6657773">
+      <ele>445</ele>
+      <time>2022-01-17T22:11:16Z</time>
+    </trkpt>
+    <trkpt lat="50.145888" lon="16.6661283">
+      <ele>450</ele>
+      <time>2022-01-17T22:12:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1455391" lon="16.6666728">
+      <ele>451</ele>
+      <time>2022-01-17T22:13:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1449478" lon="16.6666728">
+      <ele>454</ele>
+      <time>2022-01-17T22:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1442465" lon="16.6676223">
+      <ele>464</ele>
+      <time>2022-01-17T22:17:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1418623" lon="16.6693228">
+      <ele>474</ele>
+      <time>2022-01-17T22:23:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1406495" lon="16.6703072">
+      <ele>482</ele>
+      <time>2022-01-17T22:26:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1395949" lon="16.6714257">
+      <ele>490</ele>
+      <time>2022-01-17T22:29:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1377348" lon="16.6735098">
+      <ele>521</ele>
+      <time>2022-01-17T22:35:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1361222" lon="16.676302">
+      <ele>537</ele>
+      <time>2022-01-17T22:41:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

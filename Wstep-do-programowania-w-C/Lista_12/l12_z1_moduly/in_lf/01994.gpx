@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:21Z</time>
+    <bounds maxlat="50.7558721" maxlon="15.544957" minlat="50.7535233" minlon="15.5319858"/>
+  </metadata>
+  <wpt lat="50.753523" lon="15.544957">
+    <ele>1402</ele>
+    <name>Vrbatovo navrsi</name>
+    <link href="https://mapa-turystyczna.pl/node/1432">
+      <text>Vrbatovo navrsi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.755872" lon="15.531986">
+    <ele>1366</ele>
+    <name>Ruzencina zahradka</name>
+    <link href="https://mapa-turystyczna.pl/node/1342">
+      <text>Ruzencina zahradka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrbatovo navrsi - Ruzencina zahradka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7535233,15.544957;50.754460800205216,15.537924149999993;50.7558721,15.5319858">
+    <text>Vrbatovo navrsi - Ruzencina zahradka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7535233" lon="15.544957">
+      <ele>1402</ele>
+      <time>2022-01-17T21:09:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7537428" lon="15.543648">
+      <ele>1401</ele>
+      <time>2022-01-17T21:10:50Z</time>
+    </trkpt>
+    <trkpt lat="50.754025" lon="15.542264">
+      <ele>1401</ele>
+      <time>2022-01-17T21:12:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7542251" lon="15.5407029">
+      <ele>1403</ele>
+      <time>2022-01-17T21:14:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7542487" lon="15.5396997">
+      <ele>1406</ele>
+      <time>2022-01-17T21:15:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7542108" lon="15.5392223">
+      <ele>1407</ele>
+      <time>2022-01-17T21:15:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7543222" lon="15.5383265">
+      <ele>1410</ele>
+      <time>2022-01-17T21:16:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7545994" lon="15.5375218">
+      <ele>1406</ele>
+      <time>2022-01-17T21:17:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7549908" lon="15.5366421">
+      <ele>1399</ele>
+      <time>2022-01-17T21:19:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7558721" lon="15.5319858">
+      <ele>1366</ele>
+      <time>2022-01-17T21:24:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

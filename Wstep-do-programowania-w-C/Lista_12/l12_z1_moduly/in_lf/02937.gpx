@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:38Z</time>
+    <bounds maxlat="50.4473664" maxlon="16.8947089" minlat="50.4448966" minlon="16.8912005"/>
+  </metadata>
+  <wpt lat="50.444897" lon="16.894709">
+    <ele>339</ele>
+    <name>Zloty Stok, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2072">
+      <text>Zloty Stok, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.447366" lon="16.891201">
+    <ele>346</ele>
+    <name>Blotnica Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/2075">
+      <text>Blotnica Gorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zloty Stok, granica - Blotnica Gorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4448966,16.8947089;50.446802353361704,16.892364599999983;50.4473664,16.8912005">
+    <text>Zloty Stok, granica - Blotnica Gorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4448966" lon="16.8947089">
+      <ele>339</ele>
+      <time>2022-01-17T21:22:38Z</time>
+    </trkpt>
+    <trkpt lat="50.445807" lon="16.8945694">
+      <ele>335</ele>
+      <time>2022-01-17T21:23:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4462383" lon="16.8935287">
+      <ele>337</ele>
+      <time>2022-01-17T21:25:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4473664" lon="16.8912005">
+      <ele>346</ele>
+      <time>2022-01-17T21:27:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

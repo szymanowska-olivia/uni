@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:03Z</time>
+    <bounds maxlat="50.1577071" maxlon="17.0804411" minlat="50.1564664" minlon="17.0726144"/>
+  </metadata>
+  <wpt lat="50.157707" lon="17.072614">
+    <ele>1008</ele>
+    <name>Volska louka</name>
+    <link href="https://mapa-turystyczna.pl/node/6448">
+      <text>Volska louka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.156466" lon="17.080441">
+    <ele>996</ele>
+    <name>Potok Hucava</name>
+    <link href="https://mapa-turystyczna.pl/node/6749">
+      <text>Potok Hucava</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Volska louka - Potok Hucava</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1577071,17.0726144;50.15685475000012,17.07634804999998;50.1564664,17.0804411">
+    <text>Volska louka - Potok Hucava</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1577071" lon="17.0726144">
+      <ele>1008</ele>
+      <time>2022-01-17T23:01:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1574494" lon="17.072947">
+      <ele>1009</ele>
+      <time>2022-01-17T23:01:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1573428" lon="17.0732474">
+      <ele>1009</ele>
+      <time>2022-01-17T23:02:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1568582" lon="17.0758867">
+      <ele>1010</ele>
+      <time>2022-01-17T23:05:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1568513" lon="17.0768094">
+      <ele>1009</ele>
+      <time>2022-01-17T23:06:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1567792" lon="17.0782202">
+      <ele>998</ele>
+      <time>2022-01-17T23:08:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1567001" lon="17.0793092">
+      <ele>993</ele>
+      <time>2022-01-17T23:09:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1566176" lon="17.0799637">
+      <ele>997</ele>
+      <time>2022-01-17T23:10:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1564664" lon="17.0804411">
+      <ele>996</ele>
+      <time>2022-01-17T23:11:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

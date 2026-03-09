@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:30Z</time>
+    <bounds maxlat="50.1019829" maxlon="18.5659425" minlat="50.0989545" minlon="18.5526032"/>
+  </metadata>
+  <wpt lat="50.098954" lon="18.552603">
+    <ele>250</ele>
+    <name>Rybnik, ul. Mikolowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9630">
+      <text>Rybnik, ul. Mikolowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.101983" lon="18.565942">
+    <ele>230</ele>
+    <name>Rybnik Paruszowiec, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9631">
+      <text>Rybnik Paruszowiec, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik, ul. Mikolowska - Rybnik Paruszowiec, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0989545,18.5526032;50.099404002108756,18.556268850000002;50.1019829,18.5659425">
+    <text>Rybnik, ul. Mikolowska - Rybnik Paruszowiec, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0989545" lon="18.5526032">
+      <ele>250</ele>
+      <time>2022-01-18T00:16:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0998535" lon="18.5599345">
+      <ele>239</ele>
+      <time>2022-01-18T00:24:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1000123" lon="18.560563">
+      <ele>238</ele>
+      <time>2022-01-18T00:25:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1019829" lon="18.5659425">
+      <ele>230</ele>
+      <time>2022-01-18T00:31:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

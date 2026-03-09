@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:52Z</time>
+    <bounds maxlat="50.72688" maxlon="16.2056762" minlat="50.7239291" minlon="16.2006712"/>
+  </metadata>
+  <wpt lat="50.72688" lon="16.200671">
+    <ele>777</ele>
+    <name>Pod Dzikowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2412">
+      <text>Pod Dzikowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.723929" lon="16.205676">
+    <ele>836</ele>
+    <name>Dzikowiec Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/2362">
+      <text>Dzikowiec Wielki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Dzikowcem - Dzikowiec Wielki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.72688,16.2006712;50.725007262404496,16.204021300000004;50.7239291,16.2056762">
+    <text>Pod Dzikowcem - Dzikowiec Wielki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.72688" lon="16.2006712">
+      <ele>777</ele>
+      <time>2022-01-17T21:28:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7260854" lon="16.2023664">
+      <ele>782</ele>
+      <time>2022-01-17T21:33:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7239291" lon="16.2056762">
+      <ele>836</ele>
+      <time>2022-01-17T21:43:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

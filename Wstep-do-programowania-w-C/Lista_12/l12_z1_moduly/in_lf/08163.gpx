@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:56Z</time>
+    <bounds maxlat="50.3762526" maxlon="16.2945262" minlat="50.3750304" minlon="16.289478"/>
+  </metadata>
+  <wpt lat="50.376253" lon="16.289478">
+    <ele>610</ele>
+    <name>Skrzyzowanie pod Taszowem</name>
+    <link href="https://mapa-turystyczna.pl/node/5679">
+      <text>Skrzyzowanie pod Taszowem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.37503" lon="16.294526">
+    <ele>606</ele>
+    <name>Taszow PL/CZ</name>
+    <link href="https://mapa-turystyczna.pl/node/5678">
+      <text>Taszow PL/CZ</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Taszowem - Taszow PL/CZ</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3762526,16.289478;50.37543730000543,16.291801250000038;50.3750304,16.2945262">
+    <text>Skrzyzowanie pod Taszowem - Taszow PL/CZ</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3762526" lon="16.289478">
+      <ele>610</ele>
+      <time>2022-01-17T22:33:56Z</time>
+    </trkpt>
+    <trkpt lat="50.37612" lon="16.2900008">
+      <ele>608</ele>
+      <time>2022-01-17T22:34:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3760089" lon="16.2902791">
+      <ele>608</ele>
+      <time>2022-01-17T22:34:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3754163" lon="16.2913087">
+      <ele>608</ele>
+      <time>2022-01-17T22:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.37546" lon="16.2915445">
+      <ele>608</ele>
+      <time>2022-01-17T22:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3754146" lon="16.292058">
+      <ele>608</ele>
+      <time>2022-01-17T22:36:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3755014" lon="16.2925831">
+      <ele>607</ele>
+      <time>2022-01-17T22:37:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3754924" lon="16.2929365">
+      <ele>606</ele>
+      <time>2022-01-17T22:37:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3753214" lon="16.2937452">
+      <ele>606</ele>
+      <time>2022-01-17T22:38:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3750304" lon="16.2945262">
+      <ele>606</ele>
+      <time>2022-01-17T22:38:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

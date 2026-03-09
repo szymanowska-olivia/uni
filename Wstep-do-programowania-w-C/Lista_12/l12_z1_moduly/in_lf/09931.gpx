@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:57Z</time>
+    <bounds maxlat="48.9442992" maxlon="20.4565644" minlat="48.9436685" minlon="20.4554969"/>
+  </metadata>
+  <wpt lat="48.944299" lon="20.456564">
+    <ele>510</ele>
+    <name>Biely potok, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6982">
+      <text>Biely potok, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.943669" lon="20.455545">
+    <ele>510</ele>
+    <name>Biely potok, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/6983">
+      <text>Biely potok, ustie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Biely potok, razc. - Biely potok, ustie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9442992,20.4565644;48.94401385004492,20.455936800000003;48.9436685,20.4555452">
+    <text>Biely potok, razc. - Biely potok, ustie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9442992" lon="20.4565644">
+      <ele>510</ele>
+      <time>2022-01-17T23:06:57Z</time>
+    </trkpt>
+    <trkpt lat="48.9442111" lon="20.4562962">
+      <ele>511</ele>
+      <time>2022-01-17T23:07:20Z</time>
+    </trkpt>
+    <trkpt lat="48.9441548" lon="20.456205">
+      <ele>511</ele>
+      <time>2022-01-17T23:07:30Z</time>
+    </trkpt>
+    <trkpt lat="48.9440808" lon="20.456028">
+      <ele>511</ele>
+      <time>2022-01-17T23:07:47Z</time>
+    </trkpt>
+    <trkpt lat="48.9439469" lon="20.4558456">
+      <ele>509</ele>
+      <time>2022-01-17T23:08:08Z</time>
+    </trkpt>
+    <trkpt lat="48.9438518" lon="20.4555666">
+      <ele>510</ele>
+      <time>2022-01-17T23:08:33Z</time>
+    </trkpt>
+    <trkpt lat="48.9437954" lon="20.4554969">
+      <ele>511</ele>
+      <time>2022-01-17T23:08:41Z</time>
+    </trkpt>
+    <trkpt lat="48.9436685" lon="20.4555452">
+      <ele>510</ele>
+      <time>2022-01-17T23:08:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

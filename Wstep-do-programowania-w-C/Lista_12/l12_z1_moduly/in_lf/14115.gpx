@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:07Z</time>
+    <bounds maxlat="50.2144966" maxlon="16.5518468" minlat="50.214322" minlon="16.5514773"/>
+  </metadata>
+  <wpt lat="50.214322" lon="16.551847">
+    <ele>607</ele>
+    <name>Neratov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9647">
+      <text>Neratov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.214359" lon="16.551477">
+    <ele>603</ele>
+    <name>Neratov</name>
+    <link href="https://mapa-turystyczna.pl/node/1970">
+      <text>Neratov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Neratov, rozc. - Neratov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.214322,16.5518468;50.214427950049405,16.551614200000014;50.2143593,16.5514773">
+    <text>Neratov, rozc. - Neratov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.214322" lon="16.5518468">
+      <ele>607</ele>
+      <time>2022-01-18T00:17:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2144966" lon="16.5517511">
+      <ele>604</ele>
+      <time>2022-01-18T00:17:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2143593" lon="16.5514773">
+      <ele>603</ele>
+      <time>2022-01-18T00:18:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

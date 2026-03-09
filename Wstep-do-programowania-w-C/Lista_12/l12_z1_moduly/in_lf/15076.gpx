@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:47Z</time>
+    <bounds maxlat="50.3517251" maxlon="18.627375" minlat="50.3476939" minlon="18.6266464"/>
+  </metadata>
+  <wpt lat="50.351725" lon="18.627339">
+    <ele>231</ele>
+    <name>Labedy, Zakatek Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/10276">
+      <text>Labedy, Zakatek Lesny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.347694" lon="18.626939">
+    <ele>220</ele>
+    <name>Gliwice, Labedy</name>
+    <link href="https://mapa-turystyczna.pl/node/9671">
+      <text>Gliwice, Labedy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Labedy, Zakatek Lesny - Gliwice, Labedy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3517251,18.6273391;50.349101006277124,18.627208899999985;50.3476939,18.6269385">
+    <text>Labedy, Zakatek Lesny - Gliwice, Labedy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3517251" lon="18.6273391">
+      <ele>231</ele>
+      <time>2022-01-18T00:32:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3504417" lon="18.6266464">
+      <ele>226</ele>
+      <time>2022-01-18T00:34:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3503031" lon="18.6267939">
+      <ele>225</ele>
+      <time>2022-01-18T00:34:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3501634" lon="18.6270201">
+      <ele>224</ele>
+      <time>2022-01-18T00:34:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3500169" lon="18.6272248">
+      <ele>223</ele>
+      <time>2022-01-18T00:35:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3498731" lon="18.627375">
+      <ele>224</ele>
+      <time>2022-01-18T00:35:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3483289" lon="18.6270428">
+      <ele>225</ele>
+      <time>2022-01-18T00:37:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3482468" lon="18.6270481">
+      <ele>225</ele>
+      <time>2022-01-18T00:37:08Z</time>
+    </trkpt>
+    <trkpt lat="50.347963" lon="18.6269673">
+      <ele>222</ele>
+      <time>2022-01-18T00:37:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3476939" lon="18.6269385">
+      <ele>220</ele>
+      <time>2022-01-18T00:37:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

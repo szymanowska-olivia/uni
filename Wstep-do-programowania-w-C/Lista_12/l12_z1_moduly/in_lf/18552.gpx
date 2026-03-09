@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:52Z</time>
+    <bounds maxlat="50.799126" maxlon="21.3007081" minlat="50.7781485" minlon="21.2884482"/>
+  </metadata>
+  <wpt lat="50.799126" lon="21.291965">
+    <ele>328</ele>
+    <name>Goloszyce, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/12553">
+      <text>Goloszyce, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.778149" lon="21.300666">
+    <ele>300</ele>
+    <name>Modliborzyce</name>
+    <link href="https://mapa-turystyczna.pl/node/3155">
+      <text>Modliborzyce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Goloszyce, skrzyzowanie - Modliborzyce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.799126,21.2919648;50.78462685050469,21.29157635;50.7781485,21.3006663">
+    <text>Goloszyce, skrzyzowanie - Modliborzyce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.799126" lon="21.2919648">
+      <ele>328</ele>
+      <time>2022-01-18T01:32:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7957398" lon="21.2904867">
+      <ele>326</ele>
+      <time>2022-01-18T01:39:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7953125" lon="21.2902399">
+      <ele>324</ele>
+      <time>2022-01-18T01:39:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7941754" lon="21.2894353">
+      <ele>322</ele>
+      <time>2022-01-18T01:42:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7935311" lon="21.2891885">
+      <ele>316</ele>
+      <time>2022-01-18T01:43:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7908793" lon="21.2884482">
+      <ele>315</ele>
+      <time>2022-01-18T01:47:59Z</time>
+    </trkpt>
+    <trkpt lat="50.790521" lon="21.2884556">
+      <ele>317</ele>
+      <time>2022-01-18T01:48:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7903515" lon="21.2886769">
+      <ele>316</ele>
+      <time>2022-01-18T01:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7789015" lon="21.2944758">
+      <ele>302</ele>
+      <time>2022-01-18T02:10:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7785954" lon="21.3005794">
+      <ele>298</ele>
+      <time>2022-01-18T02:17:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7785004" lon="21.3007081">
+      <ele>298</ele>
+      <time>2022-01-18T02:17:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7781485" lon="21.3006663">
+      <ele>300</ele>
+      <time>2022-01-18T02:17:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

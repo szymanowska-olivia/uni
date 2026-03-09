@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:53Z</time>
+    <bounds maxlat="50.3395516" maxlon="16.2749255" minlat="50.3332617" minlon="16.2705186"/>
+  </metadata>
+  <wpt lat="50.339552" lon="16.271358">
+    <ele>591</ele>
+    <name>Snezne</name>
+    <link href="https://mapa-turystyczna.pl/node/5714">
+      <text>Snezne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.333262" lon="16.274925">
+    <ele>618</ele>
+    <name>Na Krahulci, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5715">
+      <text>Na Krahulci, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Snezne - Na Krahulci, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3395516,16.2713581;50.335474101512325,16.272722049999995;50.3332617,16.2749255">
+    <text>Snezne - Na Krahulci, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3395516" lon="16.2713581">
+      <ele>591</ele>
+      <time>2022-01-17T22:34:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3394412" lon="16.2713796">
+      <ele>591</ele>
+      <time>2022-01-17T22:35:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3388142" lon="16.2711436">
+      <ele>591</ele>
+      <time>2022-01-17T22:36:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3384391" lon="16.2712026">
+      <ele>595</ele>
+      <time>2022-01-17T22:37:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3380461" lon="16.2710443">
+      <ele>598</ele>
+      <time>2022-01-17T22:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3379749" lon="16.2710148">
+      <ele>598</ele>
+      <time>2022-01-17T22:38:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3376864" lon="16.2705186">
+      <ele>598</ele>
+      <time>2022-01-17T22:39:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3332617" lon="16.2749255">
+      <ele>618</ele>
+      <time>2022-01-17T22:49:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

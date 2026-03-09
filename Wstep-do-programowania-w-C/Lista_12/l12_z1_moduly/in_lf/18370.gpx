@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:49Z</time>
+    <bounds maxlat="52.2743958" maxlon="20.5889368" minlat="52.2611578" minlon="20.586555"/>
+  </metadata>
+  <wpt lat="52.261158" lon="20.588937">
+    <ele>91</ele>
+    <name>Leszno, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4997">
+      <text>Leszno, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.274396" lon="20.587821">
+    <ele>93</ele>
+    <name>Julinek</name>
+    <link href="https://mapa-turystyczna.pl/node/12449">
+      <text>Julinek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Leszno, ul. Lesna - Julinek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2611578,20.5889368;52.26485470410638,20.587745900000023;52.2743958,20.5878213">
+    <text>Leszno, ul. Lesna - Julinek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2611578" lon="20.5889368">
+      <ele>91</ele>
+      <time>2022-01-18T01:29:49Z</time>
+    </trkpt>
+    <trkpt lat="52.2685513" lon="20.586555">
+      <ele>100</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="52.2695936" lon="20.5868232">
+      <ele>103</ele>
+      <time>2022-01-18T01:45:48Z</time>
+    </trkpt>
+    <trkpt lat="52.2700844" lon="20.586791">
+      <ele>100</ele>
+      <time>2022-01-18T01:46:43Z</time>
+    </trkpt>
+    <trkpt lat="52.2743958" lon="20.5878213">
+      <ele>93</ele>
+      <time>2022-01-18T01:54:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

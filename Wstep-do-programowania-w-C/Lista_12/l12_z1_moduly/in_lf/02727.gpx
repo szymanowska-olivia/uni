@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:06Z</time>
+    <bounds maxlat="50.2172823" maxlon="16.5102303" minlat="50.2115976" minlon="16.5088704"/>
+  </metadata>
+  <wpt lat="50.217282" lon="16.509061">
+    <ele>962</ele>
+    <name>Turisticke rozcesti Anensky vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/1972">
+      <text>Turisticke rozcesti Anensky vrch</text>
+    </link>
+  </wpt>
+  <wpt lat="50.211598" lon="16.510112">
+    <ele>945</ele>
+    <name>Pod Anenskym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/1967">
+      <text>Pod Anenskym vrchem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Turisticke rozcesti Anensky vrch - Pod Anenskym vrchem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2172823,16.5090609;50.21433700277831,16.50991649999997;50.2115976,16.5101123">
+    <text>Turisticke rozcesti Anensky vrch - Pod Anenskym vrchem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2172823" lon="16.5090609">
+      <ele>962</ele>
+      <time>2022-01-17T21:20:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2168498" lon="16.5089013">
+      <ele>959</ele>
+      <time>2022-01-17T21:20:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2164035" lon="16.5088704">
+      <ele>955</ele>
+      <time>2022-01-17T21:21:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2148519" lon="16.5096027">
+      <ele>949</ele>
+      <time>2022-01-17T21:24:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2138221" lon="16.5102303">
+      <ele>949</ele>
+      <time>2022-01-17T21:26:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2115976" lon="16.5101123">
+      <ele>945</ele>
+      <time>2022-01-17T21:30:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

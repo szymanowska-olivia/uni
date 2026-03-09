@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:26:32Z</time>
+    <bounds maxlat="49.0648991" maxlon="18.7848616" minlat="49.0634278" minlon="18.779819"/>
+  </metadata>
+  <wpt lat="49.064883" lon="18.784862">
+    <ele>1299</ele>
+    <name>Horna luka</name>
+    <link href="https://mapa-turystyczna.pl/node/5194">
+      <text>Horna luka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.063428" lon="18.779819">
+    <ele>1228</ele>
+    <name>Pod Hornou lukou</name>
+    <link href="https://mapa-turystyczna.pl/node/5195">
+      <text>Pod Hornou lukou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horna luka - Pod Hornou lukou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0648829,18.7848616;49.064342100384586,18.782182049999978;49.0634278,18.779819">
+    <text>Horna luka - Pod Hornou lukou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0648829" lon="18.7848616">
+      <ele>1299</ele>
+      <time>2022-01-17T22:26:32Z</time>
+    </trkpt>
+    <trkpt lat="49.0648991" lon="18.7844371">
+      <ele>1296</ele>
+      <time>2022-01-17T22:26:54Z</time>
+    </trkpt>
+    <trkpt lat="49.064757" lon="18.7839697">
+      <ele>1289</ele>
+      <time>2022-01-17T22:27:21Z</time>
+    </trkpt>
+    <trkpt lat="49.0645714" lon="18.7833568">
+      <ele>1274</ele>
+      <time>2022-01-17T22:27:58Z</time>
+    </trkpt>
+    <trkpt lat="49.0645376" lon="18.7827748">
+      <ele>1266</ele>
+      <time>2022-01-17T22:28:29Z</time>
+    </trkpt>
+    <trkpt lat="49.0641466" lon="18.7815893">
+      <ele>1239</ele>
+      <time>2022-01-17T22:29:40Z</time>
+    </trkpt>
+    <trkpt lat="49.0640999" lon="18.7811413">
+      <ele>1237</ele>
+      <time>2022-01-17T22:30:04Z</time>
+    </trkpt>
+    <trkpt lat="49.0639688" lon="18.7807256">
+      <ele>1235</ele>
+      <time>2022-01-17T22:30:28Z</time>
+    </trkpt>
+    <trkpt lat="49.0638192" lon="18.7805378">
+      <ele>1233</ele>
+      <time>2022-01-17T22:30:43Z</time>
+    </trkpt>
+    <trkpt lat="49.0635622" lon="18.7799907">
+      <ele>1229</ele>
+      <time>2022-01-17T22:31:18Z</time>
+    </trkpt>
+    <trkpt lat="49.0634278" lon="18.779819">
+      <ele>1228</ele>
+      <time>2022-01-17T22:31:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

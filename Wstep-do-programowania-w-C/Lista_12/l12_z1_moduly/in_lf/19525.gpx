@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:59Z</time>
+    <bounds maxlat="49.679897" maxlon="19.218125" minlat="49.679808" minlon="19.21796"/>
+  </metadata>
+  <wpt lat="49.679808" lon="19.21796">
+    <ele>360</ele>
+    <name>Zywiec, ul. Grunwaldzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13171">
+      <text>Zywiec, ul. Grunwaldzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.679897" lon="19.218125">
+    <ele>363</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13173">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zywiec, ul. Grunwaldzka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.679808,19.21796;49.679859000014844,19.21805299999999;49.679897,19.218125">
+    <text>Zywiec, ul. Grunwaldzka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.679808" lon="19.21796">
+      <ele>360</ele>
+      <time>2022-01-18T01:49:59Z</time>
+    </trkpt>
+    <trkpt lat="49.679821" lon="19.217981">
+      <ele>360</ele>
+      <time>2022-01-18T01:50:07Z</time>
+    </trkpt>
+    <trkpt lat="49.679897" lon="19.218125">
+      <ele>363</ele>
+      <time>2022-01-18T01:50:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

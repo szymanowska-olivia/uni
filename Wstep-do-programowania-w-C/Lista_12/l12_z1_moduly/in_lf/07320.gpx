@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:17Z</time>
+    <bounds maxlat="52.3025614" maxlon="20.872736" minlat="52.3003963" minlon="20.8671355"/>
+  </metadata>
+  <wpt lat="52.302561" lon="20.867135">
+    <ele>100</ele>
+    <name>Opalen, skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/4989">
+      <text>Opalen, skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.300396" lon="20.872736">
+    <ele>104</ele>
+    <name>Opalen</name>
+    <link href="https://mapa-turystyczna.pl/node/4991">
+      <text>Opalen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Opalen, skrzyzowanie szlakow czerwony / zolty - Opalen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3025614,20.8671355;52.30127215866184,20.870713600000002;52.3003963,20.872736">
+    <text>Opalen, skrzyzowanie szlakow czerwony / zolty - Opalen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3025614" lon="20.8671355">
+      <ele>100</ele>
+      <time>2022-01-17T22:21:17Z</time>
+    </trkpt>
+    <trkpt lat="52.302148" lon="20.8686912">
+      <ele>104</ele>
+      <time>2022-01-17T22:22:34Z</time>
+    </trkpt>
+    <trkpt lat="52.3003963" lon="20.872736">
+      <ele>104</ele>
+      <time>2022-01-17T22:26:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

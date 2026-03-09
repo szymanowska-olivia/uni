@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:05Z</time>
+    <bounds maxlat="52.410563" maxlon="20.9554759" minlat="52.4068685" minlon="20.9510396"/>
+  </metadata>
+  <wpt lat="52.410563" lon="20.95104">
+    <ele>85</ele>
+    <name>Legionowo, Muzeum Historyczne</name>
+    <link href="https://mapa-turystyczna.pl/node/11396">
+      <text>Legionowo, Muzeum Historyczne</text>
+    </link>
+  </wpt>
+  <wpt lat="52.406869" lon="20.955476">
+    <ele>90</ele>
+    <name>Legionowo, IMGW</name>
+    <link href="https://mapa-turystyczna.pl/node/11397">
+      <text>Legionowo, IMGW</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, Muzeum Historyczne - Legionowo, IMGW</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.410563,20.9510396;52.40925100095072,20.954741050000028;52.4068685,20.9554759">
+    <text>Legionowo, Muzeum Historyczne - Legionowo, IMGW</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.410563" lon="20.9510396">
+      <ele>85</ele>
+      <time>2022-01-18T01:01:05Z</time>
+    </trkpt>
+    <trkpt lat="52.4095406" lon="20.9540839">
+      <ele>88</ele>
+      <time>2022-01-18T01:04:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4089614" lon="20.9553982">
+      <ele>86</ele>
+      <time>2022-01-18T01:06:05Z</time>
+    </trkpt>
+    <trkpt lat="52.4079339" lon="20.9541054">
+      <ele>86</ele>
+      <time>2022-01-18T01:08:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4078068" lon="20.9539401">
+      <ele>84</ele>
+      <time>2022-01-18T01:08:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4076955" lon="20.9542084">
+      <ele>84</ele>
+      <time>2022-01-18T01:08:45Z</time>
+    </trkpt>
+    <trkpt lat="52.4078572" lon="20.9545458">
+      <ele>85</ele>
+      <time>2022-01-18T01:09:10Z</time>
+    </trkpt>
+    <trkpt lat="52.407689" lon="20.9549004">
+      <ele>85</ele>
+      <time>2022-01-18T01:09:37Z</time>
+    </trkpt>
+    <trkpt lat="52.4075253" lon="20.955115">
+      <ele>86</ele>
+      <time>2022-01-18T01:09:57Z</time>
+    </trkpt>
+    <trkpt lat="52.4073421" lon="20.9553188">
+      <ele>88</ele>
+      <time>2022-01-18T01:10:18Z</time>
+    </trkpt>
+    <trkpt lat="52.407113" lon="20.9553939">
+      <ele>90</ele>
+      <time>2022-01-18T01:10:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4068685" lon="20.9554759">
+      <ele>90</ele>
+      <time>2022-01-18T01:11:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

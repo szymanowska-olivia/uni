@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:19Z</time>
+    <bounds maxlat="53.8482667" maxlon="14.6118367" minlat="53.8480282" minlon="14.6096026"/>
+  </metadata>
+  <wpt lat="53.848028" lon="14.611837">
+    <ele>2</ele>
+    <name>Wolin, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8564">
+      <text>Wolin, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.848267" lon="14.609603">
+    <ele>5</ele>
+    <name>Wolin, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8563">
+      <text>Wolin, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin, ul. Kolejowa - Wolin, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8480282,14.6118367;53.8481949500615,14.610530250000018;53.8482667,14.6096026">
+    <text>Wolin, ul. Kolejowa - Wolin, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8480282" lon="14.6118367">
+      <ele>2</ele>
+      <time>2022-01-17T23:50:19Z</time>
+    </trkpt>
+    <trkpt lat="53.8481232" lon="14.6114579">
+      <ele>4</ele>
+      <time>2022-01-17T23:50:51Z</time>
+    </trkpt>
+    <trkpt lat="53.8482667" lon="14.6096026">
+      <ele>5</ele>
+      <time>2022-01-17T23:53:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

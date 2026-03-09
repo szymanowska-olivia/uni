@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:42Z</time>
+    <bounds maxlat="54.3552214" maxlon="18.4931391" minlat="54.3538678" minlon="18.4920394"/>
+  </metadata>
+  <wpt lat="54.355221" lon="18.492039">
+    <ele>134</ele>
+    <name>Gdansk, Kokoszki, ul. Fabryczna</name>
+    <link href="https://mapa-turystyczna.pl/node/10792">
+      <text>Gdansk, Kokoszki, ul. Fabryczna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.353868" lon="18.493139">
+    <ele>141</ele>
+    <name>Gdansk, Kokoszki, ul. Kartuska</name>
+    <link href="https://mapa-turystyczna.pl/node/10794">
+      <text>Gdansk, Kokoszki, ul. Kartuska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gdansk, Kokoszki, ul. Fabryczna - Gdansk, Kokoszki, ul. Kartuska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3552214,18.4920394;54.35454460557403,18.492589249999995;54.3538678,18.4931391">
+    <text>Gdansk, Kokoszki, ul. Fabryczna - Gdansk, Kokoszki, ul. Kartuska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3552214" lon="18.4920394">
+      <ele>134</ele>
+      <time>2022-01-18T00:45:42Z</time>
+    </trkpt>
+    <trkpt lat="54.3538678" lon="18.4931391">
+      <ele>141</ele>
+      <time>2022-01-18T00:48:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

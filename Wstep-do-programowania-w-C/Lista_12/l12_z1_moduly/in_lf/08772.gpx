@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:52Z</time>
+    <bounds maxlat="50.2265768" maxlon="17.0849572" minlat="50.2263785" minlon="17.0834559"/>
+  </metadata>
+  <wpt lat="50.226379" lon="17.084957">
+    <ele>581</ele>
+    <name>Horni Lipova, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/6100">
+      <text>Horni Lipova, pomnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.226577" lon="17.083456">
+    <ele>591</ele>
+    <name>Horni Lipova</name>
+    <link href="https://mapa-turystyczna.pl/node/2149">
+      <text>Horni Lipova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Lipova, pomnik - Horni Lipova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2263785,17.0849572;50.22647765010306,17.084206549999994;50.2265768,17.0834559">
+    <text>Horni Lipova, pomnik - Horni Lipova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2263785" lon="17.0849572">
+      <ele>581</ele>
+      <time>2022-01-17T22:44:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2265768" lon="17.0834559">
+      <ele>591</ele>
+      <time>2022-01-17T22:47:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

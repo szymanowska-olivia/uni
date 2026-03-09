@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:09Z</time>
+    <bounds maxlat="52.3545194" maxlon="20.8733365" minlat="52.3535807" minlon="20.8707147"/>
+  </metadata>
+  <wpt lat="52.353587" lon="20.873337">
+    <ele>76</ele>
+    <name>Kielpin, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11614">
+      <text>Kielpin, cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="52.354519" lon="20.870715">
+    <ele>75</ele>
+    <name>Kielpin, ul. Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11615">
+      <text>Kielpin, ul. Ogrodowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kielpin, cmentarz - Kielpin, ul. Ogrodowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3535866,20.8733365;52.35415310145074,20.871781799999976;52.3545194,20.8707147">
+    <text>Kielpin, cmentarz - Kielpin, ul. Ogrodowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3535866" lon="20.8733365">
+      <ele>76</ele>
+      <time>2022-01-18T01:06:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3535807" lon="20.8733326">
+      <ele>76</ele>
+      <time>2022-01-18T01:06:10Z</time>
+    </trkpt>
+    <trkpt lat="52.353795" lon="20.8728274">
+      <ele>77</ele>
+      <time>2022-01-18T01:06:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3545112" lon="20.8707362">
+      <ele>75</ele>
+      <time>2022-01-18T01:09:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3545194" lon="20.8707147">
+      <ele>75</ele>
+      <time>2022-01-18T01:09:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

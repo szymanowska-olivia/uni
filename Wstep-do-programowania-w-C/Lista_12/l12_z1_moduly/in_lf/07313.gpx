@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:11Z</time>
+    <bounds maxlat="52.2947666" maxlon="20.8282489" minlat="52.2907917" minlon="20.8245313"/>
+  </metadata>
+  <wpt lat="52.29083" lon="20.828249">
+    <ele>96</ele>
+    <name>Izabelin, ul. 3 Maja</name>
+    <link href="https://mapa-turystyczna.pl/node/4980">
+      <text>Izabelin, ul. 3 Maja</text>
+    </link>
+  </wpt>
+  <wpt lat="52.294767" lon="20.826312">
+    <ele>99</ele>
+    <name>Izabelin, skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/4979">
+      <text>Izabelin, skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Izabelin, ul. 3 Maja - Izabelin, skrzyzowanie szlakow czerwony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2908295,20.8282489;52.292693056939115,20.82529735;52.2947666,20.8263123">
+    <text>Izabelin, ul. 3 Maja - Izabelin, skrzyzowanie szlakow czerwony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2908295" lon="20.8282489">
+      <ele>96</ele>
+      <time>2022-01-17T22:21:11Z</time>
+    </trkpt>
+    <trkpt lat="52.2907917" lon="20.8269882">
+      <ele>94</ele>
+      <time>2022-01-17T22:22:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2909911" lon="20.8269131">
+      <ele>93</ele>
+      <time>2022-01-17T22:22:51Z</time>
+    </trkpt>
+    <trkpt lat="52.2910591" lon="20.826838">
+      <ele>93</ele>
+      <time>2022-01-17T22:23:00Z</time>
+    </trkpt>
+    <trkpt lat="52.291909" lon="20.8245313">
+      <ele>92</ele>
+      <time>2022-01-17T22:25:49Z</time>
+    </trkpt>
+    <trkpt lat="52.2934771" lon="20.8260634">
+      <ele>95</ele>
+      <time>2022-01-17T22:28:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2937496" lon="20.8262264">
+      <ele>95</ele>
+      <time>2022-01-17T22:29:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2943761" lon="20.826278">
+      <ele>97</ele>
+      <time>2022-01-17T22:30:31Z</time>
+    </trkpt>
+    <trkpt lat="52.2947666" lon="20.8263123">
+      <ele>99</ele>
+      <time>2022-01-17T22:31:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

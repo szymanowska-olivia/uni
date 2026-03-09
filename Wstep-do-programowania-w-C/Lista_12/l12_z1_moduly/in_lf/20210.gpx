@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:35Z</time>
+    <bounds maxlat="49.412189" maxlon="21.218756" minlat="49.412077" minlon="21.218731"/>
+  </metadata>
+  <wpt lat="49.412189" lon="21.218731">
+    <ele>606</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13603">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.412077" lon="21.218756">
+    <ele>610</ele>
+    <name>Przelecz Wysowska</name>
+    <link href="https://mapa-turystyczna.pl/node/524">
+      <text>Przelecz Wysowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Przelecz Wysowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.412189,21.218731;49.41213300003196,21.218743500000002;49.412077,21.218756">
+    <text>Rozejscie szlakow - Przelecz Wysowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.412189" lon="21.218731">
+      <ele>606</ele>
+      <time>2022-01-18T02:02:35Z</time>
+    </trkpt>
+    <trkpt lat="49.412077" lon="21.218756">
+      <ele>610</ele>
+      <time>2022-01-18T02:03:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

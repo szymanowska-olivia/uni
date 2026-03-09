@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:39Z</time>
+    <bounds maxlat="51.1375839" maxlon="20.4733873" minlat="51.1347028" minlon="20.4482665"/>
+  </metadata>
+  <wpt lat="51.134703" lon="20.473387">
+    <ele>254</ele>
+    <name>Wasosz, Ostre Gorki</name>
+    <link href="https://mapa-turystyczna.pl/node/3238">
+      <text>Wasosz, Ostre Gorki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.137584" lon="20.448266">
+    <ele>259</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/7283">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz, Ostre Gorki - Rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1347028,20.4733873;51.137193551650135,20.46056400000001;51.1375839,20.4482665">
+    <text>Wasosz, Ostre Gorki - Rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1347028" lon="20.4733873">
+      <ele>254</ele>
+      <time>2022-01-17T23:14:39Z</time>
+    </trkpt>
+    <trkpt lat="51.1368032" lon="20.4728615">
+      <ele>260</ele>
+      <time>2022-01-17T23:18:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1375839" lon="20.4482665">
+      <ele>259</ele>
+      <time>2022-01-17T23:44:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:20Z</time>
+    <bounds maxlat="50.396499" maxlon="16.3005707" minlat="50.3960879" minlon="16.3000417"/>
+  </metadata>
+  <wpt lat="50.396499" lon="16.300042">
+    <ele>471</ele>
+    <name>Lasek Miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/1877">
+      <text>Lasek Miejski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.396088" lon="16.300571">
+    <ele>475</ele>
+    <name>Lasek miejski, kalwaria</name>
+    <link href="https://mapa-turystyczna.pl/node/4888">
+      <text>Lasek miejski, kalwaria</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lasek Miejski - Lasek miejski, kalwaria</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.396499,16.3000417;50.39629345044564,16.300306199999984;50.3960879,16.3005707">
+    <text>Lasek Miejski - Lasek miejski, kalwaria</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.396499" lon="16.3000417">
+      <ele>471</ele>
+      <time>2022-01-17T22:19:20Z</time>
+    </trkpt>
+    <trkpt lat="50.3960879" lon="16.3005707">
+      <ele>475</ele>
+      <time>2022-01-17T22:20:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

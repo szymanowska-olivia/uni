@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:34Z</time>
+    <bounds maxlat="52.3262388" maxlon="20.7638471" minlat="52.3254913" minlon="20.7567143"/>
+  </metadata>
+  <wpt lat="52.326239" lon="20.756714">
+    <ele>90</ele>
+    <name>Pomnik Jerzykow</name>
+    <link href="https://mapa-turystyczna.pl/node/5006">
+      <text>Pomnik Jerzykow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.325491" lon="20.763847">
+    <ele>84</ele>
+    <name>Pociecha, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12443">
+      <text>Pociecha, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomnik Jerzykow - Pociecha, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3262388,20.7567143;52.32601910054551,20.758865450000002;52.3254913,20.7638471">
+    <text>Pomnik Jerzykow - Pociecha, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3262388" lon="20.7567143">
+      <ele>90</ele>
+      <time>2022-01-18T01:29:34Z</time>
+    </trkpt>
+    <trkpt lat="52.3257994" lon="20.7610166">
+      <ele>86</ele>
+      <time>2022-01-18T01:32:35Z</time>
+    </trkpt>
+    <trkpt lat="52.3254913" lon="20.7638471">
+      <ele>84</ele>
+      <time>2022-01-18T01:34:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

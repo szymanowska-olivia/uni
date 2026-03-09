@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:46Z</time>
+    <bounds maxlat="50.8714995" maxlon="15.5853865" minlat="50.8693735" minlon="15.5806732"/>
+  </metadata>
+  <wpt lat="50.869374" lon="15.580673">
+    <ele>611</ele>
+    <name>Pod Bobrowymi Skalami</name>
+    <link href="https://mapa-turystyczna.pl/node/2236">
+      <text>Pod Bobrowymi Skalami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.871499" lon="15.585158">
+    <ele>610</ele>
+    <name>Bobrowe Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/2233">
+      <text>Bobrowe Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bobrowymi Skalami - Bobrowe Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8693735,15.5806732;50.870123352821295,15.582741200000019;50.8714995,15.5851578">
+    <text>Pod Bobrowymi Skalami - Bobrowe Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8693735" lon="15.5806732">
+      <ele>611</ele>
+      <time>2022-01-17T21:25:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8696105" lon="15.581156">
+      <ele>607</ele>
+      <time>2022-01-17T21:26:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8706362" lon="15.5843264">
+      <ele>601</ele>
+      <time>2022-01-17T21:29:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8709528" lon="15.5848494">
+      <ele>606</ele>
+      <time>2022-01-17T21:29:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8710772" lon="15.5852504">
+      <ele>605</ele>
+      <time>2022-01-17T21:30:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8712612" lon="15.5853865">
+      <ele>606</ele>
+      <time>2022-01-17T21:30:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8714995" lon="15.5851578">
+      <ele>610</ele>
+      <time>2022-01-17T21:30:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

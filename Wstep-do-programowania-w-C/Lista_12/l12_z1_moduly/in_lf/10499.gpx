@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:05Z</time>
+    <bounds maxlat="49.5511102" maxlon="18.4485877" minlat="49.5497389" minlon="18.4483838"/>
+  </metadata>
+  <wpt lat="49.55111" lon="18.448556">
+    <ele>1202</ele>
+    <name>Malchor, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7462">
+      <text>Malchor, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.549739" lon="18.448396">
+    <ele>1210</ele>
+    <name>Malchor, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7461">
+      <text>Malchor, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Malchor, rozc. - Malchor, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5511102,18.4485555;49.55032535049205,18.448485750000017;49.5497389,18.4483959">
+    <text>Malchor, rozc. - Malchor, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5511102" lon="18.4485555">
+      <ele>1202</ele>
+      <time>2022-01-17T23:17:05Z</time>
+    </trkpt>
+    <trkpt lat="49.5505446" lon="18.4485877">
+      <ele>1205</ele>
+      <time>2022-01-17T23:18:18Z</time>
+    </trkpt>
+    <trkpt lat="49.5501061" lon="18.4483838">
+      <ele>1205</ele>
+      <time>2022-01-17T23:19:17Z</time>
+    </trkpt>
+    <trkpt lat="49.5497389" lon="18.4483959">
+      <ele>1210</ele>
+      <time>2022-01-17T23:20:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

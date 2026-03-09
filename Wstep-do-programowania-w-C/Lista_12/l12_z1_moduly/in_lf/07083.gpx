@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:28Z</time>
+    <bounds maxlat="50.6969951" maxlon="15.7391489" minlat="50.6954715" minlon="15.7376518"/>
+  </metadata>
+  <wpt lat="50.696995" lon="15.737652">
+    <ele>776</ele>
+    <name>Pec pod Snezkou, parkoviste autobusu</name>
+    <link href="https://mapa-turystyczna.pl/node/4826">
+      <text>Pec pod Snezkou, parkoviste autobusu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.695471" lon="15.739149">
+    <ele>768</ele>
+    <name>Pec pod Snezkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1253">
+      <text>Pec pod Snezkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pec pod Snezkou, parkoviste autobusu - Pec pod Snezkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6969951,15.7376518;50.69606715098877,15.738644650000007;50.6954715,15.7391489">
+    <text>Pec pod Snezkou, parkoviste autobusu - Pec pod Snezkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6969951" lon="15.7376518">
+      <ele>776</ele>
+      <time>2022-01-17T22:17:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6967532" lon="15.7379901">
+      <ele>773</ele>
+      <time>2022-01-17T22:18:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6963717" lon="15.7384247">
+      <ele>769</ele>
+      <time>2022-01-17T22:18:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6957626" lon="15.7388646">
+      <ele>768</ele>
+      <time>2022-01-17T22:19:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6955885" lon="15.738994">
+      <ele>767</ele>
+      <time>2022-01-17T22:20:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6954715" lon="15.7391489">
+      <ele>768</ele>
+      <time>2022-01-17T22:20:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

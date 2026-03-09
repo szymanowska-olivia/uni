@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:08Z</time>
+    <bounds maxlat="50.2348109" maxlon="19.0484361" minlat="50.2346239" minlon="19.0466966"/>
+  </metadata>
+  <wpt lat="50.234783" lon="19.048436">
+    <ele>289</ele>
+    <name>Katowicki Park Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/9454">
+      <text>Katowicki Park Lesny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.234624" lon="19.046701">
+    <ele>282</ele>
+    <name>Staw Grazelowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9453">
+      <text>Staw Grazelowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowicki Park Lesny - Staw Grazelowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2347827,19.0484361;50.23479680000209,19.04771925;50.2346239,19.0467011">
+    <text>Katowicki Park Lesny - Staw Grazelowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2347827" lon="19.0484361">
+      <ele>289</ele>
+      <time>2022-01-18T00:12:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2348109" lon="19.0470024">
+      <ele>284</ele>
+      <time>2022-01-18T00:13:40Z</time>
+    </trkpt>
+    <trkpt lat="50.23478" lon="19.0469165">
+      <ele>283</ele>
+      <time>2022-01-18T00:13:47Z</time>
+    </trkpt>
+    <trkpt lat="50.234629" lon="19.0466966">
+      <ele>282</ele>
+      <time>2022-01-18T00:14:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2346239" lon="19.0467011">
+      <ele>282</ele>
+      <time>2022-01-18T00:14:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:13Z</time>
+    <bounds maxlat="51.1300826" maxlon="15.9850216" minlat="51.1288926" minlon="15.9807868"/>
+  </metadata>
+  <wpt lat="51.128893" lon="15.980853">
+    <ele>188</ele>
+    <name>Rokitnica, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3333">
+      <text>Rokitnica, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.130044" lon="15.985022">
+    <ele>168</ele>
+    <name>Rokitnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3334">
+      <text>Rokitnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rokitnica, skrzyzowanie szlakow - Rokitnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1288926,15.9808533;51.12999915001851,15.981674399999983;51.1300438,15.9850216">
+    <text>Rokitnica, skrzyzowanie szlakow - Rokitnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1288926" lon="15.9808533">
+      <ele>188</ele>
+      <time>2022-01-17T21:46:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1293922" lon="15.9807868">
+      <ele>180</ele>
+      <time>2022-01-17T21:46:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1299578" lon="15.9809048">
+      <ele>170</ele>
+      <time>2022-01-17T21:47:42Z</time>
+    </trkpt>
+    <trkpt lat="51.1300405" lon="15.982444">
+      <ele>168</ele>
+      <time>2022-01-17T21:49:01Z</time>
+    </trkpt>
+    <trkpt lat="51.1300826" lon="15.9841297">
+      <ele>167</ele>
+      <time>2022-01-17T21:50:27Z</time>
+    </trkpt>
+    <trkpt lat="51.1300438" lon="15.9850216">
+      <ele>168</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

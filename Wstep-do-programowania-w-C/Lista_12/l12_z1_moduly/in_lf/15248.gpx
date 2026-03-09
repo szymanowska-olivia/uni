@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:54Z</time>
+    <bounds maxlat="51.3346347" maxlon="16.6390924" minlat="51.3326394" minlon="16.6347198"/>
+  </metadata>
+  <wpt lat="51.332685" lon="16.63472">
+    <ele>111</ele>
+    <name>Wolow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10082">
+      <text>Wolow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.334635" lon="16.639092">
+    <ele>113</ele>
+    <name>Wolow, ul. Chopina</name>
+    <link href="https://mapa-turystyczna.pl/node/10396">
+      <text>Wolow, ul. Chopina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, ul. Kolejowa - Wolow, ul. Chopina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3326854,16.6347198;51.333286254563056,16.636293650000027;51.3346347,16.6390924">
+    <text>Wolow, ul. Kolejowa - Wolow, ul. Chopina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3326854" lon="16.6347198">
+      <ele>111</ele>
+      <time>2022-01-18T00:35:54Z</time>
+    </trkpt>
+    <trkpt lat="51.3326394" lon="16.6350786">
+      <ele>112</ele>
+      <time>2022-01-18T00:36:14Z</time>
+    </trkpt>
+    <trkpt lat="51.3339331" lon="16.6375087">
+      <ele>115</ele>
+      <time>2022-01-18T00:39:08Z</time>
+    </trkpt>
+    <trkpt lat="51.3346347" lon="16.6390924">
+      <ele>113</ele>
+      <time>2022-01-18T00:40:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

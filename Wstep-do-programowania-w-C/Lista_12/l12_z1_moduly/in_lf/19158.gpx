@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:17Z</time>
+    <bounds maxlat="50.4432714" maxlon="16.3035954" minlat="50.4430954" minlon="16.3026276"/>
+  </metadata>
+  <wpt lat="50.443271" lon="16.302628">
+    <ele>722</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12945">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.443095" lon="16.303595">
+    <ele>698</ele>
+    <name>Punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12946">
+      <text>Punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4432714,16.3026276;50.44318340008181,16.303111500000004;50.4430954,16.3035954">
+    <text>Odejscie na punkt widokowy - Punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4432714" lon="16.3026276">
+      <ele>722</ele>
+      <time>2022-01-18T01:43:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4430954" lon="16.3035954">
+      <ele>698</ele>
+      <time>2022-01-18T01:44:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

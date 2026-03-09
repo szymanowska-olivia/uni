@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:19Z</time>
+    <bounds maxlat="51.0776841" maxlon="20.7443162" minlat="51.0774654" minlon="20.7443022"/>
+  </metadata>
+  <wpt lat="51.077465" lon="20.744316">
+    <ele>326</ele>
+    <name>Brama Piekielna</name>
+    <link href="https://mapa-turystyczna.pl/node/7305">
+      <text>Brama Piekielna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.077684" lon="20.744302">
+    <ele>329</ele>
+    <name>Brama Piekielna</name>
+    <link href="https://mapa-turystyczna.pl/node/7275">
+      <text>Brama Piekielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brama Piekielna - Brama Piekielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0774654,20.7443162;51.077574750129244,20.74430920000001;51.0776841,20.7443022">
+    <text>Brama Piekielna - Brama Piekielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0774654" lon="20.7443162">
+      <ele>326</ele>
+      <time>2022-01-17T23:15:19Z</time>
+    </trkpt>
+    <trkpt lat="51.0776841" lon="20.7443022">
+      <ele>329</ele>
+      <time>2022-01-17T23:16:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

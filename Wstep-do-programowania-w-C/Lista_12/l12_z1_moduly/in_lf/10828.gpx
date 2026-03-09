@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:23:21Z</time>
+    <bounds maxlat="49.4936386" maxlon="18.3041185" minlat="49.4894502" minlon="18.3018225"/>
+  </metadata>
+  <wpt lat="49.493639" lon="18.304119">
+    <ele>1138</ele>
+    <name>Knehyne, sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7561">
+      <text>Knehyne, sedlo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.48945" lon="18.301823">
+    <ele>1206</ele>
+    <name>Certuv Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/7560">
+      <text>Certuv Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Knehyne, sedlo, rozc. - Certuv Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4936386,18.3041185;49.49145500172712,18.302420650000027;49.4894502,18.3018225">
+    <text>Knehyne, sedlo, rozc. - Certuv Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4936386" lon="18.3041185">
+      <ele>1138</ele>
+      <time>2022-01-17T23:23:21Z</time>
+    </trkpt>
+    <trkpt lat="49.4929812" lon="18.3032441">
+      <ele>1145</ele>
+      <time>2022-01-17T23:26:12Z</time>
+    </trkpt>
+    <trkpt lat="49.4924829" lon="18.302933">
+      <ele>1153</ele>
+      <time>2022-01-17T23:27:59Z</time>
+    </trkpt>
+    <trkpt lat="49.4918662" lon="18.3026379">
+      <ele>1161</ele>
+      <time>2022-01-17T23:30:06Z</time>
+    </trkpt>
+    <trkpt lat="49.4910438" lon="18.3022034">
+      <ele>1172</ele>
+      <time>2022-01-17T23:32:58Z</time>
+    </trkpt>
+    <trkpt lat="49.4902075" lon="18.3019835">
+      <ele>1194</ele>
+      <time>2022-01-17T23:35:49Z</time>
+    </trkpt>
+    <trkpt lat="49.4894502" lon="18.3018225">
+      <ele>1206</ele>
+      <time>2022-01-17T23:38:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

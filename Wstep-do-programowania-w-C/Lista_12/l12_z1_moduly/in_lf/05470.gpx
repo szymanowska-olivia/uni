@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:15Z</time>
+    <bounds maxlat="49.541178" maxlon="19.318777" minlat="49.540256" minlon="19.317819"/>
+  </metadata>
+  <wpt lat="49.540256" lon="19.318777">
+    <ele>1271</ele>
+    <name>Schronisko PTTK Na Hali Miziowej</name>
+    <link href="https://mapa-turystyczna.pl/node/659">
+      <text>Schronisko PTTK Na Hali Miziowej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.541178" lon="19.317819">
+    <ele>1271</ele>
+    <name>Hala Miziowa, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3853">
+      <text>Hala Miziowa, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Na Hali Miziowej - Hala Miziowa, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.540256,19.318777;49.54077500004458,19.31830499999999;49.541178,19.317819">
+    <text>Schronisko PTTK Na Hali Miziowej - Hala Miziowa, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.540256" lon="19.318777">
+      <ele>1271</ele>
+      <time>2022-01-17T21:56:15Z</time>
+    </trkpt>
+    <trkpt lat="49.540458" lon="19.31852">
+      <ele>1271</ele>
+      <time>2022-01-17T21:56:41Z</time>
+    </trkpt>
+    <trkpt lat="49.540605" lon="19.318359">
+      <ele>1272</ele>
+      <time>2022-01-17T21:56:59Z</time>
+    </trkpt>
+    <trkpt lat="49.540709" lon="19.318337">
+      <ele>1272</ele>
+      <time>2022-01-17T21:57:10Z</time>
+    </trkpt>
+    <trkpt lat="49.540841" lon="19.318273">
+      <ele>1272</ele>
+      <time>2022-01-17T21:57:24Z</time>
+    </trkpt>
+    <trkpt lat="49.540952" lon="19.318312">
+      <ele>1271</ele>
+      <time>2022-01-17T21:57:35Z</time>
+    </trkpt>
+    <trkpt lat="49.541009" lon="19.318173">
+      <ele>1271</ele>
+      <time>2022-01-17T21:57:46Z</time>
+    </trkpt>
+    <trkpt lat="49.541067" lon="19.318074">
+      <ele>1270</ele>
+      <time>2022-01-17T21:57:55Z</time>
+    </trkpt>
+    <trkpt lat="49.541128" lon="19.317955">
+      <ele>1270</ele>
+      <time>2022-01-17T21:58:05Z</time>
+    </trkpt>
+    <trkpt lat="49.541178" lon="19.317819">
+      <ele>1271</ele>
+      <time>2022-01-17T21:58:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

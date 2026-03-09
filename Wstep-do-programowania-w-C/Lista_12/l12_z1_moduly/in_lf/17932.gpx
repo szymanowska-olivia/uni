@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:23Z</time>
+    <bounds maxlat="52.5131846" maxlon="21.074163" minlat="52.512486" minlon="21.0739269"/>
+  </metadata>
+  <wpt lat="52.512486" lon="21.074163">
+    <ele>108</ele>
+    <name>Serock, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/12212">
+      <text>Serock, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="52.513185" lon="21.073927">
+    <ele>105</ele>
+    <name>Serock</name>
+    <link href="https://mapa-turystyczna.pl/node/12213">
+      <text>Serock</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Serock, kosciol - Serock</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.512486,21.074163;52.51283530138825,21.074044949999973;52.5131846,21.0739269">
+    <text>Serock, kosciol - Serock</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.512486" lon="21.074163">
+      <ele>108</ele>
+      <time>2022-01-18T01:22:23Z</time>
+    </trkpt>
+    <trkpt lat="52.5131846" lon="21.0739269">
+      <ele>105</ele>
+      <time>2022-01-18T01:23:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

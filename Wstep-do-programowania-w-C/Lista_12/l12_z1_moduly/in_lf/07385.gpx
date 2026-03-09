@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:11Z</time>
+    <bounds maxlat="50.3581387" maxlon="16.8175095" minlat="50.3565229" minlon="16.8165043"/>
+  </metadata>
+  <wpt lat="50.358139" lon="16.817424">
+    <ele>446</ele>
+    <name>Jaskinia Radochowska</name>
+    <link href="https://mapa-turystyczna.pl/node/2089">
+      <text>Jaskinia Radochowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.356523" lon="16.816504">
+    <ele>453</ele>
+    <name>Skrzyzowanie przy Jaskini Radochowskiej</name>
+    <link href="https://mapa-turystyczna.pl/node/5016">
+      <text>Skrzyzowanie przy Jaskini Radochowskiej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaskinia Radochowska - Skrzyzowanie przy Jaskini Radochowskiej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3581387,16.8174237;50.357062203063364,16.81695060000001;50.3565229,16.8165043">
+    <text>Jaskinia Radochowska - Skrzyzowanie przy Jaskini Radochowskiej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3581387" lon="16.8174237">
+      <ele>446</ele>
+      <time>2022-01-17T22:22:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3579984" lon="16.8175095">
+      <ele>444</ele>
+      <time>2022-01-17T22:22:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3578735" lon="16.8175042">
+      <ele>444</ele>
+      <time>2022-01-17T22:22:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3576015" lon="16.8173969">
+      <ele>444</ele>
+      <time>2022-01-17T22:23:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3565229" lon="16.8165043">
+      <ele>453</ele>
+      <time>2022-01-17T22:27:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

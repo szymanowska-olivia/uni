@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:00Z</time>
+    <bounds maxlat="49.5086771" maxlon="21.9144075" minlat="49.4955907" minlon="21.9059337"/>
+  </metadata>
+  <wpt lat="49.508677" lon="21.914407">
+    <ele>382</ele>
+    <name>Tarnawka</name>
+    <link href="https://mapa-turystyczna.pl/node/10760">
+      <text>Tarnawka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.495591" lon="21.905934">
+    <ele>393</ele>
+    <name>Pulawy Dolne</name>
+    <link href="https://mapa-turystyczna.pl/node/527">
+      <text>Pulawy Dolne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnawka - Pulawy Dolne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5086771,21.9144075;49.501850352913245,21.911016399999976;49.4955907,21.9059337">
+    <text>Tarnawka - Pulawy Dolne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5086771" lon="21.9144075">
+      <ele>382</ele>
+      <time>2022-01-18T00:45:00Z</time>
+    </trkpt>
+    <trkpt lat="49.507979" lon="21.9138407">
+      <ele>384</ele>
+      <time>2022-01-18T00:46:35Z</time>
+    </trkpt>
+    <trkpt lat="49.5056391" lon="21.9116628">
+      <ele>388</ele>
+      <time>2022-01-18T00:52:03Z</time>
+    </trkpt>
+    <trkpt lat="49.5051592" lon="21.9113088">
+      <ele>389</ele>
+      <time>2022-01-18T00:53:07Z</time>
+    </trkpt>
+    <trkpt lat="49.5023843" lon="21.911062">
+      <ele>377</ele>
+      <time>2022-01-18T00:58:41Z</time>
+    </trkpt>
+    <trkpt lat="49.5013164" lon="21.9109708">
+      <ele>375</ele>
+      <time>2022-01-18T01:00:49Z</time>
+    </trkpt>
+    <trkpt lat="49.5010358" lon="21.910783">
+      <ele>383</ele>
+      <time>2022-01-18T01:01:27Z</time>
+    </trkpt>
+    <trkpt lat="49.4988571" lon="21.9067383">
+      <ele>409</ele>
+      <time>2022-01-18T01:08:17Z</time>
+    </trkpt>
+    <trkpt lat="49.4985484" lon="21.9064032">
+      <ele>407</ele>
+      <time>2022-01-18T01:09:03Z</time>
+    </trkpt>
+    <trkpt lat="49.4955907" lon="21.9059337">
+      <ele>393</ele>
+      <time>2022-01-18T01:15:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

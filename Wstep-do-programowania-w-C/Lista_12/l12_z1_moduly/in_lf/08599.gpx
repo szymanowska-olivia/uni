@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:38Z</time>
+    <bounds maxlat="50.414736" maxlon="16.1727749" minlat="50.405574" minlon="16.1698157"/>
+  </metadata>
+  <wpt lat="50.414736" lon="16.170512">
+    <ele>352</ele>
+    <name>Nachod, Dobrosovska</name>
+    <link href="https://mapa-turystyczna.pl/node/5770">
+      <text>Nachod, Dobrosovska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.405574" lon="16.170217">
+    <ele>436</ele>
+    <name>Nachod, Rozkos</name>
+    <link href="https://mapa-turystyczna.pl/node/5980">
+      <text>Nachod, Rozkos</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nachod, Dobrosovska - Nachod, Rozkos</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.414736,16.1705124;50.41015350290632,16.171658399999984;50.405574,16.1702174">
+    <text>Nachod, Dobrosovska - Nachod, Rozkos</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.414736" lon="16.1705124">
+      <ele>352</ele>
+      <time>2022-01-17T22:41:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4140011" lon="16.1698157">
+      <ele>357</ele>
+      <time>2022-01-17T22:43:32Z</time>
+    </trkpt>
+    <trkpt lat="50.4130849" lon="16.1717798">
+      <ele>365</ele>
+      <time>2022-01-17T22:46:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4128114" lon="16.171528">
+      <ele>368</ele>
+      <time>2022-01-17T22:47:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4112116" lon="16.1715337">
+      <ele>381</ele>
+      <time>2022-01-17T22:51:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4109295" lon="16.1708849">
+      <ele>385</ele>
+      <time>2022-01-17T22:52:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4106783" lon="16.1705419">
+      <ele>389</ele>
+      <time>2022-01-17T22:53:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4096287" lon="16.1727749">
+      <ele>403</ele>
+      <time>2022-01-17T22:56:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4080835" lon="16.1718126">
+      <ele>428</ele>
+      <time>2022-01-17T23:00:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4073501" lon="16.1711617">
+      <ele>432</ele>
+      <time>2022-01-17T23:02:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4069655" lon="16.1708755">
+      <ele>433</ele>
+      <time>2022-01-17T23:03:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4062697" lon="16.1705626">
+      <ele>437</ele>
+      <time>2022-01-17T23:05:02Z</time>
+    </trkpt>
+    <trkpt lat="50.405574" lon="16.1702174">
+      <ele>436</ele>
+      <time>2022-01-17T23:06:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

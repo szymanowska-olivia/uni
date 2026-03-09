@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:23Z</time>
+    <bounds maxlat="51.9183018" maxlon="15.486083" minlat="51.9177066" minlon="15.4811647"/>
+  </metadata>
+  <wpt lat="51.917847" lon="15.481165">
+    <ele>169</ele>
+    <name>Pierwszy Staw na potoku Pustelnik</name>
+    <link href="https://mapa-turystyczna.pl/node/11874">
+      <text>Pierwszy Staw na potoku Pustelnik</text>
+    </link>
+  </wpt>
+  <wpt lat="51.918302" lon="15.486083">
+    <ele>177</ele>
+    <name>Las Piastowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11152">
+      <text>Las Piastowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pierwszy Staw na potoku Pustelnik - Las Piastowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9178471,15.4811647;51.91775790002931,15.48300395;51.9183018,15.486083">
+    <text>Pierwszy Staw na potoku Pustelnik - Las Piastowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9178471" lon="15.4811647">
+      <ele>169</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="51.9178224" lon="15.4815582">
+      <ele>170</ele>
+      <time>2022-01-18T01:14:46Z</time>
+    </trkpt>
+    <trkpt lat="51.9177066" lon="15.4822878">
+      <ele>172</ele>
+      <time>2022-01-18T01:15:31Z</time>
+    </trkpt>
+    <trkpt lat="51.9178092" lon="15.4837201">
+      <ele>178</ele>
+      <time>2022-01-18T01:16:56Z</time>
+    </trkpt>
+    <trkpt lat="51.9180176" lon="15.4845998">
+      <ele>179</ele>
+      <time>2022-01-18T01:17:51Z</time>
+    </trkpt>
+    <trkpt lat="51.9181367" lon="15.4854045">
+      <ele>178</ele>
+      <time>2022-01-18T01:18:40Z</time>
+    </trkpt>
+    <trkpt lat="51.9183018" lon="15.486083">
+      <ele>177</ele>
+      <time>2022-01-18T01:19:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

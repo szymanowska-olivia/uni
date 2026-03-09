@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:13Z</time>
+    <bounds maxlat="50.1607997" maxlon="18.2904957" minlat="50.1543249" minlon="18.2736465"/>
+  </metadata>
+  <wpt lat="50.1608" lon="18.273647">
+    <ele>181</ele>
+    <name>Ciechowice, ul. Powstancow Slaskich</name>
+    <link href="https://mapa-turystyczna.pl/node/9811">
+      <text>Ciechowice, ul. Powstancow Slaskich</text>
+    </link>
+  </wpt>
+  <wpt lat="50.154325" lon="18.290496">
+    <ele>184</ele>
+    <name>Nedza, tory kolejowe</name>
+    <link href="https://mapa-turystyczna.pl/node/10181">
+      <text>Nedza, tory kolejowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ciechowice, ul. Powstancow Slaskich - Nedza, tory kolejowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1607997,18.2736465;50.15980890330344,18.280699899999966;50.1543249,18.2904957">
+    <text>Ciechowice, ul. Powstancow Slaskich - Nedza, tory kolejowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1607997" lon="18.2736465">
+      <ele>181</ele>
+      <time>2022-01-18T00:21:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1605428" lon="18.275335">
+      <ele>180</ele>
+      <time>2022-01-18T00:23:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1603709" lon="18.276601">
+      <ele>180</ele>
+      <time>2022-01-18T00:24:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1592469" lon="18.2847988">
+      <ele>183</ele>
+      <time>2022-01-18T00:34:46Z</time>
+    </trkpt>
+    <trkpt lat="50.15581" lon="18.2880175">
+      <ele>180</ele>
+      <time>2022-01-18T00:42:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1543249" lon="18.2904957">
+      <ele>184</ele>
+      <time>2022-01-18T00:46:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

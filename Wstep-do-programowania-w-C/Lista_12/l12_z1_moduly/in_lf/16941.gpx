@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:25Z</time>
+    <bounds maxlat="52.3589212" maxlon="20.9732666" minlat="52.3566607" minlon="20.9720241"/>
+  </metadata>
+  <wpt lat="52.358921" lon="20.972024">
+    <ele>80</ele>
+    <name>Warszawa Choszczowka, ul. Chlubna</name>
+    <link href="https://mapa-turystyczna.pl/node/11588">
+      <text>Warszawa Choszczowka, ul. Chlubna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.357278" lon="20.972362">
+    <ele>80</ele>
+    <name>Warszawa Choszczowka, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11393">
+      <text>Warszawa Choszczowka, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warszawa Choszczowka, ul. Chlubna - Warszawa Choszczowka, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3589212,20.9720241;52.35719790200534,20.973025199999995;52.3572784,20.9723618">
+    <text>Warszawa Choszczowka, ul. Chlubna - Warszawa Choszczowka, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3589212" lon="20.9720241">
+      <ele>80</ele>
+      <time>2022-01-18T01:05:25Z</time>
+    </trkpt>
+    <trkpt lat="52.3576189" lon="20.9727838">
+      <ele>80</ele>
+      <time>2022-01-18T01:07:31Z</time>
+    </trkpt>
+    <trkpt lat="52.3567769" lon="20.9732666">
+      <ele>79</ele>
+      <time>2022-01-18T01:08:53Z</time>
+    </trkpt>
+    <trkpt lat="52.3566607" lon="20.9727177">
+      <ele>79</ele>
+      <time>2022-01-18T01:09:25Z</time>
+    </trkpt>
+    <trkpt lat="52.3572784" lon="20.9723618">
+      <ele>80</ele>
+      <time>2022-01-18T01:10:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

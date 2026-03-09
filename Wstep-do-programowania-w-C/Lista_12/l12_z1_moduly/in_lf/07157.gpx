@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:46Z</time>
+    <bounds maxlat="50.4052986" maxlon="16.2763685" minlat="50.4046071" minlon="16.2746572"/>
+  </metadata>
+  <wpt lat="50.405299" lon="16.274657">
+    <ele>441</ele>
+    <name>Lewin Klodzki, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4871">
+      <text>Lewin Klodzki, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.404607" lon="16.276369">
+    <ele>438</ele>
+    <name>Lewin Klodzki, rozwidlenie przy stacji kolejowej</name>
+    <link href="https://mapa-turystyczna.pl/node/4872">
+      <text>Lewin Klodzki, rozwidlenie przy stacji kolejowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lewin Klodzki, stacja kolejowa - Lewin Klodzki, rozwidlenie przy stacji kolejowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4052986,16.2746572;50.40496565036639,16.275779549999978;50.4046071,16.2763685">
+    <text>Lewin Klodzki, stacja kolejowa - Lewin Klodzki, rozwidlenie przy stacji kolejowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4052986" lon="16.2746572">
+      <ele>441</ele>
+      <time>2022-01-17T22:18:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4052546" lon="16.275278">
+      <ele>440</ele>
+      <time>2022-01-17T22:19:20Z</time>
+    </trkpt>
+    <trkpt lat="50.405152" lon="16.2756213">
+      <ele>439</ele>
+      <time>2022-01-17T22:19:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4047793" lon="16.2759378">
+      <ele>439</ele>
+      <time>2022-01-17T22:20:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4047075" lon="16.2760665">
+      <ele>439</ele>
+      <time>2022-01-17T22:20:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4046071" lon="16.2763685">
+      <ele>438</ele>
+      <time>2022-01-17T22:20:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

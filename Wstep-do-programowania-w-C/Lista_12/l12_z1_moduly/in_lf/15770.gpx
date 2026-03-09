@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:09Z</time>
+    <bounds maxlat="52.4428271" maxlon="20.703671" minlat="52.4402319" minlon="20.6970446"/>
+  </metadata>
+  <wpt lat="52.440232" lon="20.697045">
+    <ele>77</ele>
+    <name>Modlin, rzeka Narew</name>
+    <link href="https://mapa-turystyczna.pl/node/10764">
+      <text>Modlin, rzeka Narew</text>
+    </link>
+  </wpt>
+  <wpt lat="52.442827" lon="20.703671">
+    <ele>76</ele>
+    <name>Modlin, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/5012">
+      <text>Modlin, PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, rzeka Narew - Modlin, PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4402319,20.6970446;52.44197915816014,20.701489700000035;52.4428271,20.703671">
+    <text>Modlin, rzeka Narew - Modlin, PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4402319" lon="20.6970446">
+      <ele>77</ele>
+      <time>2022-01-18T00:45:09Z</time>
+    </trkpt>
+    <trkpt lat="52.440327" lon="20.6973911">
+      <ele>77</ele>
+      <time>2022-01-18T00:45:37Z</time>
+    </trkpt>
+    <trkpt lat="52.4403794" lon="20.6978096">
+      <ele>76</ele>
+      <time>2022-01-18T00:46:09Z</time>
+    </trkpt>
+    <trkpt lat="52.4404317" lon="20.6982816">
+      <ele>74</ele>
+      <time>2022-01-18T00:46:45Z</time>
+    </trkpt>
+    <trkpt lat="52.4404578" lon="20.6984265">
+      <ele>74</ele>
+      <time>2022-01-18T00:46:56Z</time>
+    </trkpt>
+    <trkpt lat="52.4405088" lon="20.6985962">
+      <ele>74</ele>
+      <time>2022-01-18T00:47:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4405695" lon="20.6986961">
+      <ele>74</ele>
+      <time>2022-01-18T00:47:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4407202" lon="20.6988878">
+      <ele>75</ele>
+      <time>2022-01-18T00:47:44Z</time>
+    </trkpt>
+    <trkpt lat="52.4409621" lon="20.6990917">
+      <ele>75</ele>
+      <time>2022-01-18T00:48:17Z</time>
+    </trkpt>
+    <trkpt lat="52.4411312" lon="20.6993084">
+      <ele>77</ele>
+      <time>2022-01-18T00:48:44Z</time>
+    </trkpt>
+    <trkpt lat="52.4428271" lon="20.703671">
+      <ele>76</ele>
+      <time>2022-01-18T00:55:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:06Z</time>
+    <bounds maxlat="50.4891423" maxlon="16.4558844" minlat="50.4883693" minlon="16.4545569"/>
+  </metadata>
+  <wpt lat="50.489142" lon="16.455884">
+    <ele>365</ele>
+    <name>Wambierzyce, plac</name>
+    <link href="https://mapa-turystyczna.pl/node/4018">
+      <text>Wambierzyce, plac</text>
+    </link>
+  </wpt>
+  <wpt lat="50.488369" lon="16.454557">
+    <ele>366</ele>
+    <name>Wambierzyce, ul. Podgorna</name>
+    <link href="https://mapa-turystyczna.pl/node/4012">
+      <text>Wambierzyce, ul. Podgorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wambierzyce, plac - Wambierzyce, ul. Podgorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4891423,16.4558844;50.48860105056833,16.454900599999974;50.4883693,16.4545569">
+    <text>Wambierzyce, plac - Wambierzyce, ul. Podgorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4891423" lon="16.4558844">
+      <ele>365</ele>
+      <time>2022-01-17T22:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4888328" lon="16.4552443">
+      <ele>365</ele>
+      <time>2022-01-17T22:01:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4883693" lon="16.4545569">
+      <ele>366</ele>
+      <time>2022-01-17T22:03:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

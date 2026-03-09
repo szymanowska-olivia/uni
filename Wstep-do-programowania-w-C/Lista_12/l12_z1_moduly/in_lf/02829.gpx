@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:41Z</time>
+    <bounds maxlat="50.2950078" maxlon="16.3134313" minlat="50.2942196" minlon="16.3105774"/>
+  </metadata>
+  <wpt lat="50.295008" lon="16.313431">
+    <ele>711</ele>
+    <name>Prazova bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2013">
+      <text>Prazova bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.29422" lon="16.310577">
+    <ele>691</ele>
+    <name>Prazova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1894">
+      <text>Prazova bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prazova bouda, rozc. - Prazova bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2950078,16.3134313;50.29434895008829,16.312513949999985;50.2942196,16.3105774">
+    <text>Prazova bouda, rozc. - Prazova bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2950078" lon="16.3134313">
+      <ele>711</ele>
+      <time>2022-01-17T21:21:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2944406" lon="16.3128197">
+      <ele>706</ele>
+      <time>2022-01-17T21:23:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2942573" lon="16.3122082">
+      <ele>700</ele>
+      <time>2022-01-17T21:24:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2942196" lon="16.3105774">
+      <ele>691</ele>
+      <time>2022-01-17T21:26:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

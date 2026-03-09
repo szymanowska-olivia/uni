@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:16Z</time>
+    <bounds maxlat="50.1081089" maxlon="19.7065979" minlat="50.1076402" minlon="19.7064927"/>
+  </metadata>
+  <wpt lat="50.108109" lon="19.706598">
+    <ele>303</ele>
+    <name>Nielepice, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/5629">
+      <text>Nielepice, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.10764" lon="19.706493">
+    <ele>302</ele>
+    <name>Nielepice, ul. Kmieci</name>
+    <link href="https://mapa-turystyczna.pl/node/4572">
+      <text>Nielepice, ul. Kmieci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nielepice, kosciol - Nielepice, ul. Kmieci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1081089,19.7065979;50.107875200077764,19.706578950000022;50.1076402,19.7064927">
+    <text>Nielepice, kosciol - Nielepice, ul. Kmieci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1081089" lon="19.7065979">
+      <ele>303</ele>
+      <time>2022-01-17T22:32:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1079615" lon="19.7065871">
+      <ele>303</ele>
+      <time>2022-01-17T22:32:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1077889" lon="19.7065708">
+      <ele>303</ele>
+      <time>2022-01-17T22:32:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1076402" lon="19.7064927">
+      <ele>302</ele>
+      <time>2022-01-17T22:33:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

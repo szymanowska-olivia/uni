@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:58Z</time>
+    <bounds maxlat="50.293026" maxlon="18.6679612" minlat="50.292647" minlon="18.6672055"/>
+  </metadata>
+  <wpt lat="50.293018" lon="18.667206">
+    <ele>221</ele>
+    <name>Gliwice, ul. Pod Murami</name>
+    <link href="https://mapa-turystyczna.pl/node/9680">
+      <text>Gliwice, ul. Pod Murami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.292647" lon="18.667961">
+    <ele>217</ele>
+    <name>Gliwice, ul. Basztowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9552">
+      <text>Gliwice, ul. Basztowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, ul. Pod Murami - Gliwice, ul. Basztowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2930179,18.6672055;50.29283650037737,18.667649400000002;50.292647,18.6679612">
+    <text>Gliwice, ul. Pod Murami - Gliwice, ul. Basztowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2930179" lon="18.6672055">
+      <ele>221</ele>
+      <time>2022-01-18T00:17:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2930157" lon="18.667225">
+      <ele>221</ele>
+      <time>2022-01-18T00:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.293026" lon="18.6673376">
+      <ele>220</ele>
+      <time>2022-01-18T00:18:06Z</time>
+    </trkpt>
+    <trkpt lat="50.292647" lon="18.6679612">
+      <ele>217</ele>
+      <time>2022-01-18T00:18:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:26:32Z</time>
+    <bounds maxlat="50.8622093" maxlon="15.3091908" minlat="50.8539266" minlon="15.2833879"/>
+  </metadata>
+  <wpt lat="50.862209" lon="15.283388">
+    <ele>890</ele>
+    <name>Predel</name>
+    <link href="https://mapa-turystyczna.pl/node/2279">
+      <text>Predel</text>
+    </link>
+  </wpt>
+  <wpt lat="50.853927" lon="15.30859">
+    <ele>890</ele>
+    <name>Zeleny kamen</name>
+    <link href="https://mapa-turystyczna.pl/node/2285">
+      <text>Zeleny kamen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Predel - Zeleny kamen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8622093,15.2833879;50.85935490069177,15.30013024999998;50.8539266,15.3085899">
+    <text>Predel - Zeleny kamen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8622093" lon="15.2833879">
+      <ele>890</ele>
+      <time>2022-01-17T21:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8613358" lon="15.2848792">
+      <ele>890</ele>
+      <time>2022-01-17T21:28:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8611732" lon="15.2900398">
+      <ele>880</ele>
+      <time>2022-01-17T21:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8610378" lon="15.2911663">
+      <ele>881</ele>
+      <time>2022-01-17T21:35:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8604283" lon="15.2940631">
+      <ele>887</ele>
+      <time>2022-01-17T21:38:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8596089" lon="15.2982152">
+      <ele>877</ele>
+      <time>2022-01-17T21:43:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8591009" lon="15.3020453">
+      <ele>872</ele>
+      <time>2022-01-17T21:47:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8587555" lon="15.303601">
+      <ele>871</ele>
+      <time>2022-01-17T21:49:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8570827" lon="15.3086543">
+      <ele>885</ele>
+      <time>2022-01-17T21:55:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8567983" lon="15.3089869">
+      <ele>886</ele>
+      <time>2022-01-17T21:56:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8563919" lon="15.3091908">
+      <ele>889</ele>
+      <time>2022-01-17T21:57:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8559788" lon="15.3091693">
+      <ele>888</ele>
+      <time>2022-01-17T21:57:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8539266" lon="15.3085899">
+      <ele>890</ele>
+      <time>2022-01-17T22:01:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

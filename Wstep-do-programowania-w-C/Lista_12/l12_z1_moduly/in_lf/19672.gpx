@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:37Z</time>
+    <bounds maxlat="51.4960988" maxlon="23.1735002" minlat="51.4952053" minlon="23.1730082"/>
+  </metadata>
+  <wpt lat="51.495205" lon="23.173008">
+    <ele>178</ele>
+    <name>Pieszowola, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13271">
+      <text>Pieszowola, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.496099" lon="23.1735">
+    <ele>180</ele>
+    <name>Pieszowola</name>
+    <link href="https://mapa-turystyczna.pl/node/13272">
+      <text>Pieszowola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pieszowola, rozejscie szlakow - Pieszowola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4952053,23.1730082;51.4956520521893,23.17325420000002;51.4960988,23.1735002">
+    <text>Pieszowola, rozejscie szlakow - Pieszowola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4952053" lon="23.1730082">
+      <ele>178</ele>
+      <time>2022-01-18T01:52:37Z</time>
+    </trkpt>
+    <trkpt lat="51.4960988" lon="23.1735002">
+      <ele>180</ele>
+      <time>2022-01-18T01:54:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

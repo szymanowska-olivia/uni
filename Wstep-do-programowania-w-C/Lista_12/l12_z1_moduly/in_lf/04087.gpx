@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:43Z</time>
+    <bounds maxlat="50.7021523" maxlon="17.1094412" minlat="50.7012894" minlon="17.1060508"/>
+  </metadata>
+  <wpt lat="50.702152" lon="17.109441">
+    <ele>395</ele>
+    <name>Gromnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2856">
+      <text>Gromnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.701289" lon="17.106051">
+    <ele>357</ele>
+    <name>Rozdroze pod Gromnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2865">
+      <text>Rozdroze pod Gromnikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gromnik - Rozdroze pod Gromnikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7021523,17.1094412;50.70159735007092,17.107891149999993;50.7012894,17.1060508">
+    <text>Gromnik - Rozdroze pod Gromnikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7021523" lon="17.1094412">
+      <ele>395</ele>
+      <time>2022-01-17T21:37:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7018922" lon="17.1091948">
+      <ele>390</ele>
+      <time>2022-01-17T21:38:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7018892" lon="17.108954">
+      <ele>387</ele>
+      <time>2022-01-17T21:38:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7018658" lon="17.1087669">
+      <ele>383</ele>
+      <time>2022-01-17T21:38:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7017978" lon="17.1084611">
+      <ele>377</ele>
+      <time>2022-01-17T21:39:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7016789" lon="17.1080883">
+      <ele>371</ele>
+      <time>2022-01-17T21:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7015158" lon="17.107694">
+      <ele>367</ele>
+      <time>2022-01-17T21:40:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7014412" lon="17.1073229">
+      <ele>364</ele>
+      <time>2022-01-17T21:41:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7014097" lon="17.106931">
+      <ele>361</ele>
+      <time>2022-01-17T21:41:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7014267" lon="17.1065179">
+      <ele>358</ele>
+      <time>2022-01-17T21:42:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7012894" lon="17.1060508">
+      <ele>357</ele>
+      <time>2022-01-17T21:42:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

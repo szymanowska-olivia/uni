@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:50Z</time>
+    <bounds maxlat="53.9288712" maxlon="14.4557815" minlat="53.9283795" minlon="14.455012"/>
+  </metadata>
+  <wpt lat="53.928379" lon="14.455012">
+    <ele>16</ele>
+    <name>Miedzyzdroje, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8591">
+      <text>Miedzyzdroje, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="53.928871" lon="14.455782">
+    <ele>23</ele>
+    <name>Miedzyzdroje, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8592">
+      <text>Miedzyzdroje, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje, ul. Lesna - Miedzyzdroje, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9283795,14.455012;53.92874200019999,14.455545500000024;53.9288712,14.4557815">
+    <text>Miedzyzdroje, ul. Lesna - Miedzyzdroje, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9283795" lon="14.455012">
+      <ele>16</ele>
+      <time>2022-01-17T23:50:50Z</time>
+    </trkpt>
+    <trkpt lat="53.9286128" lon="14.4553095">
+      <ele>20</ele>
+      <time>2022-01-17T23:51:42Z</time>
+    </trkpt>
+    <trkpt lat="53.9288712" lon="14.4557815">
+      <ele>23</ele>
+      <time>2022-01-17T23:52:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

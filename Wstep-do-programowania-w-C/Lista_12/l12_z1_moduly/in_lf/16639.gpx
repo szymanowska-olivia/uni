@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:10Z</time>
+    <bounds maxlat="52.420583" maxlon="20.7792917" minlat="52.4163428" minlon="20.7789162"/>
+  </metadata>
+  <wpt lat="52.416343" lon="20.779292">
+    <ele>84</ele>
+    <name>Rozejscie szlakow czerwony / zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11358">
+      <text>Rozejscie szlakow czerwony / zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.420583" lon="20.778916">
+    <ele>81</ele>
+    <name>Janowek Drugi, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11360">
+      <text>Janowek Drugi, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony / czarny - Janowek Drugi, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4163428,20.7792917;52.41846295096833,20.779103950000003;52.420583,20.7789162">
+    <text>Rozejscie szlakow czerwony / zielony / czarny - Janowek Drugi, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4163428" lon="20.7792917">
+      <ele>84</ele>
+      <time>2022-01-18T01:00:10Z</time>
+    </trkpt>
+    <trkpt lat="52.420583" lon="20.7789162">
+      <ele>81</ele>
+      <time>2022-01-18T01:05:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:02Z</time>
+    <bounds maxlat="50.7625919" maxlon="15.6383121" minlat="50.7624077" minlon="15.6350494"/>
+  </metadata>
+  <wpt lat="50.762513" lon="15.635049">
+    <ele>1198</ele>
+    <name>Spindlerova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/6223">
+      <text>Spindlerova bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762592" lon="15.638312">
+    <ele>1225</ele>
+    <name>Schronisko PTTK Odrodzenie, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1356">
+      <text>Schronisko PTTK Odrodzenie, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spindlerova bouda - Schronisko PTTK Odrodzenie, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7625129,15.6350494;50.76245970002889,15.636877099999985;50.7625919,15.6383121">
+    <text>Spindlerova bouda - Schronisko PTTK Odrodzenie, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7625129" lon="15.6350494">
+      <ele>1198</ele>
+      <time>2022-01-17T22:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7624828" lon="15.6352106">
+      <ele>1200</ele>
+      <time>2022-01-17T22:48:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7624077" lon="15.6357497">
+      <ele>1204</ele>
+      <time>2022-01-17T22:49:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7625117" lon="15.6380045">
+      <ele>1223</ele>
+      <time>2022-01-17T22:52:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7625919" lon="15.6383121">
+      <ele>1225</ele>
+      <time>2022-01-17T22:53:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

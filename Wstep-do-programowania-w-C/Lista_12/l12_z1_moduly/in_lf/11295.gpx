@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:03Z</time>
+    <bounds maxlat="50.0250217" maxlon="17.0369101" minlat="50.0238878" minlon="17.0321572"/>
+  </metadata>
+  <wpt lat="50.023888" lon="17.032157">
+    <ele>391</ele>
+    <name>Velke Losiny, zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/7961">
+      <text>Velke Losiny, zamek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.024794" lon="17.03691">
+    <ele>382</ele>
+    <name>Velke Losiny, zamek, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7960">
+      <text>Velke Losiny, zamek, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velke Losiny, zamek - Velke Losiny, zamek, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0238878,17.0321572;50.02474690078604,17.034574850000002;50.0247942,17.0369101">
+    <text>Velke Losiny, zamek - Velke Losiny, zamek, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0238878" lon="17.0321572">
+      <ele>391</ele>
+      <time>2022-01-17T23:32:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0242773" lon="17.0328278">
+      <ele>385</ele>
+      <time>2022-01-17T23:32:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0242256" lon="17.0335306">
+      <ele>386</ele>
+      <time>2022-01-17T23:33:24Z</time>
+    </trkpt>
+    <trkpt lat="50.02436" lon="17.0337988">
+      <ele>386</ele>
+      <time>2022-01-17T23:33:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0244721" lon="17.0341278">
+      <ele>384</ele>
+      <time>2022-01-17T23:33:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0250217" lon="17.0350219">
+      <ele>384</ele>
+      <time>2022-01-17T23:35:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0244499" lon="17.0366294">
+      <ele>382</ele>
+      <time>2022-01-17T23:36:33Z</time>
+    </trkpt>
+    <trkpt lat="50.0246325" lon="17.0367796">
+      <ele>382</ele>
+      <time>2022-01-17T23:36:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0247942" lon="17.0369101">
+      <ele>382</ele>
+      <time>2022-01-17T23:37:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

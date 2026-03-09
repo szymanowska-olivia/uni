@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:14:36Z</time>
+    <bounds maxlat="49.7763001" maxlon="20.0511217" minlat="49.7729224" minlon="20.0489491"/>
+  </metadata>
+  <wpt lat="49.7763" lon="20.048949">
+    <ele>891</ele>
+    <name>Lysina</name>
+    <link href="https://mapa-turystyczna.pl/node/1669">
+      <text>Lysina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.772922" lon="20.051122">
+    <ele>894</ele>
+    <name>Trzy Kopce</name>
+    <link href="https://mapa-turystyczna.pl/node/1670">
+      <text>Trzy Kopce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lysina - Trzy Kopce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7763001,20.0489491;49.77490405166609,20.049681400000033;49.7729224,20.0511217">
+    <text>Lysina - Trzy Kopce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7763001" lon="20.0489491">
+      <ele>891</ele>
+      <time>2022-01-17T21:14:36Z</time>
+    </trkpt>
+    <trkpt lat="49.7760923" lon="20.0491047">
+      <ele>892</ele>
+      <time>2022-01-17T21:14:55Z</time>
+    </trkpt>
+    <trkpt lat="49.7753059" lon="20.0495232">
+      <ele>896</ele>
+      <time>2022-01-17T21:16:02Z</time>
+    </trkpt>
+    <trkpt lat="49.7745022" lon="20.0498396">
+      <ele>893</ele>
+      <time>2022-01-17T21:17:09Z</time>
+    </trkpt>
+    <trkpt lat="49.7740726" lon="20.0504592">
+      <ele>892</ele>
+      <time>2022-01-17T21:17:56Z</time>
+    </trkpt>
+    <trkpt lat="49.7734351" lon="20.0509192">
+      <ele>892</ele>
+      <time>2022-01-17T21:18:53Z</time>
+    </trkpt>
+    <trkpt lat="49.7729224" lon="20.0511217">
+      <ele>894</ele>
+      <time>2022-01-17T21:19:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

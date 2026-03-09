@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:40Z</time>
+    <bounds maxlat="50.8472423" maxlon="16.2944568" minlat="50.8463911" minlon="16.2912923"/>
+  </metadata>
+  <wpt lat="50.846391" lon="16.294457">
+    <ele>361</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11883">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.847187" lon="16.291292">
+    <ele>327</ele>
+    <name>Cis Bolko</name>
+    <link href="https://mapa-turystyczna.pl/node/2597">
+      <text>Cis Bolko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki spacerowej - Cis Bolko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8463911,16.2944568;50.84714005001257,16.292963899999993;50.8471868,16.2912923">
+    <text>Odejscie sciezki spacerowej - Cis Bolko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8463911" lon="16.2944568">
+      <ele>361</ele>
+      <time>2022-01-18T01:14:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8467461" lon="16.2938733">
+      <ele>355</ele>
+      <time>2022-01-18T01:15:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8471058" lon="16.2931079">
+      <ele>347</ele>
+      <time>2022-01-18T01:17:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8471743" lon="16.2928199">
+      <ele>344</ele>
+      <time>2022-01-18T01:17:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8472423" lon="16.292073">
+      <ele>339</ele>
+      <time>2022-01-18T01:18:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8471648" lon="16.2917336">
+      <ele>335</ele>
+      <time>2022-01-18T01:19:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8471568" lon="16.2915821">
+      <ele>333</ele>
+      <time>2022-01-18T01:19:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8471868" lon="16.2912923">
+      <ele>327</ele>
+      <time>2022-01-18T01:19:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

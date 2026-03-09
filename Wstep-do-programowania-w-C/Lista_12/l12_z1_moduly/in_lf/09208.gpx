@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:03Z</time>
+    <bounds maxlat="50.1684324" maxlon="17.5781572" minlat="50.1658312" minlon="17.5746596"/>
+  </metadata>
+  <wpt lat="50.165831" lon="17.57466">
+    <ele>391</ele>
+    <name>Mesto Albrechtice</name>
+    <link href="https://mapa-turystyczna.pl/node/6417">
+      <text>Mesto Albrechtice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.168175" lon="17.578157">
+    <ele>389</ele>
+    <name>Mesto Albrechtice, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6418">
+      <text>Mesto Albrechtice, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mesto Albrechtice - Mesto Albrechtice, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1658312,17.5746596;50.16781555367589,17.576335950000015;50.1681746,17.5781572">
+    <text>Mesto Albrechtice - Mesto Albrechtice, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1658312" lon="17.5746596">
+      <ele>391</ele>
+      <time>2022-01-17T22:53:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1672228" lon="17.5758612">
+      <ele>390</ele>
+      <time>2022-01-17T22:55:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1684083" lon="17.5768107">
+      <ele>389</ele>
+      <time>2022-01-17T22:56:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1684324" lon="17.5769395">
+      <ele>389</ele>
+      <time>2022-01-17T22:56:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1681746" lon="17.5781572">
+      <ele>389</ele>
+      <time>2022-01-17T22:58:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

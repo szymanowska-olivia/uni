@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:26Z</time>
+    <bounds maxlat="50.6757036" maxlon="16.9088709" minlat="50.6755588" minlon="16.9080961"/>
+  </metadata>
+  <wpt lat="50.675559" lon="16.908871">
+    <ele>269</ele>
+    <name>Cieplowody</name>
+    <link href="https://mapa-turystyczna.pl/node/2799">
+      <text>Cieplowody</text>
+    </link>
+  </wpt>
+  <wpt lat="50.675704" lon="16.908096">
+    <ele>269</ele>
+    <name>Cieplowody, ul. Sportowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13564">
+      <text>Cieplowody, ul. Sportowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieplowody - Cieplowody, ul. Sportowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6755588,16.9088709;50.67559600001475,16.908573750000006;50.6757036,16.9080961">
+    <text>Cieplowody - Cieplowody, ul. Sportowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6755588" lon="16.9088709">
+      <ele>269</ele>
+      <time>2022-01-18T02:01:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6756332" lon="16.9082766">
+      <ele>269</ele>
+      <time>2022-01-18T02:02:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6757036" lon="16.9080961">
+      <ele>269</ele>
+      <time>2022-01-18T02:02:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

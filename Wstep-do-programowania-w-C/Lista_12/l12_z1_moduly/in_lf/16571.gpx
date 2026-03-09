@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:57Z</time>
+    <bounds maxlat="49.1925112" maxlon="22.5839957" minlat="49.1916628" minlon="22.583293"/>
+  </metadata>
+  <wpt lat="49.191663" lon="22.583996">
+    <ele>1004</ele>
+    <name>Dwernik Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/11315">
+      <text>Dwernik Kamien</text>
+    </link>
+  </wpt>
+  <wpt lat="49.192511" lon="22.583293">
+    <ele>987</ele>
+    <name>Dwernik Kamien, wezel sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11314">
+      <text>Dwernik Kamien, wezel sciezek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dwernik Kamien - Dwernik Kamien, wezel sciezek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1916628,22.5839957;49.19208700181874,22.58364434999998;49.1925112,22.583293">
+    <text>Dwernik Kamien - Dwernik Kamien, wezel sciezek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1916628" lon="22.5839957">
+      <ele>1004</ele>
+      <time>2022-01-18T00:58:57Z</time>
+    </trkpt>
+    <trkpt lat="49.1925112" lon="22.583293">
+      <ele>987</ele>
+      <time>2022-01-18T01:00:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

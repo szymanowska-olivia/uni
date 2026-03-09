@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:38Z</time>
+    <bounds maxlat="52.385068" maxlon="14.8137012" minlat="52.3686024" minlon="14.7776604"/>
+  </metadata>
+  <wpt lat="52.385068" lon="14.812712">
+    <ele>92</ele>
+    <name>Lubiechnia Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/13039">
+      <text>Lubiechnia Wielka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.368835" lon="14.77766">
+    <ele>77</ele>
+    <name>Drzensko</name>
+    <link href="https://mapa-turystyczna.pl/node/13040">
+      <text>Drzensko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubiechnia Wielka - Drzensko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.385068,14.8127115;52.37461176663732,14.793427650000002;52.3688349,14.7776604">
+    <text>Lubiechnia Wielka - Drzensko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.385068" lon="14.8127115">
+      <ele>92</ele>
+      <time>2022-01-18T01:45:38Z</time>
+    </trkpt>
+    <trkpt lat="52.3842939" lon="14.8128321">
+      <ele>90</ele>
+      <time>2022-01-18T01:46:57Z</time>
+    </trkpt>
+    <trkpt lat="52.3825061" lon="14.8137012">
+      <ele>90</ele>
+      <time>2022-01-18T01:50:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3802296" lon="14.8057572">
+      <ele>82</ele>
+      <time>2022-01-18T01:59:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3770378" lon="14.7986623">
+      <ele>84</ele>
+      <time>2022-01-18T02:08:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3721856" lon="14.788193">
+      <ele>75</ele>
+      <time>2022-01-18T02:21:45Z</time>
+    </trkpt>
+    <trkpt lat="52.3714519" lon="14.7855644">
+      <ele>73</ele>
+      <time>2022-01-18T02:24:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3686024" lon="14.7828204">
+      <ele>76</ele>
+      <time>2022-01-18T02:30:18Z</time>
+    </trkpt>
+    <trkpt lat="52.3686548" lon="14.7822196">
+      <ele>74</ele>
+      <time>2022-01-18T02:30:56Z</time>
+    </trkpt>
+    <trkpt lat="52.3688349" lon="14.7776604">
+      <ele>77</ele>
+      <time>2022-01-18T02:35:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

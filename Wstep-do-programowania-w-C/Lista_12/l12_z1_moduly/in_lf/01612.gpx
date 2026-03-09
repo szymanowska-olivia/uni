@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:17Z</time>
+    <bounds maxlat="50.7709737" maxlon="15.5356658" minlat="50.7657057" minlon="15.5355992"/>
+  </metadata>
+  <wpt lat="50.770974" lon="15.535666">
+    <ele>1370</ele>
+    <name>Labska louka</name>
+    <link href="https://mapa-turystyczna.pl/node/1195">
+      <text>Labska louka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.765706" lon="15.535599">
+    <ele>1336</ele>
+    <name>Mumlavska louka</name>
+    <link href="https://mapa-turystyczna.pl/node/3905">
+      <text>Mumlavska louka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Labska louka - Mumlavska louka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7709737,15.5356658;50.76787770970869,15.5356336;50.7657057,15.5355992">
+    <text>Labska louka - Mumlavska louka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7709737" lon="15.5356658">
+      <ele>1370</ele>
+      <time>2022-01-17T21:03:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7688308" lon="15.5356121">
+      <ele>1358</ele>
+      <time>2022-01-17T21:07:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7669246" lon="15.5356551">
+      <ele>1343</ele>
+      <time>2022-01-17T21:10:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7657057" lon="15.5355992">
+      <ele>1336</ele>
+      <time>2022-01-17T21:13:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

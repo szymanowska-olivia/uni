@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:31Z</time>
+    <bounds maxlat="51.4810131" maxlon="21.469879" minlat="51.4802962" minlon="21.4697318"/>
+  </metadata>
+  <wpt lat="51.480296" lon="21.469879">
+    <ele>145</ele>
+    <name>Pionki, ul. Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/12508">
+      <text>Pionki, ul. Zwyciestwa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.481013" lon="21.469732">
+    <ele>147</ele>
+    <name>Pionki, ul. Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/12045">
+      <text>Pionki, ul. Zwyciestwa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pionki, ul. Zwyciestwa - Pionki, ul. Zwyciestwa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4802962,21.469879;51.480580500224825,21.469813799999987;51.4810131,21.4697318">
+    <text>Pionki, ul. Zwyciestwa - Pionki, ul. Zwyciestwa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4802962" lon="21.469879">
+      <ele>145</ele>
+      <time>2022-01-18T01:31:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4804373" lon="21.4698549">
+      <ele>146</ele>
+      <time>2022-01-18T01:31:43Z</time>
+    </trkpt>
+    <trkpt lat="51.4807237" lon="21.4697727">
+      <ele>146</ele>
+      <time>2022-01-18T01:32:07Z</time>
+    </trkpt>
+    <trkpt lat="51.4808216" lon="21.4697422">
+      <ele>146</ele>
+      <time>2022-01-18T01:32:15Z</time>
+    </trkpt>
+    <trkpt lat="51.4810131" lon="21.4697318">
+      <ele>147</ele>
+      <time>2022-01-18T01:32:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:22Z</time>
+    <bounds maxlat="50.7534603" maxlon="15.4397816" minlat="50.7533211" minlon="15.4376044"/>
+  </metadata>
+  <wpt lat="50.75346" lon="15.437604">
+    <ele>1002</ele>
+    <name>Janova skala</name>
+    <link href="https://mapa-turystyczna.pl/node/9271">
+      <text>Janova skala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.75334" lon="15.439782">
+    <ele>996</ele>
+    <name>U Janovy skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/9269">
+      <text>U Janovy skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janova skala - U Janovy skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7534603,15.4376044;50.75339070005176,15.43836074999997;50.7533404,15.4397816">
+    <text>Janova skala - U Janovy skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7534603" lon="15.4376044">
+      <ele>1002</ele>
+      <time>2022-01-18T00:07:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7533211" lon="15.4391171">
+      <ele>999</ele>
+      <time>2022-01-18T00:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7533404" lon="15.4397816">
+      <ele>996</ele>
+      <time>2022-01-18T00:09:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

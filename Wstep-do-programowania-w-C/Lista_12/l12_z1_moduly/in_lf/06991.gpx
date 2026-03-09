@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:02Z</time>
+    <bounds maxlat="50.6827075" maxlon="16.7848276" minlat="50.6759838" minlon="16.7721319"/>
+  </metadata>
+  <wpt lat="50.677377" lon="16.772132">
+    <ele>303</ele>
+    <name>Pilawa Gorna, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2897">
+      <text>Pilawa Gorna, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.682707" lon="16.784828">
+    <ele>358</ele>
+    <name>Grzybowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/4784">
+      <text>Grzybowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pilawa Gorna, stacja kolejowa - Grzybowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6773775,16.7721319;50.67843811417085,16.780119549999995;50.6827075,16.7848276">
+    <text>Pilawa Gorna, stacja kolejowa - Grzybowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6773775" lon="16.7721319">
+      <ele>303</ele>
+      <time>2022-01-17T22:16:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6767724" lon="16.7737198">
+      <ele>305</ele>
+      <time>2022-01-17T22:18:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6764121" lon="16.7750287">
+      <ele>307</ele>
+      <time>2022-01-17T22:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6761639" lon="16.7760962">
+      <ele>307</ele>
+      <time>2022-01-17T22:21:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6759838" lon="16.7773998">
+      <ele>308</ele>
+      <time>2022-01-17T22:23:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6808923" lon="16.7828393">
+      <ele>332</ele>
+      <time>2022-01-17T22:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6827075" lon="16.7848276">
+      <ele>358</ele>
+      <time>2022-01-17T22:41:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

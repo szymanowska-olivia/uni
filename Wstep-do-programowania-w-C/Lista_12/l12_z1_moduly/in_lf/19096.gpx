@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:21Z</time>
+    <bounds maxlat="50.8367369" maxlon="15.3485181" minlat="50.8364185" minlon="15.3483915"/>
+  </metadata>
+  <wpt lat="50.836737" lon="15.348518">
+    <ele>1006</ele>
+    <name>Jeleni stran, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/12918">
+      <text>Jeleni stran, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.836419" lon="15.348391">
+    <ele>1004</ele>
+    <name>Jeleni stran</name>
+    <link href="https://mapa-turystyczna.pl/node/12919">
+      <text>Jeleni stran</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jeleni stran, rozc. - Jeleni stran</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8367369,15.3485181;50.83657770027154,15.348454800000008;50.8364185,15.3483915">
+    <text>Jeleni stran, rozc. - Jeleni stran</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8367369" lon="15.3485181">
+      <ele>1006</ele>
+      <time>2022-01-18T01:42:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8364185" lon="15.3483915">
+      <ele>1004</ele>
+      <time>2022-01-18T01:43:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

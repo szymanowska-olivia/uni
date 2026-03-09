@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:40Z</time>
+    <bounds maxlat="51.7890196" maxlon="21.2019357" minlat="51.7871303" minlon="21.1984154"/>
+  </metadata>
+  <wpt lat="51.78902" lon="21.201176">
+    <ele>115</ele>
+    <name>Warka, ul. Kwiatowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12092">
+      <text>Warka, ul. Kwiatowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.78713" lon="21.198415">
+    <ele>107</ele>
+    <name>Warka, os. Kazimierza Pulaskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11997">
+      <text>Warka, os. Kazimierza Pulaskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Kwiatowa - Warka, os. Kazimierza Pulaskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7890196,21.201176;51.78768730109013,21.20073405000002;51.7871303,21.1984154">
+    <text>Warka, ul. Kwiatowa - Warka, os. Kazimierza Pulaskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7890196" lon="21.201176">
+      <ele>115</ele>
+      <time>2022-01-18T01:19:40Z</time>
+    </trkpt>
+    <trkpt lat="51.7889764" lon="21.2013366">
+      <ele>116</ele>
+      <time>2022-01-18T01:19:49Z</time>
+    </trkpt>
+    <trkpt lat="51.7880009" lon="21.2019357">
+      <ele>120</ele>
+      <time>2022-01-18T01:21:19Z</time>
+    </trkpt>
+    <trkpt lat="51.7873737" lon="21.1995324">
+      <ele>111</ele>
+      <time>2022-01-18T01:23:37Z</time>
+    </trkpt>
+    <trkpt lat="51.7871303" lon="21.1984154">
+      <ele>107</ele>
+      <time>2022-01-18T01:24:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

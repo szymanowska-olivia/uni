@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:34Z</time>
+    <bounds maxlat="50.230036" maxlon="17.0292521" minlat="50.2252555" minlon="17.028358"/>
+  </metadata>
+  <wpt lat="50.225256" lon="17.028653">
+    <ele>1061</ele>
+    <name>Brousek</name>
+    <link href="https://mapa-turystyczna.pl/node/2153">
+      <text>Brousek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.230036" lon="17.028358">
+    <ele>1109</ele>
+    <name>Przelecz Trzech Granic</name>
+    <link href="https://mapa-turystyczna.pl/node/2152">
+      <text>Przelecz Trzech Granic</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brousek - Przelecz Trzech Granic</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2252555,17.028653;50.22774715103734,17.0288946;50.230036,17.028358">
+    <text>Brousek - Przelecz Trzech Granic</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2252555" lon="17.028653">
+      <ele>1061</ele>
+      <time>2022-01-17T21:23:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2266094" lon="17.0289883">
+      <ele>1078</ele>
+      <time>2022-01-17T21:27:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2270117" lon="17.028759">
+      <ele>1082</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2274326" lon="17.0287087">
+      <ele>1089</ele>
+      <time>2022-01-17T21:30:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2280617" lon="17.0290805">
+      <ele>1094</ele>
+      <time>2022-01-17T21:32:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2283179" lon="17.0290572">
+      <ele>1098</ele>
+      <time>2022-01-17T21:32:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2291855" lon="17.0292521">
+      <ele>1107</ele>
+      <time>2022-01-17T21:35:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2296966" lon="17.0289445">
+      <ele>1110</ele>
+      <time>2022-01-17T21:37:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2297745" lon="17.0286557">
+      <ele>1110</ele>
+      <time>2022-01-17T21:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2298937" lon="17.028442">
+      <ele>1109</ele>
+      <time>2022-01-17T21:38:07Z</time>
+    </trkpt>
+    <trkpt lat="50.230036" lon="17.028358">
+      <ele>1109</ele>
+      <time>2022-01-17T21:38:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

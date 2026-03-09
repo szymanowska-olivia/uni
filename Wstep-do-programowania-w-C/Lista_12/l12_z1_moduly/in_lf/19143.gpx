@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:00Z</time>
+    <bounds maxlat="52.1140027" maxlon="21.2655088" minlat="52.1083078" minlon="21.2614445"/>
+  </metadata>
+  <wpt lat="52.108308" lon="21.264517">
+    <ele>97</ele>
+    <name>Otwock, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11532">
+      <text>Otwock, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.114003" lon="21.265509">
+    <ele>101</ele>
+    <name>Otwock, ul. Dluskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12925">
+      <text>Otwock, ul. Dluskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, dworzec kolejowy - Otwock, ul. Dluskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1083078,21.2645167;52.11124370973065,21.2625724;52.1140027,21.2655088">
+    <text>Otwock, dworzec kolejowy - Otwock, ul. Dluskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1083078" lon="21.2645167">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:00Z</time>
+    </trkpt>
+    <trkpt lat="52.1084238" lon="21.2644737">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:14Z</time>
+    </trkpt>
+    <trkpt lat="52.1098042" lon="21.2630414">
+      <ele>95</ele>
+      <time>2022-01-18T01:46:22Z</time>
+    </trkpt>
+    <trkpt lat="52.1098971" lon="21.2632764">
+      <ele>95</ele>
+      <time>2022-01-18T01:46:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1100124" lon="21.2634052">
+      <ele>95</ele>
+      <time>2022-01-18T01:46:58Z</time>
+    </trkpt>
+    <trkpt lat="52.1102562" lon="21.2633622">
+      <ele>95</ele>
+      <time>2022-01-18T01:47:26Z</time>
+    </trkpt>
+    <trkpt lat="52.1103122" lon="21.2634803">
+      <ele>95</ele>
+      <time>2022-01-18T01:47:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1121752" lon="21.2616645">
+      <ele>93</ele>
+      <time>2022-01-18T01:51:47Z</time>
+    </trkpt>
+    <trkpt lat="52.1124387" lon="21.2614445">
+      <ele>94</ele>
+      <time>2022-01-18T01:52:21Z</time>
+    </trkpt>
+    <trkpt lat="52.1140027" lon="21.2655088">
+      <ele>101</ele>
+      <time>2022-01-18T01:58:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:38Z</time>
+    <bounds maxlat="50.7551827" maxlon="16.3057392" minlat="50.7537898" minlon="16.3044248"/>
+  </metadata>
+  <wpt lat="50.75379" lon="16.305739">
+    <ele>629</ele>
+    <name>Niedzwiadki</name>
+    <link href="https://mapa-turystyczna.pl/node/8304">
+      <text>Niedzwiadki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.755183" lon="16.304425">
+    <ele>608</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11719">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niedzwiadki - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7537898,16.3057392;50.754416400150774,16.30495274999999;50.7551827,16.3044248">
+    <text>Niedzwiadki - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7537898" lon="16.3057392">
+      <ele>629</ele>
+      <time>2022-01-18T01:09:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7538903" lon="16.305508">
+      <ele>628</ele>
+      <time>2022-01-18T01:09:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7540363" lon="16.3053256">
+      <ele>625</ele>
+      <time>2022-01-18T01:10:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7542976" lon="16.3050198">
+      <ele>620</ele>
+      <time>2022-01-18T01:10:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7545352" lon="16.3048857">
+      <ele>615</ele>
+      <time>2022-01-18T01:11:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7549492" lon="16.3046605">
+      <ele>609</ele>
+      <time>2022-01-18T01:12:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7551549" lon="16.3044673">
+      <ele>609</ele>
+      <time>2022-01-18T01:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7551827" lon="16.3044248">
+      <ele>608</ele>
+      <time>2022-01-18T01:12:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:20Z</time>
+    <bounds maxlat="53.9671632" maxlon="14.771789" minlat="53.9655307" minlon="14.7694927"/>
+  </metadata>
+  <wpt lat="53.965531" lon="14.771789">
+    <ele>5</ele>
+    <name>Kamien Pomorski</name>
+    <link href="https://mapa-turystyczna.pl/node/8552">
+      <text>Kamien Pomorski</text>
+    </link>
+  </wpt>
+  <wpt lat="53.967163" lon="14.769493">
+    <ele>7</ele>
+    <name>Kamien Pomorski, ul. Mieszka I</name>
+    <link href="https://mapa-turystyczna.pl/node/8610">
+      <text>Kamien Pomorski, ul. Mieszka I</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski - Kamien Pomorski, ul. Mieszka I</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9655307,14.771789;53.96655130011854,14.770822049999989;53.9671632,14.7694927">
+    <text>Kamien Pomorski - Kamien Pomorski, ul. Mieszka I</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9655307" lon="14.771789">
+      <ele>5</ele>
+      <time>2022-01-17T23:51:20Z</time>
+    </trkpt>
+    <trkpt lat="53.9657166" lon="14.7715945">
+      <ele>5</ele>
+      <time>2022-01-17T23:51:50Z</time>
+    </trkpt>
+    <trkpt lat="53.9664519" lon="14.7709669">
+      <ele>5</ele>
+      <time>2022-01-17T23:53:42Z</time>
+    </trkpt>
+    <trkpt lat="53.9666507" lon="14.7706772">
+      <ele>5</ele>
+      <time>2022-01-17T23:54:18Z</time>
+    </trkpt>
+    <trkpt lat="53.9667296" lon="14.7705592">
+      <ele>5</ele>
+      <time>2022-01-17T23:54:32Z</time>
+    </trkpt>
+    <trkpt lat="53.966818" lon="14.7705163">
+      <ele>6</ele>
+      <time>2022-01-17T23:54:45Z</time>
+    </trkpt>
+    <trkpt lat="53.9669694" lon="14.7701408">
+      <ele>6</ele>
+      <time>2022-01-17T23:55:22Z</time>
+    </trkpt>
+    <trkpt lat="53.9671632" lon="14.7694927">
+      <ele>7</ele>
+      <time>2022-01-17T23:56:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

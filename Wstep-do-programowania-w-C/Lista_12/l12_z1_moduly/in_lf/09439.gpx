@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:57:35Z</time>
+    <bounds maxlat="48.9743898" maxlon="19.6838924" minlat="48.9724672" minlon="19.6816474"/>
+  </metadata>
+  <wpt lat="48.97439" lon="19.681647">
+    <ele>880</ele>
+    <name>Horaren pred Bystrou</name>
+    <link href="https://mapa-turystyczna.pl/node/6585">
+      <text>Horaren pred Bystrou</text>
+    </link>
+  </wpt>
+  <wpt lat="48.972467" lon="19.683892">
+    <ele>902</ele>
+    <name>Balata</name>
+    <link href="https://mapa-turystyczna.pl/node/6703">
+      <text>Balata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horaren pred Bystrou - Balata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9743898,19.6816474;48.973861602798216,19.682291149999994;48.9724672,19.6838924">
+    <text>Horaren pred Bystrou - Balata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9743898" lon="19.6816474">
+      <ele>880</ele>
+      <time>2022-01-17T22:57:35Z</time>
+    </trkpt>
+    <trkpt lat="48.9733334" lon="19.6829349">
+      <ele>888</ele>
+      <time>2022-01-17T23:00:22Z</time>
+    </trkpt>
+    <trkpt lat="48.9724672" lon="19.6838924">
+      <ele>902</ele>
+      <time>2022-01-17T23:02:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

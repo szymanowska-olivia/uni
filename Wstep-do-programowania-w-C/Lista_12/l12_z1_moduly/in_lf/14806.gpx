@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:28:20Z</time>
+    <bounds maxlat="51.3034941" maxlon="16.1818743" minlat="51.3028806" minlon="16.1810784"/>
+  </metadata>
+  <wpt lat="51.302881" lon="16.181078">
+    <ele>154</ele>
+    <name>Raszowka</name>
+    <link href="https://mapa-turystyczna.pl/node/9973">
+      <text>Raszowka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.303494" lon="16.181874">
+    <ele>154</ele>
+    <name>Raszowka, przejazd kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10098">
+      <text>Raszowka, przejazd kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raszowka - Raszowka, przejazd kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3028806,16.1810784;51.30326170008284,16.181215999999974;51.3034941,16.1818743">
+    <text>Raszowka - Raszowka, przejazd kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3028806" lon="16.1810784">
+      <ele>154</ele>
+      <time>2022-01-18T00:28:20Z</time>
+    </trkpt>
+    <trkpt lat="51.3031745" lon="16.1811409">
+      <ele>155</ele>
+      <time>2022-01-18T00:29:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3033489" lon="16.1812911">
+      <ele>155</ele>
+      <time>2022-01-18T00:29:27Z</time>
+    </trkpt>
+    <trkpt lat="51.3034294" lon="16.1815593">
+      <ele>154</ele>
+      <time>2022-01-18T00:29:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3034941" lon="16.1818743">
+      <ele>154</ele>
+      <time>2022-01-18T00:30:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

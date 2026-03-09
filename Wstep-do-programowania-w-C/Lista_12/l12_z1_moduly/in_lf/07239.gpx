@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:58Z</time>
+    <bounds maxlat="49.3501039" maxlon="21.9597018" minlat="49.3493132" minlon="21.9524538"/>
+  </metadata>
+  <wpt lat="49.350104" lon="21.952454">
+    <ele>830</ele>
+    <name>Pod Kanasiowka</name>
+    <link href="https://mapa-turystyczna.pl/node/460">
+      <text>Pod Kanasiowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.349331" lon="21.959702">
+    <ele>808</ele>
+    <name>Kalinovske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/4911">
+      <text>Kalinovske sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kanasiowka - Kalinovske sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3501039,21.9524538;49.349498400000485,21.955965150000026;49.3493308,21.9597018">
+    <text>Pod Kanasiowka - Kalinovske sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3501039" lon="21.9524538">
+      <ele>830</ele>
+      <time>2022-01-17T22:19:58Z</time>
+    </trkpt>
+    <trkpt lat="49.3499637" lon="21.9529581">
+      <ele>828</ele>
+      <time>2022-01-17T22:20:42Z</time>
+    </trkpt>
+    <trkpt lat="49.3496799" lon="21.9546485">
+      <ele>820</ele>
+      <time>2022-01-17T22:23:03Z</time>
+    </trkpt>
+    <trkpt lat="49.3494916" lon="21.9556403">
+      <ele>812</ele>
+      <time>2022-01-17T22:24:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3495052" lon="21.95629">
+      <ele>808</ele>
+      <time>2022-01-17T22:25:20Z</time>
+    </trkpt>
+    <trkpt lat="49.3493414" lon="21.9577646">
+      <ele>808</ele>
+      <time>2022-01-17T22:27:21Z</time>
+    </trkpt>
+    <trkpt lat="49.3493132" lon="21.9584465">
+      <ele>808</ele>
+      <time>2022-01-17T22:28:16Z</time>
+    </trkpt>
+    <trkpt lat="49.3493761" lon="21.9592405">
+      <ele>808</ele>
+      <time>2022-01-17T22:29:20Z</time>
+    </trkpt>
+    <trkpt lat="49.3493308" lon="21.9597018">
+      <ele>808</ele>
+      <time>2022-01-17T22:29:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

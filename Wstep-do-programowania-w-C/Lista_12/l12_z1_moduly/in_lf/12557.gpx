@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:01Z</time>
+    <bounds maxlat="53.9650999" maxlon="14.6185572" minlat="53.964174" minlon="14.6156263"/>
+  </metadata>
+  <wpt lat="53.964437" lon="14.615626">
+    <ele>7</ele>
+    <name>Kolczewo, ul. Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/8595">
+      <text>Kolczewo, ul. Zwyciestwa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.9651" lon="14.618557">
+    <ele>7</ele>
+    <name>Kolczewo, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/8596">
+      <text>Kolczewo, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolczewo, ul. Zwyciestwa - Kolczewo, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9644373,14.6156263;53.96429235016802,14.617629150000013;53.9650999,14.6185572">
+    <text>Kolczewo, ul. Zwyciestwa - Kolczewo, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9644373" lon="14.6156263">
+      <ele>7</ele>
+      <time>2022-01-17T23:52:01Z</time>
+    </trkpt>
+    <trkpt lat="53.9644454" lon="14.6158482">
+      <ele>8</ele>
+      <time>2022-01-17T23:52:16Z</time>
+    </trkpt>
+    <trkpt lat="53.9644548" lon="14.6163203">
+      <ele>10</ele>
+      <time>2022-01-17T23:52:49Z</time>
+    </trkpt>
+    <trkpt lat="53.9644107" lon="14.6169103">
+      <ele>13</ele>
+      <time>2022-01-17T23:53:30Z</time>
+    </trkpt>
+    <trkpt lat="53.964174" lon="14.618348">
+      <ele>9</ele>
+      <time>2022-01-17T23:55:12Z</time>
+    </trkpt>
+    <trkpt lat="53.9650999" lon="14.6185572">
+      <ele>7</ele>
+      <time>2022-01-17T23:57:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

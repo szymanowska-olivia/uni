@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:32Z</time>
+    <bounds maxlat="51.0693875" maxlon="15.9884226" minlat="51.0674255" minlon="15.9831333"/>
+  </metadata>
+  <wpt lat="51.069387" lon="15.983133">
+    <ele>318</ele>
+    <name>Wapienniki</name>
+    <link href="https://mapa-turystyczna.pl/node/3351">
+      <text>Wapienniki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.067425" lon="15.988423">
+    <ele>330</ele>
+    <name>Prusicki Las</name>
+    <link href="https://mapa-turystyczna.pl/node/3350">
+      <text>Prusicki Las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wapienniki - Prusicki Las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0693875,15.9831333;51.06851715133587,15.985650549999994;51.0674255,15.9884226">
+    <text>Wapienniki - Prusicki Las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0693875" lon="15.9831333">
+      <ele>318</ele>
+      <time>2022-01-17T21:46:32Z</time>
+    </trkpt>
+    <trkpt lat="51.069307" lon="15.9835919">
+      <ele>317</ele>
+      <time>2022-01-17T21:47:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0692256" lon="15.9840506">
+      <ele>317</ele>
+      <time>2022-01-17T21:48:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0688688" lon="15.9848633">
+      <ele>315</ele>
+      <time>2022-01-17T21:49:40Z</time>
+    </trkpt>
+    <trkpt lat="51.0681655" lon="15.9864378">
+      <ele>316</ele>
+      <time>2022-01-17T21:52:47Z</time>
+    </trkpt>
+    <trkpt lat="51.0678409" lon="15.98717">
+      <ele>320</ele>
+      <time>2022-01-17T21:54:14Z</time>
+    </trkpt>
+    <trkpt lat="51.067615" lon="15.9877601">
+      <ele>325</ele>
+      <time>2022-01-17T21:55:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0674255" lon="15.9884226">
+      <ele>330</ele>
+      <time>2022-01-17T21:56:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

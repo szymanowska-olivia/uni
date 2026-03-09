@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:47Z</time>
+    <bounds maxlat="49.8341108" maxlon="20.5187142" minlat="49.8327087" minlon="20.5185281"/>
+  </metadata>
+  <wpt lat="49.832709" lon="20.518714">
+    <ele>371</ele>
+    <name>Dolina Piekarskiego Potoku, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8526">
+      <text>Dolina Piekarskiego Potoku, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.834111" lon="20.518566">
+    <ele>369</ele>
+    <name>Dolina Piekarskiego Potoku</name>
+    <link href="https://mapa-turystyczna.pl/node/3478">
+      <text>Dolina Piekarskiego Potoku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Piekarskiego Potoku, rozejscie szlakow - Dolina Piekarskiego Potoku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8327087,20.5187142;49.83314115074117,20.51856780000002;49.8341108,20.5185664">
+    <text>Dolina Piekarskiego Potoku, rozejscie szlakow - Dolina Piekarskiego Potoku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8327087" lon="20.5187142">
+      <ele>371</ele>
+      <time>2022-01-17T23:49:47Z</time>
+    </trkpt>
+    <trkpt lat="49.8328734" lon="20.5186075">
+      <ele>370</ele>
+      <time>2022-01-17T23:50:02Z</time>
+    </trkpt>
+    <trkpt lat="49.8334089" lon="20.5185281">
+      <ele>368</ele>
+      <time>2022-01-17T23:50:48Z</time>
+    </trkpt>
+    <trkpt lat="49.8341108" lon="20.5185664">
+      <ele>369</ele>
+      <time>2022-01-17T23:51:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

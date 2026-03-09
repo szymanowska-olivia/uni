@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:48Z</time>
+    <bounds maxlat="50.5698485" maxlon="16.0648012" minlat="50.5674123" minlon="16.0618883"/>
+  </metadata>
+  <wpt lat="50.567412" lon="16.061888">
+    <ele>527</ele>
+    <name>Radvanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6250">
+      <text>Radvanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.569848" lon="16.064801">
+    <ele>542</ele>
+    <name>Radvanice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6251">
+      <text>Radvanice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radvanice - Radvanice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5674123,16.0618883;50.56849925014243,16.063430650000015;50.5698485,16.0648012">
+    <text>Radvanice - Radvanice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5674123" lon="16.0618883">
+      <ele>527</ele>
+      <time>2022-01-17T22:48:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5675554" lon="16.0619044">
+      <ele>527</ele>
+      <time>2022-01-17T22:49:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5676746" lon="16.0620385">
+      <ele>527</ele>
+      <time>2022-01-17T22:49:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5683834" lon="16.0631222">
+      <ele>533</ele>
+      <time>2022-01-17T22:50:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5686151" lon="16.0637391">
+      <ele>533</ele>
+      <time>2022-01-17T22:51:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5687377" lon="16.0639375">
+      <ele>534</ele>
+      <time>2022-01-17T22:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5692522" lon="16.0643184">
+      <ele>538</ele>
+      <time>2022-01-17T22:52:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5694532" lon="16.0643989">
+      <ele>540</ele>
+      <time>2022-01-17T22:53:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5698485" lon="16.0648012">
+      <ele>542</ele>
+      <time>2022-01-17T22:53:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

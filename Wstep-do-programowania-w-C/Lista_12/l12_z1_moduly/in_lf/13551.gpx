@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:09Z</time>
+    <bounds maxlat="50.7481268" maxlon="15.8236277" minlat="50.7468966" minlon="15.8221628"/>
+  </metadata>
+  <wpt lat="50.748127" lon="15.822163">
+    <ele>1065</ele>
+    <name>Przelecz Okraj, odejscie szlaku czerwonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9353">
+      <text>Przelecz Okraj, odejscie szlaku czerwonego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.746897" lon="15.823628">
+    <ele>1048</ele>
+    <name>Schronisko na Przeleczy Okraj</name>
+    <link href="https://mapa-turystyczna.pl/node/1318">
+      <text>Schronisko na Przeleczy Okraj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Okraj, odejscie szlaku czerwonego - Schronisko na Przeleczy Okraj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7481268,15.8221628;50.74758775019278,15.822623899999998;50.7468966,15.8236277">
+    <text>Przelecz Okraj, odejscie szlaku czerwonego - Schronisko na Przeleczy Okraj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7481268" lon="15.8221628">
+      <ele>1065</ele>
+      <time>2022-01-18T00:09:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7480938" lon="15.822174">
+      <ele>1064</ele>
+      <time>2022-01-18T00:09:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7478528" lon="15.8223242">
+      <ele>1060</ele>
+      <time>2022-01-18T00:09:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7477221" lon="15.822465">
+      <ele>1057</ele>
+      <time>2022-01-18T00:10:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7474534" lon="15.8227828">
+      <ele>1053</ele>
+      <time>2022-01-18T00:10:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7471808" lon="15.8232254">
+      <ele>1050</ele>
+      <time>2022-01-18T00:11:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7470863" lon="15.8233758">
+      <ele>1049</ele>
+      <time>2022-01-18T00:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7468966" lon="15.8236277">
+      <ele>1048</ele>
+      <time>2022-01-18T00:12:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

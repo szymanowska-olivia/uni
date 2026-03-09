@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:36Z</time>
+    <bounds maxlat="49.0944756" maxlon="18.8341203" minlat="49.0935939" minlon="18.8338923"/>
+  </metadata>
+  <wpt lat="49.094476" lon="18.833892">
+    <ele>1260</ele>
+    <name>Martinske hole, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5246">
+      <text>Martinske hole, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.093594" lon="18.83412">
+    <ele>1247</ele>
+    <name>Martinske hole, chaty</name>
+    <link href="https://mapa-turystyczna.pl/node/5189">
+      <text>Martinske hole, chaty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Martinske hole, razc. - Martinske hole, chaty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0944756,18.8338923;49.09390615030617,18.83406805;49.0935939,18.8341203">
+    <text>Martinske hole, razc. - Martinske hole, chaty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0944756" lon="18.8338923">
+      <ele>1260</ele>
+      <time>2022-01-17T22:27:36Z</time>
+    </trkpt>
+    <trkpt lat="49.0942789" lon="18.8339835">
+      <ele>1257</ele>
+      <time>2022-01-17T22:28:04Z</time>
+    </trkpt>
+    <trkpt lat="49.0940805" lon="18.8340533">
+      <ele>1253</ele>
+      <time>2022-01-17T22:28:31Z</time>
+    </trkpt>
+    <trkpt lat="49.0937318" lon="18.8340828">
+      <ele>1249</ele>
+      <time>2022-01-17T22:29:17Z</time>
+    </trkpt>
+    <trkpt lat="49.0935939" lon="18.8341203">
+      <ele>1247</ele>
+      <time>2022-01-17T22:29:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

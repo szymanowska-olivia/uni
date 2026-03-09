@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:25Z</time>
+    <bounds maxlat="50.2532489" maxlon="17.1803051" minlat="50.2495993" minlon="17.1795055"/>
+  </metadata>
+  <wpt lat="50.253249" lon="17.179517">
+    <ele>828</ele>
+    <name>Nad Vecernim pramenem</name>
+    <link href="https://mapa-turystyczna.pl/node/6121">
+      <text>Nad Vecernim pramenem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.249599" lon="17.180305">
+    <ele>799</ele>
+    <name>Jitrni pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6119">
+      <text>Jitrni pramen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Vecernim pramenem - Jitrni pramen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2532489,17.1795166;50.25164245151165,17.18003939999998;50.2495993,17.1803051">
+    <text>Nad Vecernim pramenem - Jitrni pramen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2532489" lon="17.1795166">
+      <ele>828</ele>
+      <time>2022-01-17T22:45:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2528864" lon="17.1795055">
+      <ele>831</ele>
+      <time>2022-01-17T22:45:54Z</time>
+    </trkpt>
+    <trkpt lat="50.252516" lon="17.1799347">
+      <ele>829</ele>
+      <time>2022-01-17T22:46:30Z</time>
+    </trkpt>
+    <trkpt lat="50.252022" lon="17.1800634">
+      <ele>825</ele>
+      <time>2022-01-17T22:47:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2512629" lon="17.1800154">
+      <ele>820</ele>
+      <time>2022-01-17T22:48:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2507758" lon="17.1800154">
+      <ele>817</ele>
+      <time>2022-01-17T22:48:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2503059" lon="17.1800745">
+      <ele>809</ele>
+      <time>2022-01-17T22:49:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2500143" lon="17.180163">
+      <ele>805</ele>
+      <time>2022-01-17T22:49:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2495993" lon="17.1803051">
+      <ele>799</ele>
+      <time>2022-01-17T22:50:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:03Z</time>
+    <bounds maxlat="50.4621383" maxlon="16.3480639" minlat="50.4614771" minlon="16.345378"/>
+  </metadata>
+  <wpt lat="50.462138" lon="16.348064">
+    <ele>791</ele>
+    <name>Lisia Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1827">
+      <text>Lisia Przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.461477" lon="16.345378">
+    <ele>795</ele>
+    <name>Lisia Przelecz, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/5684">
+      <text>Lisia Przelecz, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lisia Przelecz - Lisia Przelecz, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4621383,16.3480639;50.461934150103716,16.34680720000001;50.4614771,16.345378">
+    <text>Lisia Przelecz - Lisia Przelecz, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4621383" lon="16.3480639">
+      <ele>791</ele>
+      <time>2022-01-17T22:34:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4620332" lon="16.3476065">
+      <ele>793</ele>
+      <time>2022-01-17T22:34:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4618351" lon="16.3460079">
+      <ele>797</ele>
+      <time>2022-01-17T22:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4614771" lon="16.345378">
+      <ele>795</ele>
+      <time>2022-01-17T22:39:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

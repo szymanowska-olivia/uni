@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:39Z</time>
+    <bounds maxlat="50.4879344" maxlon="16.1074001" minlat="50.4855111" minlon="16.1033016"/>
+  </metadata>
+  <wpt lat="50.485511" lon="16.103302">
+    <ele>455</ele>
+    <name>Horni Kostelec, Soubezna</name>
+    <link href="https://mapa-turystyczna.pl/node/6173">
+      <text>Horni Kostelec, Soubezna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.487934" lon="16.1074">
+    <ele>466</ele>
+    <name>Horni Kostelec, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6174">
+      <text>Horni Kostelec, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Kostelec, Soubezna - Horni Kostelec, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4855111,16.1033016;50.48669035013025,16.105750500000017;50.4879344,16.1074001">
+    <text>Horni Kostelec, Soubezna - Horni Kostelec, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4855111" lon="16.1033016">
+      <ele>455</ele>
+      <time>2022-01-17T22:46:39Z</time>
+    </trkpt>
+    <trkpt lat="50.485535" lon="16.1034787">
+      <ele>456</ele>
+      <time>2022-01-17T22:46:48Z</time>
+    </trkpt>
+    <trkpt lat="50.486361" lon="16.1047608">
+      <ele>461</ele>
+      <time>2022-01-17T22:48:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4864429" lon="16.1049485">
+      <ele>462</ele>
+      <time>2022-01-17T22:48:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4865794" lon="16.1054689">
+      <ele>462</ele>
+      <time>2022-01-17T22:49:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4868013" lon="16.1060321">
+      <ele>462</ele>
+      <time>2022-01-17T22:49:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4870368" lon="16.1066383">
+      <ele>466</ele>
+      <time>2022-01-17T22:50:16Z</time>
+    </trkpt>
+    <trkpt lat="50.487518" lon="16.1070836">
+      <ele>466</ele>
+      <time>2022-01-17T22:51:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4879344" lon="16.1074001">
+      <ele>466</ele>
+      <time>2022-01-17T22:51:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

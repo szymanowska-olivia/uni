@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:48Z</time>
+    <bounds maxlat="51.3376239" maxlon="16.6362175" minlat="51.3336163" minlon="16.6336923"/>
+  </metadata>
+  <wpt lat="51.333616" lon="16.633756">
+    <ele>111</ele>
+    <name>Wolow, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10046">
+      <text>Wolow, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.337624" lon="16.636218">
+    <ele>114</ele>
+    <name>Wolow, ul. Scinawska</name>
+    <link href="https://mapa-turystyczna.pl/node/10081">
+      <text>Wolow, ul. Scinawska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, dworzec kolejowy - Wolow, ul. Scinawska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3336163,16.6337564;51.33509930470769,16.63472324999999;51.3376239,16.6362175">
+    <text>Wolow, dworzec kolejowy - Wolow, ul. Scinawska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3336163" lon="16.6337564">
+      <ele>111</ele>
+      <time>2022-01-18T00:27:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3337872" lon="16.6336923">
+      <ele>111</ele>
+      <time>2022-01-18T00:28:12Z</time>
+    </trkpt>
+    <trkpt lat="51.3338978" lon="16.6337728">
+      <ele>112</ele>
+      <time>2022-01-18T00:28:29Z</time>
+    </trkpt>
+    <trkpt lat="51.3340218" lon="16.633821">
+      <ele>112</ele>
+      <time>2022-01-18T00:28:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3340922" lon="16.6338693">
+      <ele>113</ele>
+      <time>2022-01-18T00:28:57Z</time>
+    </trkpt>
+    <trkpt lat="51.3342464" lon="16.6342502">
+      <ele>113</ele>
+      <time>2022-01-18T00:29:36Z</time>
+    </trkpt>
+    <trkpt lat="51.3344423" lon="16.6343362">
+      <ele>114</ele>
+      <time>2022-01-18T00:30:03Z</time>
+    </trkpt>
+    <trkpt lat="51.3357563" lon="16.6351103">
+      <ele>112</ele>
+      <time>2022-01-18T00:33:15Z</time>
+    </trkpt>
+    <trkpt lat="51.3376239" lon="16.6362175">
+      <ele>114</ele>
+      <time>2022-01-18T00:37:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

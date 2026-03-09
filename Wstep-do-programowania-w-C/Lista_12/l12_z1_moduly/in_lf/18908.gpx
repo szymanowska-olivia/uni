@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:21Z</time>
+    <bounds maxlat="50.3141209" maxlon="19.2938441" minlat="50.3130521" minlon="19.2919558"/>
+  </metadata>
+  <wpt lat="50.313052" lon="19.291956">
+    <ele>288</ele>
+    <name>Dabrowa Gornicza, ul. Strzemieszycka</name>
+    <link href="https://mapa-turystyczna.pl/node/12804">
+      <text>Dabrowa Gornicza, ul. Strzemieszycka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.314121" lon="19.293844">
+    <ele>309</ele>
+    <name>Srocza Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12805">
+      <text>Srocza Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dabrowa Gornicza, ul. Strzemieszycka - Srocza Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3130521,19.2919558;50.313554052649636,19.29278560000002;50.3141209,19.2938441">
+    <text>Dabrowa Gornicza, ul. Strzemieszycka - Srocza Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3130521" lon="19.2919558">
+      <ele>288</ele>
+      <time>2022-01-18T01:39:21Z</time>
+    </trkpt>
+    <trkpt lat="50.314056" lon="19.2936154">
+      <ele>305</ele>
+      <time>2022-01-18T01:43:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3141209" lon="19.2938441">
+      <ele>309</ele>
+      <time>2022-01-18T01:44:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

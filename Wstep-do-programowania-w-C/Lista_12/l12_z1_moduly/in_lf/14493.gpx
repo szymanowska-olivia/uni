@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:15Z</time>
+    <bounds maxlat="49.9770831" maxlon="18.2199907" minlat="49.976413" minlon="18.2187549"/>
+  </metadata>
+  <wpt lat="49.977083" lon="18.218755">
+    <ele>213</ele>
+    <name>Owsiszcze, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/9880">
+      <text>Owsiszcze, przystanek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.976413" lon="18.219991">
+    <ele>213</ele>
+    <name>Owsiszcze</name>
+    <link href="https://mapa-turystyczna.pl/node/8932">
+      <text>Owsiszcze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Owsiszcze, przystanek - Owsiszcze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9770831,18.2187549;49.97674805116654,18.219372800000002;49.976413,18.2199907">
+    <text>Owsiszcze, przystanek - Owsiszcze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9770831" lon="18.2187549">
+      <ele>213</ele>
+      <time>2022-01-18T00:23:15Z</time>
+    </trkpt>
+    <trkpt lat="49.976413" lon="18.2199907">
+      <ele>213</ele>
+      <time>2022-01-18T00:25:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

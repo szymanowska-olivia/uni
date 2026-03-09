@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:56:09Z</time>
+    <bounds maxlat="48.9266162" maxlon="19.6360821" minlat="48.926061" minlon="19.6336868"/>
+  </metadata>
+  <wpt lat="48.926061" lon="19.633687">
+    <ele>1380</ele>
+    <name>Halasova</name>
+    <link href="https://mapa-turystyczna.pl/node/6693">
+      <text>Halasova</text>
+    </link>
+  </wpt>
+  <wpt lat="48.926616" lon="19.636082">
+    <ele>1420</ele>
+    <name>Odbocka k jaskyni mrtvych netopierov</name>
+    <link href="https://mapa-turystyczna.pl/node/6646">
+      <text>Odbocka k jaskyni mrtvych netopierov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Halasova - Odbocka k jaskyni mrtvych netopierov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.926061,19.6336868;48.926390900097545,19.635218350000017;48.9266162,19.6360821">
+    <text>Halasova - Odbocka k jaskyni mrtvych netopierov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.926061" lon="19.6336868">
+      <ele>1380</ele>
+      <time>2022-01-17T22:56:09Z</time>
+    </trkpt>
+    <trkpt lat="48.9261935" lon="19.6342688">
+      <ele>1394</ele>
+      <time>2022-01-17T22:57:23Z</time>
+    </trkpt>
+    <trkpt lat="48.9262922" lon="19.6347302">
+      <ele>1402</ele>
+      <time>2022-01-17T22:58:20Z</time>
+    </trkpt>
+    <trkpt lat="48.9264896" lon="19.6357065">
+      <ele>1413</ele>
+      <time>2022-01-17T23:00:19Z</time>
+    </trkpt>
+    <trkpt lat="48.9266162" lon="19.6360821">
+      <ele>1420</ele>
+      <time>2022-01-17T23:01:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

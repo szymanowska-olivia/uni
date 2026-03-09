@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:20Z</time>
+    <bounds maxlat="50.3753129" maxlon="16.1751097" minlat="50.3737221" minlon="16.1685169"/>
+  </metadata>
+  <wpt lat="50.373722" lon="16.168517">
+    <ele>465</ele>
+    <name>Pribyslav</name>
+    <link href="https://mapa-turystyczna.pl/node/5973">
+      <text>Pribyslav</text>
+    </link>
+  </wpt>
+  <wpt lat="50.375313" lon="16.17511">
+    <ele>475</ele>
+    <name>U Pribyslavi</name>
+    <link href="https://mapa-turystyczna.pl/node/5972">
+      <text>U Pribyslavi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pribyslav - U Pribyslavi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3737221,16.1685169;50.37453705008226,16.171664299999993;50.3753129,16.1751097">
+    <text>Pribyslav - U Pribyslavi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3737221" lon="16.1685169">
+      <ele>465</ele>
+      <time>2022-01-17T22:41:20Z</time>
+    </trkpt>
+    <trkpt lat="50.3737255" lon="16.169237">
+      <ele>471</ele>
+      <time>2022-01-17T22:42:19Z</time>
+    </trkpt>
+    <trkpt lat="50.3737221" lon="16.1700216">
+      <ele>472</ele>
+      <time>2022-01-17T22:43:23Z</time>
+    </trkpt>
+    <trkpt lat="50.373764" lon="16.1702798">
+      <ele>472</ele>
+      <time>2022-01-17T22:43:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3738264" lon="16.1705486">
+      <ele>471</ele>
+      <time>2022-01-17T22:44:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3740497" lon="16.1707076">
+      <ele>470</ele>
+      <time>2022-01-17T22:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3742731" lon="16.170982">
+      <ele>470</ele>
+      <time>2022-01-17T22:45:16Z</time>
+    </trkpt>
+    <trkpt lat="50.374378" lon="16.1711621">
+      <ele>470</ele>
+      <time>2022-01-17T22:45:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3744487" lon="16.1713637">
+      <ele>470</ele>
+      <time>2022-01-17T22:45:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3746254" lon="16.1719649">
+      <ele>470</ele>
+      <time>2022-01-17T22:46:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3748705" lon="16.1730382">
+      <ele>469</ele>
+      <time>2022-01-17T22:48:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3753129" lon="16.1751097">
+      <ele>475</ele>
+      <time>2022-01-17T22:51:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

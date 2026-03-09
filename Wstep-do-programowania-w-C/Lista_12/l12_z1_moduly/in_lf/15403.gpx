@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:44Z</time>
+    <bounds maxlat="51.2990945" maxlon="16.908602" minlat="51.2980086" minlon="16.9080635"/>
+  </metadata>
+  <wpt lat="51.299095" lon="16.908064">
+    <ele>169</ele>
+    <name>Oborniki Slaskie, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10528">
+      <text>Oborniki Slaskie, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.298009" lon="16.908602">
+    <ele>169</ele>
+    <name>Oborniki Slaskie, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10529">
+      <text>Oborniki Slaskie, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oborniki Slaskie, dworzec kolejowy - Oborniki Slaskie, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2990945,16.9080635;51.29865445210922,16.908247800000016;51.2980086,16.908602">
+    <text>Oborniki Slaskie, dworzec kolejowy - Oborniki Slaskie, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2990945" lon="16.9080635">
+      <ele>169</ele>
+      <time>2022-01-18T00:38:44Z</time>
+    </trkpt>
+    <trkpt lat="51.2982144" lon="16.9084321">
+      <ele>170</ele>
+      <time>2022-01-18T00:40:20Z</time>
+    </trkpt>
+    <trkpt lat="51.2980086" lon="16.908602">
+      <ele>169</ele>
+      <time>2022-01-18T00:40:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

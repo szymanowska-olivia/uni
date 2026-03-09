@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:29Z</time>
+    <bounds maxlat="50.4755895" maxlon="16.0776275" minlat="50.4755741" minlon="16.0774183"/>
+  </metadata>
+  <wpt lat="50.475577" lon="16.077418">
+    <ele>426</ele>
+    <name>U Dupacky</name>
+    <link href="https://mapa-turystyczna.pl/node/6166">
+      <text>U Dupacky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.475574" lon="16.077627">
+    <ele>425</ele>
+    <name>U Dupacky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6165">
+      <text>U Dupacky, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Dupacky - U Dupacky, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4755775,16.0774183;50.47558180000064,16.077572550000017;50.4755741,16.0776275">
+    <text>U Dupacky - U Dupacky, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4755775" lon="16.0774183">
+      <ele>426</ele>
+      <time>2022-01-17T22:46:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4755895" lon="16.0775176">
+      <ele>426</ele>
+      <time>2022-01-17T22:46:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4755741" lon="16.0776275">
+      <ele>425</ele>
+      <time>2022-01-17T22:47:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

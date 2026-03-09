@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:16Z</time>
+    <bounds maxlat="51.1200391" maxlon="15.2911261" minlat="51.1190072" minlon="15.2896824"/>
+  </metadata>
+  <wpt lat="51.120039" lon="15.290003">
+    <ele>225</ele>
+    <name>Luban, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/10741">
+      <text>Luban, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="51.119007" lon="15.291126">
+    <ele>221</ele>
+    <name>Luban, ul. Waska</name>
+    <link href="https://mapa-turystyczna.pl/node/3559">
+      <text>Luban, ul. Waska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Luban, Rynek - Luban, ul. Waska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1200391,15.2900028;51.11921675047522,15.290404250000002;51.1190072,15.2911261">
+    <text>Luban, Rynek - Luban, ul. Waska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1200391" lon="15.2900028">
+      <ele>225</ele>
+      <time>2022-01-18T00:44:16Z</time>
+    </trkpt>
+    <trkpt lat="51.1194263" lon="15.2896824">
+      <ele>225</ele>
+      <time>2022-01-18T00:45:27Z</time>
+    </trkpt>
+    <trkpt lat="51.1190072" lon="15.2911261">
+      <ele>221</ele>
+      <time>2022-01-18T00:47:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

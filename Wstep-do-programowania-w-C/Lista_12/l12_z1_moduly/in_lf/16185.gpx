@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:30Z</time>
+    <bounds maxlat="50.8664114" maxlon="15.7056344" minlat="50.8639667" minlon="15.7026748"/>
+  </metadata>
+  <wpt lat="50.866411" lon="15.702675">
+    <ele>378</ele>
+    <name>Rozdroze Strzelecka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/11053">
+      <text>Rozdroze Strzelecka Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.863967" lon="15.705634">
+    <ele>417</ele>
+    <name>Rozdroze Panorama</name>
+    <link href="https://mapa-turystyczna.pl/node/11042">
+      <text>Rozdroze Panorama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze Strzelecka Gora - Rozdroze Panorama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8664114,15.7026748;50.865297600054234,15.704328299999988;50.8639667,15.7056344">
+    <text>Rozdroze Strzelecka Gora - Rozdroze Panorama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8664114" lon="15.7026748">
+      <ele>378</ele>
+      <time>2022-01-18T00:52:30Z</time>
+    </trkpt>
+    <trkpt lat="50.866188" lon="15.7031052">
+      <ele>387</ele>
+      <time>2022-01-18T00:53:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8658359" lon="15.7032554">
+      <ele>397</ele>
+      <time>2022-01-18T00:54:47Z</time>
+    </trkpt>
+    <trkpt lat="50.865626" lon="15.7035343">
+      <ele>403</ele>
+      <time>2022-01-18T00:55:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8653687" lon="15.704103">
+      <ele>407</ele>
+      <time>2022-01-18T00:57:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8652265" lon="15.7045536">
+      <ele>405</ele>
+      <time>2022-01-18T00:58:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8650166" lon="15.7047574">
+      <ele>405</ele>
+      <time>2022-01-18T00:58:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8644952" lon="15.7052617">
+      <ele>414</ele>
+      <time>2022-01-18T01:00:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8639667" lon="15.7056344">
+      <ele>417</ele>
+      <time>2022-01-18T01:02:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

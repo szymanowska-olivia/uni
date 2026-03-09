@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:53Z</time>
+    <bounds maxlat="50.6421334" maxlon="16.214962" minlat="50.6416349" minlon="16.2135672"/>
+  </metadata>
+  <wpt lat="50.641635" lon="16.214962">
+    <ele>455</ele>
+    <name>Golinsk, tory</name>
+    <link href="https://mapa-turystyczna.pl/node/6825">
+      <text>Golinsk, tory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.642133" lon="16.213567">
+    <ele>456</ele>
+    <name>Golinsk</name>
+    <link href="https://mapa-turystyczna.pl/node/2419">
+      <text>Golinsk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Golinsk, tory - Golinsk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6416349,16.214962;50.64198880022248,16.213929349999976;50.6421334,16.2135672">
+    <text>Golinsk, tory - Golinsk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6416349" lon="16.214962">
+      <ele>455</ele>
+      <time>2022-01-17T23:02:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6418442" lon="16.2142915">
+      <ele>456</ele>
+      <time>2022-01-17T23:03:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6421334" lon="16.2135672">
+      <ele>456</ele>
+      <time>2022-01-17T23:04:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

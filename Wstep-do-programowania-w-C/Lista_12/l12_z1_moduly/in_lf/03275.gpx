@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:35Z</time>
+    <bounds maxlat="50.7085529" maxlon="16.2242532" minlat="50.7073129" minlon="16.2207395"/>
+  </metadata>
+  <wpt lat="50.708553" lon="16.224253">
+    <ele>553</ele>
+    <name>Unislaw Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/2330">
+      <text>Unislaw Dolny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.707313" lon="16.22074">
+    <ele>554</ele>
+    <name>Unislaw Dolny, tory</name>
+    <link href="https://mapa-turystyczna.pl/node/2329">
+      <text>Unislaw Dolny, tory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Unislaw Dolny - Unislaw Dolny, tory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7085529,16.2242532;50.70808705231447,16.22303075000003;50.7073129,16.2207395">
+    <text>Unislaw Dolny - Unislaw Dolny, tory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7085529" lon="16.2242532">
+      <ele>553</ele>
+      <time>2022-01-17T21:27:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7076212" lon="16.2218083">
+      <ele>554</ele>
+      <time>2022-01-17T21:31:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7073554" lon="16.221402">
+      <ele>554</ele>
+      <time>2022-01-17T21:31:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7073129" lon="16.2207395">
+      <ele>554</ele>
+      <time>2022-01-17T21:32:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

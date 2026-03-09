@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:46Z</time>
+    <bounds maxlat="50.7229068" maxlon="16.3048342" minlat="50.7216601" minlon="16.3044861"/>
+  </metadata>
+  <wpt lat="50.722907" lon="16.304505">
+    <ele>853</ele>
+    <name>Borowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2533">
+      <text>Borowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.72166" lon="16.304834">
+    <ele>829</ele>
+    <name>Pod Borowa</name>
+    <link href="https://mapa-turystyczna.pl/node/7831">
+      <text>Pod Borowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Borowa - Pod Borowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7229068,16.3045049;50.7222541000444,16.304547800000016;50.7216601,16.3048342">
+    <text>Borowa - Pod Borowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7229068" lon="16.3045049">
+      <ele>853</ele>
+      <time>2022-01-17T23:28:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7227981" lon="16.3045478">
+      <ele>853</ele>
+      <time>2022-01-17T23:28:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7226181" lon="16.3044861">
+      <ele>850</ele>
+      <time>2022-01-17T23:29:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7223186" lon="16.3045156">
+      <ele>844</ele>
+      <time>2022-01-17T23:29:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7221896" lon="16.30458">
+      <ele>840</ele>
+      <time>2022-01-17T23:29:54Z</time>
+    </trkpt>
+    <trkpt lat="50.722013" lon="16.3047087">
+      <ele>835</ele>
+      <time>2022-01-17T23:30:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7216601" lon="16.3048342">
+      <ele>829</ele>
+      <time>2022-01-17T23:30:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

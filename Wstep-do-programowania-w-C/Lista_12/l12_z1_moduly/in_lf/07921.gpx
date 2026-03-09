@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:42Z</time>
+    <bounds maxlat="48.9407546" maxlon="19.099474" minlat="48.9404129" minlon="19.0975589"/>
+  </metadata>
+  <wpt lat="48.940413" lon="19.097559">
+    <ele>1300</ele>
+    <name>Chata pod Borisovom</name>
+    <link href="https://mapa-turystyczna.pl/node/5567">
+      <text>Chata pod Borisovom</text>
+    </link>
+  </wpt>
+  <wpt lat="48.940755" lon="19.099474">
+    <ele>1261</ele>
+    <name>Chata pod Borisovom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5609">
+      <text>Chata pod Borisovom, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata pod Borisovom - Chata pod Borisovom, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9404129,19.0975589;48.94071325000565,19.098516399999976;48.9407546,19.099474">
+    <text>Chata pod Borisovom - Chata pod Borisovom, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9404129" lon="19.0975589">
+      <ele>1300</ele>
+      <time>2022-01-17T22:29:42Z</time>
+    </trkpt>
+    <trkpt lat="48.9404974" lon="19.0977359">
+      <ele>1298</ele>
+      <time>2022-01-17T22:29:54Z</time>
+    </trkpt>
+    <trkpt lat="48.9405749" lon="19.0978754">
+      <ele>1296</ele>
+      <time>2022-01-17T22:30:05Z</time>
+    </trkpt>
+    <trkpt lat="48.940663" lon="19.0980577">
+      <ele>1291</ele>
+      <time>2022-01-17T22:30:18Z</time>
+    </trkpt>
+    <trkpt lat="48.9406895" lon="19.0983421">
+      <ele>1283</ele>
+      <time>2022-01-17T22:30:35Z</time>
+    </trkpt>
+    <trkpt lat="48.940737" lon="19.0986907">
+      <ele>1274</ele>
+      <time>2022-01-17T22:30:57Z</time>
+    </trkpt>
+    <trkpt lat="48.9407546" lon="19.099474">
+      <ele>1261</ele>
+      <time>2022-01-17T22:31:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

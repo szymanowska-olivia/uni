@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:30Z</time>
+    <bounds maxlat="51.8522335" maxlon="21.381765" minlat="51.8501588" minlon="21.3788124"/>
+  </metadata>
+  <wpt lat="51.852233" lon="21.378812">
+    <ele>98</ele>
+    <name>Wilga</name>
+    <link href="https://mapa-turystyczna.pl/node/11516">
+      <text>Wilga</text>
+    </link>
+  </wpt>
+  <wpt lat="51.850159" lon="21.381765">
+    <ele>101</ele>
+    <name>Wilga, ul. Nadrzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12316">
+      <text>Wilga, ul. Nadrzeczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilga - Wilga, ul. Nadrzeczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8522335,21.3788124;51.851314752744834,21.38029280000002;51.8501588,21.381765">
+    <text>Wilga - Wilga, ul. Nadrzeczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8522335" lon="21.3788124">
+      <ele>98</ele>
+      <time>2022-01-18T01:25:30Z</time>
+    </trkpt>
+    <trkpt lat="51.8518118" lon="21.3794989">
+      <ele>99</ele>
+      <time>2022-01-18T01:26:35Z</time>
+    </trkpt>
+    <trkpt lat="51.8508177" lon="21.3810867">
+      <ele>102</ele>
+      <time>2022-01-18T01:29:05Z</time>
+    </trkpt>
+    <trkpt lat="51.850546" lon="21.3814354">
+      <ele>102</ele>
+      <time>2022-01-18T01:29:43Z</time>
+    </trkpt>
+    <trkpt lat="51.8501588" lon="21.381765">
+      <ele>101</ele>
+      <time>2022-01-18T01:30:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

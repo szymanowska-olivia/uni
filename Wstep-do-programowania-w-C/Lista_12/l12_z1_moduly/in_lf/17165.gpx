@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:53Z</time>
+    <bounds maxlat="50.8885688" maxlon="16.7290529" minlat="50.8858731" minlon="16.7280386"/>
+  </metadata>
+  <wpt lat="50.888569" lon="16.729053">
+    <ele>373</ele>
+    <name>Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11700">
+      <text>Pod Wiezyca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.885873" lon="16.728876">
+    <ele>410</ele>
+    <name>Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11701">
+      <text>Pod Wiezyca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wiezyca - Pod Wiezyca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8885688,16.7290529;50.887293701407316,16.728119050000014;50.8858731,16.7288759">
+    <text>Pod Wiezyca - Pod Wiezyca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8885688" lon="16.7290529">
+      <ele>373</ele>
+      <time>2022-01-18T01:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8884477" lon="16.7286716">
+      <ele>372</ele>
+      <time>2022-01-18T01:09:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8881499" lon="16.728339">
+      <ele>377</ele>
+      <time>2022-01-18T01:10:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8878724" lon="16.7282102">
+      <ele>383</ele>
+      <time>2022-01-18T01:11:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8876558" lon="16.7281995">
+      <ele>388</ele>
+      <time>2022-01-18T01:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8869316" lon="16.7280386">
+      <ele>395</ele>
+      <time>2022-01-18T01:14:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8867015" lon="16.7281029">
+      <ele>398</ele>
+      <time>2022-01-18T01:15:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8864917" lon="16.7282102">
+      <ele>403</ele>
+      <time>2022-01-18T01:16:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8861059" lon="16.7284248">
+      <ele>407</ele>
+      <time>2022-01-18T01:17:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8859637" lon="16.7286716">
+      <ele>409</ele>
+      <time>2022-01-18T01:18:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8858731" lon="16.7288759">
+      <ele>410</ele>
+      <time>2022-01-18T01:18:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

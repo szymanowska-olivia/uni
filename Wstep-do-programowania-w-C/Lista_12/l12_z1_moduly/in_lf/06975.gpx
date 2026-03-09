@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:15:50Z</time>
+    <bounds maxlat="49.636286" maxlon="18.719145" minlat="49.635581" minlon="18.717906"/>
+  </metadata>
+  <wpt lat="49.636286" lon="18.717906">
+    <ele>344</ele>
+    <name>Bystrice, zel.st.</name>
+    <link href="https://mapa-turystyczna.pl/node/4774">
+      <text>Bystrice, zel.st.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.635581" lon="18.719145">
+    <ele>346</ele>
+    <name>Bystrice</name>
+    <link href="https://mapa-turystyczna.pl/node/4775">
+      <text>Bystrice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystrice, zel.st. - Bystrice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.636286,18.717906;49.63584400032166,18.718594999999993;49.635581,18.719145">
+    <text>Bystrice, zel.st. - Bystrice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.636286" lon="18.717906">
+      <ele>344</ele>
+      <time>2022-01-17T22:15:50Z</time>
+    </trkpt>
+    <trkpt lat="49.636128" lon="18.718119">
+      <ele>344</ele>
+      <time>2022-01-17T22:16:13Z</time>
+    </trkpt>
+    <trkpt lat="49.636021" lon="18.718272">
+      <ele>344</ele>
+      <time>2022-01-17T22:16:30Z</time>
+    </trkpt>
+    <trkpt lat="49.635667" lon="18.718918">
+      <ele>345</ele>
+      <time>2022-01-17T22:17:31Z</time>
+    </trkpt>
+    <trkpt lat="49.635581" lon="18.719145">
+      <ele>346</ele>
+      <time>2022-01-17T22:17:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

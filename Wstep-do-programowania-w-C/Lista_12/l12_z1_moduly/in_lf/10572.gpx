@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:18:27Z</time>
+    <bounds maxlat="49.5027305" maxlon="18.5408905" minlat="49.5018441" minlon="18.5386831"/>
+  </metadata>
+  <wpt lat="49.50273" lon="18.538683">
+    <ele>890</ele>
+    <name>Bily Kriz, smer Visalaje</name>
+    <link href="https://mapa-turystyczna.pl/node/7377">
+      <text>Bily Kriz, smer Visalaje</text>
+    </link>
+  </wpt>
+  <wpt lat="49.501844" lon="18.54089">
+    <ele>893</ele>
+    <name>Bily Kriz, smer Moravka</name>
+    <link href="https://mapa-turystyczna.pl/node/7501">
+      <text>Bily Kriz, smer Moravka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily Kriz, smer Visalaje - Bily Kriz, smer Moravka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5027305,18.5386831;49.50237745001567,18.539861900000002;49.5018441,18.5408905">
+    <text>Bily Kriz, smer Visalaje - Bily Kriz, smer Moravka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5027305" lon="18.5386831">
+      <ele>890</ele>
+      <time>2022-01-17T23:18:27Z</time>
+    </trkpt>
+    <trkpt lat="49.5027041" lon="18.5389566">
+      <ele>890</ele>
+      <time>2022-01-17T23:18:58Z</time>
+    </trkpt>
+    <trkpt lat="49.5026135" lon="18.539359">
+      <ele>891</ele>
+      <time>2022-01-17T23:19:46Z</time>
+    </trkpt>
+    <trkpt lat="49.5024166" lon="18.539764">
+      <ele>893</ele>
+      <time>2022-01-17T23:20:44Z</time>
+    </trkpt>
+    <trkpt lat="49.5023383" lon="18.5399598">
+      <ele>894</ele>
+      <time>2022-01-17T23:21:10Z</time>
+    </trkpt>
+    <trkpt lat="49.5021902" lon="18.5403219">
+      <ele>896</ele>
+      <time>2022-01-17T23:21:58Z</time>
+    </trkpt>
+    <trkpt lat="49.5020317" lon="18.5406518">
+      <ele>894</ele>
+      <time>2022-01-17T23:22:45Z</time>
+    </trkpt>
+    <trkpt lat="49.5019132" lon="18.5408127">
+      <ele>893</ele>
+      <time>2022-01-17T23:23:12Z</time>
+    </trkpt>
+    <trkpt lat="49.5018441" lon="18.5408905">
+      <ele>893</ele>
+      <time>2022-01-17T23:23:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

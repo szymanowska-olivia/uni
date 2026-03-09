@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:50Z</time>
+    <bounds maxlat="50.1874301" maxlon="17.1092427" minlat="50.1845964" minlon="17.1082342"/>
+  </metadata>
+  <wpt lat="50.18743" lon="17.108234">
+    <ele>1329</ele>
+    <name>Serak, turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/6434">
+      <text>Serak, turisticka chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.184596" lon="17.109237">
+    <ele>1311</ele>
+    <name>Serak, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6445">
+      <text>Serak, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Serak, turisticka chata - Serak, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1874301,17.1082342;50.18616785031495,17.109022749999976;50.1845964,17.1092373">
+    <text>Serak, turisticka chata - Serak, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1874301" lon="17.1082342">
+      <ele>1329</ele>
+      <time>2022-01-17T22:53:50Z</time>
+    </trkpt>
+    <trkpt lat="50.187255" lon="17.1084058">
+      <ele>1328</ele>
+      <time>2022-01-17T22:54:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1867226" lon="17.1086419">
+      <ele>1326</ele>
+      <time>2022-01-17T22:55:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1865062" lon="17.1087599">
+      <ele>1326</ele>
+      <time>2022-01-17T22:55:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1864341" lon="17.108835">
+      <ele>1326</ele>
+      <time>2022-01-17T22:55:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1863413" lon="17.1089262">
+      <ele>1324</ele>
+      <time>2022-01-17T22:55:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1859944" lon="17.1091193">
+      <ele>1321</ele>
+      <time>2022-01-17T22:56:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1854345" lon="17.1092427">
+      <ele>1318</ele>
+      <time>2022-01-17T22:57:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1845964" lon="17.1092373">
+      <ele>1311</ele>
+      <time>2022-01-17T22:58:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

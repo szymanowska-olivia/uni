@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:15Z</time>
+    <bounds maxlat="50.5941339" maxlon="16.6042149" minlat="50.5919488" minlon="16.6022952"/>
+  </metadata>
+  <wpt lat="50.594134" lon="16.602295">
+    <ele>821</ele>
+    <name>Pod Malinowa, poczatek szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9142">
+      <text>Pod Malinowa, poczatek szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.591949" lon="16.604215">
+    <ele>786</ele>
+    <name>Przelecz pod Golebia</name>
+    <link href="https://mapa-turystyczna.pl/node/2053">
+      <text>Przelecz pod Golebia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Malinowa, poczatek szlaku zielonego - Przelecz pod Golebia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5941339,16.6022952;50.59294315053651,16.60293819999998;50.5919488,16.6042149">
+    <text>Pod Malinowa, poczatek szlaku zielonego - Przelecz pod Golebia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5941339" lon="16.6022952">
+      <ele>821</ele>
+      <time>2022-01-18T00:04:15Z</time>
+    </trkpt>
+    <trkpt lat="50.5938425" lon="16.6023268">
+      <ele>818</ele>
+      <time>2022-01-18T00:04:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5936143" lon="16.6024073">
+      <ele>816</ele>
+      <time>2022-01-18T00:05:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5933725" lon="16.6025307">
+      <ele>814</ele>
+      <time>2022-01-18T00:05:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5931679" lon="16.6027236">
+      <ele>813</ele>
+      <time>2022-01-18T00:06:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5927184" lon="16.6031528">
+      <ele>807</ele>
+      <time>2022-01-18T00:07:14Z</time>
+    </trkpt>
+    <trkpt lat="50.5923711" lon="16.603657">
+      <ele>796</ele>
+      <time>2022-01-18T00:08:10Z</time>
+    </trkpt>
+    <trkpt lat="50.5922068" lon="16.6039255">
+      <ele>792</ele>
+      <time>2022-01-18T00:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5919488" lon="16.6042149">
+      <ele>786</ele>
+      <time>2022-01-18T00:09:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

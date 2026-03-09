@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:39:53Z</time>
+    <bounds maxlat="50.6866772" maxlon="16.2783459" minlat="50.6852252" minlon="16.2773609"/>
+  </metadata>
+  <wpt lat="50.686677" lon="16.277361">
+    <ele>788</ele>
+    <name>Hala pod Klinem</name>
+    <link href="https://mapa-turystyczna.pl/node/2339">
+      <text>Hala pod Klinem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.685238" lon="16.278346">
+    <ele>793</ele>
+    <name>Andrzejowka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8203">
+      <text>Andrzejowka, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hala pod Klinem - Andrzejowka, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6866772,16.2773609;50.68583905097224,16.27797249999997;50.6852378,16.2783459">
+    <text>Hala pod Klinem - Andrzejowka, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6866772" lon="16.2773609">
+      <ele>788</ele>
+      <time>2022-01-17T23:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6861411" lon="16.2777472">
+      <ele>787</ele>
+      <time>2022-01-17T23:40:59Z</time>
+    </trkpt>
+    <trkpt lat="50.685537" lon="16.2781978">
+      <ele>789</ele>
+      <time>2022-01-17T23:42:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6852252" lon="16.2783319">
+      <ele>794</ele>
+      <time>2022-01-17T23:42:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6852378" lon="16.2783459">
+      <ele>793</ele>
+      <time>2022-01-17T23:42:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

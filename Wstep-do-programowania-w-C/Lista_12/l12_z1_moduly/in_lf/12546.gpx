@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:48Z</time>
+    <bounds maxlat="53.9124403" maxlon="14.3223242" minlat="53.9071019" minlon="14.3001176"/>
+  </metadata>
+  <wpt lat="53.91244" lon="14.300118">
+    <ele>7</ele>
+    <name>Droga przy gazoporcie</name>
+    <link href="https://mapa-turystyczna.pl/node/8624">
+      <text>Droga przy gazoporcie</text>
+    </link>
+  </wpt>
+  <wpt lat="53.907102" lon="14.322324">
+    <ele>7</ele>
+    <name>Skrzyzowanie przy Dzwonie</name>
+    <link href="https://mapa-turystyczna.pl/node/8626">
+      <text>Skrzyzowanie przy Dzwonie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga przy gazoporcie - Skrzyzowanie przy Dzwonie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9124403,14.3001182;53.910112400063284,14.311181649999991;53.9071019,14.3223242">
+    <text>Droga przy gazoporcie - Skrzyzowanie przy Dzwonie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9124403" lon="14.3001182">
+      <ele>7</ele>
+      <time>2022-01-17T23:51:48Z</time>
+    </trkpt>
+    <trkpt lat="53.9123938" lon="14.3001176">
+      <ele>7</ele>
+      <time>2022-01-17T23:51:53Z</time>
+    </trkpt>
+    <trkpt lat="53.9119072" lon="14.3017269">
+      <ele>11</ele>
+      <time>2022-01-17T23:53:44Z</time>
+    </trkpt>
+    <trkpt lat="53.9116923" lon="14.3035132">
+      <ele>13</ele>
+      <time>2022-01-17T23:55:37Z</time>
+    </trkpt>
+    <trkpt lat="53.9112563" lon="14.305423">
+      <ele>10</ele>
+      <time>2022-01-17T23:57:43Z</time>
+    </trkpt>
+    <trkpt lat="53.910678" lon="14.3077726">
+      <ele>8</ele>
+      <time>2022-01-18T00:00:20Z</time>
+    </trkpt>
+    <trkpt lat="53.9101851" lon="14.3103421">
+      <ele>12</ele>
+      <time>2022-01-18T00:03:07Z</time>
+    </trkpt>
+    <trkpt lat="53.9100397" lon="14.3120212">
+      <ele>10</ele>
+      <time>2022-01-18T00:04:52Z</time>
+    </trkpt>
+    <trkpt lat="53.9090854" lon="14.3154705">
+      <ele>11</ele>
+      <time>2022-01-18T00:08:47Z</time>
+    </trkpt>
+    <trkpt lat="53.9087093" lon="14.3169135">
+      <ele>11</ele>
+      <time>2022-01-18T00:10:24Z</time>
+    </trkpt>
+    <trkpt lat="53.9084376" lon="14.3171818">
+      <ele>11</ele>
+      <time>2022-01-18T00:10:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9074137" lon="14.3200625">
+      <ele>6</ele>
+      <time>2022-01-18T00:14:25Z</time>
+    </trkpt>
+    <trkpt lat="53.9071019" lon="14.3223242">
+      <ele>7</ele>
+      <time>2022-01-18T00:16:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

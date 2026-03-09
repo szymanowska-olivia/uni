@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:51Z</time>
+    <bounds maxlat="51.2280049" maxlon="15.6450194" minlat="51.2222904" minlon="15.6370211"/>
+  </metadata>
+  <wpt lat="51.22229" lon="15.645019">
+    <ele>248</ele>
+    <name>Wartowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3363">
+      <text>Wartowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.228005" lon="15.637021">
+    <ele>235</ele>
+    <name>Wartowice, Ozarek</name>
+    <link href="https://mapa-turystyczna.pl/node/3364">
+      <text>Wartowice, Ozarek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wartowice - Wartowice, Ozarek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2222904,15.6450194;51.223867754614375,15.640314850000014;51.2280049,15.6370211">
+    <text>Wartowice - Wartowice, Ozarek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2222904" lon="15.6450194">
+      <ele>248</ele>
+      <time>2022-01-17T21:46:51Z</time>
+    </trkpt>
+    <trkpt lat="51.2223794" lon="15.6445473">
+      <ele>247</ele>
+      <time>2022-01-17T21:47:25Z</time>
+    </trkpt>
+    <trkpt lat="51.22245" lon="15.6435281">
+      <ele>244</ele>
+      <time>2022-01-17T21:48:35Z</time>
+    </trkpt>
+    <trkpt lat="51.2224869" lon="15.6431687">
+      <ele>242</ele>
+      <time>2022-01-17T21:49:00Z</time>
+    </trkpt>
+    <trkpt lat="51.2225743" lon="15.6427771">
+      <ele>239</ele>
+      <time>2022-01-17T21:49:28Z</time>
+    </trkpt>
+    <trkpt lat="51.2227994" lon="15.6419778">
+      <ele>237</ele>
+      <time>2022-01-17T21:50:28Z</time>
+    </trkpt>
+    <trkpt lat="51.2230144" lon="15.6415594">
+      <ele>237</ele>
+      <time>2022-01-17T21:51:05Z</time>
+    </trkpt>
+    <trkpt lat="51.223216" lon="15.6410766">
+      <ele>236</ele>
+      <time>2022-01-17T21:51:45Z</time>
+    </trkpt>
+    <trkpt lat="51.2245195" lon="15.6395531">
+      <ele>237</ele>
+      <time>2022-01-17T21:54:41Z</time>
+    </trkpt>
+    <trkpt lat="51.2257659" lon="15.6378633">
+      <ele>241</ele>
+      <time>2022-01-17T21:57:40Z</time>
+    </trkpt>
+    <trkpt lat="51.227365" lon="15.6373429">
+      <ele>234</ele>
+      <time>2022-01-17T22:00:38Z</time>
+    </trkpt>
+    <trkpt lat="51.2280049" lon="15.6370211">
+      <ele>235</ele>
+      <time>2022-01-17T22:01:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

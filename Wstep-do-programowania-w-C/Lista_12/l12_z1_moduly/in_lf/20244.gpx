@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:11Z</time>
+    <bounds maxlat="50.417316" maxlon="19.669765" minlat="50.415926" minlon="19.667675"/>
+  </metadata>
+  <wpt lat="50.415926" lon="19.669732">
+    <ele>382</ele>
+    <name>Czarny Las, Szlak Jaskiniowcow</name>
+    <link href="https://mapa-turystyczna.pl/node/4444">
+      <text>Czarny Las, Szlak Jaskiniowcow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.417316" lon="19.667675">
+    <ele>389</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13621">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarny Las, Szlak Jaskiniowcow - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.415926,19.669732;50.416543000659686,19.669047500000012;50.417316,19.667675">
+    <text>Czarny Las, Szlak Jaskiniowcow - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.415926" lon="19.669732">
+      <ele>382</ele>
+      <time>2022-01-18T02:03:11Z</time>
+    </trkpt>
+    <trkpt lat="50.416086" lon="19.669765">
+      <ele>383</ele>
+      <time>2022-01-18T02:03:35Z</time>
+    </trkpt>
+    <trkpt lat="50.416168" lon="19.669738">
+      <ele>384</ele>
+      <time>2022-01-18T02:03:48Z</time>
+    </trkpt>
+    <trkpt lat="50.416293" lon="19.669516">
+      <ele>387</ele>
+      <time>2022-01-18T02:04:17Z</time>
+    </trkpt>
+    <trkpt lat="50.416793" lon="19.668579">
+      <ele>392</ele>
+      <time>2022-01-18T02:06:14Z</time>
+    </trkpt>
+    <trkpt lat="50.417104" lon="19.668044">
+      <ele>391</ele>
+      <time>2022-01-18T02:07:23Z</time>
+    </trkpt>
+    <trkpt lat="50.417316" lon="19.667675">
+      <ele>389</ele>
+      <time>2022-01-18T02:08:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

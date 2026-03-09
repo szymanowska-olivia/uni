@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:49Z</time>
+    <bounds maxlat="48.9442746" maxlon="20.4233533" minlat="48.9429322" minlon="20.4224414"/>
+  </metadata>
+  <wpt lat="48.944275" lon="20.423353">
+    <ele>763</ele>
+    <name>Klastorisko, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6986">
+      <text>Klastorisko, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.942932" lon="20.422441">
+    <ele>770</ele>
+    <name>Klastorisko, chata</name>
+    <link href="https://mapa-turystyczna.pl/node/6985">
+      <text>Klastorisko, chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klastorisko, razc. - Klastorisko, chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9442746,20.4233533;48.9438218505836,20.423098499999977;48.9429322,20.4224414">
+    <text>Klastorisko, razc. - Klastorisko, chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9442746" lon="20.4233533">
+      <ele>763</ele>
+      <time>2022-01-17T23:06:49Z</time>
+    </trkpt>
+    <trkpt lat="48.9440632" lon="20.423246">
+      <ele>763</ele>
+      <time>2022-01-17T23:07:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9435805" lon="20.422951">
+      <ele>762</ele>
+      <time>2022-01-17T23:08:20Z</time>
+    </trkpt>
+    <trkpt lat="48.943281" lon="20.4227579">
+      <ele>765</ele>
+      <time>2022-01-17T23:08:59Z</time>
+    </trkpt>
+    <trkpt lat="48.9429322" lon="20.4224414">
+      <ele>770</ele>
+      <time>2022-01-17T23:09:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

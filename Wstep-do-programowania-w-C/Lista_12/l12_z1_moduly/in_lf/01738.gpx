@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:20Z</time>
+    <bounds maxlat="50.7467109" maxlon="15.6129241" minlat="50.744238" minlon="15.6099403"/>
+  </metadata>
+  <wpt lat="50.746711" lon="15.612924">
+    <ele>818</ele>
+    <name>Pod Jelenimi Boudami</name>
+    <link href="https://mapa-turystyczna.pl/node/1273">
+      <text>Pod Jelenimi Boudami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.744238" lon="15.60994">
+    <ele>805</ele>
+    <name>Pod Pevnosti</name>
+    <link href="https://mapa-turystyczna.pl/node/1287">
+      <text>Pod Pevnosti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jelenimi Boudami - Pod Pevnosti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7467109,15.6129241;50.74534135050961,15.611120299999994;50.744238,15.6099403">
+    <text>Pod Jelenimi Boudami - Pod Pevnosti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7467109" lon="15.6129241">
+      <ele>818</ele>
+      <time>2022-01-17T21:05:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7462135" lon="15.6122133">
+      <ele>815</ele>
+      <time>2022-01-17T21:06:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7455598" lon="15.6113952">
+      <ele>810</ele>
+      <time>2022-01-17T21:07:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7451229" lon="15.6108454">
+      <ele>809</ele>
+      <time>2022-01-17T21:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7446927" lon="15.6104082">
+      <ele>805</ele>
+      <time>2022-01-17T21:09:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7444145" lon="15.6101922">
+      <ele>804</ele>
+      <time>2022-01-17T21:09:57Z</time>
+    </trkpt>
+    <trkpt lat="50.744238" lon="15.6099403">
+      <ele>805</ele>
+      <time>2022-01-17T21:10:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

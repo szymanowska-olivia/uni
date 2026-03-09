@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:21Z</time>
+    <bounds maxlat="50.2719112" maxlon="17.0179966" minlat="50.2643951" minlon="17.0132732"/>
+  </metadata>
+  <wpt lat="50.271911" lon="17.017972">
+    <ele>848</ele>
+    <name>Sedlo Peklo</name>
+    <link href="https://mapa-turystyczna.pl/node/2135">
+      <text>Sedlo Peklo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.264395" lon="17.013273">
+    <ele>989</ele>
+    <name>Kowadlo</name>
+    <link href="https://mapa-turystyczna.pl/node/2134">
+      <text>Kowadlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Peklo - Kowadlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2719112,17.0179725;50.26700802198288,17.016083499999997;50.2643951,17.0132732">
+    <text>Sedlo Peklo - Kowadlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2719112" lon="17.0179725">
+      <ele>848</ele>
+      <time>2022-01-17T21:23:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2707729" lon="17.0179966">
+      <ele>863</ele>
+      <time>2022-01-17T21:27:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2696894" lon="17.0174628">
+      <ele>887</ele>
+      <time>2022-01-17T21:31:31Z</time>
+    </trkpt>
+    <trkpt lat="50.268455" lon="17.0173086">
+      <ele>913</ele>
+      <time>2022-01-17T21:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.265561" lon="17.0148584">
+      <ele>964</ele>
+      <time>2022-01-17T21:47:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2650123" lon="17.0138633">
+      <ele>979</ele>
+      <time>2022-01-17T21:50:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2643951" lon="17.0132732">
+      <ele>989</ele>
+      <time>2022-01-17T21:53:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

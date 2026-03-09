@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:00Z</time>
+    <bounds maxlat="50.3519998" maxlon="18.3157615" minlat="50.3518992" minlon="18.3147633"/>
+  </metadata>
+  <wpt lat="50.352" lon="18.315762">
+    <ele>197</ele>
+    <name>Slawiecice, ul. Spacerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9804">
+      <text>Slawiecice, ul. Spacerowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.351899" lon="18.314763">
+    <ele>194</ele>
+    <name>Slawiecice, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9803">
+      <text>Slawiecice, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slawiecice, ul. Spacerowa - Slawiecice, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3519998,18.3157615;50.35194950002665,18.31526240000001;50.3518992,18.3147633">
+    <text>Slawiecice, ul. Spacerowa - Slawiecice, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3519998" lon="18.3157615">
+      <ele>197</ele>
+      <time>2022-01-18T00:21:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3518992" lon="18.3147633">
+      <ele>194</ele>
+      <time>2022-01-18T00:22:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

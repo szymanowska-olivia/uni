@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:29Z</time>
+    <bounds maxlat="50.3117669" maxlon="19.2876911" minlat="50.3112296" minlon="19.286507"/>
+  </metadata>
+  <wpt lat="50.311717" lon="19.286507">
+    <ele>282</ele>
+    <name>Dabrowa Gornicza, stacja Poludniowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9912">
+      <text>Dabrowa Gornicza, stacja Poludniowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.31123" lon="19.287691">
+    <ele>280</ele>
+    <name>Strzemieszyce Wielkie</name>
+    <link href="https://mapa-turystyczna.pl/node/12803">
+      <text>Strzemieszyce Wielkie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dabrowa Gornicza, stacja Poludniowa - Strzemieszyce Wielkie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3117168,19.286507;50.311718950001094,19.287310849999994;50.3112296,19.2876911">
+    <text>Dabrowa Gornicza, stacja Poludniowa - Strzemieszyce Wielkie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3117168" lon="19.286507">
+      <ele>282</ele>
+      <time>2022-01-18T01:39:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3117669" lon="19.2871204">
+      <ele>281</ele>
+      <time>2022-01-18T01:40:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3117292" lon="19.2871204">
+      <ele>281</ele>
+      <time>2022-01-18T01:40:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3117087" lon="19.2875013">
+      <ele>280</ele>
+      <time>2022-01-18T01:40:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3116813" lon="19.2875442">
+      <ele>280</ele>
+      <time>2022-01-18T01:40:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3114963" lon="19.2875389">
+      <ele>281</ele>
+      <time>2022-01-18T01:41:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3112296" lon="19.2876911">
+      <ele>280</ele>
+      <time>2022-01-18T01:41:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

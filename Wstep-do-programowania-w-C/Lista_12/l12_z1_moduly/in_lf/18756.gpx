@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:33Z</time>
+    <bounds maxlat="49.140314" maxlon="19.967057" minlat="49.139943" minlon="19.966308"/>
+  </metadata>
+  <wpt lat="49.139943" lon="19.966308">
+    <ele>1140</ele>
+    <name>Tri studnicky</name>
+    <link href="https://mapa-turystyczna.pl/node/1519">
+      <text>Tri studnicky</text>
+    </link>
+  </wpt>
+  <wpt lat="49.140314" lon="19.967057">
+    <ele>1162</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12693">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tri studnicky - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.139943,19.966308;49.140190500153864,19.966854000000023;49.140314,19.967057">
+    <text>Tri studnicky - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.139943" lon="19.966308">
+      <ele>1140</ele>
+      <time>2022-01-18T01:36:33Z</time>
+    </trkpt>
+    <trkpt lat="49.140067" lon="19.966651">
+      <ele>1145</ele>
+      <time>2022-01-18T01:36:57Z</time>
+    </trkpt>
+    <trkpt lat="49.140314" lon="19.967057">
+      <ele>1162</ele>
+      <time>2022-01-18T01:37:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

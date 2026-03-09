@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:18Z</time>
+    <bounds maxlat="50.8112125" maxlon="16.6408471" minlat="50.8104527" minlon="16.64018"/>
+  </metadata>
+  <wpt lat="50.811213" lon="16.64018">
+    <ele>293</ele>
+    <name>Odejscie do kosciola</name>
+    <link href="https://mapa-turystyczna.pl/node/11711">
+      <text>Odejscie do kosciola</text>
+    </link>
+  </wpt>
+  <wpt lat="50.810453" lon="16.640847">
+    <ele>285</ele>
+    <name>Kielczyn, poczatek sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11712">
+      <text>Kielczyn, poczatek sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do kosciola - Kielczyn, poczatek sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8112125,16.64018;50.81099650049943,16.6403292;50.8104527,16.6408471">
+    <text>Odejscie do kosciola - Kielczyn, poczatek sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8112125" lon="16.64018">
+      <ele>293</ele>
+      <time>2022-01-18T01:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8107805" lon="16.6404784">
+      <ele>287</ele>
+      <time>2022-01-18T01:09:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8104527" lon="16.6408471">
+      <ele>285</ele>
+      <time>2022-01-18T01:10:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:01Z</time>
+    <bounds maxlat="49.652354" maxlon="19.468819" minlat="49.648035" minlon="19.461845"/>
+  </metadata>
+  <wpt lat="49.652354" lon="19.461845">
+    <ele>957</ele>
+    <name>Pod Sucha Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3845">
+      <text>Pod Sucha Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.648035" lon="19.468819">
+    <ele>1051</ele>
+    <name>Czerniawa Sucha</name>
+    <link href="https://mapa-turystyczna.pl/node/678">
+      <text>Czerniawa Sucha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sucha Gora - Czerniawa Sucha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.652354,19.461845;49.650142000311,19.465076500000034;49.648035,19.468819">
+    <text>Pod Sucha Gora - Czerniawa Sucha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.652354" lon="19.461845">
+      <ele>957</ele>
+      <time>2022-01-17T21:56:01Z</time>
+    </trkpt>
+    <trkpt lat="49.652133" lon="19.462539">
+      <ele>964</ele>
+      <time>2022-01-17T21:57:36Z</time>
+    </trkpt>
+    <trkpt lat="49.652049" lon="19.462799">
+      <ele>967</ele>
+      <time>2022-01-17T21:58:11Z</time>
+    </trkpt>
+    <trkpt lat="49.651944" lon="19.46305">
+      <ele>969</ele>
+      <time>2022-01-17T21:58:48Z</time>
+    </trkpt>
+    <trkpt lat="49.651629" lon="19.463386">
+      <ele>975</ele>
+      <time>2022-01-17T22:00:00Z</time>
+    </trkpt>
+    <trkpt lat="49.651067" lon="19.46393">
+      <ele>985</ele>
+      <time>2022-01-17T22:02:06Z</time>
+    </trkpt>
+    <trkpt lat="49.65057" lon="19.464458">
+      <ele>995</ele>
+      <time>2022-01-17T22:04:01Z</time>
+    </trkpt>
+    <trkpt lat="49.650316" lon="19.464783">
+      <ele>1001</ele>
+      <time>2022-01-17T22:05:04Z</time>
+    </trkpt>
+    <trkpt lat="49.649968" lon="19.46537">
+      <ele>1007</ele>
+      <time>2022-01-17T22:06:41Z</time>
+    </trkpt>
+    <trkpt lat="49.649055" lon="19.467065">
+      <ele>1031</ele>
+      <time>2022-01-17T22:11:12Z</time>
+    </trkpt>
+    <trkpt lat="49.648625" lon="19.467832">
+      <ele>1043</ele>
+      <time>2022-01-17T22:13:17Z</time>
+    </trkpt>
+    <trkpt lat="49.648402" lon="19.468213">
+      <ele>1047</ele>
+      <time>2022-01-17T22:14:20Z</time>
+    </trkpt>
+    <trkpt lat="49.648035" lon="19.468819">
+      <ele>1051</ele>
+      <time>2022-01-17T22:16:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

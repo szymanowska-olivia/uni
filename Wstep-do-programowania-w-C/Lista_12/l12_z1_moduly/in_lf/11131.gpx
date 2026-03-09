@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:00Z</time>
+    <bounds maxlat="50.0254706" maxlon="16.82649" minlat="50.0202218" minlon="16.8217896"/>
+  </metadata>
+  <wpt lat="50.020222" lon="16.82179">
+    <ele>793</ele>
+    <name>Cecel, silnice</name>
+    <link href="https://mapa-turystyczna.pl/node/7837">
+      <text>Cecel, silnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.025471" lon="16.82649">
+    <ele>840</ele>
+    <name>Hruby les</name>
+    <link href="https://mapa-turystyczna.pl/node/7840">
+      <text>Hruby les</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cecel, silnice - Hruby les</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0202218,16.8217896;50.02297395258187,16.825385750000013;50.0254706,16.82649">
+    <text>Cecel, silnice - Hruby les</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0202218" lon="16.8217896">
+      <ele>793</ele>
+      <time>2022-01-17T23:29:00Z</time>
+    </trkpt>
+    <trkpt lat="50.02091" lon="16.8228833">
+      <ele>800</ele>
+      <time>2022-01-17T23:31:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0219928" lon="16.8243317">
+      <ele>815</ele>
+      <time>2022-01-17T23:34:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0224759" lon="16.8250183">
+      <ele>823</ele>
+      <time>2022-01-17T23:36:23Z</time>
+    </trkpt>
+    <trkpt lat="50.023472" lon="16.8257532">
+      <ele>834</ele>
+      <time>2022-01-17T23:39:03Z</time>
+    </trkpt>
+    <trkpt lat="50.024468" lon="16.8260644">
+      <ele>837</ele>
+      <time>2022-01-17T23:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0249402" lon="16.8261663">
+      <ele>838</ele>
+      <time>2022-01-17T23:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0254706" lon="16.82649">
+      <ele>840</ele>
+      <time>2022-01-17T23:44:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

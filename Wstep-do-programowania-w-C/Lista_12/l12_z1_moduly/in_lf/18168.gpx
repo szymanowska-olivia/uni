@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:27Z</time>
+    <bounds maxlat="52.5126467" maxlon="16.9437743" minlat="52.5103124" minlon="16.9396544"/>
+  </metadata>
+  <wpt lat="52.510312" lon="16.943774">
+    <ele>82</ele>
+    <name>Rozejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12346">
+      <text>Rozejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.512647" lon="16.939654">
+    <ele>67</ele>
+    <name>Lysy Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/12345">
+      <text>Lysy Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki spacerowej - Lysy Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5103124,16.9437743;52.511254703442916,16.94239915000001;52.5126467,16.9396544">
+    <text>Rozejscie sciezki spacerowej - Lysy Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5103124" lon="16.9437743">
+      <ele>82</ele>
+      <time>2022-01-18T01:26:27Z</time>
+    </trkpt>
+    <trkpt lat="52.5107046" lon="16.943118">
+      <ele>81</ele>
+      <time>2022-01-18T01:27:15Z</time>
+    </trkpt>
+    <trkpt lat="52.5118048" lon="16.9416803">
+      <ele>79</ele>
+      <time>2022-01-18T01:29:14Z</time>
+    </trkpt>
+    <trkpt lat="52.5121378" lon="16.941176">
+      <ele>77</ele>
+      <time>2022-01-18T01:29:52Z</time>
+    </trkpt>
+    <trkpt lat="52.5123761" lon="16.9408864">
+      <ele>76</ele>
+      <time>2022-01-18T01:30:18Z</time>
+    </trkpt>
+    <trkpt lat="52.5125002" lon="16.9405806">
+      <ele>74</ele>
+      <time>2022-01-18T01:30:37Z</time>
+    </trkpt>
+    <trkpt lat="52.5125851" lon="16.9403285">
+      <ele>72</ele>
+      <time>2022-01-18T01:30:52Z</time>
+    </trkpt>
+    <trkpt lat="52.5125981" lon="16.9401568">
+      <ele>71</ele>
+      <time>2022-01-18T01:31:01Z</time>
+    </trkpt>
+    <trkpt lat="52.5126467" lon="16.9396544">
+      <ele>67</ele>
+      <time>2022-01-18T01:31:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

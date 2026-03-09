@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:26Z</time>
+    <bounds maxlat="50.8499844" maxlon="16.2917161" minlat="50.8490501" minlon="16.2858025"/>
+  </metadata>
+  <wpt lat="50.84905" lon="16.285802">
+    <ele>316</ele>
+    <name>Pelcznica, ul. Solna</name>
+    <link href="https://mapa-turystyczna.pl/node/8126">
+      <text>Pelcznica, ul. Solna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.849984" lon="16.291716">
+    <ele>309</ele>
+    <name>Pelcznica</name>
+    <link href="https://mapa-turystyczna.pl/node/2601">
+      <text>Pelcznica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pelcznica, ul. Solna - Pelcznica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8490501,16.2858025;50.849478400037185,16.288585499999993;50.8499844,16.2917161">
+    <text>Pelcznica, ul. Solna - Pelcznica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8490501" lon="16.2858025">
+      <ele>316</ele>
+      <time>2022-01-17T23:37:26Z</time>
+    </trkpt>
+    <trkpt lat="50.849197" lon="16.2869176">
+      <ele>316</ele>
+      <time>2022-01-17T23:38:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8494195" lon="16.2882873">
+      <ele>315</ele>
+      <time>2022-01-17T23:39:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8495373" lon="16.2888837">
+      <ele>315</ele>
+      <time>2022-01-17T23:40:01Z</time>
+    </trkpt>
+    <trkpt lat="50.849555" lon="16.289092">
+      <ele>314</ele>
+      <time>2022-01-17T23:40:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8495865" lon="16.2900719">
+      <ele>312</ele>
+      <time>2022-01-17T23:40:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8496092" lon="16.2905618">
+      <ele>311</ele>
+      <time>2022-01-17T23:41:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8496467" lon="16.2907438">
+      <ele>311</ele>
+      <time>2022-01-17T23:41:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8499844" lon="16.2917161">
+      <ele>309</ele>
+      <time>2022-01-17T23:42:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

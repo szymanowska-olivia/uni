@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:06Z</time>
+    <bounds maxlat="54.0762389" maxlon="14.9934917" minlat="54.0734908" minlon="14.9926659"/>
+  </metadata>
+  <wpt lat="54.073491" lon="14.993492">
+    <ele>8</ele>
+    <name>Trzesacz, stacja kolei waskotorowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12564">
+      <text>Trzesacz, stacja kolei waskotorowej</text>
+    </link>
+  </wpt>
+  <wpt lat="54.076198" lon="14.992666">
+    <ele>11</ele>
+    <name>Trzesacz</name>
+    <link href="https://mapa-turystyczna.pl/node/12562">
+      <text>Trzesacz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzesacz, stacja kolei waskotorowej - Trzesacz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0734908,14.9934917;54.075591605046654,14.993356950000019;54.0761977,14.9926659">
+    <text>Trzesacz, stacja kolei waskotorowej - Trzesacz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0734908" lon="14.9934917">
+      <ele>8</ele>
+      <time>2022-01-18T01:33:06Z</time>
+    </trkpt>
+    <trkpt lat="54.0746704" lon="14.993337">
+      <ele>16</ele>
+      <time>2022-01-18T01:35:00Z</time>
+    </trkpt>
+    <trkpt lat="54.0749443" lon="14.9934443">
+      <ele>16</ele>
+      <time>2022-01-18T01:35:27Z</time>
+    </trkpt>
+    <trkpt lat="54.0762389" lon="14.9932696">
+      <ele>11</ele>
+      <time>2022-01-18T01:37:32Z</time>
+    </trkpt>
+    <trkpt lat="54.0761977" lon="14.9926659">
+      <ele>11</ele>
+      <time>2022-01-18T01:38:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

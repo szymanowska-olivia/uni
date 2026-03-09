@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:00Z</time>
+    <bounds maxlat="50.2078698" maxlon="18.9965302" minlat="50.2075897" minlon="18.9948785"/>
+  </metadata>
+  <wpt lat="50.207749" lon="18.994878">
+    <ele>292</ele>
+    <name>Katowice, ul. Konikow Polnych</name>
+    <link href="https://mapa-turystyczna.pl/node/9450">
+      <text>Katowice, ul. Konikow Polnych</text>
+    </link>
+  </wpt>
+  <wpt lat="50.20759" lon="18.99653">
+    <ele>291</ele>
+    <name>Rezerwat Ochojec</name>
+    <link href="https://mapa-turystyczna.pl/node/9139">
+      <text>Rezerwat Ochojec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowice, ul. Konikow Polnych - Rezerwat Ochojec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.207749,18.9948785;50.20775825002971,18.9957886;50.2075897,18.9965302">
+    <text>Katowice, ul. Konikow Polnych - Rezerwat Ochojec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.207749" lon="18.9948785">
+      <ele>292</ele>
+      <time>2022-01-18T00:12:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2077497" lon="18.9948793">
+      <ele>292</ele>
+      <time>2022-01-18T00:12:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2078321" lon="18.9952709">
+      <ele>292</ele>
+      <time>2022-01-18T00:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2078698" lon="18.9954587">
+      <ele>291</ele>
+      <time>2022-01-18T00:12:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2078115" lon="18.9955928">
+      <ele>292</ele>
+      <time>2022-01-18T00:12:52Z</time>
+    </trkpt>
+    <trkpt lat="50.207705" lon="18.9959844">
+      <ele>291</ele>
+      <time>2022-01-18T00:13:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2075897" lon="18.9965302">
+      <ele>291</ele>
+      <time>2022-01-18T00:14:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:00Z</time>
+    <bounds maxlat="51.3075836" maxlon="17.058628" minlat="51.307028" minlon="17.0576439"/>
+  </metadata>
+  <wpt lat="51.307028" lon="17.057644">
+    <ele>194</ele>
+    <name>Trzebnica</name>
+    <link href="https://mapa-turystyczna.pl/node/10538">
+      <text>Trzebnica</text>
+    </link>
+  </wpt>
+  <wpt lat="51.307584" lon="17.058628">
+    <ele>192</ele>
+    <name>Trzebnica, ul. Waska</name>
+    <link href="https://mapa-turystyczna.pl/node/10539">
+      <text>Trzebnica, ul. Waska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica - Trzebnica, ul. Waska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.307028,17.0576439;51.307305800840844,17.058135949999976;51.3075836,17.058628">
+    <text>Trzebnica - Trzebnica, ul. Waska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.307028" lon="17.0576439">
+      <ele>194</ele>
+      <time>2022-01-18T00:39:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3075836" lon="17.058628">
+      <ele>192</ele>
+      <time>2022-01-18T00:40:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

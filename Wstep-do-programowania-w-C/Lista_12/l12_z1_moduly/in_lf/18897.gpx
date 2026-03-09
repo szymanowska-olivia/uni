@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:08Z</time>
+    <bounds maxlat="50.8121676" maxlon="15.8330369" minlat="50.8071127" minlon="15.832007"/>
+  </metadata>
+  <wpt lat="50.807113" lon="15.832077">
+    <ele>473</ele>
+    <name>Odejscie sciezki na Brzeznik</name>
+    <link href="https://mapa-turystyczna.pl/node/12795">
+      <text>Odejscie sciezki na Brzeznik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.812168" lon="15.832909">
+    <ele>502</ele>
+    <name>Przelecz pod Brzeznikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/8220">
+      <text>Przelecz pod Brzeznikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki na Brzeznik - Przelecz pod Brzeznikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8071127,15.8320766;50.80914156576295,15.832639949999994;50.8121676,15.8329085">
+    <text>Odejscie sciezki na Brzeznik - Przelecz pod Brzeznikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8071127" lon="15.8320766">
+      <ele>473</ele>
+      <time>2022-01-18T01:39:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8073857" lon="15.832007">
+      <ele>477</ele>
+      <time>2022-01-18T01:39:40Z</time>
+    </trkpt>
+    <trkpt lat="50.807928" lon="15.832243">
+      <ele>480</ele>
+      <time>2022-01-18T01:40:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8103551" lon="15.8330369">
+      <ele>508</ele>
+      <time>2022-01-18T01:45:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8107957" lon="15.8329618">
+      <ele>508</ele>
+      <time>2022-01-18T01:46:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8118127" lon="15.8329189">
+      <ele>501</ele>
+      <time>2022-01-18T01:48:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8121676" lon="15.8329085">
+      <ele>502</ele>
+      <time>2022-01-18T01:49:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

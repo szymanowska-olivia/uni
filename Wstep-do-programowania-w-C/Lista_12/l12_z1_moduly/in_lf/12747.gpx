@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:32Z</time>
+    <bounds maxlat="50.8271325" maxlon="15.1446535" minlat="50.8261406" minlon="15.1349716"/>
+  </metadata>
+  <wpt lat="50.826876" lon="15.134972">
+    <ele>792</ele>
+    <name>Zavory</name>
+    <link href="https://mapa-turystyczna.pl/node/8758">
+      <text>Zavory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.826141" lon="15.144654">
+    <ele>789</ele>
+    <name>Pod Olivetskou horou</name>
+    <link href="https://mapa-turystyczna.pl/node/8759">
+      <text>Pod Olivetskou horou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zavory - Pod Olivetskou horou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8268762,15.1349716;50.82692585042821,15.140015700000005;50.8261406,15.1446535">
+    <text>Zavory - Pod Olivetskou horou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8268762" lon="15.1349716">
+      <ele>792</ele>
+      <time>2022-01-17T23:55:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8266988" lon="15.1381087">
+      <ele>793</ele>
+      <time>2022-01-17T23:58:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8266886" lon="15.1386129">
+      <ele>791</ele>
+      <time>2022-01-17T23:59:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8267259" lon="15.1390474">
+      <ele>789</ele>
+      <time>2022-01-17T23:59:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8271258" lon="15.140984">
+      <ele>788</ele>
+      <time>2022-01-18T00:01:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8271325" lon="15.1414722">
+      <ele>787</ele>
+      <time>2022-01-18T00:02:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8270817" lon="15.1418799">
+      <ele>787</ele>
+      <time>2022-01-18T00:02:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8269631" lon="15.1423358">
+      <ele>787</ele>
+      <time>2022-01-18T00:02:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8261406" lon="15.1446535">
+      <ele>789</ele>
+      <time>2022-01-18T00:05:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

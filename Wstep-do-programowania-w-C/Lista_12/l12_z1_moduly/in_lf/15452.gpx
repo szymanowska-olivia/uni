@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:38Z</time>
+    <bounds maxlat="51.5193978" maxlon="17.0410545" minlat="51.5175898" minlon="17.032482"/>
+  </metadata>
+  <wpt lat="51.519398" lon="17.032482">
+    <ele>93</ele>
+    <name>Niezgoda, odejscie do wiezy</name>
+    <link href="https://mapa-turystyczna.pl/node/10558">
+      <text>Niezgoda, odejscie do wiezy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.51769" lon="17.041055">
+    <ele>95</ele>
+    <name>Niezgoda</name>
+    <link href="https://mapa-turystyczna.pl/node/10420">
+      <text>Niezgoda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niezgoda, odejscie do wiezy - Niezgoda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5193978,17.032482;51.518698050356704,17.036192150000005;51.5176897,17.0410545">
+    <text>Niezgoda, odejscie do wiezy - Niezgoda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5193978" lon="17.032482">
+      <ele>93</ele>
+      <time>2022-01-18T00:39:38Z</time>
+    </trkpt>
+    <trkpt lat="51.5188783" lon="17.0349959">
+      <ele>94</ele>
+      <time>2022-01-18T00:42:29Z</time>
+    </trkpt>
+    <trkpt lat="51.5185178" lon="17.0373884">
+      <ele>92</ele>
+      <time>2022-01-18T00:45:08Z</time>
+    </trkpt>
+    <trkpt lat="51.5183642" lon="17.0386437">
+      <ele>92</ele>
+      <time>2022-01-18T00:46:30Z</time>
+    </trkpt>
+    <trkpt lat="51.5182107" lon="17.0391372">
+      <ele>91</ele>
+      <time>2022-01-18T00:47:06Z</time>
+    </trkpt>
+    <trkpt lat="51.5179303" lon="17.0394698">
+      <ele>92</ele>
+      <time>2022-01-18T00:47:42Z</time>
+    </trkpt>
+    <trkpt lat="51.5175898" lon="17.0401624">
+      <ele>93</ele>
+      <time>2022-01-18T00:48:39Z</time>
+    </trkpt>
+    <trkpt lat="51.5176506" lon="17.0404208">
+      <ele>94</ele>
+      <time>2022-01-18T00:48:57Z</time>
+    </trkpt>
+    <trkpt lat="51.5176848" lon="17.0406792">
+      <ele>94</ele>
+      <time>2022-01-18T00:49:14Z</time>
+    </trkpt>
+    <trkpt lat="51.5176882" lon="17.0408884">
+      <ele>94</ele>
+      <time>2022-01-18T00:49:27Z</time>
+    </trkpt>
+    <trkpt lat="51.5176897" lon="17.0410545">
+      <ele>95</ele>
+      <time>2022-01-18T00:49:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

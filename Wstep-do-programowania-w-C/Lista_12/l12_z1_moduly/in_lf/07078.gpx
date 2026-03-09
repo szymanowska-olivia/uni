@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:22Z</time>
+    <bounds maxlat="49.441257" maxlon="20.429075" minlat="49.440575" minlon="20.428006"/>
+  </metadata>
+  <wpt lat="49.440575" lon="20.428006">
+    <ele>420</ele>
+    <name>Kroscienko</name>
+    <link href="https://mapa-turystyczna.pl/node/16">
+      <text>Kroscienko</text>
+    </link>
+  </wpt>
+  <wpt lat="49.441257" lon="20.429015">
+    <ele>421</ele>
+    <name>Kroscienko, rondo</name>
+    <link href="https://mapa-turystyczna.pl/node/4823">
+      <text>Kroscienko, rondo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kroscienko - Kroscienko, rondo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.440575,20.428006;49.44076500000123,20.42886099999999;49.441257,20.429015">
+    <text>Kroscienko - Kroscienko, rondo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.440575" lon="20.428006">
+      <ele>420</ele>
+      <time>2022-01-17T22:17:22Z</time>
+    </trkpt>
+    <trkpt lat="49.440617" lon="20.428149">
+      <ele>420</ele>
+      <time>2022-01-17T22:17:33Z</time>
+    </trkpt>
+    <trkpt lat="49.440683" lon="20.428456">
+      <ele>421</ele>
+      <time>2022-01-17T22:17:54Z</time>
+    </trkpt>
+    <trkpt lat="49.440754" lon="20.428807">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:19Z</time>
+    </trkpt>
+    <trkpt lat="49.440776" lon="20.428915">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:27Z</time>
+    </trkpt>
+    <trkpt lat="49.440822" lon="20.429018">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:35Z</time>
+    </trkpt>
+    <trkpt lat="49.440847" lon="20.429051">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:39Z</time>
+    </trkpt>
+    <trkpt lat="49.440881" lon="20.429075">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:43Z</time>
+    </trkpt>
+    <trkpt lat="49.440945" lon="20.429057">
+      <ele>422</ele>
+      <time>2022-01-17T22:18:49Z</time>
+    </trkpt>
+    <trkpt lat="49.441174" lon="20.429002">
+      <ele>422</ele>
+      <time>2022-01-17T22:19:13Z</time>
+    </trkpt>
+    <trkpt lat="49.441257" lon="20.429015">
+      <ele>421</ele>
+      <time>2022-01-17T22:19:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

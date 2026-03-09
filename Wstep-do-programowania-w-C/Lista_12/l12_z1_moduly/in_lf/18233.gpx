@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:32Z</time>
+    <bounds maxlat="49.3701108" maxlon="22.0463278" minlat="49.368179" minlon="22.0446467"/>
+  </metadata>
+  <wpt lat="49.370111" lon="22.044647">
+    <ele>658</ele>
+    <name>Wahalowski Wierch</name>
+    <link href="https://mapa-turystyczna.pl/node/12382">
+      <text>Wahalowski Wierch</text>
+    </link>
+  </wpt>
+  <wpt lat="49.368179" lon="22.046328">
+    <ele>656</ele>
+    <name>Pod Wahalowskim Wierchem</name>
+    <link href="https://mapa-turystyczna.pl/node/12383">
+      <text>Pod Wahalowskim Wierchem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wahalowski Wierch - Pod Wahalowskim Wierchem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3701108,22.0446467;49.36925535011094,22.045510650000022;49.368179,22.0463278">
+    <text>Wahalowski Wierch - Pod Wahalowskim Wierchem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3701108" lon="22.0446467">
+      <ele>658</ele>
+      <time>2022-01-18T01:27:32Z</time>
+    </trkpt>
+    <trkpt lat="49.3700333" lon="22.0446485">
+      <ele>658</ele>
+      <time>2022-01-18T01:27:42Z</time>
+    </trkpt>
+    <trkpt lat="49.3699851" lon="22.0446984">
+      <ele>658</ele>
+      <time>2022-01-18T01:27:50Z</time>
+    </trkpt>
+    <trkpt lat="49.3696211" lon="22.0449767">
+      <ele>660</ele>
+      <time>2022-01-18T01:28:44Z</time>
+    </trkpt>
+    <trkpt lat="49.3693598" lon="22.0453764">
+      <ele>658</ele>
+      <time>2022-01-18T01:29:33Z</time>
+    </trkpt>
+    <trkpt lat="49.3691509" lon="22.0456449">
+      <ele>658</ele>
+      <time>2022-01-18T01:30:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3688086" lon="22.0458859">
+      <ele>658</ele>
+      <time>2022-01-18T01:31:00Z</time>
+    </trkpt>
+    <trkpt lat="49.368179" lon="22.0463278">
+      <ele>656</ele>
+      <time>2022-01-18T01:32:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

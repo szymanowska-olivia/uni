@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:03Z</time>
+    <bounds maxlat="51.5562362" maxlon="17.2672927" minlat="51.5562295" minlon="17.2667885"/>
+  </metadata>
+  <wpt lat="51.55623" lon="17.266789">
+    <ele>131</ele>
+    <name>Stawiec</name>
+    <link href="https://mapa-turystyczna.pl/node/10450">
+      <text>Stawiec</text>
+    </link>
+  </wpt>
+  <wpt lat="51.556236" lon="17.267293">
+    <ele>131</ele>
+    <name>Stawiec, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10451">
+      <text>Stawiec, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stawiec - Stawiec, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5562295,17.2667885;51.55623285000014,17.267040600000012;51.5562362,17.2672927">
+    <text>Stawiec - Stawiec, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5562295" lon="17.2667885">
+      <ele>131</ele>
+      <time>2022-01-18T00:37:03Z</time>
+    </trkpt>
+    <trkpt lat="51.5562362" lon="17.2672927">
+      <ele>131</ele>
+      <time>2022-01-18T00:38:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

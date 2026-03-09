@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:33Z</time>
+    <bounds maxlat="50.2296482" maxlon="17.2013283" minlat="50.2295178" minlon="17.200368"/>
+  </metadata>
+  <wpt lat="50.229518" lon="17.200368">
+    <ele>436</ele>
+    <name>Jesenik, nemocnice</name>
+    <link href="https://mapa-turystyczna.pl/node/6202">
+      <text>Jesenik, nemocnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229648" lon="17.201328">
+    <ele>434</ele>
+    <name>Jesenik, Tyrsova</name>
+    <link href="https://mapa-turystyczna.pl/node/6204">
+      <text>Jesenik, Tyrsova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesenik, nemocnice - Jesenik, Tyrsova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2295178,17.200368;50.22958820001114,17.20081600000002;50.2296482,17.2013283">
+    <text>Jesenik, nemocnice - Jesenik, Tyrsova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2295178" lon="17.200368">
+      <ele>436</ele>
+      <time>2022-01-17T22:47:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2295556" lon="17.200588">
+      <ele>435</ele>
+      <time>2022-01-17T22:47:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2296208" lon="17.201044">
+      <ele>434</ele>
+      <time>2022-01-17T22:48:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2296482" lon="17.2013283">
+      <ele>434</ele>
+      <time>2022-01-17T22:48:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

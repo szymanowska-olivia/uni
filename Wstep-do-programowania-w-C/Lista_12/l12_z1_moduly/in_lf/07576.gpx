@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:44Z</time>
+    <bounds maxlat="50.0546934" maxlon="19.8474079" minlat="50.0543283" minlon="19.8458362"/>
+  </metadata>
+  <wpt lat="50.054693" lon="19.845836">
+    <ele>346</ele>
+    <name>Las Wolski, Aleja do Kopca</name>
+    <link href="https://mapa-turystyczna.pl/node/5168">
+      <text>Las Wolski, Aleja do Kopca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.054328" lon="19.847408">
+    <ele>341</ele>
+    <name>Las Wolski, Wolski Dol</name>
+    <link href="https://mapa-turystyczna.pl/node/5120">
+      <text>Las Wolski, Wolski Dol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, Aleja do Kopca - Las Wolski, Wolski Dol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0546934,19.8458362;50.05444410007196,19.846851350000016;50.0543283,19.8474079">
+    <text>Las Wolski, Aleja do Kopca - Las Wolski, Wolski Dol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0546934" lon="19.8458362">
+      <ele>346</ele>
+      <time>2022-01-17T22:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0545272" lon="19.846563">
+      <ele>343</ele>
+      <time>2022-01-17T22:26:39Z</time>
+    </trkpt>
+    <trkpt lat="50.054361" lon="19.8471397">
+      <ele>341</ele>
+      <time>2022-01-17T22:27:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0543283" lon="19.8474079">
+      <ele>341</ele>
+      <time>2022-01-17T22:27:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

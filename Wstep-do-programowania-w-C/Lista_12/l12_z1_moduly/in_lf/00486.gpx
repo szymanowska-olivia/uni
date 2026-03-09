@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:49:13Z</time>
+    <bounds maxlat="49.0779691" maxlon="22.7266958" minlat="49.0745597" minlon="22.7253485"/>
+  </metadata>
+  <wpt lat="49.077969" lon="22.725348">
+    <ele>1285</ele>
+    <name>Przelecz pod Tarnica</name>
+    <link href="https://mapa-turystyczna.pl/node/377">
+      <text>Przelecz pod Tarnica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.07456" lon="22.726325">
+    <ele>1346</ele>
+    <name>Tarnica</name>
+    <link href="https://mapa-turystyczna.pl/node/395">
+      <text>Tarnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Tarnica - Tarnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0779691,22.7253485;49.07609720197719,22.72651794999997;49.0745597,22.7263248">
+    <text>Przelecz pod Tarnica - Tarnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0779691" lon="22.7253485">
+      <ele>1285</ele>
+      <time>2022-01-17T20:49:13Z</time>
+    </trkpt>
+    <trkpt lat="49.0778168" lon="22.7255067">
+      <ele>1287</ele>
+      <time>2022-01-17T20:49:43Z</time>
+    </trkpt>
+    <trkpt lat="49.0775819" lon="22.7257508">
+      <ele>1292</ele>
+      <time>2022-01-17T20:50:29Z</time>
+    </trkpt>
+    <trkpt lat="49.0771118" lon="22.7263355">
+      <ele>1302</ele>
+      <time>2022-01-17T20:52:07Z</time>
+    </trkpt>
+    <trkpt lat="49.0765404" lon="22.7263999">
+      <ele>1315</ele>
+      <time>2022-01-17T20:53:41Z</time>
+    </trkpt>
+    <trkpt lat="49.075654" lon="22.726636">
+      <ele>1335</ele>
+      <time>2022-01-17T20:56:09Z</time>
+    </trkpt>
+    <trkpt lat="49.0754856" lon="22.7266958">
+      <ele>1339</ele>
+      <time>2022-01-17T20:56:37Z</time>
+    </trkpt>
+    <trkpt lat="49.0753016" lon="22.7265873">
+      <ele>1343</ele>
+      <time>2022-01-17T20:57:09Z</time>
+    </trkpt>
+    <trkpt lat="49.0750254" lon="22.7263985">
+      <ele>1346</ele>
+      <time>2022-01-17T20:57:58Z</time>
+    </trkpt>
+    <trkpt lat="49.0745597" lon="22.7263248">
+      <ele>1346</ele>
+      <time>2022-01-17T20:59:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:04Z</time>
+    <bounds maxlat="50.7340487" maxlon="15.6678503" minlat="50.7332903" minlon="15.6649404"/>
+  </metadata>
+  <wpt lat="50.734049" lon="15.66494">
+    <ele>1421</ele>
+    <name>Krakonos</name>
+    <link href="https://mapa-turystyczna.pl/node/1186">
+      <text>Krakonos</text>
+    </link>
+  </wpt>
+  <wpt lat="50.73329" lon="15.66785">
+    <ele>1416</ele>
+    <name>Krakonos, odb. vyhl.</name>
+    <link href="https://mapa-turystyczna.pl/node/1187">
+      <text>Krakonos, odb. vyhl.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krakonos - Krakonos, odb. vyhl.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7340487,15.6649404;50.73362740019456,15.66680715000003;50.7332903,15.6678503">
+    <text>Krakonos - Krakonos, odb. vyhl.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7340487" lon="15.6649404">
+      <ele>1421</ele>
+      <time>2022-01-17T21:03:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7339185" lon="15.6654404">
+      <ele>1424</ele>
+      <time>2022-01-17T21:03:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7337624" lon="15.6663557">
+      <ele>1422</ele>
+      <time>2022-01-17T21:05:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7334924" lon="15.6672586">
+      <ele>1416</ele>
+      <time>2022-01-17T21:07:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7332903" lon="15.6678503">
+      <ele>1416</ele>
+      <time>2022-01-17T21:08:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

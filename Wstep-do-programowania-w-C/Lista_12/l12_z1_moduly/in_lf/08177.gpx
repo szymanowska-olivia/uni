@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:05Z</time>
+    <bounds maxlat="50.4470692" maxlon="16.3749826" minlat="50.4469496" minlon="16.3745803"/>
+  </metadata>
+  <wpt lat="50.447069" lon="16.374983">
+    <ele>737</ele>
+    <name>Skaly Puchacza, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/5685">
+      <text>Skaly Puchacza, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.44695" lon="16.37458">
+    <ele>742</ele>
+    <name>Skaly Puchacza</name>
+    <link href="https://mapa-turystyczna.pl/node/1789">
+      <text>Skaly Puchacza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skaly Puchacza, odejscie szlaku niebieskiego - Skaly Puchacza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4470692,16.3749826;50.4470094000378,16.374781449999983;50.4469496,16.3745803">
+    <text>Skaly Puchacza, odejscie szlaku niebieskiego - Skaly Puchacza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4470692" lon="16.3749826">
+      <ele>737</ele>
+      <time>2022-01-17T22:34:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4469496" lon="16.3745803">
+      <ele>742</ele>
+      <time>2022-01-17T22:35:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:52Z</time>
+    <bounds maxlat="50.368748" maxlon="16.5008385" minlat="50.368424" minlon="16.5005495"/>
+  </metadata>
+  <wpt lat="50.368748" lon="16.500839">
+    <ele>622</ele>
+    <name>Odejscie sciezki do grobu Friedricha Wrede</name>
+    <link href="https://mapa-turystyczna.pl/node/12903">
+      <text>Odejscie sciezki do grobu Friedricha Wrede</text>
+    </link>
+  </wpt>
+  <wpt lat="50.368424" lon="16.50055">
+    <ele>625</ele>
+    <name>Grob Friedricha Wrede</name>
+    <link href="https://mapa-turystyczna.pl/node/12904">
+      <text>Grob Friedricha Wrede</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki do grobu Friedricha Wrede - Grob Friedricha Wrede</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.368748,16.5008385;50.3685204000979,16.50058955;50.368424,16.5005495">
+    <text>Odejscie sciezki do grobu Friedricha Wrede - Grob Friedricha Wrede</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.368748" lon="16.5008385">
+      <ele>622</ele>
+      <time>2022-01-18T01:41:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3686168" lon="16.5006296">
+      <ele>624</ele>
+      <time>2022-01-18T01:42:21Z</time>
+    </trkpt>
+    <trkpt lat="50.368424" lon="16.5005495">
+      <ele>625</ele>
+      <time>2022-01-18T01:42:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

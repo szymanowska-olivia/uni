@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:06Z</time>
+    <bounds maxlat="50.2224034" maxlon="17.3708653" minlat="50.2219778" minlon="17.3700982"/>
+  </metadata>
+  <wpt lat="50.222403" lon="17.370098">
+    <ele>922</ele>
+    <name>Starohori, Kunstschacht</name>
+    <link href="https://mapa-turystyczna.pl/node/6336">
+      <text>Starohori, Kunstschacht</text>
+    </link>
+  </wpt>
+  <wpt lat="50.221978" lon="17.370865">
+    <ele>920</ele>
+    <name>Starohori, Kunstschacht, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6337">
+      <text>Starohori, Kunstschacht, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starohori, Kunstschacht - Starohori, Kunstschacht, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2224034,17.3700982;50.222185450452,17.370578350000017;50.2219778,17.3708653">
+    <text>Starohori, Kunstschacht - Starohori, Kunstschacht, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2224034" lon="17.3700982">
+      <ele>922</ele>
+      <time>2022-01-17T22:51:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2223931" lon="17.3702914">
+      <ele>923</ele>
+      <time>2022-01-17T22:51:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2219778" lon="17.3708653">
+      <ele>920</ele>
+      <time>2022-01-17T22:52:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

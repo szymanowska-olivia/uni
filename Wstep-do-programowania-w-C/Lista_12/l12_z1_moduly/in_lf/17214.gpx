@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:42Z</time>
+    <bounds maxlat="50.7620388" maxlon="16.30075" minlat="50.7613814" minlon="16.2996442"/>
+  </metadata>
+  <wpt lat="50.761381" lon="16.30075">
+    <ele>537</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11721">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762039" lon="16.299644">
+    <ele>524</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11722">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki spacerowej - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7613814,16.30075;50.76179560007996,16.30014625000002;50.7620388,16.2996442">
+    <text>Odejscie sciezki spacerowej - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7613814" lon="16.30075">
+      <ele>537</ele>
+      <time>2022-01-18T01:09:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7614172" lon="16.3007337">
+      <ele>536</ele>
+      <time>2022-01-18T01:09:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7615684" lon="16.3005867">
+      <ele>532</ele>
+      <time>2022-01-18T01:10:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7617091" lon="16.3003796">
+      <ele>528</ele>
+      <time>2022-01-18T01:10:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7618821" lon="16.2999129">
+      <ele>525</ele>
+      <time>2022-01-18T01:11:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7620388" lon="16.2996442">
+      <ele>524</ele>
+      <time>2022-01-18T01:11:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

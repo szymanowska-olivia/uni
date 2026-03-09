@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:10Z</time>
+    <bounds maxlat="53.9660453" maxlon="14.7730756" minlat="53.9655307" minlon="14.771789"/>
+  </metadata>
+  <wpt lat="53.966045" lon="14.773076">
+    <ele>6</ele>
+    <name>Kamien Pomorski, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/8553">
+      <text>Kamien Pomorski, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="53.965531" lon="14.771789">
+    <ele>5</ele>
+    <name>Kamien Pomorski</name>
+    <link href="https://mapa-turystyczna.pl/node/8552">
+      <text>Kamien Pomorski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, dworzec autobusowy - Kamien Pomorski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9660453,14.7730756;53.965788000794184,14.772432300000009;53.9655307,14.771789">
+    <text>Kamien Pomorski, dworzec autobusowy - Kamien Pomorski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9660453" lon="14.7730756">
+      <ele>6</ele>
+      <time>2022-01-17T23:50:10Z</time>
+    </trkpt>
+    <trkpt lat="53.9655307" lon="14.771789">
+      <ele>5</ele>
+      <time>2022-01-17T23:52:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

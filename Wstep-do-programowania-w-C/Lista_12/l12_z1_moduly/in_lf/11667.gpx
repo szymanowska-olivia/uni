@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:57Z</time>
+    <bounds maxlat="50.2978114" maxlon="16.6540512" minlat="50.2972031" minlon="16.6532104"/>
+  </metadata>
+  <wpt lat="50.297811" lon="16.65321">
+    <ele>366</ele>
+    <name>Bystrzyca Klodzka, ul. Okrzei</name>
+    <link href="https://mapa-turystyczna.pl/node/8146">
+      <text>Bystrzyca Klodzka, ul. Okrzei</text>
+    </link>
+  </wpt>
+  <wpt lat="50.297203" lon="16.654051">
+    <ele>361</ele>
+    <name>Bystrzyca Klodzka, ul. Rycerska</name>
+    <link href="https://mapa-turystyczna.pl/node/8145">
+      <text>Bystrzyca Klodzka, ul. Rycerska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystrzyca Klodzka, ul. Okrzei - Bystrzyca Klodzka, ul. Rycerska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2978114,16.6532104;50.29746525072232,16.653707450000006;50.2972031,16.6540512">
+    <text>Bystrzyca Klodzka, ul. Okrzei - Bystrzyca Klodzka, ul. Rycerska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2978114" lon="16.6532104">
+      <ele>366</ele>
+      <time>2022-01-17T23:37:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2977274" lon="16.6533637">
+      <ele>366</ele>
+      <time>2022-01-17T23:38:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2972031" lon="16.6540512">
+      <ele>361</ele>
+      <time>2022-01-17T23:38:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

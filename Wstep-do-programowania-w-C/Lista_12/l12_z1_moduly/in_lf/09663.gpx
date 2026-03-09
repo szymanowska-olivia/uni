@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:50Z</time>
+    <bounds maxlat="50.0360116" maxlon="16.5017116" minlat="50.035002" minlon="16.4998823"/>
+  </metadata>
+  <wpt lat="50.036012" lon="16.499882">
+    <ele>373</ele>
+    <name>Letohrad</name>
+    <link href="https://mapa-turystyczna.pl/node/6781">
+      <text>Letohrad</text>
+    </link>
+  </wpt>
+  <wpt lat="50.035002" lon="16.501712">
+    <ele>361</ele>
+    <name>Letohrad, Jilemnickeho</name>
+    <link href="https://mapa-turystyczna.pl/node/6783">
+      <text>Letohrad, Jilemnickeho</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Letohrad - Letohrad, Jilemnickeho</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0360116,16.4998823;50.03560500032146,16.50071114999999;50.035002,16.5017116">
+    <text>Letohrad - Letohrad, Jilemnickeho</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0360116" lon="16.4998823">
+      <ele>373</ele>
+      <time>2022-01-17T23:01:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0357807" lon="16.5004295">
+      <ele>369</ele>
+      <time>2022-01-17T23:02:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0354293" lon="16.5009928">
+      <ele>363</ele>
+      <time>2022-01-17T23:03:37Z</time>
+    </trkpt>
+    <trkpt lat="50.035002" lon="16.5017116">
+      <ele>361</ele>
+      <time>2022-01-17T23:04:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

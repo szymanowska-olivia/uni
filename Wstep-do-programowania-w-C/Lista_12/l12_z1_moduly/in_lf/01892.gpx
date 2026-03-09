@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:47Z</time>
+    <bounds maxlat="50.8017423" maxlon="15.7302618" minlat="50.8004364" minlon="15.7299757"/>
+  </metadata>
+  <wpt lat="50.800436" lon="15.729976">
+    <ele>695</ele>
+    <name>Domek Mysliwski</name>
+    <link href="https://mapa-turystyczna.pl/node/1369">
+      <text>Domek Mysliwski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.801742" lon="15.730083">
+    <ele>683</ele>
+    <name>Kaplica sw. Anny</name>
+    <link href="https://mapa-turystyczna.pl/node/1163">
+      <text>Kaplica sw. Anny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Domek Mysliwski - Kaplica sw. Anny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8004364,15.7299757;50.80108190017287,15.730261800000012;50.8017423,15.7300831">
+    <text>Domek Mysliwski - Kaplica sw. Anny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8004364" lon="15.7299757">
+      <ele>695</ele>
+      <time>2022-01-17T21:07:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8005445" lon="15.7300741">
+      <ele>694</ele>
+      <time>2022-01-17T21:07:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8007208" lon="15.7302082">
+      <ele>694</ele>
+      <time>2022-01-17T21:08:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8009548" lon="15.7302618">
+      <ele>693</ele>
+      <time>2022-01-17T21:08:36Z</time>
+    </trkpt>
+    <trkpt lat="50.801209" lon="15.7302618">
+      <ele>691</ele>
+      <time>2022-01-17T21:08:58Z</time>
+    </trkpt>
+    <trkpt lat="50.801426" lon="15.730235">
+      <ele>689</ele>
+      <time>2022-01-17T21:09:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8015888" lon="15.7302082">
+      <ele>687</ele>
+      <time>2022-01-17T21:09:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8017423" lon="15.7300831">
+      <ele>683</ele>
+      <time>2022-01-17T21:09:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

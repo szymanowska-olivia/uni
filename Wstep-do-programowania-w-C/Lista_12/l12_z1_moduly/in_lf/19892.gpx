@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:50Z</time>
+    <bounds maxlat="49.602961" maxlon="18.914885" minlat="49.602909" minlon="18.914685"/>
+  </metadata>
+  <wpt lat="49.602909" lon="18.914685">
+    <ele>765</ele>
+    <name>Przelecz Szarcula</name>
+    <link href="https://mapa-turystyczna.pl/node/804">
+      <text>Przelecz Szarcula</text>
+    </link>
+  </wpt>
+  <wpt lat="49.602961" lon="18.914885">
+    <ele>770</ele>
+    <name>Przelecz Szarcula</name>
+    <link href="https://mapa-turystyczna.pl/node/13427">
+      <text>Przelecz Szarcula</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Szarcula - Przelecz Szarcula</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.602909,18.914685;49.60294400000296,18.914833499999986;49.602961,18.914885">
+    <text>Przelecz Szarcula - Przelecz Szarcula</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.602909" lon="18.914685">
+      <ele>765</ele>
+      <time>2022-01-18T01:56:50Z</time>
+    </trkpt>
+    <trkpt lat="49.602927" lon="18.914782">
+      <ele>767</ele>
+      <time>2022-01-18T01:57:18Z</time>
+    </trkpt>
+    <trkpt lat="49.602961" lon="18.914885">
+      <ele>770</ele>
+      <time>2022-01-18T01:57:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

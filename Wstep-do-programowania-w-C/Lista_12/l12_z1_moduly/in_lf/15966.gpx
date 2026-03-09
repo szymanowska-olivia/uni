@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:55Z</time>
+    <bounds maxlat="51.0503351" maxlon="21.0608089" minlat="51.048721" minlon="21.0597208"/>
+  </metadata>
+  <wpt lat="51.050335" lon="21.060809">
+    <ele>209</ele>
+    <name>Starachowice, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10938">
+      <text>Starachowice, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.048721" lon="21.059721">
+    <ele>207</ele>
+    <name>Jezioro Starachowickie</name>
+    <link href="https://mapa-turystyczna.pl/node/3177">
+      <text>Jezioro Starachowickie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starachowice, dworzec autobusowy - Jezioro Starachowickie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0503351,21.0608089;51.0492420529309,21.059984999999998;51.048721,21.0597208">
+    <text>Starachowice, dworzec autobusowy - Jezioro Starachowickie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0503351" lon="21.0608089">
+      <ele>209</ele>
+      <time>2022-01-18T00:48:55Z</time>
+    </trkpt>
+    <trkpt lat="51.0498416" lon="21.0602945">
+      <ele>209</ele>
+      <time>2022-01-18T00:49:55Z</time>
+    </trkpt>
+    <trkpt lat="51.0497631" lon="21.0602492">
+      <ele>209</ele>
+      <time>2022-01-18T00:50:04Z</time>
+    </trkpt>
+    <trkpt lat="51.048721" lon="21.0597208">
+      <ele>207</ele>
+      <time>2022-01-18T00:51:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

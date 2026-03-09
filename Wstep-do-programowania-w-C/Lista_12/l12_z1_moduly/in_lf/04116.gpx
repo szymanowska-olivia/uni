@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:38:11Z</time>
+    <bounds maxlat="50.6874793" maxlon="17.1667654" minlat="50.6865549" minlon="17.1664863"/>
+  </metadata>
+  <wpt lat="50.686555" lon="17.166486">
+    <ele>187</ele>
+    <name>Przeworno</name>
+    <link href="https://mapa-turystyczna.pl/node/2859">
+      <text>Przeworno</text>
+    </link>
+  </wpt>
+  <wpt lat="50.687479" lon="17.166765">
+    <ele>187</ele>
+    <name>Przeworno, Urzad Gminy</name>
+    <link href="https://mapa-turystyczna.pl/node/2887">
+      <text>Przeworno, Urzad Gminy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przeworno - Przeworno, Urzad Gminy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6865549,17.1664863;50.68704385202074,17.1666373;50.6874793,17.1667654">
+    <text>Przeworno - Przeworno, Urzad Gminy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6865549" lon="17.1664863">
+      <ele>187</ele>
+      <time>2022-01-17T21:38:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6866084" lon="17.1665092">
+      <ele>187</ele>
+      <time>2022-01-17T21:38:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6874793" lon="17.1667654">
+      <ele>187</ele>
+      <time>2022-01-17T21:40:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

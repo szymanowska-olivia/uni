@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:03Z</time>
+    <bounds maxlat="51.4973207" maxlon="17.3542782" minlat="51.4798143" minlon="17.3373559"/>
+  </metadata>
+  <wpt lat="51.497321" lon="17.337356">
+    <ele>164</ele>
+    <name>Wierzchowice, szlak niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10561">
+      <text>Wierzchowice, szlak niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.479814" lon="17.351699">
+    <ele>146</ele>
+    <name>Krosnice</name>
+    <link href="https://mapa-turystyczna.pl/node/10442">
+      <text>Krosnice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wierzchowice, szlak niebieski - Krosnice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4973207,17.3373559;51.49140589871518,17.348711600000026;51.4798143,17.3516989">
+    <text>Wierzchowice, szlak niebieski - Krosnice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4973207" lon="17.3373559">
+      <ele>164</ele>
+      <time>2022-01-18T00:38:03Z</time>
+    </trkpt>
+    <trkpt lat="51.497087" lon="17.3381223">
+      <ele>164</ele>
+      <time>2022-01-18T00:39:00Z</time>
+    </trkpt>
+    <trkpt lat="51.4965193" lon="17.3401715">
+      <ele>167</ele>
+      <time>2022-01-18T00:41:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4956643" lon="17.343197">
+      <ele>163</ele>
+      <time>2022-01-18T00:45:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4952168" lon="17.3443665">
+      <ele>164</ele>
+      <time>2022-01-18T00:46:45Z</time>
+    </trkpt>
+    <trkpt lat="51.4946223" lon="17.3456217">
+      <ele>168</ele>
+      <time>2022-01-18T00:48:31Z</time>
+    </trkpt>
+    <trkpt lat="51.4939343" lon="17.3466624">
+      <ele>168</ele>
+      <time>2022-01-18T00:50:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4935134" lon="17.3472203">
+      <ele>170</ele>
+      <time>2022-01-18T00:51:12Z</time>
+    </trkpt>
+    <trkpt lat="51.4892983" lon="17.3502029">
+      <ele>160</ele>
+      <time>2022-01-18T00:59:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4835194" lon="17.3542048">
+      <ele>155</ele>
+      <time>2022-01-18T01:10:46Z</time>
+    </trkpt>
+    <trkpt lat="51.4833602" lon="17.3542782">
+      <ele>156</ele>
+      <time>2022-01-18T01:11:04Z</time>
+    </trkpt>
+    <trkpt lat="51.4801617" lon="17.3519212">
+      <ele>150</ele>
+      <time>2022-01-18T01:17:23Z</time>
+    </trkpt>
+    <trkpt lat="51.4798143" lon="17.3516989">
+      <ele>146</ele>
+      <time>2022-01-18T01:18:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

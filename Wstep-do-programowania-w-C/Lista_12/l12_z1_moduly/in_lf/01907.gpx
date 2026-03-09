@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:00Z</time>
+    <bounds maxlat="50.7255593" maxlon="15.6085521" minlat="50.7246482" minlon="15.606814"/>
+  </metadata>
+  <wpt lat="50.725559" lon="15.606814">
+    <ele>713</ele>
+    <name>Spindleruv Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/1375">
+      <text>Spindleruv Mlyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.724648" lon="15.608515">
+    <ele>724</ele>
+    <name>Spindleruv Mlyn, u infocentra</name>
+    <link href="https://mapa-turystyczna.pl/node/1411">
+      <text>Spindleruv Mlyn, u infocentra</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spindleruv Mlyn - Spindleruv Mlyn, u infocentra</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7255593,15.606814;50.72523605016849,15.607573100000023;50.7246482,15.6085145">
+    <text>Spindleruv Mlyn - Spindleruv Mlyn, u infocentra</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7255593" lon="15.606814">
+      <ele>713</ele>
+      <time>2022-01-17T21:08:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7255189" lon="15.6070287">
+      <ele>714</ele>
+      <time>2022-01-17T21:08:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7254292" lon="15.6071949">
+      <ele>715</ele>
+      <time>2022-01-17T21:08:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7253617" lon="15.6072754">
+      <ele>716</ele>
+      <time>2022-01-17T21:09:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7251104" lon="15.6078708">
+      <ele>718</ele>
+      <time>2022-01-17T21:10:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7249066" lon="15.6085521">
+      <ele>720</ele>
+      <time>2022-01-17T21:12:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7246482" lon="15.6085145">
+      <ele>724</ele>
+      <time>2022-01-17T21:13:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

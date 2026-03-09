@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:56Z</time>
+    <bounds maxlat="49.9398295" maxlon="16.9292923" minlat="49.9364597" minlon="16.9283215"/>
+  </metadata>
+  <wpt lat="49.93983" lon="16.928417">
+    <ele>301</ele>
+    <name>Bludov</name>
+    <link href="https://mapa-turystyczna.pl/node/8012">
+      <text>Bludov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.93646" lon="16.929292">
+    <ele>296</ele>
+    <name>Bludov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8015">
+      <text>Bludov, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bludov - Bludov, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9398295,16.928417;49.93741780952558,16.928806900000005;49.9364597,16.9292923">
+    <text>Bludov - Bludov, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9398295" lon="16.928417">
+      <ele>301</ele>
+      <time>2022-01-17T23:33:56Z</time>
+    </trkpt>
+    <trkpt lat="49.9395878" lon="16.9284931">
+      <ele>303</ele>
+      <time>2022-01-17T23:34:17Z</time>
+    </trkpt>
+    <trkpt lat="49.9390837" lon="16.9284395">
+      <ele>300</ele>
+      <time>2022-01-17T23:35:01Z</time>
+    </trkpt>
+    <trkpt lat="49.9386211" lon="16.9283267">
+      <ele>300</ele>
+      <time>2022-01-17T23:35:41Z</time>
+    </trkpt>
+    <trkpt lat="49.9383759" lon="16.9283215">
+      <ele>299</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9364597" lon="16.9292923">
+      <ele>296</ele>
+      <time>2022-01-17T23:38:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

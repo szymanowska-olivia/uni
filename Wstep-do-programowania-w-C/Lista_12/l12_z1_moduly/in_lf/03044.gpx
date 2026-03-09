@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:12Z</time>
+    <bounds maxlat="50.3085973" maxlon="17.1001232" minlat="50.3080765" minlon="17.0978969"/>
+  </metadata>
+  <wpt lat="50.308076" lon="17.097897">
+    <ele>359</ele>
+    <name>Zulova, most</name>
+    <link href="https://mapa-turystyczna.pl/node/2140">
+      <text>Zulova, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.308597" lon="17.100123">
+    <ele>367</ele>
+    <name>Zulova</name>
+    <link href="https://mapa-turystyczna.pl/node/2179">
+      <text>Zulova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zulova, most - Zulova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3080765,17.0978969;50.30852280002215,17.09913505000001;50.3085973,17.1001232">
+    <text>Zulova, most - Zulova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3080765" lon="17.0978969">
+      <ele>359</ele>
+      <time>2022-01-17T21:24:12Z</time>
+    </trkpt>
+    <trkpt lat="50.308223" lon="17.0983435">
+      <ele>359</ele>
+      <time>2022-01-17T21:24:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3084769" lon="17.0989249">
+      <ele>362</ele>
+      <time>2022-01-17T21:25:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3085687" lon="17.0993452">
+      <ele>365</ele>
+      <time>2022-01-17T21:26:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3085938" lon="17.0996243">
+      <ele>366</ele>
+      <time>2022-01-17T21:26:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3085973" lon="17.1001232">
+      <ele>367</ele>
+      <time>2022-01-17T21:27:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

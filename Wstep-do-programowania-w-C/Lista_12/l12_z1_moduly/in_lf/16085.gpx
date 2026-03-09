@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:46Z</time>
+    <bounds maxlat="49.505012" maxlon="20.143783" minlat="49.502866" minlon="20.142202"/>
+  </metadata>
+  <wpt lat="49.502866" lon="20.143774">
+    <ele>707</ele>
+    <name>Poczatek sciezki edukacyjnej "Z Lopusznej na Jankowki"</name>
+    <link href="https://mapa-turystyczna.pl/node/10998">
+      <text>Poczatek sciezki edukacyjnej "Z Lopusznej na Jankowki"</text>
+    </link>
+  </wpt>
+  <wpt lat="49.505012" lon="20.142202">
+    <ele>729</ele>
+    <name>Chlapkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10999">
+      <text>Chlapkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poczatek sciezki edukacyjnej &quot;Z Lopusznej na Jankowki&quot; - Chlapkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.502866,20.143774;49.503923502458576,20.143014499999985;49.505012,20.142202">
+    <text>Poczatek sciezki edukacyjnej &quot;Z Lopusznej na Jankowki&quot; - Chlapkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.502866" lon="20.143774">
+      <ele>707</ele>
+      <time>2022-01-18T00:50:46Z</time>
+    </trkpt>
+    <trkpt lat="49.502926" lon="20.143779">
+      <ele>708</ele>
+      <time>2022-01-18T00:50:53Z</time>
+    </trkpt>
+    <trkpt lat="49.503055" lon="20.143783">
+      <ele>711</ele>
+      <time>2022-01-18T00:51:10Z</time>
+    </trkpt>
+    <trkpt lat="49.503194" lon="20.143723">
+      <ele>712</ele>
+      <time>2022-01-18T00:51:27Z</time>
+    </trkpt>
+    <trkpt lat="49.503433" lon="20.143527">
+      <ele>714</ele>
+      <time>2022-01-18T00:52:01Z</time>
+    </trkpt>
+    <trkpt lat="49.504414" lon="20.142502">
+      <ele>724</ele>
+      <time>2022-01-18T00:54:27Z</time>
+    </trkpt>
+    <trkpt lat="49.504583" lon="20.142344">
+      <ele>725</ele>
+      <time>2022-01-18T00:54:52Z</time>
+    </trkpt>
+    <trkpt lat="49.504687" lon="20.142301">
+      <ele>725</ele>
+      <time>2022-01-18T00:55:05Z</time>
+    </trkpt>
+    <trkpt lat="49.504834" lon="20.14226">
+      <ele>727</ele>
+      <time>2022-01-18T00:55:23Z</time>
+    </trkpt>
+    <trkpt lat="49.505012" lon="20.142202">
+      <ele>729</ele>
+      <time>2022-01-18T00:55:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

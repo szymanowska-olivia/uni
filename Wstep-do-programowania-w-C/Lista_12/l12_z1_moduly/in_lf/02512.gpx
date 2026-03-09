@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:18Z</time>
+    <bounds maxlat="50.452374" maxlon="16.3745803" minlat="50.4469496" minlon="16.3704711"/>
+  </metadata>
+  <wpt lat="50.44695" lon="16.37458">
+    <ele>742</ele>
+    <name>Skaly Puchacza</name>
+    <link href="https://mapa-turystyczna.pl/node/1789">
+      <text>Skaly Puchacza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.452374" lon="16.372161">
+    <ele>753</ele>
+    <name>Dylowka, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1790">
+      <text>Dylowka, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skaly Puchacza - Dylowka, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4469496,16.3745803;50.449299808658644,16.371589599999997;50.452374,16.3721608">
+    <text>Skaly Puchacza - Dylowka, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4469496" lon="16.3745803">
+      <ele>742</ele>
+      <time>2022-01-17T21:17:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4473498" lon="16.3739623">
+      <ele>756</ele>
+      <time>2022-01-17T21:18:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4483946" lon="16.3727081">
+      <ele>757</ele>
+      <time>2022-01-17T21:21:33Z</time>
+    </trkpt>
+    <trkpt lat="50.450205" lon="16.3704711">
+      <ele>762</ele>
+      <time>2022-01-17T21:26:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4505091" lon="16.3708949">
+      <ele>762</ele>
+      <time>2022-01-17T21:27:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4508165" lon="16.371088">
+      <ele>762</ele>
+      <time>2022-01-17T21:28:25Z</time>
+    </trkpt>
+    <trkpt lat="50.45155" lon="16.3717787">
+      <ele>760</ele>
+      <time>2022-01-17T21:30:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4518087" lon="16.3718525">
+      <ele>757</ele>
+      <time>2022-01-17T21:30:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4521456" lon="16.3719553">
+      <ele>754</ele>
+      <time>2022-01-17T21:31:42Z</time>
+    </trkpt>
+    <trkpt lat="50.452374" lon="16.3721608">
+      <ele>753</ele>
+      <time>2022-01-17T21:32:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

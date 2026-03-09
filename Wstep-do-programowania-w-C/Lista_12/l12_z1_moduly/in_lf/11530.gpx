@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:02Z</time>
+    <bounds maxlat="50.9180137" maxlon="15.3274244" minlat="50.9164758" minlon="15.3229231"/>
+  </metadata>
+  <wpt lat="50.918014" lon="15.327424">
+    <ele>609</ele>
+    <name>Swieradowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2261">
+      <text>Swieradowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.916476" lon="15.322923">
+    <ele>592</ele>
+    <name>Pod Swieradowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8081">
+      <text>Pod Swieradowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swieradowka - Pod Swieradowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9180137,15.3274244;50.91706975021802,15.32527959999999;50.9164758,15.3229231">
+    <text>Swieradowka - Pod Swieradowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9180137" lon="15.3274244">
+      <ele>609</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+    <trkpt lat="50.9178463" lon="15.3270824">
+      <ele>609</ele>
+      <time>2022-01-17T23:36:27Z</time>
+    </trkpt>
+    <trkpt lat="50.9175673" lon="15.3266278">
+      <ele>609</ele>
+      <time>2022-01-17T23:37:04Z</time>
+    </trkpt>
+    <trkpt lat="50.917383" lon="15.3261785">
+      <ele>609</ele>
+      <time>2022-01-17T23:37:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9172122" lon="15.3257212">
+      <ele>609</ele>
+      <time>2022-01-17T23:38:05Z</time>
+    </trkpt>
+    <trkpt lat="50.9169273" lon="15.324838">
+      <ele>608</ele>
+      <time>2022-01-17T23:39:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9166525" lon="15.3238209">
+      <ele>597</ele>
+      <time>2022-01-17T23:40:07Z</time>
+    </trkpt>
+    <trkpt lat="50.9165708" lon="15.3234437">
+      <ele>594</ele>
+      <time>2022-01-17T23:40:31Z</time>
+    </trkpt>
+    <trkpt lat="50.9164758" lon="15.3229231">
+      <ele>592</ele>
+      <time>2022-01-17T23:41:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

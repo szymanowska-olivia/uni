@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:24Z</time>
+    <bounds maxlat="51.0781172" maxlon="20.581212" minlat="51.0703704" minlon="20.5501628"/>
+  </metadata>
+  <wpt lat="51.07037" lon="20.581208">
+    <ele>268</ele>
+    <name>Luta</name>
+    <link href="https://mapa-turystyczna.pl/node/7271">
+      <text>Luta</text>
+    </link>
+  </wpt>
+  <wpt lat="51.078117" lon="20.550163">
+    <ele>264</ele>
+    <name>Krasna</name>
+    <link href="https://mapa-turystyczna.pl/node/3204">
+      <text>Krasna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Luta - Krasna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0703704,20.5812081;51.07375591469493,20.56030155000001;51.0781172,20.5501628">
+    <text>Luta - Krasna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0703704" lon="20.5812081">
+      <ele>268</ele>
+      <time>2022-01-17T23:14:24Z</time>
+    </trkpt>
+    <trkpt lat="51.0703785" lon="20.581212">
+      <ele>268</ele>
+      <time>2022-01-17T23:14:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0714942" lon="20.5746138">
+      <ele>267</ele>
+      <time>2022-01-17T23:21:15Z</time>
+    </trkpt>
+    <trkpt lat="51.0717875" lon="20.5719209">
+      <ele>266</ele>
+      <time>2022-01-17T23:24:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0725897" lon="20.5669212">
+      <ele>270</ele>
+      <time>2022-01-17T23:29:10Z</time>
+    </trkpt>
+    <trkpt lat="51.0749221" lon="20.5536819">
+      <ele>268</ele>
+      <time>2022-01-17T23:42:56Z</time>
+    </trkpt>
+    <trkpt lat="51.0760276" lon="20.5534458">
+      <ele>264</ele>
+      <time>2022-01-17T23:44:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0762029" lon="20.5532312">
+      <ele>264</ele>
+      <time>2022-01-17T23:45:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0773758" lon="20.5515468">
+      <ele>264</ele>
+      <time>2022-01-17T23:47:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0781172" lon="20.5501628">
+      <ele>264</ele>
+      <time>2022-01-17T23:49:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

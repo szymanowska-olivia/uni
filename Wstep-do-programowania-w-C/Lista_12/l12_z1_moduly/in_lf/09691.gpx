@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:20Z</time>
+    <bounds maxlat="50.1194327" maxlon="17.387597" minlat="50.1174859" minlon="17.3852742"/>
+  </metadata>
+  <wpt lat="50.119433" lon="17.385274">
+    <ele>530</ele>
+    <name>Vrbno pod Pradedem, Sklarenska</name>
+    <link href="https://mapa-turystyczna.pl/node/6800">
+      <text>Vrbno pod Pradedem, Sklarenska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.117486" lon="17.387597">
+    <ele>526</ele>
+    <name>Vrbno pod Pradedem, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6801">
+      <text>Vrbno pod Pradedem, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrbno pod Pradedem, Sklarenska - Vrbno pod Pradedem, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1194327,17.3852742;50.11807925367685,17.38690764999999;50.1174859,17.387597">
+    <text>Vrbno pod Pradedem, Sklarenska - Vrbno pod Pradedem, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1194327" lon="17.3852742">
+      <ele>530</ele>
+      <time>2022-01-17T23:02:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1186726" lon="17.3862183">
+      <ele>529</ele>
+      <time>2022-01-17T23:04:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1174859" lon="17.387597">
+      <ele>526</ele>
+      <time>2022-01-17T23:07:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

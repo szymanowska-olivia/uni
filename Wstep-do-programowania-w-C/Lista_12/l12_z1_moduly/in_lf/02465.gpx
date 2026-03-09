@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:49Z</time>
+    <bounds maxlat="50.1982585" maxlon="16.8632681" minlat="50.1977744" minlon="16.8626967"/>
+  </metadata>
+  <wpt lat="50.198259" lon="16.862697">
+    <ele>1214</ele>
+    <name>Przy przeleczy Stribrnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1769">
+      <text>Przy przeleczy Stribrnicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.197774" lon="16.863268">
+    <ele>1223</ele>
+    <name>Stribrnicka, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/1719">
+      <text>Stribrnicka, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przy przeleczy Stribrnicka - Stribrnicka, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1982585,16.8626967;50.19787825011296,16.863084999999998;50.1977744,16.8632681">
+    <text>Przy przeleczy Stribrnicka - Stribrnicka, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1982585" lon="16.8626967">
+      <ele>1214</ele>
+      <time>2022-01-17T21:16:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1980963" lon="16.8627993">
+      <ele>1215</ele>
+      <time>2022-01-17T21:17:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1979821" lon="16.8629019">
+      <ele>1217</ele>
+      <time>2022-01-17T21:17:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1977744" lon="16.8632681">
+      <ele>1223</ele>
+      <time>2022-01-17T21:18:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

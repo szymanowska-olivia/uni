@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:03Z</time>
+    <bounds maxlat="50.7862344" maxlon="15.3236532" minlat="50.7856851" minlon="15.3207833"/>
+  </metadata>
+  <wpt lat="50.786234" lon="15.320783">
+    <ele>752</ele>
+    <name>Sous</name>
+    <link href="https://mapa-turystyczna.pl/node/3092">
+      <text>Sous</text>
+    </link>
+  </wpt>
+  <wpt lat="50.785685" lon="15.323653">
+    <ele>777</ele>
+    <name>Sous, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3098">
+      <text>Sous, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sous - Sous, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7862344,15.3207833;50.78619460000094,15.322329750000003;50.7856851,15.3236532">
+    <text>Sous - Sous, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7862344" lon="15.3207833">
+      <ele>752</ele>
+      <time>2022-01-17T21:43:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7862005" lon="15.3211722">
+      <ele>755</ele>
+      <time>2022-01-17T21:43:40Z</time>
+    </trkpt>
+    <trkpt lat="50.786187" lon="15.3216617">
+      <ele>757</ele>
+      <time>2022-01-17T21:44:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7862039" lon="15.3221747">
+      <ele>760</ele>
+      <time>2022-01-17T21:45:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7861853" lon="15.3224848">
+      <ele>762</ele>
+      <time>2022-01-17T21:45:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7859787" lon="15.3232353">
+      <ele>769</ele>
+      <time>2022-01-17T21:47:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7856851" lon="15.3236532">
+      <ele>777</ele>
+      <time>2022-01-17T21:48:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

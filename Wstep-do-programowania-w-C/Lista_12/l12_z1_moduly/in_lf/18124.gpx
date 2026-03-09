@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:42Z</time>
+    <bounds maxlat="51.6981826" maxlon="21.5638876" minlat="51.697953" minlon="21.5637571"/>
+  </metadata>
+  <wpt lat="51.697953" lon="21.563888">
+    <ele>113</ele>
+    <name>Maciejowice, ul. Polikowska</name>
+    <link href="https://mapa-turystyczna.pl/node/12323">
+      <text>Maciejowice, ul. Polikowska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.698183" lon="21.563757">
+    <ele>115</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12324">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maciejowice, ul. Polikowska - Rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.697953,21.5638876;51.69806780014563,21.56382234999999;51.6981826,21.5637571">
+    <text>Maciejowice, ul. Polikowska - Rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.697953" lon="21.5638876">
+      <ele>113</ele>
+      <time>2022-01-18T01:25:42Z</time>
+    </trkpt>
+    <trkpt lat="51.6981826" lon="21.5637571">
+      <ele>115</ele>
+      <time>2022-01-18T01:26:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

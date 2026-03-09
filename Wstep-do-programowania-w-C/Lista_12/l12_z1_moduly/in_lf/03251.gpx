@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:13Z</time>
+    <bounds maxlat="50.8545497" maxlon="15.3610486" minlat="50.8539672" minlon="15.3585219"/>
+  </metadata>
+  <wpt lat="50.854021" lon="15.358522">
+    <ele>838</ele>
+    <name>Izerska Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/2296">
+      <text>Izerska Hala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.85455" lon="15.361049">
+    <ele>846</ele>
+    <name>Chatka Gorzystow</name>
+    <link href="https://mapa-turystyczna.pl/node/2315">
+      <text>Chatka Gorzystow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Izerska Hala - Chatka Gorzystow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8540214,15.3585219;50.854285550748045,15.360060849999986;50.8545497,15.3610486">
+    <text>Izerska Hala - Chatka Gorzystow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8540214" lon="15.3585219">
+      <ele>838</ele>
+      <time>2022-01-17T21:27:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8539672" lon="15.3586963">
+      <ele>839</ele>
+      <time>2022-01-17T21:27:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8540214" lon="15.3590731">
+      <ele>840</ele>
+      <time>2022-01-17T21:28:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8545497" lon="15.3610486">
+      <ele>846</ele>
+      <time>2022-01-17T21:32:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

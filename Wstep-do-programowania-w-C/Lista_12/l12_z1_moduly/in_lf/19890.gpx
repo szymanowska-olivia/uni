@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:47Z</time>
+    <bounds maxlat="49.604058" maxlon="18.902772" minlat="49.603925" minlon="18.90253"/>
+  </metadata>
+  <wpt lat="49.604058" lon="18.90253">
+    <ele>761</ele>
+    <name>Przelecz Kubalonka</name>
+    <link href="https://mapa-turystyczna.pl/node/800">
+      <text>Przelecz Kubalonka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.603925" lon="18.902772">
+    <ele>758</ele>
+    <name>Przelecz Kubalonka</name>
+    <link href="https://mapa-turystyczna.pl/node/13426">
+      <text>Przelecz Kubalonka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Kubalonka - Przelecz Kubalonka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.604058,18.90253;49.60396850001941,18.902722499999996;49.603925,18.902772">
+    <text>Przelecz Kubalonka - Przelecz Kubalonka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.604058" lon="18.90253">
+      <ele>761</ele>
+      <time>2022-01-18T01:56:47Z</time>
+    </trkpt>
+    <trkpt lat="49.604012" lon="18.902673">
+      <ele>760</ele>
+      <time>2022-01-18T01:57:16Z</time>
+    </trkpt>
+    <trkpt lat="49.603925" lon="18.902772">
+      <ele>758</ele>
+      <time>2022-01-18T01:57:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

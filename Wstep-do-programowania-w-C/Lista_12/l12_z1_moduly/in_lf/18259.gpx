@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:59Z</time>
+    <bounds maxlat="52.2937271" maxlon="20.8384648" minlat="52.2930133" minlon="20.8365738"/>
+  </metadata>
+  <wpt lat="52.293013" lon="20.838465">
+    <ele>102</ele>
+    <name>Lesny Ogrodek Botaniczny</name>
+    <link href="https://mapa-turystyczna.pl/node/12395">
+      <text>Lesny Ogrodek Botaniczny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.293727" lon="20.836574">
+    <ele>101</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12396">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesny Ogrodek Botaniczny - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2930133,20.8384648;52.29340535116859,20.837453900000003;52.2937271,20.8365738">
+    <text>Lesny Ogrodek Botaniczny - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2930133" lon="20.8384648">
+      <ele>102</ele>
+      <time>2022-01-18T01:27:59Z</time>
+    </trkpt>
+    <trkpt lat="52.2930836" lon="20.838334">
+      <ele>103</ele>
+      <time>2022-01-18T01:28:08Z</time>
+    </trkpt>
+    <trkpt lat="52.2937271" lon="20.8365738">
+      <ele>101</ele>
+      <time>2022-01-18T01:29:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

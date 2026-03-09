@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:29Z</time>
+    <bounds maxlat="50.9990882" maxlon="16.1370009" minlat="50.9954354" minlon="16.1346479"/>
+  </metadata>
+  <wpt lat="50.995435" lon="16.134648">
+    <ele>328</ele>
+    <name>Pod Radogostem</name>
+    <link href="https://mapa-turystyczna.pl/node/9889">
+      <text>Pod Radogostem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.999088" lon="16.137001">
+    <ele>292</ele>
+    <name>Klonice</name>
+    <link href="https://mapa-turystyczna.pl/node/2839">
+      <text>Klonice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Radogostem - Klonice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9954354,16.1346479;50.99726715114133,16.135734799999994;50.9990882,16.1370009">
+    <text>Pod Radogostem - Klonice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9954354" lon="16.1346479">
+      <ele>328</ele>
+      <time>2022-01-18T00:23:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9957176" lon="16.1348641">
+      <ele>326</ele>
+      <time>2022-01-18T00:23:53Z</time>
+    </trkpt>
+    <trkpt lat="50.9958951" lon="16.1348925">
+      <ele>326</ele>
+      <time>2022-01-18T00:24:06Z</time>
+    </trkpt>
+    <trkpt lat="50.9962969" lon="16.1349515">
+      <ele>327</ele>
+      <time>2022-01-18T00:24:36Z</time>
+    </trkpt>
+    <trkpt lat="50.9965534" lon="16.1350749">
+      <ele>324</ele>
+      <time>2022-01-18T00:24:56Z</time>
+    </trkpt>
+    <trkpt lat="50.9969417" lon="16.1354504">
+      <ele>317</ele>
+      <time>2022-01-18T00:25:31Z</time>
+    </trkpt>
+    <trkpt lat="50.9975926" lon="16.1360192">
+      <ele>305</ele>
+      <time>2022-01-18T00:26:27Z</time>
+    </trkpt>
+    <trkpt lat="50.9983759" lon="16.1366361">
+      <ele>295</ele>
+      <time>2022-01-18T00:27:33Z</time>
+    </trkpt>
+    <trkpt lat="50.9990882" lon="16.1370009">
+      <ele>292</ele>
+      <time>2022-01-18T00:28:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

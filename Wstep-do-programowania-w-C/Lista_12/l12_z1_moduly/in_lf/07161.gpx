@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:50Z</time>
+    <bounds maxlat="49.542513" maxlon="20.922213" minlat="49.541768" minlon="20.920667"/>
+  </metadata>
+  <wpt lat="49.542513" lon="20.920667">
+    <ele>767</ele>
+    <name>Baniska</name>
+    <link href="https://mapa-turystyczna.pl/node/4873">
+      <text>Baniska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.541768" lon="20.922213">
+    <ele>773</ele>
+    <name>Pod Uboczem</name>
+    <link href="https://mapa-turystyczna.pl/node/504">
+      <text>Pod Uboczem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Baniska - Pod Uboczem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.542513,20.920667;49.54210050009728,20.921611000000002;49.541768,20.922213">
+    <text>Baniska - Pod Uboczem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.542513" lon="20.920667">
+      <ele>767</ele>
+      <time>2022-01-17T22:18:50Z</time>
+    </trkpt>
+    <trkpt lat="49.542428" lon="20.920908">
+      <ele>769</ele>
+      <time>2022-01-17T22:19:16Z</time>
+    </trkpt>
+    <trkpt lat="49.542198" lon="20.921418">
+      <ele>772</ele>
+      <time>2022-01-17T22:20:14Z</time>
+    </trkpt>
+    <trkpt lat="49.542003" lon="20.921804">
+      <ele>772</ele>
+      <time>2022-01-17T22:20:59Z</time>
+    </trkpt>
+    <trkpt lat="49.541768" lon="20.922213">
+      <ele>773</ele>
+      <time>2022-01-17T22:21:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

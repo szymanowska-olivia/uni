@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:39Z</time>
+    <bounds maxlat="50.6656653" maxlon="17.098605" minlat="50.664584" minlon="17.0953005"/>
+  </metadata>
+  <wpt lat="50.664584" lon="17.098605">
+    <ele>242</ele>
+    <name>Nowina</name>
+    <link href="https://mapa-turystyczna.pl/node/2810">
+      <text>Nowina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.665665" lon="17.095301">
+    <ele>250</ele>
+    <name>Nowina, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/5982">
+      <text>Nowina, rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowina - Nowina, rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.664584,17.098605;50.664960000121475,17.097130999999983;50.6656653,17.0953005">
+    <text>Nowina - Nowina, rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.664584" lon="17.098605">
+      <ele>242</ele>
+      <time>2022-01-17T22:41:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6647778" lon="17.0978916">
+      <ele>244</ele>
+      <time>2022-01-17T22:42:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6648532" lon="17.0976525">
+      <ele>245</ele>
+      <time>2022-01-17T22:43:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6650668" lon="17.0966095">
+      <ele>247</ele>
+      <time>2022-01-17T22:44:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6651354" lon="17.0963328">
+      <ele>248</ele>
+      <time>2022-01-17T22:44:53Z</time>
+    </trkpt>
+    <trkpt lat="50.665219" lon="17.0961334">
+      <ele>248</ele>
+      <time>2022-01-17T22:45:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6656653" lon="17.0953005">
+      <ele>250</ele>
+      <time>2022-01-17T22:46:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

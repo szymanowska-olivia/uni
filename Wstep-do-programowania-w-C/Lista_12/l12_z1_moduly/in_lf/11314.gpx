@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:26Z</time>
+    <bounds maxlat="50.0233076" maxlon="16.9826241" minlat="50.019752" minlon="16.9812252"/>
+  </metadata>
+  <wpt lat="50.023308" lon="16.981225">
+    <ele>481</ele>
+    <name>Rejchartice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7970">
+      <text>Rejchartice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.019752" lon="16.982624">
+    <ele>462</ele>
+    <name>Rejchartice, dolni okraj</name>
+    <link href="https://mapa-turystyczna.pl/node/7973">
+      <text>Rejchartice, dolni okraj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rejchartice, rozc. - Rejchartice, dolni okraj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0233076,16.9812252;50.02206145228501,16.9821775;50.019752,16.9826241">
+    <text>Rejchartice, rozc. - Rejchartice, dolni okraj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0233076" lon="16.9812252">
+      <ele>481</ele>
+      <time>2022-01-17T23:32:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0232193" lon="16.9813422">
+      <ele>480</ele>
+      <time>2022-01-17T23:32:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0231194" lon="16.9815836">
+      <ele>478</ele>
+      <time>2022-01-17T23:32:50Z</time>
+    </trkpt>
+    <trkpt lat="50.02253" lon="16.9820769">
+      <ele>475</ele>
+      <time>2022-01-17T23:33:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0215929" lon="16.9822781">
+      <ele>472</ele>
+      <time>2022-01-17T23:34:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0211517" lon="16.9824015">
+      <ele>471</ele>
+      <time>2022-01-17T23:35:33Z</time>
+    </trkpt>
+    <trkpt lat="50.0207105" lon="16.9826107">
+      <ele>466</ele>
+      <time>2022-01-17T23:36:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0200165" lon="16.9826223">
+      <ele>463</ele>
+      <time>2022-01-17T23:37:05Z</time>
+    </trkpt>
+    <trkpt lat="50.019752" lon="16.9826241">
+      <ele>462</ele>
+      <time>2022-01-17T23:37:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:21Z</time>
+    <bounds maxlat="50.3960879" maxlon="16.3012539" minlat="50.3918899" minlon="16.3005707"/>
+  </metadata>
+  <wpt lat="50.396088" lon="16.300571">
+    <ele>475</ele>
+    <name>Lasek miejski, kalwaria</name>
+    <link href="https://mapa-turystyczna.pl/node/4888">
+      <text>Lasek miejski, kalwaria</text>
+    </link>
+  </wpt>
+  <wpt lat="50.39189" lon="16.300833">
+    <ele>478</ele>
+    <name>Rozdroze pod Jerzykowicami</name>
+    <link href="https://mapa-turystyczna.pl/node/2969">
+      <text>Rozdroze pod Jerzykowicami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lasek miejski, kalwaria - Rozdroze pod Jerzykowicami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3960879,16.3005707;50.39378765146452,16.300955150000004;50.3918899,16.3008328">
+    <text>Lasek miejski, kalwaria - Rozdroze pod Jerzykowicami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3960879" lon="16.3005707">
+      <ele>475</ele>
+      <time>2022-01-17T22:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.395357" lon="16.3012021">
+      <ele>487</ele>
+      <time>2022-01-17T22:21:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3950254" lon="16.3012539">
+      <ele>489</ele>
+      <time>2022-01-17T22:22:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3941603" lon="16.301134">
+      <ele>489</ele>
+      <time>2022-01-17T22:23:59Z</time>
+    </trkpt>
+    <trkpt lat="50.393415" lon="16.3007763">
+      <ele>486</ele>
+      <time>2022-01-17T22:25:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3924164" lon="16.3011285">
+      <ele>488</ele>
+      <time>2022-01-17T22:28:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3918899" lon="16.3008328">
+      <ele>478</ele>
+      <time>2022-01-17T22:29:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

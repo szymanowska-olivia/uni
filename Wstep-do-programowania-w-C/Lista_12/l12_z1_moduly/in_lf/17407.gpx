@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:48Z</time>
+    <bounds maxlat="51.1041069" maxlon="15.5950713" minlat="51.1025104" minlon="15.5936795"/>
+  </metadata>
+  <wpt lat="51.10251" lon="15.593769">
+    <ele>228</ele>
+    <name>Szwajcaria Lwowecka</name>
+    <link href="https://mapa-turystyczna.pl/node/11823">
+      <text>Szwajcaria Lwowecka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.104107" lon="15.595037">
+    <ele>214</ele>
+    <name>Lwowek Slaski, ul. Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/11830">
+      <text>Lwowek Slaski, ul. Graniczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szwajcaria Lwowecka - Lwowek Slaski, ul. Graniczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1025104,15.5937686;51.10353205117899,15.594642149999975;51.1041069,15.5950372">
+    <text>Szwajcaria Lwowecka - Lwowek Slaski, ul. Graniczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1025104" lon="15.5937686">
+      <ele>228</ele>
+      <time>2022-01-18T01:12:48Z</time>
+    </trkpt>
+    <trkpt lat="51.1025545" lon="15.5936844">
+      <ele>225</ele>
+      <time>2022-01-18T01:12:55Z</time>
+    </trkpt>
+    <trkpt lat="51.1026285" lon="15.5936795">
+      <ele>223</ele>
+      <time>2022-01-18T01:13:02Z</time>
+    </trkpt>
+    <trkpt lat="51.1029426" lon="15.593977">
+      <ele>220</ele>
+      <time>2022-01-18T01:13:36Z</time>
+    </trkpt>
+    <trkpt lat="51.1032019" lon="15.594213">
+      <ele>220</ele>
+      <time>2022-01-18T01:14:05Z</time>
+    </trkpt>
+    <trkpt lat="51.1038622" lon="15.5950713">
+      <ele>214</ele>
+      <time>2022-01-18T01:15:25Z</time>
+    </trkpt>
+    <trkpt lat="51.1040306" lon="15.5950344">
+      <ele>214</ele>
+      <time>2022-01-18T01:15:41Z</time>
+    </trkpt>
+    <trkpt lat="51.1041069" lon="15.5950372">
+      <ele>214</ele>
+      <time>2022-01-18T01:15:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

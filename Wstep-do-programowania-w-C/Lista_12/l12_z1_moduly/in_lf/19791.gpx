@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:55Z</time>
+    <bounds maxlat="50.4637444" maxlon="16.3472136" minlat="50.4635206" minlon="16.3458618"/>
+  </metadata>
+  <wpt lat="50.463521" lon="16.345862">
+    <ele>824</ele>
+    <name>Odejscie do Fortu Karola</name>
+    <link href="https://mapa-turystyczna.pl/node/13360">
+      <text>Odejscie do Fortu Karola</text>
+    </link>
+  </wpt>
+  <wpt lat="50.463741" lon="16.347214">
+    <ele>824</ele>
+    <name>Fort Karola</name>
+    <link href="https://mapa-turystyczna.pl/node/13361">
+      <text>Fort Karola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Fortu Karola - Fort Karola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4635206,16.3458618;50.463532750001114,16.346612799999996;50.463741,16.3472136">
+    <text>Odejscie do Fortu Karola - Fort Karola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4635206" lon="16.3458618">
+      <ele>824</ele>
+      <time>2022-01-18T01:54:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4635464" lon="16.3461514">
+      <ele>825</ele>
+      <time>2022-01-18T01:55:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4635225" lon="16.3464787">
+      <ele>826</ele>
+      <time>2022-01-18T01:55:44Z</time>
+    </trkpt>
+    <trkpt lat="50.463543" lon="16.3467469">
+      <ele>827</ele>
+      <time>2022-01-18T01:56:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4635669" lon="16.34694">
+      <ele>826</ele>
+      <time>2022-01-18T01:56:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4636215" lon="16.3470258">
+      <ele>827</ele>
+      <time>2022-01-18T01:56:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4637035" lon="16.3470634">
+      <ele>825</ele>
+      <time>2022-01-18T01:56:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4637444" lon="16.3471224">
+      <ele>825</ele>
+      <time>2022-01-18T01:56:48Z</time>
+    </trkpt>
+    <trkpt lat="50.463741" lon="16.3472136">
+      <ele>824</ele>
+      <time>2022-01-18T01:56:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

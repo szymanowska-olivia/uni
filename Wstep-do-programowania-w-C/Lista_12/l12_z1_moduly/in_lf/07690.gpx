@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:51Z</time>
+    <bounds maxlat="49.749459" maxlon="20.9066069" minlat="49.7479062" minlon="20.904724"/>
+  </metadata>
+  <wpt lat="49.747906" lon="20.906607">
+    <ele>390</ele>
+    <name>Brusnik</name>
+    <link href="https://mapa-turystyczna.pl/node/3576">
+      <text>Brusnik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.749459" lon="20.904724">
+    <ele>400</ele>
+    <name>Brusnik, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/5254">
+      <text>Brusnik, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brusnik - Brusnik, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7479062,20.9066069;49.748640650394556,20.905528300000007;49.749459,20.904724">
+    <text>Brusnik - Brusnik, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7479062" lon="20.9066069">
+      <ele>390</ele>
+      <time>2022-01-17T22:27:51Z</time>
+    </trkpt>
+    <trkpt lat="49.7482654" lon="20.906454">
+      <ele>394</ele>
+      <time>2022-01-17T22:28:42Z</time>
+    </trkpt>
+    <trkpt lat="49.748445" lon="20.9061898">
+      <ele>397</ele>
+      <time>2022-01-17T22:29:16Z</time>
+    </trkpt>
+    <trkpt lat="49.7488363" lon="20.9048668">
+      <ele>405</ele>
+      <time>2022-01-17T22:31:24Z</time>
+    </trkpt>
+    <trkpt lat="49.7490354" lon="20.904774">
+      <ele>404</ele>
+      <time>2022-01-17T22:31:53Z</time>
+    </trkpt>
+    <trkpt lat="49.749459" lon="20.904724">
+      <ele>400</ele>
+      <time>2022-01-17T22:32:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:14Z</time>
+    <bounds maxlat="50.3220494" maxlon="16.2843561" minlat="50.3215185" minlon="16.2825805"/>
+  </metadata>
+  <wpt lat="50.321519" lon="16.282581">
+    <ele>619</ele>
+    <name>Dobrany, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6003">
+      <text>Dobrany, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.322049" lon="16.284356">
+    <ele>633</ele>
+    <name>Dobrany, kostel</name>
+    <link href="https://mapa-turystyczna.pl/node/5719">
+      <text>Dobrany, kostel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dobrany, rozc. - Dobrany, kostel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3215185,16.2825805;50.321832300065985,16.283413949999996;50.3220494,16.2843561">
+    <text>Dobrany, rozc. - Dobrany, kostel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3215185" lon="16.2825805">
+      <ele>619</ele>
+      <time>2022-01-17T22:42:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3215981" lon="16.2829547">
+      <ele>620</ele>
+      <time>2022-01-17T22:43:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3216893" lon="16.2832249">
+      <ele>621</ele>
+      <time>2022-01-17T22:43:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3217531" lon="16.2833127">
+      <ele>622</ele>
+      <time>2022-01-17T22:44:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3219115" lon="16.2835152">
+      <ele>624</ele>
+      <time>2022-01-17T22:45:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3219546" lon="16.2837684">
+      <ele>626</ele>
+      <time>2022-01-17T22:45:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3219565" lon="16.284043">
+      <ele>629</ele>
+      <time>2022-01-17T22:46:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3220494" lon="16.2843561">
+      <ele>633</ele>
+      <time>2022-01-17T22:47:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:35Z</time>
+    <bounds maxlat="51.153879" maxlon="20.7379282" minlat="51.1497873" minlon="20.7303965"/>
+  </metadata>
+  <wpt lat="51.149787" lon="20.737928">
+    <ele>326</ele>
+    <name>Mroczkow, Zapowiedz</name>
+    <link href="https://mapa-turystyczna.pl/node/3219">
+      <text>Mroczkow, Zapowiedz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.153879" lon="20.730397">
+    <ele>354</ele>
+    <name>Rezerwat Ciechostowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3221">
+      <text>Rezerwat Ciechostowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mroczkow, Zapowiedz - Rezerwat Ciechostowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1497873,20.7379282;51.151188805333376,20.732873500000018;51.153879,20.7303965">
+    <text>Mroczkow, Zapowiedz - Rezerwat Ciechostowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1497873" lon="20.7379282">
+      <ele>326</ele>
+      <time>2022-01-17T21:44:35Z</time>
+    </trkpt>
+    <trkpt lat="51.1504872" lon="20.7342106">
+      <ele>341</ele>
+      <time>2022-01-17T21:50:01Z</time>
+    </trkpt>
+    <trkpt lat="51.1518904" lon="20.7315364">
+      <ele>344</ele>
+      <time>2022-01-17T21:54:53Z</time>
+    </trkpt>
+    <trkpt lat="51.153879" lon="20.7303965">
+      <ele>354</ele>
+      <time>2022-01-17T21:59:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:19Z</time>
+    <bounds maxlat="50.7486994" maxlon="15.4486979" minlat="50.7485068" minlon="15.4466324"/>
+  </metadata>
+  <wpt lat="50.748608" lon="15.448698">
+    <ele>926</ele>
+    <name>Studenov</name>
+    <link href="https://mapa-turystyczna.pl/node/1381">
+      <text>Studenov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.748699" lon="15.446632">
+    <ele>930</ele>
+    <name>Studenov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5819">
+      <text>Studenov, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studenov - Studenov, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7486077,15.4486979;50.74850830000005,15.447863649999993;50.7486994,15.4466324">
+    <text>Studenov - Studenov, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7486077" lon="15.4486979">
+      <ele>926</ele>
+      <time>2022-01-17T22:37:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7485098" lon="15.4482204">
+      <ele>924</ele>
+      <time>2022-01-17T22:38:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7485068" lon="15.4475069">
+      <ele>923</ele>
+      <time>2022-01-17T22:39:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7486994" lon="15.4466324">
+      <ele>930</ele>
+      <time>2022-01-17T22:40:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

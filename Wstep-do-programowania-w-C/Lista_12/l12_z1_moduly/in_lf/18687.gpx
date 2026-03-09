@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:28Z</time>
+    <bounds maxlat="53.928656" maxlon="16.2578303" minlat="53.925713" minlon="16.2525799"/>
+  </metadata>
+  <wpt lat="53.925713" lon="16.25258">
+    <ele>66</ele>
+    <name>Tychowo</name>
+    <link href="https://mapa-turystyczna.pl/node/12612">
+      <text>Tychowo</text>
+    </link>
+  </wpt>
+  <wpt lat="53.928656" lon="16.25783">
+    <ele>73</ele>
+    <name>Tychowo, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/12615">
+      <text>Tychowo, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tychowo - Tychowo, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.925713,16.2525799;53.926548852743295,16.254793150000005;53.928656,16.2578303">
+    <text>Tychowo - Tychowo, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.925713" lon="16.2525799">
+      <ele>66</ele>
+      <time>2022-01-18T01:35:28Z</time>
+    </trkpt>
+    <trkpt lat="53.9258144" lon="16.252819">
+      <ele>66</ele>
+      <time>2022-01-18T01:35:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9260703" lon="16.253495">
+      <ele>67</ele>
+      <time>2022-01-18T01:36:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9270274" lon="16.2560913">
+      <ele>68</ele>
+      <time>2022-01-18T01:40:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9271158" lon="16.2560377">
+      <ele>68</ele>
+      <time>2022-01-18T01:41:12Z</time>
+    </trkpt>
+    <trkpt lat="53.9272201" lon="16.2560913">
+      <ele>68</ele>
+      <time>2022-01-18T01:41:26Z</time>
+    </trkpt>
+    <trkpt lat="53.9280223" lon="16.2569496">
+      <ele>70</ele>
+      <time>2022-01-18T01:43:35Z</time>
+    </trkpt>
+    <trkpt lat="53.9281297" lon="16.257014">
+      <ele>70</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="53.9286004" lon="16.2576417">
+      <ele>73</ele>
+      <time>2022-01-18T01:45:11Z</time>
+    </trkpt>
+    <trkpt lat="53.9286377" lon="16.2577199">
+      <ele>73</ele>
+      <time>2022-01-18T01:45:19Z</time>
+    </trkpt>
+    <trkpt lat="53.928656" lon="16.2578303">
+      <ele>73</ele>
+      <time>2022-01-18T01:45:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

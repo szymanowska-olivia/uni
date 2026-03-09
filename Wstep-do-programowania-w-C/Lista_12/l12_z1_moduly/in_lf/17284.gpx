@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:55Z</time>
+    <bounds maxlat="50.7815804" maxlon="15.7486761" minlat="50.7785944" minlon="15.7465761"/>
+  </metadata>
+  <wpt lat="50.78158" lon="15.748676">
+    <ele>633</ele>
+    <name>Karpacz, Mysliwska</name>
+    <link href="https://mapa-turystyczna.pl/node/1168">
+      <text>Karpacz, Mysliwska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.778594" lon="15.746576">
+    <ele>721</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13125">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karpacz, Mysliwska - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7815804,15.7486761;50.78047285303251,15.748039749999982;50.7785944,15.7465761">
+    <text>Karpacz, Mysliwska - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7815804" lon="15.7486761">
+      <ele>633</ele>
+      <time>2022-01-18T01:10:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7810054" lon="15.7483938">
+      <ele>654</ele>
+      <time>2022-01-18T01:13:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7799403" lon="15.7476857">
+      <ele>678</ele>
+      <time>2022-01-18T01:18:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7798047" lon="15.747514">
+      <ele>686</ele>
+      <time>2022-01-18T01:19:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7792619" lon="15.7471492">
+      <ele>706</ele>
+      <time>2022-01-18T01:22:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7786785" lon="15.7466235">
+      <ele>722</ele>
+      <time>2022-01-18T01:25:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7785944" lon="15.7465761">
+      <ele>721</ele>
+      <time>2022-01-18T01:25:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

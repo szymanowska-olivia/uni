@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:11Z</time>
+    <bounds maxlat="50.6831207" maxlon="16.2788371" minlat="50.6808482" minlon="16.2781173"/>
+  </metadata>
+  <wpt lat="50.680848" lon="16.278117">
+    <ele>934</ele>
+    <name>Waligora</name>
+    <link href="https://mapa-turystyczna.pl/node/2416">
+      <text>Waligora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.683121" lon="16.278793">
+    <ele>812</ele>
+    <name>Pod Waligora</name>
+    <link href="https://mapa-turystyczna.pl/node/7728">
+      <text>Pod Waligora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Waligora - Pod Waligora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6808482,16.2781173;50.682125250009186,16.27853720000001;50.6831207,16.2787932">
+    <text>Waligora - Pod Waligora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6808482" lon="16.2781173">
+      <ele>934</ele>
+      <time>2022-01-17T23:26:11Z</time>
+    </trkpt>
+    <trkpt lat="50.680947" lon="16.278188">
+      <ele>933</ele>
+      <time>2022-01-17T23:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6811269" lon="16.2782353">
+      <ele>930</ele>
+      <time>2022-01-17T23:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6814379" lon="16.2784151">
+      <ele>915</ele>
+      <time>2022-01-17T23:27:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6816166" lon="16.2784509">
+      <ele>904</ele>
+      <time>2022-01-17T23:27:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6817968" lon="16.2782738">
+      <ele>892</ele>
+      <time>2022-01-17T23:28:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6819361" lon="16.2783543">
+      <ele>878</ele>
+      <time>2022-01-17T23:28:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6820959" lon="16.2785206">
+      <ele>858</ele>
+      <time>2022-01-17T23:29:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6821546" lon="16.2785538">
+      <ele>851</ele>
+      <time>2022-01-17T23:29:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6825004" lon="16.2785903">
+      <ele>829</ele>
+      <time>2022-01-17T23:29:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6828878" lon="16.2788264">
+      <ele>817</ele>
+      <time>2022-01-17T23:30:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6830204" lon="16.2788371">
+      <ele>814</ele>
+      <time>2022-01-17T23:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6831207" lon="16.2787932">
+      <ele>812</ele>
+      <time>2022-01-17T23:31:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

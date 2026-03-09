@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:51Z</time>
+    <bounds maxlat="54.2172559" maxlon="15.7711873" minlat="54.2171995" minlon="15.7683334"/>
+  </metadata>
+  <wpt lat="54.217256" lon="15.768333">
+    <ele>16</ele>
+    <name>Ustronie Morskie, ul. Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/12595">
+      <text>Ustronie Morskie, ul. Gorna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.217199" lon="15.771187">
+    <ele>20</ele>
+    <name>Ustronie Morskie, ul. Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12596">
+      <text>Ustronie Morskie, ul. Graniczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustronie Morskie, ul. Gorna - Ustronie Morskie, ul. Graniczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.2172559,15.7683334;54.217203450000184,15.770251349999969;54.2171995,15.7711873">
+    <text>Ustronie Morskie, ul. Gorna - Ustronie Morskie, ul. Graniczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.2172559" lon="15.7683334">
+      <ele>16</ele>
+      <time>2022-01-18T01:33:51Z</time>
+    </trkpt>
+    <trkpt lat="54.2172074" lon="15.7693154">
+      <ele>19</ele>
+      <time>2022-01-18T01:34:53Z</time>
+    </trkpt>
+    <trkpt lat="54.2171995" lon="15.7711873">
+      <ele>20</ele>
+      <time>2022-01-18T01:36:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

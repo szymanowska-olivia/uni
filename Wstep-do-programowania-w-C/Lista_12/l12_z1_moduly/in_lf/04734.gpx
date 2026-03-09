@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:46Z</time>
+    <bounds maxlat="51.0181149" maxlon="15.6796467" minlat="51.0164483" minlon="15.6734455"/>
+  </metadata>
+  <wpt lat="51.01691" lon="15.673445">
+    <ele>227</ele>
+    <name>Wlen</name>
+    <link href="https://mapa-turystyczna.pl/node/3300">
+      <text>Wlen</text>
+    </link>
+  </wpt>
+  <wpt lat="51.018115" lon="15.679647">
+    <ele>228</ele>
+    <name>Wlen, rzeka</name>
+    <link href="https://mapa-turystyczna.pl/node/3273">
+      <text>Wlen, rzeka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wlen - Wlen, rzeka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0169101,15.6734455;51.01698205044457,15.675775850000017;51.0181149,15.6796467">
+    <text>Wlen - Wlen, rzeka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0169101" lon="15.6734455">
+      <ele>227</ele>
+      <time>2022-01-17T21:45:46Z</time>
+    </trkpt>
+    <trkpt lat="51.0164483" lon="15.6740883">
+      <ele>229</ele>
+      <time>2022-01-17T21:47:08Z</time>
+    </trkpt>
+    <trkpt lat="51.0166131" lon="15.6745612">
+      <ele>229</ele>
+      <time>2022-01-17T21:47:53Z</time>
+    </trkpt>
+    <trkpt lat="51.016779" lon="15.6750324">
+      <ele>230</ele>
+      <time>2022-01-17T21:48:38Z</time>
+    </trkpt>
+    <trkpt lat="51.0171851" lon="15.6765193">
+      <ele>228</ele>
+      <time>2022-01-17T21:50:53Z</time>
+    </trkpt>
+    <trkpt lat="51.0175521" lon="15.6774875">
+      <ele>228</ele>
+      <time>2022-01-17T21:52:28Z</time>
+    </trkpt>
+    <trkpt lat="51.0178099" lon="15.6780253">
+      <ele>228</ele>
+      <time>2022-01-17T21:53:24Z</time>
+    </trkpt>
+    <trkpt lat="51.0179129" lon="15.6783898">
+      <ele>228</ele>
+      <time>2022-01-17T21:53:58Z</time>
+    </trkpt>
+    <trkpt lat="51.0179725" lon="15.678777">
+      <ele>228</ele>
+      <time>2022-01-17T21:54:31Z</time>
+    </trkpt>
+    <trkpt lat="51.0181149" lon="15.6796467">
+      <ele>228</ele>
+      <time>2022-01-17T21:55:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

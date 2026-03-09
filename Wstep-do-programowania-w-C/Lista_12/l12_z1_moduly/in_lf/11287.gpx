@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:54Z</time>
+    <bounds maxlat="49.969801" maxlon="16.9219324" minlat="49.9687175" minlon="16.9207415"/>
+  </metadata>
+  <wpt lat="49.968717" lon="16.920741">
+    <ele>468</ele>
+    <name>U kostelicka</name>
+    <link href="https://mapa-turystyczna.pl/node/7952">
+      <text>U kostelicka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.969801" lon="16.921932">
+    <ele>487</ele>
+    <name>U kostelicka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7954">
+      <text>U kostelicka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U kostelicka - U kostelicka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9687175,16.9207415;49.96943150141838,16.921819299999985;49.969801,16.9219324">
+    <text>U kostelicka - U kostelicka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9687175" lon="16.9207415">
+      <ele>468</ele>
+      <time>2022-01-17T23:31:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9687894" lon="16.9211375">
+      <ele>468</ele>
+      <time>2022-01-17T23:32:47Z</time>
+    </trkpt>
+    <trkpt lat="49.969062" lon="16.9217062">
+      <ele>478</ele>
+      <time>2022-01-17T23:34:21Z</time>
+    </trkpt>
+    <trkpt lat="49.969801" lon="16.9219324">
+      <ele>487</ele>
+      <time>2022-01-17T23:36:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

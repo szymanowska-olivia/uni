@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:02Z</time>
+    <bounds maxlat="51.3094495" maxlon="17.0629864" minlat="51.3075836" minlon="17.058628"/>
+  </metadata>
+  <wpt lat="51.307584" lon="17.058628">
+    <ele>192</ele>
+    <name>Trzebnica, ul. Waska</name>
+    <link href="https://mapa-turystyczna.pl/node/10539">
+      <text>Trzebnica, ul. Waska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.309449" lon="17.062986">
+    <ele>185</ele>
+    <name>Trzebnica, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/10540">
+      <text>Trzebnica, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, ul. Waska - Trzebnica, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3075836,17.058628;51.30876635001619,17.060688499999983;51.3094495,17.0629864">
+    <text>Trzebnica, ul. Waska - Trzebnica, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3075836" lon="17.058628">
+      <ele>192</ele>
+      <time>2022-01-18T00:39:02Z</time>
+    </trkpt>
+    <trkpt lat="51.3082683" lon="17.0596586">
+      <ele>192</ele>
+      <time>2022-01-18T00:40:26Z</time>
+    </trkpt>
+    <trkpt lat="51.3086137" lon="17.0602701">
+      <ele>193</ele>
+      <time>2022-01-18T00:41:12Z</time>
+    </trkpt>
+    <trkpt lat="51.3087278" lon="17.0605383">
+      <ele>193</ele>
+      <time>2022-01-18T00:41:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3088049" lon="17.0608387">
+      <ele>192</ele>
+      <time>2022-01-18T00:41:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3088418" lon="17.0610319">
+      <ele>191</ele>
+      <time>2022-01-18T00:42:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3089826" lon="17.0615576">
+      <ele>189</ele>
+      <time>2022-01-18T00:42:32Z</time>
+    </trkpt>
+    <trkpt lat="51.3094495" lon="17.0629864">
+      <ele>185</ele>
+      <time>2022-01-18T00:44:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

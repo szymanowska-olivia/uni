@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:05Z</time>
+    <bounds maxlat="49.357795" maxlon="20.939276" minlat="49.356935" minlon="20.938847"/>
+  </metadata>
+  <wpt lat="49.357795" lon="20.939276">
+    <ele>656</ele>
+    <name>Czarna Mlaka, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/10973">
+      <text>Czarna Mlaka, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.356935" lon="20.938974">
+    <ele>667</ele>
+    <name>Czarna Mlaka</name>
+    <link href="https://mapa-turystyczna.pl/node/10974">
+      <text>Czarna Mlaka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarna Mlaka, skrzyzowanie - Czarna Mlaka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.357795,20.939276;49.3573285000477,20.93913399999998;49.356935,20.938974">
+    <text>Czarna Mlaka, skrzyzowanie - Czarna Mlaka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.357795" lon="20.939276">
+      <ele>656</ele>
+      <time>2022-01-18T00:50:05Z</time>
+    </trkpt>
+    <trkpt lat="49.357397" lon="20.939174">
+      <ele>663</ele>
+      <time>2022-01-18T00:51:20Z</time>
+    </trkpt>
+    <trkpt lat="49.35726" lon="20.939094">
+      <ele>666</ele>
+      <time>2022-01-18T00:51:47Z</time>
+    </trkpt>
+    <trkpt lat="49.357188" lon="20.938957">
+      <ele>666</ele>
+      <time>2022-01-18T00:52:08Z</time>
+    </trkpt>
+    <trkpt lat="49.357127" lon="20.938848">
+      <ele>665</ele>
+      <time>2022-01-18T00:52:25Z</time>
+    </trkpt>
+    <trkpt lat="49.357065" lon="20.938847">
+      <ele>665</ele>
+      <time>2022-01-18T00:52:36Z</time>
+    </trkpt>
+    <trkpt lat="49.356967" lon="20.938928">
+      <ele>666</ele>
+      <time>2022-01-18T00:52:57Z</time>
+    </trkpt>
+    <trkpt lat="49.356935" lon="20.938974">
+      <ele>667</ele>
+      <time>2022-01-18T00:53:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

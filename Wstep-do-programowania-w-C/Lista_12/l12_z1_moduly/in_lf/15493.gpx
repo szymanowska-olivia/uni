@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:14Z</time>
+    <bounds maxlat="50.1668013" maxlon="19.3098852" minlat="50.162955" minlon="19.307723"/>
+  </metadata>
+  <wpt lat="50.166801" lon="19.309885">
+    <ele>265</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10578">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.162955" lon="19.307812">
+    <ele>261</ele>
+    <name>Byczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/10580">
+      <text>Byczyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Byczyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1668013,19.3098852;50.16450105240968,19.308107150000023;50.162955,19.3078118">
+    <text>Rozejscie szlakow czerwony / niebieski - Byczyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1668013" lon="19.3098852">
+      <ele>265</ele>
+      <time>2022-01-18T00:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1664896" lon="19.3095169">
+      <ele>264</ele>
+      <time>2022-01-18T00:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1663178" lon="19.3093506">
+      <ele>264</ele>
+      <time>2022-01-18T00:40:57Z</time>
+    </trkpt>
+    <trkpt lat="50.16539" lon="19.3086908">
+      <ele>264</ele>
+      <time>2022-01-18T00:42:10Z</time>
+    </trkpt>
+    <trkpt lat="50.164981" lon="19.3084387">
+      <ele>265</ele>
+      <time>2022-01-18T00:42:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1640211" lon="19.3077756">
+      <ele>261</ele>
+      <time>2022-01-18T00:43:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1633456" lon="19.307723">
+      <ele>262</ele>
+      <time>2022-01-18T00:44:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1630963" lon="19.3077347">
+      <ele>261</ele>
+      <time>2022-01-18T00:45:03Z</time>
+    </trkpt>
+    <trkpt lat="50.162955" lon="19.3078118">
+      <ele>261</ele>
+      <time>2022-01-18T00:45:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

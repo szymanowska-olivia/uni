@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:17Z</time>
+    <bounds maxlat="50.9634678" maxlon="21.1801815" minlat="50.9625624" minlon="21.1676985"/>
+  </metadata>
+  <wpt lat="50.963468" lon="21.167699">
+    <ele>264</ele>
+    <name>Kalkow</name>
+    <link href="https://mapa-turystyczna.pl/node/3191">
+      <text>Kalkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.962562" lon="21.180181">
+    <ele>264</ele>
+    <name>Kalkow, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3190">
+      <text>Kalkow, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kalkow - Kalkow, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9634678,21.1676985;50.963015102205595,21.173940000000016;50.9625624,21.1801815">
+    <text>Kalkow - Kalkow, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9634678" lon="21.1676985">
+      <ele>264</ele>
+      <time>2022-01-17T21:44:17Z</time>
+    </trkpt>
+    <trkpt lat="50.9625624" lon="21.1801815">
+      <ele>264</ele>
+      <time>2022-01-17T21:59:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

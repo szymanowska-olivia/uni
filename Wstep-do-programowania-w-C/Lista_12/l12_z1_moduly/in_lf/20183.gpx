@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:03Z</time>
+    <bounds maxlat="50.5668263" maxlon="16.2666704" minlat="50.566747" minlon="16.2665194"/>
+  </metadata>
+  <wpt lat="50.566826" lon="16.266519">
+    <ele>669</ele>
+    <name>Hvezda, turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/5854">
+      <text>Hvezda, turisticka chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.566747" lon="16.26667">
+    <ele>670</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13581">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hvezda, turisticka chata - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5668263,16.2665194;50.5667866500167,16.266594899999987;50.566747,16.2666704">
+    <text>Hvezda, turisticka chata - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5668263" lon="16.2665194">
+      <ele>669</ele>
+      <time>2022-01-18T02:02:03Z</time>
+    </trkpt>
+    <trkpt lat="50.566747" lon="16.2666704">
+      <ele>670</ele>
+      <time>2022-01-18T02:03:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

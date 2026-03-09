@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:02Z</time>
+    <bounds maxlat="50.4060699" maxlon="16.5116224" minlat="50.4055089" minlon="16.5112821"/>
+  </metadata>
+  <wpt lat="50.40607" lon="16.511282">
+    <ele>370</ele>
+    <name>Polanica Zdroj, ul. Zdrojowa</name>
+    <link href="https://mapa-turystyczna.pl/node/5682">
+      <text>Polanica Zdroj, ul. Zdrojowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.405509" lon="16.511622">
+    <ele>365</ele>
+    <name>Polanica-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/1776">
+      <text>Polanica-Zdroj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polanica Zdroj, ul. Zdrojowa - Polanica-Zdroj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4060699,16.5112821;50.405705500054395,16.511400350000006;50.4055089,16.5116224">
+    <text>Polanica Zdroj, ul. Zdrojowa - Polanica-Zdroj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4060699" lon="16.5112821">
+      <ele>370</ele>
+      <time>2022-01-17T22:34:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4058773" lon="16.5112827">
+      <ele>368</ele>
+      <time>2022-01-17T22:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4057773" lon="16.5113447">
+      <ele>367</ele>
+      <time>2022-01-17T22:34:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4056337" lon="16.511456">
+      <ele>366</ele>
+      <time>2022-01-17T22:34:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4055089" lon="16.5116224">
+      <ele>365</ele>
+      <time>2022-01-17T22:35:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

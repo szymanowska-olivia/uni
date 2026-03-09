@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:48Z</time>
+    <bounds maxlat="52.1055602" maxlon="21.2747863" minlat="52.1041701" minlon="21.2681212"/>
+  </metadata>
+  <wpt lat="52.105337" lon="21.268121">
+    <ele>95</ele>
+    <name>Otwock, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/12935">
+      <text>Otwock, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.10556" lon="21.274786">
+    <ele>100</ele>
+    <name>Otwock, ul. Prusa</name>
+    <link href="https://mapa-turystyczna.pl/node/12934">
+      <text>Otwock, ul. Prusa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Lesna - Otwock, ul. Prusa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1053373,21.2681212;52.104434500783796,21.271318700000013;52.1055602,21.2747863">
+    <text>Otwock, ul. Lesna - Otwock, ul. Prusa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1053373" lon="21.2681212">
+      <ele>95</ele>
+      <time>2022-01-18T01:42:48Z</time>
+    </trkpt>
+    <trkpt lat="52.1054123" lon="21.2682878">
+      <ele>96</ele>
+      <time>2022-01-18T01:43:01Z</time>
+    </trkpt>
+    <trkpt lat="52.1051948" lon="21.268615">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1041701" lon="21.2706267">
+      <ele>97</ele>
+      <time>2022-01-18T01:46:20Z</time>
+    </trkpt>
+    <trkpt lat="52.1046989" lon="21.2720107">
+      <ele>97</ele>
+      <time>2022-01-18T01:48:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1053068" lon="21.2735342">
+      <ele>99</ele>
+      <time>2022-01-18T01:50:00Z</time>
+    </trkpt>
+    <trkpt lat="52.1047302" lon="21.2740974">
+      <ele>101</ele>
+      <time>2022-01-18T01:51:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1048719" lon="21.2742476">
+      <ele>101</ele>
+      <time>2022-01-18T01:51:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1050268" lon="21.2744086">
+      <ele>101</ele>
+      <time>2022-01-18T01:51:47Z</time>
+    </trkpt>
+    <trkpt lat="52.1055602" lon="21.2747863">
+      <ele>100</ele>
+      <time>2022-01-18T01:52:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

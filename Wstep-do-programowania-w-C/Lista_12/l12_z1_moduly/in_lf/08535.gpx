@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:29Z</time>
+    <bounds maxlat="50.3516049" maxlon="16.4559737" minlat="50.3219999" minlon="16.443733"/>
+  </metadata>
+  <wpt lat="50.351605" lon="16.443733">
+    <ele>813</ele>
+    <name>Rozdroze pod Biescem</name>
+    <link href="https://mapa-turystyczna.pl/node/1864">
+      <text>Rozdroze pod Biescem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.322" lon="16.455974">
+    <ele>780</ele>
+    <name>Pod Krzemionka</name>
+    <link href="https://mapa-turystyczna.pl/node/5940">
+      <text>Pod Krzemionka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Biescem - Pod Krzemionka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3516049,16.443733;50.34052238996912,16.44830709999999;50.3219999,16.4559737">
+    <text>Rozdroze pod Biescem - Pod Krzemionka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3516049" lon="16.443733">
+      <ele>813</ele>
+      <time>2022-01-17T22:40:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3512979" lon="16.443929">
+      <ele>816</ele>
+      <time>2022-01-17T22:41:05Z</time>
+    </trkpt>
+    <trkpt lat="50.350983" lon="16.4439934">
+      <ele>815</ele>
+      <time>2022-01-17T22:41:39Z</time>
+    </trkpt>
+    <trkpt lat="50.350579" lon="16.443811">
+      <ele>813</ele>
+      <time>2022-01-17T22:42:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3505037" lon="16.4438378">
+      <ele>813</ele>
+      <time>2022-01-17T22:42:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3503326" lon="16.4438754">
+      <ele>814</ele>
+      <time>2022-01-17T22:42:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3502059" lon="16.4439773">
+      <ele>814</ele>
+      <time>2022-01-17T22:43:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3499321" lon="16.4443796">
+      <ele>814</ele>
+      <time>2022-01-17T22:43:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3497746" lon="16.4445459">
+      <ele>814</ele>
+      <time>2022-01-17T22:44:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3457706" lon="16.4462096">
+      <ele>832</ele>
+      <time>2022-01-17T22:51:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3352736" lon="16.4504046">
+      <ele>809</ele>
+      <time>2022-01-17T23:10:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3219999" lon="16.4559737">
+      <ele>780</ele>
+      <time>2022-01-17T23:35:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

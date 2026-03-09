@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:55Z</time>
+    <bounds maxlat="52.1274839" maxlon="21.2502426" minlat="52.12686" minlon="21.2491102"/>
+  </metadata>
+  <wpt lat="52.12686" lon="21.24911">
+    <ele>94</ele>
+    <name>Rezerwat Swider, ul. Bagatela</name>
+    <link href="https://mapa-turystyczna.pl/node/12906">
+      <text>Rezerwat Swider, ul. Bagatela</text>
+    </link>
+  </wpt>
+  <wpt lat="52.127484" lon="21.250243">
+    <ele>96</ele>
+    <name>Rezerwat Swider, ul. Wiazowska</name>
+    <link href="https://mapa-turystyczna.pl/node/12907">
+      <text>Rezerwat Swider, ul. Wiazowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Swider, ul. Bagatela - Rezerwat Swider, ul. Wiazowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.12686,21.2491102;52.12715430007307,21.24982629999998;52.1274839,21.2502426">
+    <text>Rezerwat Swider, ul. Bagatela - Rezerwat Swider, ul. Wiazowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.12686" lon="21.2491102">
+      <ele>94</ele>
+      <time>2022-01-18T01:41:55Z</time>
+    </trkpt>
+    <trkpt lat="52.1270736" lon="21.2496922">
+      <ele>96</ele>
+      <time>2022-01-18T01:42:48Z</time>
+    </trkpt>
+    <trkpt lat="52.127235" lon="21.2499604">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:17Z</time>
+    </trkpt>
+    <trkpt lat="52.127482" lon="21.2502393">
+      <ele>96</ele>
+      <time>2022-01-18T01:43:55Z</time>
+    </trkpt>
+    <trkpt lat="52.1274839" lon="21.2502426">
+      <ele>96</ele>
+      <time>2022-01-18T01:43:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

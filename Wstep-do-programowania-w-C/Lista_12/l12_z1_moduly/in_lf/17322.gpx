@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:29Z</time>
+    <bounds maxlat="51.1306342" maxlon="15.7250736" minlat="51.1298137" minlon="15.7245597"/>
+  </metadata>
+  <wpt lat="51.129888" lon="15.72456">
+    <ele>303</ele>
+    <name>Odejscie do krzyza pokutnego</name>
+    <link href="https://mapa-turystyczna.pl/node/11781">
+      <text>Odejscie do krzyza pokutnego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.130634" lon="15.725051">
+    <ele>309</ele>
+    <name>Krzyz pokutny</name>
+    <link href="https://mapa-turystyczna.pl/node/11782">
+      <text>Krzyz pokutny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do krzyza pokutnego - Krzyz pokutny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1298881,15.7245597;51.129997450365565,15.725044400000016;51.1306342,15.725051">
+    <text>Odejscie do krzyza pokutnego - Krzyz pokutny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1298881" lon="15.7245597">
+      <ele>303</ele>
+      <time>2022-01-18T01:11:29Z</time>
+    </trkpt>
+    <trkpt lat="51.1298311" lon="15.7248537">
+      <ele>305</ele>
+      <time>2022-01-18T01:12:00Z</time>
+    </trkpt>
+    <trkpt lat="51.1298137" lon="15.725042">
+      <ele>306</ele>
+      <time>2022-01-18T01:12:19Z</time>
+    </trkpt>
+    <trkpt lat="51.1301812" lon="15.7250468">
+      <ele>309</ele>
+      <time>2022-01-18T01:13:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1304329" lon="15.7250736">
+      <ele>310</ele>
+      <time>2022-01-18T01:13:57Z</time>
+    </trkpt>
+    <trkpt lat="51.1306342" lon="15.725051">
+      <ele>309</ele>
+      <time>2022-01-18T01:14:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

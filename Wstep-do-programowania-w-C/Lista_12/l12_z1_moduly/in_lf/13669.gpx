@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:53Z</time>
+    <bounds maxlat="50.738566" maxlon="16.3075415" minlat="50.7382039" minlon="16.3071612"/>
+  </metadata>
+  <wpt lat="50.738204" lon="16.307541">
+    <ele>671</ele>
+    <name>Pod Malym Wolowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/9411">
+      <text>Pod Malym Wolowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.738566" lon="16.307161">
+    <ele>661</ele>
+    <name>Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/9412">
+      <text>Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Malym Wolowcem - Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7382039,16.3075415;50.73831465013095,16.30740024999998;50.738566,16.3071612">
+    <text>Pod Malym Wolowcem - Pod Malym Wolowcem, skrzyzowanie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7382039" lon="16.3075415">
+      <ele>671</ele>
+      <time>2022-01-18T00:10:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7384254" lon="16.307259">
+      <ele>666</ele>
+      <time>2022-01-18T00:11:32Z</time>
+    </trkpt>
+    <trkpt lat="50.738566" lon="16.3071612">
+      <ele>661</ele>
+      <time>2022-01-18T00:11:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

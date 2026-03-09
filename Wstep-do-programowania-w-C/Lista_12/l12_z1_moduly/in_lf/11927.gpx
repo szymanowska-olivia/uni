@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:42:12Z</time>
+    <bounds maxlat="51.0898568" maxlon="15.7580853" minlat="51.0772005" minlon="15.7499288"/>
+  </metadata>
+  <wpt lat="51.089857" lon="15.749929">
+    <ele>255</ele>
+    <name>Rochow</name>
+    <link href="https://mapa-turystyczna.pl/node/8273">
+      <text>Rochow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.0772" lon="15.758085">
+    <ele>270</ele>
+    <name>Zielonki</name>
+    <link href="https://mapa-turystyczna.pl/node/3313">
+      <text>Zielonki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rochow - Zielonki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0898568,15.7499288;51.08431470724848,15.754024350000027;51.0772005,15.7580853">
+    <text>Rochow - Zielonki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0898568" lon="15.7499288">
+      <ele>255</ele>
+      <time>2022-01-17T23:42:12Z</time>
+    </trkpt>
+    <trkpt lat="51.0895646" lon="15.7500654">
+      <ele>254</ele>
+      <time>2022-01-17T23:42:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0891889" lon="15.7503149">
+      <ele>253</ele>
+      <time>2022-01-17T23:43:29Z</time>
+    </trkpt>
+    <trkpt lat="51.0889884" lon="15.7505643">
+      <ele>252</ele>
+      <time>2022-01-17T23:43:57Z</time>
+    </trkpt>
+    <trkpt lat="51.0887711" lon="15.7511128">
+      <ele>250</ele>
+      <time>2022-01-17T23:44:41Z</time>
+    </trkpt>
+    <trkpt lat="51.0886413" lon="15.7513502">
+      <ele>250</ele>
+      <time>2022-01-17T23:45:02Z</time>
+    </trkpt>
+    <trkpt lat="51.0884088" lon="15.7515246">
+      <ele>251</ele>
+      <time>2022-01-17T23:45:30Z</time>
+    </trkpt>
+    <trkpt lat="51.0880651" lon="15.7517016">
+      <ele>253</ele>
+      <time>2022-01-17T23:46:09Z</time>
+    </trkpt>
+    <trkpt lat="51.0857907" lon="15.7529354">
+      <ele>261</ele>
+      <time>2022-01-17T23:50:30Z</time>
+    </trkpt>
+    <trkpt lat="51.0851336" lon="15.7533216">
+      <ele>262</ele>
+      <time>2022-01-17T23:51:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0834958" lon="15.7547271">
+      <ele>263</ele>
+      <time>2022-01-17T23:55:07Z</time>
+    </trkpt>
+    <trkpt lat="51.0812717" lon="15.7566047">
+      <ele>265</ele>
+      <time>2022-01-17T23:59:40Z</time>
+    </trkpt>
+    <trkpt lat="51.0772005" lon="15.7580853">
+      <ele>270</ele>
+      <time>2022-01-18T00:07:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

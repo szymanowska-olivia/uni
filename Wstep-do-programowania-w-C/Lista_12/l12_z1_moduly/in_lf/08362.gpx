@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:26Z</time>
+    <bounds maxlat="50.6766507" maxlon="15.6561522" minlat="50.6751147" minlon="15.6554653"/>
+  </metadata>
+  <wpt lat="50.676651" lon="15.655544">
+    <ele>887</ele>
+    <name>Hanapetrova paseka</name>
+    <link href="https://mapa-turystyczna.pl/node/1122">
+      <text>Hanapetrova paseka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.675115" lon="15.656152">
+    <ele>849</ele>
+    <name>Hanapetrova paseka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5822">
+      <text>Hanapetrova paseka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hanapetrova paseka - Hanapetrova paseka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6766507,15.6555444;50.67596790304566,15.655605449999976;50.6751147,15.6561522">
+    <text>Hanapetrova paseka - Hanapetrova paseka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6766507" lon="15.6555444">
+      <ele>887</ele>
+      <time>2022-01-17T22:37:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6765026" lon="15.6554653">
+      <ele>883</ele>
+      <time>2022-01-17T22:37:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6754332" lon="15.6557456">
+      <ele>856</ele>
+      <time>2022-01-17T22:39:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6751147" lon="15.6561522">
+      <ele>849</ele>
+      <time>2022-01-17T22:40:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

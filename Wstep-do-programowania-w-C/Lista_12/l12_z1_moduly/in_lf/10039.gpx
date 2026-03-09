@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:01Z</time>
+    <bounds maxlat="50.0753407" maxlon="17.2395954" minlat="50.0706213" minlon="17.2297275"/>
+  </metadata>
+  <wpt lat="50.075341" lon="17.229727">
+    <ele>1316</ele>
+    <name>U Barborky</name>
+    <link href="https://mapa-turystyczna.pl/node/7066">
+      <text>U Barborky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.070621" lon="17.239595">
+    <ele>1305</ele>
+    <name>Ovcarna, chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7064">
+      <text>Ovcarna, chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Barborky - Ovcarna, chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0753407,17.2297275;50.07259675133673,17.23414780000003;50.0706213,17.2395954">
+    <text>U Barborky - Ovcarna, chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0753407" lon="17.2297275">
+      <ele>1316</ele>
+      <time>2022-01-17T23:09:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0749551" lon="17.2305214">
+      <ele>1314</ele>
+      <time>2022-01-17T23:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0744215" lon="17.2315085">
+      <ele>1313</ele>
+      <time>2022-01-17T23:11:46Z</time>
+    </trkpt>
+    <trkpt lat="50.073881" lon="17.232281">
+      <ele>1313</ele>
+      <time>2022-01-17T23:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0729548" lon="17.2335631">
+      <ele>1319</ele>
+      <time>2022-01-17T23:15:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0722387" lon="17.2347325">
+      <ele>1318</ele>
+      <time>2022-01-17T23:17:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0717945" lon="17.2358">
+      <ele>1313</ele>
+      <time>2022-01-17T23:18:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0709407" lon="17.2381389">
+      <ele>1307</ele>
+      <time>2022-01-17T23:22:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0706859" lon="17.2390991">
+      <ele>1307</ele>
+      <time>2022-01-17T23:23:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0706213" lon="17.2395954">
+      <ele>1305</ele>
+      <time>2022-01-17T23:24:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:42Z</time>
+    <bounds maxlat="54.4675343" maxlon="18.4441406" minlat="54.4663994" minlon="18.4410667"/>
+  </metadata>
+  <wpt lat="54.467534" lon="18.444141">
+    <ele>177</ele>
+    <name>Pod Gora Donas</name>
+    <link href="https://mapa-turystyczna.pl/node/10931">
+      <text>Pod Gora Donas</text>
+    </link>
+  </wpt>
+  <wpt lat="54.466521" lon="18.441067">
+    <ele>179</ele>
+    <name>Gdynia, Kolonia</name>
+    <link href="https://mapa-turystyczna.pl/node/10916">
+      <text>Gdynia, Kolonia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Gora Donas - Gdynia, Kolonia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4675343,18.4441406;54.46651010006563,18.443309049999993;54.466521,18.4410667">
+    <text>Pod Gora Donas - Gdynia, Kolonia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4675343" lon="18.4441406">
+      <ele>177</ele>
+      <time>2022-01-18T00:48:42Z</time>
+    </trkpt>
+    <trkpt lat="54.466998" lon="18.4440118">
+      <ele>178</ele>
+      <time>2022-01-18T00:49:44Z</time>
+    </trkpt>
+    <trkpt lat="54.4667424" lon="18.4440064">
+      <ele>178</ele>
+      <time>2022-01-18T00:50:13Z</time>
+    </trkpt>
+    <trkpt lat="54.4665834" lon="18.4438187">
+      <ele>176</ele>
+      <time>2022-01-18T00:50:35Z</time>
+    </trkpt>
+    <trkpt lat="54.4664368" lon="18.4427994">
+      <ele>172</ele>
+      <time>2022-01-18T00:51:45Z</time>
+    </trkpt>
+    <trkpt lat="54.4663994" lon="18.4424239">
+      <ele>170</ele>
+      <time>2022-01-18T00:52:10Z</time>
+    </trkpt>
+    <trkpt lat="54.4664119" lon="18.4421235">
+      <ele>169</ele>
+      <time>2022-01-18T00:52:30Z</time>
+    </trkpt>
+    <trkpt lat="54.4664431" lon="18.441748">
+      <ele>171</ele>
+      <time>2022-01-18T00:52:55Z</time>
+    </trkpt>
+    <trkpt lat="54.4664618" lon="18.4413403">
+      <ele>176</ele>
+      <time>2022-01-18T00:53:22Z</time>
+    </trkpt>
+    <trkpt lat="54.466521" lon="18.4410667">
+      <ele>179</ele>
+      <time>2022-01-18T00:53:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

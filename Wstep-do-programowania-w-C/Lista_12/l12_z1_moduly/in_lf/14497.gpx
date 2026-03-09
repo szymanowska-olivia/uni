@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:20Z</time>
+    <bounds maxlat="49.220989" maxlon="19.787133" minlat="49.220633" minlon="19.786471"/>
+  </metadata>
+  <wpt lat="49.220989" lon="19.786471">
+    <ele>1265</ele>
+    <name>Jarzabcza Dolina</name>
+    <link href="https://mapa-turystyczna.pl/node/3239">
+      <text>Jarzabcza Dolina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.220633" lon="19.787133">
+    <ele>1264</ele>
+    <name>Jarzabcza Dolina, Kamien Papieski</name>
+    <link href="https://mapa-turystyczna.pl/node/9884">
+      <text>Jarzabcza Dolina, Kamien Papieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarzabcza Dolina - Jarzabcza Dolina, Kamien Papieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.220989,19.786471;49.22078350000183,19.786779999999993;49.220633,19.787133">
+    <text>Jarzabcza Dolina - Jarzabcza Dolina, Kamien Papieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.220989" lon="19.786471">
+      <ele>1265</ele>
+      <time>2022-01-18T00:23:20Z</time>
+    </trkpt>
+    <trkpt lat="49.22094" lon="19.786573">
+      <ele>1264</ele>
+      <time>2022-01-18T00:23:29Z</time>
+    </trkpt>
+    <trkpt lat="49.220833" lon="19.786696">
+      <ele>1263</ele>
+      <time>2022-01-18T00:23:43Z</time>
+    </trkpt>
+    <trkpt lat="49.220797" lon="19.78675">
+      <ele>1263</ele>
+      <time>2022-01-18T00:23:48Z</time>
+    </trkpt>
+    <trkpt lat="49.22077" lon="19.78681">
+      <ele>1263</ele>
+      <time>2022-01-18T00:23:53Z</time>
+    </trkpt>
+    <trkpt lat="49.220737" lon="19.786909">
+      <ele>1263</ele>
+      <time>2022-01-18T00:24:01Z</time>
+    </trkpt>
+    <trkpt lat="49.220697" lon="19.787023">
+      <ele>1263</ele>
+      <time>2022-01-18T00:24:10Z</time>
+    </trkpt>
+    <trkpt lat="49.220641" lon="19.787119">
+      <ele>1264</ele>
+      <time>2022-01-18T00:24:19Z</time>
+    </trkpt>
+    <trkpt lat="49.220633" lon="19.787133">
+      <ele>1264</ele>
+      <time>2022-01-18T00:24:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

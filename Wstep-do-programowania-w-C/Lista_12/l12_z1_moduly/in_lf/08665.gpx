@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:54Z</time>
+    <bounds maxlat="50.5928446" maxlon="16.1309552" minlat="50.5874602" minlon="16.1291742"/>
+  </metadata>
+  <wpt lat="50.592845" lon="16.129174">
+    <ele>615</ele>
+    <name>U Sekery</name>
+    <link href="https://mapa-turystyczna.pl/node/6025">
+      <text>U Sekery</text>
+    </link>
+  </wpt>
+  <wpt lat="50.58746" lon="16.130955">
+    <ele>668</ele>
+    <name>Pod Bludistem</name>
+    <link href="https://mapa-turystyczna.pl/node/6018">
+      <text>Pod Bludistem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Sekery - Pod Bludistem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5928446,16.1291742;50.59027645042886,16.13026600000002;50.5874602,16.1309552">
+    <text>U Sekery - Pod Bludistem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5928446" lon="16.1291742">
+      <ele>615</ele>
+      <time>2022-01-17T22:42:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5921121" lon="16.1294184">
+      <ele>621</ele>
+      <time>2022-01-17T22:44:56Z</time>
+    </trkpt>
+    <trkpt lat="50.5914923" lon="16.1296974">
+      <ele>631</ele>
+      <time>2022-01-17T22:46:41Z</time>
+    </trkpt>
+    <trkpt lat="50.590961" lon="16.13003">
+      <ele>638</ele>
+      <time>2022-01-17T22:48:14Z</time>
+    </trkpt>
+    <trkpt lat="50.5904774" lon="16.1301587">
+      <ele>641</ele>
+      <time>2022-01-17T22:49:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5900755" lon="16.1303733">
+      <ele>646</ele>
+      <time>2022-01-17T22:50:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5896464" lon="16.1303626">
+      <ele>646</ele>
+      <time>2022-01-17T22:51:52Z</time>
+    </trkpt>
+    <trkpt lat="50.5891711" lon="16.1304055">
+      <ele>650</ele>
+      <time>2022-01-17T22:53:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5887828" lon="16.1304806">
+      <ele>652</ele>
+      <time>2022-01-17T22:54:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5882175" lon="16.1306522">
+      <ele>656</ele>
+      <time>2022-01-17T22:55:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5877679" lon="16.1308239">
+      <ele>661</ele>
+      <time>2022-01-17T22:57:01Z</time>
+    </trkpt>
+    <trkpt lat="50.5874602" lon="16.1309552">
+      <ele>668</ele>
+      <time>2022-01-17T22:57:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

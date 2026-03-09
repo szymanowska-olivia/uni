@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:00Z</time>
+    <bounds maxlat="50.5928446" maxlon="16.1291742" minlat="50.5922997" minlon="16.1256981"/>
+  </metadata>
+  <wpt lat="50.5923" lon="16.125698">
+    <ele>645</ele>
+    <name>Horolezecka chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6032">
+      <text>Horolezecka chata, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.592845" lon="16.129174">
+    <ele>615</ele>
+    <name>U Sekery</name>
+    <link href="https://mapa-turystyczna.pl/node/6025">
+      <text>U Sekery</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horolezecka chata, rozc. - U Sekery</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5922997,16.1256981;50.59281395000997,16.128256900000014;50.5928446,16.1291742">
+    <text>Horolezecka chata, rozc. - U Sekery</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5922997" lon="16.1256981">
+      <ele>645</ele>
+      <time>2022-01-17T22:43:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5925994" lon="16.1262238">
+      <ele>642</ele>
+      <time>2022-01-17T22:43:57Z</time>
+    </trkpt>
+    <trkpt lat="50.5927254" lon="16.1267039">
+      <ele>637</ele>
+      <time>2022-01-17T22:44:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5927833" lon="16.1273396">
+      <ele>638</ele>
+      <time>2022-01-17T22:45:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5928446" lon="16.1291742">
+      <ele>615</ele>
+      <time>2022-01-17T22:48:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:30Z</time>
+    <bounds maxlat="51.1416194" maxlon="16.2062438" minlat="51.1406708" minlon="16.2056904"/>
+  </metadata>
+  <wpt lat="51.141619" lon="16.206239">
+    <ele>129</ele>
+    <name>Raczkowa, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/10014">
+      <text>Raczkowa, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.140671" lon="16.20569">
+    <ele>128</ele>
+    <name>Raczkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9982">
+      <text>Raczkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raczkowa, odejscie szlaku zielonego - Raczkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1416194,16.2062395;51.14113405019636,16.20604260000002;51.1406708,16.2056904">
+    <text>Raczkowa, odejscie szlaku zielonego - Raczkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1416194" lon="16.2062395">
+      <ele>129</ele>
+      <time>2022-01-18T00:26:30Z</time>
+    </trkpt>
+    <trkpt lat="51.141474" lon="16.2062438">
+      <ele>128</ele>
+      <time>2022-01-18T00:26:47Z</time>
+    </trkpt>
+    <trkpt lat="51.1412687" lon="16.2061311">
+      <ele>128</ele>
+      <time>2022-01-18T00:27:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1409994" lon="16.2059541">
+      <ele>128</ele>
+      <time>2022-01-18T00:27:47Z</time>
+    </trkpt>
+    <trkpt lat="51.1406708" lon="16.2056904">
+      <ele>128</ele>
+      <time>2022-01-18T00:28:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

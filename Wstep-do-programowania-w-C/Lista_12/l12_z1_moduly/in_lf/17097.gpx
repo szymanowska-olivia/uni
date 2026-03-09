@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:54Z</time>
+    <bounds maxlat="50.4564316" maxlon="16.4203227" minlat="50.451971" minlon="16.4140356"/>
+  </metadata>
+  <wpt lat="50.451971" lon="16.420323">
+    <ele>692</ele>
+    <name>Pod Dzikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1785">
+      <text>Pod Dzikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.456432" lon="16.414036">
+    <ele>699</ele>
+    <name>Praski Trakt</name>
+    <link href="https://mapa-turystyczna.pl/node/11667">
+      <text>Praski Trakt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Dzikiem - Praski Trakt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.451971,16.4203227;50.45423765015642,16.41721464999997;50.4564316,16.4140356">
+    <text>Pod Dzikiem - Praski Trakt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.451971" lon="16.4203227">
+      <ele>692</ele>
+      <time>2022-01-18T01:07:54Z</time>
+    </trkpt>
+    <trkpt lat="50.452871" lon="16.4199713">
+      <ele>689</ele>
+      <time>2022-01-18T01:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4533202" lon="16.4195341">
+      <ele>685</ele>
+      <time>2022-01-18T01:10:08Z</time>
+    </trkpt>
+    <trkpt lat="50.454116" lon="16.4172918">
+      <ele>689</ele>
+      <time>2022-01-18T01:12:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4543593" lon="16.4171375">
+      <ele>689</ele>
+      <time>2022-01-18T01:13:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4547393" lon="16.4172193">
+      <ele>693</ele>
+      <time>2022-01-18T01:13:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4550898" lon="16.4172441">
+      <ele>696</ele>
+      <time>2022-01-18T01:14:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4556316" lon="16.4162282">
+      <ele>699</ele>
+      <time>2022-01-18T01:15:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4558612" lon="16.415441">
+      <ele>699</ele>
+      <time>2022-01-18T01:16:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4564316" lon="16.4140356">
+      <ele>699</ele>
+      <time>2022-01-18T01:17:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

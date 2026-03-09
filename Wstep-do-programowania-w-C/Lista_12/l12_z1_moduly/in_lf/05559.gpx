@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:33Z</time>
+    <bounds maxlat="49.615377" maxlon="18.824416" minlat="49.613024" minlon="18.823195"/>
+  </metadata>
+  <wpt lat="49.615377" lon="18.823195">
+    <ele>834</ele>
+    <name>Pod Malym Stozkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/3895">
+      <text>Pod Malym Stozkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.613024" lon="18.824406">
+    <ele>817</ele>
+    <name>Stozek Maly</name>
+    <link href="https://mapa-turystyczna.pl/node/831">
+      <text>Stozek Maly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Malym Stozkiem - Stozek Maly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.615377,18.823195;49.61436100003332,18.82438899999999;49.613024,18.824406">
+    <text>Pod Malym Stozkiem - Stozek Maly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.615377" lon="18.823195">
+      <ele>834</ele>
+      <time>2022-01-17T21:57:33Z</time>
+    </trkpt>
+    <trkpt lat="49.615173" lon="18.823439">
+      <ele>834</ele>
+      <time>2022-01-17T21:58:02Z</time>
+    </trkpt>
+    <trkpt lat="49.61467" lon="18.824016">
+      <ele>835</ele>
+      <time>2022-01-17T21:59:13Z</time>
+    </trkpt>
+    <trkpt lat="49.614418" lon="18.824362">
+      <ele>834</ele>
+      <time>2022-01-17T21:59:51Z</time>
+    </trkpt>
+    <trkpt lat="49.614304" lon="18.824416">
+      <ele>833</ele>
+      <time>2022-01-17T22:00:05Z</time>
+    </trkpt>
+    <trkpt lat="49.614102" lon="18.824299">
+      <ele>834</ele>
+      <time>2022-01-17T22:00:29Z</time>
+    </trkpt>
+    <trkpt lat="49.613414" lon="18.824339">
+      <ele>821</ele>
+      <time>2022-01-17T22:01:48Z</time>
+    </trkpt>
+    <trkpt lat="49.613225" lon="18.824347">
+      <ele>819</ele>
+      <time>2022-01-17T22:02:10Z</time>
+    </trkpt>
+    <trkpt lat="49.613024" lon="18.824406">
+      <ele>817</ele>
+      <time>2022-01-17T22:02:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

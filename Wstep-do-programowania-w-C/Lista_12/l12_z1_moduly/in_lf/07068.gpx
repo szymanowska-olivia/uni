@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:12Z</time>
+    <bounds maxlat="49.768061" maxlon="19.039343" minlat="49.767874" minlon="19.038498"/>
+  </metadata>
+  <wpt lat="49.768061" lon="19.038498">
+    <ele>681</ele>
+    <name>Przy Stefance</name>
+    <link href="https://mapa-turystyczna.pl/node/4819">
+      <text>Przy Stefance</text>
+    </link>
+  </wpt>
+  <wpt lat="49.767949" lon="19.039343">
+    <ele>677</ele>
+    <name>Schronisko Stefanka</name>
+    <link href="https://mapa-turystyczna.pl/node/820">
+      <text>Schronisko Stefanka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przy Stefance - Schronisko Stefanka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.768061,19.038498;49.76789350000391,19.038941000000023;49.767949,19.039343">
+    <text>Przy Stefance - Schronisko Stefanka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.768061" lon="19.038498">
+      <ele>681</ele>
+      <time>2022-01-17T22:17:12Z</time>
+    </trkpt>
+    <trkpt lat="49.768053" lon="19.038567">
+      <ele>680</ele>
+      <time>2022-01-17T22:17:16Z</time>
+    </trkpt>
+    <trkpt lat="49.768027" lon="19.038673">
+      <ele>679</ele>
+      <time>2022-01-17T22:17:23Z</time>
+    </trkpt>
+    <trkpt lat="49.767979" lon="19.038773">
+      <ele>678</ele>
+      <time>2022-01-17T22:17:31Z</time>
+    </trkpt>
+    <trkpt lat="49.767913" lon="19.03886">
+      <ele>676</ele>
+      <time>2022-01-17T22:17:40Z</time>
+    </trkpt>
+    <trkpt lat="49.767874" lon="19.039022">
+      <ele>676</ele>
+      <time>2022-01-17T22:17:50Z</time>
+    </trkpt>
+    <trkpt lat="49.767887" lon="19.039164">
+      <ele>676</ele>
+      <time>2022-01-17T22:17:59Z</time>
+    </trkpt>
+    <trkpt lat="49.767915" lon="19.039268">
+      <ele>677</ele>
+      <time>2022-01-17T22:18:06Z</time>
+    </trkpt>
+    <trkpt lat="49.767949" lon="19.039343">
+      <ele>677</ele>
+      <time>2022-01-17T22:18:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

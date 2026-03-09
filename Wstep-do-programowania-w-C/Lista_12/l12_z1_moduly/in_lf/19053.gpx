@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:41Z</time>
+    <bounds maxlat="52.1099413" maxlon="21.2981698" minlat="52.1082175" minlon="21.2945327"/>
+  </metadata>
+  <wpt lat="52.108218" lon="21.294593">
+    <ele>105</ele>
+    <name>Otwock, ul. Orzeszkowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12895">
+      <text>Otwock, ul. Orzeszkowej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.109928" lon="21.29817">
+    <ele>107</ele>
+    <name>Otwock, Mazowieckie Centrum Leczenia Chorob Pluc i Gruzlicy</name>
+    <link href="https://mapa-turystyczna.pl/node/12896">
+      <text>Otwock, Mazowieckie Centrum Leczenia Chorob Pluc i Gruzlicy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Orzeszkowej - Otwock, Mazowieckie Centrum Leczenia Chorob Pluc i Gruzlicy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1082175,21.2945934;52.10983420012863,21.296297600000027;52.1099283,21.2981698">
+    <text>Otwock, ul. Orzeszkowej - Otwock, Mazowieckie Centrum Leczenia Chorob Pluc i Gruzlicy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1082175" lon="21.2945934">
+      <ele>105</ele>
+      <time>2022-01-18T01:41:41Z</time>
+    </trkpt>
+    <trkpt lat="52.1089858" lon="21.2945864">
+      <ele>110</ele>
+      <time>2022-01-18T01:42:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1097271" lon="21.2945327">
+      <ele>108</ele>
+      <time>2022-01-18T01:43:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1099413" lon="21.2980625">
+      <ele>107</ele>
+      <time>2022-01-18T01:46:36Z</time>
+    </trkpt>
+    <trkpt lat="52.1099283" lon="21.2981698">
+      <ele>107</ele>
+      <time>2022-01-18T01:46:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

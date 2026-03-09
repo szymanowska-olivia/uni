@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:21Z</time>
+    <bounds maxlat="49.746191" maxlon="18.93907" minlat="49.745917" minlon="18.934679"/>
+  </metadata>
+  <wpt lat="49.745945" lon="18.934679">
+    <ele>854</ele>
+    <name>Wielka Cisowa</name>
+    <link href="https://mapa-turystyczna.pl/node/846">
+      <text>Wielka Cisowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.746191" lon="18.93907">
+    <ele>851</ele>
+    <name>Ranczo Blatnia</name>
+    <link href="https://mapa-turystyczna.pl/node/13475">
+      <text>Ranczo Blatnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wielka Cisowa - Ranczo Blatnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.745945,18.934679;49.746010500000075,18.937127499999995;49.746191,18.93907">
+    <text>Wielka Cisowa - Ranczo Blatnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.745945" lon="18.934679">
+      <ele>854</ele>
+      <time>2022-01-18T01:58:21Z</time>
+    </trkpt>
+    <trkpt lat="49.74595" lon="18.934743">
+      <ele>853</ele>
+      <time>2022-01-18T01:58:25Z</time>
+    </trkpt>
+    <trkpt lat="49.745917" lon="18.93509">
+      <ele>851</ele>
+      <time>2022-01-18T01:58:49Z</time>
+    </trkpt>
+    <trkpt lat="49.745941" lon="18.935252">
+      <ele>850</ele>
+      <time>2022-01-18T01:59:00Z</time>
+    </trkpt>
+    <trkpt lat="49.746003" lon="18.935517">
+      <ele>851</ele>
+      <time>2022-01-18T01:59:19Z</time>
+    </trkpt>
+    <trkpt lat="49.746019" lon="18.935688">
+      <ele>851</ele>
+      <time>2022-01-18T01:59:31Z</time>
+    </trkpt>
+    <trkpt lat="49.746026" lon="18.935909">
+      <ele>851</ele>
+      <time>2022-01-18T01:59:45Z</time>
+    </trkpt>
+    <trkpt lat="49.746013" lon="18.936769">
+      <ele>849</ele>
+      <time>2022-01-18T02:00:43Z</time>
+    </trkpt>
+    <trkpt lat="49.746008" lon="18.937486">
+      <ele>848</ele>
+      <time>2022-01-18T02:01:31Z</time>
+    </trkpt>
+    <trkpt lat="49.746002" lon="18.938122">
+      <ele>845</ele>
+      <time>2022-01-18T02:02:14Z</time>
+    </trkpt>
+    <trkpt lat="49.746006" lon="18.938176">
+      <ele>845</ele>
+      <time>2022-01-18T02:02:18Z</time>
+    </trkpt>
+    <trkpt lat="49.746048" lon="18.938383">
+      <ele>844</ele>
+      <time>2022-01-18T02:02:32Z</time>
+    </trkpt>
+    <trkpt lat="49.746191" lon="18.93907">
+      <ele>851</ele>
+      <time>2022-01-18T02:03:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

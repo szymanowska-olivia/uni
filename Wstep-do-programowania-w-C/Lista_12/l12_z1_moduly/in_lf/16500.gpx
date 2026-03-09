@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:57:41Z</time>
+    <bounds maxlat="49.2906138" maxlon="22.4195184" minlat="49.2893035" minlon="22.4160416"/>
+  </metadata>
+  <wpt lat="49.290614" lon="22.416042">
+    <ele>451</ele>
+    <name>Terka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11262">
+      <text>Terka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.290188" lon="22.419518">
+    <ele>448</ele>
+    <name>Terka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11263">
+      <text>Terka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Terka, rozejscie szlakow - Terka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2906138,22.4160416;49.2899586543532,22.416919300000014;49.2901876,22.4195184">
+    <text>Terka, rozejscie szlakow - Terka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2906138" lon="22.4160416">
+      <ele>451</ele>
+      <time>2022-01-18T00:57:41Z</time>
+    </trkpt>
+    <trkpt lat="49.2893035" lon="22.417797">
+      <ele>443</ele>
+      <time>2022-01-18T01:00:26Z</time>
+    </trkpt>
+    <trkpt lat="49.2900943" lon="22.4193849">
+      <ele>447</ele>
+      <time>2022-01-18T01:02:29Z</time>
+    </trkpt>
+    <trkpt lat="49.2901876" lon="22.4195184">
+      <ele>448</ele>
+      <time>2022-01-18T01:02:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

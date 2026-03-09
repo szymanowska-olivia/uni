@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:38Z</time>
+    <bounds maxlat="50.8275378" maxlon="20.4976666" minlat="50.8260469" minlon="20.4967868"/>
+  </metadata>
+  <wpt lat="50.827538" lon="20.496787">
+    <ele>254</ele>
+    <name>Skrzyzowanie przy Jaskini Raj</name>
+    <link href="https://mapa-turystyczna.pl/node/3134">
+      <text>Skrzyzowanie przy Jaskini Raj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.826047" lon="20.497667">
+    <ele>250</ele>
+    <name>Jaskinia Raj</name>
+    <link href="https://mapa-turystyczna.pl/node/3131">
+      <text>Jaskinia Raj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Jaskini Raj - Jaskinia Raj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8275378,20.4967868;50.82696515351217,20.496883400000012;50.8260469,20.4976666">
+    <text>Skrzyzowanie przy Jaskini Raj - Jaskinia Raj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8275378" lon="20.4967868">
+      <ele>254</ele>
+      <time>2022-01-17T21:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8263925" lon="20.49698">
+      <ele>250</ele>
+      <time>2022-01-17T21:45:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8260469" lon="20.4976666">
+      <ele>250</ele>
+      <time>2022-01-17T21:46:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

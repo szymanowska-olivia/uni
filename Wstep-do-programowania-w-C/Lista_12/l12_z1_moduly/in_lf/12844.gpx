@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:23Z</time>
+    <bounds maxlat="50.780339" maxlon="15.0913253" minlat="50.7782856" minlon="15.0877205"/>
+  </metadata>
+  <wpt lat="50.778286" lon="15.091325">
+    <ele>546</ele>
+    <name>Liberecka vysina</name>
+    <link href="https://mapa-turystyczna.pl/node/8836">
+      <text>Liberecka vysina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.780339" lon="15.08772">
+    <ele>499</ele>
+    <name>Pristresek pod Libereckou vysinou</name>
+    <link href="https://mapa-turystyczna.pl/node/8835">
+      <text>Pristresek pod Libereckou vysinou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Liberecka vysina - Pristresek pod Libereckou vysinou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7782856,15.0913253;50.77912300008973,15.089472050000019;50.780339,15.0877205">
+    <text>Liberecka vysina - Pristresek pod Libereckou vysinou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7782856" lon="15.0913253">
+      <ele>546</ele>
+      <time>2022-01-17T23:57:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7783021" lon="15.0909875">
+      <ele>546</ele>
+      <time>2022-01-17T23:57:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7783903" lon="15.0905369">
+      <ele>545</ele>
+      <time>2022-01-17T23:58:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7784649" lon="15.0902687">
+      <ele>543</ele>
+      <time>2022-01-17T23:58:27Z</time>
+    </trkpt>
+    <trkpt lat="50.778665" lon="15.0899629">
+      <ele>539</ele>
+      <time>2022-01-17T23:58:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7790314" lon="15.0895981">
+      <ele>526</ele>
+      <time>2022-01-17T23:59:33Z</time>
+    </trkpt>
+    <trkpt lat="50.7792146" lon="15.089346">
+      <ele>521</ele>
+      <time>2022-01-17T23:59:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7793367" lon="15.0887988">
+      <ele>518</ele>
+      <time>2022-01-18T00:00:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7794689" lon="15.0886486">
+      <ele>515</ele>
+      <time>2022-01-18T00:00:45Z</time>
+    </trkpt>
+    <trkpt lat="50.779781" lon="15.0884501">
+      <ele>510</ele>
+      <time>2022-01-18T00:01:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7799777" lon="15.0881068">
+      <ele>505</ele>
+      <time>2022-01-18T00:01:43Z</time>
+    </trkpt>
+    <trkpt lat="50.780339" lon="15.0877205">
+      <ele>499</ele>
+      <time>2022-01-18T00:02:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

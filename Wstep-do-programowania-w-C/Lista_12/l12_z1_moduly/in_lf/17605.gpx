@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:19Z</time>
+    <bounds maxlat="52.1208169" maxlon="21.0862162" minlat="52.1173901" minlon="21.0734331"/>
+  </metadata>
+  <wpt lat="52.119813" lon="21.073433">
+    <ele>116</ele>
+    <name>Las Kabacki</name>
+    <link href="https://mapa-turystyczna.pl/node/11908">
+      <text>Las Kabacki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.11739" lon="21.086186">
+    <ele>103</ele>
+    <name>Las Kabacki, Trakt Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/11941">
+      <text>Las Kabacki, Trakt Lesny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Kabacki - Las Kabacki, Trakt Lesny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1198127,21.0734331;52.120569900684416,21.082265699999983;52.1173901,21.0861856">
+    <text>Las Kabacki - Las Kabacki, Trakt Lesny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1198127" lon="21.0734331">
+      <ele>116</ele>
+      <time>2022-01-18T01:16:19Z</time>
+    </trkpt>
+    <trkpt lat="52.1198212" lon="21.0747289">
+      <ele>115</ele>
+      <time>2022-01-18T01:17:49Z</time>
+    </trkpt>
+    <trkpt lat="52.1203229" lon="21.0796348">
+      <ele>113</ele>
+      <time>2022-01-18T01:23:32Z</time>
+    </trkpt>
+    <trkpt lat="52.1208169" lon="21.0848966">
+      <ele>113</ele>
+      <time>2022-01-18T01:29:40Z</time>
+    </trkpt>
+    <trkpt lat="52.1205864" lon="21.085036">
+      <ele>113</ele>
+      <time>2022-01-18T01:30:08Z</time>
+    </trkpt>
+    <trkpt lat="52.1204843" lon="21.0851111">
+      <ele>113</ele>
+      <time>2022-01-18T01:30:20Z</time>
+    </trkpt>
+    <trkpt lat="52.1185673" lon="21.0860446">
+      <ele>108</ele>
+      <time>2022-01-18T01:34:05Z</time>
+    </trkpt>
+    <trkpt lat="52.1183762" lon="21.0861143">
+      <ele>105</ele>
+      <time>2022-01-18T01:34:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1178854" lon="21.0862162">
+      <ele>103</ele>
+      <time>2022-01-18T01:35:23Z</time>
+    </trkpt>
+    <trkpt lat="52.1173901" lon="21.0861856">
+      <ele>103</ele>
+      <time>2022-01-18T01:36:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

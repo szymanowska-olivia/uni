@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:49:07Z</time>
+    <bounds maxlat="49.8172504" maxlon="20.5929816" minlat="49.8150075" minlon="20.5903423"/>
+  </metadata>
+  <wpt lat="49.81725" lon="20.590342">
+    <ele>286</ele>
+    <name>Iwkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3480">
+      <text>Iwkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.815008" lon="20.592982">
+    <ele>285</ele>
+    <name>Iwkowa, Urzad Gminy</name>
+    <link href="https://mapa-turystyczna.pl/node/3483">
+      <text>Iwkowa, Urzad Gminy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Iwkowa - Iwkowa, Urzad Gminy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8172504,20.5903423;49.816228701721684,20.591214649999976;49.8150075,20.5929816">
+    <text>Iwkowa - Iwkowa, Urzad Gminy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8172504" lon="20.5903423">
+      <ele>286</ele>
+      <time>2022-01-17T21:49:07Z</time>
+    </trkpt>
+    <trkpt lat="49.8169752" lon="20.5904335">
+      <ele>286</ele>
+      <time>2022-01-17T21:49:37Z</time>
+    </trkpt>
+    <trkpt lat="49.8166369" lon="20.5906936">
+      <ele>286</ele>
+      <time>2022-01-17T21:50:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8158205" lon="20.5917357">
+      <ele>285</ele>
+      <time>2022-01-17T21:52:07Z</time>
+    </trkpt>
+    <trkpt lat="49.8150075" lon="20.5929816">
+      <ele>285</ele>
+      <time>2022-01-17T21:54:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

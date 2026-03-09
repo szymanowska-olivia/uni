@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:42Z</time>
+    <bounds maxlat="50.536092" maxlon="16.0504997" minlat="50.5341247" minlon="16.0501671"/>
+  </metadata>
+  <wpt lat="50.536092" lon="16.050312">
+    <ele>469</ele>
+    <name>U Marianskeho sadu</name>
+    <link href="https://mapa-turystyczna.pl/node/6246">
+      <text>U Marianskeho sadu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.534125" lon="16.050366">
+    <ele>440</ele>
+    <name>Male Svatonovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6240">
+      <text>Male Svatonovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Marianskeho sadu - Male Svatonovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.536092,16.0503119;50.53497710027238,16.0503817;50.5341247,16.0503656">
+    <text>U Marianskeho sadu - Male Svatonovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.536092" lon="16.0503119">
+      <ele>469</ele>
+      <time>2022-01-17T22:48:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5360341" lon="16.0503602">
+      <ele>468</ele>
+      <time>2022-01-17T22:48:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5359079" lon="16.0504138">
+      <ele>464</ele>
+      <time>2022-01-17T22:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5357102" lon="16.050446">
+      <ele>459</ele>
+      <time>2022-01-17T22:49:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5354204" lon="16.0504997">
+      <ele>453</ele>
+      <time>2022-01-17T22:49:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5351374" lon="16.0504568">
+      <ele>450</ele>
+      <time>2022-01-17T22:50:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5348168" lon="16.0503066">
+      <ele>447</ele>
+      <time>2022-01-17T22:50:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5345134" lon="16.0501671">
+      <ele>444</ele>
+      <time>2022-01-17T22:51:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5341247" lon="16.0503656">
+      <ele>440</ele>
+      <time>2022-01-17T22:51:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

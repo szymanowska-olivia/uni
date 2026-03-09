@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:06Z</time>
+    <bounds maxlat="54.4674033" maxlon="18.5427064" minlat="54.4672069" minlon="18.5393965"/>
+  </metadata>
+  <wpt lat="54.467403" lon="18.539396">
+    <ele>83</ele>
+    <name>Skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10911">
+      <text>Skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="54.467207" lon="18.542706">
+    <ele>84</ele>
+    <name>Wieza widokowa w Kolibkach</name>
+    <link href="https://mapa-turystyczna.pl/node/10873">
+      <text>Wieza widokowa w Kolibkach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / zolty - Wieza widokowa w Kolibkach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4674033,18.5393965;54.46735095000502,18.541585899999998;54.4672069,18.5427064">
+    <text>Skrzyzowanie szlakow czerwony / zolty - Wieza widokowa w Kolibkach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4674033" lon="18.5393965">
+      <ele>83</ele>
+      <time>2022-01-18T00:48:06Z</time>
+    </trkpt>
+    <trkpt lat="54.46739" lon="18.5405714">
+      <ele>80</ele>
+      <time>2022-01-18T00:49:50Z</time>
+    </trkpt>
+    <trkpt lat="54.4673712" lon="18.540904">
+      <ele>79</ele>
+      <time>2022-01-18T00:50:20Z</time>
+    </trkpt>
+    <trkpt lat="54.4673307" lon="18.5422678">
+      <ele>82</ele>
+      <time>2022-01-18T00:52:21Z</time>
+    </trkpt>
+    <trkpt lat="54.4673058" lon="18.542477">
+      <ele>83</ele>
+      <time>2022-01-18T00:52:41Z</time>
+    </trkpt>
+    <trkpt lat="54.467259" lon="18.5426057">
+      <ele>83</ele>
+      <time>2022-01-18T00:52:54Z</time>
+    </trkpt>
+    <trkpt lat="54.4672069" lon="18.5427064">
+      <ele>84</ele>
+      <time>2022-01-18T00:53:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

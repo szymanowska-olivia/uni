@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:40Z</time>
+    <bounds maxlat="50.8657876" maxlon="15.0365158" minlat="50.8637834" minlon="15.0116388"/>
+  </metadata>
+  <wpt lat="50.865068" lon="15.011639">
+    <ele>568</ele>
+    <name>Pod Vysokym</name>
+    <link href="https://mapa-turystyczna.pl/node/8716">
+      <text>Pod Vysokym</text>
+    </link>
+  </wpt>
+  <wpt lat="50.865788" lon="15.036516">
+    <ele>536</ele>
+    <name>Albrechtice</name>
+    <link href="https://mapa-turystyczna.pl/node/8723">
+      <text>Albrechtice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Vysokym - Albrechtice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8650683,15.0116388;50.86413645133673,15.025164200000027;50.8657876,15.0365158">
+    <text>Pod Vysokym - Albrechtice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8650683" lon="15.0116388">
+      <ele>568</ele>
+      <time>2022-01-17T23:54:40Z</time>
+    </trkpt>
+    <trkpt lat="50.864894" lon="15.014157">
+      <ele>561</ele>
+      <time>2022-01-17T23:57:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8637834" lon="15.0230619">
+      <ele>554</ele>
+      <time>2022-01-18T00:08:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8637834" lon="15.023534">
+      <ele>555</ele>
+      <time>2022-01-18T00:08:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8644895" lon="15.0267944">
+      <ele>565</ele>
+      <time>2022-01-18T00:12:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8649432" lon="15.0280068">
+      <ele>564</ele>
+      <time>2022-01-18T00:14:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8654172" lon="15.0306246">
+      <ele>552</ele>
+      <time>2022-01-18T00:17:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8656339" lon="15.0324592">
+      <ele>546</ele>
+      <time>2022-01-18T00:19:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8657876" lon="15.0365158">
+      <ele>536</ele>
+      <time>2022-01-18T00:24:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

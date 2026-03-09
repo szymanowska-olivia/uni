@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:44Z</time>
+    <bounds maxlat="51.7864467" maxlon="21.1872574" minlat="51.7830552" minlon="21.1836794"/>
+  </metadata>
+  <wpt lat="51.783055" lon="21.187257">
+    <ele>120</ele>
+    <name>Warka</name>
+    <link href="https://mapa-turystyczna.pl/node/12000">
+      <text>Warka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.786447" lon="21.183679">
+    <ele>119</ele>
+    <name>Pomnik Lotnikow Polskich</name>
+    <link href="https://mapa-turystyczna.pl/node/12001">
+      <text>Pomnik Lotnikow Polskich</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka - Pomnik Lotnikow Polskich</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7830552,21.1872574;51.785091020370906,21.185094149999973;51.7864467,21.1836794">
+    <text>Warka - Pomnik Lotnikow Polskich</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7830552" lon="21.1872574">
+      <ele>120</ele>
+      <time>2022-01-18T01:17:44Z</time>
+    </trkpt>
+    <trkpt lat="51.7830717" lon="21.187146">
+      <ele>120</ele>
+      <time>2022-01-18T01:17:49Z</time>
+    </trkpt>
+    <trkpt lat="51.7831081" lon="21.1870507">
+      <ele>120</ele>
+      <time>2022-01-18T01:17:54Z</time>
+    </trkpt>
+    <trkpt lat="51.7831678" lon="21.1870507">
+      <ele>121</ele>
+      <time>2022-01-18T01:17:59Z</time>
+    </trkpt>
+    <trkpt lat="51.7837353" lon="21.1865089">
+      <ele>121</ele>
+      <time>2022-01-18T01:18:47Z</time>
+    </trkpt>
+    <trkpt lat="51.7864467" lon="21.1836794">
+      <ele>119</ele>
+      <time>2022-01-18T01:22:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

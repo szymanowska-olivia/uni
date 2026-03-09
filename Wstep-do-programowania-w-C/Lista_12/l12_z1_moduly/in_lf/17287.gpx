@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:57Z</time>
+    <bounds maxlat="52.315475" maxlon="16.801473" minlat="52.3128144" minlon="16.8003649"/>
+  </metadata>
+  <wpt lat="52.312814" lon="16.800365">
+    <ele>124</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11639">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.315475" lon="16.801473">
+    <ele>98</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11764">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3128144,16.8003649;52.31413115163511,16.80085009999998;52.315475,16.801473">
+    <text>Rozejscie szlakow - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3128144" lon="16.8003649">
+      <ele>124</ele>
+      <time>2022-01-18T01:10:57Z</time>
+    </trkpt>
+    <trkpt lat="52.3135802" lon="16.8007214">
+      <ele>116</ele>
+      <time>2022-01-18T01:12:24Z</time>
+    </trkpt>
+    <trkpt lat="52.3137507" lon="16.8007106">
+      <ele>115</ele>
+      <time>2022-01-18T01:12:42Z</time>
+    </trkpt>
+    <trkpt lat="52.3145116" lon="16.8009896">
+      <ele>113</ele>
+      <time>2022-01-18T01:14:07Z</time>
+    </trkpt>
+    <trkpt lat="52.315475" lon="16.801473">
+      <ele>98</ele>
+      <time>2022-01-18T01:15:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:39:41Z</time>
+    <bounds maxlat="50.562049" maxlon="16.2138676" minlat="50.5618531" minlon="16.212607"/>
+  </metadata>
+  <wpt lat="50.561853" lon="16.212607">
+    <ele>610</ele>
+    <name>Nad Sluji Ceskych bratri</name>
+    <link href="https://mapa-turystyczna.pl/node/5908">
+      <text>Nad Sluji Ceskych bratri</text>
+    </link>
+  </wpt>
+  <wpt lat="50.562032" lon="16.213868">
+    <ele>600</ele>
+    <name>Sluj Ceskych bratri, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5909">
+      <text>Sluj Ceskych bratri, odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Sluji Ceskych bratri - Sluj Ceskych bratri, odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5618531,16.212607;50.56204050000076,16.213488099999996;50.562032,16.2138676">
+    <text>Nad Sluji Ceskych bratri - Sluj Ceskych bratri, odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5618531" lon="16.212607">
+      <ele>610</ele>
+      <time>2022-01-17T22:39:41Z</time>
+    </trkpt>
+    <trkpt lat="50.562049" lon="16.2131086">
+      <ele>608</ele>
+      <time>2022-01-17T22:40:07Z</time>
+    </trkpt>
+    <trkpt lat="50.562032" lon="16.2138676">
+      <ele>600</ele>
+      <time>2022-01-17T22:40:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

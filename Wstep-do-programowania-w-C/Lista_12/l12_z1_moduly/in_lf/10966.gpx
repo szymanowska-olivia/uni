@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:03Z</time>
+    <bounds maxlat="50.1290132" maxlon="17.3874624" minlat="50.1259882" minlon="17.3805535"/>
+  </metadata>
+  <wpt lat="50.125988" lon="17.380554">
+    <ele>536</ele>
+    <name>Mnichov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6805">
+      <text>Mnichov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.128315" lon="17.387462">
+    <ele>635</ele>
+    <name>Stara sjezdovka</name>
+    <link href="https://mapa-turystyczna.pl/node/7724">
+      <text>Stara sjezdovka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mnichov, rozc. - Stara sjezdovka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1259882,17.3805535;50.128329650412276,17.382959800000002;50.1283151,17.3874624">
+    <text>Mnichov, rozc. - Stara sjezdovka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1259882" lon="17.3805535">
+      <ele>536</ele>
+      <time>2022-01-17T23:26:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1260934" lon="17.3806073">
+      <ele>537</ele>
+      <time>2022-01-17T23:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1261244" lon="17.3809721">
+      <ele>537</ele>
+      <time>2022-01-17T23:27:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1262069" lon="17.3816641">
+      <ele>539</ele>
+      <time>2022-01-17T23:28:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1265646" lon="17.3827745">
+      <ele>556</ele>
+      <time>2022-01-17T23:30:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1266815" lon="17.3829408">
+      <ele>560</ele>
+      <time>2022-01-17T23:31:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1268947" lon="17.3830374">
+      <ele>563</ele>
+      <time>2022-01-17T23:31:53Z</time>
+    </trkpt>
+    <trkpt lat="50.128131" lon="17.3826784">
+      <ele>580</ele>
+      <time>2022-01-17T23:35:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1285283" lon="17.3832412">
+      <ele>583</ele>
+      <time>2022-01-17T23:37:10Z</time>
+    </trkpt>
+    <trkpt lat="50.1288068" lon="17.3836596">
+      <ele>588</ele>
+      <time>2022-01-17T23:38:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1288859" lon="17.3837938">
+      <ele>589</ele>
+      <time>2022-01-17T23:38:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1290132" lon="17.3840942">
+      <ele>593</ele>
+      <time>2022-01-17T23:39:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1283151" lon="17.3874624">
+      <ele>635</ele>
+      <time>2022-01-17T23:46:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

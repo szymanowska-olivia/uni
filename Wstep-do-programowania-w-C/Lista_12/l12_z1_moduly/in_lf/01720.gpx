@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:00Z</time>
+    <bounds maxlat="50.780579" maxlon="15.6182456" minlat="50.7729666" minlon="15.6151021"/>
+  </metadata>
+  <wpt lat="50.780579" lon="15.618138">
+    <ele>1120</ele>
+    <name>Bazynowe Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/1262">
+      <text>Bazynowe Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.772967" lon="15.615102">
+    <ele>1262</ele>
+    <name>U Petrovy Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1286">
+      <text>U Petrovy Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bazynowe Skaly - U Petrovy Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.780579,15.6181383;50.77671460128211,15.618181250000006;50.7729666,15.6151021">
+    <text>Bazynowe Skaly - U Petrovy Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.780579" lon="15.6181383">
+      <ele>1120</ele>
+      <time>2022-01-17T21:05:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7799207" lon="15.6177091">
+      <ele>1130</ele>
+      <time>2022-01-17T21:07:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7795053" lon="15.6175482">
+      <ele>1136</ele>
+      <time>2022-01-17T21:09:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7789406" lon="15.6175161">
+      <ele>1146</ele>
+      <time>2022-01-17T21:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7770609" lon="15.6181169">
+      <ele>1184</ele>
+      <time>2022-01-17T21:17:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7763683" lon="15.6182456">
+      <ele>1197</ele>
+      <time>2022-01-17T21:20:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7760038" lon="15.6182241">
+      <ele>1207</ele>
+      <time>2022-01-17T21:21:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7753871" lon="15.6179827">
+      <ele>1220</ele>
+      <time>2022-01-17T21:23:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7746144" lon="15.6175911">
+      <ele>1235</ele>
+      <time>2022-01-17T21:26:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7741949" lon="15.6172371">
+      <ele>1243</ele>
+      <time>2022-01-17T21:28:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7738794" lon="15.6168401">
+      <ele>1249</ele>
+      <time>2022-01-17T21:29:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7729666" lon="15.6151021">
+      <ele>1262</ele>
+      <time>2022-01-17T21:35:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

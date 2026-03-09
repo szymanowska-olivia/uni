@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:31Z</time>
+    <bounds maxlat="52.5135909" maxlon="15.2110577" minlat="52.5126793" minlon="15.2065995"/>
+  </metadata>
+  <wpt lat="52.512679" lon="15.211058">
+    <ele>57</ele>
+    <name>Szosa Jarnatow - Lubniewice</name>
+    <link href="https://mapa-turystyczna.pl/node/13015">
+      <text>Szosa Jarnatow - Lubniewice</text>
+    </link>
+  </wpt>
+  <wpt lat="52.513591" lon="15.206599">
+    <ele>66</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13033">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szosa Jarnatow - Lubniewice - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5126793,15.2110577;52.513135102363854,15.208828600000004;52.5135909,15.2065995">
+    <text>Szosa Jarnatow - Lubniewice - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5126793" lon="15.2110577">
+      <ele>57</ele>
+      <time>2022-01-18T01:45:31Z</time>
+    </trkpt>
+    <trkpt lat="52.5135909" lon="15.2065995">
+      <ele>66</ele>
+      <time>2022-01-18T01:50:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

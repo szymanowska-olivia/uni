@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:53Z</time>
+    <bounds maxlat="49.582827" maxlon="20.009467" minlat="49.581678" minlon="20.008225"/>
+  </metadata>
+  <wpt lat="49.582827" lon="20.008225">
+    <ele>853</ele>
+    <name>Schronisko PTTK na Maciejowej</name>
+    <link href="https://mapa-turystyczna.pl/node/4907">
+      <text>Schronisko PTTK na Maciejowej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.581678" lon="20.009467">
+    <ele>843</ele>
+    <name>Las Panski</name>
+    <link href="https://mapa-turystyczna.pl/node/113">
+      <text>Las Panski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK na Maciejowej - Las Panski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.582827,20.008225;49.582247000027714,20.009010500000016;49.581678,20.009467">
+    <text>Schronisko PTTK na Maciejowej - Las Panski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.582827" lon="20.008225">
+      <ele>853</ele>
+      <time>2022-01-17T22:19:53Z</time>
+    </trkpt>
+    <trkpt lat="49.5828" lon="20.008309">
+      <ele>853</ele>
+      <time>2022-01-17T22:20:00Z</time>
+    </trkpt>
+    <trkpt lat="49.582601" lon="20.008664">
+      <ele>851</ele>
+      <time>2022-01-17T22:20:32Z</time>
+    </trkpt>
+    <trkpt lat="49.582431" lon="20.008874">
+      <ele>848</ele>
+      <time>2022-01-17T22:20:56Z</time>
+    </trkpt>
+    <trkpt lat="49.582299" lon="20.008983">
+      <ele>846</ele>
+      <time>2022-01-17T22:21:12Z</time>
+    </trkpt>
+    <trkpt lat="49.582195" lon="20.009038">
+      <ele>845</ele>
+      <time>2022-01-17T22:21:24Z</time>
+    </trkpt>
+    <trkpt lat="49.582089" lon="20.009057">
+      <ele>843</ele>
+      <time>2022-01-17T22:21:35Z</time>
+    </trkpt>
+    <trkpt lat="49.582001" lon="20.00901">
+      <ele>842</ele>
+      <time>2022-01-17T22:21:45Z</time>
+    </trkpt>
+    <trkpt lat="49.581922" lon="20.008937">
+      <ele>840</ele>
+      <time>2022-01-17T22:21:55Z</time>
+    </trkpt>
+    <trkpt lat="49.581873" lon="20.008834">
+      <ele>839</ele>
+      <time>2022-01-17T22:22:04Z</time>
+    </trkpt>
+    <trkpt lat="49.581817" lon="20.008997">
+      <ele>839</ele>
+      <time>2022-01-17T22:22:17Z</time>
+    </trkpt>
+    <trkpt lat="49.581678" lon="20.009467">
+      <ele>843</ele>
+      <time>2022-01-17T22:22:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

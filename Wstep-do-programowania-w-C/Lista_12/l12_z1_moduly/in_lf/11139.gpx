@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:10Z</time>
+    <bounds maxlat="49.9321253" maxlon="17.2709682" minlat="49.9317196" minlon="17.2694907"/>
+  </metadata>
+  <wpt lat="49.932125" lon="17.269491">
+    <ele>611</ele>
+    <name>Rymarov, namesti Svobody</name>
+    <link href="https://mapa-turystyczna.pl/node/7847">
+      <text>Rymarov, namesti Svobody</text>
+    </link>
+  </wpt>
+  <wpt lat="49.93172" lon="17.270968">
+    <ele>607</ele>
+    <name>Rymarov</name>
+    <link href="https://mapa-turystyczna.pl/node/7846">
+      <text>Rymarov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rymarov, namesti Svobody - Rymarov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9321253,17.2694907;49.93192245042691,17.270229449999988;49.9317196,17.2709682">
+    <text>Rymarov, namesti Svobody - Rymarov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9321253" lon="17.2694907">
+      <ele>611</ele>
+      <time>2022-01-17T23:29:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9317196" lon="17.2709682">
+      <ele>607</ele>
+      <time>2022-01-17T23:31:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

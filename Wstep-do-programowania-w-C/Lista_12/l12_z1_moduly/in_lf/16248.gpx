@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:35Z</time>
+    <bounds maxlat="49.3060467" maxlon="22.6780254" minlat="49.3054486" minlon="22.6779986"/>
+  </metadata>
+  <wpt lat="49.306047" lon="22.678025">
+    <ele>601</ele>
+    <name>Rozejscie przy zrodelku sw. Michala</name>
+    <link href="https://mapa-turystyczna.pl/node/11086">
+      <text>Rozejscie przy zrodelku sw. Michala</text>
+    </link>
+  </wpt>
+  <wpt lat="49.305449" lon="22.677999">
+    <ele>608</ele>
+    <name>Zrodelko sw. Michala</name>
+    <link href="https://mapa-turystyczna.pl/node/11087">
+      <text>Zrodelko sw. Michala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie przy zrodelku sw. Michala - Zrodelko sw. Michala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3060467,22.6780254;49.30574765090753,22.678012;49.3054486,22.6779986">
+    <text>Rozejscie przy zrodelku sw. Michala - Zrodelko sw. Michala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3060467" lon="22.6780254">
+      <ele>601</ele>
+      <time>2022-01-18T00:53:35Z</time>
+    </trkpt>
+    <trkpt lat="49.3054486" lon="22.6779986">
+      <ele>608</ele>
+      <time>2022-01-18T00:55:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

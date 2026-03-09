@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:55Z</time>
+    <bounds maxlat="49.4367683" maxlon="21.6015874" minlat="49.4353219" minlon="21.5976137"/>
+  </metadata>
+  <wpt lat="49.436768" lon="21.597614">
+    <ele>754</ele>
+    <name>Baranie</name>
+    <link href="https://mapa-turystyczna.pl/node/429">
+      <text>Baranie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.435322" lon="21.601587">
+    <ele>727</ele>
+    <name>Pod Baranim</name>
+    <link href="https://mapa-turystyczna.pl/node/4043">
+      <text>Pod Baranim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Baranie - Pod Baranim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4367683,21.5976137;49.435869751215876,21.60025835000001;49.4353219,21.6015874">
+    <text>Baranie - Pod Baranim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4367683" lon="21.5976137">
+      <ele>754</ele>
+      <time>2022-01-17T22:01:55Z</time>
+    </trkpt>
+    <trkpt lat="49.4365849" lon="21.5983915">
+      <ele>750</ele>
+      <time>2022-01-17T22:02:49Z</time>
+    </trkpt>
+    <trkpt lat="49.4362151" lon="21.5993893">
+      <ele>740</ele>
+      <time>2022-01-17T22:04:05Z</time>
+    </trkpt>
+    <trkpt lat="49.4355244" lon="21.6011274">
+      <ele>729</ele>
+      <time>2022-01-17T22:06:19Z</time>
+    </trkpt>
+    <trkpt lat="49.4353219" lon="21.6015874">
+      <ele>727</ele>
+      <time>2022-01-17T22:06:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

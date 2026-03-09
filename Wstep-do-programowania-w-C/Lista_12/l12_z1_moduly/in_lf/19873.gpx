@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:29Z</time>
+    <bounds maxlat="50.6741334" maxlon="16.2360416" minlat="50.6717135" minlon="16.2348871"/>
+  </metadata>
+  <wpt lat="50.674133" lon="16.234887">
+    <ele>748</ele>
+    <name>Pod Posrednia</name>
+    <link href="https://mapa-turystyczna.pl/node/13413">
+      <text>Pod Posrednia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.671714" lon="16.235722">
+    <ele>786</ele>
+    <name>Sredniak</name>
+    <link href="https://mapa-turystyczna.pl/node/8202">
+      <text>Sredniak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Posrednia - Sredniak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6741334,16.2348871;50.67297220006513,16.236036200000008;50.6717135,16.2357224">
+    <text>Pod Posrednia - Sredniak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6741334" lon="16.2348871">
+      <ele>748</ele>
+      <time>2022-01-18T01:56:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6736283" lon="16.235827">
+      <ele>767</ele>
+      <time>2022-01-18T01:59:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6734652" lon="16.2359879">
+      <ele>773</ele>
+      <time>2022-01-18T02:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.673268" lon="16.2360201">
+      <ele>777</ele>
+      <time>2022-01-18T02:00:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6730504" lon="16.2360308">
+      <ele>779</ele>
+      <time>2022-01-18T02:01:35Z</time>
+    </trkpt>
+    <trkpt lat="50.672894" lon="16.2360416">
+      <ele>781</ele>
+      <time>2022-01-18T02:02:09Z</time>
+    </trkpt>
+    <trkpt lat="50.672724" lon="16.2359987">
+      <ele>783</ele>
+      <time>2022-01-18T02:02:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6722617" lon="16.2357734">
+      <ele>786</ele>
+      <time>2022-01-18T02:04:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6718877" lon="16.2357304">
+      <ele>787</ele>
+      <time>2022-01-18T02:05:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6717135" lon="16.2357224">
+      <ele>786</ele>
+      <time>2022-01-18T02:06:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

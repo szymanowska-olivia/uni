@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:17Z</time>
+    <bounds maxlat="50.1470791" maxlon="19.2771061" minlat="50.1453518" minlon="19.2763336"/>
+  </metadata>
+  <wpt lat="50.145352" lon="19.277085">
+    <ele>249</ele>
+    <name>Mini Latarnia</name>
+    <link href="https://mapa-turystyczna.pl/node/10581">
+      <text>Mini Latarnia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.147079" lon="19.276715">
+    <ele>246</ele>
+    <name>Stawy Belnik (Tarka)</name>
+    <link href="https://mapa-turystyczna.pl/node/9109">
+      <text>Stawy Belnik (Tarka)</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mini Latarnia - Stawy Belnik (Tarka)</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1453518,19.2770852;50.14611450245603,19.27669835000001;50.1470791,19.276715">
+    <text>Mini Latarnia - Stawy Belnik (Tarka)</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1453518" lon="19.2770852">
+      <ele>249</ele>
+      <time>2022-01-18T00:40:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1454854" lon="19.2764731">
+      <ele>244</ele>
+      <time>2022-01-18T00:41:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1455507" lon="19.2763551">
+      <ele>242</ele>
+      <time>2022-01-18T00:41:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1456298" lon="19.2763336">
+      <ele>243</ele>
+      <time>2022-01-18T00:41:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1465992" lon="19.2770631">
+      <ele>245</ele>
+      <time>2022-01-18T00:44:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1467127" lon="19.2771061">
+      <ele>244</ele>
+      <time>2022-01-18T00:44:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1468261" lon="19.2770739">
+      <ele>244</ele>
+      <time>2022-01-18T00:44:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1470791" lon="19.276715">
+      <ele>246</ele>
+      <time>2022-01-18T00:45:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

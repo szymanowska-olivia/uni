@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:47Z</time>
+    <bounds maxlat="50.1852044" maxlon="17.0540643" minlat="50.180993" minlon="17.0514894"/>
+  </metadata>
+  <wpt lat="50.185204" lon="17.051489">
+    <ele>713</ele>
+    <name>Ostruzna</name>
+    <link href="https://mapa-turystyczna.pl/node/2158">
+      <text>Ostruzna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.180993" lon="17.054043">
+    <ele>690</ele>
+    <name>Ostruzna, obec</name>
+    <link href="https://mapa-turystyczna.pl/node/2172">
+      <text>Ostruzna, obec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostruzna - Ostruzna, obec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1852044,17.0514894;50.18370055157549,17.053372249999992;50.180993,17.0540428">
+    <text>Ostruzna - Ostruzna, obec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1852044" lon="17.0514894">
+      <ele>713</ele>
+      <time>2022-01-17T21:23:47Z</time>
+    </trkpt>
+    <trkpt lat="50.184787" lon="17.0520258">
+      <ele>712</ele>
+      <time>2022-01-17T21:24:54Z</time>
+    </trkpt>
+    <trkpt lat="50.184617" lon="17.052412">
+      <ele>709</ele>
+      <time>2022-01-17T21:25:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1843459" lon="17.0525247">
+      <ele>707</ele>
+      <time>2022-01-17T21:26:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1840885" lon="17.0528948">
+      <ele>705</ele>
+      <time>2022-01-17T21:26:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1833126" lon="17.0538497">
+      <ele>698</ele>
+      <time>2022-01-17T21:28:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1826539" lon="17.0540643">
+      <ele>695</ele>
+      <time>2022-01-17T21:30:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1822357" lon="17.0539463">
+      <ele>693</ele>
+      <time>2022-01-17T21:31:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1817106" lon="17.0539087">
+      <ele>692</ele>
+      <time>2022-01-17T21:32:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1813655" lon="17.0540187">
+      <ele>691</ele>
+      <time>2022-01-17T21:33:01Z</time>
+    </trkpt>
+    <trkpt lat="50.180993" lon="17.0540428">
+      <ele>690</ele>
+      <time>2022-01-17T21:33:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

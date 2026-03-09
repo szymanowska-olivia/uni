@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:55Z</time>
+    <bounds maxlat="50.2435891" maxlon="17.7163754" minlat="50.2404233" minlon="17.7138931"/>
+  </metadata>
+  <wpt lat="50.243589" lon="17.713893">
+    <ele>233</ele>
+    <name>Bohusov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6373">
+      <text>Bohusov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.240423" lon="17.714928">
+    <ele>233</ele>
+    <name>Bohusov, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6374">
+      <text>Bohusov, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bohusov, rozc. - Bohusov, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2435891,17.7138931;50.24190805111445,17.71566330000003;50.2404233,17.7149284">
+    <text>Bohusov, rozc. - Bohusov, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2435891" lon="17.7138931">
+      <ele>233</ele>
+      <time>2022-01-17T22:51:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2429167" lon="17.7146816">
+      <ele>232</ele>
+      <time>2022-01-17T22:52:55Z</time>
+    </trkpt>
+    <trkpt lat="50.242234" lon="17.7154273">
+      <ele>231</ele>
+      <time>2022-01-17T22:53:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2415821" lon="17.7158993">
+      <ele>232</ele>
+      <time>2022-01-17T22:54:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2408025" lon="17.7163754">
+      <ele>231</ele>
+      <time>2022-01-17T22:55:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2406138" lon="17.7156593">
+      <ele>232</ele>
+      <time>2022-01-17T22:56:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2404992" lon="17.7151852">
+      <ele>233</ele>
+      <time>2022-01-17T22:56:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2404233" lon="17.7149284">
+      <ele>233</ele>
+      <time>2022-01-17T22:56:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

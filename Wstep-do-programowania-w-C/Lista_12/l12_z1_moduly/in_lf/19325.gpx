@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:46:21Z</time>
+    <bounds maxlat="49.62334" maxlon="21.094956" minlat="49.622933" minlon="21.09447"/>
+  </metadata>
+  <wpt lat="49.62334" lon="21.09447">
+    <ele>342</ele>
+    <name>Szymbark, odejscie drogi na cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/13061">
+      <text>Szymbark, odejscie drogi na cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.622933" lon="21.094956">
+    <ele>324</ele>
+    <name>Szymbark</name>
+    <link href="https://mapa-turystyczna.pl/node/545">
+      <text>Szymbark</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szymbark, odejscie drogi na cmentarz - Szymbark</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.62334,21.09447;49.62322950010994,21.094602500000033;49.622933,21.094956">
+    <text>Szymbark, odejscie drogi na cmentarz - Szymbark</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.62334" lon="21.09447">
+      <ele>342</ele>
+      <time>2022-01-18T01:46:21Z</time>
+    </trkpt>
+    <trkpt lat="49.623333" lon="21.094479">
+      <ele>342</ele>
+      <time>2022-01-18T01:46:22Z</time>
+    </trkpt>
+    <trkpt lat="49.623126" lon="21.094726">
+      <ele>331</ele>
+      <time>2022-01-18T01:46:53Z</time>
+    </trkpt>
+    <trkpt lat="49.623094" lon="21.094764">
+      <ele>330</ele>
+      <time>2022-01-18T01:46:58Z</time>
+    </trkpt>
+    <trkpt lat="49.623021" lon="21.094851">
+      <ele>327</ele>
+      <time>2022-01-18T01:47:08Z</time>
+    </trkpt>
+    <trkpt lat="49.622933" lon="21.094956">
+      <ele>324</ele>
+      <time>2022-01-18T01:47:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

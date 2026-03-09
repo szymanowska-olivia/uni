@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:59:41Z</time>
+    <bounds maxlat="50.0937192" maxlon="18.2202602" minlat="50.0914788" minlon="18.2156376"/>
+  </metadata>
+  <wpt lat="50.093719" lon="18.215638">
+    <ele>192</ele>
+    <name>Raciborz, plac Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/8928">
+      <text>Raciborz, plac Wolnosci</text>
+    </link>
+  </wpt>
+  <wpt lat="50.091479" lon="18.219884">
+    <ele>195</ele>
+    <name>Raciborz</name>
+    <link href="https://mapa-turystyczna.pl/node/8929">
+      <text>Raciborz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raciborz, plac Wolnosci - Raciborz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0937192,18.2156376;50.093013800522144,18.217851549999992;50.0914788,18.2198836">
+    <text>Raciborz, plac Wolnosci - Raciborz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0937192" lon="18.2156376">
+      <ele>192</ele>
+      <time>2022-01-17T23:59:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0932375" lon="18.2170362">
+      <ele>194</ele>
+      <time>2022-01-18T00:02:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0927901" lon="18.2186669">
+      <ele>192</ele>
+      <time>2022-01-18T00:04:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0925935" lon="18.2196325">
+      <ele>192</ele>
+      <time>2022-01-18T00:06:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0924524" lon="18.2202602">
+      <ele>193</ele>
+      <time>2022-01-18T00:07:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0922872" lon="18.2202173">
+      <ele>193</ele>
+      <time>2022-01-18T00:07:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0914788" lon="18.2198836">
+      <ele>195</ele>
+      <time>2022-01-18T00:09:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

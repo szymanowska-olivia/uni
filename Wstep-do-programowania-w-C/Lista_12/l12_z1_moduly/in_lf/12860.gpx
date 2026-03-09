@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:42Z</time>
+    <bounds maxlat="50.7735476" maxlon="15.1661925" minlat="50.7732287" minlon="15.1654683"/>
+  </metadata>
+  <wpt lat="50.773229" lon="15.165468">
+    <ele>559</ele>
+    <name>Janov nad Nisou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8850">
+      <text>Janov nad Nisou, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.773548" lon="15.166192">
+    <ele>553</ele>
+    <name>Janov nad Nisou</name>
+    <link href="https://mapa-turystyczna.pl/node/8851">
+      <text>Janov nad Nisou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janov nad Nisou, rozc. - Janov nad Nisou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7732287,15.1654683;50.77347435005736,15.16598400000003;50.7735476,15.1661925">
+    <text>Janov nad Nisou, rozc. - Janov nad Nisou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7732287" lon="15.1654683">
+      <ele>559</ele>
+      <time>2022-01-17T23:57:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7734011" lon="15.1657755">
+      <ele>556</ele>
+      <time>2022-01-17T23:58:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7735476" lon="15.1661925">
+      <ele>553</ele>
+      <time>2022-01-17T23:58:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

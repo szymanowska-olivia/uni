@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:38Z</time>
+    <bounds maxlat="49.6032406" maxlon="18.5738106" minlat="49.6030656" minlon="18.5736752"/>
+  </metadata>
+  <wpt lat="49.603241" lon="18.573675">
+    <ele>919</ele>
+    <name>Pod Velkym Lipovym, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7523">
+      <text>Pod Velkym Lipovym, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.603066" lon="18.573811">
+    <ele>925</ele>
+    <name>Pod Velkym Lipovym</name>
+    <link href="https://mapa-turystyczna.pl/node/7442">
+      <text>Pod Velkym Lipovym</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Velkym Lipovym, rozc. - Pod Velkym Lipovym</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6032406,18.5736752;49.603195400020965,18.57371610000003;49.6030656,18.5738106">
+    <text>Pod Velkym Lipovym, rozc. - Pod Velkym Lipovym</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6032406" lon="18.5736752">
+      <ele>919</ele>
+      <time>2022-01-17T23:20:38Z</time>
+    </trkpt>
+    <trkpt lat="49.6031502" lon="18.573757">
+      <ele>922</ele>
+      <time>2022-01-17T23:21:10Z</time>
+    </trkpt>
+    <trkpt lat="49.6031024" lon="18.5737932">
+      <ele>924</ele>
+      <time>2022-01-17T23:21:26Z</time>
+    </trkpt>
+    <trkpt lat="49.6030656" lon="18.5738106">
+      <ele>925</ele>
+      <time>2022-01-17T23:21:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

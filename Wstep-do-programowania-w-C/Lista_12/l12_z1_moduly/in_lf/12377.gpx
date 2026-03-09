@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:25Z</time>
+    <bounds maxlat="49.164865" maxlon="22.6504397" minlat="49.1574183" minlon="22.6447358"/>
+  </metadata>
+  <wpt lat="49.164865" lon="22.644736">
+    <ele>1016</ele>
+    <name>Magura Stuposianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8512">
+      <text>Magura Stuposianska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.157418" lon="22.650431">
+    <ele>981</ele>
+    <name>Pod Magura Stuposianska</name>
+    <link href="https://mapa-turystyczna.pl/node/365">
+      <text>Pod Magura Stuposianska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Magura Stuposianska - Pod Magura Stuposianska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.164865,22.6447358;49.161436554760236,22.647639499999997;49.1574183,22.6504315">
+    <text>Magura Stuposianska - Pod Magura Stuposianska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.164865" lon="22.6447358">
+      <ele>1016</ele>
+      <time>2022-01-17T23:49:25Z</time>
+    </trkpt>
+    <trkpt lat="49.1640329" lon="22.6459336">
+      <ele>1007</ele>
+      <time>2022-01-17T23:51:57Z</time>
+    </trkpt>
+    <trkpt lat="49.162724" lon="22.6460195">
+      <ele>973</ele>
+      <time>2022-01-17T23:54:56Z</time>
+    </trkpt>
+    <trkpt lat="49.1621232" lon="22.6464486">
+      <ele>964</ele>
+      <time>2022-01-17T23:56:25Z</time>
+    </trkpt>
+    <trkpt lat="49.1607499" lon="22.6488304">
+      <ele>956</ele>
+      <time>2022-01-18T00:01:02Z</time>
+    </trkpt>
+    <trkpt lat="49.1600847" lon="22.6491737">
+      <ele>959</ele>
+      <time>2022-01-18T00:02:35Z</time>
+    </trkpt>
+    <trkpt lat="49.1593552" lon="22.6502252">
+      <ele>969</ele>
+      <time>2022-01-18T00:04:49Z</time>
+    </trkpt>
+    <trkpt lat="49.1584325" lon="22.6504397">
+      <ele>978</ele>
+      <time>2022-01-18T00:06:54Z</time>
+    </trkpt>
+    <trkpt lat="49.1578531" lon="22.6500535">
+      <ele>986</ele>
+      <time>2022-01-18T00:08:18Z</time>
+    </trkpt>
+    <trkpt lat="49.1574184" lon="22.6504314">
+      <ele>981</ele>
+      <time>2022-01-18T00:09:25Z</time>
+    </trkpt>
+    <trkpt lat="49.1574183" lon="22.6504315">
+      <ele>981</ele>
+      <time>2022-01-18T00:09:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

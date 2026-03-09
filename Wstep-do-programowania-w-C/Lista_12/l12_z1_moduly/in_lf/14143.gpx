@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:28Z</time>
+    <bounds maxlat="50.3216779" maxlon="18.4320198" minlat="50.3215787" minlon="18.4297445"/>
+  </metadata>
+  <wpt lat="50.321579" lon="18.429745">
+    <ele>228</ele>
+    <name>Lacza, ul. Jesionowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9662">
+      <text>Lacza, ul. Jesionowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.321678" lon="18.43202">
+    <ele>233</ele>
+    <name>Lacza</name>
+    <link href="https://mapa-turystyczna.pl/node/9563">
+      <text>Lacza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lacza, ul. Jesionowa - Lacza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3215787,18.4297445;50.32162830002589,18.430882150000002;50.3216779,18.4320198">
+    <text>Lacza, ul. Jesionowa - Lacza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3215787" lon="18.4297445">
+      <ele>228</ele>
+      <time>2022-01-18T00:17:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3216779" lon="18.4320198">
+      <ele>233</ele>
+      <time>2022-01-18T00:20:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

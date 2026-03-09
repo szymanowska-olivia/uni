@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:27Z</time>
+    <bounds maxlat="52.9911319" maxlon="16.9137924" minlat="52.9901955" minlon="16.9103968"/>
+  </metadata>
+  <wpt lat="52.990195" lon="16.910397">
+    <ele>68</ele>
+    <name>Chodziez, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10620">
+      <text>Chodziez, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.991132" lon="16.913792">
+    <ele>71</ele>
+    <name>Chodziez</name>
+    <link href="https://mapa-turystyczna.pl/node/10621">
+      <text>Chodziez</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chodziez, ul. Dworcowa - Chodziez</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9901955,16.9103968;52.99062430002535,16.911919599999983;52.9911319,16.9137924">
+    <text>Chodziez, ul. Dworcowa - Chodziez</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9901955" lon="16.9103968">
+      <ele>68</ele>
+      <time>2022-01-18T00:41:27Z</time>
+    </trkpt>
+    <trkpt lat="52.9905775" lon="16.9116782">
+      <ele>70</ele>
+      <time>2022-01-18T00:43:22Z</time>
+    </trkpt>
+    <trkpt lat="52.9906711" lon="16.912161">
+      <ele>70</ele>
+      <time>2022-01-18T00:44:02Z</time>
+    </trkpt>
+    <trkpt lat="52.9908972" lon="16.9129281">
+      <ele>71</ele>
+      <time>2022-01-18T00:45:11Z</time>
+    </trkpt>
+    <trkpt lat="52.9911319" lon="16.9137924">
+      <ele>71</ele>
+      <time>2022-01-18T00:46:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

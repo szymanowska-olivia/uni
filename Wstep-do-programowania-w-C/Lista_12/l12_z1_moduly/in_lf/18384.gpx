@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:30:00Z</time>
+    <bounds maxlat="52.2835483" maxlon="20.5866588" minlat="52.2831426" minlon="20.571144"/>
+  </metadata>
+  <wpt lat="52.283143" lon="20.586659">
+    <ele>102</ele>
+    <name>Rozejscie pod Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12451">
+      <text>Rozejscie pod Biala Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.283548" lon="20.571144">
+    <ele>98</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12454">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie pod Biala Gora - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2831426,20.5866588;52.28341165021072,20.576316600000002;52.2835483,20.571144">
+    <text>Rozejscie pod Biala Gora - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2831426" lon="20.5866588">
+      <ele>102</ele>
+      <time>2022-01-18T01:30:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2831926" lon="20.5859416">
+      <ele>100</ele>
+      <time>2022-01-18T01:30:42Z</time>
+    </trkpt>
+    <trkpt lat="52.283276" lon="20.5832271">
+      <ele>103</ele>
+      <time>2022-01-18T01:33:19Z</time>
+    </trkpt>
+    <trkpt lat="52.283275" lon="20.5814892">
+      <ele>101</ele>
+      <time>2022-01-18T01:35:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2835483" lon="20.571144">
+      <ele>98</ele>
+      <time>2022-01-18T01:45:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

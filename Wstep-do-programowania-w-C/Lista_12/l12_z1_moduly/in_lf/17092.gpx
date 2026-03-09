@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:48Z</time>
+    <bounds maxlat="50.4804159" maxlon="16.287859" minlat="50.4802491" minlon="16.2874374"/>
+  </metadata>
+  <wpt lat="50.480249" lon="16.287437">
+    <ele>843</ele>
+    <name>Bledne Skaly, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11663">
+      <text>Bledne Skaly, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.480416" lon="16.287859">
+    <ele>841</ele>
+    <name>Skalne Czasze</name>
+    <link href="https://mapa-turystyczna.pl/node/11664">
+      <text>Skalne Czasze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledne Skaly, odejscie na punkt widokowy - Skalne Czasze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4802491,16.2874374;50.480330050069334,16.287526699999997;50.4804159,16.287859">
+    <text>Bledne Skaly, odejscie na punkt widokowy - Skalne Czasze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4802491" lon="16.2874374">
+      <ele>843</ele>
+      <time>2022-01-18T01:07:48Z</time>
+    </trkpt>
+    <trkpt lat="50.480411" lon="16.287616">
+      <ele>840</ele>
+      <time>2022-01-18T01:08:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4804159" lon="16.287859">
+      <ele>841</ele>
+      <time>2022-01-18T01:08:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

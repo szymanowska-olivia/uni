@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:20Z</time>
+    <bounds maxlat="50.8134826" maxlon="16.64018" minlat="50.8112125" minlon="16.6348657"/>
+  </metadata>
+  <wpt lat="50.813386" lon="16.634866">
+    <ele>343</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11713">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.811213" lon="16.64018">
+    <ele>293</ele>
+    <name>Odejscie do kosciola</name>
+    <link href="https://mapa-turystyczna.pl/node/11711">
+      <text>Odejscie do kosciola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Odejscie do kosciola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8133861,16.6348657;50.812928150033144,16.638118699999996;50.8112125,16.64018">
+    <text>Odejscie sciezki dydaktycznej - Odejscie do kosciola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8133861" lon="16.6348657">
+      <ele>343</ele>
+      <time>2022-01-18T01:09:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8134826" lon="16.6352253">
+      <ele>342</ele>
+      <time>2022-01-18T01:09:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8134759" lon="16.636164">
+      <ele>330</ele>
+      <time>2022-01-18T01:10:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8131979" lon="16.637312">
+      <ele>322</ele>
+      <time>2022-01-18T01:11:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8129838" lon="16.6379812">
+      <ele>316</ele>
+      <time>2022-01-18T01:11:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8128725" lon="16.6382562">
+      <ele>315</ele>
+      <time>2022-01-18T01:11:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8128183" lon="16.6383259">
+      <ele>315</ele>
+      <time>2022-01-18T01:12:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8124491" lon="16.6385512">
+      <ele>312</ele>
+      <time>2022-01-18T01:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8123336" lon="16.6387819">
+      <ele>311</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8118466" lon="16.6396522">
+      <ele>305</ele>
+      <time>2022-01-18T01:13:31Z</time>
+    </trkpt>
+    <trkpt lat="50.811415" lon="16.6400371">
+      <ele>296</ele>
+      <time>2022-01-18T01:14:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8112125" lon="16.64018">
+      <ele>293</ele>
+      <time>2022-01-18T01:14:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

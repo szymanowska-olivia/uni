@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:30Z</time>
+    <bounds maxlat="50.0611751" maxlon="19.8620313" minlat="50.0588367" minlon="19.8587483"/>
+  </metadata>
+  <wpt lat="50.061175" lon="19.858748">
+    <ele>272</ele>
+    <name>Las Wolski, Panienskie Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/5115">
+      <text>Las Wolski, Panienskie Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.058837" lon="19.862031">
+    <ele>270</ele>
+    <name>Las Wolski, Baba Jaga</name>
+    <link href="https://mapa-turystyczna.pl/node/5114">
+      <text>Las Wolski, Baba Jaga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, Panienskie Skaly - Las Wolski, Baba Jaga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0611751,19.8587483;50.06006270113912,19.86051590000001;50.0588367,19.8620313">
+    <text>Las Wolski, Panienskie Skaly - Las Wolski, Baba Jaga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0611751" lon="19.8587483">
+      <ele>272</ele>
+      <time>2022-01-17T22:24:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0610235" lon="19.8593062">
+      <ele>269</ele>
+      <time>2022-01-17T22:25:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0609839" lon="19.8594524">
+      <ele>269</ele>
+      <time>2022-01-17T22:25:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0603933" lon="19.8604274">
+      <ele>266</ele>
+      <time>2022-01-17T22:26:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0597321" lon="19.8606044">
+      <ele>277</ele>
+      <time>2022-01-17T22:27:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0595134" lon="19.8607948">
+      <ele>277</ele>
+      <time>2022-01-17T22:27:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0593886" lon="19.8609115">
+      <ele>278</ele>
+      <time>2022-01-17T22:28:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0592538" lon="19.8611362">
+      <ele>277</ele>
+      <time>2022-01-17T22:28:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0589848" lon="19.8618007">
+      <ele>273</ele>
+      <time>2022-01-17T22:29:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0588367" lon="19.8620313">
+      <ele>270</ele>
+      <time>2022-01-17T22:29:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

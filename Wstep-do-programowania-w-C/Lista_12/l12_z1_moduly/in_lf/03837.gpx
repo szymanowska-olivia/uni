@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:19Z</time>
+    <bounds maxlat="50.2398289" maxlon="17.4489552" minlat="50.2390604" minlon="17.4477214"/>
+  </metadata>
+  <wpt lat="50.239829" lon="17.447721">
+    <ele>481</ele>
+    <name>Petrovice, Sv. Roch</name>
+    <link href="https://mapa-turystyczna.pl/node/2673">
+      <text>Petrovice, Sv. Roch</text>
+    </link>
+  </wpt>
+  <wpt lat="50.23906" lon="17.448955">
+    <ele>468</ele>
+    <name>Petrovice</name>
+    <link href="https://mapa-turystyczna.pl/node/2681">
+      <text>Petrovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Petrovice, Sv. Roch - Petrovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2398289,17.4477214;50.23956645007411,17.44851730000003;50.2390604,17.4489552">
+    <text>Petrovice, Sv. Roch - Petrovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2398289" lon="17.4477214">
+      <ele>481</ele>
+      <time>2022-01-17T21:35:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2397603" lon="17.4481344">
+      <ele>477</ele>
+      <time>2022-01-17T21:35:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2396505" lon="17.4484321">
+      <ele>474</ele>
+      <time>2022-01-17T21:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2394824" lon="17.4486025">
+      <ele>471</ele>
+      <time>2022-01-17T21:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2392062" lon="17.4487788">
+      <ele>468</ele>
+      <time>2022-01-17T21:37:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2390604" lon="17.4489552">
+      <ele>468</ele>
+      <time>2022-01-17T21:37:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:41Z</time>
+    <bounds maxlat="51.4549402" maxlon="23.1049566" minlat="51.4547655" minlon="23.1039041"/>
+  </metadata>
+  <wpt lat="51.454766" lon="23.103904">
+    <ele>169</ele>
+    <name>Jamniki, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13353">
+      <text>Jamniki, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.45494" lon="23.104957">
+    <ele>167</ele>
+    <name>Jamniki</name>
+    <link href="https://mapa-turystyczna.pl/node/12849">
+      <text>Jamniki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jamniki, rozejscie szlakow - Jamniki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4547655,23.1039041;51.45485285008357,23.104430349999994;51.4549402,23.1049566">
+    <text>Jamniki, rozejscie szlakow - Jamniki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4547655" lon="23.1039041">
+      <ele>169</ele>
+      <time>2022-01-18T01:54:41Z</time>
+    </trkpt>
+    <trkpt lat="51.4549402" lon="23.1049566">
+      <ele>167</ele>
+      <time>2022-01-18T01:55:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

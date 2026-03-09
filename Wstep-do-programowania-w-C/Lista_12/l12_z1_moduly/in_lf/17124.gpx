@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:13Z</time>
+    <bounds maxlat="52.0473955" maxlon="15.1009305" minlat="52.0464601" minlon="15.1004288"/>
+  </metadata>
+  <wpt lat="52.04646" lon="15.100931">
+    <ele>44</ele>
+    <name>Krosno Odrzanskie, ul. Szkolna</name>
+    <link href="https://mapa-turystyczna.pl/node/11681">
+      <text>Krosno Odrzanskie, ul. Szkolna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.047396" lon="15.100429">
+    <ele>44</ele>
+    <name>Krosno Odrzanskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11680">
+      <text>Krosno Odrzanskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krosno Odrzanskie, ul. Szkolna - Krosno Odrzanskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0464601,15.1009305;52.04682960152757,15.100720099999991;52.0473955,15.1004288">
+    <text>Krosno Odrzanskie, ul. Szkolna - Krosno Odrzanskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0464601" lon="15.1009305">
+      <ele>44</ele>
+      <time>2022-01-18T01:08:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0471991" lon="15.1005097">
+      <ele>44</ele>
+      <time>2022-01-18T01:09:48Z</time>
+    </trkpt>
+    <trkpt lat="52.0472783" lon="15.1004668">
+      <ele>44</ele>
+      <time>2022-01-18T01:09:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0473955" lon="15.1004288">
+      <ele>44</ele>
+      <time>2022-01-18T01:10:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:44Z</time>
+    <bounds maxlat="50.7364343" maxlon="16.3166194" minlat="50.7342267" minlon="16.3148698"/>
+  </metadata>
+  <wpt lat="50.736434" lon="16.316619">
+    <ele>563</ele>
+    <name>Kamiensk</name>
+    <link href="https://mapa-turystyczna.pl/node/8305">
+      <text>Kamiensk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734227" lon="16.31487">
+    <ele>581</ele>
+    <name>Kamiensk, ul. Krotka</name>
+    <link href="https://mapa-turystyczna.pl/node/9413">
+      <text>Kamiensk, ul. Krotka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamiensk - Kamiensk, ul. Krotka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7364343,16.3166194;50.73522525010539,16.31584789999998;50.7342267,16.3148698">
+    <text>Kamiensk - Kamiensk, ul. Krotka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7364343" lon="16.3166194">
+      <ele>563</ele>
+      <time>2022-01-18T00:10:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7360061" lon="16.3161671">
+      <ele>568</ele>
+      <time>2022-01-18T00:11:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7357876" lon="16.3160947">
+      <ele>571</ele>
+      <time>2022-01-18T00:12:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7355255" lon="16.3160799">
+      <ele>574</ele>
+      <time>2022-01-18T00:12:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7353246" lon="16.3159686">
+      <ele>576</ele>
+      <time>2022-01-18T00:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7351259" lon="16.3157272">
+      <ele>578</ele>
+      <time>2022-01-18T00:13:38Z</time>
+    </trkpt>
+    <trkpt lat="50.734418" lon="16.3151854">
+      <ele>581</ele>
+      <time>2022-01-18T00:15:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7342517" lon="16.3149279">
+      <ele>581</ele>
+      <time>2022-01-18T00:15:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7342267" lon="16.3148698">
+      <ele>581</ele>
+      <time>2022-01-18T00:15:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

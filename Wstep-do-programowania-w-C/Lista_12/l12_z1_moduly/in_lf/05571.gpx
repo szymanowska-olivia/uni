@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:44Z</time>
+    <bounds maxlat="50.7200009" maxlon="15.5832444" minlat="50.7188323" minlon="15.5810702"/>
+  </metadata>
+  <wpt lat="50.720001" lon="15.583244">
+    <ele>827</ele>
+    <name>Labska, sev. Okraj</name>
+    <link href="https://mapa-turystyczna.pl/node/3901">
+      <text>Labska, sev. Okraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.718832" lon="15.58107">
+    <ele>817</ele>
+    <name>Labska, Jeleni</name>
+    <link href="https://mapa-turystyczna.pl/node/1193">
+      <text>Labska, Jeleni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Labska, sev. Okraj - Labska, Jeleni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7200009,15.5832444;50.71928385011287,15.582105550000023;50.7188323,15.5810702">
+    <text>Labska, sev. Okraj - Labska, Jeleni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7200009" lon="15.5832444">
+      <ele>827</ele>
+      <time>2022-01-17T21:57:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7195608" lon="15.5826848">
+      <ele>826</ele>
+      <time>2022-01-17T21:58:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7193867" lon="15.5823791">
+      <ele>825</ele>
+      <time>2022-01-17T21:59:05Z</time>
+    </trkpt>
+    <trkpt lat="50.719181" lon="15.581832">
+      <ele>824</ele>
+      <time>2022-01-17T21:59:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7190711" lon="15.5815369">
+      <ele>823</ele>
+      <time>2022-01-17T22:00:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7188323" lon="15.5810702">
+      <ele>817</ele>
+      <time>2022-01-17T22:00:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

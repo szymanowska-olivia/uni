@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:43Z</time>
+    <bounds maxlat="50.5181851" maxlon="16.3125086" minlat="50.517919" minlon="16.3107544"/>
+  </metadata>
+  <wpt lat="50.517919" lon="16.310754">
+    <ele>732</ele>
+    <name>Panuv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/5742">
+      <text>Panuv kriz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.518185" lon="16.312509">
+    <ele>746</ele>
+    <name>U Panova krize</name>
+    <link href="https://mapa-turystyczna.pl/node/5744">
+      <text>U Panova krize</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Panuv kriz - U Panova krize</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.517919,16.3107544;50.517948400001025,16.311511149999987;50.5181851,16.3125086">
+    <text>Panuv kriz - U Panova krize</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.517919" lon="16.3107544">
+      <ele>732</ele>
+      <time>2022-01-17T22:35:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5180175" lon="16.3108386">
+      <ele>732</ele>
+      <time>2022-01-17T22:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5179386" lon="16.3112446">
+      <ele>734</ele>
+      <time>2022-01-17T22:37:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5179582" lon="16.3117777">
+      <ele>739</ele>
+      <time>2022-01-17T22:38:32Z</time>
+    </trkpt>
+    <trkpt lat="50.518052" lon="16.3122538">
+      <ele>744</ele>
+      <time>2022-01-17T22:39:47Z</time>
+    </trkpt>
+    <trkpt lat="50.5180878" lon="16.312467">
+      <ele>745</ele>
+      <time>2022-01-17T22:40:19Z</time>
+    </trkpt>
+    <trkpt lat="50.5181851" lon="16.3125086">
+      <ele>746</ele>
+      <time>2022-01-17T22:40:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

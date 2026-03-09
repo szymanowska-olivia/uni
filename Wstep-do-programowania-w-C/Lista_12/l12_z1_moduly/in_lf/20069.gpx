@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:57Z</time>
+    <bounds maxlat="50.2422087" maxlon="17.2770805" minlat="50.2421551" minlon="17.2768968"/>
+  </metadata>
+  <wpt lat="50.242155" lon="17.276897">
+    <ele>703</ele>
+    <name>Prameny Javorne</name>
+    <link href="https://mapa-turystyczna.pl/node/6283">
+      <text>Prameny Javorne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.242209" lon="17.277081">
+    <ele>704</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13522">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prameny Javorne - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2421551,17.2768968;50.242181900007544,17.276988650000014;50.2422087,17.2770805">
+    <text>Prameny Javorne - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2421551" lon="17.2768968">
+      <ele>703</ele>
+      <time>2022-01-18T01:59:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2422087" lon="17.2770805">
+      <ele>704</ele>
+      <time>2022-01-18T02:00:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

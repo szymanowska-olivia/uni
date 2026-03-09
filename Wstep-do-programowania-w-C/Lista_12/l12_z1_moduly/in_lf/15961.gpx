@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:49Z</time>
+    <bounds maxlat="54.3513214" maxlon="18.817246" minlat="54.3470032" minlon="18.8154125"/>
+  </metadata>
+  <wpt lat="54.351321" lon="18.817246">
+    <ele>8</ele>
+    <name>Gdansk, Sobieszewo, ul. Sobieszewska</name>
+    <link href="https://mapa-turystyczna.pl/node/10935">
+      <text>Gdansk, Sobieszewo, ul. Sobieszewska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.347003" lon="18.815586">
+    <ele>0</ele>
+    <name>Gdansk, Sobieszewo, ul. Nadwislanska</name>
+    <link href="https://mapa-turystyczna.pl/node/10934">
+      <text>Gdansk, Sobieszewo, ul. Nadwislanska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gdansk, Sobieszewo, ul. Sobieszewska - Gdansk, Sobieszewo, ul. Nadwislanska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3513214,18.817246;54.34906488228721,18.81610450000002;54.3470032,18.8155865">
+    <text>Gdansk, Sobieszewo, ul. Sobieszewska - Gdansk, Sobieszewo, ul. Nadwislanska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3513214" lon="18.817246">
+      <ele>8</ele>
+      <time>2022-01-18T00:48:49Z</time>
+    </trkpt>
+    <trkpt lat="54.3509566" lon="18.8169252">
+      <ele>10</ele>
+      <time>2022-01-18T00:49:44Z</time>
+    </trkpt>
+    <trkpt lat="54.3506939" lon="18.8167965">
+      <ele>11</ele>
+      <time>2022-01-18T00:50:20Z</time>
+    </trkpt>
+    <trkpt lat="54.3474358" lon="18.8154125">
+      <ele>1</ele>
+      <time>2022-01-18T00:57:49Z</time>
+    </trkpt>
+    <trkpt lat="54.3472357" lon="18.8154339">
+      <ele>0</ele>
+      <time>2022-01-18T00:58:16Z</time>
+    </trkpt>
+    <trkpt lat="54.3470032" lon="18.8155865">
+      <ele>-0</ele>
+      <time>2022-01-18T00:58:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

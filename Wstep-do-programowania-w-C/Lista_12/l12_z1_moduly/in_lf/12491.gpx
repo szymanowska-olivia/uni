@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:58Z</time>
+    <bounds maxlat="53.9654471" maxlon="14.6185572" minlat="53.964883" minlon="14.6155397"/>
+  </metadata>
+  <wpt lat="53.964883" lon="14.61554">
+    <ele>6</ele>
+    <name>Kolczewo</name>
+    <link href="https://mapa-turystyczna.pl/node/8583">
+      <text>Kolczewo</text>
+    </link>
+  </wpt>
+  <wpt lat="53.9651" lon="14.618557">
+    <ele>7</ele>
+    <name>Kolczewo, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/8596">
+      <text>Kolczewo, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolczewo - Kolczewo, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.964883,14.6155397;53.96529560027535,14.617331099999973;53.9650999,14.6185572">
+    <text>Kolczewo - Kolczewo, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.964883" lon="14.6155397">
+      <ele>6</ele>
+      <time>2022-01-17T23:50:58Z</time>
+    </trkpt>
+    <trkpt lat="53.9651126" lon="14.6160598">
+      <ele>6</ele>
+      <time>2022-01-17T23:51:54Z</time>
+    </trkpt>
+    <trkpt lat="53.9654471" lon="14.6165318">
+      <ele>7</ele>
+      <time>2022-01-17T23:52:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9651441" lon="14.6181304">
+      <ele>8</ele>
+      <time>2022-01-17T23:55:21Z</time>
+    </trkpt>
+    <trkpt lat="53.9650999" lon="14.6185502">
+      <ele>7</ele>
+      <time>2022-01-17T23:55:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9650999" lon="14.6185572">
+      <ele>7</ele>
+      <time>2022-01-17T23:55:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:56Z</time>
+    <bounds maxlat="50.7046665" maxlon="15.7390094" minlat="50.6969951" minlon="15.7367563"/>
+  </metadata>
+  <wpt lat="50.704667" lon="15.736756">
+    <ele>924</ele>
+    <name>Pod Vetrnikem</name>
+    <link href="https://mapa-turystyczna.pl/node/1298">
+      <text>Pod Vetrnikem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.696995" lon="15.737652">
+    <ele>776</ele>
+    <name>Pec pod Snezkou, parkoviste autobusu</name>
+    <link href="https://mapa-turystyczna.pl/node/4826">
+      <text>Pec pod Snezkou, parkoviste autobusu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Vetrnikem - Pec pod Snezkou, parkoviste autobusu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7046665,15.7367563;50.70015745522362,15.737827900000013;50.6969951,15.7376518">
+    <text>Pod Vetrnikem - Pec pod Snezkou, parkoviste autobusu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7046665" lon="15.7367563">
+      <ele>924</ele>
+      <time>2022-01-17T21:05:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7037759" lon="15.737459">
+      <ele>915</ele>
+      <time>2022-01-17T21:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7027533" lon="15.7377414">
+      <ele>897</ele>
+      <time>2022-01-17T21:09:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7015913" lon="15.737793">
+      <ele>873</ele>
+      <time>2022-01-17T21:11:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7008574" lon="15.7378641">
+      <ele>858</ele>
+      <time>2022-01-17T21:12:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6994575" lon="15.7377917">
+      <ele>825</ele>
+      <time>2022-01-17T21:15:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6989798" lon="15.7381028">
+      <ele>819</ele>
+      <time>2022-01-17T21:16:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6981009" lon="15.7387706">
+      <ele>802</ele>
+      <time>2022-01-17T21:18:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6976623" lon="15.7390094">
+      <ele>795</ele>
+      <time>2022-01-17T21:18:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6975419" lon="15.739004">
+      <ele>791</ele>
+      <time>2022-01-17T21:19:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6972315" lon="15.7385159">
+      <ele>774</ele>
+      <time>2022-01-17T21:19:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6969951" lon="15.7376518">
+      <ele>776</ele>
+      <time>2022-01-17T21:20:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

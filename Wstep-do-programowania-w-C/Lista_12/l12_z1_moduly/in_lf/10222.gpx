@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:34Z</time>
+    <bounds maxlat="50.0520964" maxlon="16.6937631" minlat="50.0507186" minlon="16.6893643"/>
+  </metadata>
+  <wpt lat="50.052096" lon="16.689364">
+    <ele>978</ele>
+    <name>Kramarova Chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7195">
+      <text>Kramarova Chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.050719" lon="16.693763">
+    <ele>996</ele>
+    <name>Suchy vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/7198">
+      <text>Suchy vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kramarova Chata - Suchy vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0520964,16.6893643;50.051726100011145,16.691475249999986;50.0507186,16.6937631">
+    <text>Kramarova Chata - Suchy vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0520964" lon="16.6893643">
+      <ele>978</ele>
+      <time>2022-01-17T23:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.0518243" lon="16.6898954">
+      <ele>979</ele>
+      <time>2022-01-17T23:13:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0517933" lon="16.690169">
+      <ele>980</ele>
+      <time>2022-01-17T23:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.051745" lon="16.6908073">
+      <ele>983</ele>
+      <time>2022-01-17T23:14:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0517588" lon="16.6911829">
+      <ele>986</ele>
+      <time>2022-01-17T23:14:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0516934" lon="16.6917676">
+      <ele>988</ele>
+      <time>2022-01-17T23:15:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0515728" lon="16.6920948">
+      <ele>989</ele>
+      <time>2022-01-17T23:15:28Z</time>
+    </trkpt>
+    <trkpt lat="50.051342" lon="16.692524">
+      <ele>992</ele>
+      <time>2022-01-17T23:16:01Z</time>
+    </trkpt>
+    <trkpt lat="50.051218" lon="16.6927385">
+      <ele>993</ele>
+      <time>2022-01-17T23:16:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0509907" lon="16.6932374">
+      <ele>995</ele>
+      <time>2022-01-17T23:16:54Z</time>
+    </trkpt>
+    <trkpt lat="50.0507186" lon="16.6937631">
+      <ele>996</ele>
+      <time>2022-01-17T23:17:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

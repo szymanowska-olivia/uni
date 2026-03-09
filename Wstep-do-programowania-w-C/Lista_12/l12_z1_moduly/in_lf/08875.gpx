@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:52Z</time>
+    <bounds maxlat="50.4975378" maxlon="16.0959899" minlat="50.4974184" minlon="16.0951209"/>
+  </metadata>
+  <wpt lat="50.497418" lon="16.095121">
+    <ele>443</ele>
+    <name>Rtyne v Podkrkonosi, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6183">
+      <text>Rtyne v Podkrkonosi, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.497538" lon="16.09599">
+    <ele>447</ele>
+    <name>Rtyne v Podkrkonosi, K Frantisce</name>
+    <link href="https://mapa-turystyczna.pl/node/6184">
+      <text>Rtyne v Podkrkonosi, K Frantisce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rtyne v Podkrkonosi, rozc. - Rtyne v Podkrkonosi, K Frantisce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4974184,16.0951209;50.49750880000373,16.095694900000026;50.4975378,16.0959899">
+    <text>Rtyne v Podkrkonosi, rozc. - Rtyne v Podkrkonosi, K Frantisce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4974184" lon="16.0951209">
+      <ele>443</ele>
+      <time>2022-01-17T22:46:52Z</time>
+    </trkpt>
+    <trkpt lat="50.49749" lon="16.0955125">
+      <ele>445</ele>
+      <time>2022-01-17T22:47:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4975276" lon="16.0958773">
+      <ele>446</ele>
+      <time>2022-01-17T22:47:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4975378" lon="16.0959899">
+      <ele>447</ele>
+      <time>2022-01-17T22:47:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:30Z</time>
+    <bounds maxlat="50.7176033" maxlon="16.7947942" minlat="50.7173543" minlon="16.7944547"/>
+  </metadata>
+  <wpt lat="50.717603" lon="16.794794">
+    <ele>275</ele>
+    <name>Tatarski Okop</name>
+    <link href="https://mapa-turystyczna.pl/node/4093">
+      <text>Tatarski Okop</text>
+    </link>
+  </wpt>
+  <wpt lat="50.717354" lon="16.794455">
+    <ele>276</ele>
+    <name>Tatarski Okop, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/9782">
+      <text>Tatarski Okop, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tatarski Okop - Tatarski Okop, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7176033,16.7947942;50.7174976501191,16.794642099999997;50.7173543,16.7944547">
+    <text>Tatarski Okop - Tatarski Okop, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7176033" lon="16.7947942">
+      <ele>275</ele>
+      <time>2022-01-18T00:20:30Z</time>
+    </trkpt>
+    <trkpt lat="50.717392" lon="16.79449">
+      <ele>275</ele>
+      <time>2022-01-18T00:21:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7173543" lon="16.7944547">
+      <ele>276</ele>
+      <time>2022-01-18T00:21:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

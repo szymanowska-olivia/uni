@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:39Z</time>
+    <bounds maxlat="50.4749181" maxlon="16.2597473" minlat="50.4746043" minlon="16.2560115"/>
+  </metadata>
+  <wpt lat="50.474727" lon="16.256011">
+    <ele>521</ele>
+    <name>Pstrazna, stawy</name>
+    <link href="https://mapa-turystyczna.pl/node/4009">
+      <text>Pstrazna, stawy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.474604" lon="16.259747">
+    <ele>518</ele>
+    <name>Pstrazna, skansen</name>
+    <link href="https://mapa-turystyczna.pl/node/5829">
+      <text>Pstrazna, skansen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pstrazna, stawy - Pstrazna, skansen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4747273,16.2560115;50.474724550086925,16.257866949999976;50.4746043,16.2597473">
+    <text>Pstrazna, stawy - Pstrazna, skansen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4747273" lon="16.2560115">
+      <ele>521</ele>
+      <time>2022-01-17T22:37:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4747305" lon="16.2561627">
+      <ele>520</ele>
+      <time>2022-01-17T22:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4747705" lon="16.2563077">
+      <ele>520</ele>
+      <time>2022-01-17T22:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4748857" lon="16.2566245">
+      <ele>520</ele>
+      <time>2022-01-17T22:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4749181" lon="16.2568181">
+      <ele>519</ele>
+      <time>2022-01-17T22:38:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4748152" lon="16.2575817">
+      <ele>521</ele>
+      <time>2022-01-17T22:39:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4746339" lon="16.2581522">
+      <ele>521</ele>
+      <time>2022-01-17T22:40:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4746285" lon="16.2583892">
+      <ele>521</ele>
+      <time>2022-01-17T22:40:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4746976" lon="16.2586203">
+      <ele>521</ele>
+      <time>2022-01-17T22:41:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4747256" lon="16.2588193">
+      <ele>521</ele>
+      <time>2022-01-17T22:41:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4746043" lon="16.2597473">
+      <ele>518</ele>
+      <time>2022-01-17T22:42:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

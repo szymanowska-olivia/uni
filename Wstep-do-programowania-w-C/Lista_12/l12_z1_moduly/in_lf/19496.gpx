@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:30Z</time>
+    <bounds maxlat="50.5428256" maxlon="16.2973809" minlat="50.541948" minlon="16.2967838"/>
+  </metadata>
+  <wpt lat="50.541948" lon="16.296784">
+    <ele>645</ele>
+    <name>Vyhlidka do Zajeci rokle, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13161">
+      <text>Vyhlidka do Zajeci rokle, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.542826" lon="16.297381">
+    <ele>649</ele>
+    <name>Kamenne Hriby, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5805">
+      <text>Kamenne Hriby, odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidka do Zajeci rokle, odb. - Kamenne Hriby, odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.541948,16.2967838;50.54228440027516,16.297163200000004;50.5428256,16.2973809">
+    <text>Vyhlidka do Zajeci rokle, odb. - Kamenne Hriby, odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.541948" lon="16.2967838">
+      <ele>645</ele>
+      <time>2022-01-18T01:49:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5421233" lon="16.2970495">
+      <ele>645</ele>
+      <time>2022-01-18T01:50:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5424455" lon="16.2972769">
+      <ele>646</ele>
+      <time>2022-01-18T01:50:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5426151" lon="16.2973557">
+      <ele>647</ele>
+      <time>2022-01-18T01:51:04Z</time>
+    </trkpt>
+    <trkpt lat="50.5428256" lon="16.2973809">
+      <ele>649</ele>
+      <time>2022-01-18T01:51:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

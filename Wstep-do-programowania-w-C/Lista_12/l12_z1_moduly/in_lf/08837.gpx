@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:08Z</time>
+    <bounds maxlat="50.4609909" maxlon="16.1417592" minlat="50.4589111" minlon="16.1301827"/>
+  </metadata>
+  <wpt lat="50.458983" lon="16.130183">
+    <ele>464</ele>
+    <name>U Certoviny</name>
+    <link href="https://mapa-turystyczna.pl/node/6153">
+      <text>U Certoviny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.460991" lon="16.141759">
+    <ele>444</ele>
+    <name>V rovinach</name>
+    <link href="https://mapa-turystyczna.pl/node/6150">
+      <text>V rovinach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Certoviny - V rovinach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4589828,16.1301827;50.45965725048164,16.136190900000003;50.4609909,16.1417592">
+    <text>U Certoviny - V rovinach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4589828" lon="16.1301827">
+      <ele>464</ele>
+      <time>2022-01-17T22:46:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4589111" lon="16.1309552">
+      <ele>462</ele>
+      <time>2022-01-17T22:47:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4589282" lon="16.1320335">
+      <ele>459</ele>
+      <time>2022-01-17T22:48:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4591331" lon="16.1334443">
+      <ele>458</ele>
+      <time>2022-01-17T22:50:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4592628" lon="16.1345011">
+      <ele>459</ele>
+      <time>2022-01-17T22:51:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4594438" lon="16.1353487">
+      <ele>457</ele>
+      <time>2022-01-17T22:52:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4598707" lon="16.1370331">
+      <ele>451</ele>
+      <time>2022-01-17T22:54:54Z</time>
+    </trkpt>
+    <trkpt lat="50.460284" lon="16.1386532">
+      <ele>447</ele>
+      <time>2022-01-17T22:57:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4607245" lon="16.1404824">
+      <ele>446</ele>
+      <time>2022-01-17T22:59:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4609909" lon="16.1417592">
+      <ele>444</ele>
+      <time>2022-01-17T23:01:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

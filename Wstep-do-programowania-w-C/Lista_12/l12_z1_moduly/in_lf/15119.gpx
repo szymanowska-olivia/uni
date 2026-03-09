@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:29Z</time>
+    <bounds maxlat="52.2097452" maxlon="16.849268" minlat="52.2087868" minlon="16.846374"/>
+  </metadata>
+  <wpt lat="52.209745" lon="16.849268">
+    <ele>80</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10301">
+      <text>Skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.208787" lon="16.846376">
+    <ele>76</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10302">
+      <text>Skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski - Skrzyzowanie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2097452,16.849268;52.20926660257785,16.847821;52.2087868,16.8463755">
+    <text>Skrzyzowanie szlakow czerwony / niebieski - Skrzyzowanie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2097452" lon="16.849268">
+      <ele>80</ele>
+      <time>2022-01-18T00:33:29Z</time>
+    </trkpt>
+    <trkpt lat="52.208788" lon="16.846374">
+      <ele>76</ele>
+      <time>2022-01-18T00:36:29Z</time>
+    </trkpt>
+    <trkpt lat="52.2087868" lon="16.8463755">
+      <ele>76</ele>
+      <time>2022-01-18T00:36:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:39Z</time>
+    <bounds maxlat="50.2452873" maxlon="17.1921551" minlat="50.2444708" minlon="17.1894944"/>
+  </metadata>
+  <wpt lat="50.244498" lon="17.189494">
+    <ele>643</ele>
+    <name>Slovansky pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6208">
+      <text>Slovansky pramen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244471" lon="17.192155">
+    <ele>613</ele>
+    <name>Prazsky pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6209">
+      <text>Prazsky pramen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slovansky pramen - Prazsky pramen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2444982,17.1894944;50.24518945000891,17.19108225;50.2444708,17.1921551">
+    <text>Slovansky pramen - Prazsky pramen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2444982" lon="17.1894944">
+      <ele>643</ele>
+      <time>2022-01-17T22:47:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2452873" lon="17.1907389">
+      <ele>638</ele>
+      <time>2022-01-17T22:49:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2452186" lon="17.1909535">
+      <ele>635</ele>
+      <time>2022-01-17T22:50:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2451603" lon="17.191211">
+      <ele>632</ele>
+      <time>2022-01-17T22:50:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2451775" lon="17.1914577">
+      <ele>631</ele>
+      <time>2022-01-17T22:50:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2450849" lon="17.1917313">
+      <ele>627</ele>
+      <time>2022-01-17T22:51:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2448481" lon="17.1920371">
+      <ele>622</ele>
+      <time>2022-01-17T22:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2447075" lon="17.1921551">
+      <ele>618</ele>
+      <time>2022-01-17T22:52:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2445188" lon="17.1920854">
+      <ele>615</ele>
+      <time>2022-01-17T22:52:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2444708" lon="17.1921551">
+      <ele>613</ele>
+      <time>2022-01-17T22:52:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

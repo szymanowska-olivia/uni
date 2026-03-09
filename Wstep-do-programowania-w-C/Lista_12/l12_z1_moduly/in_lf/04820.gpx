@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:55Z</time>
+    <bounds maxlat="50.8594733" maxlon="21.0525888" minlat="50.858769" minlon="21.0506271"/>
+  </metadata>
+  <wpt lat="50.859473" lon="21.050627">
+    <ele>575</ele>
+    <name>Lysa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3367">
+      <text>Lysa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.858769" lon="21.052589">
+    <ele>574</ele>
+    <name>Klasztor Sw. Krzyza</name>
+    <link href="https://mapa-turystyczna.pl/node/3115">
+      <text>Klasztor Sw. Krzyza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lysa Gora - Klasztor Sw. Krzyza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8594733,21.0506271;50.85900975062148,21.05171359999999;50.858769,21.0525888">
+    <text>Lysa Gora - Klasztor Sw. Krzyza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8594733" lon="21.0506271">
+      <ele>575</ele>
+      <time>2022-01-17T21:46:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8593352" lon="21.0506775">
+      <ele>574</ele>
+      <time>2022-01-17T21:47:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8592505" lon="21.0508384">
+      <ele>573</ele>
+      <time>2022-01-17T21:47:28Z</time>
+    </trkpt>
+    <trkpt lat="50.858769" lon="21.0525888">
+      <ele>574</ele>
+      <time>2022-01-17T21:49:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

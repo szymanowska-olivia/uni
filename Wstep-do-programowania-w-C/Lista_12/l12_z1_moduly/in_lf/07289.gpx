@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:48Z</time>
+    <bounds maxlat="52.3630218" maxlon="20.4065466" minlat="52.3629694" minlon="20.3831792"/>
+  </metadata>
+  <wpt lat="52.362969" lon="20.383179">
+    <ele>78</ele>
+    <name>Piaski Krolewskie, skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/4948">
+      <text>Piaski Krolewskie, skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="52.363022" lon="20.406547">
+    <ele>77</ele>
+    <name>Piaski Krolewskie</name>
+    <link href="https://mapa-turystyczna.pl/node/4960">
+      <text>Piaski Krolewskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piaski Krolewskie, skrzyzowanie szlakow niebieski / zielony - Piaski Krolewskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3629694,20.3831792;52.36299560000776,20.394862900000007;52.3630218,20.4065466">
+    <text>Piaski Krolewskie, skrzyzowanie szlakow niebieski / zielony - Piaski Krolewskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3629694" lon="20.3831792">
+      <ele>78</ele>
+      <time>2022-01-17T22:20:48Z</time>
+    </trkpt>
+    <trkpt lat="52.3630218" lon="20.4065466">
+      <ele>77</ele>
+      <time>2022-01-17T22:45:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

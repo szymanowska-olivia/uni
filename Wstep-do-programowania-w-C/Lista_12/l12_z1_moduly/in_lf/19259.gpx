@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:04Z</time>
+    <bounds maxlat="52.5178546" maxlon="15.2502192" minlat="52.5158567" minlon="15.2491892"/>
+  </metadata>
+  <wpt lat="52.515857" lon="15.250219">
+    <ele>53</ele>
+    <name>Lubniewice, stary zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/13009">
+      <text>Lubniewice, stary zamek</text>
+    </link>
+  </wpt>
+  <wpt lat="52.517855" lon="15.249189">
+    <ele>51</ele>
+    <name>Lubniewice, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13010">
+      <text>Lubniewice, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubniewice, stary zamek - Lubniewice, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5158567,15.2502192;52.51636925298949,15.249977799999987;52.5178546,15.2491892">
+    <text>Lubniewice, stary zamek - Lubniewice, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5158567" lon="15.2502192">
+      <ele>53</ele>
+      <time>2022-01-18T01:45:04Z</time>
+    </trkpt>
+    <trkpt lat="52.5168818" lon="15.2497364">
+      <ele>55</ele>
+      <time>2022-01-18T01:47:37Z</time>
+    </trkpt>
+    <trkpt lat="52.5178546" lon="15.2491892">
+      <ele>51</ele>
+      <time>2022-01-18T01:50:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

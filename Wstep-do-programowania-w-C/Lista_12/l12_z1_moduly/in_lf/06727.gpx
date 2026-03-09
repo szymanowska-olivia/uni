@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:45Z</time>
+    <bounds maxlat="49.778754" maxlon="19.368517" minlat="49.77851" minlon="19.367172"/>
+  </metadata>
+  <wpt lat="49.778754" lon="19.367172">
+    <ele>869</ele>
+    <name>Pod Potrojna</name>
+    <link href="https://mapa-turystyczna.pl/node/4645">
+      <text>Pod Potrojna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.77851" lon="19.368517">
+    <ele>859</ele>
+    <name>Chatka na Potrojnej</name>
+    <link href="https://mapa-turystyczna.pl/node/4648">
+      <text>Chatka na Potrojnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Potrojna - Chatka na Potrojnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.778754,19.367172;49.77866950000478,19.367768499999976;49.77851,19.368517">
+    <text>Pod Potrojna - Chatka na Potrojnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.778754" lon="19.367172">
+      <ele>869</ele>
+      <time>2022-01-17T22:11:45Z</time>
+    </trkpt>
+    <trkpt lat="49.778721" lon="19.367288">
+      <ele>868</ele>
+      <time>2022-01-17T22:11:56Z</time>
+    </trkpt>
+    <trkpt lat="49.778695" lon="19.367459">
+      <ele>867</ele>
+      <time>2022-01-17T22:12:11Z</time>
+    </trkpt>
+    <trkpt lat="49.778691" lon="19.367663">
+      <ele>865</ele>
+      <time>2022-01-17T22:12:28Z</time>
+    </trkpt>
+    <trkpt lat="49.778648" lon="19.367874">
+      <ele>864</ele>
+      <time>2022-01-17T22:12:47Z</time>
+    </trkpt>
+    <trkpt lat="49.77856" lon="19.3682">
+      <ele>862</ele>
+      <time>2022-01-17T22:13:17Z</time>
+    </trkpt>
+    <trkpt lat="49.778528" lon="19.368343">
+      <ele>861</ele>
+      <time>2022-01-17T22:13:30Z</time>
+    </trkpt>
+    <trkpt lat="49.77851" lon="19.368517">
+      <ele>859</ele>
+      <time>2022-01-17T22:13:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

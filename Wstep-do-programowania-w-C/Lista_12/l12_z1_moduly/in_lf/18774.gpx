@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:54Z</time>
+    <bounds maxlat="50.6685367" maxlon="19.4346963" minlat="50.6680691" minlon="19.4341975"/>
+  </metadata>
+  <wpt lat="50.668537" lon="19.434696">
+    <ele>324</ele>
+    <name>Trzebniow, poczatek szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/12699">
+      <text>Trzebniow, poczatek szlaku zoltego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.668069" lon="19.434197">
+    <ele>328</ele>
+    <name>Trzebniow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4523">
+      <text>Trzebniow, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebniow, poczatek szlaku zoltego - Trzebniow, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6685367,19.4346963;50.668302900582155,19.434446900000022;50.6680691,19.4341975">
+    <text>Trzebniow, poczatek szlaku zoltego - Trzebniow, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6685367" lon="19.4346963">
+      <ele>324</ele>
+      <time>2022-01-18T01:36:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6680691" lon="19.4341975">
+      <ele>328</ele>
+      <time>2022-01-18T01:37:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

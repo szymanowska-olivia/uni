@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:55Z</time>
+    <bounds maxlat="52.3305794" maxlon="20.7481366" minlat="52.3246782" minlon="20.7468868"/>
+  </metadata>
+  <wpt lat="52.324678" lon="20.748137">
+    <ele>94</ele>
+    <name>Cwikowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/5007">
+      <text>Cwikowa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.330579" lon="20.746887">
+    <ele>92</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5008">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cwikowa Gora - Skrzyzowanie szlakow czerwony / niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3246782,20.7481366;52.327560812458294,20.747470099999994;52.3305794,20.7468868">
+    <text>Cwikowa Gora - Skrzyzowanie szlakow czerwony / niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3246782" lon="20.7481366">
+      <ele>94</ele>
+      <time>2022-01-17T22:21:55Z</time>
+    </trkpt>
+    <trkpt lat="52.3254552" lon="20.7479542">
+      <ele>95</ele>
+      <time>2022-01-17T22:23:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3262453" lon="20.7478201">
+      <ele>96</ele>
+      <time>2022-01-17T22:24:34Z</time>
+    </trkpt>
+    <trkpt lat="52.3265109" lon="20.7476002">
+      <ele>96</ele>
+      <time>2022-01-17T22:25:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3286107" lon="20.74734">
+      <ele>91</ele>
+      <time>2022-01-17T22:28:35Z</time>
+    </trkpt>
+    <trkpt lat="52.3292148" lon="20.747167">
+      <ele>89</ele>
+      <time>2022-01-17T22:29:37Z</time>
+    </trkpt>
+    <trkpt lat="52.3305794" lon="20.7468868">
+      <ele>92</ele>
+      <time>2022-01-17T22:31:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

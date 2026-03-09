@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:24Z</time>
+    <bounds maxlat="49.739088" maxlon="19.001045" minlat="49.738961" minlon="19.000586"/>
+  </metadata>
+  <wpt lat="49.739088" lon="19.000586">
+    <ele>1046</ele>
+    <name>Przelecz pod Klimczokiem</name>
+    <link href="https://mapa-turystyczna.pl/node/13507">
+      <text>Przelecz pod Klimczokiem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.738961" lon="19.001045">
+    <ele>1042</ele>
+    <name>Siodlo pod Klimczokiem</name>
+    <link href="https://mapa-turystyczna.pl/node/821">
+      <text>Siodlo pod Klimczokiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Klimczokiem - Siodlo pod Klimczokiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.739088,19.000586;49.739062000002995,19.00080149999998;49.738961,19.001045">
+    <text>Przelecz pod Klimczokiem - Siodlo pod Klimczokiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.739088" lon="19.000586">
+      <ele>1046</ele>
+      <time>2022-01-18T01:59:24Z</time>
+    </trkpt>
+    <trkpt lat="49.739079" lon="19.000736">
+      <ele>1044</ele>
+      <time>2022-01-18T01:59:42Z</time>
+    </trkpt>
+    <trkpt lat="49.739045" lon="19.000867">
+      <ele>1043</ele>
+      <time>2022-01-18T01:59:58Z</time>
+    </trkpt>
+    <trkpt lat="49.739018" lon="19.000932">
+      <ele>1042</ele>
+      <time>2022-01-18T02:00:07Z</time>
+    </trkpt>
+    <trkpt lat="49.738961" lon="19.001045">
+      <ele>1042</ele>
+      <time>2022-01-18T02:00:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

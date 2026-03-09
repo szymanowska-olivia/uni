@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:57Z</time>
+    <bounds maxlat="50.7276135" maxlon="16.3087428" minlat="50.7250802" minlon="16.30436"/>
+  </metadata>
+  <wpt lat="50.727613" lon="16.30436">
+    <ele>653</ele>
+    <name>Przelecz Kozia</name>
+    <link href="https://mapa-turystyczna.pl/node/2535">
+      <text>Przelecz Kozia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.72508" lon="16.308743">
+    <ele>660</ele>
+    <name>Przelecz pod Borowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2530">
+      <text>Przelecz pod Borowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Kozia - Przelecz pod Borowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7276135,16.30436;50.726252650349046,16.306418899999997;50.7250802,16.3087428">
+    <text>Przelecz Kozia - Przelecz pod Borowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7276135" lon="16.30436">
+      <ele>653</ele>
+      <time>2022-01-17T21:32:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7271007" lon="16.3054048">
+      <ele>652</ele>
+      <time>2022-01-17T21:35:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7269575" lon="16.3054919">
+      <ele>656</ele>
+      <time>2022-01-17T21:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7267401" lon="16.3055992">
+      <ele>661</ele>
+      <time>2022-01-17T21:36:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7265771" lon="16.3057601">
+      <ele>664</ele>
+      <time>2022-01-17T21:36:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7264335" lon="16.3060665">
+      <ele>662</ele>
+      <time>2022-01-17T21:37:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7260718" lon="16.3067713">
+      <ele>661</ele>
+      <time>2022-01-17T21:38:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7256738" lon="16.3072622">
+      <ele>665</ele>
+      <time>2022-01-17T21:40:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7255312" lon="16.3077021">
+      <ele>663</ele>
+      <time>2022-01-17T21:40:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7253818" lon="16.307981">
+      <ele>663</ele>
+      <time>2022-01-17T21:41:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7252595" lon="16.3082492">
+      <ele>662</ele>
+      <time>2022-01-17T21:42:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7250802" lon="16.3087428">
+      <ele>660</ele>
+      <time>2022-01-17T21:42:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

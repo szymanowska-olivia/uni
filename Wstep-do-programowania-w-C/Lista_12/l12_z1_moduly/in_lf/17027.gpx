@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:50Z</time>
+    <bounds maxlat="52.2981696" maxlon="16.8363311" minlat="52.2967417" minlon="16.8292737"/>
+  </metadata>
+  <wpt lat="52.29817" lon="16.836331">
+    <ele>112</ele>
+    <name>Puszczykowo Stare</name>
+    <link href="https://mapa-turystyczna.pl/node/11635">
+      <text>Puszczykowo Stare</text>
+    </link>
+  </wpt>
+  <wpt lat="52.296742" lon="16.829274">
+    <ele>120</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11636">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowo Stare - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2981696,16.8363311;52.296782350018674,16.832180899999976;52.2967417,16.8292737">
+    <text>Puszczykowo Stare - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2981696" lon="16.8363311">
+      <ele>112</ele>
+      <time>2022-01-18T01:06:50Z</time>
+    </trkpt>
+    <trkpt lat="52.296823" lon="16.8350881">
+      <ele>112</ele>
+      <time>2022-01-18T01:09:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2967417" lon="16.8292737">
+      <ele>120</ele>
+      <time>2022-01-18T01:16:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:24:17Z</time>
+    <bounds maxlat="51.0978363" maxlon="18.7855634" minlat="51.0971221" minlon="18.7852362"/>
+  </metadata>
+  <wpt lat="51.097836" lon="18.785563">
+    <ele>190</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/9918">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.097122" lon="18.785236">
+    <ele>191</ele>
+    <name>Bugaj</name>
+    <link href="https://mapa-turystyczna.pl/node/9917">
+      <text>Bugaj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Bugaj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0978363,18.7855634;51.09761605029458,18.78549050000002;51.0971221,18.7852362">
+    <text>Rozejscie szlakow czerwony / niebieski - Bugaj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0978363" lon="18.7855634">
+      <ele>190</ele>
+      <time>2022-01-18T00:24:17Z</time>
+    </trkpt>
+    <trkpt lat="51.0977811" lon="18.7855361">
+      <ele>190</ele>
+      <time>2022-01-18T00:24:22Z</time>
+    </trkpt>
+    <trkpt lat="51.097451" lon="18.7854449">
+      <ele>189</ele>
+      <time>2022-01-18T00:24:49Z</time>
+    </trkpt>
+    <trkpt lat="51.0971221" lon="18.7852362">
+      <ele>191</ele>
+      <time>2022-01-18T00:25:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

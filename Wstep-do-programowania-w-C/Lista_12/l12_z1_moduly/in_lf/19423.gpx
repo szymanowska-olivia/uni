@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:07Z</time>
+    <bounds maxlat="49.498637" maxlon="18.979105" minlat="49.497642" minlon="18.976652"/>
+  </metadata>
+  <wpt lat="49.497643" lon="18.976652">
+    <ele>770</ele>
+    <name>Zwardon, Beskidek</name>
+    <link href="https://mapa-turystyczna.pl/node/13111">
+      <text>Zwardon, Beskidek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.498637" lon="18.979105">
+    <ele>779</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13112">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zwardon, Beskidek - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.497643,18.976652;49.498136000223795,18.977914499999986;49.498637,18.979105">
+    <text>Zwardon, Beskidek - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.497643" lon="18.976652">
+      <ele>770</ele>
+      <time>2022-01-18T01:48:07Z</time>
+    </trkpt>
+    <trkpt lat="49.497642" lon="18.976781">
+      <ele>770</ele>
+      <time>2022-01-18T01:48:20Z</time>
+    </trkpt>
+    <trkpt lat="49.497712" lon="18.977067">
+      <ele>769</ele>
+      <time>2022-01-18T01:48:51Z</time>
+    </trkpt>
+    <trkpt lat="49.497754" lon="18.977152">
+      <ele>769</ele>
+      <time>2022-01-18T01:49:02Z</time>
+    </trkpt>
+    <trkpt lat="49.497873" lon="18.977305">
+      <ele>768</ele>
+      <time>2022-01-18T01:49:27Z</time>
+    </trkpt>
+    <trkpt lat="49.497932" lon="18.977402">
+      <ele>768</ele>
+      <time>2022-01-18T01:49:40Z</time>
+    </trkpt>
+    <trkpt lat="49.497988" lon="18.977519">
+      <ele>768</ele>
+      <time>2022-01-18T01:49:55Z</time>
+    </trkpt>
+    <trkpt lat="49.498284" lon="18.97831">
+      <ele>775</ele>
+      <time>2022-01-18T01:51:28Z</time>
+    </trkpt>
+    <trkpt lat="49.498356" lon="18.978492">
+      <ele>777</ele>
+      <time>2022-01-18T01:51:50Z</time>
+    </trkpt>
+    <trkpt lat="49.498422" lon="18.978659">
+      <ele>779</ele>
+      <time>2022-01-18T01:52:10Z</time>
+    </trkpt>
+    <trkpt lat="49.498637" lon="18.979105">
+      <ele>779</ele>
+      <time>2022-01-18T01:53:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

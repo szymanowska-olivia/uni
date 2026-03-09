@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:57Z</time>
+    <bounds maxlat="53.964883" maxlon="14.6156263" minlat="53.9644373" minlon="14.6155397"/>
+  </metadata>
+  <wpt lat="53.964437" lon="14.615626">
+    <ele>7</ele>
+    <name>Kolczewo, ul. Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/8595">
+      <text>Kolczewo, ul. Zwyciestwa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.964883" lon="14.61554">
+    <ele>6</ele>
+    <name>Kolczewo</name>
+    <link href="https://mapa-turystyczna.pl/node/8583">
+      <text>Kolczewo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolczewo, ul. Zwyciestwa - Kolczewo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9644373,14.6156263;53.96466015059573,14.615583000000019;53.964883,14.6155397">
+    <text>Kolczewo, ul. Zwyciestwa - Kolczewo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9644373" lon="14.6156263">
+      <ele>7</ele>
+      <time>2022-01-17T23:50:57Z</time>
+    </trkpt>
+    <trkpt lat="53.964883" lon="14.6155397">
+      <ele>6</ele>
+      <time>2022-01-17T23:51:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

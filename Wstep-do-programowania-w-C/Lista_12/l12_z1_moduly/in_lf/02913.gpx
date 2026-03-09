@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:18Z</time>
+    <bounds maxlat="50.3995287" maxlon="16.8484944" minlat="50.3981301" minlon="16.844396"/>
+  </metadata>
+  <wpt lat="50.39813" lon="16.844396">
+    <ele>726</ele>
+    <name>Przelecz Jaworowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2079">
+      <text>Przelecz Jaworowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.399529" lon="16.848494">
+    <ele>768</ele>
+    <name>Przelecz Jaworowa, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2080">
+      <text>Przelecz Jaworowa, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Jaworowa - Przelecz Jaworowa, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3981301,16.844396;50.399135850057704,16.846234600000034;50.3995287,16.8484944">
+    <text>Przelecz Jaworowa - Przelecz Jaworowa, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3981301" lon="16.844396">
+      <ele>726</ele>
+      <time>2022-01-17T21:22:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3982604" lon="16.8446454">
+      <ele>732</ele>
+      <time>2022-01-17T21:22:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3985891" lon="16.845088">
+      <ele>746</ele>
+      <time>2022-01-17T21:24:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3988802" lon="16.8458149">
+      <ele>761</ele>
+      <time>2022-01-17T21:26:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3990619" lon="16.8461179">
+      <ele>763</ele>
+      <time>2022-01-17T21:27:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3992098" lon="16.8463513">
+      <ele>763</ele>
+      <time>2022-01-17T21:27:44Z</time>
+    </trkpt>
+    <trkpt lat="50.399294" lon="16.8465378">
+      <ele>763</ele>
+      <time>2022-01-17T21:28:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3995003" lon="16.8474732">
+      <ele>764</ele>
+      <time>2022-01-17T21:30:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3995287" lon="16.8484944">
+      <ele>768</ele>
+      <time>2022-01-17T21:32:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

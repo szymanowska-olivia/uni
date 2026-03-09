@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:12Z</time>
+    <bounds maxlat="52.4992784" maxlon="20.791969" minlat="52.4990811" minlon="20.7891884"/>
+  </metadata>
+  <wpt lat="52.499278" lon="20.791969">
+    <ele>115</ele>
+    <name>Uroczysko Wolka, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/12275">
+      <text>Uroczysko Wolka, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.499081" lon="20.789188">
+    <ele>118</ele>
+    <name>Uroczysko Wolka</name>
+    <link href="https://mapa-turystyczna.pl/node/12237">
+      <text>Uroczysko Wolka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Uroczysko Wolka, skrzyzowanie - Uroczysko Wolka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4992784,20.791969;52.49917975011067,20.790578699999987;52.4990811,20.7891884">
+    <text>Uroczysko Wolka, skrzyzowanie - Uroczysko Wolka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4992784" lon="20.791969">
+      <ele>115</ele>
+      <time>2022-01-18T01:24:12Z</time>
+    </trkpt>
+    <trkpt lat="52.4990811" lon="20.7891884">
+      <ele>118</ele>
+      <time>2022-01-18T01:27:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

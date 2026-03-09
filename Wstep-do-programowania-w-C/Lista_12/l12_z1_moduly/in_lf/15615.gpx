@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:11Z</time>
+    <bounds maxlat="49.9606124" maxlon="17.1040993" minlat="49.9584555" minlon="17.1016853"/>
+  </metadata>
+  <wpt lat="49.960612" lon="17.104099">
+    <ele>884</ele>
+    <name>Nad rijistem</name>
+    <link href="https://mapa-turystyczna.pl/node/10658">
+      <text>Nad rijistem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.958455" lon="17.101685">
+    <ele>905</ele>
+    <name>Pod Smrcnikem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10659">
+      <text>Pod Smrcnikem, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad rijistem - Pod Smrcnikem, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9606124,17.1040993;49.95915010095217,17.103030450000016;49.9584555,17.1016853">
+    <text>Nad rijistem - Pod Smrcnikem, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9606124" lon="17.1040993">
+      <ele>884</ele>
+      <time>2022-01-18T00:42:11Z</time>
+    </trkpt>
+    <trkpt lat="49.9604486" lon="17.1040014">
+      <ele>885</ele>
+      <time>2022-01-18T00:42:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9600241" lon="17.1038083">
+      <ele>888</ele>
+      <time>2022-01-18T00:43:18Z</time>
+    </trkpt>
+    <trkpt lat="49.9594529" lon="17.1033148">
+      <ele>894</ele>
+      <time>2022-01-18T00:44:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9588473" lon="17.1027461">
+      <ele>899</ele>
+      <time>2022-01-18T00:45:45Z</time>
+    </trkpt>
+    <trkpt lat="49.9586229" lon="17.1022794">
+      <ele>903</ele>
+      <time>2022-01-18T00:46:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9584555" lon="17.1016853">
+      <ele>905</ele>
+      <time>2022-01-18T00:47:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

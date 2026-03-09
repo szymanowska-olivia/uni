@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:28Z</time>
+    <bounds maxlat="50.8156462" maxlon="15.8688501" minlat="50.8145684" minlon="15.8621281"/>
+  </metadata>
+  <wpt lat="50.815242" lon="15.86885">
+    <ele>664</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13100">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.814568" lon="15.862128">
+    <ele>595</ele>
+    <name>Przelecz pod Srednica</name>
+    <link href="https://mapa-turystyczna.pl/node/2987">
+      <text>Przelecz pod Srednica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Przelecz pod Srednica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8152421,15.8688501;50.815542350074544,15.865264349999988;50.8145684,15.8621281">
+    <text>Rozejscie szlakow - Przelecz pod Srednica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8152421" lon="15.8688501">
+      <ele>664</ele>
+      <time>2022-01-18T01:47:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8152835" lon="15.8687854">
+      <ele>664</ele>
+      <time>2022-01-18T01:47:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8155445" lon="15.8675355">
+      <ele>653</ele>
+      <time>2022-01-18T01:49:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8156462" lon="15.8661193">
+      <ele>635</ele>
+      <time>2022-01-18T01:51:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8156258" lon="15.8657545">
+      <ele>629</ele>
+      <time>2022-01-18T01:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8154589" lon="15.8647742">
+      <ele>619</ele>
+      <time>2022-01-18T01:53:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8153631" lon="15.8646038">
+      <ele>619</ele>
+      <time>2022-01-18T01:53:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8151377" lon="15.8643705">
+      <ele>618</ele>
+      <time>2022-01-18T01:54:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8148496" lon="15.863893">
+      <ele>611</ele>
+      <time>2022-01-18T01:54:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8146531" lon="15.8633244">
+      <ele>606</ele>
+      <time>2022-01-18T01:55:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8146057" lon="15.8629382">
+      <ele>603</ele>
+      <time>2022-01-18T01:56:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8145684" lon="15.8621281">
+      <ele>595</ele>
+      <time>2022-01-18T01:57:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

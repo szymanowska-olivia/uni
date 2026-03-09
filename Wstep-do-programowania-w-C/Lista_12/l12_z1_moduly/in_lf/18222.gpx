@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:22Z</time>
+    <bounds maxlat="52.1006566" maxlon="15.1164749" minlat="52.0911579" minlon="15.1088828"/>
+  </metadata>
+  <wpt lat="52.091158" lon="15.116277">
+    <ele>55</ele>
+    <name>Jezioro Glibiel</name>
+    <link href="https://mapa-turystyczna.pl/node/12375">
+      <text>Jezioro Glibiel</text>
+    </link>
+  </wpt>
+  <wpt lat="52.100657" lon="15.108883">
+    <ele>61</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12378">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Glibiel - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0911579,15.1162772;52.09604475253684,15.115736600000016;52.1006566,15.1088828">
+    <text>Jezioro Glibiel - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0911579" lon="15.1162772">
+      <ele>55</ele>
+      <time>2022-01-18T01:27:22Z</time>
+    </trkpt>
+    <trkpt lat="52.091379" lon="15.1160966">
+      <ele>56</ele>
+      <time>2022-01-18T01:27:48Z</time>
+    </trkpt>
+    <trkpt lat="52.0914334" lon="15.1159271">
+      <ele>58</ele>
+      <time>2022-01-18T01:28:01Z</time>
+    </trkpt>
+    <trkpt lat="52.0922185" lon="15.1159766">
+      <ele>57</ele>
+      <time>2022-01-18T01:29:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0934862" lon="15.1162616">
+      <ele>58</ele>
+      <time>2022-01-18T01:31:38Z</time>
+    </trkpt>
+    <trkpt lat="52.094424" lon="15.1164749">
+      <ele>53</ele>
+      <time>2022-01-18T01:33:18Z</time>
+    </trkpt>
+    <trkpt lat="52.095569" lon="15.1163277">
+      <ele>53</ele>
+      <time>2022-01-18T01:35:19Z</time>
+    </trkpt>
+    <trkpt lat="52.0965205" lon="15.1151455">
+      <ele>53</ele>
+      <time>2022-01-18T01:37:26Z</time>
+    </trkpt>
+    <trkpt lat="52.097124" lon="15.1141239">
+      <ele>49</ele>
+      <time>2022-01-18T01:38:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0981667" lon="15.1125423">
+      <ele>52</ele>
+      <time>2022-01-18T01:41:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1004798" lon="15.1092436">
+      <ele>62</ele>
+      <time>2022-01-18T01:46:52Z</time>
+    </trkpt>
+    <trkpt lat="52.1006566" lon="15.1088828">
+      <ele>61</ele>
+      <time>2022-01-18T01:47:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

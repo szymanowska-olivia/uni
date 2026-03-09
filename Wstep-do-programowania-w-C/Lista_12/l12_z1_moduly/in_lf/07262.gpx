@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:24Z</time>
+    <bounds maxlat="52.3533667" maxlon="20.3035069" minlat="52.3459843" minlon="20.2822423"/>
+  </metadata>
+  <wpt lat="52.345984" lon="20.282242">
+    <ele>67</ele>
+    <name>Tulowice</name>
+    <link href="https://mapa-turystyczna.pl/node/4927">
+      <text>Tulowice</text>
+    </link>
+  </wpt>
+  <wpt lat="52.35259" lon="20.303507">
+    <ele>78</ele>
+    <name>Wilcze Tulowskie</name>
+    <link href="https://mapa-turystyczna.pl/node/4928">
+      <text>Wilcze Tulowskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tulowice - Wilcze Tulowskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3459843,20.2822423;52.35011855107619,20.29362374999998;52.3525904,20.3035069">
+    <text>Tulowice - Wilcze Tulowskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3459843" lon="20.2822423">
+      <ele>67</ele>
+      <time>2022-01-17T22:20:24Z</time>
+    </trkpt>
+    <trkpt lat="52.3465086" lon="20.2825105">
+      <ele>67</ele>
+      <time>2022-01-17T22:21:24Z</time>
+    </trkpt>
+    <trkpt lat="52.3492482" lon="20.2862495">
+      <ele>66</ele>
+      <time>2022-01-17T22:27:55Z</time>
+    </trkpt>
+    <trkpt lat="52.3496217" lon="20.2870032">
+      <ele>67</ele>
+      <time>2022-01-17T22:29:00Z</time>
+    </trkpt>
+    <trkpt lat="52.3498347" lon="20.2879809">
+      <ele>66</ele>
+      <time>2022-01-17T22:30:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3498101" lon="20.2911305">
+      <ele>67</ele>
+      <time>2022-01-17T22:33:40Z</time>
+    </trkpt>
+    <trkpt lat="52.350427" lon="20.296117">
+      <ele>66</ele>
+      <time>2022-01-17T22:39:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3524655" lon="20.2983099">
+      <ele>72</ele>
+      <time>2022-01-17T22:43:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3533667" lon="20.3003076">
+      <ele>73</ele>
+      <time>2022-01-17T22:46:33Z</time>
+    </trkpt>
+    <trkpt lat="52.3525854" lon="20.3034092">
+      <ele>78</ele>
+      <time>2022-01-17T22:50:17Z</time>
+    </trkpt>
+    <trkpt lat="52.3525904" lon="20.3035069">
+      <ele>78</ele>
+      <time>2022-01-17T22:50:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:56Z</time>
+    <bounds maxlat="52.3525904" maxlon="20.3085506" minlat="52.351933" minlon="20.3035069"/>
+  </metadata>
+  <wpt lat="52.35259" lon="20.303507">
+    <ele>78</ele>
+    <name>Wilcze Tulowskie</name>
+    <link href="https://mapa-turystyczna.pl/node/4928">
+      <text>Wilcze Tulowskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.351933" lon="20.308551">
+    <ele>90</ele>
+    <name>Skrzyzowanie ze sciezka dydaktyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12423">
+      <text>Skrzyzowanie ze sciezka dydaktyczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilcze Tulowskie - Skrzyzowanie ze sciezka dydaktyczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3525904,20.3035069;52.35247740006706,20.305948850000018;52.351933,20.3085506">
+    <text>Wilcze Tulowskie - Skrzyzowanie ze sciezka dydaktyczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3525904" lon="20.3035069">
+      <ele>78</ele>
+      <time>2022-01-18T01:28:56Z</time>
+    </trkpt>
+    <trkpt lat="52.3524004" lon="20.3052986">
+      <ele>83</ele>
+      <time>2022-01-18T01:30:36Z</time>
+    </trkpt>
+    <trkpt lat="52.3525544" lon="20.3065991">
+      <ele>84</ele>
+      <time>2022-01-18T01:31:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3525511" lon="20.3070474">
+      <ele>86</ele>
+      <time>2022-01-18T01:32:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3522496" lon="20.3080773">
+      <ele>90</ele>
+      <time>2022-01-18T01:33:17Z</time>
+    </trkpt>
+    <trkpt lat="52.351933" lon="20.3085506">
+      <ele>90</ele>
+      <time>2022-01-18T01:33:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

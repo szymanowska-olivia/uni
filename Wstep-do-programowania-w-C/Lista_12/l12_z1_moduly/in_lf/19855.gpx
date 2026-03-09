@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:07Z</time>
+    <bounds maxlat="50.933091" maxlon="15.9396671" minlat="50.9309839" minlon="15.9354208"/>
+  </metadata>
+  <wpt lat="50.933091" lon="15.935421">
+    <ele>413</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13403">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.930984" lon="15.939667">
+    <ele>441</ele>
+    <name>Milek</name>
+    <link href="https://mapa-turystyczna.pl/node/8236">
+      <text>Milek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Milek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.933091,15.9354208;50.932266150503196,15.938214350000006;50.9309839,15.9396671">
+    <text>Rozejscie szlakow - Milek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.933091" lon="15.9354208">
+      <ele>413</ele>
+      <time>2022-01-18T01:56:07Z</time>
+    </trkpt>
+    <trkpt lat="50.9329102" lon="15.9365027">
+      <ele>425</ele>
+      <time>2022-01-18T01:58:06Z</time>
+    </trkpt>
+    <trkpt lat="50.9324825" lon="15.9378147">
+      <ele>432</ele>
+      <time>2022-01-18T02:00:41Z</time>
+    </trkpt>
+    <trkpt lat="50.9320498" lon="15.938614">
+      <ele>444</ele>
+      <time>2022-01-18T02:02:33Z</time>
+    </trkpt>
+    <trkpt lat="50.9313602" lon="15.9391236">
+      <ele>442</ele>
+      <time>2022-01-18T02:04:40Z</time>
+    </trkpt>
+    <trkpt lat="50.931022" lon="15.9395152">
+      <ele>440</ele>
+      <time>2022-01-18T02:05:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9309839" lon="15.9396671">
+      <ele>441</ele>
+      <time>2022-01-18T02:06:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

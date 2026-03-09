@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:19Z</time>
+    <bounds maxlat="50.7535233" maxlon="15.5492323" minlat="50.7518779" minlon="15.544957"/>
+  </metadata>
+  <wpt lat="50.751878" lon="15.549232">
+    <ele>1397</ele>
+    <name>Vrbatova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1431">
+      <text>Vrbatova bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.753523" lon="15.544957">
+    <ele>1402</ele>
+    <name>Vrbatovo navrsi</name>
+    <link href="https://mapa-turystyczna.pl/node/1432">
+      <text>Vrbatovo navrsi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrbatova bouda - Vrbatovo navrsi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7518779,15.5492323;50.7524361018789,15.547633750000012;50.7535233,15.544957">
+    <text>Vrbatova bouda - Vrbatovo navrsi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7518779" lon="15.5492323">
+      <ele>1397</ele>
+      <time>2022-01-17T21:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7520167" lon="15.548712">
+      <ele>1401</ele>
+      <time>2022-01-17T21:09:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7528555" lon="15.5465555">
+      <ele>1406</ele>
+      <time>2022-01-17T21:12:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7535233" lon="15.544957">
+      <ele>1402</ele>
+      <time>2022-01-17T21:14:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

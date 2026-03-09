@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:01Z</time>
+    <bounds maxlat="50.4798807" maxlon="16.2867889" minlat="50.4793805" minlon="16.2837486"/>
+  </metadata>
+  <wpt lat="50.47938" lon="16.286789">
+    <ele>838</ele>
+    <name>Bledne Skaly, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/1847">
+      <text>Bledne Skaly, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.479837" lon="16.283749">
+    <ele>778</ele>
+    <name>Pod Blednymi Skalami PL / CZ</name>
+    <link href="https://mapa-turystyczna.pl/node/5843">
+      <text>Pod Blednymi Skalami PL / CZ</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledne Skaly, parking - Pod Blednymi Skalami PL / CZ</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4793805,16.2867889;50.47966690007183,16.285176800000013;50.4798372,16.2837486">
+    <text>Bledne Skaly, parking - Pod Blednymi Skalami PL / CZ</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4793805" lon="16.2867889">
+      <ele>838</ele>
+      <time>2022-01-17T22:38:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4794915" lon="16.2863034">
+      <ele>834</ele>
+      <time>2022-01-17T22:38:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4795845" lon="16.2854933">
+      <ele>825</ele>
+      <time>2022-01-17T22:40:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4797493" lon="16.2848603">
+      <ele>810</ele>
+      <time>2022-01-17T22:41:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4798807" lon="16.2843212">
+      <ele>790</ele>
+      <time>2022-01-17T22:42:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4798372" lon="16.2837486">
+      <ele>778</ele>
+      <time>2022-01-17T22:43:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

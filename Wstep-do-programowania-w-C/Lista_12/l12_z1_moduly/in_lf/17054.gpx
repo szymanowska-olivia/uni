@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:11Z</time>
+    <bounds maxlat="52.2670989" maxlon="16.7331735" minlat="52.266589" minlon="16.7316044"/>
+  </metadata>
+  <wpt lat="52.267099" lon="16.731604">
+    <ele>80</ele>
+    <name>Jezioro Witobelskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11645">
+      <text>Jezioro Witobelskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.266589" lon="16.733173">
+    <ele>88</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11646">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Witobelskie - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2670989,16.7316044;52.26675280012838,16.7325557;52.266589,16.7331735">
+    <text>Jezioro Witobelskie - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2670989" lon="16.7316044">
+      <ele>80</ele>
+      <time>2022-01-18T01:07:11Z</time>
+    </trkpt>
+    <trkpt lat="52.2668595" lon="16.7322258">
+      <ele>87</ele>
+      <time>2022-01-18T01:08:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2666461" lon="16.7328856">
+      <ele>88</ele>
+      <time>2022-01-18T01:09:40Z</time>
+    </trkpt>
+    <trkpt lat="52.26661" lon="16.7330144">
+      <ele>88</ele>
+      <time>2022-01-18T01:09:55Z</time>
+    </trkpt>
+    <trkpt lat="52.266589" lon="16.7331735">
+      <ele>88</ele>
+      <time>2022-01-18T01:10:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:25Z</time>
+    <bounds maxlat="50.9975412" maxlon="15.2844071" minlat="50.9966406" minlon="15.284079"/>
+  </metadata>
+  <wpt lat="50.996641" lon="15.284353">
+    <ele>307</ele>
+    <name>Ruiny zamku Swiecie</name>
+    <link href="https://mapa-turystyczna.pl/node/3434">
+      <text>Ruiny zamku Swiecie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.997541" lon="15.284407">
+    <ele>305</ele>
+    <name>Swiecie</name>
+    <link href="https://mapa-turystyczna.pl/node/10745">
+      <text>Swiecie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruiny zamku Swiecie - Swiecie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9966406,15.2843535;50.99710985003148,15.284089699999996;50.9975412,15.2844071">
+    <text>Ruiny zamku Swiecie - Swiecie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9966406" lon="15.2843535">
+      <ele>307</ele>
+      <time>2022-01-18T00:44:25Z</time>
+    </trkpt>
+    <trkpt lat="50.9967182" lon="15.284197">
+      <ele>306</ele>
+      <time>2022-01-18T00:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.9967993" lon="15.2841058">
+      <ele>305</ele>
+      <time>2022-01-18T00:44:52Z</time>
+    </trkpt>
+    <trkpt lat="50.9969276" lon="15.2840844">
+      <ele>304</ele>
+      <time>2022-01-18T00:45:07Z</time>
+    </trkpt>
+    <trkpt lat="50.9970558" lon="15.284079">
+      <ele>304</ele>
+      <time>2022-01-18T00:45:22Z</time>
+    </trkpt>
+    <trkpt lat="50.9971639" lon="15.2841004">
+      <ele>304</ele>
+      <time>2022-01-18T00:45:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9973023" lon="15.2841702">
+      <ele>304</ele>
+      <time>2022-01-18T00:45:52Z</time>
+    </trkpt>
+    <trkpt lat="50.9973935" lon="15.284256">
+      <ele>304</ele>
+      <time>2022-01-18T00:46:04Z</time>
+    </trkpt>
+    <trkpt lat="50.9975412" lon="15.2844071">
+      <ele>305</ele>
+      <time>2022-01-18T00:46:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

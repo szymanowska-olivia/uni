@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:36Z</time>
+    <bounds maxlat="50.8155535" maxlon="15.3830802" minlat="50.8148328" minlon="15.3822073"/>
+  </metadata>
+  <wpt lat="50.815554" lon="15.382207">
+    <ele>825</ele>
+    <name>Orle, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/5826">
+      <text>Orle, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.814833" lon="15.38308">
+    <ele>823</ele>
+    <name>Schronisko Orle</name>
+    <link href="https://mapa-turystyczna.pl/node/2290">
+      <text>Schronisko Orle</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orle, rozejscie szlakow - Schronisko Orle</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8155535,15.3822073;50.815193151390176,15.382643749999998;50.8148328,15.3830802">
+    <text>Orle, rozejscie szlakow - Schronisko Orle</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8155535" lon="15.3822073">
+      <ele>825</ele>
+      <time>2022-01-17T22:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8148328" lon="15.3830802">
+      <ele>823</ele>
+      <time>2022-01-17T22:39:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

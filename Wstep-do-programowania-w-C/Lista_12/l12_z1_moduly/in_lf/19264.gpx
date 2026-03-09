@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:10Z</time>
+    <bounds maxlat="52.512193" maxlon="15.2442057" minlat="52.5087615" minlon="15.2396662"/>
+  </metadata>
+  <wpt lat="52.512193" lon="15.244206">
+    <ele>57</ele>
+    <name>Lubniewice</name>
+    <link href="https://mapa-turystyczna.pl/node/13012">
+      <text>Lubniewice</text>
+    </link>
+  </wpt>
+  <wpt lat="52.508761" lon="15.239666">
+    <ele>52</ele>
+    <name>Lubniewice, ul. Spacerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13014">
+      <text>Lubniewice, ul. Spacerowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubniewice - Lubniewice, ul. Spacerowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.512193,15.2442057;52.50983085554204,15.24125015;52.5087615,15.2396662">
+    <text>Lubniewice - Lubniewice, ul. Spacerowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.512193" lon="15.2442057">
+      <ele>57</ele>
+      <time>2022-01-18T01:45:10Z</time>
+    </trkpt>
+    <trkpt lat="52.5105288" lon="15.2420348">
+      <ele>55</ele>
+      <time>2022-01-18T01:47:34Z</time>
+    </trkpt>
+    <trkpt lat="52.5091329" lon="15.2404655">
+      <ele>54</ele>
+      <time>2022-01-18T01:49:29Z</time>
+    </trkpt>
+    <trkpt lat="52.5087615" lon="15.2396662">
+      <ele>52</ele>
+      <time>2022-01-18T01:50:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

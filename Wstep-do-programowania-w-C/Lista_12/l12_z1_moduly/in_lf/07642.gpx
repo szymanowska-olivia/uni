@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:02Z</time>
+    <bounds maxlat="48.9833116" maxlon="18.6347973" minlat="48.9825301" minlon="18.6326784"/>
+  </metadata>
+  <wpt lat="48.983312" lon="18.632678">
+    <ele>1198</ele>
+    <name>Maly Klak</name>
+    <link href="https://mapa-turystyczna.pl/node/5206">
+      <text>Maly Klak</text>
+    </link>
+  </wpt>
+  <wpt lat="48.98253" lon="18.634797">
+    <ele>1177</ele>
+    <name>Maly Klak, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/5205">
+      <text>Maly Klak, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maly Klak - Maly Klak, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9833116,18.6326784;48.98296395121258,18.633551449999988;48.9825301,18.6347973">
+    <text>Maly Klak - Maly Klak, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9833116" lon="18.6326784">
+      <ele>1198</ele>
+      <time>2022-01-17T22:27:02Z</time>
+    </trkpt>
+    <trkpt lat="48.9826163" lon="18.6344245">
+      <ele>1177</ele>
+      <time>2022-01-17T22:29:33Z</time>
+    </trkpt>
+    <trkpt lat="48.9825301" lon="18.6347973">
+      <ele>1177</ele>
+      <time>2022-01-17T22:30:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

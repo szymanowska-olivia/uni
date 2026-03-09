@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:46Z</time>
+    <bounds maxlat="49.440852" maxlon="20.718788" minlat="49.440477" minlon="20.717231"/>
+  </metadata>
+  <wpt lat="49.440477" lon="20.717231">
+    <ele>387</ele>
+    <name>Piwniczna Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/151">
+      <text>Piwniczna Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="49.440852" lon="20.718788">
+    <ele>371</ele>
+    <name>Piwniczna Zdroj, kladka</name>
+    <link href="https://mapa-turystyczna.pl/node/7319">
+      <text>Piwniczna Zdroj, kladka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piwniczna Zdroj - Piwniczna Zdroj, kladka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.440477,20.717231;49.440711000202704,20.71816899999999;49.440852,20.718788">
+    <text>Piwniczna Zdroj - Piwniczna Zdroj, kladka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.440477" lon="20.717231">
+      <ele>387</ele>
+      <time>2022-01-17T23:15:46Z</time>
+    </trkpt>
+    <trkpt lat="49.440518" lon="20.717382">
+      <ele>385</ele>
+      <time>2022-01-17T23:15:58Z</time>
+    </trkpt>
+    <trkpt lat="49.440527" lon="20.71741">
+      <ele>385</ele>
+      <time>2022-01-17T23:16:00Z</time>
+    </trkpt>
+    <trkpt lat="49.440537" lon="20.717442">
+      <ele>384</ele>
+      <time>2022-01-17T23:16:03Z</time>
+    </trkpt>
+    <trkpt lat="49.440546" lon="20.717467">
+      <ele>384</ele>
+      <time>2022-01-17T23:16:05Z</time>
+    </trkpt>
+    <trkpt lat="49.44057" lon="20.71755">
+      <ele>383</ele>
+      <time>2022-01-17T23:16:11Z</time>
+    </trkpt>
+    <trkpt lat="49.440852" lon="20.718788">
+      <ele>371</ele>
+      <time>2022-01-17T23:17:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

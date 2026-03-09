@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:04Z</time>
+    <bounds maxlat="50.442835" maxlon="18.8558379" minlat="50.441624" minlon="18.8554965"/>
+  </metadata>
+  <wpt lat="50.442835" lon="18.8558">
+    <ele>304</ele>
+    <name>Tarnowskie Gory, ul. Sw. Jacka</name>
+    <link href="https://mapa-turystyczna.pl/node/12515">
+      <text>Tarnowskie Gory, ul. Sw. Jacka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.441624" lon="18.855497">
+    <ele>301</ele>
+    <name>Tarnowskie Gory, ul. Gornicza</name>
+    <link href="https://mapa-turystyczna.pl/node/12522">
+      <text>Tarnowskie Gory, ul. Gornicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, ul. Sw. Jacka - Tarnowskie Gory, ul. Gornicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.442835,18.8557999;50.44218390030928,18.855737649999984;50.441624,18.8554965">
+    <text>Tarnowskie Gory, ul. Sw. Jacka - Tarnowskie Gory, ul. Gornicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.442835" lon="18.8557999">
+      <ele>304</ele>
+      <time>2022-01-18T01:32:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4426339" lon="18.8558379">
+      <ele>304</ele>
+      <time>2022-01-18T01:32:24Z</time>
+    </trkpt>
+    <trkpt lat="50.442355" lon="18.8557825">
+      <ele>303</ele>
+      <time>2022-01-18T01:32:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4420128" lon="18.8556928">
+      <ele>302</ele>
+      <time>2022-01-18T01:33:24Z</time>
+    </trkpt>
+    <trkpt lat="50.441624" lon="18.8554965">
+      <ele>301</ele>
+      <time>2022-01-18T01:34:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

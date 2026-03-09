@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:21Z</time>
+    <bounds maxlat="50.2837112" maxlon="17.3894638" minlat="50.281555" minlon="17.3887691"/>
+  </metadata>
+  <wpt lat="50.281555" lon="17.389464">
+    <ele>394</ele>
+    <name>Konradow, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2645">
+      <text>Konradow, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.283711" lon="17.388825">
+    <ele>397</ele>
+    <name>Konradow, straznica</name>
+    <link href="https://mapa-turystyczna.pl/node/2646">
+      <text>Konradow, straznica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konradow, granica - Konradow, straznica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.281555,17.3894638;50.282346006572595,17.389116450000014;50.2837112,17.3888254">
+    <text>Konradow, granica - Konradow, straznica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.281555" lon="17.3894638">
+      <ele>394</ele>
+      <time>2022-01-17T21:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.283137" lon="17.3887691">
+      <ele>401</ele>
+      <time>2022-01-17T21:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2837112" lon="17.3888254">
+      <ele>397</ele>
+      <time>2022-01-17T21:39:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

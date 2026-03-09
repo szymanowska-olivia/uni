@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:35Z</time>
+    <bounds maxlat="54.347102" maxlon="18.8877511" minlat="54.3426211" minlon="18.8742918"/>
+  </metadata>
+  <wpt lat="54.342621" lon="18.887751">
+    <ele>32</ele>
+    <name>Gora Orla</name>
+    <link href="https://mapa-turystyczna.pl/node/10889">
+      <text>Gora Orla</text>
+    </link>
+  </wpt>
+  <wpt lat="54.34657" lon="18.874292">
+    <ele>11</ele>
+    <name>Gdansk, Orlinki, plaza</name>
+    <link href="https://mapa-turystyczna.pl/node/10890">
+      <text>Gdansk, Orlinki, plaza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Orla - Gdansk, Orlinki, plaza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3426211,18.8877511;54.34658450325793,18.87953279999998;54.3465704,18.8742918">
+    <text>Gora Orla - Gdansk, Orlinki, plaza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3426211" lon="18.8877511">
+      <ele>32</ele>
+      <time>2022-01-18T00:47:35Z</time>
+    </trkpt>
+    <trkpt lat="54.3427555" lon="18.8867319">
+      <ele>31</ele>
+      <time>2022-01-18T00:48:42Z</time>
+    </trkpt>
+    <trkpt lat="54.3430933" lon="18.8858682">
+      <ele>29</ele>
+      <time>2022-01-18T00:49:50Z</time>
+    </trkpt>
+    <trkpt lat="54.3453509" lon="18.8851601">
+      <ele>14</ele>
+      <time>2022-01-18T00:54:04Z</time>
+    </trkpt>
+    <trkpt lat="54.3457699" lon="18.8846451">
+      <ele>13</ele>
+      <time>2022-01-18T00:55:01Z</time>
+    </trkpt>
+    <trkpt lat="54.3459482" lon="18.8845432">
+      <ele>11</ele>
+      <time>2022-01-18T00:55:22Z</time>
+    </trkpt>
+    <trkpt lat="54.346067" lon="18.88457">
+      <ele>10</ele>
+      <time>2022-01-18T00:55:35Z</time>
+    </trkpt>
+    <trkpt lat="54.347102" lon="18.8744956">
+      <ele>10</ele>
+      <time>2022-01-18T01:06:35Z</time>
+    </trkpt>
+    <trkpt lat="54.3465704" lon="18.8742918">
+      <ele>11</ele>
+      <time>2022-01-18T01:07:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

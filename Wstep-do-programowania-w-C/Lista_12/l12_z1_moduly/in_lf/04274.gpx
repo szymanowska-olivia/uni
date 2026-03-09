@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:14Z</time>
+    <bounds maxlat="50.3540111" maxlon="16.3604826" minlat="50.3534412" minlon="16.3599689"/>
+  </metadata>
+  <wpt lat="50.354011" lon="16.360483">
+    <ele>1071</ele>
+    <name>Vrchmezi</name>
+    <link href="https://mapa-turystyczna.pl/node/1867">
+      <text>Vrchmezi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.353441" lon="16.359969">
+    <ele>1074</ele>
+    <name>Vrchmezi rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2975">
+      <text>Vrchmezi rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrchmezi - Vrchmezi rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3540111,16.3604826;50.3537261508551,16.360225749999998;50.3534412,16.3599689">
+    <text>Vrchmezi - Vrchmezi rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3540111" lon="16.3604826">
+      <ele>1071</ele>
+      <time>2022-01-17T21:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3534412" lon="16.3599689">
+      <ele>1074</ele>
+      <time>2022-01-17T21:41:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

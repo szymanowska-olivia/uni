@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:42Z</time>
+    <bounds maxlat="50.3852087" maxlon="16.9202971" minlat="50.3838063" minlon="16.9126099"/>
+  </metadata>
+  <wpt lat="50.38447" lon="16.920297">
+    <ele>734</ele>
+    <name>Nad Travnou</name>
+    <link href="https://mapa-turystyczna.pl/node/2118">
+      <text>Nad Travnou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.383858" lon="16.91261">
+    <ele>800</ele>
+    <name>Mlynska</name>
+    <link href="https://mapa-turystyczna.pl/node/2119">
+      <text>Mlynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Travnou - Mlynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3844705,16.9202971;50.38512520007348,16.916138950000015;50.3838582,16.9126099">
+    <text>Nad Travnou - Mlynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3844705" lon="16.9202971">
+      <ele>734</ele>
+      <time>2022-01-17T21:22:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3845047" lon="16.919235">
+      <ele>739</ele>
+      <time>2022-01-17T21:24:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3850417" lon="16.9164937">
+      <ele>758</ele>
+      <time>2022-01-17T21:29:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3852087" lon="16.9157842">
+      <ele>766</ele>
+      <time>2022-01-17T21:30:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3851745" lon="16.9153336">
+      <ele>773</ele>
+      <time>2022-01-17T21:31:19Z</time>
+    </trkpt>
+    <trkpt lat="50.385065" lon="16.9149902">
+      <ele>779</ele>
+      <time>2022-01-17T21:31:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3844083" lon="16.9145933">
+      <ele>787</ele>
+      <time>2022-01-17T21:33:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3842646" lon="16.9144323">
+      <ele>790</ele>
+      <time>2022-01-17T21:34:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3838884" lon="16.913692">
+      <ele>797</ele>
+      <time>2022-01-17T21:35:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3838063" lon="16.9131127">
+      <ele>798</ele>
+      <time>2022-01-17T21:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3838582" lon="16.9126099">
+      <ele>800</ele>
+      <time>2022-01-17T21:37:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

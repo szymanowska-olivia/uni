@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:48Z</time>
+    <bounds maxlat="50.6232524" maxlon="16.5913629" minlat="50.6219285" minlon="16.5881324"/>
+  </metadata>
+  <wpt lat="50.622093" lon="16.591363">
+    <ele>703</ele>
+    <name>Pod Przelecza Woliborska</name>
+    <link href="https://mapa-turystyczna.pl/node/4132">
+      <text>Pod Przelecza Woliborska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.623252" lon="16.588132">
+    <ele>711</ele>
+    <name>Przelecz Woliborska</name>
+    <link href="https://mapa-turystyczna.pl/node/2050">
+      <text>Przelecz Woliborska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Przelecza Woliborska - Przelecz Woliborska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6220935,16.5913629;50.62229940007702,16.589773850000004;50.6232524,16.5881324">
+    <text>Pod Przelecza Woliborska - Przelecz Woliborska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6220935" lon="16.5913629">
+      <ele>703</ele>
+      <time>2022-01-17T22:04:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6219285" lon="16.5911043">
+      <ele>704</ele>
+      <time>2022-01-17T22:05:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6219489" lon="16.590718">
+      <ele>706</ele>
+      <time>2022-01-17T22:05:43Z</time>
+    </trkpt>
+    <trkpt lat="50.622051" lon="16.5903854">
+      <ele>707</ele>
+      <time>2022-01-17T22:06:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6222143" lon="16.5899455">
+      <ele>707</ele>
+      <time>2022-01-17T22:06:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6223845" lon="16.5896022">
+      <ele>705</ele>
+      <time>2022-01-17T22:07:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6227112" lon="16.5891302">
+      <ele>707</ele>
+      <time>2022-01-17T22:08:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6230584" lon="16.5885723">
+      <ele>710</ele>
+      <time>2022-01-17T22:09:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6232524" lon="16.5881324">
+      <ele>711</ele>
+      <time>2022-01-17T22:09:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

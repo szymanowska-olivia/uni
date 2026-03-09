@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:44Z</time>
+    <bounds maxlat="50.2071173" maxlon="16.5945268" minlat="50.2062788" minlon="16.5930155"/>
+  </metadata>
+  <wpt lat="50.206279" lon="16.593015">
+    <ele>732</ele>
+    <name>Pod Gniewoszem</name>
+    <link href="https://mapa-turystyczna.pl/node/5869">
+      <text>Pod Gniewoszem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.207117" lon="16.594527">
+    <ele>741</ele>
+    <name>Pod Gniewoszem</name>
+    <link href="https://mapa-turystyczna.pl/node/1991">
+      <text>Pod Gniewoszem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Gniewoszem - Pod Gniewoszem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2062788,16.5930155;50.206698051841464,16.593771150000006;50.2071173,16.5945268">
+    <text>Pod Gniewoszem - Pod Gniewoszem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2062788" lon="16.5930155">
+      <ele>732</ele>
+      <time>2022-01-17T22:38:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2071173" lon="16.5945268">
+      <ele>741</ele>
+      <time>2022-01-17T22:41:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

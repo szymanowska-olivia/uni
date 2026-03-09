@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:12Z</time>
+    <bounds maxlat="52.2821598" maxlon="16.7998445" minlat="52.279237" minlon="16.7891704"/>
+  </metadata>
+  <wpt lat="52.279237" lon="16.78917">
+    <ele>90</ele>
+    <name>Jaroslawiec, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11806">
+      <text>Jaroslawiec, lacznik</text>
+    </link>
+  </wpt>
+  <wpt lat="52.28216" lon="16.799844">
+    <ele>98</ele>
+    <name>Jaroslawiec, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11633">
+      <text>Jaroslawiec, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaroslawiec, lacznik - Jaroslawiec, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.279237,16.7891704;52.280321913280126,16.793033849999986;52.2821598,16.7998445">
+    <text>Jaroslawiec, lacznik - Jaroslawiec, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.279237" lon="16.7891704">
+      <ele>90</ele>
+      <time>2022-01-18T01:12:12Z</time>
+    </trkpt>
+    <trkpt lat="52.2814068" lon="16.7968973">
+      <ele>99</ele>
+      <time>2022-01-18T01:23:06Z</time>
+    </trkpt>
+    <trkpt lat="52.2821598" lon="16.7998445">
+      <ele>98</ele>
+      <time>2022-01-18T01:27:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

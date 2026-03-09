@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:47Z</time>
+    <bounds maxlat="50.1690577" maxlon="17.2801691" minlat="50.165515" minlon="17.2775137"/>
+  </metadata>
+  <wpt lat="50.168776" lon="17.277514">
+    <ele>984</ele>
+    <name>Pod Velkym Bradlem</name>
+    <link href="https://mapa-turystyczna.pl/node/6776">
+      <text>Pod Velkym Bradlem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.165515" lon="17.280169">
+    <ele>1007</ele>
+    <name>Pasmo Orlika</name>
+    <link href="https://mapa-turystyczna.pl/node/6778">
+      <text>Pasmo Orlika</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Velkym Bradlem - Pasmo Orlika</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.168776,17.2775137;50.16733450098924,17.278205749999998;50.165515,17.2801691">
+    <text>Pod Velkym Bradlem - Pasmo Orlika</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.168776" lon="17.2775137">
+      <ele>984</ele>
+      <time>2022-01-17T23:01:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1690577" lon="17.2784579">
+      <ele>985</ele>
+      <time>2022-01-17T23:03:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1689993" lon="17.2786349">
+      <ele>986</ele>
+      <time>2022-01-17T23:03:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1688344" lon="17.27871">
+      <ele>987</ele>
+      <time>2022-01-17T23:03:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1687519" lon="17.2789353">
+      <ele>990</ele>
+      <time>2022-01-17T23:03:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1683396" lon="17.2789353">
+      <ele>998</ele>
+      <time>2022-01-17T23:04:44Z</time>
+    </trkpt>
+    <trkpt lat="50.167642" lon="17.2784311">
+      <ele>1003</ele>
+      <time>2022-01-17T23:06:12Z</time>
+    </trkpt>
+    <trkpt lat="50.167027" lon="17.2779804">
+      <ele>1002</ele>
+      <time>2022-01-17T23:07:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1661988" lon="17.2782379">
+      <ele>1010</ele>
+      <time>2022-01-17T23:09:06Z</time>
+    </trkpt>
+    <trkpt lat="50.165948" lon="17.2789139">
+      <ele>1010</ele>
+      <time>2022-01-17T23:10:03Z</time>
+    </trkpt>
+    <trkpt lat="50.165515" lon="17.2801691">
+      <ele>1007</ele>
+      <time>2022-01-17T23:11:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

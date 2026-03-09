@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:27Z</time>
+    <bounds maxlat="49.738647" maxlon="22.7619633" minlat="49.7360641" minlon="22.7600455"/>
+  </metadata>
+  <wpt lat="49.738647" lon="22.760046">
+    <ele>279</ele>
+    <name>Fort Grochowice, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3783">
+      <text>Fort Grochowice, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.736064" lon="22.761784">
+    <ele>288</ele>
+    <name>Fort Grochowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3782">
+      <text>Fort Grochowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fort Grochowice, skrzyzowanie - Fort Grochowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.738647,22.7600455;49.73696550003573,22.760225249999998;49.7360641,22.7617836">
+    <text>Fort Grochowice, skrzyzowanie - Fort Grochowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.738647" lon="22.7600455">
+      <ele>279</ele>
+      <time>2022-01-17T21:54:27Z</time>
+    </trkpt>
+    <trkpt lat="49.7377594" lon="22.7601045">
+      <ele>279</ele>
+      <time>2022-01-17T21:55:42Z</time>
+    </trkpt>
+    <trkpt lat="49.7370244" lon="22.7600777">
+      <ele>281</ele>
+      <time>2022-01-17T21:56:45Z</time>
+    </trkpt>
+    <trkpt lat="49.7369066" lon="22.7603728">
+      <ele>282</ele>
+      <time>2022-01-17T21:57:04Z</time>
+    </trkpt>
+    <trkpt lat="49.7367748" lon="22.7617139">
+      <ele>281</ele>
+      <time>2022-01-17T21:58:18Z</time>
+    </trkpt>
+    <trkpt lat="49.7366361" lon="22.7619633">
+      <ele>283</ele>
+      <time>2022-01-17T21:58:37Z</time>
+    </trkpt>
+    <trkpt lat="49.7363432" lon="22.7619486">
+      <ele>285</ele>
+      <time>2022-01-17T21:59:02Z</time>
+    </trkpt>
+    <trkpt lat="49.7360641" lon="22.7617836">
+      <ele>288</ele>
+      <time>2022-01-17T21:59:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

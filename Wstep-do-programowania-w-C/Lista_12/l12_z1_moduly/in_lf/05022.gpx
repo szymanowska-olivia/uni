@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:49:46Z</time>
+    <bounds maxlat="49.9253253" maxlon="19.8625517" minlat="49.9220807" minlon="19.8597917"/>
+  </metadata>
+  <wpt lat="49.922081" lon="19.859792">
+    <ele>324</ele>
+    <name>Las Bronaczowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3526">
+      <text>Las Bronaczowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.925325" lon="19.862552">
+    <ele>334</ele>
+    <name>Las Bronaczowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3527">
+      <text>Las Bronaczowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Bronaczowa - Las Bronaczowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9220807,19.8597917;49.92407556619988,19.86144059999998;49.9253253,19.8625517">
+    <text>Las Bronaczowa - Las Bronaczowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9220807" lon="19.8597917">
+      <ele>324</ele>
+      <time>2022-01-17T21:49:46Z</time>
+    </trkpt>
+    <trkpt lat="49.9224222" lon="19.8600177">
+      <ele>328</ele>
+      <time>2022-01-17T21:50:16Z</time>
+    </trkpt>
+    <trkpt lat="49.9228258" lon="19.8603295">
+      <ele>331</ele>
+      <time>2022-01-17T21:50:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9253253" lon="19.8625517">
+      <ele>334</ele>
+      <time>2022-01-17T21:54:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:18Z</time>
+    <bounds maxlat="51.1791781" maxlon="17.1936601" minlat="51.1783407" minlon="17.1911739"/>
+  </metadata>
+  <wpt lat="51.178341" lon="17.19366">
+    <ele>127</ele>
+    <name>Dlugoleka, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10459">
+      <text>Dlugoleka, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.178502" lon="17.191174">
+    <ele>130</ele>
+    <name>Dlugoleka</name>
+    <link href="https://mapa-turystyczna.pl/node/10338">
+      <text>Dlugoleka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dlugoleka, dworzec kolejowy - Dlugoleka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1783407,17.1936601;51.17884010123906,17.192162199999988;51.1785021,17.1911739">
+    <text>Dlugoleka, dworzec kolejowy - Dlugoleka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1783407" lon="17.1936601">
+      <ele>127</ele>
+      <time>2022-01-18T00:37:18Z</time>
+    </trkpt>
+    <trkpt lat="51.1785257" lon="17.1935582">
+      <ele>128</ele>
+      <time>2022-01-18T00:37:43Z</time>
+    </trkpt>
+    <trkpt lat="51.1785593" lon="17.1934402">
+      <ele>128</ele>
+      <time>2022-01-18T00:37:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1786266" lon="17.1933597">
+      <ele>128</ele>
+      <time>2022-01-18T00:38:04Z</time>
+    </trkpt>
+    <trkpt lat="51.1787039" lon="17.1933168">
+      <ele>129</ele>
+      <time>2022-01-18T00:38:15Z</time>
+    </trkpt>
+    <trkpt lat="51.1791781" lon="17.1931505">
+      <ele>128</ele>
+      <time>2022-01-18T00:39:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1785021" lon="17.1911739">
+      <ele>130</ele>
+      <time>2022-01-18T00:42:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

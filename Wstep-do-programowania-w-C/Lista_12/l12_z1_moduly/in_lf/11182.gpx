@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:53Z</time>
+    <bounds maxlat="50.0710106" maxlon="16.9846954" minlat="50.0704906" minlon="16.9840701"/>
+  </metadata>
+  <wpt lat="50.070491" lon="16.98407">
+    <ele>585</ele>
+    <name>Nad sv. Annou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7876">
+      <text>Nad sv. Annou, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.071011" lon="16.984695">
+    <ele>583</ele>
+    <name>Nad sv. Annou</name>
+    <link href="https://mapa-turystyczna.pl/node/7875">
+      <text>Nad sv. Annou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad sv. Annou, rozc. - Nad sv. Annou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0704906,16.9840701;50.07064910026193,16.984222800000005;50.0710106,16.9846954">
+    <text>Nad sv. Annou, rozc. - Nad sv. Annou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0704906" lon="16.9840701">
+      <ele>585</ele>
+      <time>2022-01-17T23:29:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0708076" lon="16.9843755">
+      <ele>581</ele>
+      <time>2022-01-17T23:30:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0710106" lon="16.9846954">
+      <ele>583</ele>
+      <time>2022-01-17T23:30:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

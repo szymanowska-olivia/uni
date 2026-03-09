@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:33Z</time>
+    <bounds maxlat="50.742705" maxlon="15.2452587" minlat="50.7420548" minlon="15.2426874"/>
+  </metadata>
+  <wpt lat="50.742057" lon="15.245259">
+    <ele>638</ele>
+    <name>Pod Skalni vyhlidkou</name>
+    <link href="https://mapa-turystyczna.pl/node/8880">
+      <text>Pod Skalni vyhlidkou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.742705" lon="15.242973">
+    <ele>677</ele>
+    <name>Skalni vyhlidka Finkstein</name>
+    <link href="https://mapa-turystyczna.pl/node/8881">
+      <text>Skalni vyhlidka Finkstein</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Skalni vyhlidkou - Skalni vyhlidka Finkstein</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7420566,15.2452587;50.74247575001231,15.243846150000007;50.742705,15.2429734">
+    <text>Pod Skalni vyhlidkou - Skalni vyhlidka Finkstein</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7420566" lon="15.2452587">
+      <ele>638</ele>
+      <time>2022-01-17T23:58:33Z</time>
+    </trkpt>
+    <trkpt lat="50.7420548" lon="15.2443343">
+      <ele>650</ele>
+      <time>2022-01-18T00:01:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7422041" lon="15.2440178">
+      <ele>657</ele>
+      <time>2022-01-18T00:02:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7424418" lon="15.2439856">
+      <ele>662</ele>
+      <time>2022-01-18T00:03:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7425097" lon="15.2437067">
+      <ele>667</ele>
+      <time>2022-01-18T00:04:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7423908" lon="15.2431488">
+      <ele>669</ele>
+      <time>2022-01-18T00:05:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7423942" lon="15.2428752">
+      <ele>670</ele>
+      <time>2022-01-18T00:06:28Z</time>
+    </trkpt>
+    <trkpt lat="50.74253" lon="15.2427196">
+      <ele>674</ele>
+      <time>2022-01-18T00:07:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7426454" lon="15.2426874">
+      <ele>677</ele>
+      <time>2022-01-18T00:07:44Z</time>
+    </trkpt>
+    <trkpt lat="50.742705" lon="15.2429734">
+      <ele>677</ele>
+      <time>2022-01-18T00:08:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

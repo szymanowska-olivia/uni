@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:07Z</time>
+    <bounds maxlat="50.1239969" maxlon="17.1539336" minlat="50.1237011" minlon="17.1523672"/>
+  </metadata>
+  <wpt lat="50.123701" lon="17.153934">
+    <ele>1015</ele>
+    <name>Cervenohorske sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6834">
+      <text>Cervenohorske sedlo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.123846" lon="17.152367">
+    <ele>1003</ele>
+    <name>Cervenohorske sedlo, bus Kouty</name>
+    <link href="https://mapa-turystyczna.pl/node/6832">
+      <text>Cervenohorske sedlo, bus Kouty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cervenohorske sedlo, rozc. - Cervenohorske sedlo, bus Kouty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1237011,17.1539336;50.12392120005986,17.152793700000018;50.1238455,17.1523672">
+    <text>Cervenohorske sedlo, rozc. - Cervenohorske sedlo, bus Kouty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1237011" lon="17.1539336">
+      <ele>1015</ele>
+      <time>2022-01-17T23:03:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1239384" lon="17.1536011">
+      <ele>1014</ele>
+      <time>2022-01-17T23:03:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1239934" lon="17.1533704">
+      <ele>1013</ele>
+      <time>2022-01-17T23:03:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1239969" lon="17.1532202">
+      <ele>1012</ele>
+      <time>2022-01-17T23:04:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1238455" lon="17.1523672">
+      <ele>1003</ele>
+      <time>2022-01-17T23:05:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

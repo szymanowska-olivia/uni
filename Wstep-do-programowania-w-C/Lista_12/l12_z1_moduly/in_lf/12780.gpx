@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:08Z</time>
+    <bounds maxlat="50.840792" maxlon="15.2534414" minlat="50.8380481" minlon="15.2480556"/>
+  </metadata>
+  <wpt lat="50.840792" lon="15.253441">
+    <ele>960</ele>
+    <name>Paulova paseka</name>
+    <link href="https://mapa-turystyczna.pl/node/8787">
+      <text>Paulova paseka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.838048" lon="15.248056">
+    <ele>971</ele>
+    <name>Pod Jizerou</name>
+    <link href="https://mapa-turystyczna.pl/node/8788">
+      <text>Pod Jizerou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paulova paseka - Pod Jizerou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.840792,15.2534414;50.83897865927819,15.24942945000002;50.8380481,15.2480556">
+    <text>Paulova paseka - Pod Jizerou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.840792" lon="15.2534414">
+      <ele>960</ele>
+      <time>2022-01-17T23:56:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8400786" lon="15.2511252">
+      <ele>964</ele>
+      <time>2022-01-17T23:59:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8399092" lon="15.2508033">
+      <ele>964</ele>
+      <time>2022-01-18T00:00:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8380481" lon="15.2480556">
+      <ele>971</ele>
+      <time>2022-01-18T00:06:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

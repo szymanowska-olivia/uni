@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:33Z</time>
+    <bounds maxlat="50.8353103" maxlon="16.7469191" minlat="50.8341416" minlon="16.7412865"/>
+  </metadata>
+  <wpt lat="50.834142" lon="16.746919">
+    <ele>325</ele>
+    <name>Pod Oleszenka</name>
+    <link href="https://mapa-turystyczna.pl/node/2688">
+      <text>Pod Oleszenka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.83531" lon="16.741287">
+    <ele>326</ele>
+    <name>Przelecz Slupicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2690">
+      <text>Przelecz Slupicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Oleszenka - Przelecz Slupicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8341416,16.7469191;50.83451470002048,16.7442804;50.8353103,16.7412865">
+    <text>Pod Oleszenka - Przelecz Slupicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8341416" lon="16.7469191">
+      <ele>325</ele>
+      <time>2022-01-17T21:35:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8343713" lon="16.7462871">
+      <ele>329</ele>
+      <time>2022-01-17T21:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8344655" lon="16.7457625">
+      <ele>329</ele>
+      <time>2022-01-17T21:36:36Z</time>
+    </trkpt>
+    <trkpt lat="50.834471" lon="16.7447667">
+      <ele>325</ele>
+      <time>2022-01-17T21:37:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8345584" lon="16.7437941">
+      <ele>320</ele>
+      <time>2022-01-17T21:38:15Z</time>
+    </trkpt>
+    <trkpt lat="50.834795" lon="16.7428429">
+      <ele>325</ele>
+      <time>2022-01-17T21:39:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8349089" lon="16.7424211">
+      <ele>325</ele>
+      <time>2022-01-17T21:39:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8353103" lon="16.7412865">
+      <ele>326</ele>
+      <time>2022-01-17T21:40:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

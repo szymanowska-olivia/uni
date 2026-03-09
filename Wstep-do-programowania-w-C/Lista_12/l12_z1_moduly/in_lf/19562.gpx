@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:38Z</time>
+    <bounds maxlat="52.3379476" maxlon="15.5467459" minlat="52.3373806" minlon="15.5461075"/>
+  </metadata>
+  <wpt lat="52.337381" lon="15.546107">
+    <ele>67</ele>
+    <name>Goscikowo, Paradyz</name>
+    <link href="https://mapa-turystyczna.pl/node/13197">
+      <text>Goscikowo, Paradyz</text>
+    </link>
+  </wpt>
+  <wpt lat="52.337948" lon="15.546746">
+    <ele>66</ele>
+    <name>Goscikowo</name>
+    <link href="https://mapa-turystyczna.pl/node/13198">
+      <text>Goscikowo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Goscikowo, Paradyz - Goscikowo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3373806,15.5461075;52.33774785045114,15.546493099999998;52.3379476,15.5467459">
+    <text>Goscikowo, Paradyz - Goscikowo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3373806" lon="15.5461075">
+      <ele>67</ele>
+      <time>2022-01-18T01:50:38Z</time>
+    </trkpt>
+    <trkpt lat="52.3375481" lon="15.5462403">
+      <ele>67</ele>
+      <time>2022-01-18T01:50:54Z</time>
+    </trkpt>
+    <trkpt lat="52.3379476" lon="15.5467459">
+      <ele>66</ele>
+      <time>2022-01-18T01:51:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

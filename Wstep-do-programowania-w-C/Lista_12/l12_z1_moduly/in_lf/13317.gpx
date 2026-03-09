@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:11Z</time>
+    <bounds maxlat="49.306208" maxlon="19.094997" minlat="49.305076" minlon="19.087631"/>
+  </metadata>
+  <wpt lat="49.305076" lon="19.087631">
+    <ele>900</ele>
+    <name>Kycerka</name>
+    <link href="https://mapa-turystyczna.pl/node/9180">
+      <text>Kycerka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.30618" lon="19.094997">
+    <ele>860</ele>
+    <name>Pod Kycerkou</name>
+    <link href="https://mapa-turystyczna.pl/node/9181">
+      <text>Pod Kycerkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kycerka - Pod Kycerkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.305076,19.087631;49.30579600013891,19.091436499999993;49.30618,19.094997">
+    <text>Kycerka - Pod Kycerkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.305076" lon="19.087631">
+      <ele>900</ele>
+      <time>2022-01-18T00:05:11Z</time>
+    </trkpt>
+    <trkpt lat="49.30522" lon="19.088037">
+      <ele>898</ele>
+      <time>2022-01-18T00:05:47Z</time>
+    </trkpt>
+    <trkpt lat="49.305292" lon="19.088378">
+      <ele>893</ele>
+      <time>2022-01-18T00:06:16Z</time>
+    </trkpt>
+    <trkpt lat="49.305388" lon="19.089091">
+      <ele>888</ele>
+      <time>2022-01-18T00:07:13Z</time>
+    </trkpt>
+    <trkpt lat="49.305511" lon="19.090204">
+      <ele>879</ele>
+      <time>2022-01-18T00:08:42Z</time>
+    </trkpt>
+    <trkpt lat="49.305679" lon="19.090923">
+      <ele>870</ele>
+      <time>2022-01-18T00:09:43Z</time>
+    </trkpt>
+    <trkpt lat="49.305913" lon="19.09195">
+      <ele>866</ele>
+      <time>2022-01-18T00:11:08Z</time>
+    </trkpt>
+    <trkpt lat="49.306012" lon="19.092495">
+      <ele>862</ele>
+      <time>2022-01-18T00:11:53Z</time>
+    </trkpt>
+    <trkpt lat="49.3061" lon="19.093385">
+      <ele>857</ele>
+      <time>2022-01-18T00:13:03Z</time>
+    </trkpt>
+    <trkpt lat="49.306177" lon="19.094093">
+      <ele>859</ele>
+      <time>2022-01-18T00:14:00Z</time>
+    </trkpt>
+    <trkpt lat="49.306207" lon="19.094493">
+      <ele>859</ele>
+      <time>2022-01-18T00:14:31Z</time>
+    </trkpt>
+    <trkpt lat="49.306208" lon="19.09471">
+      <ele>859</ele>
+      <time>2022-01-18T00:14:48Z</time>
+    </trkpt>
+    <trkpt lat="49.30618" lon="19.094997">
+      <ele>860</ele>
+      <time>2022-01-18T00:15:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

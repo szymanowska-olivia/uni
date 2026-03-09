@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:33Z</time>
+    <bounds maxlat="54.1165635" maxlon="15.3034492" minlat="54.0909195" minlon="15.2709771"/>
+  </metadata>
+  <wpt lat="54.090919" lon="15.270977">
+    <ele>12</ele>
+    <name>Trzebusz, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12583">
+      <text>Trzebusz, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="54.116563" lon="15.303449">
+    <ele>-0</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12584">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebusz, rozejscie szlakow - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0909195,15.2709771;54.109511549826124,15.29472815000001;54.1165635,15.3034492">
+    <text>Trzebusz, rozejscie szlakow - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0909195" lon="15.2709771">
+      <ele>12</ele>
+      <time>2022-01-18T01:33:33Z</time>
+    </trkpt>
+    <trkpt lat="54.0932964" lon="15.274351">
+      <ele>6</ele>
+      <time>2022-01-18T01:38:52Z</time>
+    </trkpt>
+    <trkpt lat="54.0949701" lon="15.2767436">
+      <ele>4</ele>
+      <time>2022-01-18T01:42:38Z</time>
+    </trkpt>
+    <trkpt lat="54.0970684" lon="15.2793346">
+      <ele>8</ele>
+      <time>2022-01-18T01:47:06Z</time>
+    </trkpt>
+    <trkpt lat="54.0996023" lon="15.282472">
+      <ele>5</ele>
+      <time>2022-01-18T01:52:29Z</time>
+    </trkpt>
+    <trkpt lat="54.1024584" lon="15.2860071">
+      <ele>2</ele>
+      <time>2022-01-18T01:58:34Z</time>
+    </trkpt>
+    <trkpt lat="54.1165635" lon="15.3034492">
+      <ele>-0</ele>
+      <time>2022-01-18T02:28:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:52Z</time>
+    <bounds maxlat="52.2967417" maxlon="16.8299193" minlat="52.278152" minlon="16.8292737"/>
+  </metadata>
+  <wpt lat="52.296742" lon="16.829274">
+    <ele>120</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11636">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.278152" lon="16.829919">
+    <ele>101</ele>
+    <name>Puszczykowo, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11632">
+      <text>Puszczykowo, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Puszczykowo, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2967417,16.8292737;52.2916153466654,16.829459449999984;52.278152,16.8299193">
+    <text>Rozejscie szlakow - Puszczykowo, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2967417" lon="16.8292737">
+      <ele>120</ele>
+      <time>2022-01-18T01:06:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2864884" lon="16.8296452">
+      <ele>109</ele>
+      <time>2022-01-18T01:23:25Z</time>
+    </trkpt>
+    <trkpt lat="52.278152" lon="16.8299193">
+      <ele>101</ele>
+      <time>2022-01-18T01:36:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

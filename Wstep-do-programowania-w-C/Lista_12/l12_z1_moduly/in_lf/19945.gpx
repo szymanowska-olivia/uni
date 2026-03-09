@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:48Z</time>
+    <bounds maxlat="54.4066302" maxlon="18.5395092" minlat="54.4055688" minlon="18.5390697"/>
+  </metadata>
+  <wpt lat="54.40663" lon="18.539509">
+    <ele>47</ele>
+    <name>Kuznia wodna</name>
+    <link href="https://mapa-turystyczna.pl/node/10878">
+      <text>Kuznia wodna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.405569" lon="18.53907">
+    <ele>58</ele>
+    <name>Kuznia Wodna, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13459">
+      <text>Kuznia Wodna, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kuznia wodna - Kuznia Wodna, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4066302,18.5395092;54.40616180094157,18.539257049999996;54.4055688,18.5390697">
+    <text>Kuznia wodna - Kuznia Wodna, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4066302" lon="18.5395092">
+      <ele>47</ele>
+      <time>2022-01-18T01:57:48Z</time>
+    </trkpt>
+    <trkpt lat="54.4064397" lon="18.5393804">
+      <ele>47</ele>
+      <time>2022-01-18T01:58:21Z</time>
+    </trkpt>
+    <trkpt lat="54.4058839" lon="18.5391337">
+      <ele>56</ele>
+      <time>2022-01-18T01:59:56Z</time>
+    </trkpt>
+    <trkpt lat="54.405631" lon="18.53908">
+      <ele>58</ele>
+      <time>2022-01-18T02:00:38Z</time>
+    </trkpt>
+    <trkpt lat="54.4055688" lon="18.5390697">
+      <ele>58</ele>
+      <time>2022-01-18T02:00:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

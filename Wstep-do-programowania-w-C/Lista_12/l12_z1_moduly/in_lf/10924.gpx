@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:15Z</time>
+    <bounds maxlat="50.127381" maxlon="16.3426834" minlat="50.1261601" minlon="16.3421416"/>
+  </metadata>
+  <wpt lat="50.12616" lon="16.342142">
+    <ele>378</ele>
+    <name>Rybna nad Zdobnici, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7692">
+      <text>Rybna nad Zdobnici, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.127381" lon="16.342683">
+    <ele>367</ele>
+    <name>Rybna nad Zdobnici, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7690">
+      <text>Rybna nad Zdobnici, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybna nad Zdobnici, rozc. - Rybna nad Zdobnici, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1261601,16.3421416;50.12678950036027,16.342455449999978;50.127381,16.3426834">
+    <text>Rybna nad Zdobnici, rozc. - Rybna nad Zdobnici, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1261601" lon="16.3421416">
+      <ele>378</ele>
+      <time>2022-01-17T23:25:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1263527" lon="16.3422275">
+      <ele>380</ele>
+      <time>2022-01-17T23:25:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1265315" lon="16.3423562">
+      <ele>376</ele>
+      <time>2022-01-17T23:25:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1266038" lon="16.3424206">
+      <ele>374</ele>
+      <time>2022-01-17T23:26:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1269752" lon="16.3424903">
+      <ele>369</ele>
+      <time>2022-01-17T23:26:35Z</time>
+    </trkpt>
+    <trkpt lat="50.127381" lon="16.3426834">
+      <ele>367</ele>
+      <time>2022-01-17T23:27:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

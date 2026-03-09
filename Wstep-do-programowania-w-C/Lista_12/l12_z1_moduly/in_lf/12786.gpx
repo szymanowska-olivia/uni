@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:15Z</time>
+    <bounds maxlat="50.8300461" maxlon="15.2381117" minlat="50.8267559" minlon="15.2379323"/>
+  </metadata>
+  <wpt lat="50.830046" lon="15.238112">
+    <ele>981</ele>
+    <name>U Knejpy</name>
+    <link href="https://mapa-turystyczna.pl/node/8791">
+      <text>U Knejpy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.826756" lon="15.23802">
+    <ele>956</ele>
+    <name>Parizkuv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/8792">
+      <text>Parizkuv kriz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Knejpy - Parizkuv kriz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8300461,15.2381117;50.82860696785017,15.237991299999987;50.8267559,15.2380205">
+    <text>U Knejpy - Parizkuv kriz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8300461" lon="15.2381117">
+      <ele>981</ele>
+      <time>2022-01-17T23:56:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8298979" lon="15.2380503">
+      <ele>980</ele>
+      <time>2022-01-17T23:56:29Z</time>
+    </trkpt>
+    <trkpt lat="50.827316" lon="15.2379323">
+      <ele>956</ele>
+      <time>2022-01-18T00:00:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8269771" lon="15.237943">
+      <ele>956</ele>
+      <time>2022-01-18T00:00:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8267559" lon="15.2380205">
+      <ele>956</ele>
+      <time>2022-01-18T00:01:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

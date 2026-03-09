@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:59Z</time>
+    <bounds maxlat="49.7683283" maxlon="22.7015198" minlat="49.7674968" minlon="22.7003583"/>
+  </metadata>
+  <wpt lat="49.767497" lon="22.700715">
+    <ele>362</ele>
+    <name>Fort Pralkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3812">
+      <text>Fort Pralkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.768328" lon="22.70152">
+    <ele>357</ele>
+    <name>Pralkowska Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3767">
+      <text>Pralkowska Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fort Pralkowice - Pralkowska Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7674968,22.7007151;49.76813930001837,22.700518249999984;49.7683283,22.7015198">
+    <text>Fort Pralkowice - Pralkowska Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7674968" lon="22.7007151">
+      <ele>362</ele>
+      <time>2022-01-17T21:54:59Z</time>
+    </trkpt>
+    <trkpt lat="49.7677289" lon="22.7004415">
+      <ele>360</ele>
+      <time>2022-01-17T21:55:23Z</time>
+    </trkpt>
+    <trkpt lat="49.7679559" lon="22.7003583">
+      <ele>359</ele>
+      <time>2022-01-17T21:55:43Z</time>
+    </trkpt>
+    <trkpt lat="49.7680971" lon="22.7003704">
+      <ele>359</ele>
+      <time>2022-01-17T21:55:54Z</time>
+    </trkpt>
+    <trkpt lat="49.7681815" lon="22.7006661">
+      <ele>357</ele>
+      <time>2022-01-17T21:56:12Z</time>
+    </trkpt>
+    <trkpt lat="49.7683283" lon="22.7015198">
+      <ele>357</ele>
+      <time>2022-01-17T21:56:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

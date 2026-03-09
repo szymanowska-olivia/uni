@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:26Z</time>
+    <bounds maxlat="51.1669541" maxlon="16.0601973" minlat="51.1648972" minlon="16.0546303"/>
+  </metadata>
+  <wpt lat="51.164897" lon="16.05463">
+    <ele>160</ele>
+    <name>Wilczyce</name>
+    <link href="https://mapa-turystyczna.pl/node/3338">
+      <text>Wilczyce</text>
+    </link>
+  </wpt>
+  <wpt lat="51.166954" lon="16.060197">
+    <ele>154</ele>
+    <name>Wilczyce, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/9966">
+      <text>Wilczyce, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilczyce - Wilczyce, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1648972,16.0546303;51.16566375080469,16.057082999999988;51.1669541,16.0601973">
+    <text>Wilczyce - Wilczyce, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1648972" lon="16.0546303">
+      <ele>160</ele>
+      <time>2022-01-18T00:25:26Z</time>
+    </trkpt>
+    <trkpt lat="51.1651894" lon="16.0557312">
+      <ele>159</ele>
+      <time>2022-01-18T00:26:21Z</time>
+    </trkpt>
+    <trkpt lat="51.1653913" lon="16.0562354">
+      <ele>158</ele>
+      <time>2022-01-18T00:26:49Z</time>
+    </trkpt>
+    <trkpt lat="51.1659362" lon="16.0579306">
+      <ele>157</ele>
+      <time>2022-01-18T00:28:17Z</time>
+    </trkpt>
+    <trkpt lat="51.1668041" lon="16.0598403">
+      <ele>154</ele>
+      <time>2022-01-18T00:30:06Z</time>
+    </trkpt>
+    <trkpt lat="51.1668915" lon="16.0601193">
+      <ele>154</ele>
+      <time>2022-01-18T00:30:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1669541" lon="16.0601973">
+      <ele>154</ele>
+      <time>2022-01-18T00:30:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

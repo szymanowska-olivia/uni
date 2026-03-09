@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:05Z</time>
+    <bounds maxlat="50.4012271" maxlon="19.0338323" minlat="50.4009295" minlon="19.0336573"/>
+  </metadata>
+  <wpt lat="50.401227" lon="19.033657">
+    <ele>294</ele>
+    <name>Niebyla</name>
+    <link href="https://mapa-turystyczna.pl/node/9382">
+      <text>Niebyla</text>
+    </link>
+  </wpt>
+  <wpt lat="50.400929" lon="19.033832">
+    <ele>294</ele>
+    <name>Rogoznik</name>
+    <link href="https://mapa-turystyczna.pl/node/9339">
+      <text>Rogoznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niebyla - Rogoznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4012271,19.0336573;50.40105830017501,19.033760399999995;50.4009295,19.0338323">
+    <text>Niebyla - Rogoznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4012271" lon="19.0336573">
+      <ele>294</ele>
+      <time>2022-01-18T00:10:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4011871" lon="19.0336885">
+      <ele>293</ele>
+      <time>2022-01-18T00:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4009295" lon="19.0338323">
+      <ele>294</ele>
+      <time>2022-01-18T00:11:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

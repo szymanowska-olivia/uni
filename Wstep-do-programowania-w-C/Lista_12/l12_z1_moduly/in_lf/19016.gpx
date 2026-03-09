@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:08Z</time>
+    <bounds maxlat="51.2760741" maxlon="16.3638837" minlat="51.2743733" minlon="16.3635764"/>
+  </metadata>
+  <wpt lat="51.274373" lon="16.363884">
+    <ele>101</ele>
+    <name>Prochowice</name>
+    <link href="https://mapa-turystyczna.pl/node/10018">
+      <text>Prochowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.276074" lon="16.363576">
+    <ele>102</ele>
+    <name>Prochowice, ul. Kochanowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12879">
+      <text>Prochowice, ul. Kochanowskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prochowice - Prochowice, ul. Kochanowskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2743733,16.3638837;51.27500325055858,16.363721750000007;51.2760741,16.3635764">
+    <text>Prochowice - Prochowice, ul. Kochanowskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2743733" lon="16.3638837">
+      <ele>101</ele>
+      <time>2022-01-18T01:41:08Z</time>
+    </trkpt>
+    <trkpt lat="51.2745754" lon="16.3638236">
+      <ele>101</ele>
+      <time>2022-01-18T01:41:30Z</time>
+    </trkpt>
+    <trkpt lat="51.2747767" lon="16.3637915">
+      <ele>100</ele>
+      <time>2022-01-18T01:41:51Z</time>
+    </trkpt>
+    <trkpt lat="51.2752298" lon="16.363652">
+      <ele>102</ele>
+      <time>2022-01-18T01:42:39Z</time>
+    </trkpt>
+    <trkpt lat="51.2760741" lon="16.3635764">
+      <ele>102</ele>
+      <time>2022-01-18T01:44:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

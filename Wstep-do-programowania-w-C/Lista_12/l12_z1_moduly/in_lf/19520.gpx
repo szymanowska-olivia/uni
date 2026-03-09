@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:53Z</time>
+    <bounds maxlat="49.688457" maxlon="19.202748" minlat="49.687882" minlon="19.202311"/>
+  </metadata>
+  <wpt lat="49.688457" lon="19.202664">
+    <ele>346</ele>
+    <name>Zywiec</name>
+    <link href="https://mapa-turystyczna.pl/node/709">
+      <text>Zywiec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.687882" lon="19.202311">
+    <ele>351</ele>
+    <name>Zywiec, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13172">
+      <text>Zywiec, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zywiec - Zywiec, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.688457,19.202664;49.688074000014865,19.202714999999984;49.687882,19.202311">
+    <text>Zywiec - Zywiec, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.688457" lon="19.202664">
+      <ele>346</ele>
+      <time>2022-01-18T01:49:53Z</time>
+    </trkpt>
+    <trkpt lat="49.688152" lon="19.202748">
+      <ele>348</ele>
+      <time>2022-01-18T01:50:39Z</time>
+    </trkpt>
+    <trkpt lat="49.688112" lon="19.202733">
+      <ele>349</ele>
+      <time>2022-01-18T01:50:45Z</time>
+    </trkpt>
+    <trkpt lat="49.688036" lon="19.202697">
+      <ele>349</ele>
+      <time>2022-01-18T01:50:57Z</time>
+    </trkpt>
+    <trkpt lat="49.687997" lon="19.202672">
+      <ele>349</ele>
+      <time>2022-01-18T01:51:03Z</time>
+    </trkpt>
+    <trkpt lat="49.68794" lon="19.202722">
+      <ele>349</ele>
+      <time>2022-01-18T01:51:13Z</time>
+    </trkpt>
+    <trkpt lat="49.687896" lon="19.202495">
+      <ele>350</ele>
+      <time>2022-01-18T01:51:35Z</time>
+    </trkpt>
+    <trkpt lat="49.687882" lon="19.202311">
+      <ele>351</ele>
+      <time>2022-01-18T01:51:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

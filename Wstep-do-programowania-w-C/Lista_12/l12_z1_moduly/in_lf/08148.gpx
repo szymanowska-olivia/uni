@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:44Z</time>
+    <bounds maxlat="50.8402658" maxlon="20.6051396" minlat="50.8385626" minlon="20.6012294"/>
+  </metadata>
+  <wpt lat="50.838563" lon="20.601243">
+    <ele>350</ele>
+    <name>Pod Pierscienica</name>
+    <link href="https://mapa-turystyczna.pl/node/3139">
+      <text>Pod Pierscienica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.840266" lon="20.60514">
+    <ele>309</ele>
+    <name>Kielce, tor jezdziecki</name>
+    <link href="https://mapa-turystyczna.pl/node/5672">
+      <text>Kielce, tor jezdziecki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Pierscienica - Kielce, tor jezdziecki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8385626,20.6012428;50.83907065104271,20.602761400000006;50.8402658,20.6051396">
+    <text>Pod Pierscienica - Kielce, tor jezdziecki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8385626" lon="20.6012428">
+      <ele>350</ele>
+      <time>2022-01-17T22:33:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8385643" lon="20.6012294">
+      <ele>350</ele>
+      <time>2022-01-17T22:33:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8387587" lon="20.6020548">
+      <ele>343</ele>
+      <time>2022-01-17T22:34:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8393826" lon="20.603468">
+      <ele>324</ele>
+      <time>2022-01-17T22:36:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8402658" lon="20.6051396">
+      <ele>309</ele>
+      <time>2022-01-17T22:38:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

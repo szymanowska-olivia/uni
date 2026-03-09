@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:03Z</time>
+    <bounds maxlat="54.095427" maxlon="15.0846324" minlat="54.0944993" minlon="15.0786463"/>
+  </metadata>
+  <wpt lat="54.095427" lon="15.084632">
+    <ele>4</ele>
+    <name>Niechorze, ul. Szczecinska</name>
+    <link href="https://mapa-turystyczna.pl/node/12645">
+      <text>Niechorze, ul. Szczecinska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.09457" lon="15.078646">
+    <ele>2</ele>
+    <name>Niechorze</name>
+    <link href="https://mapa-turystyczna.pl/node/12566">
+      <text>Niechorze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niechorze, ul. Szczecinska - Niechorze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.095427,15.0846324;54.09510000128884,15.082731699999993;54.0945703,15.0786463">
+    <text>Niechorze, ul. Szczecinska - Niechorze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.095427" lon="15.0846324">
+      <ele>4</ele>
+      <time>2022-01-18T01:35:03Z</time>
+    </trkpt>
+    <trkpt lat="54.094773" lon="15.080831">
+      <ele>2</ele>
+      <time>2022-01-18T01:38:13Z</time>
+    </trkpt>
+    <trkpt lat="54.0945465" lon="15.0798868">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:02Z</time>
+    </trkpt>
+    <trkpt lat="54.0945177" lon="15.0796614">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:13Z</time>
+    </trkpt>
+    <trkpt lat="54.0944993" lon="15.0793879">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:27Z</time>
+    </trkpt>
+    <trkpt lat="54.0945119" lon="15.0791626">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:38Z</time>
+    </trkpt>
+    <trkpt lat="54.0945829" lon="15.0786463">
+      <ele>2</ele>
+      <time>2022-01-18T01:40:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

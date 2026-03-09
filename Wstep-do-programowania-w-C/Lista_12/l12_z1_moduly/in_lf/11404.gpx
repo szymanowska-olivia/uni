@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:05Z</time>
+    <bounds maxlat="49.9528665" maxlon="16.9431518" minlat="49.9408563" minlon="16.9367563"/>
+  </metadata>
+  <wpt lat="49.952866" lon="16.93696">
+    <ele>377</ele>
+    <name>Zamecek</name>
+    <link href="https://mapa-turystyczna.pl/node/8018">
+      <text>Zamecek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.940856" lon="16.943152">
+    <ele>345</ele>
+    <name>Na Pricne</name>
+    <link href="https://mapa-turystyczna.pl/node/8020">
+      <text>Na Pricne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamecek - Na Pricne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9528665,16.9369601;49.9468123021879,16.939631650000003;49.9408563,16.9431518">
+    <text>Zamecek - Na Pricne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9528665" lon="16.9369601">
+      <ele>377</ele>
+      <time>2022-01-17T23:34:05Z</time>
+    </trkpt>
+    <trkpt lat="49.9525923" lon="16.9370138">
+      <ele>375</ele>
+      <time>2022-01-17T23:34:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9520745" lon="16.9368207">
+      <ele>369</ele>
+      <time>2022-01-17T23:35:21Z</time>
+    </trkpt>
+    <trkpt lat="49.9513497" lon="16.9367563">
+      <ele>362</ele>
+      <time>2022-01-17T23:36:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9504937" lon="16.9375288">
+      <ele>359</ele>
+      <time>2022-01-17T23:38:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9498258" lon="16.9379472">
+      <ele>357</ele>
+      <time>2022-01-17T23:39:09Z</time>
+    </trkpt>
+    <trkpt lat="49.9486246" lon="16.9386446">
+      <ele>352</ele>
+      <time>2022-01-17T23:41:09Z</time>
+    </trkpt>
+    <trkpt lat="49.9472714" lon="16.9393527">
+      <ele>353</ele>
+      <time>2022-01-17T23:43:22Z</time>
+    </trkpt>
+    <trkpt lat="49.9463532" lon="16.9399106">
+      <ele>355</ele>
+      <time>2022-01-17T23:44:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9444407" lon="16.9410478">
+      <ele>352</ele>
+      <time>2022-01-17T23:48:06Z</time>
+    </trkpt>
+    <trkpt lat="49.9433429" lon="16.9417345">
+      <ele>348</ele>
+      <time>2022-01-17T23:49:56Z</time>
+    </trkpt>
+    <trkpt lat="49.9422796" lon="16.9424426">
+      <ele>348</ele>
+      <time>2022-01-17T23:51:44Z</time>
+    </trkpt>
+    <trkpt lat="49.9419061" lon="16.9426181">
+      <ele>350</ele>
+      <time>2022-01-17T23:52:21Z</time>
+    </trkpt>
+    <trkpt lat="49.9413607" lon="16.9427791">
+      <ele>348</ele>
+      <time>2022-01-17T23:53:13Z</time>
+    </trkpt>
+    <trkpt lat="49.9408563" lon="16.9431518">
+      <ele>345</ele>
+      <time>2022-01-17T23:54:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

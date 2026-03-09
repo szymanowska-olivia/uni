@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:58Z</time>
+    <bounds maxlat="49.4353219" maxlon="21.6038632" minlat="49.4280689" minlon="21.6015874"/>
+  </metadata>
+  <wpt lat="49.435322" lon="21.601587">
+    <ele>727</ele>
+    <name>Pod Baranim</name>
+    <link href="https://mapa-turystyczna.pl/node/4043">
+      <text>Pod Baranim</text>
+    </link>
+  </wpt>
+  <wpt lat="49.428069" lon="21.603005">
+    <ele>708</ele>
+    <name>Skalne</name>
+    <link href="https://mapa-turystyczna.pl/node/4046">
+      <text>Skalne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Baranim - Skalne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4353219,21.6015874;49.43168345018867,21.60385249999999;49.4280689,21.603005">
+    <text>Pod Baranim - Skalne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4353219" lon="21.6015874">
+      <ele>727</ele>
+      <time>2022-01-17T22:01:58Z</time>
+    </trkpt>
+    <trkpt lat="49.4339825" lon="21.6025114">
+      <ele>722</ele>
+      <time>2022-01-17T22:04:50Z</time>
+    </trkpt>
+    <trkpt lat="49.4323428" lon="21.6036916">
+      <ele>708</ele>
+      <time>2022-01-17T22:08:22Z</time>
+    </trkpt>
+    <trkpt lat="49.4318195" lon="21.6038418">
+      <ele>707</ele>
+      <time>2022-01-17T22:09:24Z</time>
+    </trkpt>
+    <trkpt lat="49.4315474" lon="21.6038632">
+      <ele>706</ele>
+      <time>2022-01-17T22:09:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4306263" lon="21.6032839">
+      <ele>700</ele>
+      <time>2022-01-17T22:11:52Z</time>
+    </trkpt>
+    <trkpt lat="49.4296076" lon="21.6033375">
+      <ele>699</ele>
+      <time>2022-01-17T22:13:51Z</time>
+    </trkpt>
+    <trkpt lat="49.4287074" lon="21.6034126">
+      <ele>699</ele>
+      <time>2022-01-17T22:15:37Z</time>
+    </trkpt>
+    <trkpt lat="49.4280689" lon="21.603005">
+      <ele>708</ele>
+      <time>2022-01-17T22:16:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:08Z</time>
+    <bounds maxlat="52.6544437" maxlon="21.6454589" minlat="52.6522114" minlon="21.6441506"/>
+  </metadata>
+  <wpt lat="52.652211" lon="21.645459">
+    <ele>104</ele>
+    <name>Lesniczowka Tuchlin</name>
+    <link href="https://mapa-turystyczna.pl/node/12160">
+      <text>Lesniczowka Tuchlin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.654444" lon="21.644151">
+    <ele>117</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12161">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesniczowka Tuchlin - Rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.6522114,21.6454589;52.653327564246894,21.644804749999984;52.6544437,21.6441506">
+    <text>Lesniczowka Tuchlin - Rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.6522114" lon="21.6454589">
+      <ele>104</ele>
+      <time>2022-01-18T01:21:08Z</time>
+    </trkpt>
+    <trkpt lat="52.6544437" lon="21.6441506">
+      <ele>117</ele>
+      <time>2022-01-18T01:26:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

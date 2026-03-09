@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:47Z</time>
+    <bounds maxlat="50.1725611" maxlon="19.0587877" minlat="50.1582311" minlon="19.0562702"/>
+  </metadata>
+  <wpt lat="50.172561" lon="19.058788">
+    <ele>262</ele>
+    <name>Murcki, kapliczka</name>
+    <link href="https://mapa-turystyczna.pl/node/9433">
+      <text>Murcki, kapliczka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.158231" lon="19.058382">
+    <ele>262</ele>
+    <name>Lesny Krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9444">
+      <text>Lesny Krzyz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Murcki, kapliczka - Lesny Krzyz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1725611,19.0587877;50.16764617567615,19.057375250000018;50.1582311,19.0583818">
+    <text>Murcki, kapliczka - Lesny Krzyz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1725611" lon="19.0587877">
+      <ele>262</ele>
+      <time>2022-01-18T00:11:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1703356" lon="19.0576864">
+      <ele>263</ele>
+      <time>2022-01-18T00:15:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1649566" lon="19.0570641">
+      <ele>253</ele>
+      <time>2022-01-18T00:24:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1633759" lon="19.0566994">
+      <ele>264</ele>
+      <time>2022-01-18T00:27:32Z</time>
+    </trkpt>
+    <trkpt lat="50.163101" lon="19.056356">
+      <ele>265</ele>
+      <time>2022-01-18T00:28:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1628536" lon="19.0562702">
+      <ele>265</ele>
+      <time>2022-01-18T00:28:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1622762" lon="19.0562702">
+      <ele>265</ele>
+      <time>2022-01-18T00:29:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1605854" lon="19.05715">
+      <ele>268</ele>
+      <time>2022-01-18T00:32:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1597194" lon="19.0579225">
+      <ele>271</ele>
+      <time>2022-01-18T00:34:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1582311" lon="19.0583818">
+      <ele>262</ele>
+      <time>2022-01-18T00:36:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

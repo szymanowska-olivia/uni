@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:10Z</time>
+    <bounds maxlat="52.4418789" maxlon="20.6624454" minlat="52.4397557" minlon="20.6591995"/>
+  </metadata>
+  <wpt lat="52.441879" lon="20.659199">
+    <ele>107</ele>
+    <name>Modlin, ul. Bema</name>
+    <link href="https://mapa-turystyczna.pl/node/12274">
+      <text>Modlin, ul. Bema</text>
+    </link>
+  </wpt>
+  <wpt lat="52.439756" lon="20.662445">
+    <ele>106</ele>
+    <name>Twierdza Modlin, cmentarz wojenny</name>
+    <link href="https://mapa-turystyczna.pl/node/12223">
+      <text>Twierdza Modlin, cmentarz wojenny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, ul. Bema - Twierdza Modlin, cmentarz wojenny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4418789,20.6591995;52.4411333563081,20.660390400000022;52.4397557,20.6624454">
+    <text>Modlin, ul. Bema - Twierdza Modlin, cmentarz wojenny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4418789" lon="20.6591995">
+      <ele>107</ele>
+      <time>2022-01-18T01:24:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4403878" lon="20.6615813">
+      <ele>109</ele>
+      <time>2022-01-18T01:27:45Z</time>
+    </trkpt>
+    <trkpt lat="52.4397557" lon="20.6624454">
+      <ele>106</ele>
+      <time>2022-01-18T01:29:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:48Z</time>
+    <bounds maxlat="54.3213211" maxlon="18.5050374" minlat="54.3209851" minlon="18.5045332"/>
+  </metadata>
+  <wpt lat="54.321321" lon="18.505021">
+    <ele>118</ele>
+    <name>Otomin</name>
+    <link href="https://mapa-turystyczna.pl/node/10782">
+      <text>Otomin</text>
+    </link>
+  </wpt>
+  <wpt lat="54.320985" lon="18.504533">
+    <ele>115</ele>
+    <name>Skrzyzowanie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10801">
+      <text>Skrzyzowanie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otomin - Skrzyzowanie szlakow zielony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3213211,18.5050213;54.32113685027989,18.504785299999988;54.3209851,18.5045332">
+    <text>Otomin - Skrzyzowanie szlakow zielony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3213211" lon="18.5050213">
+      <ele>118</ele>
+      <time>2022-01-18T00:45:48Z</time>
+    </trkpt>
+    <trkpt lat="54.3212886" lon="18.5050374">
+      <ele>118</ele>
+      <time>2022-01-18T00:45:52Z</time>
+    </trkpt>
+    <trkpt lat="54.3209851" lon="18.5045332">
+      <ele>115</ele>
+      <time>2022-01-18T00:46:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

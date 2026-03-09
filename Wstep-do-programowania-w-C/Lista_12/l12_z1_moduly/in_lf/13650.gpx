@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:34Z</time>
+    <bounds maxlat="50.2337046" maxlon="18.8418029" minlat="50.2331729" minlon="18.8413344"/>
+  </metadata>
+  <wpt lat="50.233705" lon="18.841334">
+    <ele>248</ele>
+    <name>Ruda Slaska, ul. Smilowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/9406">
+      <text>Ruda Slaska, ul. Smilowicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.233173" lon="18.841803">
+    <ele>247</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9407">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruda Slaska, ul. Smilowicka - Rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2337046,18.8413344;50.23344420071108,18.841560400000013;50.2331729,18.8418029">
+    <text>Ruda Slaska, ul. Smilowicka - Rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2337046" lon="18.8413344">
+      <ele>248</ele>
+      <time>2022-01-18T00:10:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2331838" lon="18.8417864">
+      <ele>247</ele>
+      <time>2022-01-18T00:11:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2331729" lon="18.8418029">
+      <ele>247</ele>
+      <time>2022-01-18T00:11:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:15Z</time>
+    <bounds maxlat="52.5423882" maxlon="21.1563766" minlat="52.5320473" minlon="21.1411871"/>
+  </metadata>
+  <wpt lat="52.533719" lon="21.156377">
+    <ele>90</ele>
+    <name>Popowo, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12210">
+      <text>Popowo, lesniczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.542388" lon="21.141187">
+    <ele>86</ele>
+    <name>Popowo-Letnisko</name>
+    <link href="https://mapa-turystyczna.pl/node/12209">
+      <text>Popowo-Letnisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Popowo, lesniczowka - Popowo-Letnisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5337187,21.1563766;52.53734858926576,21.14146859999997;52.5423882,21.1411871">
+    <text>Popowo, lesniczowka - Popowo-Letnisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5337187" lon="21.1563766">
+      <ele>90</ele>
+      <time>2022-01-18T01:22:15Z</time>
+    </trkpt>
+    <trkpt lat="52.5336676" lon="21.1556777">
+      <ele>90</ele>
+      <time>2022-01-18T01:23:01Z</time>
+    </trkpt>
+    <trkpt lat="52.5326364" lon="21.1519655">
+      <ele>90</ele>
+      <time>2022-01-18T01:27:28Z</time>
+    </trkpt>
+    <trkpt lat="52.5323623" lon="21.1506459">
+      <ele>93</ele>
+      <time>2022-01-18T01:28:59Z</time>
+    </trkpt>
+    <trkpt lat="52.5322122" lon="21.1497232">
+      <ele>94</ele>
+      <time>2022-01-18T01:30:01Z</time>
+    </trkpt>
+    <trkpt lat="52.5320473" lon="21.1417501">
+      <ele>91</ele>
+      <time>2022-01-18T01:38:43Z</time>
+    </trkpt>
+    <trkpt lat="52.5323084" lon="21.1417501">
+      <ele>92</ele>
+      <time>2022-01-18T01:39:11Z</time>
+    </trkpt>
+    <trkpt lat="52.5423882" lon="21.1411871">
+      <ele>86</ele>
+      <time>2022-01-18T01:57:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

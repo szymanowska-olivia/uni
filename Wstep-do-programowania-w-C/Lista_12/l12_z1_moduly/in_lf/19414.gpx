@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:58Z</time>
+    <bounds maxlat="49.516542" maxlon="19.114709" minlat="49.51539" minlon="19.113476"/>
+  </metadata>
+  <wpt lat="49.516542" lon="19.113476">
+    <ele>484</ele>
+    <name>Rajcza</name>
+    <link href="https://mapa-turystyczna.pl/node/645">
+      <text>Rajcza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.51539" lon="19.114709">
+    <ele>487</ele>
+    <name>Rajcza, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13114">
+      <text>Rajcza, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rajcza - Rajcza, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.516542,19.113476;49.51596200016489,19.114133000000013;49.51539,19.114709">
+    <text>Rajcza - Rajcza, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.516542" lon="19.113476">
+      <ele>484</ele>
+      <time>2022-01-18T01:47:58Z</time>
+    </trkpt>
+    <trkpt lat="49.516433" lon="19.113613">
+      <ele>484</ele>
+      <time>2022-01-18T01:48:16Z</time>
+    </trkpt>
+    <trkpt lat="49.516271" lon="19.113816">
+      <ele>484</ele>
+      <time>2022-01-18T01:48:43Z</time>
+    </trkpt>
+    <trkpt lat="49.516089" lon="19.114003">
+      <ele>484</ele>
+      <time>2022-01-18T01:49:11Z</time>
+    </trkpt>
+    <trkpt lat="49.515835" lon="19.114263">
+      <ele>485</ele>
+      <time>2022-01-18T01:49:50Z</time>
+    </trkpt>
+    <trkpt lat="49.515737" lon="19.114363">
+      <ele>486</ele>
+      <time>2022-01-18T01:50:05Z</time>
+    </trkpt>
+    <trkpt lat="49.515679" lon="19.114422">
+      <ele>486</ele>
+      <time>2022-01-18T01:50:14Z</time>
+    </trkpt>
+    <trkpt lat="49.515641" lon="19.11446">
+      <ele>486</ele>
+      <time>2022-01-18T01:50:20Z</time>
+    </trkpt>
+    <trkpt lat="49.51539" lon="19.114709">
+      <ele>487</ele>
+      <time>2022-01-18T01:50:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

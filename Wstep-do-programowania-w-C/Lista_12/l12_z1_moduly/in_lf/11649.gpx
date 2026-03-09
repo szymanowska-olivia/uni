@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:44Z</time>
+    <bounds maxlat="50.7663588" maxlon="16.4810523" minlat="50.7659719" minlon="16.4788224"/>
+  </metadata>
+  <wpt lat="50.766359" lon="16.481052">
+    <ele>325</ele>
+    <name>Bojanice, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8137">
+      <text>Bojanice, lesniczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.765972" lon="16.478822">
+    <ele>339</ele>
+    <name>Bojanice, lesniczowka rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/8136">
+      <text>Bojanice, lesniczowka rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bojanice, lesniczowka - Bojanice, lesniczowka rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7663588,16.4810523;50.76607285010892,16.47948315000001;50.7659719,16.4788224">
+    <text>Bojanice, lesniczowka - Bojanice, lesniczowka rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7663588" lon="16.4810523">
+      <ele>325</ele>
+      <time>2022-01-17T23:37:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7661738" lon="16.4801439">
+      <ele>333</ele>
+      <time>2022-01-17T23:39:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7659719" lon="16.4788224">
+      <ele>339</ele>
+      <time>2022-01-17T23:42:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

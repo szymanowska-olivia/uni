@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:06Z</time>
+    <bounds maxlat="50.8373745" maxlon="15.6792873" minlat="50.8361565" minlon="15.6782896"/>
+  </metadata>
+  <wpt lat="50.837375" lon="15.679287">
+    <ele>349</ele>
+    <name>Podgorzyn Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/1301">
+      <text>Podgorzyn Dolny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.836157" lon="15.67829">
+    <ele>353</ele>
+    <name>Podgorzyn Dolny, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/7993">
+      <text>Podgorzyn Dolny, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podgorzyn Dolny - Podgorzyn Dolny, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8373745,15.6792873;50.83664120039949,15.67873845000002;50.8361565,15.6782896">
+    <text>Podgorzyn Dolny - Podgorzyn Dolny, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8373745" lon="15.6792873">
+      <ele>349</ele>
+      <time>2022-01-17T23:33:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8368343" lon="15.6788994">
+      <ele>349</ele>
+      <time>2022-01-17T23:34:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8364481" lon="15.6785775">
+      <ele>351</ele>
+      <time>2022-01-17T23:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8361565" lon="15.6782896">
+      <ele>353</ele>
+      <time>2022-01-17T23:36:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:32Z</time>
+    <bounds maxlat="50.9424178" maxlon="15.8791146" minlat="50.9393587" minlon="15.8776214"/>
+  </metadata>
+  <wpt lat="50.939359" lon="15.877639">
+    <ele>629</ele>
+    <name>Rozdroze przy Przeleczy Komarnickiej</name>
+    <link href="https://mapa-turystyczna.pl/node/3282">
+      <text>Rozdroze przy Przeleczy Komarnickiej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.942418" lon="15.879115">
+    <ele>662</ele>
+    <name>Przelecz Komarnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/3283">
+      <text>Przelecz Komarnicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze przy Przeleczy Komarnickiej - Przelecz Komarnicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9393587,15.8776393;50.94097720055268,15.878320800000028;50.9424178,15.8791146">
+    <text>Rozdroze przy Przeleczy Komarnickiej - Przelecz Komarnicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9393587" lon="15.8776393">
+      <ele>629</ele>
+      <time>2022-01-17T21:45:32Z</time>
+    </trkpt>
+    <trkpt lat="50.9395746" lon="15.8776214">
+      <ele>632</ele>
+      <time>2022-01-17T21:46:12Z</time>
+    </trkpt>
+    <trkpt lat="50.9401277" lon="15.877862">
+      <ele>635</ele>
+      <time>2022-01-17T21:47:59Z</time>
+    </trkpt>
+    <trkpt lat="50.940431" lon="15.8780365">
+      <ele>640</ele>
+      <time>2022-01-17T21:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.9407505" lon="15.8782002">
+      <ele>647</ele>
+      <time>2022-01-17T21:50:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9412039" lon="15.8784414">
+      <ele>654</ele>
+      <time>2022-01-17T21:51:33Z</time>
+    </trkpt>
+    <trkpt lat="50.9414885" lon="15.8786146">
+      <ele>656</ele>
+      <time>2022-01-17T21:52:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9424178" lon="15.8791146">
+      <ele>662</ele>
+      <time>2022-01-17T21:55:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

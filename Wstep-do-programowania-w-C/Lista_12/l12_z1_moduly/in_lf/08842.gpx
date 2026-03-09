@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:14Z</time>
+    <bounds maxlat="50.454437" maxlon="16.1068153" minlat="50.4516875" minlon="16.1059248"/>
+  </metadata>
+  <wpt lat="50.454437" lon="16.105925">
+    <ele>423</ele>
+    <name>Spinka, kiosek</name>
+    <link href="https://mapa-turystyczna.pl/node/6155">
+      <text>Spinka, kiosek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.451687" lon="16.106815">
+    <ele>425</ele>
+    <name>Spinka, hraz</name>
+    <link href="https://mapa-turystyczna.pl/node/6154">
+      <text>Spinka, hraz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spinka, kiosek - Spinka, hraz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.454437,16.1059248;50.45295470040065,16.106536400000014;50.4516875,16.1068153">
+    <text>Spinka, kiosek - Spinka, hraz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.454437" lon="16.1059248">
+      <ele>423</ele>
+      <time>2022-01-17T22:46:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4543704" lon="16.1060911">
+      <ele>421</ele>
+      <time>2022-01-17T22:46:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4542902" lon="16.1062253">
+      <ele>421</ele>
+      <time>2022-01-17T22:46:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4540613" lon="16.1064398">
+      <ele>420</ele>
+      <time>2022-01-17T22:47:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4539281" lon="16.1065364">
+      <ele>421</ele>
+      <time>2022-01-17T22:47:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4534294" lon="16.106649">
+      <ele>420</ele>
+      <time>2022-01-17T22:48:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4531494" lon="16.1066169">
+      <ele>419</ele>
+      <time>2022-01-17T22:48:40Z</time>
+    </trkpt>
+    <trkpt lat="50.45276" lon="16.1064559">
+      <ele>419</ele>
+      <time>2022-01-17T22:49:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4523023" lon="16.106472">
+      <ele>423</ele>
+      <time>2022-01-17T22:50:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4519915" lon="16.1065632">
+      <ele>424</ele>
+      <time>2022-01-17T22:50:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4516875" lon="16.1068153">
+      <ele>425</ele>
+      <time>2022-01-17T22:51:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

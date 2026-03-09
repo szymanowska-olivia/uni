@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:28Z</time>
+    <bounds maxlat="50.0642021" maxlon="16.6184789" minlat="50.061702" minlon="16.6166764"/>
+  </metadata>
+  <wpt lat="50.064202" lon="16.618189">
+    <ele>496</ele>
+    <name>Techonin</name>
+    <link href="https://mapa-turystyczna.pl/node/7152">
+      <text>Techonin</text>
+    </link>
+  </wpt>
+  <wpt lat="50.061702" lon="16.616676">
+    <ele>516</ele>
+    <name>Techonin, kasarna</name>
+    <link href="https://mapa-turystyczna.pl/node/7154">
+      <text>Techonin, kasarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Techonin - Techonin, kasarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0642021,16.6181892;50.06292450055476,16.618269650000002;50.061702,16.6166764">
+    <text>Techonin - Techonin, kasarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0642021" lon="16.6181892">
+      <ele>496</ele>
+      <time>2022-01-17T23:11:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0639645" lon="16.618377">
+      <ele>496</ele>
+      <time>2022-01-17T23:11:55Z</time>
+    </trkpt>
+    <trkpt lat="50.063658" lon="16.6184789">
+      <ele>497</ele>
+      <time>2022-01-17T23:12:27Z</time>
+    </trkpt>
+    <trkpt lat="50.063379" lon="16.6184789">
+      <ele>499</ele>
+      <time>2022-01-17T23:12:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0631552" lon="16.6184145">
+      <ele>501</ele>
+      <time>2022-01-17T23:13:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0626938" lon="16.6181248">
+      <ele>506</ele>
+      <time>2022-01-17T23:14:09Z</time>
+    </trkpt>
+    <trkpt lat="50.0621669" lon="16.6172075">
+      <ele>510</ele>
+      <time>2022-01-17T23:15:29Z</time>
+    </trkpt>
+    <trkpt lat="50.061702" lon="16.6166764">
+      <ele>516</ele>
+      <time>2022-01-17T23:16:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

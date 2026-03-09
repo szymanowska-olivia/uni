@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:12Z</time>
+    <bounds maxlat="50.3032678" maxlon="19.8713655" minlat="50.3019058" minlon="19.8694825"/>
+  </metadata>
+  <wpt lat="50.303268" lon="19.869483">
+    <ele>328</ele>
+    <name>Wawoz Ostryszni</name>
+    <link href="https://mapa-turystyczna.pl/node/4447">
+      <text>Wawoz Ostryszni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.301906" lon="19.871365">
+    <ele>326</ele>
+    <name>Malyszyce</name>
+    <link href="https://mapa-turystyczna.pl/node/4448">
+      <text>Malyszyce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wawoz Ostryszni - Malyszyce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3032678,19.8694825;50.302562501158704,19.870614449999998;50.3019058,19.8713655">
+    <text>Wawoz Ostryszni - Malyszyce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3032678" lon="19.8694825">
+      <ele>328</ele>
+      <time>2022-01-17T22:06:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3030079" lon="19.8705071">
+      <ele>329</ele>
+      <time>2022-01-17T22:07:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3028945" lon="19.8704858">
+      <ele>328</ele>
+      <time>2022-01-17T22:07:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3022305" lon="19.8707431">
+      <ele>326</ele>
+      <time>2022-01-17T22:08:25Z</time>
+    </trkpt>
+    <trkpt lat="50.302127" lon="19.8708345">
+      <ele>326</ele>
+      <time>2022-01-17T22:08:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3020139" lon="19.8710437">
+      <ele>326</ele>
+      <time>2022-01-17T22:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3019058" lon="19.8713655">
+      <ele>326</ele>
+      <time>2022-01-17T22:09:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:41Z</time>
+    <bounds maxlat="51.3935705" maxlon="23.1946662" minlat="51.3913621" minlon="23.1933784"/>
+  </metadata>
+  <wpt lat="51.391362" lon="23.193378">
+    <ele>170</ele>
+    <name>Urszulin</name>
+    <link href="https://mapa-turystyczna.pl/node/13276">
+      <text>Urszulin</text>
+    </link>
+  </wpt>
+  <wpt lat="51.393571" lon="23.194666">
+    <ele>171</ele>
+    <name>Urszulin, ul. Szkolna</name>
+    <link href="https://mapa-turystyczna.pl/node/13277">
+      <text>Urszulin, ul. Szkolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Urszulin - Urszulin, ul. Szkolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3913621,23.1933784;51.39246631332495,23.194022299999997;51.3935705,23.1946662">
+    <text>Urszulin - Urszulin, ul. Szkolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3913621" lon="23.1933784">
+      <ele>170</ele>
+      <time>2022-01-18T01:52:41Z</time>
+    </trkpt>
+    <trkpt lat="51.3935705" lon="23.1946662">
+      <ele>171</ele>
+      <time>2022-01-18T01:57:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

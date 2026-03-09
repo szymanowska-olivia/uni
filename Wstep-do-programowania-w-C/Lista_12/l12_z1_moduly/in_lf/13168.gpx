@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:30Z</time>
+    <bounds maxlat="49.3243356" maxlon="21.8626411" minlat="49.322951" minlon="21.8613912"/>
+  </metadata>
+  <wpt lat="49.322951" lon="21.862641">
+    <ele>375</ele>
+    <name>Habura</name>
+    <link href="https://mapa-turystyczna.pl/node/9081">
+      <text>Habura</text>
+    </link>
+  </wpt>
+  <wpt lat="49.324336" lon="21.861391">
+    <ele>376</ele>
+    <name>Habura, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9082">
+      <text>Habura, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Habura - Habura, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.322951,21.8626411;49.32364330486666,21.862016149999995;49.3243356,21.8613912">
+    <text>Habura - Habura, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.322951" lon="21.8626411">
+      <ele>375</ele>
+      <time>2022-01-18T00:03:30Z</time>
+    </trkpt>
+    <trkpt lat="49.3243356" lon="21.8613912">
+      <ele>376</ele>
+      <time>2022-01-18T00:06:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

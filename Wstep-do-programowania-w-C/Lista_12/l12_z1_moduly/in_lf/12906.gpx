@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:35Z</time>
+    <bounds maxlat="50.740237" maxlon="15.246868" minlat="50.7398704" minlon="15.2443467"/>
+  </metadata>
+  <wpt lat="50.73987" lon="15.246868">
+    <ele>589</ele>
+    <name>Smrzovka</name>
+    <link href="https://mapa-turystyczna.pl/node/8882">
+      <text>Smrzovka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.740142" lon="15.244347">
+    <ele>597</ele>
+    <name>Smrzovka, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/8883">
+      <text>Smrzovka, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smrzovka - Smrzovka, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7398704,15.246868;50.74014195009646,15.245277100000019;50.740142,15.2443467">
+    <text>Smrzovka - Smrzovka, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7398704" lon="15.246868">
+      <ele>589</ele>
+      <time>2022-01-17T23:58:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7399417" lon="15.2461756">
+      <ele>589</ele>
+      <time>2022-01-17T23:59:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7400028" lon="15.2460737">
+      <ele>589</ele>
+      <time>2022-01-18T00:00:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7400469" lon="15.2459664">
+      <ele>590</ele>
+      <time>2022-01-18T00:00:24Z</time>
+    </trkpt>
+    <trkpt lat="50.740237" lon="15.2445878">
+      <ele>597</ele>
+      <time>2022-01-18T00:03:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7401793" lon="15.2444673">
+      <ele>597</ele>
+      <time>2022-01-18T00:03:20Z</time>
+    </trkpt>
+    <trkpt lat="50.740142" lon="15.2443467">
+      <ele>597</ele>
+      <time>2022-01-18T00:03:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

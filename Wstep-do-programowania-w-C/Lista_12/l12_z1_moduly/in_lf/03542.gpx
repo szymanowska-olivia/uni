@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:30Z</time>
+    <bounds maxlat="49.1047799" maxlon="22.6475644" minlat="49.1045299" minlon="22.6467789"/>
+  </metadata>
+  <wpt lat="49.10478" lon="22.647564">
+    <ele>656</ele>
+    <name>Ustrzyki Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/399">
+      <text>Ustrzyki Gorne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.10453" lon="22.646779">
+    <ele>656</ele>
+    <name>Ustrzyki Gorne, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/2488">
+      <text>Ustrzyki Gorne, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustrzyki Gorne - Ustrzyki Gorne, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1047799,22.6475644;49.104654900157435,22.64717165000002;49.1045299,22.6467789">
+    <text>Ustrzyki Gorne - Ustrzyki Gorne, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1047799" lon="22.6475644">
+      <ele>656</ele>
+      <time>2022-01-17T21:31:30Z</time>
+    </trkpt>
+    <trkpt lat="49.1045299" lon="22.6467789">
+      <ele>656</ele>
+      <time>2022-01-17T21:32:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:35Z</time>
+    <bounds maxlat="51.4649653" maxlon="23.1769057" minlat="51.4649511" minlon="23.1765966"/>
+  </metadata>
+  <wpt lat="51.464951" lon="23.176597">
+    <ele>167</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12859">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.464965" lon="23.176906">
+    <ele>167</ele>
+    <name>Punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12860">
+      <text>Punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4649511,23.1765966;51.464958200000545,23.17675114999999;51.4649653,23.1769057">
+    <text>Rozejscie sciezki - Punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4649511" lon="23.1765966">
+      <ele>167</ele>
+      <time>2022-01-18T01:40:35Z</time>
+    </trkpt>
+    <trkpt lat="51.4649653" lon="23.1769057">
+      <ele>167</ele>
+      <time>2022-01-18T01:41:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

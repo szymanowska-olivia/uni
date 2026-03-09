@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:36Z</time>
+    <bounds maxlat="50.6710174" maxlon="15.6969201" minlat="50.6689825" minlon="15.6962389"/>
+  </metadata>
+  <wpt lat="50.671017" lon="15.69692">
+    <ele>1052</ele>
+    <name>Nad Tetrevimi Boudami</name>
+    <link href="https://mapa-turystyczna.pl/node/1243">
+      <text>Nad Tetrevimi Boudami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.668982" lon="15.696239">
+    <ele>1033</ele>
+    <name>Tetrevi boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1403">
+      <text>Tetrevi boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Tetrevimi Boudami - Tetrevi boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6710174,15.6969201;50.66999996102543,15.696579500000016;50.6689825,15.6962389">
+    <text>Nad Tetrevimi Boudami - Tetrevi boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6710174" lon="15.6969201">
+      <ele>1052</ele>
+      <time>2022-01-17T21:04:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6689825" lon="15.6962389">
+      <ele>1033</ele>
+      <time>2022-01-17T21:07:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

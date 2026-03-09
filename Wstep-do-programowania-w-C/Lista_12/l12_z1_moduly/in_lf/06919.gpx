@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:14:57Z</time>
+    <bounds maxlat="49.4296296" maxlon="21.5171026" minlat="49.4178287" minlon="21.4956844"/>
+  </metadata>
+  <wpt lat="49.42963" lon="21.495684">
+    <ele>682</ele>
+    <name>Nad Tysowym</name>
+    <link href="https://mapa-turystyczna.pl/node/469">
+      <text>Nad Tysowym</text>
+    </link>
+  </wpt>
+  <wpt lat="49.417829" lon="21.517103">
+    <ele>660</ele>
+    <name>Przelecz Filipowska</name>
+    <link href="https://mapa-turystyczna.pl/node/4746">
+      <text>Przelecz Filipowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Tysowym - Przelecz Filipowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4296296,21.4956844;49.42359000722266,21.50551200000003;49.4178287,21.5171026">
+    <text>Nad Tysowym - Przelecz Filipowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4296296" lon="21.4956844">
+      <ele>682</ele>
+      <time>2022-01-17T22:14:57Z</time>
+    </trkpt>
+    <trkpt lat="49.4274612" lon="21.4988333">
+      <ele>679</ele>
+      <time>2022-01-17T22:19:46Z</time>
+    </trkpt>
+    <trkpt lat="49.4264763" lon="21.4995602">
+      <ele>676</ele>
+      <time>2022-01-17T22:21:31Z</time>
+    </trkpt>
+    <trkpt lat="49.4250029" lon="21.5024972">
+      <ele>672</ele>
+      <time>2022-01-17T22:25:25Z</time>
+    </trkpt>
+    <trkpt lat="49.4244319" lon="21.5041495">
+      <ele>666</ele>
+      <time>2022-01-17T22:27:22Z</time>
+    </trkpt>
+    <trkpt lat="49.4227481" lon="21.5068745">
+      <ele>667</ele>
+      <time>2022-01-17T22:31:19Z</time>
+    </trkpt>
+    <trkpt lat="49.4205643" lon="21.5101898">
+      <ele>678</ele>
+      <time>2022-01-17T22:36:16Z</time>
+    </trkpt>
+    <trkpt lat="49.4197997" lon="21.5110535">
+      <ele>678</ele>
+      <time>2022-01-17T22:37:48Z</time>
+    </trkpt>
+    <trkpt lat="49.4193266" lon="21.5125689">
+      <ele>670</ele>
+      <time>2022-01-17T22:39:34Z</time>
+    </trkpt>
+    <trkpt lat="49.4185395" lon="21.5141809">
+      <ele>666</ele>
+      <time>2022-01-17T22:41:41Z</time>
+    </trkpt>
+    <trkpt lat="49.4178287" lon="21.5171026">
+      <ele>660</ele>
+      <time>2022-01-17T22:44:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

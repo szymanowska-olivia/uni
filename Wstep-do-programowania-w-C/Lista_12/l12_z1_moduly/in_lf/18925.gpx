@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:39Z</time>
+    <bounds maxlat="49.29888" maxlon="19.946048" minlat="49.29837" minlon="19.9456"/>
+  </metadata>
+  <wpt lat="49.29888" lon="19.946048">
+    <ele>820</ele>
+    <name>Zakopane, Walowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4898">
+      <text>Zakopane, Walowa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.29837" lon="19.9456">
+    <ele>820</ele>
+    <name>Gubalowka, stacja dolna kolejki</name>
+    <link href="https://mapa-turystyczna.pl/node/12818">
+      <text>Gubalowka, stacja dolna kolejki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zakopane, Walowa Gora - Gubalowka, stacja dolna kolejki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.29888,19.946048;49.298658000078575,19.94584600000002;49.29837,19.9456">
+    <text>Zakopane, Walowa Gora - Gubalowka, stacja dolna kolejki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.29888" lon="19.946048">
+      <ele>820</ele>
+      <time>2022-01-18T01:39:39Z</time>
+    </trkpt>
+    <trkpt lat="49.298746" lon="19.945908">
+      <ele>821</ele>
+      <time>2022-01-18T01:39:56Z</time>
+    </trkpt>
+    <trkpt lat="49.29857" lon="19.945784">
+      <ele>820</ele>
+      <time>2022-01-18T01:40:15Z</time>
+    </trkpt>
+    <trkpt lat="49.29837" lon="19.9456">
+      <ele>820</ele>
+      <time>2022-01-18T01:40:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

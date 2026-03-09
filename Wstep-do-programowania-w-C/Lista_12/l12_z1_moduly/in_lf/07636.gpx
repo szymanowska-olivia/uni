@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:26:55Z</time>
+    <bounds maxlat="49.0172488" maxlon="18.737365" minlat="49.0158345" minlon="18.7260085"/>
+  </metadata>
+  <wpt lat="49.016025" lon="18.726008">
+    <ele>988</ele>
+    <name>Sedlo pod Uplazom</name>
+    <link href="https://mapa-turystyczna.pl/node/5201">
+      <text>Sedlo pod Uplazom</text>
+    </link>
+  </wpt>
+  <wpt lat="49.015834" lon="18.737365">
+    <ele>795</ele>
+    <name>Zraz</name>
+    <link href="https://mapa-turystyczna.pl/node/5200">
+      <text>Zraz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo pod Uplazom - Zraz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0160245,18.7260085;49.01680110201334,18.72918154999999;49.0158345,18.737365">
+    <text>Sedlo pod Uplazom - Zraz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0160245" lon="18.7260085">
+      <ele>988</ele>
+      <time>2022-01-17T22:26:55Z</time>
+    </trkpt>
+    <trkpt lat="49.0161019" lon="18.7260756">
+      <ele>989</ele>
+      <time>2022-01-17T22:27:04Z</time>
+    </trkpt>
+    <trkpt lat="49.0169462" lon="18.7260246">
+      <ele>999</ele>
+      <time>2022-01-17T22:28:30Z</time>
+    </trkpt>
+    <trkpt lat="49.0172488" lon="18.7264752">
+      <ele>987</ele>
+      <time>2022-01-17T22:29:14Z</time>
+    </trkpt>
+    <trkpt lat="49.0163534" lon="18.7318879">
+      <ele>864</ele>
+      <time>2022-01-17T22:35:39Z</time>
+    </trkpt>
+    <trkpt lat="49.0163587" lon="18.734597">
+      <ele>811</ele>
+      <time>2022-01-17T22:38:44Z</time>
+    </trkpt>
+    <trkpt lat="49.0158345" lon="18.737365">
+      <ele>795</ele>
+      <time>2022-01-17T22:41:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

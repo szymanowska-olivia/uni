@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:29Z</time>
+    <bounds maxlat="49.667451" maxlon="18.902521" minlat="49.664174" minlon="18.900373"/>
+  </metadata>
+  <wpt lat="49.667451" lon="18.90043">
+    <ele>749</ele>
+    <name>Pod Trzema Kopcami</name>
+    <link href="https://mapa-turystyczna.pl/node/3893">
+      <text>Pod Trzema Kopcami</text>
+    </link>
+  </wpt>
+  <wpt lat="49.664174" lon="18.902521">
+    <ele>810</ele>
+    <name>Trzy Kopce Wislanskie</name>
+    <link href="https://mapa-turystyczna.pl/node/840">
+      <text>Trzy Kopce Wislanskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Trzema Kopcami - Trzy Kopce Wislanskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.667451,18.90043;49.66575050090353,18.900631000000008;49.664174,18.902521">
+    <text>Pod Trzema Kopcami - Trzy Kopce Wislanskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.667451" lon="18.90043">
+      <ele>749</ele>
+      <time>2022-01-17T21:57:29Z</time>
+    </trkpt>
+    <trkpt lat="49.66711" lon="18.900437">
+      <ele>753</ele>
+      <time>2022-01-17T21:58:23Z</time>
+    </trkpt>
+    <trkpt lat="49.666672" lon="18.900386">
+      <ele>759</ele>
+      <time>2022-01-17T21:59:32Z</time>
+    </trkpt>
+    <trkpt lat="49.666452" lon="18.900406">
+      <ele>764</ele>
+      <time>2022-01-17T22:00:07Z</time>
+    </trkpt>
+    <trkpt lat="49.666163" lon="18.900373">
+      <ele>769</ele>
+      <time>2022-01-17T22:00:53Z</time>
+    </trkpt>
+    <trkpt lat="49.666047" lon="18.900421">
+      <ele>770</ele>
+      <time>2022-01-17T22:01:12Z</time>
+    </trkpt>
+    <trkpt lat="49.665454" lon="18.900841">
+      <ele>781</ele>
+      <time>2022-01-17T22:02:56Z</time>
+    </trkpt>
+    <trkpt lat="49.664924" lon="18.90124">
+      <ele>795</ele>
+      <time>2022-01-17T22:04:30Z</time>
+    </trkpt>
+    <trkpt lat="49.664674" lon="18.901492">
+      <ele>801</ele>
+      <time>2022-01-17T22:05:18Z</time>
+    </trkpt>
+    <trkpt lat="49.664313" lon="18.902245">
+      <ele>809</ele>
+      <time>2022-01-17T22:06:53Z</time>
+    </trkpt>
+    <trkpt lat="49.664174" lon="18.902521">
+      <ele>810</ele>
+      <time>2022-01-17T22:07:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

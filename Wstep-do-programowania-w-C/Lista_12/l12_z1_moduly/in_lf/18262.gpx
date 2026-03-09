@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:01Z</time>
+    <bounds maxlat="52.2953441" maxlon="20.8322822" minlat="52.2952734" minlon="20.8319235"/>
+  </metadata>
+  <wpt lat="52.295273" lon="20.832282">
+    <ele>100</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12397">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295344" lon="20.831923">
+    <ele>100</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5003">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2952734,20.8322822;52.2953087500141,20.83210284999998;52.2953441,20.8319235">
+    <text>Odejscie sciezki dydaktycznej - Skrzyzowanie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2952734" lon="20.8322822">
+      <ele>100</ele>
+      <time>2022-01-18T01:28:01Z</time>
+    </trkpt>
+    <trkpt lat="52.2953441" lon="20.8319235">
+      <ele>100</ele>
+      <time>2022-01-18T01:29:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

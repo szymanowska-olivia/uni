@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:25Z</time>
+    <bounds maxlat="50.0928517" maxlon="18.5421056" minlat="50.0924552" minlon="18.5420427"/>
+  </metadata>
+  <wpt lat="50.092455" lon="18.542106">
+    <ele>233</ele>
+    <name>Rybnik, ul. Miejska</name>
+    <link href="https://mapa-turystyczna.pl/node/9626">
+      <text>Rybnik, ul. Miejska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.092852" lon="18.542043">
+    <ele>231</ele>
+    <name>Rybnik, Urzad Miasta</name>
+    <link href="https://mapa-turystyczna.pl/node/9627">
+      <text>Rybnik, Urzad Miasta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik, ul. Miejska - Rybnik, Urzad Miasta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0924552,18.5421056;50.09263520033805,18.542077250000006;50.0928517,18.5420427">
+    <text>Rybnik, ul. Miejska - Rybnik, Urzad Miasta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0924552" lon="18.5421056">
+      <ele>233</ele>
+      <time>2022-01-18T00:16:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0928152" lon="18.5420489">
+      <ele>231</ele>
+      <time>2022-01-18T00:17:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0928517" lon="18.5420427">
+      <ele>231</ele>
+      <time>2022-01-18T00:17:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

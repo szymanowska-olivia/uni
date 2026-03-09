@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:53Z</time>
+    <bounds maxlat="50.7819474" maxlon="16.2079883" minlat="50.7760748" minlon="16.2047818"/>
+  </metadata>
+  <wpt lat="50.781947" lon="16.207988">
+    <ele>749</ele>
+    <name>Skrzyzowanie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8059">
+      <text>Skrzyzowanie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.776075" lon="16.205306">
+    <ele>779</ele>
+    <name>Chelmiec Maly, stacja X</name>
+    <link href="https://mapa-turystyczna.pl/node/8060">
+      <text>Chelmiec Maly, stacja X</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zielony / czarny - Chelmiec Maly, stacja X</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7819474,16.2079883;50.77941275038579,16.20483544999998;50.7760748,16.2053058">
+    <text>Skrzyzowanie szlakow zielony / czarny - Chelmiec Maly, stacja X</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7819474" lon="16.2079883">
+      <ele>749</ele>
+      <time>2022-01-17T23:35:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7816785" lon="16.2071422">
+      <ele>752</ele>
+      <time>2022-01-17T23:37:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7810273" lon="16.2059406">
+      <ele>757</ele>
+      <time>2022-01-17T23:39:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7803082" lon="16.204975">
+      <ele>761</ele>
+      <time>2022-01-17T23:41:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7800775" lon="16.2047818">
+      <ele>759</ele>
+      <time>2022-01-17T23:41:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7796027" lon="16.2047818">
+      <ele>763</ele>
+      <time>2022-01-17T23:43:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7792228" lon="16.2048891">
+      <ele>767</ele>
+      <time>2022-01-17T23:43:50Z</time>
+    </trkpt>
+    <trkpt lat="50.777771" lon="16.2055543">
+      <ele>779</ele>
+      <time>2022-01-17T23:47:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7772147" lon="16.2056187">
+      <ele>784</ele>
+      <time>2022-01-17T23:48:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7767805" lon="16.2053827">
+      <ele>780</ele>
+      <time>2022-01-17T23:49:19Z</time>
+    </trkpt>
+    <trkpt lat="50.776292" lon="16.2052325">
+      <ele>778</ele>
+      <time>2022-01-17T23:50:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7760748" lon="16.2053058">
+      <ele>779</ele>
+      <time>2022-01-17T23:50:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:19Z</time>
+    <bounds maxlat="50.6840874" maxlon="19.3829191" minlat="50.6835435" minlon="19.376514"/>
+  </metadata>
+  <wpt lat="50.683543" lon="19.382919">
+    <ele>358</ele>
+    <name>Pod wzgorzem Szyja</name>
+    <link href="https://mapa-turystyczna.pl/node/4505">
+      <text>Pod wzgorzem Szyja</text>
+    </link>
+  </wpt>
+  <wpt lat="50.684087" lon="19.376514">
+    <ele>372</ele>
+    <name>Szyja</name>
+    <link href="https://mapa-turystyczna.pl/node/4507">
+      <text>Szyja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod wzgorzem Szyja - Szyja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6835435,19.3829191;50.68365315004103,19.380352199999987;50.6840874,19.376514">
+    <text>Pod wzgorzem Szyja - Szyja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6835435" lon="19.3829191">
+      <ele>358</ele>
+      <time>2022-01-17T22:07:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6835911" lon="19.3811059">
+      <ele>363</ele>
+      <time>2022-01-17T22:10:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6837152" lon="19.3795985">
+      <ele>368</ele>
+      <time>2022-01-17T22:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6837976" lon="19.3787696">
+      <ele>369</ele>
+      <time>2022-01-17T22:13:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6838857" lon="19.3782568">
+      <ele>367</ele>
+      <time>2022-01-17T22:14:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6839468" lon="19.3776882">
+      <ele>368</ele>
+      <time>2022-01-17T22:15:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6839957" lon="19.3770799">
+      <ele>370</ele>
+      <time>2022-01-17T22:16:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6840874" lon="19.376514">
+      <ele>372</ele>
+      <time>2022-01-17T22:17:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

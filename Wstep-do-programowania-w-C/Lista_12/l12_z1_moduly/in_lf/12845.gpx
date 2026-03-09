@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:24Z</time>
+    <bounds maxlat="50.780339" maxlon="15.0877205" minlat="50.7796627" minlon="15.084314"/>
+  </metadata>
+  <wpt lat="50.780339" lon="15.08772">
+    <ele>499</ele>
+    <name>Pristresek pod Libereckou vysinou</name>
+    <link href="https://mapa-turystyczna.pl/node/8835">
+      <text>Pristresek pod Libereckou vysinou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.779663" lon="15.084314">
+    <ele>452</ele>
+    <name>Liberec, Lidove sady, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8837">
+      <text>Liberec, Lidove sady, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pristresek pod Libereckou vysinou - Liberec, Lidove sady, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.780339,15.0877205;50.78027965000445,15.086191749999989;50.7796627,15.084314">
+    <text>Pristresek pod Libereckou vysinou - Liberec, Lidove sady, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.780339" lon="15.0877205">
+      <ele>499</ele>
+      <time>2022-01-17T23:57:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7802593" lon="15.0865619">
+      <ele>491</ele>
+      <time>2022-01-17T23:58:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7803" lon="15.0858216">
+      <ele>480</ele>
+      <time>2022-01-17T23:59:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7802762" lon="15.0856928">
+      <ele>477</ele>
+      <time>2022-01-18T00:00:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7800829" lon="15.0851135">
+      <ele>465</ele>
+      <time>2022-01-18T00:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7796627" lon="15.084314">
+      <ele>452</ele>
+      <time>2022-01-18T00:02:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

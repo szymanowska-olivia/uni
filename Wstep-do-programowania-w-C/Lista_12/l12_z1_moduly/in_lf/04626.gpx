@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:44Z</time>
+    <bounds maxlat="51.0036314" maxlon="21.1917043" minlat="51.0026498" minlon="21.1869943"/>
+  </metadata>
+  <wpt lat="51.003527" lon="21.186994">
+    <ele>226</ele>
+    <name>Rezerwat Skaly w Krynkach</name>
+    <link href="https://mapa-turystyczna.pl/node/3189">
+      <text>Rezerwat Skaly w Krynkach</text>
+    </link>
+  </wpt>
+  <wpt lat="51.00265" lon="21.191704">
+    <ele>236</ele>
+    <name>Krynki Male</name>
+    <link href="https://mapa-turystyczna.pl/node/3187">
+      <text>Krynki Male</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Skaly w Krynkach - Krynki Male</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0035275,21.1869943;51.00340190003142,21.189424399999986;51.0026498,21.1917043">
+    <text>Rezerwat Skaly w Krynkach - Krynki Male</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0035275" lon="21.1869943">
+      <ele>226</ele>
+      <time>2022-01-17T21:44:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0035909" lon="21.1874664">
+      <ele>230</ele>
+      <time>2022-01-17T21:45:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0036179" lon="21.1878097">
+      <ele>233</ele>
+      <time>2022-01-17T21:45:33Z</time>
+    </trkpt>
+    <trkpt lat="51.0035977" lon="21.1881316">
+      <ele>234</ele>
+      <time>2022-01-17T21:45:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0036314" lon="21.1886251">
+      <ele>234</ele>
+      <time>2022-01-17T21:46:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0034559" lon="21.1891937">
+      <ele>236</ele>
+      <time>2022-01-17T21:46:58Z</time>
+    </trkpt>
+    <trkpt lat="51.0033479" lon="21.1896551">
+      <ele>236</ele>
+      <time>2022-01-17T21:47:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0031453" lon="21.1903417">
+      <ele>238</ele>
+      <time>2022-01-17T21:48:12Z</time>
+    </trkpt>
+    <trkpt lat="51.0029563" lon="21.1908138">
+      <ele>239</ele>
+      <time>2022-01-17T21:48:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0026498" lon="21.1917043">
+      <ele>236</ele>
+      <time>2022-01-17T21:49:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

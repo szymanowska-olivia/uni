@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:13:35Z</time>
+    <bounds maxlat="49.229479" maxlon="20.324004" minlat="49.224938" minlon="20.317216"/>
+  </metadata>
+  <wpt lat="49.224938" lon="20.324004">
+    <ele>755</ele>
+    <name>Tatranska Kotlina, Carda</name>
+    <link href="https://mapa-turystyczna.pl/node/1612">
+      <text>Tatranska Kotlina, Carda</text>
+    </link>
+  </wpt>
+  <wpt lat="49.229479" lon="20.317216">
+    <ele>772</ele>
+    <name>Tatranska Kotlina</name>
+    <link href="https://mapa-turystyczna.pl/node/1613">
+      <text>Tatranska Kotlina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tatranska Kotlina, Carda - Tatranska Kotlina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.224938,20.324004;49.227081500784905,20.32075250000002;49.229479,20.317216">
+    <text>Tatranska Kotlina, Carda - Tatranska Kotlina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.224938" lon="20.324004">
+      <ele>755</ele>
+      <time>2022-01-17T21:13:35Z</time>
+    </trkpt>
+    <trkpt lat="49.225525" lon="20.323115">
+      <ele>752</ele>
+      <time>2022-01-17T21:14:53Z</time>
+    </trkpt>
+    <trkpt lat="49.22676" lon="20.321244">
+      <ele>757</ele>
+      <time>2022-01-17T21:17:37Z</time>
+    </trkpt>
+    <trkpt lat="49.226803" lon="20.321177">
+      <ele>757</ele>
+      <time>2022-01-17T21:17:43Z</time>
+    </trkpt>
+    <trkpt lat="49.22736" lon="20.320328">
+      <ele>757</ele>
+      <time>2022-01-17T21:18:57Z</time>
+    </trkpt>
+    <trkpt lat="49.227761" lon="20.319716">
+      <ele>760</ele>
+      <time>2022-01-17T21:19:51Z</time>
+    </trkpt>
+    <trkpt lat="49.22811" lon="20.319184">
+      <ele>758</ele>
+      <time>2022-01-17T21:20:37Z</time>
+    </trkpt>
+    <trkpt lat="49.22835" lon="20.318834">
+      <ele>760</ele>
+      <time>2022-01-17T21:21:09Z</time>
+    </trkpt>
+    <trkpt lat="49.228727" lon="20.318282">
+      <ele>765</ele>
+      <time>2022-01-17T21:21:58Z</time>
+    </trkpt>
+    <trkpt lat="49.228824" lon="20.318141">
+      <ele>766</ele>
+      <time>2022-01-17T21:22:11Z</time>
+    </trkpt>
+    <trkpt lat="49.228898" lon="20.318034">
+      <ele>766</ele>
+      <time>2022-01-17T21:22:20Z</time>
+    </trkpt>
+    <trkpt lat="49.229479" lon="20.317216">
+      <ele>772</ele>
+      <time>2022-01-17T21:23:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:46Z</time>
+    <bounds maxlat="50.0479148" maxlon="16.7460784" minlat="50.0447178" minlon="16.7392051"/>
+  </metadata>
+  <wpt lat="50.044718" lon="16.739205">
+    <ele>536</ele>
+    <name>Cervena Voda</name>
+    <link href="https://mapa-turystyczna.pl/node/7199">
+      <text>Cervena Voda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.04704" lon="16.746078">
+    <ele>546</ele>
+    <name>Cervena Voda, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7750">
+      <text>Cervena Voda, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cervena Voda - Cervena Voda, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0447178,16.7392051;50.04602171286256,16.740894649999998;50.0470399,16.7460784">
+    <text>Cervena Voda - Cervena Voda, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0447178" lon="16.7392051">
+      <ele>536</ele>
+      <time>2022-01-17T23:26:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0449105" lon="16.7393057">
+      <ele>536</ele>
+      <time>2022-01-17T23:27:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0471329" lon="16.7424836">
+      <ele>538</ele>
+      <time>2022-01-17T23:32:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0479148" lon="16.7436966">
+      <ele>540</ele>
+      <time>2022-01-17T23:33:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0474877" lon="16.744919">
+      <ele>543</ele>
+      <time>2022-01-17T23:35:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0472517" lon="16.7454772">
+      <ele>546</ele>
+      <time>2022-01-17T23:36:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0470399" lon="16.7460784">
+      <ele>546</ele>
+      <time>2022-01-17T23:36:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

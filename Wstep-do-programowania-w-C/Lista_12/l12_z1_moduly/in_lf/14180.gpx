@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:59Z</time>
+    <bounds maxlat="50.2962015" maxlon="18.674422" minlat="50.292647" minlon="18.6679612"/>
+  </metadata>
+  <wpt lat="50.292647" lon="18.667961">
+    <ele>217</ele>
+    <name>Gliwice, ul. Basztowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9552">
+      <text>Gliwice, ul. Basztowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.296202" lon="18.674422">
+    <ele>218</ele>
+    <name>Gliwice, Aleja Przyjazni</name>
+    <link href="https://mapa-turystyczna.pl/node/9681">
+      <text>Gliwice, Aleja Przyjazni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, ul. Basztowa - Gliwice, Aleja Przyjazni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.292647,18.6679612;50.294172552249435,18.670848650000003;50.2962015,18.674422">
+    <text>Gliwice, ul. Basztowa - Gliwice, Aleja Przyjazni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.292647" lon="18.6679612">
+      <ele>217</ele>
+      <time>2022-01-18T00:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2931444" lon="18.6686841">
+      <ele>217</ele>
+      <time>2022-01-18T00:19:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2929971" lon="18.6689523">
+      <ele>217</ele>
+      <time>2022-01-18T00:19:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2937099" lon="18.6699984">
+      <ele>216</ele>
+      <time>2022-01-18T00:21:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2946352" lon="18.6716989">
+      <ele>216</ele>
+      <time>2022-01-18T00:23:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2953731" lon="18.6733429">
+      <ele>216</ele>
+      <time>2022-01-18T00:26:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2955006" lon="18.6735533">
+      <ele>216</ele>
+      <time>2022-01-18T00:26:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2959504" lon="18.6740896">
+      <ele>217</ele>
+      <time>2022-01-18T00:27:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2962015" lon="18.674422">
+      <ele>218</ele>
+      <time>2022-01-18T00:27:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

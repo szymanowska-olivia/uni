@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:14Z</time>
+    <bounds maxlat="50.1394849" maxlon="17.1406996" minlat="50.1391617" minlon="17.1402115"/>
+  </metadata>
+  <wpt lat="50.139485" lon="17.140211">
+    <ele>1225</ele>
+    <name>Bily sloup, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6757">
+      <text>Bily sloup, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.139162" lon="17.1407">
+    <ele>1221</ele>
+    <name>Bily sloup</name>
+    <link href="https://mapa-turystyczna.pl/node/6756">
+      <text>Bily sloup</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily sloup, rozc. - Bily sloup</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1394849,17.1402115;50.13928375015568,17.140527950000013;50.1391617,17.1406996">
+    <text>Bily sloup, rozc. - Bily sloup</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1394849" lon="17.1402115">
+      <ele>1225</ele>
+      <time>2022-01-17T23:01:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1394058" lon="17.1403563">
+      <ele>1224</ele>
+      <time>2022-01-17T23:01:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1391617" lon="17.1406996">
+      <ele>1221</ele>
+      <time>2022-01-17T23:02:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

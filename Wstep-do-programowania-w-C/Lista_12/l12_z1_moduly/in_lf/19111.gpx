@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:37Z</time>
+    <bounds maxlat="52.1094299" maxlon="21.2666608" minlat="52.1075137" minlon="21.2649691"/>
+  </metadata>
+  <wpt lat="52.107514" lon="21.265788">
+    <ele>95</ele>
+    <name>Otwock, dawne Kino Promyk</name>
+    <link href="https://mapa-turystyczna.pl/node/11534">
+      <text>Otwock, dawne Kino Promyk</text>
+    </link>
+  </wpt>
+  <wpt lat="52.10943" lon="21.266661">
+    <ele>96</ele>
+    <name>Otwock, ul. Malawskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12927">
+      <text>Otwock, ul. Malawskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, dawne Kino Promyk - Otwock, ul. Malawskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1075137,21.2657881;52.1086723001227,21.26517160000003;52.1094299,21.2666608">
+    <text>Otwock, dawne Kino Promyk - Otwock, ul. Malawskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1075137" lon="21.2657881">
+      <ele>95</ele>
+      <time>2022-01-18T01:42:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1076105" lon="21.2656987">
+      <ele>95</ele>
+      <time>2022-01-18T01:42:49Z</time>
+    </trkpt>
+    <trkpt lat="52.1084457" lon="21.2649691">
+      <ele>96</ele>
+      <time>2022-01-18T01:44:34Z</time>
+    </trkpt>
+    <trkpt lat="52.1085677" lon="21.2652829">
+      <ele>95</ele>
+      <time>2022-01-18T01:44:59Z</time>
+    </trkpt>
+    <trkpt lat="52.1087769" lon="21.2650603">
+      <ele>95</ele>
+      <time>2022-01-18T01:45:27Z</time>
+    </trkpt>
+    <trkpt lat="52.1089745" lon="21.2654734">
+      <ele>95</ele>
+      <time>2022-01-18T01:46:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1094299" lon="21.2666608">
+      <ele>96</ele>
+      <time>2022-01-18T01:47:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

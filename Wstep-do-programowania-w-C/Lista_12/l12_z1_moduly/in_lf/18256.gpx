@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:57Z</time>
+    <bounds maxlat="52.3005144" maxlon="20.8335114" minlat="52.2955651" minlon="20.8314921"/>
+  </metadata>
+  <wpt lat="52.295565" lon="20.831531">
+    <ele>100</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12394">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.300514" lon="20.833511">
+    <ele>97</ele>
+    <name>Izabelin, skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/4987">
+      <text>Izabelin, skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Izabelin, skrzyzowanie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2955651,20.8315314;52.29714361392271,20.831821550000008;52.3005144,20.8335114">
+    <text>Odejscie sciezki dydaktycznej - Izabelin, skrzyzowanie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2955651" lon="20.8315314">
+      <ele>100</ele>
+      <time>2022-01-18T01:27:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2956616" lon="20.8314921">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2957895" lon="20.8314921">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:24Z</time>
+    </trkpt>
+    <trkpt lat="52.2960331" lon="20.8315158">
+      <ele>98</ele>
+      <time>2022-01-18T01:28:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2982541" lon="20.8321273">
+      <ele>97</ele>
+      <time>2022-01-18T01:33:15Z</time>
+    </trkpt>
+    <trkpt lat="52.2994433" lon="20.8328623">
+      <ele>100</ele>
+      <time>2022-01-18T01:35:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3005144" lon="20.8335114">
+      <ele>97</ele>
+      <time>2022-01-18T01:37:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

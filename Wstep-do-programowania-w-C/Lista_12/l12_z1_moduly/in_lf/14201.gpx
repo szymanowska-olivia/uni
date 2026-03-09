@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:19Z</time>
+    <bounds maxlat="50.4618936" maxlon="18.8990282" minlat="50.4586368" minlon="18.8963911"/>
+  </metadata>
+  <wpt lat="50.458637" lon="18.896393">
+    <ele>311</ele>
+    <name>Lasowice, las</name>
+    <link href="https://mapa-turystyczna.pl/node/9691">
+      <text>Lasowice, las</text>
+    </link>
+  </wpt>
+  <wpt lat="50.461822" lon="18.899028">
+    <ele>310</ele>
+    <name>Lasowice, ul. Rekreacyjna</name>
+    <link href="https://mapa-turystyczna.pl/node/9690">
+      <text>Lasowice, ul. Rekreacyjna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lasowice, las - Lasowice, ul. Rekreacyjna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4586368,18.896393;50.4602680779338,18.896439399999995;50.4618222,18.8990282">
+    <text>Lasowice, las - Lasowice, ul. Rekreacyjna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4586368" lon="18.896393">
+      <ele>311</ele>
+      <time>2022-01-18T00:18:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4586425" lon="18.8963911">
+      <ele>311</ele>
+      <time>2022-01-18T00:18:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4618936" lon="18.8964877">
+      <ele>311</ele>
+      <time>2022-01-18T00:25:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4618222" lon="18.8990282">
+      <ele>310</ele>
+      <time>2022-01-18T00:28:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

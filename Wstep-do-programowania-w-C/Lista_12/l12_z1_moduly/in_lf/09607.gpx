@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:00:47Z</time>
+    <bounds maxlat="48.8332657" maxlon="19.220463" minlat="48.8329073" minlon="19.2202029"/>
+  </metadata>
+  <wpt lat="48.833266" lon="19.220463">
+    <ele>924</ele>
+    <name>Kaliste</name>
+    <link href="https://mapa-turystyczna.pl/node/6475">
+      <text>Kaliste</text>
+    </link>
+  </wpt>
+  <wpt lat="48.832907" lon="19.220203">
+    <ele>919</ele>
+    <name>Kaliste, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6741">
+      <text>Kaliste, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaliste - Kaliste, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8332657,19.220463;48.8330368500149,19.220340000000007;48.8329073,19.2202029">
+    <text>Kaliste - Kaliste, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8332657" lon="19.220463">
+      <ele>924</ele>
+      <time>2022-01-17T23:00:47Z</time>
+    </trkpt>
+    <trkpt lat="48.8331865" lon="19.2204399">
+      <ele>923</ele>
+      <time>2022-01-17T23:00:59Z</time>
+    </trkpt>
+    <trkpt lat="48.8330755" lon="19.2203792">
+      <ele>922</ele>
+      <time>2022-01-17T23:01:16Z</time>
+    </trkpt>
+    <trkpt lat="48.8329982" lon="19.2203008">
+      <ele>920</ele>
+      <time>2022-01-17T23:01:30Z</time>
+    </trkpt>
+    <trkpt lat="48.8329073" lon="19.2202029">
+      <ele>919</ele>
+      <time>2022-01-17T23:01:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:46Z</time>
+    <bounds maxlat="48.9529799" maxlon="20.4231602" minlat="48.9520111" minlon="20.4228169"/>
+  </metadata>
+  <wpt lat="48.95298" lon="20.422999">
+    <ele>520</ele>
+    <name>Klastorska roklina, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/6988">
+      <text>Klastorska roklina, ustie</text>
+    </link>
+  </wpt>
+  <wpt lat="48.952011" lon="20.422817">
+    <ele>562</ele>
+    <name>Klastorska roklina, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7007">
+      <text>Klastorska roklina, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klastorska roklina, ustie - Klastorska roklina, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9529799,20.4229993;48.95253955032346,20.42311190000001;48.9520111,20.4228169">
+    <text>Klastorska roklina, ustie - Klastorska roklina, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9529799" lon="20.4229993">
+      <ele>520</ele>
+      <time>2022-01-17T23:06:46Z</time>
+    </trkpt>
+    <trkpt lat="48.9527192" lon="20.4231602">
+      <ele>529</ele>
+      <time>2022-01-17T23:08:05Z</time>
+    </trkpt>
+    <trkpt lat="48.9523599" lon="20.4230636">
+      <ele>548</ele>
+      <time>2022-01-17T23:09:55Z</time>
+    </trkpt>
+    <trkpt lat="48.9520358" lon="20.4228652">
+      <ele>562</ele>
+      <time>2022-01-17T23:11:35Z</time>
+    </trkpt>
+    <trkpt lat="48.9520111" lon="20.4228169">
+      <ele>562</ele>
+      <time>2022-01-17T23:11:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

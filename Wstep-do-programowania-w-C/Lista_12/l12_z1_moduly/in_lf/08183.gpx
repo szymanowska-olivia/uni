@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:11Z</time>
+    <bounds maxlat="50.3391816" maxlon="16.3153901" minlat="50.3382097" minlon="16.3137531"/>
+  </metadata>
+  <wpt lat="50.33821" lon="16.31539">
+    <ele>646</ele>
+    <name>Sedlonov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5688">
+      <text>Sedlonov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.339182" lon="16.313753">
+    <ele>637</ele>
+    <name>Sedlonov</name>
+    <link href="https://mapa-turystyczna.pl/node/1882">
+      <text>Sedlonov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlonov, rozc. - Sedlonov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3382097,16.3153901;50.3386668502091,16.314645299999995;50.3391816,16.3137531">
+    <text>Sedlonov, rozc. - Sedlonov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3382097" lon="16.3153901">
+      <ele>646</ele>
+      <time>2022-01-17T22:34:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3385259" lon="16.3149436">
+      <ele>645</ele>
+      <time>2022-01-17T22:34:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3388078" lon="16.314347">
+      <ele>640</ele>
+      <time>2022-01-17T22:35:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3389813" lon="16.3138189">
+      <ele>638</ele>
+      <time>2022-01-17T22:35:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3391816" lon="16.3137531">
+      <ele>637</ele>
+      <time>2022-01-17T22:36:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:46Z</time>
+    <bounds maxlat="49.60752" maxlon="18.824331" minlat="49.60746" minlon="18.824052"/>
+  </metadata>
+  <wpt lat="49.60746" lon="18.824331">
+    <ele>900</ele>
+    <name>Pod Wielkim Stozkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/3968">
+      <text>Pod Wielkim Stozkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.607494" lon="18.824052">
+    <ele>901</ele>
+    <name>Pod Wielkim Stozkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/8140">
+      <text>Pod Wielkim Stozkiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wielkim Stozkiem - Pod Wielkim Stozkiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.60746,18.824331;49.60749000000922,18.82425;49.607494,18.824052">
+    <text>Pod Wielkim Stozkiem - Pod Wielkim Stozkiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.60746" lon="18.824331">
+      <ele>900</ele>
+      <time>2022-01-17T23:37:46Z</time>
+    </trkpt>
+    <trkpt lat="49.60752" lon="18.824169">
+      <ele>898</ele>
+      <time>2022-01-17T23:38:22Z</time>
+    </trkpt>
+    <trkpt lat="49.607494" lon="18.824052">
+      <ele>901</ele>
+      <time>2022-01-17T23:38:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

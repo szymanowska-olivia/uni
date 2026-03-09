@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:19Z</time>
+    <bounds maxlat="50.8263474" maxlon="15.5074865" minlat="50.8188023" minlon="15.5024117"/>
+  </metadata>
+  <wpt lat="50.826347" lon="15.507487">
+    <ele>707</ele>
+    <name>Szklarska Poreba, Huta</name>
+    <link href="https://mapa-turystyczna.pl/node/1392">
+      <text>Szklarska Poreba, Huta</text>
+    </link>
+  </wpt>
+  <wpt lat="50.818802" lon="15.502412">
+    <ele>755</ele>
+    <name>Rozdroze pod Kamienczykiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1334">
+      <text>Rozdroze pod Kamienczykiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szklarska Poreba, Huta - Rozdroze pod Kamienczykiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8263474,15.5074865;50.82352506517635,15.50645245000001;50.8188023,15.5024117">
+    <text>Szklarska Poreba, Huta - Rozdroze pod Kamienczykiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8263474" lon="15.5074865">
+      <ele>707</ele>
+      <time>2022-01-17T21:08:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8260037" lon="15.5072799">
+      <ele>710</ele>
+      <time>2022-01-17T21:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8257337" lon="15.507233">
+      <ele>712</ele>
+      <time>2022-01-17T21:09:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8253214" lon="15.5072558">
+      <ele>715</ele>
+      <time>2022-01-17T21:10:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8247155" lon="15.507186">
+      <ele>720</ele>
+      <time>2022-01-17T21:12:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8223346" lon="15.5057189">
+      <ele>739</ele>
+      <time>2022-01-17T21:18:25Z</time>
+    </trkpt>
+    <trkpt lat="50.821932" lon="15.5053849">
+      <ele>740</ele>
+      <time>2022-01-17T21:19:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8216515" lon="15.5049813">
+      <ele>737</ele>
+      <time>2022-01-17T21:20:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8213899" lon="15.5047614">
+      <ele>738</ele>
+      <time>2022-01-17T21:21:07Z</time>
+    </trkpt>
+    <trkpt lat="50.820413" lon="15.5041713">
+      <ele>742</ele>
+      <time>2022-01-17T21:23:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8198534" lon="15.5037019">
+      <ele>746</ele>
+      <time>2022-01-17T21:25:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8188023" lon="15.5024117">
+      <ele>755</ele>
+      <time>2022-01-17T21:28:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:51Z</time>
+    <bounds maxlat="50.939846" maxlon="20.9524722" minlat="50.9398251" minlon="20.9518611"/>
+  </metadata>
+  <wpt lat="50.939825" lon="20.951861">
+    <ele>271</ele>
+    <name>Bodzentyn, ul. Kielecka</name>
+    <link href="https://mapa-turystyczna.pl/node/3113">
+      <text>Bodzentyn, ul. Kielecka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.939846" lon="20.952472">
+    <ele>274</ele>
+    <name>Bodzentyn, ul.Sloneczna</name>
+    <link href="https://mapa-turystyczna.pl/node/10756">
+      <text>Bodzentyn, ul.Sloneczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bodzentyn, ul. Kielecka - Bodzentyn, ul.Sloneczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9398251,20.9518611;50.93983555000118,20.95216664999997;50.939846,20.9524722">
+    <text>Bodzentyn, ul. Kielecka - Bodzentyn, ul.Sloneczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9398251" lon="20.9518611">
+      <ele>271</ele>
+      <time>2022-01-18T00:44:51Z</time>
+    </trkpt>
+    <trkpt lat="50.939846" lon="20.9524722">
+      <ele>274</ele>
+      <time>2022-01-18T00:45:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

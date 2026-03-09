@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:49Z</time>
+    <bounds maxlat="51.1613548" maxlon="20.8314514" minlat="51.160137" minlon="20.8301211"/>
+  </metadata>
+  <wpt lat="51.161355" lon="20.831451">
+    <ele>262</ele>
+    <name>Skarbowa Gora, skrzyzowanie przy cmentarzu</name>
+    <link href="https://mapa-turystyczna.pl/node/3222">
+      <text>Skarbowa Gora, skrzyzowanie przy cmentarzu</text>
+    </link>
+  </wpt>
+  <wpt lat="51.160137" lon="20.830121">
+    <ele>266</ele>
+    <name>Skarbowa Gora, cmentarz partyzancki</name>
+    <link href="https://mapa-turystyczna.pl/node/3236">
+      <text>Skarbowa Gora, cmentarz partyzancki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skarbowa Gora, skrzyzowanie przy cmentarzu - Skarbowa Gora, cmentarz partyzancki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1613548,20.8314514;51.16092085204106,20.831081250000025;51.160137,20.8301211">
+    <text>Skarbowa Gora, skrzyzowanie przy cmentarzu - Skarbowa Gora, cmentarz partyzancki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1613548" lon="20.8314514">
+      <ele>262</ele>
+      <time>2022-01-17T21:44:49Z</time>
+    </trkpt>
+    <trkpt lat="51.1604869" lon="20.8307111">
+      <ele>265</ele>
+      <time>2022-01-17T21:46:48Z</time>
+    </trkpt>
+    <trkpt lat="51.160137" lon="20.8301211">
+      <ele>266</ele>
+      <time>2022-01-17T21:47:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

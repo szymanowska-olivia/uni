@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:59:44Z</time>
+    <bounds maxlat="49.78364" maxlon="19.127321" minlat="49.780002" minlon="19.126359"/>
+  </metadata>
+  <wpt lat="49.78364" lon="19.126368">
+    <ele>814</ele>
+    <name>Pod Sokolowka</name>
+    <link href="https://mapa-turystyczna.pl/node/1041">
+      <text>Pod Sokolowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.780002" lon="19.127321">
+    <ele>869</ele>
+    <name>Magurka</name>
+    <link href="https://mapa-turystyczna.pl/node/1026">
+      <text>Magurka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sokolowka - Magurka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.78364,19.126368;49.78190050017041,19.126596999999993;49.780002,19.127321">
+    <text>Pod Sokolowka - Magurka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.78364" lon="19.126368">
+      <ele>814</ele>
+      <time>2022-01-17T20:59:44Z</time>
+    </trkpt>
+    <trkpt lat="49.78356" lon="19.126405">
+      <ele>816</ele>
+      <time>2022-01-17T20:59:57Z</time>
+    </trkpt>
+    <trkpt lat="49.783457" lon="19.126397">
+      <ele>816</ele>
+      <time>2022-01-17T21:00:14Z</time>
+    </trkpt>
+    <trkpt lat="49.78335" lon="19.12638">
+      <ele>817</ele>
+      <time>2022-01-17T21:00:31Z</time>
+    </trkpt>
+    <trkpt lat="49.783151" lon="19.126361">
+      <ele>818</ele>
+      <time>2022-01-17T21:01:03Z</time>
+    </trkpt>
+    <trkpt lat="49.782956" lon="19.126359">
+      <ele>820</ele>
+      <time>2022-01-17T21:01:34Z</time>
+    </trkpt>
+    <trkpt lat="49.782766" lon="19.12641">
+      <ele>824</ele>
+      <time>2022-01-17T21:02:05Z</time>
+    </trkpt>
+    <trkpt lat="49.782288" lon="19.126562">
+      <ele>831</ele>
+      <time>2022-01-17T21:03:24Z</time>
+    </trkpt>
+    <trkpt lat="49.782029" lon="19.126586">
+      <ele>835</ele>
+      <time>2022-01-17T21:04:05Z</time>
+    </trkpt>
+    <trkpt lat="49.781772" lon="19.126608">
+      <ele>839</ele>
+      <time>2022-01-17T21:04:47Z</time>
+    </trkpt>
+    <trkpt lat="49.781346" lon="19.126682">
+      <ele>843</ele>
+      <time>2022-01-17T21:05:55Z</time>
+    </trkpt>
+    <trkpt lat="49.780944" lon="19.126789">
+      <ele>850</ele>
+      <time>2022-01-17T21:07:01Z</time>
+    </trkpt>
+    <trkpt lat="49.780499" lon="19.126957">
+      <ele>860</ele>
+      <time>2022-01-17T21:08:15Z</time>
+    </trkpt>
+    <trkpt lat="49.780002" lon="19.127321">
+      <ele>869</ele>
+      <time>2022-01-17T21:09:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

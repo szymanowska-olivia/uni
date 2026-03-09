@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:10Z</time>
+    <bounds maxlat="49.585979" maxlon="18.984283" minlat="49.584117" minlon="18.979907"/>
+  </metadata>
+  <wpt lat="49.585979" lon="18.979907">
+    <ele>901</ele>
+    <name>Pod Karolowka</name>
+    <link href="https://mapa-turystyczna.pl/node/782">
+      <text>Pod Karolowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.584117" lon="18.984283">
+    <ele>857</ele>
+    <name>Czabanula</name>
+    <link href="https://mapa-turystyczna.pl/node/3882">
+      <text>Czabanula</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Karolowka - Czabanula</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.585979,18.979907;49.584950000867856,18.98195550000001;49.584117,18.984283">
+    <text>Pod Karolowka - Czabanula</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.585979" lon="18.979907">
+      <ele>901</ele>
+      <time>2022-01-17T21:57:10Z</time>
+    </trkpt>
+    <trkpt lat="49.585894" lon="18.979982">
+      <ele>901</ele>
+      <time>2022-01-17T21:57:19Z</time>
+    </trkpt>
+    <trkpt lat="49.585241" lon="18.981225">
+      <ele>888</ele>
+      <time>2022-01-17T21:58:49Z</time>
+    </trkpt>
+    <trkpt lat="49.584659" lon="18.982686">
+      <ele>879</ele>
+      <time>2022-01-17T22:00:26Z</time>
+    </trkpt>
+    <trkpt lat="49.584422" lon="18.983437">
+      <ele>873</ele>
+      <time>2022-01-17T22:01:14Z</time>
+    </trkpt>
+    <trkpt lat="49.584249" lon="18.983978">
+      <ele>864</ele>
+      <time>2022-01-17T22:01:49Z</time>
+    </trkpt>
+    <trkpt lat="49.584117" lon="18.984283">
+      <ele>857</ele>
+      <time>2022-01-17T22:02:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

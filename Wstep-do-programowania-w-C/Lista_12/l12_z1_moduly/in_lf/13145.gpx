@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:04Z</time>
+    <bounds maxlat="49.329116" maxlon="21.274222" minlat="49.327381" minlon="21.270093"/>
+  </metadata>
+  <wpt lat="49.328744" lon="21.270093">
+    <ele>328</ele>
+    <name>Bardejovske Kupele, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9058">
+      <text>Bardejovske Kupele, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.327381" lon="21.274222">
+    <ele>319</ele>
+    <name>Bardejovske Kupele, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/9059">
+      <text>Bardejovske Kupele, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bardejovske Kupele, razc. - Bardejovske Kupele, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.328744,21.270093;49.328631500030184,21.27232849999999;49.327381,21.274222">
+    <text>Bardejovske Kupele, razc. - Bardejovske Kupele, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.328744" lon="21.270093">
+      <ele>328</ele>
+      <time>2022-01-18T00:03:04Z</time>
+    </trkpt>
+    <trkpt lat="49.328768" lon="21.270241">
+      <ele>328</ele>
+      <time>2022-01-18T00:03:13Z</time>
+    </trkpt>
+    <trkpt lat="49.328805" lon="21.270338">
+      <ele>328</ele>
+      <time>2022-01-18T00:03:19Z</time>
+    </trkpt>
+    <trkpt lat="49.328872" lon="21.27052">
+      <ele>327</ele>
+      <time>2022-01-18T00:03:31Z</time>
+    </trkpt>
+    <trkpt lat="49.328924" lon="21.270633">
+      <ele>327</ele>
+      <time>2022-01-18T00:03:39Z</time>
+    </trkpt>
+    <trkpt lat="49.329005" lon="21.270829">
+      <ele>327</ele>
+      <time>2022-01-18T00:03:52Z</time>
+    </trkpt>
+    <trkpt lat="49.329116" lon="21.271044">
+      <ele>327</ele>
+      <time>2022-01-18T00:04:07Z</time>
+    </trkpt>
+    <trkpt lat="49.328854" lon="21.271711">
+      <ele>326</ele>
+      <time>2022-01-18T00:04:51Z</time>
+    </trkpt>
+    <trkpt lat="49.328686" lon="21.272217">
+      <ele>327</ele>
+      <time>2022-01-18T00:05:23Z</time>
+    </trkpt>
+    <trkpt lat="49.328577" lon="21.27244">
+      <ele>327</ele>
+      <time>2022-01-18T00:05:39Z</time>
+    </trkpt>
+    <trkpt lat="49.328456" lon="21.272601">
+      <ele>327</ele>
+      <time>2022-01-18T00:05:53Z</time>
+    </trkpt>
+    <trkpt lat="49.328182" lon="21.27292">
+      <ele>329</ele>
+      <time>2022-01-18T00:06:23Z</time>
+    </trkpt>
+    <trkpt lat="49.327996" lon="21.273174">
+      <ele>329</ele>
+      <time>2022-01-18T00:06:44Z</time>
+    </trkpt>
+    <trkpt lat="49.327381" lon="21.274222">
+      <ele>319</ele>
+      <time>2022-01-18T00:08:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:42Z</time>
+    <bounds maxlat="50.1482514" maxlon="17.2359502" minlat="50.1481208" minlon="17.2346038"/>
+  </metadata>
+  <wpt lat="50.148251" lon="17.234604">
+    <ele>979</ele>
+    <name>Vyhlidka Kamzici skala</name>
+    <link href="https://mapa-turystyczna.pl/node/6820">
+      <text>Vyhlidka Kamzici skala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.1482" lon="17.23595">
+    <ele>996</ele>
+    <name>Pramen Zajeciho potoka</name>
+    <link href="https://mapa-turystyczna.pl/node/6819">
+      <text>Pramen Zajeciho potoka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidka Kamzici skala - Pramen Zajeciho potoka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1482514,17.2346038;50.148160300016315,17.235325250000013;50.1481998,17.2359502">
+    <text>Vyhlidka Kamzici skala - Pramen Zajeciho potoka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1482514" lon="17.2346038">
+      <ele>979</ele>
+      <time>2022-01-17T23:02:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1481208" lon="17.2347003">
+      <ele>980</ele>
+      <time>2022-01-17T23:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1481998" lon="17.2359502">
+      <ele>996</ele>
+      <time>2022-01-17T23:05:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

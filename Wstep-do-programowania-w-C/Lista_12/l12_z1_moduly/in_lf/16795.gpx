@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:05Z</time>
+    <bounds maxlat="52.1247466" maxlon="20.7832493" minlat="52.123752" minlon="20.780889"/>
+  </metadata>
+  <wpt lat="52.124747" lon="20.783249">
+    <ele>104</ele>
+    <name>Popowek</name>
+    <link href="https://mapa-turystyczna.pl/node/11486">
+      <text>Popowek</text>
+    </link>
+  </wpt>
+  <wpt lat="52.123752" lon="20.780889">
+    <ele>110</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11487">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Popowek - Rozejscie szlakow czerwony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1247466,20.7832493;52.1242493027747,20.78206914999998;52.123752,20.780889">
+    <text>Popowek - Rozejscie szlakow czerwony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1247466" lon="20.7832493">
+      <ele>104</ele>
+      <time>2022-01-18T01:03:05Z</time>
+    </trkpt>
+    <trkpt lat="52.123752" lon="20.780889">
+      <ele>110</ele>
+      <time>2022-01-18T01:08:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

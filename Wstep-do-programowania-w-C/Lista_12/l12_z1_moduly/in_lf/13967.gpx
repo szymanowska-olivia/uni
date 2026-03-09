@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:15:00Z</time>
+    <bounds maxlat="50.4720596" maxlon="18.4701011" minlat="50.4488037" minlon="18.4554524"/>
+  </metadata>
+  <wpt lat="50.448804" lon="18.455452">
+    <ele>226</ele>
+    <name>Ligota Toszecka</name>
+    <link href="https://mapa-turystyczna.pl/node/9568">
+      <text>Ligota Toszecka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.47206" lon="18.468176">
+    <ele>247</ele>
+    <name>Pluznica Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/9571">
+      <text>Pluznica Wielka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ligota Toszecka - Pluznica Wielka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4488037,18.4554524;50.45967355165899,18.466480049999983;50.4720596,18.4681764">
+    <text>Ligota Toszecka - Pluznica Wielka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4488037" lon="18.4554524">
+      <ele>226</ele>
+      <time>2022-01-18T00:15:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4497244" lon="18.4562803">
+      <ele>228</ele>
+      <time>2022-01-18T00:16:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4513298" lon="18.4589088">
+      <ele>232</ele>
+      <time>2022-01-18T00:21:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4514186" lon="18.459177">
+      <ele>232</ele>
+      <time>2022-01-18T00:21:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4514801" lon="18.4596384">
+      <ele>233</ele>
+      <time>2022-01-18T00:22:08Z</time>
+    </trkpt>
+    <trkpt lat="50.4514664" lon="18.4600353">
+      <ele>234</ele>
+      <time>2022-01-18T00:22:36Z</time>
+    </trkpt>
+    <trkpt lat="50.451364" lon="18.4608722">
+      <ele>236</ele>
+      <time>2022-01-18T00:23:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4515416" lon="18.4609366">
+      <ele>236</ele>
+      <time>2022-01-18T00:23:56Z</time>
+    </trkpt>
+    <trkpt lat="50.45189" lon="18.4609044">
+      <ele>236</ele>
+      <time>2022-01-18T00:24:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4520999" lon="18.4607415">
+      <ele>235</ele>
+      <time>2022-01-18T00:25:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4523185" lon="18.4608167">
+      <ele>235</ele>
+      <time>2022-01-18T00:25:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4536915" lon="18.4617179">
+      <ele>242</ele>
+      <time>2022-01-18T00:28:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4563616" lon="18.4639944">
+      <ele>244</ele>
+      <time>2022-01-18T00:33:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4590315" lon="18.4663996">
+      <ele>252</ele>
+      <time>2022-01-18T00:39:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4592774" lon="18.4664747">
+      <ele>252</ele>
+      <time>2022-01-18T00:39:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4600697" lon="18.4664854">
+      <ele>251</ele>
+      <time>2022-01-18T00:41:19Z</time>
+    </trkpt>
+    <trkpt lat="50.461681" lon="18.46773">
+      <ele>250</ele>
+      <time>2022-01-18T00:44:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4628421" lon="18.4682128">
+      <ele>252</ele>
+      <time>2022-01-18T00:46:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4637504" lon="18.4683844">
+      <ele>248</ele>
+      <time>2022-01-18T00:48:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4654242" lon="18.4686205">
+      <ele>249</ele>
+      <time>2022-01-18T00:51:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4680193" lon="18.4691355">
+      <ele>252</ele>
+      <time>2022-01-18T00:56:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4709898" lon="18.4701011">
+      <ele>244</ele>
+      <time>2022-01-18T01:02:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4720596" lon="18.4681764">
+      <ele>247</ele>
+      <time>2022-01-18T01:05:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

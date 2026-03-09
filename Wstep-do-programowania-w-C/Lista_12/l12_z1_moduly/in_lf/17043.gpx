@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:01Z</time>
+    <bounds maxlat="52.3007218" maxlon="16.8363311" minlat="52.2981696" minlon="16.8292453"/>
+  </metadata>
+  <wpt lat="52.300722" lon="16.829245">
+    <ele>115</ele>
+    <name>Wiry, osada lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/11641">
+      <text>Wiry, osada lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.29817" lon="16.836331">
+    <ele>112</ele>
+    <name>Puszczykowo Stare</name>
+    <link href="https://mapa-turystyczna.pl/node/11635">
+      <text>Puszczykowo Stare</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wiry, osada lesna - Puszczykowo Stare</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3007218,16.8292453;52.29902970002379,16.832339349999977;52.2981696,16.8363311">
+    <text>Wiry, osada lesna - Puszczykowo Stare</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3007218" lon="16.8292453">
+      <ele>115</ele>
+      <time>2022-01-18T01:07:01Z</time>
+    </trkpt>
+    <trkpt lat="52.2989838" lon="16.8320175">
+      <ele>115</ele>
+      <time>2022-01-18T01:11:38Z</time>
+    </trkpt>
+    <trkpt lat="52.2990756" lon="16.8326612">
+      <ele>111</ele>
+      <time>2022-01-18T01:12:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2981696" lon="16.8363311">
+      <ele>112</ele>
+      <time>2022-01-18T01:17:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

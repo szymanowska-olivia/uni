@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:26Z</time>
+    <bounds maxlat="51.0117033" maxlon="19.9204919" minlat="51.0101501" minlon="19.9199295"/>
+  </metadata>
+  <wpt lat="51.01015" lon="19.919929">
+    <ele>307</ele>
+    <name>Rezerwat Murawy Dobromierskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11875">
+      <text>Rezerwat Murawy Dobromierskie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.011703" lon="19.920482">
+    <ele>334</ele>
+    <name>Pod Bukowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/8488">
+      <text>Pod Bukowa Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Murawy Dobromierskie - Pod Bukowa Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0101501,19.9199295;51.011038300436866,19.920421750000006;51.0117033,19.9204818">
+    <text>Rezerwat Murawy Dobromierskie - Pod Bukowa Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0101501" lon="19.9199295">
+      <ele>307</ele>
+      <time>2022-01-18T01:14:26Z</time>
+    </trkpt>
+    <trkpt lat="51.0103534" lon="19.9202434">
+      <ele>309</ele>
+      <time>2022-01-18T01:15:17Z</time>
+    </trkpt>
+    <trkpt lat="51.010837" lon="19.9203516">
+      <ele>313</ele>
+      <time>2022-01-18T01:16:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0112396" lon="19.9204919">
+      <ele>322</ele>
+      <time>2022-01-18T01:18:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0117033" lon="19.9204818">
+      <ele>334</ele>
+      <time>2022-01-18T01:19:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

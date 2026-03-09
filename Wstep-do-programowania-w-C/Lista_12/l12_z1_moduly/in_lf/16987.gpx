@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:14Z</time>
+    <bounds maxlat="49.1063464" maxlon="22.7862883" minlat="49.1061455" minlon="22.7858996"/>
+  </metadata>
+  <wpt lat="49.106145" lon="22.7859">
+    <ele>849</ele>
+    <name>Pichorow</name>
+    <link href="https://mapa-turystyczna.pl/node/11306">
+      <text>Pichorow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.106346" lon="22.786288">
+    <ele>857</ele>
+    <name>Kryjowka Rebrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11617">
+      <text>Kryjowka Rebrowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pichorow - Kryjowka Rebrowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1061455,22.7858996;49.106245950101695,22.786093949999973;49.1063464,22.7862883">
+    <text>Pichorow - Kryjowka Rebrowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1061455" lon="22.7858996">
+      <ele>849</ele>
+      <time>2022-01-18T01:06:14Z</time>
+    </trkpt>
+    <trkpt lat="49.1063464" lon="22.7862883">
+      <ele>857</ele>
+      <time>2022-01-18T01:07:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

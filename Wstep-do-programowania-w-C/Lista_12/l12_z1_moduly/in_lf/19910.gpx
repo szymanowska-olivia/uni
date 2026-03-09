@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:09Z</time>
+    <bounds maxlat="49.3077738" maxlon="22.4242385" minlat="49.3073121" minlon="22.4240928"/>
+  </metadata>
+  <wpt lat="49.307774" lon="22.424238">
+    <ele>435</ele>
+    <name>Otaczarnia, droga wojewodzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13437">
+      <text>Otaczarnia, droga wojewodzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.307312" lon="22.424093">
+    <ele>432</ele>
+    <name>Otaczarnia</name>
+    <link href="https://mapa-turystyczna.pl/node/11234">
+      <text>Otaczarnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otaczarnia, droga wojewodzka - Otaczarnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3077738,22.4242383;49.30763260019862,22.424171400000013;49.3073121,22.4240928">
+    <text>Otaczarnia, droga wojewodzka - Otaczarnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3077738" lon="22.4242383">
+      <ele>435</ele>
+      <time>2022-01-18T01:57:09Z</time>
+    </trkpt>
+    <trkpt lat="49.3077725" lon="22.4242385">
+      <ele>435</ele>
+      <time>2022-01-18T01:57:09Z</time>
+    </trkpt>
+    <trkpt lat="49.3074927" lon="22.4241043">
+      <ele>433</ele>
+      <time>2022-01-18T01:57:46Z</time>
+    </trkpt>
+    <trkpt lat="49.3073121" lon="22.4240928">
+      <ele>432</ele>
+      <time>2022-01-18T01:58:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

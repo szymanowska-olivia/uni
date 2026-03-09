@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:59Z</time>
+    <bounds maxlat="49.219421" maxlon="20.009568" minlat="49.21928" minlon="20.009306"/>
+  </metadata>
+  <wpt lat="49.219421" lon="20.009306">
+    <ele>2301</ele>
+    <name>Swinica</name>
+    <link href="https://mapa-turystyczna.pl/node/293">
+      <text>Swinica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.21928" lon="20.009568">
+    <ele>2224</ele>
+    <name>Pod Swinica</name>
+    <link href="https://mapa-turystyczna.pl/node/9380">
+      <text>Pod Swinica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swinica - Pod Swinica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.219421,20.009306;49.21929700000291,20.009565500000015;49.21928,20.009568">
+    <text>Swinica - Pod Swinica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.219421" lon="20.009306">
+      <ele>2301</ele>
+      <time>2022-01-18T00:09:59Z</time>
+    </trkpt>
+    <trkpt lat="49.219375" lon="20.009425">
+      <ele>2272</ele>
+      <time>2022-01-18T00:11:54Z</time>
+    </trkpt>
+    <trkpt lat="49.219348" lon="20.009521">
+      <ele>2249</ele>
+      <time>2022-01-18T00:13:21Z</time>
+    </trkpt>
+    <trkpt lat="49.219314" lon="20.009563">
+      <ele>2235</ele>
+      <time>2022-01-18T00:14:17Z</time>
+    </trkpt>
+    <trkpt lat="49.21928" lon="20.009568">
+      <ele>2224</ele>
+      <time>2022-01-18T00:14:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

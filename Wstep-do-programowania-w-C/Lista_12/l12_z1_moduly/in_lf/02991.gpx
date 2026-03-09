@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:33Z</time>
+    <bounds maxlat="50.232191" maxlon="17.028358" minlat="50.230036" minlon="17.0253754"/>
+  </metadata>
+  <wpt lat="50.230036" lon="17.028358">
+    <ele>1109</ele>
+    <name>Przelecz Trzech Granic</name>
+    <link href="https://mapa-turystyczna.pl/node/2152">
+      <text>Przelecz Trzech Granic</text>
+    </link>
+  </wpt>
+  <wpt lat="50.232191" lon="17.025375">
+    <ele>1100</ele>
+    <name>U Smrku</name>
+    <link href="https://mapa-turystyczna.pl/node/2151">
+      <text>U Smrku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Trzech Granic - U Smrku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.230036,17.028358;50.23155620422548,17.026324899999974;50.232191,17.0253754">
+    <text>Przelecz Trzech Granic - U Smrku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.230036" lon="17.028358">
+      <ele>1109</ele>
+      <time>2022-01-17T21:23:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2309214" lon="17.0272744">
+      <ele>1102</ele>
+      <time>2022-01-17T21:25:30Z</time>
+    </trkpt>
+    <trkpt lat="50.232191" lon="17.0253754">
+      <ele>1100</ele>
+      <time>2022-01-17T21:28:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

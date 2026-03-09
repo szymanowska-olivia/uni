@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:13:56Z</time>
+    <bounds maxlat="49.759068" maxlon="19.488859" minlat="49.757786" minlon="19.476498"/>
+  </metadata>
+  <wpt lat="49.759068" lon="19.488859">
+    <ele>502</ele>
+    <name>Krzeszow Gorny</name>
+    <link href="https://mapa-turystyczna.pl/node/1628">
+      <text>Krzeszow Gorny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.757786" lon="19.476498">
+    <ele>486</ele>
+    <name>Krzeszow</name>
+    <link href="https://mapa-turystyczna.pl/node/1019">
+      <text>Krzeszow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krzeszow Gorny - Krzeszow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.759068,19.488859;49.75899600005347,19.4847315;49.757786,19.476498">
+    <text>Krzeszow Gorny - Krzeszow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.759068" lon="19.488859">
+      <ele>502</ele>
+      <time>2022-01-17T21:13:56Z</time>
+    </trkpt>
+    <trkpt lat="49.758924" lon="19.480604">
+      <ele>493</ele>
+      <time>2022-01-17T21:23:34Z</time>
+    </trkpt>
+    <trkpt lat="49.758913" lon="19.479978">
+      <ele>492</ele>
+      <time>2022-01-17T21:24:18Z</time>
+    </trkpt>
+    <trkpt lat="49.758907" lon="19.479648">
+      <ele>492</ele>
+      <time>2022-01-17T21:24:41Z</time>
+    </trkpt>
+    <trkpt lat="49.758891" lon="19.479385">
+      <ele>492</ele>
+      <time>2022-01-17T21:24:59Z</time>
+    </trkpt>
+    <trkpt lat="49.758845" lon="19.47908">
+      <ele>492</ele>
+      <time>2022-01-17T21:25:21Z</time>
+    </trkpt>
+    <trkpt lat="49.758766" lon="19.478804">
+      <ele>491</ele>
+      <time>2022-01-17T21:25:42Z</time>
+    </trkpt>
+    <trkpt lat="49.75864" lon="19.478414">
+      <ele>490</ele>
+      <time>2022-01-17T21:26:13Z</time>
+    </trkpt>
+    <trkpt lat="49.758238" lon="19.47749">
+      <ele>488</ele>
+      <time>2022-01-17T21:27:31Z</time>
+    </trkpt>
+    <trkpt lat="49.757786" lon="19.476498">
+      <ele>486</ele>
+      <time>2022-01-17T21:28:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

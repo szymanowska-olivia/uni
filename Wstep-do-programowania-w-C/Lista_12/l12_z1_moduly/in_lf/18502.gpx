@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:57Z</time>
+    <bounds maxlat="50.4285441" maxlon="18.8594547" minlat="50.4280373" minlon="18.8531298"/>
+  </metadata>
+  <wpt lat="50.428037" lon="18.859455">
+    <ele>294</ele>
+    <name>Tarnowskie Gory, ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12523">
+      <text>Tarnowskie Gory, ul. Parkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.428544" lon="18.85313">
+    <ele>297</ele>
+    <name>Odejscie szlaku historycznego</name>
+    <link href="https://mapa-turystyczna.pl/node/12518">
+      <text>Odejscie szlaku historycznego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, ul. Parkowa - Odejscie szlaku historycznego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4280373,18.8594547;50.42827410000078,18.85597429999998;50.4285441,18.8531298">
+    <text>Tarnowskie Gory, ul. Parkowa - Odejscie szlaku historycznego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4280373" lon="18.8594547">
+      <ele>294</ele>
+      <time>2022-01-18T01:31:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4283212" lon="18.8568379">
+      <ele>299</ele>
+      <time>2022-01-18T01:34:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4282827" lon="18.8563433">
+      <ele>297</ele>
+      <time>2022-01-18T01:34:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4282655" lon="18.8556053">
+      <ele>297</ele>
+      <time>2022-01-18T01:34:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4283306" lon="18.8546672">
+      <ele>298</ele>
+      <time>2022-01-18T01:35:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4285441" lon="18.8531298">
+      <ele>297</ele>
+      <time>2022-01-18T01:36:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

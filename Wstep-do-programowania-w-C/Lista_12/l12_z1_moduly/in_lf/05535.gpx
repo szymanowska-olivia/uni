@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:12Z</time>
+    <bounds maxlat="49.438814" maxlon="19.01378" minlat="49.435561" minlon="19.013678"/>
+  </metadata>
+  <wpt lat="49.438814" lon="19.01378">
+    <ele>669</ele>
+    <name>Rycerka Gorna, Kolonia</name>
+    <link href="https://mapa-turystyczna.pl/node/646">
+      <text>Rycerka Gorna, Kolonia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.435561" lon="19.013678">
+    <ele>672</ele>
+    <name>Rycerka Gorna, Kolonia, odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/3884">
+      <text>Rycerka Gorna, Kolonia, odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rycerka Gorna, Kolonia - Rycerka Gorna, Kolonia, odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.438814,19.01378;49.43738950295639,19.013747499999994;49.435561,19.013678">
+    <text>Rycerka Gorna, Kolonia - Rycerka Gorna, Kolonia, odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.438814" lon="19.01378">
+      <ele>669</ele>
+      <time>2022-01-17T21:57:12Z</time>
+    </trkpt>
+    <trkpt lat="49.437928" lon="19.013761">
+      <ele>669</ele>
+      <time>2022-01-17T21:58:34Z</time>
+    </trkpt>
+    <trkpt lat="49.436851" lon="19.013734">
+      <ele>669</ele>
+      <time>2022-01-17T22:00:13Z</time>
+    </trkpt>
+    <trkpt lat="49.435775" lon="19.013699">
+      <ele>672</ele>
+      <time>2022-01-17T22:01:52Z</time>
+    </trkpt>
+    <trkpt lat="49.435561" lon="19.013678">
+      <ele>672</ele>
+      <time>2022-01-17T22:02:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

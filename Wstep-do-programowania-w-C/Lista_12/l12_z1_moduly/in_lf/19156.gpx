@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:15Z</time>
+    <bounds maxlat="50.4446541" maxlon="16.3031638" minlat="50.4432714" minlon="16.3026276"/>
+  </metadata>
+  <wpt lat="50.444654" lon="16.303164">
+    <ele>695</ele>
+    <name>Pod Krucza Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/1833">
+      <text>Pod Krucza Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.443271" lon="16.302628">
+    <ele>722</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12945">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krucza Kopa - Odejscie na punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4446541,16.3031638;50.4439931007308,16.302961450000016;50.4432714,16.3026276">
+    <text>Pod Krucza Kopa - Odejscie na punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4446541" lon="16.3031638">
+      <ele>695</ele>
+      <time>2022-01-18T01:43:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4442561" lon="16.3030304">
+      <ele>708</ele>
+      <time>2022-01-18T01:44:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4437301" lon="16.3028925">
+      <ele>716</ele>
+      <time>2022-01-18T01:46:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4433169" lon="16.3026884">
+      <ele>721</ele>
+      <time>2022-01-18T01:48:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4432714" lon="16.3026276">
+      <ele>722</ele>
+      <time>2022-01-18T01:48:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

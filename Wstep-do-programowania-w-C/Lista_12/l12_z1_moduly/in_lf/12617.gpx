@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:08Z</time>
+    <bounds maxlat="50.8043981" maxlon="15.6686555" minlat="50.8033816" minlon="15.6675307"/>
+  </metadata>
+  <wpt lat="50.803382" lon="15.667531">
+    <ele>603</ele>
+    <name>Nad wodospadem Podgornej</name>
+    <link href="https://mapa-turystyczna.pl/node/1244">
+      <text>Nad wodospadem Podgornej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.804398" lon="15.668655">
+    <ele>573</ele>
+    <name>Wodospad Podgornej</name>
+    <link href="https://mapa-turystyczna.pl/node/8668">
+      <text>Wodospad Podgornej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad wodospadem Podgornej - Wodospad Podgornej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8033816,15.6675307;50.80390745017767,15.66796840000003;50.8043981,15.6686555">
+    <text>Nad wodospadem Podgornej - Wodospad Podgornej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8033816" lon="15.6675307">
+      <ele>603</ele>
+      <time>2022-01-17T23:53:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8037786" lon="15.6678343">
+      <ele>591</ele>
+      <time>2022-01-17T23:53:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8040363" lon="15.6681025">
+      <ele>583</ele>
+      <time>2022-01-17T23:54:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8041651" lon="15.6683922">
+      <ele>579</ele>
+      <time>2022-01-17T23:54:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8042668" lon="15.6684995">
+      <ele>576</ele>
+      <time>2022-01-17T23:54:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8043956" lon="15.6686497">
+      <ele>573</ele>
+      <time>2022-01-17T23:55:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8043981" lon="15.6686555">
+      <ele>573</ele>
+      <time>2022-01-17T23:55:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

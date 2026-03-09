@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:16Z</time>
+    <bounds maxlat="50.2858363" maxlon="17.4279106" minlat="50.2844516" minlon="17.4260706"/>
+  </metadata>
+  <wpt lat="50.284452" lon="17.426071">
+    <ele>358</ele>
+    <name>Jarnoltowek</name>
+    <link href="https://mapa-turystyczna.pl/node/2648">
+      <text>Jarnoltowek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.285836" lon="17.427911">
+    <ele>360</ele>
+    <name>Jarnoltowek, most</name>
+    <link href="https://mapa-turystyczna.pl/node/2680">
+      <text>Jarnoltowek, most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarnoltowek - Jarnoltowek, most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2844516,17.4260706;50.285075400570825,17.426731750000005;50.2858363,17.4279106">
+    <text>Jarnoltowek - Jarnoltowek, most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2844516" lon="17.4260706">
+      <ele>358</ele>
+      <time>2022-01-17T21:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2848423" lon="17.4265265">
+      <ele>360</ele>
+      <time>2022-01-17T21:36:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2853085" lon="17.426937">
+      <ele>359</ele>
+      <time>2022-01-17T21:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2858363" lon="17.4279106">
+      <ele>360</ele>
+      <time>2022-01-17T21:38:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

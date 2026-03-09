@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:58Z</time>
+    <bounds maxlat="51.5375951" maxlon="17.3455794" minlat="51.5293728" minlon="17.3379619"/>
+  </metadata>
+  <wpt lat="51.537595" lon="17.345579">
+    <ele>108</ele>
+    <name>Stawno</name>
+    <link href="https://mapa-turystyczna.pl/node/10445">
+      <text>Stawno</text>
+    </link>
+  </wpt>
+  <wpt lat="51.529373" lon="17.337962">
+    <ele>111</ele>
+    <name>Ruda Milicka</name>
+    <link href="https://mapa-turystyczna.pl/node/10446">
+      <text>Ruda Milicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stawno - Ruda Milicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5375951,17.3455794;51.5343211177498,17.342839350000006;51.5293728,17.3379619">
+    <text>Stawno - Ruda Milicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5375951" lon="17.3455794">
+      <ele>108</ele>
+      <time>2022-01-18T00:36:58Z</time>
+    </trkpt>
+    <trkpt lat="51.5310469" lon="17.3400993">
+      <ele>108</ele>
+      <time>2022-01-18T00:48:34Z</time>
+    </trkpt>
+    <trkpt lat="51.530812" lon="17.3397778">
+      <ele>109</ele>
+      <time>2022-01-18T00:49:03Z</time>
+    </trkpt>
+    <trkpt lat="51.5296306" lon="17.338544">
+      <ele>110</ele>
+      <time>2022-01-18T00:51:16Z</time>
+    </trkpt>
+    <trkpt lat="51.5293728" lon="17.3379619">
+      <ele>111</ele>
+      <time>2022-01-18T00:51:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

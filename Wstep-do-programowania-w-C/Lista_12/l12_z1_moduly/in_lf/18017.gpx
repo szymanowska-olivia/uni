@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:58Z</time>
+    <bounds maxlat="50.1739461" maxlon="19.3115487" minlat="50.1734989" minlon="19.3090325"/>
+  </metadata>
+  <wpt lat="50.173946" lon="19.309033">
+    <ele>285</ele>
+    <name>Byczyna, zrodlo Byczynki</name>
+    <link href="https://mapa-turystyczna.pl/node/10577">
+      <text>Byczyna, zrodlo Byczynki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.173499" lon="19.311549">
+    <ele>279</ele>
+    <name>Byczyna, wiata</name>
+    <link href="https://mapa-turystyczna.pl/node/12271">
+      <text>Byczyna, wiata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Byczyna, zrodlo Byczynki - Byczyna, wiata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1739461,19.3090325;50.173885200024216,19.310317149999985;50.1734989,19.3115487">
+    <text>Byczyna, zrodlo Byczynki - Byczyna, wiata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1739461" lon="19.3090325">
+      <ele>285</ele>
+      <time>2022-01-18T01:23:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1739058" lon="19.3095125">
+      <ele>283</ele>
+      <time>2022-01-18T01:24:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1739264" lon="19.3098236">
+      <ele>284</ele>
+      <time>2022-01-18T01:24:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1739333" lon="19.3100597">
+      <ele>284</ele>
+      <time>2022-01-18T01:25:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1738371" lon="19.3105746">
+      <ele>284</ele>
+      <time>2022-01-18T01:25:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1737134" lon="19.3109931">
+      <ele>282</ele>
+      <time>2022-01-18T01:26:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1736103" lon="19.3111647">
+      <ele>282</ele>
+      <time>2022-01-18T01:26:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1734989" lon="19.3115487">
+      <ele>279</ele>
+      <time>2022-01-18T01:26:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

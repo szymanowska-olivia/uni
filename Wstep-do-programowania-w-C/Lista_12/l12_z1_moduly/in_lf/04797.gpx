@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:36Z</time>
+    <bounds maxlat="51.1011303" maxlon="16.1020249" minlat="51.0984185" minlon="16.0960221"/>
+  </metadata>
+  <wpt lat="51.098419" lon="16.096022">
+    <ele>177</ele>
+    <name>Slup</name>
+    <link href="https://mapa-turystyczna.pl/node/3353">
+      <text>Slup</text>
+    </link>
+  </wpt>
+  <wpt lat="51.10113" lon="16.102025">
+    <ele>160</ele>
+    <name>Slup, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3341">
+      <text>Slup, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slup - Slup, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0984185,16.0960221;51.100565203453726,16.09934670000002;51.1011303,16.1020249">
+    <text>Slup - Slup, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0984185" lon="16.0960221">
+      <ele>177</ele>
+      <time>2022-01-17T21:46:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0994856" lon="16.0965599">
+      <ele>169</ele>
+      <time>2022-01-17T21:48:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1000001" lon="16.0966685">
+      <ele>165</ele>
+      <time>2022-01-17T21:49:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1011303" lon="16.1020249">
+      <ele>160</ele>
+      <time>2022-01-17T21:56:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:30Z</time>
+    <bounds maxlat="49.76156" maxlon="18.998962" minlat="49.761473" minlon="18.998593"/>
+  </metadata>
+  <wpt lat="49.761473" lon="18.998593">
+    <ele>921</ele>
+    <name>Pod Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/794">
+      <text>Pod Szyndzielnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.761492" lon="18.998962">
+    <ele>927</ele>
+    <name>Pod Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/4031">
+      <text>Pod Szyndzielnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Szyndzielnia - Pod Szyndzielnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.761473,18.998593;49.761556000000155,18.99874600000001;49.761492,18.998962">
+    <text>Pod Szyndzielnia - Pod Szyndzielnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.761473" lon="18.998593">
+      <ele>921</ele>
+      <time>2022-01-17T22:01:30Z</time>
+    </trkpt>
+    <trkpt lat="49.761552" lon="18.998702">
+      <ele>922</ele>
+      <time>2022-01-17T22:01:51Z</time>
+    </trkpt>
+    <trkpt lat="49.76156" lon="18.99879">
+      <ele>923</ele>
+      <time>2022-01-17T22:02:03Z</time>
+    </trkpt>
+    <trkpt lat="49.761492" lon="18.998962">
+      <ele>927</ele>
+      <time>2022-01-17T22:02:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

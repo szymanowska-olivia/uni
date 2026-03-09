@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:00Z</time>
+    <bounds maxlat="50.7412745" maxlon="15.706412" minlat="50.740789" minlon="15.7021934"/>
+  </metadata>
+  <wpt lat="50.741275" lon="15.702193">
+    <ele>1416</ele>
+    <name>Rownia pod Sniezka</name>
+    <link href="https://mapa-turystyczna.pl/node/1340">
+      <text>Rownia pod Sniezka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.741169" lon="15.706412">
+    <ele>1430</ele>
+    <name>Spalona Straznica</name>
+    <link href="https://mapa-turystyczna.pl/node/1374">
+      <text>Spalona Straznica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rownia pod Sniezka - Spalona Straznica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7412745,15.7021934;50.740803850002365,15.704406149999993;50.7411688,15.706412">
+    <text>Rownia pod Sniezka - Spalona Straznica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7412745" lon="15.7021934">
+      <ele>1416</ele>
+      <time>2022-01-17T21:07:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7411119" lon="15.7028183">
+      <ele>1420</ele>
+      <time>2022-01-17T21:07:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7408781" lon="15.7038724">
+      <ele>1424</ele>
+      <time>2022-01-17T21:09:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7408187" lon="15.7042801">
+      <ele>1425</ele>
+      <time>2022-01-17T21:09:29Z</time>
+    </trkpt>
+    <trkpt lat="50.740789" lon="15.7045322">
+      <ele>1426</ele>
+      <time>2022-01-17T21:09:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7407966" lon="15.7047522">
+      <ele>1426</ele>
+      <time>2022-01-17T21:10:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7410659" lon="15.7060783">
+      <ele>1429</ele>
+      <time>2022-01-17T21:11:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7411688" lon="15.706412">
+      <ele>1430</ele>
+      <time>2022-01-17T21:12:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

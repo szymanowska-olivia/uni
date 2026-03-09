@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:46Z</time>
+    <bounds maxlat="50.5993351" maxlon="16.1508733" minlat="50.5950887" minlon="16.1483037"/>
+  </metadata>
+  <wpt lat="50.595089" lon="16.148304">
+    <ele>481</ele>
+    <name>Teplicke skaly, vstup</name>
+    <link href="https://mapa-turystyczna.pl/node/6022">
+      <text>Teplicke skaly, vstup</text>
+    </link>
+  </wpt>
+  <wpt lat="50.599335" lon="16.150873">
+    <ele>497</ele>
+    <name>Bucnice, kemp</name>
+    <link href="https://mapa-turystyczna.pl/node/6023">
+      <text>Bucnice, kemp</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Teplicke skaly, vstup - Bucnice, kemp</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5950887,16.1483037;50.597292401285,16.14934309999997;50.5993351,16.1508733">
+    <text>Teplicke skaly, vstup - Bucnice, kemp</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5950887" lon="16.1483037">
+      <ele>481</ele>
+      <time>2022-01-17T22:42:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5956387" lon="16.1484566">
+      <ele>484</ele>
+      <time>2022-01-17T22:43:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5960844" lon="16.1485217">
+      <ele>491</ele>
+      <time>2022-01-17T22:44:57Z</time>
+    </trkpt>
+    <trkpt lat="50.5965437" lon="16.1487369">
+      <ele>493</ele>
+      <time>2022-01-17T22:46:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5969446" lon="16.1490762">
+      <ele>497</ele>
+      <time>2022-01-17T22:46:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5976402" lon="16.14961">
+      <ele>496</ele>
+      <time>2022-01-17T22:48:40Z</time>
+    </trkpt>
+    <trkpt lat="50.598145" lon="16.1499292">
+      <ele>498</ele>
+      <time>2022-01-17T22:49:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5985272" lon="16.1501196">
+      <ele>502</ele>
+      <time>2022-01-17T22:50:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5989397" lon="16.1506118">
+      <ele>499</ele>
+      <time>2022-01-17T22:51:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5992344" lon="16.1508203">
+      <ele>498</ele>
+      <time>2022-01-17T22:52:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5993351" lon="16.1508733">
+      <ele>497</ele>
+      <time>2022-01-17T22:52:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

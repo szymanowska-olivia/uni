@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:18:30Z</time>
+    <bounds maxlat="49.530755" maxlon="18.5517669" minlat="49.5287669" minlon="18.5508335"/>
+  </metadata>
+  <wpt lat="49.530755" lon="18.550833">
+    <ele>601</ele>
+    <name>Moravka, Bebek</name>
+    <link href="https://mapa-turystyczna.pl/node/7399">
+      <text>Moravka, Bebek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.528767" lon="18.551767">
+    <ele>606</ele>
+    <name>Moravka, U Bebku</name>
+    <link href="https://mapa-turystyczna.pl/node/7400">
+      <text>Moravka, U Bebku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Moravka, Bebek - Moravka, U Bebku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.530755,18.5508335;49.529853850303844,18.55110569999998;49.5287669,18.5517669">
+    <text>Moravka, Bebek - Moravka, U Bebku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.530755" lon="18.5508335">
+      <ele>601</ele>
+      <time>2022-01-17T23:18:30Z</time>
+    </trkpt>
+    <trkpt lat="49.5306094" lon="18.5509005">
+      <ele>602</ele>
+      <time>2022-01-17T23:18:52Z</time>
+    </trkpt>
+    <trkpt lat="49.5305241" lon="18.5508817">
+      <ele>602</ele>
+      <time>2022-01-17T23:19:04Z</time>
+    </trkpt>
+    <trkpt lat="49.5304109" lon="18.5508683">
+      <ele>603</ele>
+      <time>2022-01-17T23:19:20Z</time>
+    </trkpt>
+    <trkpt lat="49.5302699" lon="18.5509005">
+      <ele>604</ele>
+      <time>2022-01-17T23:19:41Z</time>
+    </trkpt>
+    <trkpt lat="49.5300262" lon="18.5510078">
+      <ele>604</ele>
+      <time>2022-01-17T23:20:17Z</time>
+    </trkpt>
+    <trkpt lat="49.5296815" lon="18.5512036">
+      <ele>603</ele>
+      <time>2022-01-17T23:21:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5294813" lon="18.5513136">
+      <ele>605</ele>
+      <time>2022-01-17T23:21:39Z</time>
+    </trkpt>
+    <trkpt lat="49.5292985" lon="18.5514584">
+      <ele>607</ele>
+      <time>2022-01-17T23:22:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5290356" lon="18.5516381">
+      <ele>608</ele>
+      <time>2022-01-17T23:22:50Z</time>
+    </trkpt>
+    <trkpt lat="49.5287669" lon="18.5517669">
+      <ele>606</ele>
+      <time>2022-01-17T23:23:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

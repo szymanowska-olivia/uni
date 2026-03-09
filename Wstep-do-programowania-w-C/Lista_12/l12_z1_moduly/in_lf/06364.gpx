@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:54Z</time>
+    <bounds maxlat="50.27872" maxlon="19.5688713" minlat="50.2762963" minlon="19.5598269"/>
+  </metadata>
+  <wpt lat="50.27872" lon="19.559827">
+    <ele>368</ele>
+    <name>Olkusz</name>
+    <link href="https://mapa-turystyczna.pl/node/4429">
+      <text>Olkusz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.276296" lon="19.568871">
+    <ele>366</ele>
+    <name>Olkusz, sad</name>
+    <link href="https://mapa-turystyczna.pl/node/4430">
+      <text>Olkusz, sad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olkusz - Olkusz, sad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.27872,19.5598269;50.277352600817565,19.564577050000015;50.2762963,19.5688713">
+    <text>Olkusz - Olkusz, sad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.27872" lon="19.5598269">
+      <ele>368</ele>
+      <time>2022-01-17T22:05:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2783266" lon="19.5617259">
+      <ele>368</ele>
+      <time>2022-01-17T22:07:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2780957" lon="19.5624501">
+      <ele>368</ele>
+      <time>2022-01-17T22:08:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2776316" lon="19.5635283">
+      <ele>364</ele>
+      <time>2022-01-17T22:10:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2770736" lon="19.5656258">
+      <ele>362</ele>
+      <time>2022-01-17T22:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2765958" lon="19.5670983">
+      <ele>363</ele>
+      <time>2022-01-17T22:14:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2762963" lon="19.5688713">
+      <ele>366</ele>
+      <time>2022-01-17T22:15:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

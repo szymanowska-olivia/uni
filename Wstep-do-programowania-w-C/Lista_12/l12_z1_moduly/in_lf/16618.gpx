@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:47Z</time>
+    <bounds maxlat="49.2096993" maxlon="22.3341854" minlat="49.2089539" minlon="22.3314709"/>
+  </metadata>
+  <wpt lat="49.209166" lon="22.331471">
+    <ele>566</ele>
+    <name>Odejscie sciezki przyrodniczej</name>
+    <link href="https://mapa-turystyczna.pl/node/11337">
+      <text>Odejscie sciezki przyrodniczej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.209699" lon="22.334185">
+    <ele>607</ele>
+    <name>Rozejscie sciezek spacerowych</name>
+    <link href="https://mapa-turystyczna.pl/node/11339">
+      <text>Rozejscie sciezek spacerowych</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki przyrodniczej - Rozejscie sciezek spacerowych</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2091662,22.3314709;49.209248300001974,22.333057499999985;49.2096993,22.3341854">
+    <text>Odejscie sciezki przyrodniczej - Rozejscie sciezek spacerowych</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2091662" lon="22.3314709">
+      <ele>566</ele>
+      <time>2022-01-18T00:59:47Z</time>
+    </trkpt>
+    <trkpt lat="49.2091221" lon="22.3318934">
+      <ele>576</ele>
+      <time>2022-01-18T01:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.208996" lon="22.3320865">
+      <ele>577</ele>
+      <time>2022-01-18T01:01:44Z</time>
+    </trkpt>
+    <trkpt lat="49.2089539" lon="22.3323226">
+      <ele>581</ele>
+      <time>2022-01-18T01:02:25Z</time>
+    </trkpt>
+    <trkpt lat="49.2090731" lon="22.3323977">
+      <ele>585</ele>
+      <time>2022-01-18T01:02:58Z</time>
+    </trkpt>
+    <trkpt lat="49.2092062" lon="22.3324942">
+      <ele>590</ele>
+      <time>2022-01-18T01:03:36Z</time>
+    </trkpt>
+    <trkpt lat="49.2092343" lon="22.332741">
+      <ele>594</ele>
+      <time>2022-01-18T01:04:18Z</time>
+    </trkpt>
+    <trkpt lat="49.2092623" lon="22.333374">
+      <ele>602</ele>
+      <time>2022-01-18T01:06:02Z</time>
+    </trkpt>
+    <trkpt lat="49.2092623" lon="22.333889">
+      <ele>607</ele>
+      <time>2022-01-18T01:07:27Z</time>
+    </trkpt>
+    <trkpt lat="49.2092763" lon="22.3340928">
+      <ele>609</ele>
+      <time>2022-01-18T01:08:00Z</time>
+    </trkpt>
+    <trkpt lat="49.2094878" lon="22.3341069">
+      <ele>609</ele>
+      <time>2022-01-18T01:08:53Z</time>
+    </trkpt>
+    <trkpt lat="49.2096993" lon="22.3341854">
+      <ele>607</ele>
+      <time>2022-01-18T01:09:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

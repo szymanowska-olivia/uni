@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:19Z</time>
+    <bounds maxlat="50.5251836" maxlon="19.5921797" minlat="50.5148251" minlon="19.5897663"/>
+  </metadata>
+  <wpt lat="50.514825" lon="19.591423">
+    <ele>328</ele>
+    <name>Siamoszyce</name>
+    <link href="https://mapa-turystyczna.pl/node/4456">
+      <text>Siamoszyce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.525184" lon="19.59218">
+    <ele>325</ele>
+    <name>Siamoszyce, kapielisko</name>
+    <link href="https://mapa-turystyczna.pl/node/4458">
+      <text>Siamoszyce, kapielisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Siamoszyce - Siamoszyce, kapielisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5148251,19.5914233;50.51991995022783,19.59089279999997;50.5251836,19.5921797">
+    <text>Siamoszyce - Siamoszyce, kapielisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5148251" lon="19.5914233">
+      <ele>328</ele>
+      <time>2022-01-17T22:06:19Z</time>
+    </trkpt>
+    <trkpt lat="50.5155096" lon="19.5910323">
+      <ele>326</ele>
+      <time>2022-01-17T22:07:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5179724" lon="19.5900882">
+      <ele>325</ele>
+      <time>2022-01-17T22:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.5181429" lon="19.5899487">
+      <ele>325</ele>
+      <time>2022-01-17T22:12:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5182248" lon="19.5897663">
+      <ele>326</ele>
+      <time>2022-01-17T22:12:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5197733" lon="19.5908177">
+      <ele>327</ele>
+      <time>2022-01-17T22:16:07Z</time>
+    </trkpt>
+    <trkpt lat="50.5200666" lon="19.5909679">
+      <ele>326</ele>
+      <time>2022-01-17T22:16:42Z</time>
+    </trkpt>
+    <trkpt lat="50.5215878" lon="19.5912362">
+      <ele>327</ele>
+      <time>2022-01-17T22:19:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5234363" lon="19.591955">
+      <ele>328</ele>
+      <time>2022-01-17T22:23:04Z</time>
+    </trkpt>
+    <trkpt lat="50.5251836" lon="19.5921797">
+      <ele>325</ele>
+      <time>2022-01-17T22:26:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

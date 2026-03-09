@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:19Z</time>
+    <bounds maxlat="50.413363" maxlon="18.9826194" minlat="50.4109557" minlon="18.9726827"/>
+  </metadata>
+  <wpt lat="50.413363" lon="18.972683">
+    <ele>275</ele>
+    <name>Zapora Kozlowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/9395">
+      <text>Zapora Kozlowa Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.410956" lon="18.982619">
+    <ele>285</ele>
+    <name>Wymyslow</name>
+    <link href="https://mapa-turystyczna.pl/node/9388">
+      <text>Wymyslow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zapora Kozlowa Gora - Wymyslow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.413363,18.9726827;50.412539457046854,18.976039349999994;50.4109557,18.9826194">
+    <text>Zapora Kozlowa Gora - Wymyslow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.413363" lon="18.9726827">
+      <ele>275</ele>
+      <time>2022-01-18T00:10:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4133566" lon="18.9727006">
+      <ele>275</ele>
+      <time>2022-01-18T00:10:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4117223" lon="18.9793781">
+      <ele>279</ele>
+      <time>2022-01-18T00:17:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4109557" lon="18.9826194">
+      <ele>285</ele>
+      <time>2022-01-18T00:20:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

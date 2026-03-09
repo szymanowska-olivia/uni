@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:06Z</time>
+    <bounds maxlat="49.7513584" maxlon="20.8496636" minlat="49.7511128" minlon="20.8492992"/>
+  </metadata>
+  <wpt lat="49.751358" lon="20.849664">
+    <ele>466</ele>
+    <name>Bukowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/3585">
+      <text>Bukowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.751113" lon="20.849299">
+    <ele>479</ele>
+    <name>Skala Diabel</name>
+    <link href="https://mapa-turystyczna.pl/node/13500">
+      <text>Skala Diabel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bukowiec - Skala Diabel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7513584,20.8496636;49.75123560015547,20.8494814;49.7511128,20.8492992">
+    <text>Bukowiec - Skala Diabel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7513584" lon="20.8496636">
+      <ele>466</ele>
+      <time>2022-01-18T01:59:06Z</time>
+    </trkpt>
+    <trkpt lat="49.7511128" lon="20.8492992">
+      <ele>479</ele>
+      <time>2022-01-18T02:01:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

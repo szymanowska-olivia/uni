@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:40Z</time>
+    <bounds maxlat="50.2605165" maxlon="17.1852618" minlat="50.2582393" minlon="17.1817749"/>
+  </metadata>
+  <wpt lat="50.258239" lon="17.181775">
+    <ele>762</ele>
+    <name>Pod Jehlanem</name>
+    <link href="https://mapa-turystyczna.pl/node/6127">
+      <text>Pod Jehlanem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.260517" lon="17.185262">
+    <ele>779</ele>
+    <name>Vyhlidkove misto</name>
+    <link href="https://mapa-turystyczna.pl/node/6211">
+      <text>Vyhlidkove misto</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jehlanem - Vyhlidkove misto</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2582393,17.1817749;50.25903150095603,17.18319120000001;50.2605165,17.1852618">
+    <text>Pod Jehlanem - Vyhlidkove misto</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2582393" lon="17.1817749">
+      <ele>762</ele>
+      <time>2022-01-17T22:47:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2585632" lon="17.1826366">
+      <ele>767</ele>
+      <time>2022-01-17T22:48:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2587297" lon="17.1827728">
+      <ele>766</ele>
+      <time>2022-01-17T22:48:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2593333" lon="17.1836096">
+      <ele>779</ele>
+      <time>2022-01-17T22:50:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2601614" lon="17.184659">
+      <ele>777</ele>
+      <time>2022-01-17T22:51:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2605165" lon="17.1852618">
+      <ele>779</ele>
+      <time>2022-01-17T22:52:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

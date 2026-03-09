@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:41Z</time>
+    <bounds maxlat="50.4252594" maxlon="18.6033826" minlat="50.4224614" minlon="18.6032668"/>
+  </metadata>
+  <wpt lat="50.425259" lon="18.603357">
+    <ele>230</ele>
+    <name>Pniow</name>
+    <link href="https://mapa-turystyczna.pl/node/9592">
+      <text>Pniow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.422461" lon="18.603267">
+    <ele>230</ele>
+    <name>Pniow, ul. Paczynska</name>
+    <link href="https://mapa-turystyczna.pl/node/9669">
+      <text>Pniow, ul. Paczynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pniow - Pniow, ul. Paczynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4252594,18.6033569;50.424244360877985,18.603369750000027;50.4224614,18.6032668">
+    <text>Pniow - Pniow, ul. Paczynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4252594" lon="18.6033569">
+      <ele>230</ele>
+      <time>2022-01-18T00:17:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4232293" lon="18.6033826">
+      <ele>232</ele>
+      <time>2022-01-18T00:21:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4224614" lon="18.6032668">
+      <ele>230</ele>
+      <time>2022-01-18T00:22:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

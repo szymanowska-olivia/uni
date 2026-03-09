@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:46:08Z</time>
+    <bounds maxlat="52.4412087" maxlon="15.112522" minlat="52.4403292" minlon="15.1104875"/>
+  </metadata>
+  <wpt lat="52.440329" lon="15.110487">
+    <ele>68</ele>
+    <name>Sulecin, promenada nad Postomia</name>
+    <link href="https://mapa-turystyczna.pl/node/13054">
+      <text>Sulecin, promenada nad Postomia</text>
+    </link>
+  </wpt>
+  <wpt lat="52.441209" lon="15.112522">
+    <ele>73</ele>
+    <name>Sulecin</name>
+    <link href="https://mapa-turystyczna.pl/node/13019">
+      <text>Sulecin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulecin, promenada nad Postomia - Sulecin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4403292,15.1104875;52.44073690029748,15.111844600000012;52.4412087,15.112522">
+    <text>Sulecin, promenada nad Postomia - Sulecin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4403292" lon="15.1104875">
+      <ele>68</ele>
+      <time>2022-01-18T01:46:08Z</time>
+    </trkpt>
+    <trkpt lat="52.4403461" lon="15.1106859">
+      <ele>68</ele>
+      <time>2022-01-18T01:46:28Z</time>
+    </trkpt>
+    <trkpt lat="52.4404638" lon="15.1111365">
+      <ele>70</ele>
+      <time>2022-01-18T01:47:16Z</time>
+    </trkpt>
+    <trkpt lat="52.440575" lon="15.1119036">
+      <ele>72</ele>
+      <time>2022-01-18T01:48:34Z</time>
+    </trkpt>
+    <trkpt lat="52.4408988" lon="15.1117856">
+      <ele>72</ele>
+      <time>2022-01-18T01:49:27Z</time>
+    </trkpt>
+    <trkpt lat="52.4410328" lon="15.1117749">
+      <ele>72</ele>
+      <time>2022-01-18T01:49:49Z</time>
+    </trkpt>
+    <trkpt lat="52.4412087" lon="15.112522">
+      <ele>73</ele>
+      <time>2022-01-18T01:51:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

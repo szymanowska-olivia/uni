@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:21Z</time>
+    <bounds maxlat="49.8248058" maxlon="20.0660563" minlat="49.8238534" minlon="20.0652468"/>
+  </metadata>
+  <wpt lat="49.823853" lon="20.065388">
+    <ele>480</ele>
+    <name>Pod Ostryszem</name>
+    <link href="https://mapa-turystyczna.pl/node/5631">
+      <text>Pod Ostryszem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.824806" lon="20.066056">
+    <ele>507</ele>
+    <name>Ostrysz</name>
+    <link href="https://mapa-turystyczna.pl/node/1673">
+      <text>Ostrysz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ostryszem - Ostrysz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8238534,20.0653877;49.82441515009356,20.065359499999964;49.8248058,20.0660563">
+    <text>Pod Ostryszem - Ostrysz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8238534" lon="20.0653877">
+      <ele>480</ele>
+      <time>2022-01-17T22:32:21Z</time>
+    </trkpt>
+    <trkpt lat="49.8239912" lon="20.0652897">
+      <ele>484</ele>
+      <time>2022-01-17T22:32:59Z</time>
+    </trkpt>
+    <trkpt lat="49.8241297" lon="20.0652468">
+      <ele>488</ele>
+      <time>2022-01-17T22:33:35Z</time>
+    </trkpt>
+    <trkpt lat="49.82432" lon="20.0652844">
+      <ele>493</ele>
+      <time>2022-01-17T22:34:23Z</time>
+    </trkpt>
+    <trkpt lat="49.8245103" lon="20.0654346">
+      <ele>499</ele>
+      <time>2022-01-17T22:35:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8246661" lon="20.0656599">
+      <ele>502</ele>
+      <time>2022-01-17T22:36:09Z</time>
+    </trkpt>
+    <trkpt lat="49.8247325" lon="20.0658581">
+      <ele>504</ele>
+      <time>2022-01-17T22:36:44Z</time>
+    </trkpt>
+    <trkpt lat="49.8248058" lon="20.0660563">
+      <ele>507</ele>
+      <time>2022-01-17T22:37:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

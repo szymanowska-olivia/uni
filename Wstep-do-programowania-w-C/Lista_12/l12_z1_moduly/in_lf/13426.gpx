@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:16Z</time>
+    <bounds maxlat="50.7708793" maxlon="15.5476547" minlat="50.7705433" minlon="15.5467487"/>
+  </metadata>
+  <wpt lat="50.770543" lon="15.546749">
+    <ele>1295</ele>
+    <name>Pod Labskou boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1277">
+      <text>Pod Labskou boudou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.770578" lon="15.547655">
+    <ele>1281</ele>
+    <name>Labsky vodopad, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/9268">
+      <text>Labsky vodopad, odb.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Labskou boudou - Labsky vodopad, odb.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7705433,15.5467487;50.77084250001447,15.547104049999989;50.7705776,15.5476547">
+    <text>Pod Labskou boudou - Labsky vodopad, odb.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7705433" lon="15.5467487">
+      <ele>1295</ele>
+      <time>2022-01-18T00:07:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7708057" lon="15.5469686">
+      <ele>1290</ele>
+      <time>2022-01-18T00:07:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7708793" lon="15.5472395">
+      <ele>1288</ele>
+      <time>2022-01-18T00:08:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7708719" lon="15.5474607">
+      <ele>1285</ele>
+      <time>2022-01-18T00:08:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7705776" lon="15.5476547">
+      <ele>1281</ele>
+      <time>2022-01-18T00:09:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

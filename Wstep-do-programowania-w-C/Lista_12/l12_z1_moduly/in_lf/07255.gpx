@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:16Z</time>
+    <bounds maxlat="49.639962" maxlon="20.237473" minlat="49.639085" minlon="20.235851"/>
+  </metadata>
+  <wpt lat="49.639962" lon="20.235851">
+    <ele>972</ele>
+    <name>Pod Krzystonowem</name>
+    <link href="https://mapa-turystyczna.pl/node/866">
+      <text>Pod Krzystonowem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.639085" lon="20.237473">
+    <ele>957</ele>
+    <name>Baza namiotowa Polana Waly</name>
+    <link href="https://mapa-turystyczna.pl/node/4923">
+      <text>Baza namiotowa Polana Waly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krzystonowem - Baza namiotowa Polana Waly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.639962,20.235851;49.639672000004516,20.236907499999983;49.639085,20.237473">
+    <text>Pod Krzystonowem - Baza namiotowa Polana Waly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.639962" lon="20.235851">
+      <ele>972</ele>
+      <time>2022-01-17T22:20:16Z</time>
+    </trkpt>
+    <trkpt lat="49.639865" lon="20.235974">
+      <ele>971</ele>
+      <time>2022-01-17T22:20:31Z</time>
+    </trkpt>
+    <trkpt lat="49.639808" lon="20.236201">
+      <ele>970</ele>
+      <time>2022-01-17T22:20:50Z</time>
+    </trkpt>
+    <trkpt lat="49.639779" lon="20.236318">
+      <ele>969</ele>
+      <time>2022-01-17T22:21:00Z</time>
+    </trkpt>
+    <trkpt lat="49.639719" lon="20.236572">
+      <ele>968</ele>
+      <time>2022-01-17T22:21:20Z</time>
+    </trkpt>
+    <trkpt lat="49.639693" lon="20.236827">
+      <ele>968</ele>
+      <time>2022-01-17T22:21:40Z</time>
+    </trkpt>
+    <trkpt lat="49.639651" lon="20.236988">
+      <ele>968</ele>
+      <time>2022-01-17T22:21:54Z</time>
+    </trkpt>
+    <trkpt lat="49.639626" lon="20.237089">
+      <ele>968</ele>
+      <time>2022-01-17T22:22:02Z</time>
+    </trkpt>
+    <trkpt lat="49.639514" lon="20.237192">
+      <ele>965</ele>
+      <time>2022-01-17T22:22:18Z</time>
+    </trkpt>
+    <trkpt lat="49.639445" lon="20.237296">
+      <ele>963</ele>
+      <time>2022-01-17T22:22:30Z</time>
+    </trkpt>
+    <trkpt lat="49.639393" lon="20.237369">
+      <ele>962</ele>
+      <time>2022-01-17T22:22:38Z</time>
+    </trkpt>
+    <trkpt lat="49.639085" lon="20.237473">
+      <ele>957</ele>
+      <time>2022-01-17T22:23:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

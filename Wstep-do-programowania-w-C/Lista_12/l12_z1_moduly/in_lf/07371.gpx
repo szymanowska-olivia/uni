@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:00Z</time>
+    <bounds maxlat="52.3628122" maxlon="20.4213953" minlat="52.3611218" minlon="20.4187239"/>
+  </metadata>
+  <wpt lat="52.361122" lon="20.421395">
+    <ele>82</ele>
+    <name>Nowiny, rozejscie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/5010">
+      <text>Nowiny, rozejscie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="52.362812" lon="20.418724">
+    <ele>80</ele>
+    <name>Nowiny, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4949">
+      <text>Nowiny, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowiny, rozejscie szlakow niebieski / zielony - Nowiny, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3611218,20.4213953;52.36228150318717,20.41936225000003;52.3628122,20.4187239">
+    <text>Nowiny, rozejscie szlakow niebieski / zielony - Nowiny, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3611218" lon="20.4213953">
+      <ele>82</ele>
+      <time>2022-01-17T22:22:00Z</time>
+    </trkpt>
+    <trkpt lat="52.3617508" lon="20.4200006">
+      <ele>82</ele>
+      <time>2022-01-17T22:24:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3628122" lon="20.4187239">
+      <ele>80</ele>
+      <time>2022-01-17T22:27:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

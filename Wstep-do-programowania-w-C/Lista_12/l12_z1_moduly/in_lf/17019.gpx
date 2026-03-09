@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:43Z</time>
+    <bounds maxlat="52.278152" maxlon="16.8299193" minlat="52.2751682" minlon="16.8135624"/>
+  </metadata>
+  <wpt lat="52.275168" lon="16.813562">
+    <ele>96</ele>
+    <name>Glaz Lesnikow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10251">
+      <text>Glaz Lesnikow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.278152" lon="16.829919">
+    <ele>101</ele>
+    <name>Puszczykowo, las</name>
+    <link href="https://mapa-turystyczna.pl/node/11632">
+      <text>Puszczykowo, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glaz Lesnikow, rozejscie szlakow - Puszczykowo, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2751682,16.8135624;52.278064700022156,16.81815730000001;52.278152,16.8299193">
+    <text>Glaz Lesnikow, rozejscie szlakow - Puszczykowo, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2751682" lon="16.8135624">
+      <ele>96</ele>
+      <time>2022-01-18T01:06:43Z</time>
+    </trkpt>
+    <trkpt lat="52.275679" lon="16.8140712">
+      <ele>95</ele>
+      <time>2022-01-18T01:07:40Z</time>
+    </trkpt>
+    <trkpt lat="52.2762173" lon="16.8142482">
+      <ele>97</ele>
+      <time>2022-01-18T01:08:32Z</time>
+    </trkpt>
+    <trkpt lat="52.2780204" lon="16.8141175">
+      <ele>101</ele>
+      <time>2022-01-18T01:11:24Z</time>
+    </trkpt>
+    <trkpt lat="52.278109" lon="16.8221971">
+      <ele>99</ele>
+      <time>2022-01-18T01:19:14Z</time>
+    </trkpt>
+    <trkpt lat="52.2780934" lon="16.8253345">
+      <ele>105</ele>
+      <time>2022-01-18T01:22:16Z</time>
+    </trkpt>
+    <trkpt lat="52.2781503" lon="16.8295731">
+      <ele>103</ele>
+      <time>2022-01-18T01:26:23Z</time>
+    </trkpt>
+    <trkpt lat="52.278152" lon="16.8299193">
+      <ele>101</ele>
+      <time>2022-01-18T01:26:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

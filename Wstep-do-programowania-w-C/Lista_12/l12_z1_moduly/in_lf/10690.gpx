@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:42Z</time>
+    <bounds maxlat="49.5933348" maxlon="18.6459392" minlat="49.5931555" minlon="18.6457488"/>
+  </metadata>
+  <wpt lat="49.593156" lon="18.645749">
+    <ele>950</ele>
+    <name>Ostry, turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7439">
+      <text>Ostry, turisticka chata</text>
+    </link>
+  </wpt>
+  <wpt lat="49.593335" lon="18.645939">
+    <ele>942</ele>
+    <name>Ostry, turisticka chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7524">
+      <text>Ostry, turisticka chata, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostry, turisticka chata - Ostry, turisticka chata, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5931555,18.6457488;49.5932108500314,18.645800450000007;49.5933348,18.6459392">
+    <text>Ostry, turisticka chata - Ostry, turisticka chata, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5931555" lon="18.6457488">
+      <ele>950</ele>
+      <time>2022-01-17T23:20:42Z</time>
+    </trkpt>
+    <trkpt lat="49.5932662" lon="18.6458521">
+      <ele>945</ele>
+      <time>2022-01-17T23:21:18Z</time>
+    </trkpt>
+    <trkpt lat="49.5933348" lon="18.6459392">
+      <ele>942</ele>
+      <time>2022-01-17T23:21:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

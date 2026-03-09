@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:42Z</time>
+    <bounds maxlat="50.3402702" maxlon="19.6007607" minlat="50.3400032" minlon="19.6004066"/>
+  </metadata>
+  <wpt lat="50.340003" lon="19.600761">
+    <ele>402</ele>
+    <name>Odejscie do kamieniolomu</name>
+    <link href="https://mapa-turystyczna.pl/node/13455">
+      <text>Odejscie do kamieniolomu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.34027" lon="19.600407">
+    <ele>404</ele>
+    <name>Kamieniolom</name>
+    <link href="https://mapa-turystyczna.pl/node/13456">
+      <text>Kamieniolom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do kamieniolomu - Kamieniolom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3400032,19.6007607;50.340066500042184,19.60063999999998;50.3402702,19.6004066">
+    <text>Odejscie do kamieniolomu - Kamieniolom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3400032" lon="19.6007607">
+      <ele>402</ele>
+      <time>2022-01-18T01:57:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3401298" lon="19.6005193">
+      <ele>404</ele>
+      <time>2022-01-18T01:58:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3402702" lon="19.6004066">
+      <ele>404</ele>
+      <time>2022-01-18T01:58:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

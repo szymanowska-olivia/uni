@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:14Z</time>
+    <bounds maxlat="50.3916539" maxlon="16.3988999" minlat="50.3912324" minlon="16.3982669"/>
+  </metadata>
+  <wpt lat="50.391232" lon="16.3989">
+    <ele>729</ele>
+    <name>Schronisko Pod Muflonem, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1860">
+      <text>Schronisko Pod Muflonem, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.391654" lon="16.398267">
+    <ele>690</ele>
+    <name>Schronisko PTTK "Pod Muflonem"</name>
+    <link href="https://mapa-turystyczna.pl/node/1861">
+      <text>Schronisko PTTK "Pod Muflonem"</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko Pod Muflonem, skrzyzowanie szlakow - Schronisko PTTK &quot;Pod Muflonem&quot;</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3912324,16.3988999;50.39132205008477,16.398604349999996;50.3916539,16.3982669">
+    <text>Schronisko Pod Muflonem, skrzyzowanie szlakow - Schronisko PTTK &quot;Pod Muflonem&quot;</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3912324" lon="16.3988999">
+      <ele>729</ele>
+      <time>2022-01-17T21:18:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3914117" lon="16.3983088">
+      <ele>702</ele>
+      <time>2022-01-17T21:18:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3916048" lon="16.3983346">
+      <ele>693</ele>
+      <time>2022-01-17T21:19:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3916539" lon="16.3982669">
+      <ele>690</ele>
+      <time>2022-01-17T21:19:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

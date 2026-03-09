@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:27Z</time>
+    <bounds maxlat="52.0415647" maxlon="21.041632" minlat="52.0401755" minlon="21.0410472"/>
+  </metadata>
+  <wpt lat="52.041565" lon="21.041632">
+    <ele>110</ele>
+    <name>Zimne Doly</name>
+    <link href="https://mapa-turystyczna.pl/node/11919">
+      <text>Zimne Doly</text>
+    </link>
+  </wpt>
+  <wpt lat="52.040175" lon="21.041047">
+    <ele>106</ele>
+    <name>Zimne Doly</name>
+    <link href="https://mapa-turystyczna.pl/node/11920">
+      <text>Zimne Doly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zimne Doly - Zimne Doly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0415647,21.041632;52.040869300035205,21.041483050000032;52.0401755,21.0410472">
+    <text>Zimne Doly - Zimne Doly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0415647" lon="21.041632">
+      <ele>110</ele>
+      <time>2022-01-18T01:15:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0413836" lon="21.0415575">
+      <ele>111</ele>
+      <time>2022-01-18T01:15:42Z</time>
+    </trkpt>
+    <trkpt lat="52.0411365" lon="21.0415045">
+      <ele>111</ele>
+      <time>2022-01-18T01:16:03Z</time>
+    </trkpt>
+    <trkpt lat="52.0409254" lon="21.0415045">
+      <ele>110</ele>
+      <time>2022-01-18T01:16:21Z</time>
+    </trkpt>
+    <trkpt lat="52.0408132" lon="21.0414616">
+      <ele>110</ele>
+      <time>2022-01-18T01:16:30Z</time>
+    </trkpt>
+    <trkpt lat="52.040536" lon="21.0412685">
+      <ele>108</ele>
+      <time>2022-01-18T01:16:55Z</time>
+    </trkpt>
+    <trkpt lat="52.0401755" lon="21.0410472">
+      <ele>106</ele>
+      <time>2022-01-18T01:17:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

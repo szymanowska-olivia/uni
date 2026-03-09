@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:09Z</time>
+    <bounds maxlat="50.6922746" maxlon="16.3148528" minlat="50.6896548" minlon="16.304183"/>
+  </metadata>
+  <wpt lat="50.689736" lon="16.304183">
+    <ele>837</ele>
+    <name>Przelecz pod Jelencem</name>
+    <link href="https://mapa-turystyczna.pl/node/2335">
+      <text>Przelecz pod Jelencem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.692275" lon="16.314853">
+    <ele>826</ele>
+    <name>Skalna Brama</name>
+    <link href="https://mapa-turystyczna.pl/node/2336">
+      <text>Skalna Brama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Jelencem - Skalna Brama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6897359,16.304183;50.69030585047608,16.309088099999983;50.6922746,16.3148528">
+    <text>Przelecz pod Jelencem - Skalna Brama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6897359" lon="16.304183">
+      <ele>837</ele>
+      <time>2022-01-17T21:29:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6896548" lon="16.3048174">
+      <ele>837</ele>
+      <time>2022-01-17T21:30:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6897062" lon="16.3054571">
+      <ele>843</ele>
+      <time>2022-01-17T21:31:16Z</time>
+    </trkpt>
+    <trkpt lat="50.6897797" lon="16.3059332">
+      <ele>848</ele>
+      <time>2022-01-17T21:32:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6900945" lon="16.307289">
+      <ele>860</ele>
+      <time>2022-01-17T21:34:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6905172" lon="16.3108872">
+      <ele>894</ele>
+      <time>2022-01-17T21:40:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6904735" lon="16.3119775">
+      <ele>897</ele>
+      <time>2022-01-17T21:42:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6905796" lon="16.3123878">
+      <ele>892</ele>
+      <time>2022-01-17T21:42:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6919296" lon="16.3145578">
+      <ele>829</ele>
+      <time>2022-01-17T21:48:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6922746" lon="16.3148528">
+      <ele>826</ele>
+      <time>2022-01-17T21:49:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:18Z</time>
+    <bounds maxlat="50.6837459" maxlon="16.2737983" minlat="50.6835102" minlon="16.2733309"/>
+  </metadata>
+  <wpt lat="50.68351" lon="16.273331">
+    <ele>773</ele>
+    <name>Sokolowiec, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/7730">
+      <text>Sokolowiec, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.683746" lon="16.273798">
+    <ele>771</ele>
+    <name>Sokolowiec, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/7729">
+      <text>Sokolowiec, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sokolowiec, skrzyzowanie - Sokolowiec, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6835102,16.2733309;50.68361770000521,16.273623050000005;50.6837459,16.2737983">
+    <text>Sokolowiec, skrzyzowanie - Sokolowiec, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6835102" lon="16.2733309">
+      <ele>773</ele>
+      <time>2022-01-17T23:26:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6835956" lon="16.2734836">
+      <ele>771</ele>
+      <time>2022-01-17T23:26:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6836398" lon="16.2737625">
+      <ele>771</ele>
+      <time>2022-01-17T23:27:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6837459" lon="16.2737983">
+      <ele>771</ele>
+      <time>2022-01-17T23:27:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

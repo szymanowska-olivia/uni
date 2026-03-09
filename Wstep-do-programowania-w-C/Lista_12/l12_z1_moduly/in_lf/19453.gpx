@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:41Z</time>
+    <bounds maxlat="50.8118669" maxlon="15.3567685" minlat="50.811589" minlon="15.3523207"/>
+  </metadata>
+  <wpt lat="50.811589" lon="15.352321">
+    <ele>895</ele>
+    <name>Pod Bukovcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2287">
+      <text>Pod Bukovcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.811694" lon="15.356768">
+    <ele>913</ele>
+    <name>Pralouka</name>
+    <link href="https://mapa-turystyczna.pl/node/13136">
+      <text>Pralouka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bukovcem - Pralouka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.811589,15.3523207;50.811866900000005,15.35442885000002;50.8116943,15.3567685">
+    <text>Pod Bukovcem - Pralouka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.811589" lon="15.3523207">
+      <ele>895</ele>
+      <time>2022-01-18T01:48:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8117246" lon="15.3535652">
+      <ele>898</ele>
+      <time>2022-01-18T01:50:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8118669" lon="15.3540587">
+      <ele>900</ele>
+      <time>2022-01-18T01:50:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8118669" lon="15.354799">
+      <ele>903</ele>
+      <time>2022-01-18T01:51:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8117415" lon="15.3563064">
+      <ele>909</ele>
+      <time>2022-01-18T01:53:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8116991" lon="15.3567597">
+      <ele>913</ele>
+      <time>2022-01-18T01:53:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8116943" lon="15.3567685">
+      <ele>913</ele>
+      <time>2022-01-18T01:53:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

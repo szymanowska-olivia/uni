@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:24Z</time>
+    <bounds maxlat="50.1435935" maxlon="19.1762856" minlat="50.1339644" minlon="19.1701289"/>
+  </metadata>
+  <wpt lat="50.133964" lon="19.170129">
+    <ele>259</ele>
+    <name>Imielin, Wioski</name>
+    <link href="https://mapa-turystyczna.pl/node/9849">
+      <text>Imielin, Wioski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.143489" lon="19.176286">
+    <ele>257</ele>
+    <name>Imielin, przejazd kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11745">
+      <text>Imielin, przejazd kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Imielin, Wioski - Imielin, przejazd kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1339644,19.1701289;50.136599614251494,19.17214639999998;50.1434894,19.1762856">
+    <text>Imielin, Wioski - Imielin, przejazd kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1339644" lon="19.1701289">
+      <ele>259</ele>
+      <time>2022-01-18T01:10:24Z</time>
+    </trkpt>
+    <trkpt lat="50.13412" lon="19.1702474">
+      <ele>258</ele>
+      <time>2022-01-18T01:10:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1390791" lon="19.1740454">
+      <ele>260</ele>
+      <time>2022-01-18T01:20:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1403329" lon="19.1750096">
+      <ele>258</ele>
+      <time>2022-01-18T01:23:01Z</time>
+    </trkpt>
+    <trkpt lat="50.141244" lon="19.1757285">
+      <ele>258</ele>
+      <time>2022-01-18T01:24:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1413761" lon="19.1758036">
+      <ele>258</ele>
+      <time>2022-01-18T01:25:04Z</time>
+    </trkpt>
+    <trkpt lat="50.141505" lon="19.1758345">
+      <ele>258</ele>
+      <time>2022-01-18T01:25:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1415877" lon="19.1758113">
+      <ele>259</ele>
+      <time>2022-01-18T01:25:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1434044" lon="19.1751371">
+      <ele>256</ele>
+      <time>2022-01-18T01:28:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1434602" lon="19.1751309">
+      <ele>256</ele>
+      <time>2022-01-18T01:28:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1435935" lon="19.1751693">
+      <ele>256</ele>
+      <time>2022-01-18T01:29:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1434894" lon="19.1762856">
+      <ele>257</ele>
+      <time>2022-01-18T01:30:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

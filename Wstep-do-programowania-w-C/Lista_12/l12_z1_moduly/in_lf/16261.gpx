@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:49Z</time>
+    <bounds maxlat="49.4303713" maxlon="22.5959077" minlat="49.430096" minlon="22.589736"/>
+  </metadata>
+  <wpt lat="49.430371" lon="22.595908">
+    <ele>448</ele>
+    <name>Ustrzyki Dolne</name>
+    <link href="https://mapa-turystyczna.pl/node/398">
+      <text>Ustrzyki Dolne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.430096" lon="22.589736">
+    <ele>457</ele>
+    <name>Ustrzyki Dolne, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11097">
+      <text>Ustrzyki Dolne, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustrzyki Dolne - Ustrzyki Dolne, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4303713,22.5959077;49.430273200003704,22.59413420000001;49.430096,22.589736">
+    <text>Ustrzyki Dolne - Ustrzyki Dolne, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4303713" lon="22.5959077">
+      <ele>448</ele>
+      <time>2022-01-18T00:53:49Z</time>
+    </trkpt>
+    <trkpt lat="49.4302922" lon="22.5954989">
+      <ele>450</ele>
+      <time>2022-01-18T00:54:30Z</time>
+    </trkpt>
+    <trkpt lat="49.4302542" lon="22.5927695">
+      <ele>454</ele>
+      <time>2022-01-18T00:58:55Z</time>
+    </trkpt>
+    <trkpt lat="49.4301793" lon="22.5911455">
+      <ele>454</ele>
+      <time>2022-01-18T01:01:32Z</time>
+    </trkpt>
+    <trkpt lat="49.430096" lon="22.589736">
+      <ele>457</ele>
+      <time>2022-01-18T01:03:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

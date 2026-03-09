@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:52Z</time>
+    <bounds maxlat="50.7109858" maxlon="16.2317176" minlat="50.7085529" minlon="16.2242532"/>
+  </metadata>
+  <wpt lat="50.710986" lon="16.231718">
+    <ele>564</ele>
+    <name>Unislaw Slaski, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2527">
+      <text>Unislaw Slaski, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.708553" lon="16.224253">
+    <ele>553</ele>
+    <name>Unislaw Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/2330">
+      <text>Unislaw Dolny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Unislaw Slaski, skrzyzowanie - Unislaw Dolny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7109858,16.2317176;50.71004420010923,16.22789295000001;50.7085529,16.2242532">
+    <text>Unislaw Slaski, skrzyzowanie - Unislaw Dolny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7109858" lon="16.2317176">
+      <ele>564</ele>
+      <time>2022-01-17T21:32:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7108059" lon="16.231247">
+      <ele>565</ele>
+      <time>2022-01-17T21:33:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7105151" lon="16.2299281">
+      <ele>563</ele>
+      <time>2022-01-17T21:35:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7101454" lon="16.2281957">
+      <ele>559</ele>
+      <time>2022-01-17T21:37:19Z</time>
+    </trkpt>
+    <trkpt lat="50.709943" lon="16.2275902">
+      <ele>557</ele>
+      <time>2022-01-17T21:38:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7096726" lon="16.2269848">
+      <ele>556</ele>
+      <time>2022-01-17T21:39:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7087105" lon="16.2249584">
+      <ele>556</ele>
+      <time>2022-01-17T21:41:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7085529" lon="16.2242532">
+      <ele>553</ele>
+      <time>2022-01-17T21:42:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

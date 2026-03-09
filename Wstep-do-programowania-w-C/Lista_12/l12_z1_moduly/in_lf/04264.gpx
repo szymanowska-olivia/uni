@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:06Z</time>
+    <bounds maxlat="50.4027744" maxlon="16.352556" minlat="50.3994618" minlon="16.3478748"/>
+  </metadata>
+  <wpt lat="50.402774" lon="16.347875">
+    <ele>697</ele>
+    <name>Bukowy Stawek</name>
+    <link href="https://mapa-turystyczna.pl/node/1838">
+      <text>Bukowy Stawek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.399462" lon="16.352556">
+    <ele>675</ele>
+    <name>Ludowe</name>
+    <link href="https://mapa-turystyczna.pl/node/2970">
+      <text>Ludowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bukowy Stawek - Ludowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4027744,16.3478748;50.40133875039195,16.350517649999983;50.3994618,16.352556">
+    <text>Bukowy Stawek - Ludowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4027744" lon="16.3478748">
+      <ele>697</ele>
+      <time>2022-01-17T21:40:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4026486" lon="16.3479657">
+      <ele>697</ele>
+      <time>2022-01-17T21:40:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4025436" lon="16.3481273">
+      <ele>698</ele>
+      <time>2022-01-17T21:40:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4024304" lon="16.3483919">
+      <ele>698</ele>
+      <time>2022-01-17T21:41:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4020795" lon="16.3489706">
+      <ele>697</ele>
+      <time>2022-01-17T21:42:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4015315" lon="16.3501443">
+      <ele>690</ele>
+      <time>2022-01-17T21:44:16Z</time>
+    </trkpt>
+    <trkpt lat="50.401146" lon="16.350891">
+      <ele>684</ele>
+      <time>2022-01-17T21:45:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4007255" lon="16.351583">
+      <ele>680</ele>
+      <time>2022-01-17T21:46:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4004646" lon="16.3518126">
+      <ele>679</ele>
+      <time>2022-01-17T21:47:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4001245" lon="16.3520524">
+      <ele>676</ele>
+      <time>2022-01-17T21:48:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3999825" lon="16.3523974">
+      <ele>677</ele>
+      <time>2022-01-17T21:48:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3998792" lon="16.3525057">
+      <ele>677</ele>
+      <time>2022-01-17T21:49:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3994618" lon="16.352556">
+      <ele>675</ele>
+      <time>2022-01-17T21:50:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

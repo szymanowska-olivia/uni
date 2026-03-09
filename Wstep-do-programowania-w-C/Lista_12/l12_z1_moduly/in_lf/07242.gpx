@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:01Z</time>
+    <bounds maxlat="49.310359" maxlon="21.9889105" minlat="49.3085173" minlon="21.9832208"/>
+  </metadata>
+  <wpt lat="49.310359" lon="21.983221">
+    <ele>810</ele>
+    <name>Garb Sredni</name>
+    <link href="https://mapa-turystyczna.pl/node/4912">
+      <text>Garb Sredni</text>
+    </link>
+  </wpt>
+  <wpt lat="49.308517" lon="21.98891">
+    <ele>797</ele>
+    <name>Pod Garbem Srednim</name>
+    <link href="https://mapa-turystyczna.pl/node/446">
+      <text>Pod Garbem Srednim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Garb Sredni - Pod Garbem Srednim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.310359,21.9832208;49.30949750203695,21.984842199999996;49.3085173,21.9889105">
+    <text>Garb Sredni - Pod Garbem Srednim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.310359" lon="21.9832208">
+      <ele>810</ele>
+      <time>2022-01-17T22:20:01Z</time>
+    </trkpt>
+    <trkpt lat="49.3099455" lon="21.9836721">
+      <ele>800</ele>
+      <time>2022-01-17T22:21:14Z</time>
+    </trkpt>
+    <trkpt lat="49.3090495" lon="21.9860123">
+      <ele>783</ele>
+      <time>2022-01-17T22:25:23Z</time>
+    </trkpt>
+    <trkpt lat="49.3087414" lon="21.9879764">
+      <ele>797</ele>
+      <time>2022-01-17T22:28:30Z</time>
+    </trkpt>
+    <trkpt lat="49.3085173" lon="21.9889105">
+      <ele>797</ele>
+      <time>2022-01-17T22:30:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

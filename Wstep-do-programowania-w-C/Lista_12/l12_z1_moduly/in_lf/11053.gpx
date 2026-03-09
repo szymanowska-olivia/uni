@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:36Z</time>
+    <bounds maxlat="49.7872838" maxlon="19.1941645" minlat="49.7869948" minlon="19.192772"/>
+  </metadata>
+  <wpt lat="49.787233" lon="19.192772">
+    <ele>334</ele>
+    <name>Miedzybrodzie Bialskie, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1029">
+      <text>Miedzybrodzie Bialskie, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.786995" lon="19.194164">
+    <ele>333</ele>
+    <name>Miedzybrodzie Bialskie</name>
+    <link href="https://mapa-turystyczna.pl/node/7783">
+      <text>Miedzybrodzie Bialskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzybrodzie Bialskie, skrzyzowanie - Miedzybrodzie Bialskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7872329,19.192772;49.78727360000107,19.193500199999978;49.7869948,19.1941645">
+    <text>Miedzybrodzie Bialskie, skrzyzowanie - Miedzybrodzie Bialskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7872329" lon="19.192772">
+      <ele>334</ele>
+      <time>2022-01-17T23:27:36Z</time>
+    </trkpt>
+    <trkpt lat="49.7872634" lon="19.1932977">
+      <ele>334</ele>
+      <time>2022-01-17T23:28:12Z</time>
+    </trkpt>
+    <trkpt lat="49.7872838" lon="19.1937027">
+      <ele>335</ele>
+      <time>2022-01-17T23:28:39Z</time>
+    </trkpt>
+    <trkpt lat="49.7872749" lon="19.194113">
+      <ele>334</ele>
+      <time>2022-01-17T23:29:07Z</time>
+    </trkpt>
+    <trkpt lat="49.7869948" lon="19.1941645">
+      <ele>333</ele>
+      <time>2022-01-17T23:29:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

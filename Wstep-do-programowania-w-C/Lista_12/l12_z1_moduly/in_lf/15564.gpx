@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:16Z</time>
+    <bounds maxlat="52.9751807" maxlon="16.8499566" minlat="52.9740889" minlon="16.8490232"/>
+  </metadata>
+  <wpt lat="52.975181" lon="16.849023">
+    <ele>193</ele>
+    <name>Gontyniec</name>
+    <link href="https://mapa-turystyczna.pl/node/10614">
+      <text>Gontyniec</text>
+    </link>
+  </wpt>
+  <wpt lat="52.974089" lon="16.849957">
+    <ele>186</ele>
+    <name>Gontyniec, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10615">
+      <text>Gontyniec, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gontyniec - Gontyniec, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9751807,16.8490232;52.9747714019383,16.84927280000002;52.9740889,16.8499566">
+    <text>Gontyniec - Gontyniec, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9751807" lon="16.8490232">
+      <ele>193</ele>
+      <time>2022-01-18T00:41:16Z</time>
+    </trkpt>
+    <trkpt lat="52.9743621" lon="16.8495224">
+      <ele>187</ele>
+      <time>2022-01-18T00:42:40Z</time>
+    </trkpt>
+    <trkpt lat="52.9740889" lon="16.8499566">
+      <ele>186</ele>
+      <time>2022-01-18T00:43:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

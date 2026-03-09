@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:16Z</time>
+    <bounds maxlat="50.7302986" maxlon="15.4736804" minlat="50.7299306" minlon="15.4729794"/>
+  </metadata>
+  <wpt lat="50.730299" lon="15.472979">
+    <ele>606</ele>
+    <name>Horni Rokytnice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5817">
+      <text>Horni Rokytnice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.729931" lon="15.473539">
+    <ele>606</ele>
+    <name>Horni Rokytnice, autobusove nadrazi</name>
+    <link href="https://mapa-turystyczna.pl/node/5816">
+      <text>Horni Rokytnice, autobusove nadrazi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Rokytnice, rozc. - Horni Rokytnice, autobusove nadrazi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7302986,15.4729794;50.73017095017391,15.473329899999966;50.7299306,15.4735391">
+    <text>Horni Rokytnice, rozc. - Horni Rokytnice, autobusove nadrazi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7302986" lon="15.4729794">
+      <ele>606</ele>
+      <time>2022-01-17T22:37:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7300433" lon="15.4736804">
+      <ele>608</ele>
+      <time>2022-01-17T22:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7299306" lon="15.4735391">
+      <ele>606</ele>
+      <time>2022-01-17T22:38:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

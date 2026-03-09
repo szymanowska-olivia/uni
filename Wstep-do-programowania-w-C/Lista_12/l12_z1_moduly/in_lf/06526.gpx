@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:39Z</time>
+    <bounds maxlat="50.4545361" maxlon="19.5479017" minlat="50.4538803" minlon="19.5478964"/>
+  </metadata>
+  <wpt lat="50.45388" lon="19.547896">
+    <ele>433</ele>
+    <name>Podzamcze</name>
+    <link href="https://mapa-turystyczna.pl/node/4442">
+      <text>Podzamcze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.454536" lon="19.547902">
+    <ele>430</ele>
+    <name>Podzamcze, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4554">
+      <text>Podzamcze, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podzamcze - Podzamcze, ul. Wojska Polskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4538803,19.5478964;50.45420820113636,19.547899049999966;50.4545361,19.5479017">
+    <text>Podzamcze - Podzamcze, ul. Wojska Polskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4538803" lon="19.5478964">
+      <ele>433</ele>
+      <time>2022-01-17T22:08:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4545361" lon="19.5479017">
+      <ele>430</ele>
+      <time>2022-01-17T22:09:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

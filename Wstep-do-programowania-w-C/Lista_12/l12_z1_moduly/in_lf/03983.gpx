@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:29Z</time>
+    <bounds maxlat="50.6373364" maxlon="16.9298029" minlat="50.6350534" minlon="16.9249427"/>
+  </metadata>
+  <wpt lat="50.635053" lon="16.924943">
+    <ele>269</ele>
+    <name>Pod Zameczna</name>
+    <link href="https://mapa-turystyczna.pl/node/2781">
+      <text>Pod Zameczna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.637336" lon="16.929803">
+    <ele>267</ele>
+    <name>Zameczny Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/2782">
+      <text>Zameczny Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Zameczna - Zameczny Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6350534,16.9249427;50.63615406288681,16.92723599999996;50.6373364,16.9298029">
+    <text>Pod Zameczna - Zameczny Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6350534" lon="16.9249427">
+      <ele>269</ele>
+      <time>2022-01-17T21:36:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6372547" lon="16.9295293">
+      <ele>265</ele>
+      <time>2022-01-17T21:41:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6373364" lon="16.9298029">
+      <ele>267</ele>
+      <time>2022-01-17T21:41:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

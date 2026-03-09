@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:42Z</time>
+    <bounds maxlat="50.7255593" maxlon="15.606814" minlat="50.7253579" minlon="15.6057263"/>
+  </metadata>
+  <wpt lat="50.725363" lon="15.605726">
+    <ele>717</ele>
+    <name>Spindleruv Mlyn, most</name>
+    <link href="https://mapa-turystyczna.pl/node/4868">
+      <text>Spindleruv Mlyn, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.725559" lon="15.606814">
+    <ele>713</ele>
+    <name>Spindleruv Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/1375">
+      <text>Spindleruv Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spindleruv Mlyn, most - Spindleruv Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7253627,15.6057263;50.72538250000646,15.606377649999992;50.7255593,15.606814">
+    <text>Spindleruv Mlyn, most - Spindleruv Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7253627" lon="15.6057263">
+      <ele>717</ele>
+      <time>2022-01-17T22:18:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7253579" lon="15.6062632">
+      <ele>714</ele>
+      <time>2022-01-17T22:19:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7254071" lon="15.6064921">
+      <ele>714</ele>
+      <time>2022-01-17T22:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7255273" lon="15.606653">
+      <ele>713</ele>
+      <time>2022-01-17T22:19:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7255593" lon="15.606814">
+      <ele>713</ele>
+      <time>2022-01-17T22:19:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

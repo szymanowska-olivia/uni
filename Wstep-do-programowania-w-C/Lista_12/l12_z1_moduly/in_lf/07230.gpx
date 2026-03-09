@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:48Z</time>
+    <bounds maxlat="50.524082" maxlon="16.4911973" minlat="50.5176972" minlon="16.482563"/>
+  </metadata>
+  <wpt lat="50.517697" lon="16.491197">
+    <ele>326</ele>
+    <name>Scinawka Srednia</name>
+    <link href="https://mapa-turystyczna.pl/node/1805">
+      <text>Scinawka Srednia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.524082" lon="16.482786">
+    <ele>325</ele>
+    <name>Zamek Kapitanowo</name>
+    <link href="https://mapa-turystyczna.pl/node/4905">
+      <text>Zamek Kapitanowo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Scinawka Srednia - Zamek Kapitanowo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5176972,16.4911973;50.52048510133585,16.485384299999986;50.524082,16.4827859">
+    <text>Scinawka Srednia - Zamek Kapitanowo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5176972" lon="16.4911973">
+      <ele>326</ele>
+      <time>2022-01-17T22:19:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5181082" lon="16.4902022">
+      <ele>326</ele>
+      <time>2022-01-17T22:21:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5193378" lon="16.4882201">
+      <ele>326</ele>
+      <time>2022-01-17T22:23:59Z</time>
+    </trkpt>
+    <trkpt lat="50.52013" lon="16.4862151">
+      <ele>323</ele>
+      <time>2022-01-17T22:26:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5208402" lon="16.4845535">
+      <ele>324</ele>
+      <time>2022-01-17T22:28:35Z</time>
+    </trkpt>
+    <trkpt lat="50.5217279" lon="16.4831279">
+      <ele>322</ele>
+      <time>2022-01-17T22:30:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5220898" lon="16.4826512">
+      <ele>322</ele>
+      <time>2022-01-17T22:31:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5224549" lon="16.482563">
+      <ele>323</ele>
+      <time>2022-01-17T22:32:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5231423" lon="16.4827227">
+      <ele>324</ele>
+      <time>2022-01-17T22:33:14Z</time>
+    </trkpt>
+    <trkpt lat="50.524082" lon="16.4827859">
+      <ele>325</ele>
+      <time>2022-01-17T22:34:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

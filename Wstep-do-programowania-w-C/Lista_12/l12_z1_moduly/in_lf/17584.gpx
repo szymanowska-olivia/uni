@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:55Z</time>
+    <bounds maxlat="52.0792363" maxlon="21.1198527" minlat="52.0772011" minlon="21.1176314"/>
+  </metadata>
+  <wpt lat="52.077201" lon="21.119853">
+    <ele>103</ele>
+    <name>Konstancin-Jeziorna, ul. Zolkiewskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11933">
+      <text>Konstancin-Jeziorna, ul. Zolkiewskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.079236" lon="21.118558">
+    <ele>97</ele>
+    <name>Konstancin-Jeziorna, ul. Ptasia</name>
+    <link href="https://mapa-turystyczna.pl/node/11934">
+      <text>Konstancin-Jeziorna, ul. Ptasia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna, ul. Zolkiewskiego - Konstancin-Jeziorna, ul. Ptasia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0772011,21.1198527;52.078135403077894,21.11795595000001;52.0792363,21.1185582">
+    <text>Konstancin-Jeziorna, ul. Zolkiewskiego - Konstancin-Jeziorna, ul. Ptasia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0772011" lon="21.1198527">
+      <ele>103</ele>
+      <time>2022-01-18T01:15:55Z</time>
+    </trkpt>
+    <trkpt lat="52.0774233" lon="21.1178513">
+      <ele>96</ele>
+      <time>2022-01-18T01:17:51Z</time>
+    </trkpt>
+    <trkpt lat="52.0774728" lon="21.1176314">
+      <ele>95</ele>
+      <time>2022-01-18T01:18:04Z</time>
+    </trkpt>
+    <trkpt lat="52.0776112" lon="21.1176743">
+      <ele>95</ele>
+      <time>2022-01-18T01:18:17Z</time>
+    </trkpt>
+    <trkpt lat="52.0786596" lon="21.1182376">
+      <ele>97</ele>
+      <time>2022-01-18T01:19:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0792363" lon="21.1185582">
+      <ele>97</ele>
+      <time>2022-01-18T01:20:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

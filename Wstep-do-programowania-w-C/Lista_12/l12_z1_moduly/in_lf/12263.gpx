@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:47:29Z</time>
+    <bounds maxlat="50.8380172" maxlon="20.5939291" minlat="50.8377547" minlon="20.5867858"/>
+  </metadata>
+  <wpt lat="50.837755" lon="20.586786">
+    <ele>333</ele>
+    <name>Przelecz pod Obrazikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/8447">
+      <text>Przelecz pod Obrazikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.837866" lon="20.593929">
+    <ele>367</ele>
+    <name>Pierscienica</name>
+    <link href="https://mapa-turystyczna.pl/node/8445">
+      <text>Pierscienica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Obrazikiem - Pierscienica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8377547,20.5867858;50.837995200005196,20.59017334999999;50.8378664,20.5939291">
+    <text>Przelecz pod Obrazikiem - Pierscienica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8377547" lon="20.5867858">
+      <ele>333</ele>
+      <time>2022-01-17T23:47:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8378309" lon="20.5870164">
+      <ele>334</ele>
+      <time>2022-01-17T23:47:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8379283" lon="20.5879297">
+      <ele>337</ele>
+      <time>2022-01-17T23:49:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8379702" lon="20.5885902">
+      <ele>343</ele>
+      <time>2022-01-17T23:50:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8379444" lon="20.5891005">
+      <ele>349</ele>
+      <time>2022-01-17T23:50:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8380172" lon="20.58994">
+      <ele>353</ele>
+      <time>2022-01-17T23:51:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8379732" lon="20.5904067">
+      <ele>353</ele>
+      <time>2022-01-17T23:52:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8379664" lon="20.5914903">
+      <ele>360</ele>
+      <time>2022-01-17T23:54:04Z</time>
+    </trkpt>
+    <trkpt lat="50.837797" lon="20.5925766">
+      <ele>365</ele>
+      <time>2022-01-17T23:55:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8378106" lon="20.5930299">
+      <ele>366</ele>
+      <time>2022-01-17T23:56:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8378664" lon="20.5939291">
+      <ele>367</ele>
+      <time>2022-01-17T23:57:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

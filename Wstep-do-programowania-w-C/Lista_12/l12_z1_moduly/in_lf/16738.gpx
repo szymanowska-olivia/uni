@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:04Z</time>
+    <bounds maxlat="52.3925392" maxlon="20.8715554" minlat="52.3906312" minlon="20.8703728"/>
+  </metadata>
+  <wpt lat="52.392539" lon="20.870979">
+    <ele>86</ele>
+    <name>Nadzorcowka</name>
+    <link href="https://mapa-turystyczna.pl/node/11431">
+      <text>Nadzorcowka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.390631" lon="20.870373">
+    <ele>90</ele>
+    <name>Rozejscie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11432">
+      <text>Rozejscie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nadzorcowka - Rozejscie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3925392,20.8709786;52.391715401468964,20.87142125;52.3906312,20.8703728">
+    <text>Nadzorcowka - Rozejscie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3925392" lon="20.8709786">
+      <ele>86</ele>
+      <time>2022-01-18T01:02:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3923112" lon="20.8714803">
+      <ele>85</ele>
+      <time>2022-01-18T01:02:54Z</time>
+    </trkpt>
+    <trkpt lat="52.3921934" lon="20.8715554">
+      <ele>85</ele>
+      <time>2022-01-18T01:03:11Z</time>
+    </trkpt>
+    <trkpt lat="52.3920755" lon="20.8715446">
+      <ele>86</ele>
+      <time>2022-01-18T01:03:26Z</time>
+    </trkpt>
+    <trkpt lat="52.3913553" lon="20.8712979">
+      <ele>89</ele>
+      <time>2022-01-18T01:05:03Z</time>
+    </trkpt>
+    <trkpt lat="52.3911262" lon="20.871094">
+      <ele>91</ele>
+      <time>2022-01-18T01:05:37Z</time>
+    </trkpt>
+    <trkpt lat="52.3908577" lon="20.8706327">
+      <ele>90</ele>
+      <time>2022-01-18T01:06:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3906312" lon="20.8703728">
+      <ele>90</ele>
+      <time>2022-01-18T01:07:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

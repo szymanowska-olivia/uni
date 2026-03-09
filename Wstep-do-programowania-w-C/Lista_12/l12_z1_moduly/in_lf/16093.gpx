@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:51Z</time>
+    <bounds maxlat="49.516528" maxlon="20.142282" minlat="49.516236" minlon="20.141735"/>
+  </metadata>
+  <wpt lat="49.516236" lon="20.142282">
+    <ele>978</ele>
+    <name>Odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11002">
+      <text>Odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.516528" lon="20.141735">
+    <ele>981</ele>
+    <name>Odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11003">
+      <text>Odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki edukacyjnej - Odejscie sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.516236,20.142282;49.516386500032645,20.142012000000012;49.516528,20.141735">
+    <text>Odejscie sciezki edukacyjnej - Odejscie sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.516236" lon="20.142282">
+      <ele>978</ele>
+      <time>2022-01-18T00:50:51Z</time>
+    </trkpt>
+    <trkpt lat="49.51633" lon="20.142155">
+      <ele>978</ele>
+      <time>2022-01-18T00:51:07Z</time>
+    </trkpt>
+    <trkpt lat="49.516443" lon="20.141869">
+      <ele>979</ele>
+      <time>2022-01-18T00:51:35Z</time>
+    </trkpt>
+    <trkpt lat="49.516528" lon="20.141735">
+      <ele>981</ele>
+      <time>2022-01-18T00:51:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

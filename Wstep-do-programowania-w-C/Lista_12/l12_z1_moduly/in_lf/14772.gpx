@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:50Z</time>
+    <bounds maxlat="51.3336163" maxlon="16.6347198" minlat="51.3326854" minlon="16.6337564"/>
+  </metadata>
+  <wpt lat="51.333616" lon="16.633756">
+    <ele>111</ele>
+    <name>Wolow, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10046">
+      <text>Wolow, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.332685" lon="16.63472">
+    <ele>111</ele>
+    <name>Wolow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10082">
+      <text>Wolow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, dworzec kolejowy - Wolow, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3336163,16.6337564;51.33302645126849,16.63435109999997;51.3326854,16.6347198">
+    <text>Wolow, dworzec kolejowy - Wolow, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3336163" lon="16.6337564">
+      <ele>111</ele>
+      <time>2022-01-18T00:27:50Z</time>
+    </trkpt>
+    <trkpt lat="51.3333675" lon="16.6339824">
+      <ele>111</ele>
+      <time>2022-01-18T00:28:21Z</time>
+    </trkpt>
+    <trkpt lat="51.3326854" lon="16.6347198">
+      <ele>111</ele>
+      <time>2022-01-18T00:29:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

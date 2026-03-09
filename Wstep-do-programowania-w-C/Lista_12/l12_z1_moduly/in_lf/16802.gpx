@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:13Z</time>
+    <bounds maxlat="52.1223884" maxlon="20.73465" minlat="52.1186763" minlon="20.7257879"/>
+  </metadata>
+  <wpt lat="52.118676" lon="20.73465">
+    <ele>110</ele>
+    <name>Podkowa Lesna, ul. Bukowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11493">
+      <text>Podkowa Lesna, ul. Bukowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.122388" lon="20.725788">
+    <ele>103</ele>
+    <name>Podkowa Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/11494">
+      <text>Podkowa Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Podkowa Lesna, ul. Bukowa - Podkowa Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1186763,20.73465;52.11957500173787,20.72904495000003;52.1223884,20.7257879">
+    <text>Podkowa Lesna, ul. Bukowa - Podkowa Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1186763" lon="20.73465">
+      <ele>110</ele>
+      <time>2022-01-18T01:03:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1187532" lon="20.7342216">
+      <ele>111</ele>
+      <time>2022-01-18T01:03:45Z</time>
+    </trkpt>
+    <trkpt lat="52.1191814" lon="20.7315126">
+      <ele>112</ele>
+      <time>2022-01-18T01:07:06Z</time>
+    </trkpt>
+    <trkpt lat="52.1199686" lon="20.7265773">
+      <ele>105</ele>
+      <time>2022-01-18T01:13:13Z</time>
+    </trkpt>
+    <trkpt lat="52.121632" lon="20.726529">
+      <ele>104</ele>
+      <time>2022-01-18T01:16:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1217999" lon="20.7264754">
+      <ele>104</ele>
+      <time>2022-01-18T01:16:48Z</time>
+    </trkpt>
+    <trkpt lat="52.121902" lon="20.726411">
+      <ele>104</ele>
+      <time>2022-01-18T01:17:01Z</time>
+    </trkpt>
+    <trkpt lat="52.1222841" lon="20.7259282">
+      <ele>103</ele>
+      <time>2022-01-18T01:17:57Z</time>
+    </trkpt>
+    <trkpt lat="52.1223884" lon="20.7257879">
+      <ele>103</ele>
+      <time>2022-01-18T01:18:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

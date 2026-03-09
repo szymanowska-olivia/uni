@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:17Z</time>
+    <bounds maxlat="54.2083037" maxlon="16.2143575" minlat="54.206164" minlon="16.2120294"/>
+  </metadata>
+  <wpt lat="54.208304" lon="16.212029">
+    <ele>74</ele>
+    <name>Koszalin, ul. Gdanska</name>
+    <link href="https://mapa-turystyczna.pl/node/12634">
+      <text>Koszalin, ul. Gdanska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.206164" lon="16.214357">
+    <ele>86</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12633">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Koszalin, ul. Gdanska - Rozejscie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.2083037,16.2120294;54.207473858334836,16.212844750000002;54.206164,16.2143575">
+    <text>Koszalin, ul. Gdanska - Rozejscie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.2083037" lon="16.2120294">
+      <ele>74</ele>
+      <time>2022-01-18T01:34:17Z</time>
+    </trkpt>
+    <trkpt lat="54.206644" lon="16.2136601">
+      <ele>83</ele>
+      <time>2022-01-18T01:38:03Z</time>
+    </trkpt>
+    <trkpt lat="54.206164" lon="16.2143575">
+      <ele>86</ele>
+      <time>2022-01-18T01:39:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

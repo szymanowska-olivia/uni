@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:55Z</time>
+    <bounds maxlat="49.573168" maxlon="19.529943" minlat="49.57315" minlon="19.529657"/>
+  </metadata>
+  <wpt lat="49.57315" lon="19.529657">
+    <ele>1712</ele>
+    <name>Babia Gora, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/13429">
+      <text>Babia Gora, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.573168" lon="19.529943">
+    <ele>1723</ele>
+    <name>Babia Gora, dojscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/7986">
+      <text>Babia Gora, dojscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Babia Gora, odejscie szlaku zielonego - Babia Gora, dojscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.57315,19.529657;49.57315900000083,19.529800000000005;49.573168,19.529943">
+    <text>Babia Gora, odejscie szlaku zielonego - Babia Gora, dojscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.57315" lon="19.529657">
+      <ele>1712</ele>
+      <time>2022-01-18T01:56:55Z</time>
+    </trkpt>
+    <trkpt lat="49.573168" lon="19.529943">
+      <ele>1723</ele>
+      <time>2022-01-18T01:57:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

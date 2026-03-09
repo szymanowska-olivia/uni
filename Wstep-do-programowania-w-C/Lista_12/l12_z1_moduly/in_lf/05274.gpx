@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:53:26Z</time>
+    <bounds maxlat="49.9157996" maxlon="21.8980962" minlat="49.9142106" minlon="21.8953926"/>
+  </metadata>
+  <wpt lat="49.9158" lon="21.898096">
+    <ele>367</ele>
+    <name>Wyzne, las</name>
+    <link href="https://mapa-turystyczna.pl/node/3718">
+      <text>Wyzne, las</text>
+    </link>
+  </wpt>
+  <wpt lat="49.914211" lon="21.895393">
+    <ele>342</ele>
+    <name>Wyzne, las</name>
+    <link href="https://mapa-turystyczna.pl/node/3719">
+      <text>Wyzne, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wyzne, las - Wyzne, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9157996,21.8980962;49.91534705029701,21.896818150000026;49.9142106,21.8953926">
+    <text>Wyzne, las - Wyzne, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9157996" lon="21.8980962">
+      <ele>367</ele>
+      <time>2022-01-17T21:53:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9155163" lon="21.8974981">
+      <ele>362</ele>
+      <time>2022-01-17T21:54:23Z</time>
+    </trkpt>
+    <trkpt lat="49.9151778" lon="21.8961382">
+      <ele>351</ele>
+      <time>2022-01-17T21:56:16Z</time>
+    </trkpt>
+    <trkpt lat="49.9146528" lon="21.8956152">
+      <ele>350</ele>
+      <time>2022-01-17T21:57:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9142106" lon="21.8953926">
+      <ele>342</ele>
+      <time>2022-01-17T21:58:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

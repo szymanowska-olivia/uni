@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:58Z</time>
+    <bounds maxlat="50.1551569" maxlon="16.3565451" minlat="50.151706" minlon="16.3513684"/>
+  </metadata>
+  <wpt lat="50.153428" lon="16.351368">
+    <ele>499</ele>
+    <name>Nad Betlemem</name>
+    <link href="https://mapa-turystyczna.pl/node/7679">
+      <text>Nad Betlemem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.155157" lon="16.356545">
+    <ele>472</ele>
+    <name>Pod Jahodovou</name>
+    <link href="https://mapa-turystyczna.pl/node/7680">
+      <text>Pod Jahodovou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Betlemem - Pod Jahodovou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.153428,16.3513684;50.15300146754815,16.35458845000003;50.1551569,16.3565451">
+    <text>Nad Betlemem - Pod Jahodovou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.153428" lon="16.3513684">
+      <ele>499</ele>
+      <time>2022-01-17T23:24:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1528059" lon="16.3520712">
+      <ele>498</ele>
+      <time>2022-01-17T23:26:13Z</time>
+    </trkpt>
+    <trkpt lat="50.151706" lon="16.3533748">
+      <ele>488</ele>
+      <time>2022-01-17T23:28:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1542969" lon="16.3558021">
+      <ele>473</ele>
+      <time>2022-01-17T23:33:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1551569" lon="16.3565451">
+      <ele>472</ele>
+      <time>2022-01-17T23:34:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

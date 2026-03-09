@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:17Z</time>
+    <bounds maxlat="48.9335295" maxlon="20.3343772" minlat="48.9333934" minlon="20.33362"/>
+  </metadata>
+  <wpt lat="48.933393" lon="20.33362">
+    <ele>610</ele>
+    <name>Sokol, horaren</name>
+    <link href="https://mapa-turystyczna.pl/node/6929">
+      <text>Sokol, horaren</text>
+    </link>
+  </wpt>
+  <wpt lat="48.933529" lon="20.334377">
+    <ele>615</ele>
+    <name>Sokol, horaren, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9394">
+      <text>Sokol, horaren, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sokol, horaren - Sokol, horaren, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9333934,20.33362;48.93346145004638,20.3339986;48.9335295,20.3343772">
+    <text>Sokol, horaren - Sokol, horaren, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9333934" lon="20.33362">
+      <ele>610</ele>
+      <time>2022-01-18T00:10:17Z</time>
+    </trkpt>
+    <trkpt lat="48.9335295" lon="20.3343772">
+      <ele>615</ele>
+      <time>2022-01-18T00:11:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

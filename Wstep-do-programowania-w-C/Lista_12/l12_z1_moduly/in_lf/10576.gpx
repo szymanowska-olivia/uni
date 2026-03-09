@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:18:31Z</time>
+    <bounds maxlat="49.5137944" maxlon="18.6013958" minlat="49.5133161" minlon="18.5989577"/>
+  </metadata>
+  <wpt lat="49.513794" lon="18.598958">
+    <ele>953</ele>
+    <name>Pod Malym Polomem, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/7363">
+      <text>Pod Malym Polomem, sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="49.513316" lon="18.601396">
+    <ele>970</ele>
+    <name>Pod Malym Polomem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7503">
+      <text>Pod Malym Polomem, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Malym Polomem, sedlo - Pod Malym Polomem, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5137944,18.5989577;49.513424900008424,18.60022500000002;49.5133161,18.6013958">
+    <text>Pod Malym Polomem, sedlo - Pod Malym Polomem, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5137944" lon="18.5989577">
+      <ele>953</ele>
+      <time>2022-01-17T23:18:31Z</time>
+    </trkpt>
+    <trkpt lat="49.5137183" lon="18.5990649">
+      <ele>955</ele>
+      <time>2022-01-17T23:18:49Z</time>
+    </trkpt>
+    <trkpt lat="49.5136313" lon="18.5992849">
+      <ele>956</ele>
+      <time>2022-01-17T23:19:19Z</time>
+    </trkpt>
+    <trkpt lat="49.5135459" lon="18.5995343">
+      <ele>958</ele>
+      <time>2022-01-17T23:19:51Z</time>
+    </trkpt>
+    <trkpt lat="49.5134745" lon="18.5997355">
+      <ele>960</ele>
+      <time>2022-01-17T23:20:18Z</time>
+    </trkpt>
+    <trkpt lat="49.5134536" lon="18.5999098">
+      <ele>960</ele>
+      <time>2022-01-17T23:20:38Z</time>
+    </trkpt>
+    <trkpt lat="49.5133962" lon="18.6005402">
+      <ele>964</ele>
+      <time>2022-01-17T23:21:51Z</time>
+    </trkpt>
+    <trkpt lat="49.5133578" lon="18.6009908">
+      <ele>967</ele>
+      <time>2022-01-17T23:22:44Z</time>
+    </trkpt>
+    <trkpt lat="49.5133161" lon="18.6013958">
+      <ele>970</ele>
+      <time>2022-01-17T23:23:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

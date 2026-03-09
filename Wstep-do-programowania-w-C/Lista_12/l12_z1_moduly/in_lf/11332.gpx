@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:46Z</time>
+    <bounds maxlat="50.2354227" maxlon="16.759429" minlat="50.2347876" minlon="16.754011"/>
+  </metadata>
+  <wpt lat="50.235423" lon="16.754011">
+    <ele>641</ele>
+    <name>Dom Wsrod Roz</name>
+    <link href="https://mapa-turystyczna.pl/node/7983">
+      <text>Dom Wsrod Roz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.234929" lon="16.759429">
+    <ele>707</ele>
+    <name>Ogrod Bajek</name>
+    <link href="https://mapa-turystyczna.pl/node/7982">
+      <text>Ogrod Bajek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dom Wsrod Roz - Ogrod Bajek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2354227,16.754011;50.23505870017833,16.7566678;50.2349294,16.759429">
+    <text>Dom Wsrod Roz - Ogrod Bajek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2354227" lon="16.754011">
+      <ele>641</ele>
+      <time>2022-01-17T23:32:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2353059" lon="16.7546112">
+      <ele>657</ele>
+      <time>2022-01-17T23:34:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2352097" lon="16.7552328">
+      <ele>668</ele>
+      <time>2022-01-17T23:36:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2351891" lon="16.7560804">
+      <ele>682</ele>
+      <time>2022-01-17T23:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2349283" lon="16.7572552">
+      <ele>693</ele>
+      <time>2022-01-17T23:41:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2349112" lon="16.7576683">
+      <ele>698</ele>
+      <time>2022-01-17T23:42:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2349214" lon="16.7582476">
+      <ele>704</ele>
+      <time>2022-01-17T23:44:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2347945" lon="16.7588645">
+      <ele>704</ele>
+      <time>2022-01-17T23:46:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2347876" lon="16.7590898">
+      <ele>704</ele>
+      <time>2022-01-17T23:46:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2349294" lon="16.759429">
+      <ele>707</ele>
+      <time>2022-01-17T23:47:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

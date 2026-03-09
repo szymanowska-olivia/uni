@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:16Z</time>
+    <bounds maxlat="50.902522" maxlon="15.3337276" minlat="50.899039" minlon="15.3321535"/>
+  </metadata>
+  <wpt lat="50.899039" lon="15.332154">
+    <ele>641</ele>
+    <name>Dom wypoczynkowy Czeszka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8090">
+      <text>Dom wypoczynkowy Czeszka, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.902522" lon="15.333728">
+    <ele>588</ele>
+    <name>Swieradow-Zdroj, ujecie wody</name>
+    <link href="https://mapa-turystyczna.pl/node/2302">
+      <text>Swieradow-Zdroj, ujecie wody</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dom wypoczynkowy Czeszka, parking - Swieradow-Zdroj, ujecie wody</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.899039,15.3321535;50.900136910195435,15.332418699999995;50.902522,15.3337276">
+    <text>Dom wypoczynkowy Czeszka, parking - Swieradow-Zdroj, ujecie wody</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.899039" lon="15.3321535">
+      <ele>641</ele>
+      <time>2022-01-17T23:36:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8991625" lon="15.3321934">
+      <ele>638</ele>
+      <time>2022-01-17T23:36:26Z</time>
+    </trkpt>
+    <trkpt lat="50.9011113" lon="15.332644">
+      <ele>611</ele>
+      <time>2022-01-17T23:39:08Z</time>
+    </trkpt>
+    <trkpt lat="50.902522" lon="15.3337276">
+      <ele>588</ele>
+      <time>2022-01-17T23:41:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

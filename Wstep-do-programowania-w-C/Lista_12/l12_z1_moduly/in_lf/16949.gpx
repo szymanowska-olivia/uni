@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:35Z</time>
+    <bounds maxlat="52.1694063" maxlon="21.2314004" minlat="52.1679638" minlon="21.2278792"/>
+  </metadata>
+  <wpt lat="52.167964" lon="21.227879">
+    <ele>112</ele>
+    <name>Wydmy Falenica</name>
+    <link href="https://mapa-turystyczna.pl/node/11592">
+      <text>Wydmy Falenica</text>
+    </link>
+  </wpt>
+  <wpt lat="52.169367" lon="21.2314">
+    <ele>102</ele>
+    <name>Aleksandrow, Morskie Oko</name>
+    <link href="https://mapa-turystyczna.pl/node/11593">
+      <text>Aleksandrow, Morskie Oko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wydmy Falenica - Aleksandrow, Morskie Oko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1679638,21.2278792;52.168784450149005,21.229587249999973;52.1693668,21.2314004">
+    <text>Wydmy Falenica - Aleksandrow, Morskie Oko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1679638" lon="21.2278792">
+      <ele>112</ele>
+      <time>2022-01-18T01:05:35Z</time>
+    </trkpt>
+    <trkpt lat="52.1680705" lon="21.2282676">
+      <ele>111</ele>
+      <time>2022-01-18T01:06:04Z</time>
+    </trkpt>
+    <trkpt lat="52.16836" lon="21.228686">
+      <ele>110</ele>
+      <time>2022-01-18T01:06:48Z</time>
+    </trkpt>
+    <trkpt lat="52.1686693" lon="21.2292761">
+      <ele>109</ele>
+      <time>2022-01-18T01:07:41Z</time>
+    </trkpt>
+    <trkpt lat="52.1688996" lon="21.2298984">
+      <ele>106</ele>
+      <time>2022-01-18T01:08:31Z</time>
+    </trkpt>
+    <trkpt lat="52.1691299" lon="21.2303383">
+      <ele>103</ele>
+      <time>2022-01-18T01:09:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1692879" lon="21.2305958">
+      <ele>102</ele>
+      <time>2022-01-18T01:09:36Z</time>
+    </trkpt>
+    <trkpt lat="52.16938" lon="21.2308103">
+      <ele>102</ele>
+      <time>2022-01-18T01:09:54Z</time>
+    </trkpt>
+    <trkpt lat="52.1694063" lon="21.2309284">
+      <ele>101</ele>
+      <time>2022-01-18T01:10:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1693668" lon="21.2314004">
+      <ele>102</ele>
+      <time>2022-01-18T01:10:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

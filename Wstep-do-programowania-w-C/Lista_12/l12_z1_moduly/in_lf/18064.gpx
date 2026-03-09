@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:42Z</time>
+    <bounds maxlat="50.10306" maxlon="19.7744042" minlat="50.1021103" minlon="19.7721028"/>
+  </metadata>
+  <wpt lat="50.10306" lon="19.772103">
+    <ele>332</ele>
+    <name>Odejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/12292">
+      <text>Odejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.10211" lon="19.774404">
+    <ele>332</ele>
+    <name>Odejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/12293">
+      <text>Odejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie szlaku spacerowego - Odejscie szlaku spacerowego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.10306,19.7721028;50.102340750114976,19.77337219999998;50.1021103,19.7744042">
+    <text>Odejscie szlaku spacerowego - Odejscie szlaku spacerowego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.10306" lon="19.7721028">
+      <ele>332</ele>
+      <time>2022-01-18T01:24:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1024457" lon="19.7731201">
+      <ele>334</ele>
+      <time>2022-01-18T01:26:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1022358" lon="19.7736243">
+      <ele>333</ele>
+      <time>2022-01-18T01:26:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1021394" lon="19.7739676">
+      <ele>331</ele>
+      <time>2022-01-18T01:27:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1021103" lon="19.7744042">
+      <ele>332</ele>
+      <time>2022-01-18T01:27:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

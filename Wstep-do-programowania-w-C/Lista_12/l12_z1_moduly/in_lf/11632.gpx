@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:37:30Z</time>
+    <bounds maxlat="50.3078778" maxlon="17.3812187" minlat="50.3076397" minlon="17.3807281"/>
+  </metadata>
+  <wpt lat="50.307878" lon="17.381219">
+    <ele>295</ele>
+    <name>Glucholazy-Zdroj, ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2664">
+      <text>Glucholazy-Zdroj, ul. Parkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.30764" lon="17.380728">
+    <ele>297</ele>
+    <name>Glucholazy-Zdroj, al. Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/8128">
+      <text>Glucholazy-Zdroj, al. Jana Pawla II</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glucholazy-Zdroj, ul. Parkowa - Glucholazy-Zdroj, al. Jana Pawla II</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3078778,17.3812187;50.30775875014903,17.380973399999995;50.3076397,17.3807281">
+    <text>Glucholazy-Zdroj, ul. Parkowa - Glucholazy-Zdroj, al. Jana Pawla II</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3078778" lon="17.3812187">
+      <ele>295</ele>
+      <time>2022-01-17T23:37:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3076397" lon="17.3807281">
+      <ele>297</ele>
+      <time>2022-01-17T23:38:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

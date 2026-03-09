@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:19Z</time>
+    <bounds maxlat="50.2623889" maxlon="17.1676183" minlat="50.2585856" minlon="17.1646947"/>
+  </metadata>
+  <wpt lat="50.262389" lon="17.164695">
+    <ele>961</ele>
+    <name>Pramen Pokroku, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6110">
+      <text>Pramen Pokroku, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.258586" lon="17.167618">
+    <ele>991</ele>
+    <name>Studnicni vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/6118">
+      <text>Studnicni vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pramen Pokroku, rozc. - Studnicni vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2623889,17.1646947;50.26053705022822,17.16617795;50.2585856,17.1676183">
+    <text>Pramen Pokroku, rozc. - Studnicni vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2623889" lon="17.1646947">
+      <ele>961</ele>
+      <time>2022-01-17T22:45:19Z</time>
+    </trkpt>
+    <trkpt lat="50.261175" lon="17.16573">
+      <ele>976</ele>
+      <time>2022-01-17T22:48:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2606845" lon="17.1660197">
+      <ele>978</ele>
+      <time>2022-01-17T22:49:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2603896" lon="17.1663362">
+      <ele>982</ele>
+      <time>2022-01-17T22:50:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2602216" lon="17.1664944">
+      <ele>985</ele>
+      <time>2022-01-17T22:51:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2600947" lon="17.1667814">
+      <ele>988</ele>
+      <time>2022-01-17T22:51:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2597057" lon="17.1669383">
+      <ele>994</ele>
+      <time>2022-01-17T22:52:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2591795" lon="17.1670309">
+      <ele>995</ele>
+      <time>2022-01-17T22:53:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2588777" lon="17.1672776">
+      <ele>994</ele>
+      <time>2022-01-17T22:54:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2585856" lon="17.1676183">
+      <ele>991</ele>
+      <time>2022-01-17T22:55:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

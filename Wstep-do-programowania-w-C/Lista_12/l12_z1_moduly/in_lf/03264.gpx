@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:25Z</time>
+    <bounds maxlat="50.8453036" maxlon="15.4942739" minlat="50.8451252" minlon="15.4919416"/>
+  </metadata>
+  <wpt lat="50.845125" lon="15.491942">
+    <ele>1058</ele>
+    <name>Wysoki Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/2320">
+      <text>Wysoki Kamien</text>
+    </link>
+  </wpt>
+  <wpt lat="50.845304" lon="15.494274">
+    <ele>1013</ele>
+    <name>Wysoki Kamien, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2244">
+      <text>Wysoki Kamien, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wysoki Kamien - Wysoki Kamien, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8451252,15.4919416;50.84527065000647,15.49312125000002;50.8453036,15.4942739">
+    <text>Wysoki Kamien - Wysoki Kamien, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8451252" lon="15.4919416">
+      <ele>1058</ele>
+      <time>2022-01-17T21:27:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8451258" lon="15.4922073">
+      <ele>1054</ele>
+      <time>2022-01-17T21:27:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8452461" lon="15.4927263">
+      <ele>1044</ele>
+      <time>2022-01-17T21:28:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8452952" lon="15.4935162">
+      <ele>1029</ele>
+      <time>2022-01-17T21:29:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8453036" lon="15.4942739">
+      <ele>1013</ele>
+      <time>2022-01-17T21:30:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

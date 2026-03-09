@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:46Z</time>
+    <bounds maxlat="50.7208263" maxlon="16.3296252" minlat="50.7185205" minlon="16.3248372"/>
+  </metadata>
+  <wpt lat="50.71852" lon="16.324837">
+    <ele>500</ele>
+    <name>Jedlina Zdroj, ul. Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9414">
+      <text>Jedlina Zdroj, ul. Ogrodowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.720826" lon="16.329625">
+    <ele>483</ele>
+    <name>Glinica, ul. Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9403">
+      <text>Glinica, ul. Ogrodowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jedlina Zdroj, ul. Ogrodowa - Glinica, ul. Ogrodowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7185205,16.3248372;50.71981375083261,16.32787160000002;50.7208263,16.3296252">
+    <text>Jedlina Zdroj, ul. Ogrodowa - Glinica, ul. Ogrodowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7185205" lon="16.3248372">
+      <ele>500</ele>
+      <time>2022-01-18T00:10:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7187036" lon="16.3254918">
+      <ele>498</ele>
+      <time>2022-01-18T00:11:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7190555" lon="16.3263005">
+      <ele>504</ele>
+      <time>2022-01-18T00:12:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7195344" lon="16.3271132">
+      <ele>498</ele>
+      <time>2022-01-18T00:13:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7200931" lon="16.32863">
+      <ele>489</ele>
+      <time>2022-01-18T00:14:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7207333" lon="16.3296211">
+      <ele>484</ele>
+      <time>2022-01-18T00:15:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7208263" lon="16.3296252">
+      <ele>483</ele>
+      <time>2022-01-18T00:15:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

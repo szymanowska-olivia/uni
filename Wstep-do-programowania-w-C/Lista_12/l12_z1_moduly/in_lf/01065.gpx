@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:55:57Z</time>
+    <bounds maxlat="49.738961" maxlon="19.005091" minlat="49.738308" minlon="19.001045"/>
+  </metadata>
+  <wpt lat="49.738308" lon="19.005091">
+    <ele>1052</ele>
+    <name>Schronisko PTTK Klimczok</name>
+    <link href="https://mapa-turystyczna.pl/node/811">
+      <text>Schronisko PTTK Klimczok</text>
+    </link>
+  </wpt>
+  <wpt lat="49.738961" lon="19.001045">
+    <ele>1042</ele>
+    <name>Siodlo pod Klimczokiem</name>
+    <link href="https://mapa-turystyczna.pl/node/821">
+      <text>Siodlo pod Klimczokiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Klimczok - Siodlo pod Klimczokiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.738308,19.005091;49.73877550002734,19.003129499999996;49.738961,19.001045">
+    <text>Schronisko PTTK Klimczok - Siodlo pod Klimczokiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.738308" lon="19.005091">
+      <ele>1052</ele>
+      <time>2022-01-17T20:55:57Z</time>
+    </trkpt>
+    <trkpt lat="49.738409" lon="19.00473">
+      <ele>1050</ele>
+      <time>2022-01-17T20:56:25Z</time>
+    </trkpt>
+    <trkpt lat="49.738539" lon="19.00443">
+      <ele>1048</ele>
+      <time>2022-01-17T20:56:51Z</time>
+    </trkpt>
+    <trkpt lat="49.738655" lon="19.004043">
+      <ele>1048</ele>
+      <time>2022-01-17T20:57:21Z</time>
+    </trkpt>
+    <trkpt lat="49.738724" lon="19.003585">
+      <ele>1046</ele>
+      <time>2022-01-17T20:57:55Z</time>
+    </trkpt>
+    <trkpt lat="49.738827" lon="19.002674">
+      <ele>1043</ele>
+      <time>2022-01-17T20:59:00Z</time>
+    </trkpt>
+    <trkpt lat="49.738884" lon="19.002072">
+      <ele>1043</ele>
+      <time>2022-01-17T20:59:44Z</time>
+    </trkpt>
+    <trkpt lat="49.738932" lon="19.001524">
+      <ele>1042</ele>
+      <time>2022-01-17T21:00:23Z</time>
+    </trkpt>
+    <trkpt lat="49.738961" lon="19.001045">
+      <ele>1042</ele>
+      <time>2022-01-17T21:00:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

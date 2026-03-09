@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:42Z</time>
+    <bounds maxlat="52.2874563" maxlon="20.4474235" minlat="52.2864652" minlon="20.4470945"/>
+  </metadata>
+  <wpt lat="52.287456" lon="20.447423">
+    <ele>74</ele>
+    <name>Granica</name>
+    <link href="https://mapa-turystyczna.pl/node/4966">
+      <text>Granica</text>
+    </link>
+  </wpt>
+  <wpt lat="52.286465" lon="20.447094">
+    <ele>72</ele>
+    <name>Granica, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12417">
+      <text>Granica, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Granica - Granica, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2874563,20.4474235;52.28696075277141,20.447258999999985;52.2864652,20.4470945">
+    <text>Granica - Granica, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2874563" lon="20.4474235">
+      <ele>74</ele>
+      <time>2022-01-18T01:28:42Z</time>
+    </trkpt>
+    <trkpt lat="52.2864652" lon="20.4470945">
+      <ele>72</ele>
+      <time>2022-01-18T01:30:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

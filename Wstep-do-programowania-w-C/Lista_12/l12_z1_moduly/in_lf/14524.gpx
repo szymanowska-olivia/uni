@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:48Z</time>
+    <bounds maxlat="50.2239532" maxlon="18.7263034" minlat="50.2236795" minlon="18.7244074"/>
+  </metadata>
+  <wpt lat="50.22368" lon="18.724407">
+    <ele>246</ele>
+    <name>Gieraltowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9623">
+      <text>Gieraltowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.223914" lon="18.726303">
+    <ele>243</ele>
+    <name>Gieraltowice, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/9898">
+      <text>Gieraltowice, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gieraltowice - Gieraltowice, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2236795,18.7244074;50.22380435016341,18.72507839999998;50.2239145,18.7263034">
+    <text>Gieraltowice - Gieraltowice, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2236795" lon="18.7244074">
+      <ele>246</ele>
+      <time>2022-01-18T00:23:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2239292" lon="18.7257494">
+      <ele>245</ele>
+      <time>2022-01-18T00:25:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2239532" lon="18.7259748">
+      <ele>244</ele>
+      <time>2022-01-18T00:25:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2239145" lon="18.7263034">
+      <ele>243</ele>
+      <time>2022-01-18T00:25:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

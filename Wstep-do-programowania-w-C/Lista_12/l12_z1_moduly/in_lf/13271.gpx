@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:40Z</time>
+    <bounds maxlat="51.1123968" maxlon="15.5865312" minlat="51.1105401" minlon="15.5860762"/>
+  </metadata>
+  <wpt lat="51.112397" lon="15.586531">
+    <ele>209</ele>
+    <name>Lwowek Slaski, ul. Chrobrego</name>
+    <link href="https://mapa-turystyczna.pl/node/3402">
+      <text>Lwowek Slaski, ul. Chrobrego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.11054" lon="15.586076">
+    <ele>214</ele>
+    <name>Lwowek Slaski</name>
+    <link href="https://mapa-turystyczna.pl/node/9155">
+      <text>Lwowek Slaski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Chrobrego - Lwowek Slaski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1123968,15.5865312;51.11147660053469,15.58627065;51.1105401,15.5860762">
+    <text>Lwowek Slaski, ul. Chrobrego - Lwowek Slaski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1123968" lon="15.5865312">
+      <ele>209</ele>
+      <time>2022-01-18T00:04:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1116989" lon="15.5863431">
+      <ele>210</ele>
+      <time>2022-01-18T00:06:33Z</time>
+    </trkpt>
+    <trkpt lat="51.1112543" lon="15.5861982">
+      <ele>211</ele>
+      <time>2022-01-18T00:07:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1109883" lon="15.5861285">
+      <ele>212</ele>
+      <time>2022-01-18T00:08:28Z</time>
+    </trkpt>
+    <trkpt lat="51.1105401" lon="15.5860762">
+      <ele>214</ele>
+      <time>2022-01-18T00:09:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

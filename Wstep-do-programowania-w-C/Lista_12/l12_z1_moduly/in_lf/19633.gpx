@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:54Z</time>
+    <bounds maxlat="50.3915604" maxlon="16.6362769" minlat="50.3912752" minlon="16.6356982"/>
+  </metadata>
+  <wpt lat="50.39156" lon="16.635698">
+    <ele>302</ele>
+    <name>Krosnowice</name>
+    <link href="https://mapa-turystyczna.pl/node/8030">
+      <text>Krosnowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.391275" lon="16.636277">
+    <ele>306</ele>
+    <name>Krosnowice, wiadukt</name>
+    <link href="https://mapa-turystyczna.pl/node/13248">
+      <text>Krosnowice, wiadukt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krosnowice - Krosnowice, wiadukt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3915604,16.6356982;50.39136705008899,16.63602980000002;50.3912752,16.6362769">
+    <text>Krosnowice - Krosnowice, wiadukt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3915604" lon="16.6356982">
+      <ele>302</ele>
+      <time>2022-01-18T01:51:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3914589" lon="16.6357827">
+      <ele>303</ele>
+      <time>2022-01-18T01:52:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3912752" lon="16.6362769">
+      <ele>306</ele>
+      <time>2022-01-18T01:52:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

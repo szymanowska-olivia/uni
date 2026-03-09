@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:19Z</time>
+    <bounds maxlat="49.0092356" maxlon="19.1113427" minlat="49.0090139" minlon="19.1110456"/>
+  </metadata>
+  <wpt lat="49.009236" lon="19.111343">
+    <ele>1314</ele>
+    <name>Jarabina</name>
+    <link href="https://mapa-turystyczna.pl/node/5561">
+      <text>Jarabina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.009014" lon="19.111046">
+    <ele>1303</ele>
+    <name>Jarabina, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5934">
+      <text>Jarabina, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarabina - Jarabina, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0092356,19.1113427;49.00915885005917,19.11125254999997;49.0090139,19.1110456">
+    <text>Jarabina - Jarabina, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0092356" lon="19.1113427">
+      <ele>1314</ele>
+      <time>2022-01-17T22:40:19Z</time>
+    </trkpt>
+    <trkpt lat="49.0090821" lon="19.1111624">
+      <ele>1307</ele>
+      <time>2022-01-17T22:40:58Z</time>
+    </trkpt>
+    <trkpt lat="49.0090139" lon="19.1110456">
+      <ele>1303</ele>
+      <time>2022-01-17T22:41:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

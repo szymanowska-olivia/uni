@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:28Z</time>
+    <bounds maxlat="51.0118174" maxlon="16.13581" minlat="51.0079427" minlon="16.1345279"/>
+  </metadata>
+  <wpt lat="51.011817" lon="16.135794">
+    <ele>345</ele>
+    <name>Pod Bazaltowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2843">
+      <text>Pod Bazaltowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.007943" lon="16.134528">
+    <ele>320</ele>
+    <name>Pod Bazaltowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2845">
+      <text>Pod Bazaltowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bazaltowa - Pod Bazaltowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0118174,16.1357939;51.00983135151155,16.1349644;51.0079427,16.1345279">
+    <text>Pod Bazaltowa - Pod Bazaltowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0118174" lon="16.1357939">
+      <ele>345</ele>
+      <time>2022-01-17T21:37:28Z</time>
+    </trkpt>
+    <trkpt lat="51.0115424" lon="16.13581">
+      <ele>342</ele>
+      <time>2022-01-17T21:37:48Z</time>
+    </trkpt>
+    <trkpt lat="51.0111019" lon="16.1357939">
+      <ele>341</ele>
+      <time>2022-01-17T21:38:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0107973" lon="16.1357054">
+      <ele>340</ele>
+      <time>2022-01-17T21:38:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0102058" lon="16.1352413">
+      <ele>339</ele>
+      <time>2022-01-17T21:39:33Z</time>
+    </trkpt>
+    <trkpt lat="51.0094569" lon="16.1346875">
+      <ele>331</ele>
+      <time>2022-01-17T21:40:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0090335" lon="16.1346359">
+      <ele>330</ele>
+      <time>2022-01-17T21:41:06Z</time>
+    </trkpt>
+    <trkpt lat="51.0086641" lon="16.1346915">
+      <ele>328</ele>
+      <time>2022-01-17T21:41:34Z</time>
+    </trkpt>
+    <trkpt lat="51.0079427" lon="16.1345279">
+      <ele>320</ele>
+      <time>2022-01-17T21:42:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

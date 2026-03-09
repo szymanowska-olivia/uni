@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:13Z</time>
+    <bounds maxlat="50.6864971" maxlon="16.2737983" minlat="50.6837459" minlon="16.261627"/>
+  </metadata>
+  <wpt lat="50.683746" lon="16.273798">
+    <ele>771</ele>
+    <name>Sokolowiec, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/7729">
+      <text>Sokolowiec, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.686497" lon="16.261627">
+    <ele>656</ele>
+    <name>Pod Krzywucha</name>
+    <link href="https://mapa-turystyczna.pl/node/2341">
+      <text>Pod Krzywucha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sokolowiec, skrzyzowanie - Pod Krzywucha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6837459,16.2737983;50.68543500032634,16.266733999999985;50.6864971,16.261627">
+    <text>Sokolowiec, skrzyzowanie - Pod Krzywucha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6837459" lon="16.2737983">
+      <ele>771</ele>
+      <time>2022-01-17T23:26:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6840534" lon="16.2723184">
+      <ele>774</ele>
+      <time>2022-01-17T23:27:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6844816" lon="16.271047">
+      <ele>777</ele>
+      <time>2022-01-17T23:29:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6847739" lon="16.2698185">
+      <ele>772</ele>
+      <time>2022-01-17T23:31:06Z</time>
+    </trkpt>
+    <trkpt lat="50.68526" lon="16.2677693">
+      <ele>753</ele>
+      <time>2022-01-17T23:33:35Z</time>
+    </trkpt>
+    <trkpt lat="50.68561" lon="16.2656987">
+      <ele>736</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6859771" lon="16.2650764">
+      <ele>721</ele>
+      <time>2022-01-17T23:37:01Z</time>
+    </trkpt>
+    <trkpt lat="50.686385" lon="16.2636387">
+      <ele>694</ele>
+      <time>2022-01-17T23:38:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6864189" lon="16.2626302">
+      <ele>675</ele>
+      <time>2022-01-17T23:40:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6864971" lon="16.261627">
+      <ele>656</ele>
+      <time>2022-01-17T23:41:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

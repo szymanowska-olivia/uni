@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:08Z</time>
+    <bounds maxlat="50.7541605" maxlon="15.3139973" minlat="50.7541181" minlon="15.3134286"/>
+  </metadata>
+  <wpt lat="50.754123" lon="15.313429">
+    <ele>490</ele>
+    <name>Desna, Hotel Bolson</name>
+    <link href="https://mapa-turystyczna.pl/node/3099">
+      <text>Desna, Hotel Bolson</text>
+    </link>
+  </wpt>
+  <wpt lat="50.75416" lon="15.313997">
+    <ele>488</ele>
+    <name>Desna</name>
+    <link href="https://mapa-turystyczna.pl/node/3093">
+      <text>Desna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Desna, Hotel Bolson - Desna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7541232,15.3134286;50.75412065000007,15.313608350000013;50.7541605,15.3139973">
+    <text>Desna, Hotel Bolson - Desna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7541232" lon="15.3134286">
+      <ele>490</ele>
+      <time>2022-01-17T21:43:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7541181" lon="15.3137881">
+      <ele>488</ele>
+      <time>2022-01-17T21:43:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7541605" lon="15.3139973">
+      <ele>488</ele>
+      <time>2022-01-17T21:44:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

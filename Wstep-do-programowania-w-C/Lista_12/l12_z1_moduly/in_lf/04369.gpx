@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:31Z</time>
+    <bounds maxlat="50.8676063" maxlon="15.8681792" minlat="50.8669613" minlon="15.8675301"/>
+  </metadata>
+  <wpt lat="50.866961" lon="15.868179">
+    <ele>533</ele>
+    <name>Przelaczka</name>
+    <link href="https://mapa-turystyczna.pl/node/3007">
+      <text>Przelaczka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.867606" lon="15.86753">
+    <ele>537</ele>
+    <name>Pod Sokolikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/3037">
+      <text>Pod Sokolikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelaczka - Pod Sokolikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8669613,15.8681792;50.867283801115555,15.867854650000002;50.8676063,15.8675301">
+    <text>Przelaczka - Pod Sokolikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8669613" lon="15.8681792">
+      <ele>533</ele>
+      <time>2022-01-17T21:41:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8676063" lon="15.8675301">
+      <ele>537</ele>
+      <time>2022-01-17T21:43:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

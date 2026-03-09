@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:07:46Z</time>
+    <bounds maxlat="48.9433744" maxlon="20.346567" minlat="48.9430943" minlon="20.3462586"/>
+  </metadata>
+  <wpt lat="48.943094" lon="20.346259">
+    <ele>585</ele>
+    <name>Pila, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6932">
+      <text>Pila, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.943374" lon="20.346567">
+    <ele>585</ele>
+    <name>Pila</name>
+    <link href="https://mapa-turystyczna.pl/node/6931">
+      <text>Pila</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pila, razc. - Pila</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9430943,20.3462586;48.94323435019652,20.346412799999978;48.9433744,20.346567">
+    <text>Pila, razc. - Pila</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9430943" lon="20.3462586">
+      <ele>585</ele>
+      <time>2022-01-17T23:07:46Z</time>
+    </trkpt>
+    <trkpt lat="48.9433744" lon="20.346567">
+      <ele>585</ele>
+      <time>2022-01-17T23:08:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

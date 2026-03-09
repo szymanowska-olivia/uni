@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:59Z</time>
+    <bounds maxlat="50.2254124" maxlon="18.9642008" minlat="50.2206135" minlon="18.9602868"/>
+  </metadata>
+  <wpt lat="50.220613" lon="18.960287">
+    <ele>267</ele>
+    <name>Panewniki, ul. Slaska</name>
+    <link href="https://mapa-turystyczna.pl/node/9484">
+      <text>Panewniki, ul. Slaska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.225412" lon="18.964201">
+    <ele>274</ele>
+    <name>Panewniki, ul. Bronislawy</name>
+    <link href="https://mapa-turystyczna.pl/node/9485">
+      <text>Panewniki, ul. Bronislawy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Panewniki, ul. Slaska - Panewniki, ul. Bronislawy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2206135,18.9602868;50.22273415148,18.96206095000001;50.2254124,18.9642008">
+    <text>Panewniki, ul. Slaska - Panewniki, ul. Bronislawy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2206135" lon="18.9602868">
+      <ele>267</ele>
+      <time>2022-01-18T00:12:59Z</time>
+    </trkpt>
+    <trkpt lat="50.220751" lon="18.9605947">
+      <ele>268</ele>
+      <time>2022-01-18T00:13:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2210084" lon="18.9613189">
+      <ele>269</ele>
+      <time>2022-01-18T00:14:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2211114" lon="18.9618714">
+      <ele>270</ele>
+      <time>2022-01-18T00:14:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2223584" lon="18.9619912">
+      <ele>273</ele>
+      <time>2022-01-18T00:17:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2231099" lon="18.9621307">
+      <ele>273</ele>
+      <time>2022-01-18T00:18:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2232335" lon="18.9622058">
+      <ele>273</ele>
+      <time>2022-01-18T00:18:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2254124" lon="18.9642008">
+      <ele>274</ele>
+      <time>2022-01-18T00:22:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:30:33Z</time>
+    <bounds maxlat="50.8818721" maxlon="18.4272533" minlat="50.8768704" minlon="18.4212978"/>
+  </metadata>
+  <wpt lat="50.876924" lon="18.421298">
+    <ele>241</ele>
+    <name>Olesno</name>
+    <link href="https://mapa-turystyczna.pl/node/9759">
+      <text>Olesno</text>
+    </link>
+  </wpt>
+  <wpt lat="50.881872" lon="18.424125">
+    <ele>239</ele>
+    <name>Olesno, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9758">
+      <text>Olesno, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olesno - Olesno, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8769236,18.4212978;50.87857376093368,18.427081599999973;50.8818721,18.4241248">
+    <text>Olesno - Olesno, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8769236" lon="18.4212978">
+      <ele>241</ele>
+      <time>2022-01-18T00:30:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8768704" lon="18.4219264">
+      <ele>240</ele>
+      <time>2022-01-18T00:31:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8768704" lon="18.4223126">
+      <ele>239</ele>
+      <time>2022-01-18T00:31:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8768738" lon="18.4263252">
+      <ele>241</ele>
+      <time>2022-01-18T00:35:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8769111" lon="18.4267061">
+      <ele>240</ele>
+      <time>2022-01-18T00:36:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8769889" lon="18.4268777">
+      <ele>240</ele>
+      <time>2022-01-18T00:36:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8775643" lon="18.4269099">
+      <ele>242</ele>
+      <time>2022-01-18T00:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8795832" lon="18.4272533">
+      <ele>236</ele>
+      <time>2022-01-18T00:40:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8798269" lon="18.4271996">
+      <ele>236</ele>
+      <time>2022-01-18T00:40:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8801315" lon="18.426985">
+      <ele>237</ele>
+      <time>2022-01-18T00:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8817696" lon="18.4243887">
+      <ele>240</ele>
+      <time>2022-01-18T00:45:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8818721" lon="18.4241248">
+      <ele>239</ele>
+      <time>2022-01-18T00:45:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

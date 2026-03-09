@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:09Z</time>
+    <bounds maxlat="51.5059381" maxlon="23.5216408" minlat="51.4914739" minlon="23.5181442"/>
+  </metadata>
+  <wpt lat="51.491474" lon="23.518144">
+    <ele>170</ele>
+    <name>Okuninka, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12978">
+      <text>Okuninka, przystanek autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.505938" lon="23.521641">
+    <ele>163</ele>
+    <name>Okuninka, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12954">
+      <text>Okuninka, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okuninka, przystanek autobusowy - Okuninka, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4914739,23.5181442;51.5020036698535,23.520655700000024;51.5059381,23.5216408">
+    <text>Okuninka, przystanek autobusowy - Okuninka, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4914739" lon="23.5181442">
+      <ele>170</ele>
+      <time>2022-01-18T01:44:09Z</time>
+    </trkpt>
+    <trkpt lat="51.4958224" lon="23.5192736">
+      <ele>162</ele>
+      <time>2022-01-18T01:51:41Z</time>
+    </trkpt>
+    <trkpt lat="51.4963902" lon="23.5194131">
+      <ele>160</ele>
+      <time>2022-01-18T01:52:40Z</time>
+    </trkpt>
+    <trkpt lat="51.4980689" lon="23.5196706">
+      <ele>161</ele>
+      <time>2022-01-18T01:55:32Z</time>
+    </trkpt>
+    <trkpt lat="51.5059381" lon="23.5216408">
+      <ele>163</ele>
+      <time>2022-01-18T02:09:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

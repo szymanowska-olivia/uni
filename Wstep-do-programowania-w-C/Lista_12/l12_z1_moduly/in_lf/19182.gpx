@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:40Z</time>
+    <bounds maxlat="50.9105715" maxlon="15.3514613" minlat="50.9093553" minlon="15.3470451"/>
+  </metadata>
+  <wpt lat="50.91057" lon="15.347045">
+    <ele>528</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12961">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.909355" lon="15.351461">
+    <ele>585</ele>
+    <name>Swieradow-Zdroj, ul. Sybirakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8087">
+      <text>Swieradow-Zdroj, ul. Sybirakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Swieradow-Zdroj, ul. Sybirakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9105698,15.3470451;50.90981605026292,15.349588199999982;50.9093553,15.3514613">
+    <text>Rozejscie szlakow - Swieradow-Zdroj, ul. Sybirakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9105698" lon="15.3470451">
+      <ele>528</ele>
+      <time>2022-01-18T01:43:40Z</time>
+    </trkpt>
+    <trkpt lat="50.9105715" lon="15.3472294">
+      <ele>531</ele>
+      <time>2022-01-18T01:44:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9104802" lon="15.3475781">
+      <ele>537</ele>
+      <time>2022-01-18T01:44:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9102705" lon="15.3479053">
+      <ele>543</ele>
+      <time>2022-01-18T01:45:47Z</time>
+    </trkpt>
+    <trkpt lat="50.9099725" lon="15.3489934">
+      <ele>557</ele>
+      <time>2022-01-18T01:48:12Z</time>
+    </trkpt>
+    <trkpt lat="50.9096596" lon="15.350183">
+      <ele>575</ele>
+      <time>2022-01-18T01:50:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9093925" lon="15.3508776">
+      <ele>580</ele>
+      <time>2022-01-18T01:52:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9093553" lon="15.3514613">
+      <ele>585</ele>
+      <time>2022-01-18T01:53:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:23Z</time>
+    <bounds maxlat="50.0411249" maxlon="16.9552548" minlat="50.0387819" minlon="16.9522615"/>
+  </metadata>
+  <wpt lat="50.041124" lon="16.952261">
+    <ele>605</ele>
+    <name>Koprivna, okraj</name>
+    <link href="https://mapa-turystyczna.pl/node/7934">
+      <text>Koprivna, okraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.038782" lon="16.953742">
+    <ele>639</ele>
+    <name>Pod Smrkem</name>
+    <link href="https://mapa-turystyczna.pl/node/7933">
+      <text>Pod Smrkem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Koprivna, okraj - Pod Smrkem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0411243,16.9522615;50.04030200087227,16.95486554999999;50.0387819,16.9537421">
+    <text>Koprivna, okraj - Pod Smrkem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0411243" lon="16.9522615">
+      <ele>605</ele>
+      <time>2022-01-17T23:31:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0411249" lon="16.9528225">
+      <ele>611</ele>
+      <time>2022-01-17T23:32:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0410485" lon="16.9531949">
+      <ele>614</ele>
+      <time>2022-01-17T23:32:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0406765" lon="16.954418">
+      <ele>623</ele>
+      <time>2022-01-17T23:35:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0405914" lon="16.9546617">
+      <ele>625</ele>
+      <time>2022-01-17T23:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0400126" lon="16.9550694">
+      <ele>629</ele>
+      <time>2022-01-17T23:37:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0397118" lon="16.9552548">
+      <ele>633</ele>
+      <time>2022-01-17T23:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0394751" lon="16.9547261">
+      <ele>635</ele>
+      <time>2022-01-17T23:38:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0392501" lon="16.9546111">
+      <ele>638</ele>
+      <time>2022-01-17T23:39:34Z</time>
+    </trkpt>
+    <trkpt lat="50.039165" lon="16.9544794">
+      <ele>639</ele>
+      <time>2022-01-17T23:39:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0387819" lon="16.9537421">
+      <ele>639</ele>
+      <time>2022-01-17T23:41:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

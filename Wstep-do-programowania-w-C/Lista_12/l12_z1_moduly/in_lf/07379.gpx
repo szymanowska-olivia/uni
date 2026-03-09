@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:07Z</time>
+    <bounds maxlat="52.3048706" maxlon="20.8671355" minlat="52.3025614" minlon="20.8580589"/>
+  </metadata>
+  <wpt lat="52.302561" lon="20.867135">
+    <ele>100</ele>
+    <name>Opalen, skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/4989">
+      <text>Opalen, skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.304871" lon="20.858059">
+    <ele>96</ele>
+    <name>Michalowka, rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/5014">
+      <text>Michalowka, rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Opalen, skrzyzowanie szlakow czerwony / zolty - Michalowka, rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3025614,20.8671355;52.30338145759392,20.863546699999976;52.3048706,20.8580589">
+    <text>Opalen, skrzyzowanie szlakow czerwony / zolty - Michalowka, rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3025614" lon="20.8671355">
+      <ele>100</ele>
+      <time>2022-01-17T22:22:07Z</time>
+    </trkpt>
+    <trkpt lat="52.3042015" lon="20.8599579">
+      <ele>98</ele>
+      <time>2022-01-17T22:29:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3045279" lon="20.8595918">
+      <ele>97</ele>
+      <time>2022-01-17T22:30:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3046443" lon="20.8592257">
+      <ele>97</ele>
+      <time>2022-01-17T22:30:53Z</time>
+    </trkpt>
+    <trkpt lat="52.3047985" lon="20.8586651">
+      <ele>97</ele>
+      <time>2022-01-17T22:31:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3048706" lon="20.8580589">
+      <ele>96</ele>
+      <time>2022-01-17T22:32:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

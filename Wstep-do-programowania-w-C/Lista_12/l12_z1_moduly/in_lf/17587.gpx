@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:58Z</time>
+    <bounds maxlat="52.0835866" maxlon="21.1246355" minlat="52.0788724" minlon="21.1185582"/>
+  </metadata>
+  <wpt lat="52.083587" lon="21.119421">
+    <ele>95</ele>
+    <name>Konstancin-Jeziorna</name>
+    <link href="https://mapa-turystyczna.pl/node/11936">
+      <text>Konstancin-Jeziorna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.079236" lon="21.118558">
+    <ele>97</ele>
+    <name>Konstancin-Jeziorna, ul. Ptasia</name>
+    <link href="https://mapa-turystyczna.pl/node/11934">
+      <text>Konstancin-Jeziorna, ul. Ptasia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konstancin-Jeziorna - Konstancin-Jeziorna, ul. Ptasia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0835866,21.1194213;52.08061705491888,21.123482950000003;52.0792363,21.1185582">
+    <text>Konstancin-Jeziorna - Konstancin-Jeziorna, ul. Ptasia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0835866" lon="21.1194213">
+      <ele>95</ele>
+      <time>2022-01-18T01:15:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0820999" lon="21.1246355">
+      <ele>99</ele>
+      <time>2022-01-18T01:21:39Z</time>
+    </trkpt>
+    <trkpt lat="52.0812797" lon="21.1239899">
+      <ele>98</ele>
+      <time>2022-01-18T01:23:07Z</time>
+    </trkpt>
+    <trkpt lat="52.0799544" lon="21.122976">
+      <ele>97</ele>
+      <time>2022-01-18T01:25:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0788724" lon="21.1221035">
+      <ele>98</ele>
+      <time>2022-01-18T01:27:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0792363" lon="21.1185582">
+      <ele>97</ele>
+      <time>2022-01-18T01:30:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

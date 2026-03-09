@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:16Z</time>
+    <bounds maxlat="49.1280956" maxlon="22.7556921" minlat="49.1275967" minlon="22.7550994"/>
+  </metadata>
+  <wpt lat="49.127597" lon="22.755692">
+    <ele>733</ele>
+    <name>Dolina potoku Muczne</name>
+    <link href="https://mapa-turystyczna.pl/node/11577">
+      <text>Dolina potoku Muczne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.128096" lon="22.755099">
+    <ele>742</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11619">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina potoku Muczne - Rozejscie sciezek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1275967,22.7556921;49.12795215020752,22.75528705;49.1280956,22.7550994">
+    <text>Dolina potoku Muczne - Rozejscie sciezek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1275967" lon="22.7556921">
+      <ele>733</ele>
+      <time>2022-01-18T01:06:16Z</time>
+    </trkpt>
+    <trkpt lat="49.1278087" lon="22.7554747">
+      <ele>735</ele>
+      <time>2022-01-18T01:07:04Z</time>
+    </trkpt>
+    <trkpt lat="49.1280956" lon="22.7550994">
+      <ele>742</ele>
+      <time>2022-01-18T01:08:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

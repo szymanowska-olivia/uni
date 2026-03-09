@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:01Z</time>
+    <bounds maxlat="48.8828078" maxlon="20.1406163" minlat="48.881873" minlon="20.1390445"/>
+  </metadata>
+  <wpt lat="48.882808" lon="20.139045">
+    <ele>1946</ele>
+    <name>Kralova Hola</name>
+    <link href="https://mapa-turystyczna.pl/node/6519">
+      <text>Kralova Hola</text>
+    </link>
+  </wpt>
+  <wpt lat="48.881873" lon="20.140616">
+    <ele>1923</ele>
+    <name>Kralova Hola, pod vysielacom</name>
+    <link href="https://mapa-turystyczna.pl/node/6708">
+      <text>Kralova Hola, pod vysielacom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralova Hola - Kralova Hola, pod vysielacom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8828078,20.1390445;48.88236510004732,20.13983844999999;48.881873,20.1406163">
+    <text>Kralova Hola - Kralova Hola, pod vysielacom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8828078" lon="20.1390445">
+      <ele>1946</ele>
+      <time>2022-01-17T22:59:01Z</time>
+    </trkpt>
+    <trkpt lat="48.8827126" lon="20.1391196">
+      <ele>1947</ele>
+      <time>2022-01-17T22:59:10Z</time>
+    </trkpt>
+    <trkpt lat="48.8825432" lon="20.1395488">
+      <ele>1947</ele>
+      <time>2022-01-17T22:59:38Z</time>
+    </trkpt>
+    <trkpt lat="48.8824339" lon="20.1397312">
+      <ele>1945</ele>
+      <time>2022-01-17T22:59:51Z</time>
+    </trkpt>
+    <trkpt lat="48.8822963" lon="20.1399457">
+      <ele>1942</ele>
+      <time>2022-01-17T23:00:08Z</time>
+    </trkpt>
+    <trkpt lat="48.8821517" lon="20.140155">
+      <ele>1936</ele>
+      <time>2022-01-17T23:00:25Z</time>
+    </trkpt>
+    <trkpt lat="48.8820317" lon="20.1403159">
+      <ele>1931</ele>
+      <time>2022-01-17T23:00:39Z</time>
+    </trkpt>
+    <trkpt lat="48.881873" lon="20.1406163">
+      <ele>1923</ele>
+      <time>2022-01-17T23:01:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

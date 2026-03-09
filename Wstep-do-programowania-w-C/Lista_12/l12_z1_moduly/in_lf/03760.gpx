@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:04Z</time>
+    <bounds maxlat="50.2818533" maxlon="17.511574" minlat="50.2789977" minlon="17.5106943"/>
+  </metadata>
+  <wpt lat="50.278998" lon="17.511574">
+    <ele>340</ele>
+    <name>Wieszczyna, SSM</name>
+    <link href="https://mapa-turystyczna.pl/node/2623">
+      <text>Wieszczyna, SSM</text>
+    </link>
+  </wpt>
+  <wpt lat="50.281853" lon="17.510694">
+    <ele>336</ele>
+    <name>Wieszczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/2627">
+      <text>Wieszczyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wieszczyna, SSM - Wieszczyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2789977,17.511574;50.28071110195758,17.510924600000006;50.2818533,17.5106943">
+    <text>Wieszczyna, SSM - Wieszczyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2789977" lon="17.511574">
+      <ele>340</ele>
+      <time>2022-01-17T21:34:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2795804" lon="17.5112423">
+      <ele>338</ele>
+      <time>2022-01-17T21:35:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2798819" lon="17.5111466">
+      <ele>337</ele>
+      <time>2022-01-17T21:35:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2802794" lon="17.5110999">
+      <ele>336</ele>
+      <time>2022-01-17T21:36:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2811428" lon="17.5107493">
+      <ele>335</ele>
+      <time>2022-01-17T21:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2818533" lon="17.5106943">
+      <ele>336</ele>
+      <time>2022-01-17T21:39:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

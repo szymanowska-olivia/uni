@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:49Z</time>
+    <bounds maxlat="52.4388773" maxlon="20.6719943" minlat="52.4376613" minlon="20.6651481"/>
+  </metadata>
+  <wpt lat="52.437661" lon="20.671994">
+    <ele>104</ele>
+    <name>Modlin, ul. 29 Listopada</name>
+    <link href="https://mapa-turystyczna.pl/node/12306">
+      <text>Modlin, ul. 29 Listopada</text>
+    </link>
+  </wpt>
+  <wpt lat="52.438877" lon="20.665148">
+    <ele>104</ele>
+    <name>Modlin, ul. Obwodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12232">
+      <text>Modlin, ul. Obwodowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, ul. 29 Listopada - Modlin, ul. Obwodowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4376613,20.6719943;52.43828210401998,20.668487449999994;52.4388773,20.6651481">
+    <text>Modlin, ul. 29 Listopada - Modlin, ul. Obwodowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4376613" lon="20.6719943">
+      <ele>104</ele>
+      <time>2022-01-18T01:22:49Z</time>
+    </trkpt>
+    <trkpt lat="52.4376869" lon="20.6718268">
+      <ele>104</ele>
+      <time>2022-01-18T01:22:56Z</time>
+    </trkpt>
+    <trkpt lat="52.4388773" lon="20.6651481">
+      <ele>104</ele>
+      <time>2022-01-18T01:27:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

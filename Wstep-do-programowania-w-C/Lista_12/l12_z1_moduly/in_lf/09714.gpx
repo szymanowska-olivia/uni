@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:46Z</time>
+    <bounds maxlat="50.1481998" maxlon="17.2400272" minlat="50.1432117" minlon="17.2359502"/>
+  </metadata>
+  <wpt lat="50.1482" lon="17.23595">
+    <ele>996</ele>
+    <name>Pramen Zajeciho potoka</name>
+    <link href="https://mapa-turystyczna.pl/node/6819">
+      <text>Pramen Zajeciho potoka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.143212" lon="17.239566">
+    <ele>1005</ele>
+    <name>Lysy vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6818">
+      <text>Lysy vrch, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pramen Zajeciho potoka - Lysy vrch, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1481998,17.2359502;50.14604100042996,17.23915815;50.1432117,17.2395658">
+    <text>Pramen Zajeciho potoka - Lysy vrch, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1481998" lon="17.2359502">
+      <ele>996</ele>
+      <time>2022-01-17T23:02:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1477701" lon="17.2364652">
+      <ele>1001</ele>
+      <time>2022-01-17T23:03:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1469726" lon="17.2379994">
+      <ele>1013</ele>
+      <time>2022-01-17T23:05:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1466976" lon="17.2384286">
+      <ele>1016</ele>
+      <time>2022-01-17T23:06:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1462438" lon="17.2389543">
+      <ele>1015</ele>
+      <time>2022-01-17T23:07:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1458382" lon="17.239362">
+      <ele>1014</ele>
+      <time>2022-01-17T23:08:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1453088" lon="17.2398233">
+      <ele>1011</ele>
+      <time>2022-01-17T23:09:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1446831" lon="17.2400272">
+      <ele>1010</ele>
+      <time>2022-01-17T23:10:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1442362" lon="17.2397912">
+      <ele>1005</ele>
+      <time>2022-01-17T23:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1432117" lon="17.2395658">
+      <ele>1005</ele>
+      <time>2022-01-17T23:12:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

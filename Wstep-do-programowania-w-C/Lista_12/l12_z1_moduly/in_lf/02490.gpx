@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:06Z</time>
+    <bounds maxlat="50.4678512" maxlon="16.408714" minlat="50.4669565" minlon="16.4076841"/>
+  </metadata>
+  <wpt lat="50.467851" lon="16.408714">
+    <ele>691</ele>
+    <name>Skalne Wrota, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/1800">
+      <text>Skalne Wrota, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.466957" lon="16.407684">
+    <ele>695</ele>
+    <name>Skalne Grzyby, Skalne Wrota</name>
+    <link href="https://mapa-turystyczna.pl/node/1801">
+      <text>Skalne Grzyby, Skalne Wrota</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalne Wrota, odejscie szlaku niebieskiego - Skalne Grzyby, Skalne Wrota</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4678512,16.408714;50.46744605008011,16.4082283;50.4669565,16.4076841">
+    <text>Skalne Wrota, odejscie szlaku niebieskiego - Skalne Grzyby, Skalne Wrota</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4678512" lon="16.408714">
+      <ele>691</ele>
+      <time>2022-01-17T21:17:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4676424" lon="16.4084751">
+      <ele>693</ele>
+      <time>2022-01-17T21:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4675331" lon="16.4083034">
+      <ele>695</ele>
+      <time>2022-01-17T21:18:12Z</time>
+    </trkpt>
+    <trkpt lat="50.467359" lon="16.4081532">
+      <ele>693</ele>
+      <time>2022-01-17T21:18:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4672258" lon="16.4080889">
+      <ele>692</ele>
+      <time>2022-01-17T21:19:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4670824" lon="16.4079172">
+      <ele>693</ele>
+      <time>2022-01-17T21:19:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4669565" lon="16.4076841">
+      <ele>695</ele>
+      <time>2022-01-17T21:20:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

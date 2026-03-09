@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:28Z</time>
+    <bounds maxlat="50.6156557" maxlon="16.1228979" minlat="50.6148252" minlon="16.1227691"/>
+  </metadata>
+  <wpt lat="50.615656" lon="16.122769">
+    <ele>512</ele>
+    <name>Adrspasske skaly, vstup</name>
+    <link href="https://mapa-turystyczna.pl/node/6047">
+      <text>Adrspasske skaly, vstup</text>
+    </link>
+  </wpt>
+  <wpt lat="50.614825" lon="16.122839">
+    <ele>510</ele>
+    <name>Piskovna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6049">
+      <text>Piskovna, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Adrspasske skaly, vstup - Piskovna, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6156557,16.1227691;50.61522340004218,16.122814700000006;50.6148252,16.1228389">
+    <text>Adrspasske skaly, vstup - Piskovna, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6156557" lon="16.1227691">
+      <ele>512</ele>
+      <time>2022-01-17T22:43:28Z</time>
+    </trkpt>
+    <trkpt lat="50.615551" lon="16.1228549">
+      <ele>512</ele>
+      <time>2022-01-17T22:43:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6154463" lon="16.1228979">
+      <ele>511</ele>
+      <time>2022-01-17T22:43:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6152864" lon="16.1228442">
+      <ele>510</ele>
+      <time>2022-01-17T22:44:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6151604" lon="16.1227852">
+      <ele>510</ele>
+      <time>2022-01-17T22:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6150004" lon="16.1228603">
+      <ele>509</ele>
+      <time>2022-01-17T22:45:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6148252" lon="16.1228389">
+      <ele>510</ele>
+      <time>2022-01-17T22:45:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

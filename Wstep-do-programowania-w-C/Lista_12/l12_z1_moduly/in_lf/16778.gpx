@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:47Z</time>
+    <bounds maxlat="52.0277195" maxlon="21.0417691" minlat="52.0256466" minlon="21.0408293"/>
+  </metadata>
+  <wpt lat="52.02772" lon="21.041442">
+    <ele>113</ele>
+    <name>Zalesie Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/11470">
+      <text>Zalesie Gorne</text>
+    </link>
+  </wpt>
+  <wpt lat="52.025647" lon="21.0417">
+    <ele>114</ele>
+    <name>Zalesie Gorne, ul. Mlodych Wilczat</name>
+    <link href="https://mapa-turystyczna.pl/node/11471">
+      <text>Zalesie Gorne, ul. Mlodych Wilczat</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zalesie Gorne - Zalesie Gorne, ul. Mlodych Wilczat</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0277195,21.0414421;52.026444004560844,21.04142844999999;52.0256466,21.0416996">
+    <text>Zalesie Gorne - Zalesie Gorne, ul. Mlodych Wilczat</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0277195" lon="21.0414421">
+      <ele>113</ele>
+      <time>2022-01-18T01:02:47Z</time>
+    </trkpt>
+    <trkpt lat="52.0276311" lon="21.0410264">
+      <ele>112</ele>
+      <time>2022-01-18T01:03:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0275771" lon="21.0408293">
+      <ele>112</ele>
+      <time>2022-01-18T01:03:37Z</time>
+    </trkpt>
+    <trkpt lat="52.0270827" lon="21.0410878">
+      <ele>112</ele>
+      <time>2022-01-18T01:04:41Z</time>
+    </trkpt>
+    <trkpt lat="52.0258053" lon="21.0417691">
+      <ele>113</ele>
+      <time>2022-01-18T01:07:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0256466" lon="21.0416996">
+      <ele>114</ele>
+      <time>2022-01-18T01:07:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

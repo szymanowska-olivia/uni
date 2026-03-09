@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:04Z</time>
+    <bounds maxlat="49.12706" maxlon="19.171551" minlat="49.123411" minlon="19.17058"/>
+  </metadata>
+  <wpt lat="49.123411" lon="19.17061">
+    <ele>439</ele>
+    <name>Lubochna, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7189">
+      <text>Lubochna, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.12706" lon="19.171551">
+    <ele>443</ele>
+    <name>Lubochna, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/7171">
+      <text>Lubochna, vlak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubochna, razc. - Lubochna, vlak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.123411,19.17061;49.125499021729944,19.17145900000002;49.12706,19.171551">
+    <text>Lubochna, razc. - Lubochna, vlak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.123411" lon="19.17061">
+      <ele>439</ele>
+      <time>2022-01-17T23:12:04Z</time>
+    </trkpt>
+    <trkpt lat="49.123522" lon="19.17058">
+      <ele>440</ele>
+      <time>2022-01-17T23:12:13Z</time>
+    </trkpt>
+    <trkpt lat="49.1236" lon="19.170626">
+      <ele>440</ele>
+      <time>2022-01-17T23:12:19Z</time>
+    </trkpt>
+    <trkpt lat="49.123718" lon="19.170837">
+      <ele>441</ele>
+      <time>2022-01-17T23:12:33Z</time>
+    </trkpt>
+    <trkpt lat="49.123793" lon="19.170986">
+      <ele>441</ele>
+      <time>2022-01-17T23:12:42Z</time>
+    </trkpt>
+    <trkpt lat="49.123811" lon="19.171051">
+      <ele>442</ele>
+      <time>2022-01-17T23:12:46Z</time>
+    </trkpt>
+    <trkpt lat="49.12383" lon="19.171125">
+      <ele>442</ele>
+      <time>2022-01-17T23:12:50Z</time>
+    </trkpt>
+    <trkpt lat="49.123859" lon="19.171276">
+      <ele>442</ele>
+      <time>2022-01-17T23:12:57Z</time>
+    </trkpt>
+    <trkpt lat="49.123877" lon="19.171347">
+      <ele>443</ele>
+      <time>2022-01-17T23:13:01Z</time>
+    </trkpt>
+    <trkpt lat="49.123914" lon="19.171389">
+      <ele>443</ele>
+      <time>2022-01-17T23:13:05Z</time>
+    </trkpt>
+    <trkpt lat="49.124031" lon="19.171419">
+      <ele>443</ele>
+      <time>2022-01-17T23:13:14Z</time>
+    </trkpt>
+    <trkpt lat="49.126967" lon="19.171499">
+      <ele>442</ele>
+      <time>2022-01-17T23:16:56Z</time>
+    </trkpt>
+    <trkpt lat="49.12706" lon="19.171551">
+      <ele>443</ele>
+      <time>2022-01-17T23:17:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:02Z</time>
+    <bounds maxlat="50.571682" maxlon="16.1405953" minlat="50.571474" minlon="16.1403502"/>
+  </metadata>
+  <wpt lat="50.571474" lon="16.14035">
+    <ele>679</ele>
+    <name>Skaly, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/13146">
+      <text>Skaly, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.571668" lon="16.140477">
+    <ele>682</ele>
+    <name>Skalni masiv Hrad</name>
+    <link href="https://mapa-turystyczna.pl/node/5928">
+      <text>Skalni masiv Hrad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skaly, odb. - Skalni masiv Hrad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.571474,16.1403502;50.571593750007814,16.140570300000004;50.5716679,16.1404771">
+    <text>Skaly, odb. - Skalni masiv Hrad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.571474" lon="16.1403502">
+      <ele>679</ele>
+      <time>2022-01-18T01:49:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5715666" lon="16.1405453">
+      <ele>681</ele>
+      <time>2022-01-18T01:49:29Z</time>
+    </trkpt>
+    <trkpt lat="50.5716209" lon="16.1405953">
+      <ele>681</ele>
+      <time>2022-01-18T01:49:40Z</time>
+    </trkpt>
+    <trkpt lat="50.571682" lon="16.1405809">
+      <ele>682</ele>
+      <time>2022-01-18T01:49:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5716679" lon="16.1404771">
+      <ele>682</ele>
+      <time>2022-01-18T01:50:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

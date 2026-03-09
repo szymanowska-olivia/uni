@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:07:19Z</time>
+    <bounds maxlat="48.9510283" maxlon="20.5077732" minlat="48.9497759" minlon="20.5058795"/>
+  </metadata>
+  <wpt lat="48.951028" lon="20.507773">
+    <ele>489</ele>
+    <name>Smizany, Masa</name>
+    <link href="https://mapa-turystyczna.pl/node/6979">
+      <text>Smizany, Masa</text>
+    </link>
+  </wpt>
+  <wpt lat="48.949776" lon="20.505879">
+    <ele>489</ele>
+    <name>Smizany, Masa, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6978">
+      <text>Smizany, Masa, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smizany, Masa - Smizany, Masa, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9510283,20.5077732;48.950297250209104,20.506580949999993;48.9497759,20.5058795">
+    <text>Smizany, Masa - Smizany, Masa, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9510283" lon="20.5077732">
+      <ele>489</ele>
+      <time>2022-01-17T23:07:19Z</time>
+    </trkpt>
+    <trkpt lat="48.9504417" lon="20.5067942">
+      <ele>490</ele>
+      <time>2022-01-17T23:08:48Z</time>
+    </trkpt>
+    <trkpt lat="48.9501528" lon="20.5063677">
+      <ele>489</ele>
+      <time>2022-01-17T23:09:29Z</time>
+    </trkpt>
+    <trkpt lat="48.9497759" lon="20.5058795">
+      <ele>489</ele>
+      <time>2022-01-17T23:10:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:18Z</time>
+    <bounds maxlat="49.1981022" maxlon="22.6809216" minlat="49.1960626" minlon="22.6760323"/>
+  </metadata>
+  <wpt lat="49.196236" lon="22.680922">
+    <ele>540</ele>
+    <name>Procisne, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11583">
+      <text>Procisne, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="49.198102" lon="22.676032">
+    <ele>546</ele>
+    <name>Procisne, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/11620">
+      <text>Procisne, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Procisne, parking - Procisne, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1962356,22.6809216;49.196714600001975,22.678129849999998;49.1981022,22.6760323">
+    <text>Procisne, parking - Procisne, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1962356" lon="22.6809216">
+      <ele>540</ele>
+      <time>2022-01-18T01:06:18Z</time>
+    </trkpt>
+    <trkpt lat="49.1960766" lon="22.6806404">
+      <ele>540</ele>
+      <time>2022-01-18T01:06:54Z</time>
+    </trkpt>
+    <trkpt lat="49.1960626" lon="22.6803829">
+      <ele>541</ele>
+      <time>2022-01-18T01:07:19Z</time>
+    </trkpt>
+    <trkpt lat="49.196301" lon="22.679825">
+      <ele>546</ele>
+      <time>2022-01-18T01:08:23Z</time>
+    </trkpt>
+    <trkpt lat="49.1964657" lon="22.6791223">
+      <ele>552</ele>
+      <time>2022-01-18T01:09:35Z</time>
+    </trkpt>
+    <trkpt lat="49.1967006" lon="22.6784195">
+      <ele>548</ele>
+      <time>2022-01-18T01:10:51Z</time>
+    </trkpt>
+    <trkpt lat="49.1967286" lon="22.6778402">
+      <ele>551</ele>
+      <time>2022-01-18T01:11:47Z</time>
+    </trkpt>
+    <trkpt lat="49.1972124" lon="22.676939">
+      <ele>552</ele>
+      <time>2022-01-18T01:13:39Z</time>
+    </trkpt>
+    <trkpt lat="49.1976539" lon="22.6766403">
+      <ele>548</ele>
+      <time>2022-01-18T01:14:50Z</time>
+    </trkpt>
+    <trkpt lat="49.1978853" lon="22.6763721">
+      <ele>545</ele>
+      <time>2022-01-18T01:15:32Z</time>
+    </trkpt>
+    <trkpt lat="49.1981022" lon="22.6760323">
+      <ele>546</ele>
+      <time>2022-01-18T01:16:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

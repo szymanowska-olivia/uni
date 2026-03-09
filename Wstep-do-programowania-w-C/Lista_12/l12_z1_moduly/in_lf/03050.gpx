@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:19Z</time>
+    <bounds maxlat="50.2442066" maxlon="17.1427274" minlat="50.2427657" minlon="17.1411288"/>
+  </metadata>
+  <wpt lat="50.242766" lon="17.141129">
+    <ele>592</ele>
+    <name>Na pomezi</name>
+    <link href="https://mapa-turystyczna.pl/node/2144">
+      <text>Na pomezi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244207" lon="17.142727">
+    <ele>578</ele>
+    <name>Lipova</name>
+    <link href="https://mapa-turystyczna.pl/node/2182">
+      <text>Lipova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na pomezi - Lipova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2427657,17.1411288;50.24350505042235,17.141368850000006;50.2442066,17.1427274">
+    <text>Na pomezi - Lipova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2427657" lon="17.1411288">
+      <ele>592</ele>
+      <time>2022-01-17T21:24:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2433044" lon="17.1411529">
+      <ele>586</ele>
+      <time>2022-01-17T21:25:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2437057" lon="17.1415848">
+      <ele>581</ele>
+      <time>2022-01-17T21:25:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2442066" lon="17.1427274">
+      <ele>578</ele>
+      <time>2022-01-17T21:27:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

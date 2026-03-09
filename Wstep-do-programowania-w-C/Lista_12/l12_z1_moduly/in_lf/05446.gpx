@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:53Z</time>
+    <bounds maxlat="49.8617968" maxlon="19.6790671" minlat="49.8603932" minlon="19.6779773"/>
+  </metadata>
+  <wpt lat="49.861797" lon="19.677977">
+    <ele>360</ele>
+    <name>Kalwaria Zebrzydowska, ul. Klasztorna</name>
+    <link href="https://mapa-turystyczna.pl/node/3841">
+      <text>Kalwaria Zebrzydowska, ul. Klasztorna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.860393" lon="19.679067">
+    <ele>366</ele>
+    <name>Kalwaria Zebrzydowska, droga krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/1699">
+      <text>Kalwaria Zebrzydowska, droga krzyzowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kalwaria Zebrzydowska, ul. Klasztorna - Kalwaria Zebrzydowska, droga krzyzowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8617968,19.6779773;49.8613348502826,19.678780100000015;49.8603932,19.6790671">
+    <text>Kalwaria Zebrzydowska, ul. Klasztorna - Kalwaria Zebrzydowska, droga krzyzowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8617968" lon="19.6779773">
+      <ele>360</ele>
+      <time>2022-01-17T21:55:53Z</time>
+    </trkpt>
+    <trkpt lat="49.861673" lon="19.6782462">
+      <ele>360</ele>
+      <time>2022-01-17T21:56:31Z</time>
+    </trkpt>
+    <trkpt lat="49.8615001" lon="19.6785896">
+      <ele>359</ele>
+      <time>2022-01-17T21:57:21Z</time>
+    </trkpt>
+    <trkpt lat="49.8611696" lon="19.6789706">
+      <ele>360</ele>
+      <time>2022-01-17T21:58:34Z</time>
+    </trkpt>
+    <trkpt lat="49.8603932" lon="19.6790671">
+      <ele>366</ele>
+      <time>2022-01-17T22:00:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

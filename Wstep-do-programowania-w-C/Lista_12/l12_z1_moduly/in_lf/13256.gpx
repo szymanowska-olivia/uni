@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:25Z</time>
+    <bounds maxlat="50.5943348" maxlon="16.6042832" minlat="50.5941339" minlon="16.6022952"/>
+  </metadata>
+  <wpt lat="50.594335" lon="16.604283">
+    <ele>807</ele>
+    <name>Nad Trzesnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/9143">
+      <text>Nad Trzesnikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.594134" lon="16.602295">
+    <ele>821</ele>
+    <name>Pod Malinowa, poczatek szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9142">
+      <text>Pod Malinowa, poczatek szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Trzesnikiem - Pod Malinowa, poczatek szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5943348,16.6042832;50.59423970000889,16.60325609999998;50.5941339,16.6022952">
+    <text>Nad Trzesnikiem - Pod Malinowa, poczatek szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5943348" lon="16.6042832">
+      <ele>807</ele>
+      <time>2022-01-18T00:04:25Z</time>
+    </trkpt>
+    <trkpt lat="50.594329" lon="16.604003">
+      <ele>810</ele>
+      <time>2022-01-18T00:05:07Z</time>
+    </trkpt>
+    <trkpt lat="50.5942959" lon="16.6037121">
+      <ele>812</ele>
+      <time>2022-01-18T00:05:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5942686" lon="16.6034063">
+      <ele>814</ele>
+      <time>2022-01-18T00:06:37Z</time>
+    </trkpt>
+    <trkpt lat="50.5942108" lon="16.6031059">
+      <ele>816</ele>
+      <time>2022-01-18T00:07:23Z</time>
+    </trkpt>
+    <trkpt lat="50.594183" lon="16.6026111">
+      <ele>820</ele>
+      <time>2022-01-18T00:08:37Z</time>
+    </trkpt>
+    <trkpt lat="50.5941339" lon="16.6022952">
+      <ele>821</ele>
+      <time>2022-01-18T00:09:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

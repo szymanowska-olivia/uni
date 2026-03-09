@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:41Z</time>
+    <bounds maxlat="50.4422456" maxlon="16.2509182" minlat="50.4374862" minlon="16.246199"/>
+  </metadata>
+  <wpt lat="50.437486" lon="16.250918">
+    <ele>410</ele>
+    <name>Ekocentrum PNGS</name>
+    <link href="https://mapa-turystyczna.pl/node/11660">
+      <text>Ekocentrum PNGS</text>
+    </link>
+  </wpt>
+  <wpt lat="50.442246" lon="16.246199">
+    <ele>388</ele>
+    <name>Kudowa-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/1843">
+      <text>Kudowa-Zdroj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ekocentrum PNGS - Kudowa-Zdroj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4374862,16.2509182;50.439731307704214,16.248232199999997;50.4422456,16.246199">
+    <text>Ekocentrum PNGS - Kudowa-Zdroj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4374862" lon="16.2509182">
+      <ele>410</ele>
+      <time>2022-01-18T01:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4375683" lon="16.2507641">
+      <ele>408</ele>
+      <time>2022-01-18T01:07:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4385695" lon="16.2496966">
+      <ele>399</ele>
+      <time>2022-01-18T01:10:01Z</time>
+    </trkpt>
+    <trkpt lat="50.438621" lon="16.2495359">
+      <ele>398</ele>
+      <time>2022-01-18T01:10:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4386894" lon="16.2491282">
+      <ele>397</ele>
+      <time>2022-01-18T01:10:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4387915" lon="16.2489188">
+      <ele>397</ele>
+      <time>2022-01-18T01:10:58Z</time>
+    </trkpt>
+    <trkpt lat="50.4388773" lon="16.2488224">
+      <ele>397</ele>
+      <time>2022-01-18T01:11:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4405853" lon="16.247642">
+      <ele>394</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4422456" lon="16.246199">
+      <ele>388</ele>
+      <time>2022-01-18T01:17:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

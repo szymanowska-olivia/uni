@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:47Z</time>
+    <bounds maxlat="50.8309103" maxlon="15.2216674" minlat="50.8294422" minlon="15.2182768"/>
+  </metadata>
+  <wpt lat="50.829442" lon="15.218277">
+    <ele>1048</ele>
+    <name>Snezne vezicky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8813">
+      <text>Snezne vezicky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.83074" lon="15.221667">
+    <ele>1063</ele>
+    <name>Snezne vezicky</name>
+    <link href="https://mapa-turystyczna.pl/node/8814">
+      <text>Snezne vezicky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Snezne vezicky, rozc. - Snezne vezicky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8294422,15.2182768;50.83016950566598,15.219553650000028;50.8307398,15.2216672">
+    <text>Snezne vezicky, rozc. - Snezne vezicky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8294422" lon="15.2182768">
+      <ele>1048</ele>
+      <time>2022-01-17T23:56:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8308968" lon="15.2208305">
+      <ele>1064</ele>
+      <time>2022-01-18T00:00:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8309103" lon="15.2209539">
+      <ele>1064</ele>
+      <time>2022-01-18T00:00:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8308968" lon="15.2210612">
+      <ele>1064</ele>
+      <time>2022-01-18T00:00:58Z</time>
+    </trkpt>
+    <trkpt lat="50.830829" lon="15.2211685">
+      <ele>1064</ele>
+      <time>2022-01-18T00:01:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8307816" lon="15.2213294">
+      <ele>1064</ele>
+      <time>2022-01-18T00:01:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8307748" lon="15.2215386">
+      <ele>1063</ele>
+      <time>2022-01-18T00:01:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8307748" lon="15.2216674">
+      <ele>1063</ele>
+      <time>2022-01-18T00:01:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8307398" lon="15.2216672">
+      <ele>1063</ele>
+      <time>2022-01-18T00:01:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

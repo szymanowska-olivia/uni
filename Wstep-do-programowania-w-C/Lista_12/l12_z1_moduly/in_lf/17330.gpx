@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:38Z</time>
+    <bounds maxlat="51.0382431" maxlon="15.868608" minlat="51.0351704" minlon="15.8676374"/>
+  </metadata>
+  <wpt lat="51.038243" lon="15.868608">
+    <ele>255</ele>
+    <name>Mlyn Wielislaw</name>
+    <link href="https://mapa-turystyczna.pl/node/11788">
+      <text>Mlyn Wielislaw</text>
+    </link>
+  </wpt>
+  <wpt lat="51.03517" lon="15.868501">
+    <ele>249</ele>
+    <name>Sedziszowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3317">
+      <text>Sedziszowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mlyn Wielislaw - Sedziszowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0382431,15.868608;51.03671755007444,15.867677649999985;51.0351704,15.8685011">
+    <text>Mlyn Wielislaw - Sedziszowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0382431" lon="15.868608">
+      <ele>255</ele>
+      <time>2022-01-18T01:11:38Z</time>
+    </trkpt>
+    <trkpt lat="51.0378657" lon="15.8682569">
+      <ele>254</ele>
+      <time>2022-01-18T01:12:18Z</time>
+    </trkpt>
+    <trkpt lat="51.0376363" lon="15.8681792">
+      <ele>257</ele>
+      <time>2022-01-18T01:12:39Z</time>
+    </trkpt>
+    <trkpt lat="51.0373555" lon="15.8679834">
+      <ele>255</ele>
+      <time>2022-01-18T01:13:07Z</time>
+    </trkpt>
+    <trkpt lat="51.0369667" lon="15.8678627">
+      <ele>255</ele>
+      <time>2022-01-18T01:13:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0368006" lon="15.8677179">
+      <ele>253</ele>
+      <time>2022-01-18T01:14:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0366345" lon="15.8676374">
+      <ele>252</ele>
+      <time>2022-01-18T01:14:16Z</time>
+    </trkpt>
+    <trkpt lat="51.0358755" lon="15.8679566">
+      <ele>250</ele>
+      <time>2022-01-18T01:15:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0354521" lon="15.8682342">
+      <ele>249</ele>
+      <time>2022-01-18T01:16:08Z</time>
+    </trkpt>
+    <trkpt lat="51.0351704" lon="15.8685011">
+      <ele>249</ele>
+      <time>2022-01-18T01:16:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

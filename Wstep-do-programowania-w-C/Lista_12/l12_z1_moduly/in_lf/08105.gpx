@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:00Z</time>
+    <bounds maxlat="49.7833453" maxlon="20.1908699" minlat="49.780866" minlon="20.1867985"/>
+  </metadata>
+  <wpt lat="49.783345" lon="20.186798">
+    <ele>332</ele>
+    <name>Szczyrzyc</name>
+    <link href="https://mapa-turystyczna.pl/node/934">
+      <text>Szczyrzyc</text>
+    </link>
+  </wpt>
+  <wpt lat="49.780866" lon="20.19087">
+    <ele>338</ele>
+    <name>Szczyrzyc, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3839">
+      <text>Szczyrzyc, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczyrzyc - Szczyrzyc, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7833453,20.1867985;49.782298200049574,20.189090300000004;49.780866,20.1908699">
+    <text>Szczyrzyc - Szczyrzyc, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7833453" lon="20.1867985">
+      <ele>332</ele>
+      <time>2022-01-17T22:33:00Z</time>
+    </trkpt>
+    <trkpt lat="49.7829568" lon="20.1874744">
+      <ele>336</ele>
+      <time>2022-01-17T22:33:48Z</time>
+    </trkpt>
+    <trkpt lat="49.7827553" lon="20.1879304">
+      <ele>338</ele>
+      <time>2022-01-17T22:34:17Z</time>
+    </trkpt>
+    <trkpt lat="49.7824956" lon="20.1886987">
+      <ele>336</ele>
+      <time>2022-01-17T22:35:03Z</time>
+    </trkpt>
+    <trkpt lat="49.7823675" lon="20.1889669">
+      <ele>334</ele>
+      <time>2022-01-17T22:35:20Z</time>
+    </trkpt>
+    <trkpt lat="49.7822289" lon="20.1892137">
+      <ele>334</ele>
+      <time>2022-01-17T22:35:38Z</time>
+    </trkpt>
+    <trkpt lat="49.7815648" lon="20.1901169">
+      <ele>336</ele>
+      <time>2022-01-17T22:36:50Z</time>
+    </trkpt>
+    <trkpt lat="49.7810976" lon="20.1906919">
+      <ele>336</ele>
+      <time>2022-01-17T22:37:39Z</time>
+    </trkpt>
+    <trkpt lat="49.780866" lon="20.1908699">
+      <ele>338</ele>
+      <time>2022-01-17T22:38:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

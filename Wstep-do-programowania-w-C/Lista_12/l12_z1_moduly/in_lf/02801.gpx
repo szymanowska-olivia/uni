@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:16Z</time>
+    <bounds maxlat="50.1962875" maxlon="16.5136475" minlat="50.1960986" minlon="16.5100157"/>
+  </metadata>
+  <wpt lat="50.196287" lon="16.513648">
+    <ele>848</ele>
+    <name>Odbocka k pevnosti</name>
+    <link href="https://mapa-turystyczna.pl/node/2005">
+      <text>Odbocka k pevnosti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.196099" lon="16.510016">
+    <ele>833</ele>
+    <name>Delostrelecka tvrz Hanicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2006">
+      <text>Delostrelecka tvrz Hanicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odbocka k pevnosti - Delostrelecka tvrz Hanicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1962875,16.5136475;50.19623435000198,16.51234114999999;50.1960986,16.5100157">
+    <text>Odbocka k pevnosti - Delostrelecka tvrz Hanicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1962875" lon="16.5136475">
+      <ele>848</ele>
+      <time>2022-01-17T21:21:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1962481" lon="16.5128937">
+      <ele>844</ele>
+      <time>2022-01-17T21:22:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1962206" lon="16.5117886">
+      <ele>842</ele>
+      <time>2022-01-17T21:23:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1961794" lon="16.5103295">
+      <ele>836</ele>
+      <time>2022-01-17T21:25:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1961588" lon="16.5101847">
+      <ele>835</ele>
+      <time>2022-01-17T21:26:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1960986" lon="16.5100157">
+      <ele>833</ele>
+      <time>2022-01-17T21:26:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:38Z</time>
+    <bounds maxlat="52.429898" maxlon="20.9714349" minlat="52.4297275" minlon="20.9676101"/>
+  </metadata>
+  <wpt lat="52.429898" lon="20.96761">
+    <ele>80</ele>
+    <name>Michalow-Reginow, ul. Glowna</name>
+    <link href="https://mapa-turystyczna.pl/node/11417">
+      <text>Michalow-Reginow, ul. Glowna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.429744" lon="20.971435">
+    <ele>77</ele>
+    <name>Michalow-Reginow, ul. Prosta</name>
+    <link href="https://mapa-turystyczna.pl/node/11416">
+      <text>Michalow-Reginow, ul. Prosta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Michalow-Reginow, ul. Glowna - Michalow-Reginow, ul. Prosta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.429898,20.9676101;52.429782400034206,20.969383550000003;52.4297443,20.9714349">
+    <text>Michalow-Reginow, ul. Glowna - Michalow-Reginow, ul. Prosta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.429898" lon="20.9676101">
+      <ele>80</ele>
+      <time>2022-01-18T01:01:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4298373" lon="20.968762">
+      <ele>79</ele>
+      <time>2022-01-18T01:03:08Z</time>
+    </trkpt>
+    <trkpt lat="52.4297275" lon="20.9700051">
+      <ele>77</ele>
+      <time>2022-01-18T01:04:46Z</time>
+    </trkpt>
+    <trkpt lat="52.4297443" lon="20.9714349">
+      <ele>77</ele>
+      <time>2022-01-18T01:06:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

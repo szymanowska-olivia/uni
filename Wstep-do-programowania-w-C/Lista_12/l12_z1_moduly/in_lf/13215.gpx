@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:01Z</time>
+    <bounds maxlat="50.2211373" maxlon="19.0642868" minlat="50.2088361" minlon="19.0593019"/>
+  </metadata>
+  <wpt lat="50.221137" lon="19.059302">
+    <ele>288</ele>
+    <name>Giszowiec, ul. Pszczynska</name>
+    <link href="https://mapa-turystyczna.pl/node/9120">
+      <text>Giszowiec, ul. Pszczynska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.208836" lon="19.064287">
+    <ele>300</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/9100">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Giszowiec, ul. Pszczynska - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2211373,19.0593019;50.21325135426314,19.062650600000012;50.2088361,19.0642868">
+    <text>Giszowiec, ul. Pszczynska - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2211373" lon="19.0593019">
+      <ele>288</ele>
+      <time>2022-01-18T00:04:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2209122" lon="19.0593791">
+      <ele>289</ele>
+      <time>2022-01-18T00:04:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2200403" lon="19.0596902">
+      <ele>295</ele>
+      <time>2022-01-18T00:06:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2194141" lon="19.0599155">
+      <ele>299</ele>
+      <time>2022-01-18T00:07:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2186933" lon="19.060055">
+      <ele>301</ele>
+      <time>2022-01-18T00:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2182402" lon="19.0600657">
+      <ele>302</ele>
+      <time>2022-01-18T00:09:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2175769" lon="19.0600166">
+      <ele>302</ele>
+      <time>2022-01-18T00:10:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2176662" lon="19.0610144">
+      <ele>305</ele>
+      <time>2022-01-18T00:12:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2088361" lon="19.0642868">
+      <ele>300</ele>
+      <time>2022-01-18T00:29:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

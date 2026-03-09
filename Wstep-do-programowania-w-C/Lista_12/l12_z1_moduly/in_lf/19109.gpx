@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:35Z</time>
+    <bounds maxlat="52.1140027" maxlon="21.2658824" minlat="52.1136992" minlon="21.2655088"/>
+  </metadata>
+  <wpt lat="52.114003" lon="21.265509">
+    <ele>101</ele>
+    <name>Otwock, ul. Dluskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12925">
+      <text>Otwock, ul. Dluskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.113699" lon="21.265882">
+    <ele>100</ele>
+    <name>Otwock, ul. Goldflama</name>
+    <link href="https://mapa-turystyczna.pl/node/12926">
+      <text>Otwock, ul. Goldflama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Dluskiego - Otwock, ul. Goldflama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1140027,21.2655088;52.113850950258296,21.265695599999983;52.1136992,21.2658824">
+    <text>Otwock, ul. Dluskiego - Otwock, ul. Goldflama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1140027" lon="21.2655088">
+      <ele>101</ele>
+      <time>2022-01-18T01:42:35Z</time>
+    </trkpt>
+    <trkpt lat="52.1136992" lon="21.2658824">
+      <ele>100</ele>
+      <time>2022-01-18T01:43:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

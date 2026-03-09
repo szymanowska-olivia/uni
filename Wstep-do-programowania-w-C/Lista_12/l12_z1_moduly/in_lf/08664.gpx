@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:53Z</time>
+    <bounds maxlat="50.5943361" maxlon="16.1377573" minlat="50.5928446" minlon="16.1291742"/>
+  </metadata>
+  <wpt lat="50.592845" lon="16.129174">
+    <ele>615</ele>
+    <name>U Sekery</name>
+    <link href="https://mapa-turystyczna.pl/node/6025">
+      <text>U Sekery</text>
+    </link>
+  </wpt>
+  <wpt lat="50.593825" lon="16.137757">
+    <ele>583</ele>
+    <name>Zricenina hradu Strmen, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6026">
+      <text>Zricenina hradu Strmen, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Sekery - Zricenina hradu Strmen, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5928446,16.1291742;50.59426885004803,16.133429549999985;50.5938253,16.1377573">
+    <text>U Sekery - Zricenina hradu Strmen, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5928446" lon="16.1291742">
+      <ele>615</ele>
+      <time>2022-01-17T22:42:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5929399" lon="16.1296195">
+      <ele>613</ele>
+      <time>2022-01-17T22:43:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5932736" lon="16.1302525">
+      <ele>618</ele>
+      <time>2022-01-17T22:44:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5937402" lon="16.1311215">
+      <ele>616</ele>
+      <time>2022-01-17T22:45:29Z</time>
+    </trkpt>
+    <trkpt lat="50.5942016" lon="16.1330286">
+      <ele>606</ele>
+      <time>2022-01-17T22:47:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5943361" lon="16.1338305">
+      <ele>608</ele>
+      <time>2022-01-17T22:48:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5943072" lon="16.1342999">
+      <ele>603</ele>
+      <time>2022-01-17T22:49:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5942306" lon="16.1348015">
+      <ele>599</ele>
+      <time>2022-01-17T22:49:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5941574" lon="16.1365262">
+      <ele>593</ele>
+      <time>2022-01-17T22:51:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5938253" lon="16.1377573">
+      <ele>583</ele>
+      <time>2022-01-17T22:52:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

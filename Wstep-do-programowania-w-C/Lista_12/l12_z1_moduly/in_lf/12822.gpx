@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:57Z</time>
+    <bounds maxlat="50.8131481" maxlon="15.1558567" minlat="50.8129651" minlon="15.1554275"/>
+  </metadata>
+  <wpt lat="50.813148" lon="15.155857">
+    <ele>787</ele>
+    <name>Nova Louka</name>
+    <link href="https://mapa-turystyczna.pl/node/8820">
+      <text>Nova Louka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.812965" lon="15.155428">
+    <ele>791</ele>
+    <name>Gahleruv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/8821">
+      <text>Gahleruv kriz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nova Louka - Gahleruv kriz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8131481,15.1558567;50.81305660008962,15.155642099999973;50.8129651,15.1554275">
+    <text>Nova Louka - Gahleruv kriz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8131481" lon="15.1558567">
+      <ele>787</ele>
+      <time>2022-01-17T23:56:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8129651" lon="15.1554275">
+      <ele>791</ele>
+      <time>2022-01-17T23:57:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

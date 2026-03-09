@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:04Z</time>
+    <bounds maxlat="50.7854239" maxlon="16.4591074" minlat="50.78171" minlon="16.4547649"/>
+  </metadata>
+  <wpt lat="50.78171" lon="16.4548">
+    <ele>277</ele>
+    <name>Bystrzyca Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/2543">
+      <text>Bystrzyca Gorna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.785407" lon="16.459107">
+    <ele>276</ele>
+    <name>Bystrzyca Gorna rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/2544">
+      <text>Bystrzyca Gorna rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystrzyca Gorna - Bystrzyca Gorna rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.78171,16.4547998;50.78409605225841,16.4567819;50.7854069,16.4591074">
+    <text>Bystrzyca Gorna - Bystrzyca Gorna rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.78171" lon="16.4547998">
+      <ele>277</ele>
+      <time>2022-01-17T21:33:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7819763" lon="16.4547649">
+      <ele>277</ele>
+      <time>2022-01-17T21:33:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7820975" lon="16.4548494">
+      <ele>277</ele>
+      <time>2022-01-17T21:33:53Z</time>
+    </trkpt>
+    <trkpt lat="50.782346" lon="16.4552933">
+      <ele>276</ele>
+      <time>2022-01-17T21:34:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7836365" lon="16.4564681">
+      <ele>273</ele>
+      <time>2022-01-17T21:37:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7845556" lon="16.4570957">
+      <ele>270</ele>
+      <time>2022-01-17T21:39:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7850305" lon="16.4577448">
+      <ele>268</ele>
+      <time>2022-01-17T21:41:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7852611" lon="16.4582545">
+      <ele>271</ele>
+      <time>2022-01-17T21:41:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7853628" lon="16.4585012">
+      <ele>273</ele>
+      <time>2022-01-17T21:42:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7854239" lon="16.4588499">
+      <ele>275</ele>
+      <time>2022-01-17T21:42:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7854069" lon="16.4591074">
+      <ele>276</ele>
+      <time>2022-01-17T21:43:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

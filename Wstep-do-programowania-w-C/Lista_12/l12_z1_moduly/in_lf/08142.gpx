@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:38Z</time>
+    <bounds maxlat="49.8221695" maxlon="19.1657916" minlat="49.8217928" minlon="19.1643459"/>
+  </metadata>
+  <wpt lat="49.82217" lon="19.164346">
+    <ele>828</ele>
+    <name>Hrobacza Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/1001">
+      <text>Hrobacza Laka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.821793" lon="19.165792">
+    <ele>815</ele>
+    <name>Chata Turystyczna Hrobacza Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/5669">
+      <text>Chata Turystyczna Hrobacza Laka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hrobacza Laka - Chata Turystyczna Hrobacza Laka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8221695,19.1643459;49.82201190005506,19.164994600000007;49.8217928,19.1657916">
+    <text>Hrobacza Laka - Chata Turystyczna Hrobacza Laka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8221695" lon="19.1643459">
+      <ele>828</ele>
+      <time>2022-01-17T22:33:38Z</time>
+    </trkpt>
+    <trkpt lat="49.8220849" lon="19.1647075">
+      <ele>828</ele>
+      <time>2022-01-17T22:34:07Z</time>
+    </trkpt>
+    <trkpt lat="49.8219389" lon="19.1652817">
+      <ele>822</ele>
+      <time>2022-01-17T22:34:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8217928" lon="19.1657916">
+      <ele>815</ele>
+      <time>2022-01-17T22:35:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

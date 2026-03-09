@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:58Z</time>
+    <bounds maxlat="50.2915191" maxlon="16.1588931" minlat="50.2896752" minlon="16.1524236"/>
+  </metadata>
+  <wpt lat="50.289675" lon="16.152424">
+    <ele>284</ele>
+    <name>Dobruska, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6068">
+      <text>Dobruska, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291519" lon="16.158893">
+    <ele>294</ele>
+    <name>Dobruska</name>
+    <link href="https://mapa-turystyczna.pl/node/6067">
+      <text>Dobruska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dobruska, zeleznicni stanice - Dobruska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2896752,16.1524236;50.29022960002008,16.155821949999982;50.2915191,16.1588931">
+    <text>Dobruska, zeleznicni stanice - Dobruska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2896752" lon="16.1524236">
+      <ele>284</ele>
+      <time>2022-01-17T22:43:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2900128" lon="16.1532712">
+      <ele>285</ele>
+      <time>2022-01-17T22:45:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2900471" lon="16.1535126">
+      <ele>285</ele>
+      <time>2022-01-17T22:45:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2901156" lon="16.1549288">
+      <ele>288</ele>
+      <time>2022-01-17T22:47:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2901859" lon="16.1556798">
+      <ele>288</ele>
+      <time>2022-01-17T22:48:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2902733" lon="16.1559641">
+      <ele>288</ele>
+      <time>2022-01-17T22:49:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2915191" lon="16.1588931">
+      <ele>294</ele>
+      <time>2022-01-17T22:53:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

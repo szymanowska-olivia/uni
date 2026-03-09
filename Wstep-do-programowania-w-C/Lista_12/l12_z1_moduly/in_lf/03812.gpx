@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:55Z</time>
+    <bounds maxlat="50.2542059" maxlon="17.4297479" minlat="50.2531872" minlon="17.4296003"/>
+  </metadata>
+  <wpt lat="50.253187" lon="17.4296">
+    <ele>862</ele>
+    <name>Ruiny schroniska Rudolfsheim</name>
+    <link href="https://mapa-turystyczna.pl/node/2637">
+      <text>Ruiny schroniska Rudolfsheim</text>
+    </link>
+  </wpt>
+  <wpt lat="50.254206" lon="17.429649">
+    <ele>873</ele>
+    <name>Granica Biskupska kupa / Jarnoltowek</name>
+    <link href="https://mapa-turystyczna.pl/node/2674">
+      <text>Granica Biskupska kupa / Jarnoltowek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruiny schroniska Rudolfsheim - Granica Biskupska kupa / Jarnoltowek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2531872,17.4296003;50.25365020026129,17.42967445;50.2542059,17.4296486">
+    <text>Ruiny schroniska Rudolfsheim - Granica Biskupska kupa / Jarnoltowek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2531872" lon="17.4296003">
+      <ele>862</ele>
+      <time>2022-01-17T21:34:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2534924" lon="17.4296319">
+      <ele>865</ele>
+      <time>2022-01-17T21:35:48Z</time>
+    </trkpt>
+    <trkpt lat="50.253808" lon="17.429717">
+      <ele>869</ele>
+      <time>2022-01-17T21:36:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2540207" lon="17.4297479">
+      <ele>871</ele>
+      <time>2022-01-17T21:37:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2542059" lon="17.4296486">
+      <ele>873</ele>
+      <time>2022-01-17T21:37:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

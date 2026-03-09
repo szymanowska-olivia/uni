@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:02Z</time>
+    <bounds maxlat="50.7221776" maxlon="15.6054226" minlat="50.7169446" minlon="15.5996686"/>
+  </metadata>
+  <wpt lat="50.722178" lon="15.605423">
+    <ele>808</ele>
+    <name>U Tabulovych bud</name>
+    <link href="https://mapa-turystyczna.pl/node/1421">
+      <text>U Tabulovych bud</text>
+    </link>
+  </wpt>
+  <wpt lat="50.716945" lon="15.599669">
+    <ele>907</ele>
+    <name>Pod Hromovkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1271">
+      <text>Pod Hromovkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Tabulovych bud - Pod Hromovkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7221776,15.6054226;50.71918230135369,15.602269000000009;50.7169446,15.5996686">
+    <text>U Tabulovych bud - Pod Hromovkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7221776" lon="15.6054226">
+      <ele>808</ele>
+      <time>2022-01-17T21:09:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7218946" lon="15.6053861">
+      <ele>814</ele>
+      <time>2022-01-17T21:09:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7215776" lon="15.6049204">
+      <ele>820</ele>
+      <time>2022-01-17T21:11:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7210284" lon="15.6042605">
+      <ele>835</ele>
+      <time>2022-01-17T21:13:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7202645" lon="15.6033915">
+      <ele>858</ele>
+      <time>2022-01-17T21:16:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7195385" lon="15.6027129">
+      <ele>870</ele>
+      <time>2022-01-17T21:19:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7188261" lon="15.6018251">
+      <ele>879</ele>
+      <time>2022-01-17T21:21:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7181871" lon="15.6011492">
+      <ele>890</ele>
+      <time>2022-01-17T21:24:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7174361" lon="15.6001354">
+      <ele>899</ele>
+      <time>2022-01-17T21:27:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7169446" lon="15.5996686">
+      <ele>907</ele>
+      <time>2022-01-17T21:29:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

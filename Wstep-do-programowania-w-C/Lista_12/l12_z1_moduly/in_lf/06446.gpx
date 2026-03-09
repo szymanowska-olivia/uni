@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:14Z</time>
+    <bounds maxlat="50.7165354" maxlon="19.2894066" minlat="50.7042893" minlon="19.2862898"/>
+  </metadata>
+  <wpt lat="50.716535" lon="19.289407">
+    <ele>327</ele>
+    <name>Pod Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4501">
+      <text>Pod Jodlowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.704289" lon="19.28629">
+    <ele>368</ele>
+    <name>Biskupice</name>
+    <link href="https://mapa-turystyczna.pl/node/4500">
+      <text>Biskupice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jodlowa - Biskupice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7165354,19.2894066;50.71325761461202,19.28854825000002;50.7042893,19.2862898">
+    <text>Pod Jodlowa - Biskupice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7165354" lon="19.2894066">
+      <ele>327</ele>
+      <time>2022-01-17T22:07:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7099796" lon="19.2876899">
+      <ele>346</ele>
+      <time>2022-01-17T22:20:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7072464" lon="19.2870508">
+      <ele>368</ele>
+      <time>2022-01-17T22:26:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7049722" lon="19.2865205">
+      <ele>373</ele>
+      <time>2022-01-17T22:30:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7047242" lon="19.2863381">
+      <ele>370</ele>
+      <time>2022-01-17T22:31:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7042893" lon="19.2862898">
+      <ele>368</ele>
+      <time>2022-01-17T22:32:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

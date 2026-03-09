@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:35Z</time>
+    <bounds maxlat="50.7413249" maxlon="15.5821002" minlat="50.7395819" minlon="15.5747777"/>
+  </metadata>
+  <wpt lat="50.741325" lon="15.5821">
+    <ele>1235</ele>
+    <name>Medvedin</name>
+    <link href="https://mapa-turystyczna.pl/node/1206">
+      <text>Medvedin</text>
+    </link>
+  </wpt>
+  <wpt lat="50.739582" lon="15.574778">
+    <ele>1174</ele>
+    <name>U Medvedin</name>
+    <link href="https://mapa-turystyczna.pl/node/1420">
+      <text>U Medvedin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Medvedin - U Medvedin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7413249,15.5821002;50.739914350074535,15.578523400000037;50.7395819,15.5747777">
+    <text>Medvedin - U Medvedin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7413249" lon="15.5821002">
+      <ele>1235</ele>
+      <time>2022-01-17T21:03:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7409495" lon="15.5815584">
+      <ele>1229</ele>
+      <time>2022-01-17T21:04:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7407217" lon="15.5810702">
+      <ele>1225</ele>
+      <time>2022-01-17T21:05:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7401561" lon="15.5794649">
+      <ele>1211</ele>
+      <time>2022-01-17T21:07:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7399979" lon="15.578911">
+      <ele>1205</ele>
+      <time>2022-01-17T21:08:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7398308" lon="15.5781358">
+      <ele>1198</ele>
+      <time>2022-01-17T21:09:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7397546" lon="15.577637">
+      <ele>1194</ele>
+      <time>2022-01-17T21:10:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7395819" lon="15.5747777">
+      <ele>1174</ele>
+      <time>2022-01-17T21:13:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:50Z</time>
+    <bounds maxlat="50.0975631" maxlon="18.5446462" minlat="50.0920699" minlon="18.5442663"/>
+  </metadata>
+  <wpt lat="50.097563" lon="18.544646">
+    <ele>239</ele>
+    <name>Rybnik, ul. Jana III Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9553">
+      <text>Rybnik, ul. Jana III Sobieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.09207" lon="18.544353">
+    <ele>239</ele>
+    <name>Rybnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9352">
+      <text>Rybnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik, ul. Jana III Sobieskiego - Rybnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0975631,18.5446462;50.09521495387214,18.544319949999995;50.0920699,18.5443528">
+    <text>Rybnik, ul. Jana III Sobieskiego - Rybnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0975631" lon="18.5446462">
+      <ele>239</ele>
+      <time>2022-01-18T00:14:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0975034" lon="18.5446302">
+      <ele>240</ele>
+      <time>2022-01-18T00:14:57Z</time>
+    </trkpt>
+    <trkpt lat="50.0970354" lon="18.5446194">
+      <ele>240</ele>
+      <time>2022-01-18T00:15:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0966638" lon="18.5445229">
+      <ele>237</ele>
+      <time>2022-01-18T00:16:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0958241" lon="18.5443521">
+      <ele>234</ele>
+      <time>2022-01-18T00:18:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0946058" lon="18.5442878">
+      <ele>234</ele>
+      <time>2022-01-18T00:20:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0937317" lon="18.5442663">
+      <ele>237</ele>
+      <time>2022-01-18T00:21:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0934702" lon="18.5443414">
+      <ele>238</ele>
+      <time>2022-01-18T00:22:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0930159" lon="18.5444487">
+      <ele>239</ele>
+      <time>2022-01-18T00:23:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0920699" lon="18.5443528">
+      <ele>239</ele>
+      <time>2022-01-18T00:24:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

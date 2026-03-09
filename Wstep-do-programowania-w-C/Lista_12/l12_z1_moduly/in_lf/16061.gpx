@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:29Z</time>
+    <bounds maxlat="49.583552" maxlon="20.223186" minlat="49.583315" minlon="20.223186"/>
+  </metadata>
+  <wpt lat="49.583552" lon="20.223186">
+    <ele>723</ele>
+    <name>Trusiowka, mostek</name>
+    <link href="https://mapa-turystyczna.pl/node/4640">
+      <text>Trusiowka, mostek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.583315" lon="20.223186">
+    <ele>724</ele>
+    <name>Trusiowka, odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/10988">
+      <text>Trusiowka, odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trusiowka, mostek - Trusiowka, odejscie sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.583552,20.223186;49.583392500061564,20.22318599999999;49.583315,20.223186">
+    <text>Trusiowka, mostek - Trusiowka, odejscie sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.583552" lon="20.223186">
+      <ele>723</ele>
+      <time>2022-01-18T00:50:29Z</time>
+    </trkpt>
+    <trkpt lat="49.58347" lon="20.223186">
+      <ele>723</ele>
+      <time>2022-01-18T00:50:50Z</time>
+    </trkpt>
+    <trkpt lat="49.583315" lon="20.223186">
+      <ele>724</ele>
+      <time>2022-01-18T00:51:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

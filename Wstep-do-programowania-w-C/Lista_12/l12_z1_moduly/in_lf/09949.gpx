@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:07:18Z</time>
+    <bounds maxlat="48.9417765" maxlon="20.482091" minlat="48.9399583" minlon="20.4759246"/>
+  </metadata>
+  <wpt lat="48.939983" lon="20.475925">
+    <ele>498</ele>
+    <name>Lesnica, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/6975">
+      <text>Lesnica, ustie</text>
+    </link>
+  </wpt>
+  <wpt lat="48.941777" lon="20.482091">
+    <ele>503</ele>
+    <name>Cingov</name>
+    <link href="https://mapa-turystyczna.pl/node/6977">
+      <text>Cingov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica, ustie - Cingov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.939983,20.4759246;48.941099950609456,20.47883214999997;48.9417765,20.482091">
+    <text>Lesnica, ustie - Cingov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.939983" lon="20.4759246">
+      <ele>498</ele>
+      <time>2022-01-17T23:07:18Z</time>
+    </trkpt>
+    <trkpt lat="48.9399583" lon="20.4767561">
+      <ele>508</ele>
+      <time>2022-01-17T23:08:27Z</time>
+    </trkpt>
+    <trkpt lat="48.9401204" lon="20.4773784">
+      <ele>505</ele>
+      <time>2022-01-17T23:09:22Z</time>
+    </trkpt>
+    <trkpt lat="48.9402613" lon="20.4774427">
+      <ele>497</ele>
+      <time>2022-01-17T23:09:43Z</time>
+    </trkpt>
+    <trkpt lat="48.9403741" lon="20.4774106">
+      <ele>495</ele>
+      <time>2022-01-17T23:09:58Z</time>
+    </trkpt>
+    <trkpt lat="48.9405291" lon="20.4776251">
+      <ele>495</ele>
+      <time>2022-01-17T23:10:24Z</time>
+    </trkpt>
+    <trkpt lat="48.9405996" lon="20.4778504">
+      <ele>497</ele>
+      <time>2022-01-17T23:10:44Z</time>
+    </trkpt>
+    <trkpt lat="48.9408533" lon="20.4785049">
+      <ele>496</ele>
+      <time>2022-01-17T23:11:47Z</time>
+    </trkpt>
+    <trkpt lat="48.9413466" lon="20.4791594">
+      <ele>502</ele>
+      <time>2022-01-17T23:13:09Z</time>
+    </trkpt>
+    <trkpt lat="48.9416778" lon="20.4806185">
+      <ele>508</ele>
+      <time>2022-01-17T23:15:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9417553" lon="20.4814768">
+      <ele>503</ele>
+      <time>2022-01-17T23:16:27Z</time>
+    </trkpt>
+    <trkpt lat="48.9417553" lon="20.4819167">
+      <ele>503</ele>
+      <time>2022-01-17T23:17:03Z</time>
+    </trkpt>
+    <trkpt lat="48.9417765" lon="20.482091">
+      <ele>503</ele>
+      <time>2022-01-17T23:17:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

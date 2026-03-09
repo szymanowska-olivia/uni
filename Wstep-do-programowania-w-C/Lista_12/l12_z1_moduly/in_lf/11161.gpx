@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:34Z</time>
+    <bounds maxlat="49.660089" maxlon="18.855705" minlat="49.658374" minlon="18.853754"/>
+  </metadata>
+  <wpt lat="49.660089" lon="18.853754">
+    <ele>424</ele>
+    <name>Wisla, PKS</name>
+    <link href="https://mapa-turystyczna.pl/node/7863">
+      <text>Wisla, PKS</text>
+    </link>
+  </wpt>
+  <wpt lat="49.658374" lon="18.855705">
+    <ele>425</ele>
+    <name>Wisla</name>
+    <link href="https://mapa-turystyczna.pl/node/851">
+      <text>Wisla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, PKS - Wisla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.660089,18.853754;49.659323500164426,18.8548645;49.658374,18.855705">
+    <text>Wisla, PKS - Wisla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.660089" lon="18.853754">
+      <ele>424</ele>
+      <time>2022-01-17T23:29:34Z</time>
+    </trkpt>
+    <trkpt lat="49.659685" lon="18.854352">
+      <ele>424</ele>
+      <time>2022-01-17T23:30:51Z</time>
+    </trkpt>
+    <trkpt lat="49.65945" lon="18.854698">
+      <ele>424</ele>
+      <time>2022-01-17T23:31:35Z</time>
+    </trkpt>
+    <trkpt lat="49.659197" lon="18.855031">
+      <ele>425</ele>
+      <time>2022-01-17T23:32:20Z</time>
+    </trkpt>
+    <trkpt lat="49.659165" lon="18.8551">
+      <ele>425</ele>
+      <time>2022-01-17T23:32:28Z</time>
+    </trkpt>
+    <trkpt lat="49.658999" lon="18.855311">
+      <ele>424</ele>
+      <time>2022-01-17T23:32:57Z</time>
+    </trkpt>
+    <trkpt lat="49.658897" lon="18.855441">
+      <ele>423</ele>
+      <time>2022-01-17T23:33:15Z</time>
+    </trkpt>
+    <trkpt lat="49.65881" lon="18.855401">
+      <ele>424</ele>
+      <time>2022-01-17T23:33:28Z</time>
+    </trkpt>
+    <trkpt lat="49.658723" lon="18.85542">
+      <ele>424</ele>
+      <time>2022-01-17T23:33:40Z</time>
+    </trkpt>
+    <trkpt lat="49.658646" lon="18.855467">
+      <ele>424</ele>
+      <time>2022-01-17T23:33:51Z</time>
+    </trkpt>
+    <trkpt lat="49.658374" lon="18.855705">
+      <ele>425</ele>
+      <time>2022-01-17T23:34:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

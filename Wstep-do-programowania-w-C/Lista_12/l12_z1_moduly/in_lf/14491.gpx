@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:13Z</time>
+    <bounds maxlat="50.5405926" maxlon="19.3671692" minlat="50.5399174" minlon="19.3637724"/>
+  </metadata>
+  <wpt lat="50.540593" lon="19.363772">
+    <ele>329</ele>
+    <name>Rozejscie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/9879">
+      <text>Rozejscie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.539917" lon="19.367169">
+    <ele>321</ele>
+    <name>Myszkow, Nierada</name>
+    <link href="https://mapa-turystyczna.pl/node/4569">
+      <text>Myszkow, Nierada</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / zolty - Myszkow, Nierada</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5405926,19.3637724;50.54035245025617,19.36501950000002;50.5399174,19.3671692">
+    <text>Rozejscie szlakow zielony / zolty - Myszkow, Nierada</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5405926" lon="19.3637724">
+      <ele>329</ele>
+      <time>2022-01-18T00:23:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5405079" lon="19.3639749">
+      <ele>329</ele>
+      <time>2022-01-18T00:23:33Z</time>
+    </trkpt>
+    <trkpt lat="50.540197" lon="19.3660641">
+      <ele>326</ele>
+      <time>2022-01-18T00:26:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5400783" lon="19.3663352">
+      <ele>324</ele>
+      <time>2022-01-18T00:27:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5399174" lon="19.3671692">
+      <ele>321</ele>
+      <time>2022-01-18T00:28:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

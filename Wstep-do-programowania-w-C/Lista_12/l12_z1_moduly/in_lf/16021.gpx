@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:53Z</time>
+    <bounds maxlat="49.461179" maxlon="20.6671" minlat="49.460287" minlon="20.66605"/>
+  </metadata>
+  <wpt lat="49.460287" lon="20.667097">
+    <ele>764</ele>
+    <name>Kordowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/10966">
+      <text>Kordowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="49.461179" lon="20.66605">
+    <ele>762</ele>
+    <name>Chata Kordowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/162">
+      <text>Chata Kordowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kordowiec - Chata Kordowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.460287,20.667097;49.46074650010304,20.666790999999996;49.461179,20.66605">
+    <text>Kordowiec - Chata Kordowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.460287" lon="20.667097">
+      <ele>764</ele>
+      <time>2022-01-18T00:49:53Z</time>
+    </trkpt>
+    <trkpt lat="49.460395" lon="20.6671">
+      <ele>763</ele>
+      <time>2022-01-18T00:50:04Z</time>
+    </trkpt>
+    <trkpt lat="49.460485" lon="20.667095">
+      <ele>762</ele>
+      <time>2022-01-18T00:50:13Z</time>
+    </trkpt>
+    <trkpt lat="49.460646" lon="20.667036">
+      <ele>761</ele>
+      <time>2022-01-18T00:50:29Z</time>
+    </trkpt>
+    <trkpt lat="49.460847" lon="20.666546">
+      <ele>760</ele>
+      <time>2022-01-18T00:51:07Z</time>
+    </trkpt>
+    <trkpt lat="49.461179" lon="20.66605">
+      <ele>762</ele>
+      <time>2022-01-18T00:51:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

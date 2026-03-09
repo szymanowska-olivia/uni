@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:22Z</time>
+    <bounds maxlat="50.3566518" maxlon="16.6656877" minlat="50.3527447" minlon="16.662052"/>
+  </metadata>
+  <wpt lat="50.352745" lon="16.66568">
+    <ele>405</ele>
+    <name>Przelecz Mielnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/2095">
+      <text>Przelecz Mielnicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.356652" lon="16.662052">
+    <ele>453</ele>
+    <name>Odejscie na Wapniarke</name>
+    <link href="https://mapa-turystyczna.pl/node/7190">
+      <text>Odejscie na Wapniarke</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Mielnicka - Odejscie na Wapniarke</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3527447,16.6656804;50.35499005315873,16.663652650000014;50.3566518,16.662052">
+    <text>Przelecz Mielnicka - Odejscie na Wapniarke</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3527447" lon="16.6656804">
+      <ele>405</ele>
+      <time>2022-01-17T23:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3528667" lon="16.6656769">
+      <ele>405</ele>
+      <time>2022-01-17T23:12:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3531063" lon="16.6656877">
+      <ele>405</ele>
+      <time>2022-01-17T23:13:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3532501" lon="16.6656448">
+      <ele>405</ele>
+      <time>2022-01-17T23:14:00Z</time>
+    </trkpt>
+    <trkpt lat="50.353484" lon="16.665498">
+      <ele>407</ele>
+      <time>2022-01-17T23:14:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3544424" lon="16.6641569">
+      <ele>423</ele>
+      <time>2022-01-17T23:18:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3555377" lon="16.6631484">
+      <ele>439</ele>
+      <time>2022-01-17T23:23:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3566518" lon="16.662052">
+      <ele>453</ele>
+      <time>2022-01-17T23:27:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

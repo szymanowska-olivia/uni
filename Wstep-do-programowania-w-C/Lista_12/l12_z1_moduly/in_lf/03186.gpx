@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:26:18Z</time>
+    <bounds maxlat="50.8904633" maxlon="15.2750731" minlat="50.8808351" minlon="15.2723265"/>
+  </metadata>
+  <wpt lat="50.890463" lon="15.272327">
+    <ele>1112</ele>
+    <name>Smrk</name>
+    <link href="https://mapa-turystyczna.pl/node/2266">
+      <text>Smrk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.880835" lon="15.275073">
+    <ele>931</ele>
+    <name>Nebesky zebrik</name>
+    <link href="https://mapa-turystyczna.pl/node/2275">
+      <text>Nebesky zebrik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smrk - Nebesky zebrik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8904633,15.2723265;50.883486025412516,15.274965799999997;50.8808351,15.2750731">
+    <text>Smrk - Nebesky zebrik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8904633" lon="15.2723265">
+      <ele>1112</ele>
+      <time>2022-01-17T21:26:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8861368" lon="15.2748585">
+      <ele>1084</ele>
+      <time>2022-01-17T21:33:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8808351" lon="15.2750731">
+      <ele>931</ele>
+      <time>2022-01-17T21:41:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:51Z</time>
+    <bounds maxlat="50.3789256" maxlon="16.1880688" minlat="50.3768456" minlon="16.1861122"/>
+  </metadata>
+  <wpt lat="50.378926" lon="16.186359">
+    <ele>343</ele>
+    <name>Peklo</name>
+    <link href="https://mapa-turystyczna.pl/node/5724">
+      <text>Peklo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.376846" lon="16.187839">
+    <ele>336</ele>
+    <name>Pod Konickem</name>
+    <link href="https://mapa-turystyczna.pl/node/5954">
+      <text>Pod Konickem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Peklo - Pod Konickem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3789256,16.1863589;50.3778403001533,16.18678869999999;50.3768456,16.1878395">
+    <text>Peklo - Pod Konickem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3789256" lon="16.1863589">
+      <ele>343</ele>
+      <time>2022-01-17T22:40:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3787443" lon="16.1863106">
+      <ele>341</ele>
+      <time>2022-01-17T22:41:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3785185" lon="16.1861309">
+      <ele>337</ele>
+      <time>2022-01-17T22:41:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3784364" lon="16.1861122">
+      <ele>335</ele>
+      <time>2022-01-17T22:41:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3782089" lon="16.1861524">
+      <ele>334</ele>
+      <time>2022-01-17T22:42:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3779609" lon="16.1864608">
+      <ele>332</ele>
+      <time>2022-01-17T22:42:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3777197" lon="16.1871166">
+      <ele>334</ele>
+      <time>2022-01-17T22:43:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3773417" lon="16.1877993">
+      <ele>339</ele>
+      <time>2022-01-17T22:44:45Z</time>
+    </trkpt>
+    <trkpt lat="50.377121" lon="16.1880688">
+      <ele>344</ele>
+      <time>2022-01-17T22:45:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3768456" lon="16.1878395">
+      <ele>336</ele>
+      <time>2022-01-17T22:45:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

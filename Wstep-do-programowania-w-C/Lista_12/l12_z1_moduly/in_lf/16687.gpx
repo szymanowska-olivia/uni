@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:07Z</time>
+    <bounds maxlat="52.4013295" maxlon="20.9410296" minlat="52.3994789" minlon="20.933346"/>
+  </metadata>
+  <wpt lat="52.400809" lon="20.94103">
+    <ele>80</ele>
+    <name>Legionowo, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11395">
+      <text>Legionowo, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.40133" lon="20.933346">
+    <ele>79</ele>
+    <name>Legionowo, pomnik Polski Walczacej</name>
+    <link href="https://mapa-turystyczna.pl/node/11398">
+      <text>Legionowo, pomnik Polski Walczacej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, dworzec autobusowy - Legionowo, pomnik Polski Walczacej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4008089,20.9410296;52.39981275126299,20.93716395000001;52.4013295,20.933346">
+    <text>Legionowo, dworzec autobusowy - Legionowo, pomnik Polski Walczacej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4008089" lon="20.9410296">
+      <ele>80</ele>
+      <time>2022-01-18T01:01:07Z</time>
+    </trkpt>
+    <trkpt lat="52.4010092" lon="20.9407644">
+      <ele>78</ele>
+      <time>2022-01-18T01:01:31Z</time>
+    </trkpt>
+    <trkpt lat="52.4010485" lon="20.9406732">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:37Z</time>
+    </trkpt>
+    <trkpt lat="52.401045" lon="20.9405543">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3997899" lon="20.9383173">
+      <ele>80</ele>
+      <time>2022-01-18T01:04:34Z</time>
+    </trkpt>
+    <trkpt lat="52.4001466" lon="20.9377594">
+      <ele>81</ele>
+      <time>2022-01-18T01:05:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3994789" lon="20.9365685">
+      <ele>80</ele>
+      <time>2022-01-18T01:06:50Z</time>
+    </trkpt>
+    <trkpt lat="52.4013223" lon="20.9337723">
+      <ele>80</ele>
+      <time>2022-01-18T01:10:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4012961" lon="20.9336811">
+      <ele>80</ele>
+      <time>2022-01-18T01:10:47Z</time>
+    </trkpt>
+    <trkpt lat="52.4012798" lon="20.9336168">
+      <ele>80</ele>
+      <time>2022-01-18T01:10:51Z</time>
+    </trkpt>
+    <trkpt lat="52.4012896" lon="20.9334666">
+      <ele>79</ele>
+      <time>2022-01-18T01:10:59Z</time>
+    </trkpt>
+    <trkpt lat="52.4013295" lon="20.933346">
+      <ele>79</ele>
+      <time>2022-01-18T01:11:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

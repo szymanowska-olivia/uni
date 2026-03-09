@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:39Z</time>
+    <bounds maxlat="53.8801377" maxlon="14.4480777" minlat="53.8788139" minlon="14.444936"/>
+  </metadata>
+  <wpt lat="53.878991" lon="14.444936">
+    <ele>5</ele>
+    <name>Wapnica</name>
+    <link href="https://mapa-turystyczna.pl/node/8576">
+      <text>Wapnica</text>
+    </link>
+  </wpt>
+  <wpt lat="53.880138" lon="14.448078">
+    <ele>3</ele>
+    <name>Wapnica, ul. Okragla</name>
+    <link href="https://mapa-turystyczna.pl/node/8619">
+      <text>Wapnica, ul. Okragla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wapnica - Wapnica, ul. Okragla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.878991,14.444936;53.879139651268915,14.447048850000005;53.8801377,14.4480777">
+    <text>Wapnica - Wapnica, ul. Okragla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.878991" lon="14.444936">
+      <ele>5</ele>
+      <time>2022-01-17T23:51:39Z</time>
+    </trkpt>
+    <trkpt lat="53.8788139" lon="14.446845">
+      <ele>6</ele>
+      <time>2022-01-17T23:53:47Z</time>
+    </trkpt>
+    <trkpt lat="53.8794654" lon="14.4472527">
+      <ele>4</ele>
+      <time>2022-01-17T23:55:06Z</time>
+    </trkpt>
+    <trkpt lat="53.8798286" lon="14.4477086">
+      <ele>3</ele>
+      <time>2022-01-17T23:55:56Z</time>
+    </trkpt>
+    <trkpt lat="53.8801377" lon="14.4480777">
+      <ele>3</ele>
+      <time>2022-01-17T23:56:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

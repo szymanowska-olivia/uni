@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:55Z</time>
+    <bounds maxlat="51.2995146" maxlon="16.9098745" minlat="51.2990945" minlon="16.9080635"/>
+  </metadata>
+  <wpt lat="51.299095" lon="16.908064">
+    <ele>169</ele>
+    <name>Oborniki Slaskie, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10528">
+      <text>Oborniki Slaskie, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.299515" lon="16.909875">
+    <ele>172</ele>
+    <name>Oborniki Slaskie, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/10565">
+      <text>Oborniki Slaskie, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oborniki Slaskie, dworzec kolejowy - Oborniki Slaskie, ul. Kosciuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2990945,16.9080635;51.29930455048057,16.908968999999974;51.2995146,16.9098745">
+    <text>Oborniki Slaskie, dworzec kolejowy - Oborniki Slaskie, ul. Kosciuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2990945" lon="16.9080635">
+      <ele>169</ele>
+      <time>2022-01-18T00:39:55Z</time>
+    </trkpt>
+    <trkpt lat="51.2995146" lon="16.9098745">
+      <ele>172</ele>
+      <time>2022-01-18T00:41:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

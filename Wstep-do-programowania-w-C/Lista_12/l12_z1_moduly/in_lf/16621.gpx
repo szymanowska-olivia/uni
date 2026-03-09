@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:50Z</time>
+    <bounds maxlat="49.1125972" maxlon="22.8285329" minlat="49.1123198" minlon="22.827932"/>
+  </metadata>
+  <wpt lat="49.11232" lon="22.828533">
+    <ele>669</ele>
+    <name>Torfowisko Tarnawa</name>
+    <link href="https://mapa-turystyczna.pl/node/11344">
+      <text>Torfowisko Tarnawa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.112594" lon="22.827932">
+    <ele>668</ele>
+    <name>Torfowisko Tarnawa</name>
+    <link href="https://mapa-turystyczna.pl/node/11345">
+      <text>Torfowisko Tarnawa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Torfowisko Tarnawa - Torfowisko Tarnawa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1123198,22.8285329;49.112495350021,22.828181400000013;49.1125937,22.827932">
+    <text>Torfowisko Tarnawa - Torfowisko Tarnawa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1123198" lon="22.8285329">
+      <ele>669</ele>
+      <time>2022-01-18T00:59:50Z</time>
+    </trkpt>
+    <trkpt lat="49.1124497" lon="22.8282485">
+      <ele>668</ele>
+      <time>2022-01-18T01:00:18Z</time>
+    </trkpt>
+    <trkpt lat="49.112541" lon="22.8281143">
+      <ele>668</ele>
+      <time>2022-01-18T01:00:33Z</time>
+    </trkpt>
+    <trkpt lat="49.1125972" lon="22.8280124">
+      <ele>668</ele>
+      <time>2022-01-18T01:00:44Z</time>
+    </trkpt>
+    <trkpt lat="49.1125937" lon="22.827932">
+      <ele>668</ele>
+      <time>2022-01-18T01:00:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

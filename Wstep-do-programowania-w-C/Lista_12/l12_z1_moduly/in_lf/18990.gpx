@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:37Z</time>
+    <bounds maxlat="51.4093932" maxlon="23.0951931" minlat="51.4089783" minlon="23.094059"/>
+  </metadata>
+  <wpt lat="51.408978" lon="23.095193">
+    <ele>170</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12857">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.409393" lon="23.094059">
+    <ele>170</ele>
+    <name>Rybakowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12862">
+      <text>Rybakowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Rybakowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4089783,23.0951931;51.40920570008278,23.09457730000002;51.4093932,23.094059">
+    <text>Rozejscie sciezki - Rybakowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4089783" lon="23.0951931">
+      <ele>170</ele>
+      <time>2022-01-18T01:40:37Z</time>
+    </trkpt>
+    <trkpt lat="51.4091187" lon="23.0948455">
+      <ele>170</ele>
+      <time>2022-01-18T01:40:56Z</time>
+    </trkpt>
+    <trkpt lat="51.4092927" lon="23.0943091">
+      <ele>170</ele>
+      <time>2022-01-18T01:41:23Z</time>
+    </trkpt>
+    <trkpt lat="51.4093932" lon="23.094059">
+      <ele>170</ele>
+      <time>2022-01-18T01:41:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

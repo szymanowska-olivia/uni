@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:47Z</time>
+    <bounds maxlat="50.7026547" maxlon="15.6232774" minlat="50.7020673" minlon="15.620786"/>
+  </metadata>
+  <wpt lat="50.702067" lon="15.620786">
+    <ele>1162</ele>
+    <name>Boudy na Planine</name>
+    <link href="https://mapa-turystyczna.pl/node/3902">
+      <text>Boudy na Planine</text>
+    </link>
+  </wpt>
+  <wpt lat="50.702655" lon="15.623277">
+    <ele>1179</ele>
+    <name>Bouda na Plani</name>
+    <link href="https://mapa-turystyczna.pl/node/1091">
+      <text>Bouda na Plani</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Boudy na Planine - Bouda na Plani</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7020673,15.620786;50.702515600034154,15.622164299999989;50.7026547,15.6232774">
+    <text>Boudy na Planine - Bouda na Plani</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7020673" lon="15.620786">
+      <ele>1162</ele>
+      <time>2022-01-17T21:57:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7021648" lon="15.6210754">
+      <ele>1165</ele>
+      <time>2022-01-17T21:58:23Z</time>
+    </trkpt>
+    <trkpt lat="50.702459" lon="15.6217271">
+      <ele>1173</ele>
+      <time>2022-01-17T21:59:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7025722" lon="15.6226015">
+      <ele>1178</ele>
+      <time>2022-01-17T22:01:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7026547" lon="15.6232774">
+      <ele>1179</ele>
+      <time>2022-01-17T22:02:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

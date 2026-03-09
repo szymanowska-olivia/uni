@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:14Z</time>
+    <bounds maxlat="51.1421703" maxlon="20.4132148" minlat="51.1401472" minlon="20.4122968"/>
+  </metadata>
+  <wpt lat="51.140147" lon="20.412297">
+    <ele>270</ele>
+    <name>Niebo</name>
+    <link href="https://mapa-turystyczna.pl/node/7265">
+      <text>Niebo</text>
+    </link>
+  </wpt>
+  <wpt lat="51.14217" lon="20.413215">
+    <ele>266</ele>
+    <name>Niebo, odejscie Piekielnego Szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/7266">
+      <text>Niebo, odejscie Piekielnego Szlaku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niebo - Niebo, odejscie Piekielnego Szlaku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1401472,20.4122968;51.141351756410884,20.412871249999974;51.1421703,20.4132148">
+    <text>Niebo - Niebo, odejscie Piekielnego Szlaku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1401472" lon="20.4122968">
+      <ele>270</ele>
+      <time>2022-01-17T23:14:14Z</time>
+    </trkpt>
+    <trkpt lat="51.1405824" lon="20.412544">
+      <ele>267</ele>
+      <time>2022-01-17T23:15:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1421211" lon="20.4131985">
+      <ele>265</ele>
+      <time>2022-01-17T23:19:07Z</time>
+    </trkpt>
+    <trkpt lat="51.1421703" lon="20.4132148">
+      <ele>266</ele>
+      <time>2022-01-17T23:19:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

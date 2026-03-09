@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:55Z</time>
+    <bounds maxlat="50.8825832" maxlon="16.7327605" minlat="50.882225" minlon="16.7317412"/>
+  </metadata>
+  <wpt lat="50.882583" lon="16.731741">
+    <ele>371</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11696">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.882225" lon="16.732761">
+    <ele>363</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11694">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8825832,16.7317412;50.88235520018191,16.732414999999985;50.882225,16.7327605">
+    <text>Skrzyzowanie szlakow - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8825832" lon="16.7317412">
+      <ele>371</ele>
+      <time>2022-01-18T01:08:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8824854" lon="16.7320695">
+      <ele>370</ele>
+      <time>2022-01-18T01:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.882225" lon="16.7327605">
+      <ele>363</ele>
+      <time>2022-01-18T01:09:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:02Z</time>
+    <bounds maxlat="49.65434" maxlon="18.866753" minlat="49.653839" minlon="18.865831"/>
+  </metadata>
+  <wpt lat="49.653839" lon="18.865831">
+    <ele>435</ele>
+    <name>Wisla, ul. Willowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12333">
+      <text>Wisla, ul. Willowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.65434" lon="18.866753">
+    <ele>441</ele>
+    <name>Wisla, Partecznik</name>
+    <link href="https://mapa-turystyczna.pl/node/12334">
+      <text>Wisla, Partecznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, ul. Willowa - Wisla, Partecznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.653839,18.865831;49.65399100023734,18.866129000000015;49.65434,18.866753">
+    <text>Wisla, ul. Willowa - Wisla, Partecznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.653839" lon="18.865831">
+      <ele>435</ele>
+      <time>2022-01-18T01:26:02Z</time>
+    </trkpt>
+    <trkpt lat="49.654143" lon="18.866427">
+      <ele>437</ele>
+      <time>2022-01-18T01:27:17Z</time>
+    </trkpt>
+    <trkpt lat="49.654233" lon="18.866594">
+      <ele>439</ele>
+      <time>2022-01-18T01:27:39Z</time>
+    </trkpt>
+    <trkpt lat="49.65434" lon="18.866753">
+      <ele>441</ele>
+      <time>2022-01-18T01:28:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

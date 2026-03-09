@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:48Z</time>
+    <bounds maxlat="51.3373531" maxlon="23.1888967" minlat="51.3281809" minlon="23.1728471"/>
+  </metadata>
+  <wpt lat="51.337353" lon="23.188897">
+    <ele>179</ele>
+    <name>Swierszczow</name>
+    <link href="https://mapa-turystyczna.pl/node/13282">
+      <text>Swierszczow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.331655" lon="23.173257">
+    <ele>178</ele>
+    <name>Podblocie</name>
+    <link href="https://mapa-turystyczna.pl/node/13283">
+      <text>Podblocie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swierszczow - Podblocie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3373531,23.1888967;51.33276722936601,23.18643645;51.3316549,23.1732567">
+    <text>Swierszczow - Podblocie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3373531" lon="23.1888967">
+      <ele>179</ele>
+      <time>2022-01-18T01:52:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3281809" lon="23.1839762">
+      <ele>176</ele>
+      <time>2022-01-18T02:08:50Z</time>
+    </trkpt>
+    <trkpt lat="51.3294939" lon="23.1778788">
+      <ele>179</ele>
+      <time>2022-01-18T02:15:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3305794" lon="23.1729365">
+      <ele>181</ele>
+      <time>2022-01-18T02:20:56Z</time>
+    </trkpt>
+    <trkpt lat="51.330648" lon="23.1728596">
+      <ele>181</ele>
+      <time>2022-01-18T02:21:04Z</time>
+    </trkpt>
+    <trkpt lat="51.3307568" lon="23.1728471">
+      <ele>180</ele>
+      <time>2022-01-18T02:21:15Z</time>
+    </trkpt>
+    <trkpt lat="51.3316549" lon="23.1732567">
+      <ele>178</ele>
+      <time>2022-01-18T02:22:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

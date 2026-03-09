@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:48:20Z</time>
+    <bounds maxlat="54.4089624" maxlon="18.51192" minlat="54.4061962" minlon="18.5093665"/>
+  </metadata>
+  <wpt lat="54.408962" lon="18.51192">
+    <ele>104</ele>
+    <name>Dolina Ewy</name>
+    <link href="https://mapa-turystyczna.pl/node/10921">
+      <text>Dolina Ewy</text>
+    </link>
+  </wpt>
+  <wpt lat="54.406196" lon="18.50942">
+    <ele>144</ele>
+    <name>Wzniesienie Marii</name>
+    <link href="https://mapa-turystyczna.pl/node/10830">
+      <text>Wzniesienie Marii</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Ewy - Wzniesienie Marii</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4089624,18.51192;54.40752470073246,18.51092489999999;54.4061962,18.5094202">
+    <text>Dolina Ewy - Wzniesienie Marii</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4089624" lon="18.51192">
+      <ele>104</ele>
+      <time>2022-01-18T00:48:20Z</time>
+    </trkpt>
+    <trkpt lat="54.4084254" lon="18.5113835">
+      <ele>110</ele>
+      <time>2022-01-18T00:50:03Z</time>
+    </trkpt>
+    <trkpt lat="54.4077698" lon="18.5111475">
+      <ele>133</ele>
+      <time>2022-01-18T00:52:00Z</time>
+    </trkpt>
+    <trkpt lat="54.4072796" lon="18.5107023">
+      <ele>133</ele>
+      <time>2022-01-18T00:53:32Z</time>
+    </trkpt>
+    <trkpt lat="54.4072765" lon="18.5097581">
+      <ele>139</ele>
+      <time>2022-01-18T00:55:03Z</time>
+    </trkpt>
+    <trkpt lat="54.4069486" lon="18.5093665">
+      <ele>144</ele>
+      <time>2022-01-18T00:56:10Z</time>
+    </trkpt>
+    <trkpt lat="54.4066489" lon="18.5095596">
+      <ele>141</ele>
+      <time>2022-01-18T00:57:03Z</time>
+    </trkpt>
+    <trkpt lat="54.4063929" lon="18.5095221">
+      <ele>143</ele>
+      <time>2022-01-18T00:57:46Z</time>
+    </trkpt>
+    <trkpt lat="54.4061962" lon="18.5094202">
+      <ele>144</ele>
+      <time>2022-01-18T00:58:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

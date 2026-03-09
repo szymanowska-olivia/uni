@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:07Z</time>
+    <bounds maxlat="49.5707703" maxlon="18.6748856" minlat="49.569584" minlon="18.6736545"/>
+  </metadata>
+  <wpt lat="49.57077" lon="18.673655">
+    <ele>984</ele>
+    <name>Kozubova, kaple, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7519">
+      <text>Kozubova, kaple, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.569584" lon="18.674886">
+    <ele>970</ele>
+    <name>Kozubova, turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7518">
+      <text>Kozubova, turisticka chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kozubova, kaple, rozc. - Kozubova, turisticka chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5707703,18.6736545;49.57024410039232,18.67437735;49.569584,18.6748856">
+    <text>Kozubova, kaple, rozc. - Kozubova, turisticka chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5707703" lon="18.6736545">
+      <ele>984</ele>
+      <time>2022-01-17T23:20:07Z</time>
+    </trkpt>
+    <trkpt lat="49.5707199" lon="18.6738664">
+      <ele>985</ele>
+      <time>2022-01-17T23:20:25Z</time>
+    </trkpt>
+    <trkpt lat="49.5706277" lon="18.6740837">
+      <ele>983</ele>
+      <time>2022-01-17T23:20:45Z</time>
+    </trkpt>
+    <trkpt lat="49.5705291" lon="18.6742043">
+      <ele>981</ele>
+      <time>2022-01-17T23:21:00Z</time>
+    </trkpt>
+    <trkpt lat="49.5704398" lon="18.6742634">
+      <ele>980</ele>
+      <time>2022-01-17T23:21:12Z</time>
+    </trkpt>
+    <trkpt lat="49.5700484" lon="18.6744913">
+      <ele>976</ele>
+      <time>2022-01-17T23:22:03Z</time>
+    </trkpt>
+    <trkpt lat="49.569838" lon="18.6746228">
+      <ele>974</ele>
+      <time>2022-01-17T23:22:30Z</time>
+    </trkpt>
+    <trkpt lat="49.569584" lon="18.6748856">
+      <ele>970</ele>
+      <time>2022-01-17T23:23:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

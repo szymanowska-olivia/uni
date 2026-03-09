@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:25Z</time>
+    <bounds maxlat="49.3349222" maxlon="22.4113149" minlat="49.3346679" minlon="22.4089365"/>
+  </metadata>
+  <wpt lat="49.334881" lon="22.408936">
+    <ele>439</ele>
+    <name>Wolkowyja</name>
+    <link href="https://mapa-turystyczna.pl/node/404">
+      <text>Wolkowyja</text>
+    </link>
+  </wpt>
+  <wpt lat="49.334668" lon="22.411315">
+    <ele>433</ele>
+    <name>Wolkowyja, ul. Sloneczna</name>
+    <link href="https://mapa-turystyczna.pl/node/11289">
+      <text>Wolkowyja, ul. Sloneczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolkowyja - Wolkowyja, ul. Sloneczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3348808,22.4089365;49.33489770000611,22.410021349999976;49.3346679,22.4113149">
+    <text>Wolkowyja - Wolkowyja, ul. Sloneczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3348808" lon="22.4089365">
+      <ele>439</ele>
+      <time>2022-01-18T00:58:25Z</time>
+    </trkpt>
+    <trkpt lat="49.3349222" lon="22.4097853">
+      <ele>437</ele>
+      <time>2022-01-18T00:59:28Z</time>
+    </trkpt>
+    <trkpt lat="49.3348732" lon="22.4102574">
+      <ele>434</ele>
+      <time>2022-01-18T01:00:03Z</time>
+    </trkpt>
+    <trkpt lat="49.3346679" lon="22.4113149">
+      <ele>433</ele>
+      <time>2022-01-18T01:01:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

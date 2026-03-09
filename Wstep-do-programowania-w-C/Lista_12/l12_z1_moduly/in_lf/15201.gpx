@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:59Z</time>
+    <bounds maxlat="50.0425529" maxlon="18.3371278" minlat="50.041883" minlon="18.3336831"/>
+  </metadata>
+  <wpt lat="50.042501" lon="18.333683">
+    <ele>272</ele>
+    <name>Grodzisko Golezycow</name>
+    <link href="https://mapa-turystyczna.pl/node/10364">
+      <text>Grodzisko Golezycow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.041883" lon="18.337128">
+    <ele>275</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10360">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodzisko Golezycow - Rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0425012,18.3336831;50.0423944500011,18.335405099999996;50.041883,18.3371278">
+    <text>Grodzisko Golezycow - Rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0425012" lon="18.3336831">
+      <ele>272</ele>
+      <time>2022-01-18T00:34:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0425426" lon="18.3340265">
+      <ele>273</ele>
+      <time>2022-01-18T00:35:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0425529" lon="18.3344127">
+      <ele>271</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0424771" lon="18.3346541">
+      <ele>269</ele>
+      <time>2022-01-18T00:36:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0424082" lon="18.3349652">
+      <ele>266</ele>
+      <time>2022-01-18T00:36:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0424048" lon="18.3350832">
+      <ele>266</ele>
+      <time>2022-01-18T00:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0423841" lon="18.335727">
+      <ele>269</ele>
+      <time>2022-01-18T00:37:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0423152" lon="18.3360059">
+      <ele>271</ele>
+      <time>2022-01-18T00:38:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0421326" lon="18.3363975">
+      <ele>272</ele>
+      <time>2022-01-18T00:38:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0420792" lon="18.3365853">
+      <ele>272</ele>
+      <time>2022-01-18T00:39:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0420327" lon="18.3367838">
+      <ele>273</ele>
+      <time>2022-01-18T00:39:25Z</time>
+    </trkpt>
+    <trkpt lat="50.041883" lon="18.3371278">
+      <ele>275</ele>
+      <time>2022-01-18T00:39:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:56Z</time>
+    <bounds maxlat="49.759854" maxlon="19.044502" minlat="49.759812" minlon="19.044313"/>
+  </metadata>
+  <wpt lat="49.759812" lon="19.044313">
+    <ele>468</ele>
+    <name>Bystra Slaska, ul. Beskidzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13612">
+      <text>Bystra Slaska, ul. Beskidzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.759854" lon="19.044502">
+    <ele>468</ele>
+    <name>Bystra Slaska</name>
+    <link href="https://mapa-turystyczna.pl/node/728">
+      <text>Bystra Slaska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystra Slaska, ul. Beskidzka - Bystra Slaska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.759812,19.044313;49.75983300000457,19.044407499999963;49.759854,19.044502">
+    <text>Bystra Slaska, ul. Beskidzka - Bystra Slaska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.759812" lon="19.044313">
+      <ele>468</ele>
+      <time>2022-01-18T02:02:56Z</time>
+    </trkpt>
+    <trkpt lat="49.759854" lon="19.044502">
+      <ele>468</ele>
+      <time>2022-01-18T02:03:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

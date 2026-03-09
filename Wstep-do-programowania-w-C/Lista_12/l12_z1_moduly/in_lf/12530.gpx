@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:31Z</time>
+    <bounds maxlat="53.8453717" maxlon="14.6130551" minlat="53.8426309" minlon="14.6118083"/>
+  </metadata>
+  <wpt lat="53.842631" lon="14.611808">
+    <ele>8</ele>
+    <name>Wolin, ul. Slowianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8615">
+      <text>Wolin, ul. Slowianska</text>
+    </link>
+  </wpt>
+  <wpt lat="53.845372" lon="14.613055">
+    <ele>3</ele>
+    <name>Wolin, ul. Gryfitow</name>
+    <link href="https://mapa-turystyczna.pl/node/8570">
+      <text>Wolin, ul. Gryfitow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin, ul. Slowianska - Wolin, ul. Gryfitow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.8426309,14.6118083;53.84430335218007,14.612187450000004;53.8453717,14.6130551">
+    <text>Wolin, ul. Slowianska - Wolin, ul. Gryfitow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.8426309" lon="14.6118083">
+      <ele>8</ele>
+      <time>2022-01-17T23:51:31Z</time>
+    </trkpt>
+    <trkpt lat="53.8431418" lon="14.6120694">
+      <ele>6</ele>
+      <time>2022-01-17T23:52:25Z</time>
+    </trkpt>
+    <trkpt lat="53.8438761" lon="14.6122518">
+      <ele>5</ele>
+      <time>2022-01-17T23:53:39Z</time>
+    </trkpt>
+    <trkpt lat="53.8447306" lon="14.6121231">
+      <ele>2</ele>
+      <time>2022-01-17T23:55:05Z</time>
+    </trkpt>
+    <trkpt lat="53.8448382" lon="14.6122947">
+      <ele>2</ele>
+      <time>2022-01-17T23:55:20Z</time>
+    </trkpt>
+    <trkpt lat="53.8450788" lon="14.6127882">
+      <ele>2</ele>
+      <time>2022-01-17T23:55:58Z</time>
+    </trkpt>
+    <trkpt lat="53.8453717" lon="14.6130551">
+      <ele>3</ele>
+      <time>2022-01-17T23:56:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

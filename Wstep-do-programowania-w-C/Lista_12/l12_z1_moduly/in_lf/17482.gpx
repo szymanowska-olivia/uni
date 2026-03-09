@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:06Z</time>
+    <bounds maxlat="49.691117" maxlon="20.634685" minlat="49.690975" minlon="20.633123"/>
+  </metadata>
+  <wpt lat="49.690975" lon="20.633123">
+    <ele>564</ele>
+    <name>Odejscie na platforme widokowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11865">
+      <text>Odejscie na platforme widokowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.691073" lon="20.634685">
+    <ele>524</ele>
+    <name>Bialawoda</name>
+    <link href="https://mapa-turystyczna.pl/node/939">
+      <text>Bialawoda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na platforme widokowa - Bialawoda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.690975,20.633123;49.6910790000112,20.633796999999994;49.691073,20.634685">
+    <text>Odejscie na platforme widokowa - Bialawoda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.690975" lon="20.633123">
+      <ele>564</ele>
+      <time>2022-01-18T01:14:06Z</time>
+    </trkpt>
+    <trkpt lat="49.691011" lon="20.633346">
+      <ele>561</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="49.691046" lon="20.633588">
+      <ele>555</ele>
+      <time>2022-01-18T01:14:41Z</time>
+    </trkpt>
+    <trkpt lat="49.691112" lon="20.634006">
+      <ele>541</ele>
+      <time>2022-01-18T01:15:15Z</time>
+    </trkpt>
+    <trkpt lat="49.691117" lon="20.634215">
+      <ele>535</ele>
+      <time>2022-01-18T01:15:31Z</time>
+    </trkpt>
+    <trkpt lat="49.691091" lon="20.634419">
+      <ele>530</ele>
+      <time>2022-01-18T01:15:46Z</time>
+    </trkpt>
+    <trkpt lat="49.691073" lon="20.634685">
+      <ele>524</ele>
+      <time>2022-01-18T01:16:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

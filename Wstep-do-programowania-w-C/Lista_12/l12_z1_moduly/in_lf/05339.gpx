@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:10Z</time>
+    <bounds maxlat="49.7563734" maxlon="22.7308524" minlat="49.753587" minlon="22.7284134"/>
+  </metadata>
+  <wpt lat="49.753587" lon="22.72846">
+    <ele>384</ele>
+    <name>Pod Wapielnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3769">
+      <text>Pod Wapielnica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.756373" lon="22.730852">
+    <ele>383</ele>
+    <name>Wapielnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3770">
+      <text>Wapielnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wapielnica - Wapielnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.753587,22.7284598;49.75519855187326,22.73011340000002;49.7563734,22.7308524">
+    <text>Pod Wapielnica - Wapielnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.753587" lon="22.7284598">
+      <ele>384</ele>
+      <time>2022-01-17T21:54:10Z</time>
+    </trkpt>
+    <trkpt lat="49.753843" lon="22.7284134">
+      <ele>383</ele>
+      <time>2022-01-17T21:54:33Z</time>
+    </trkpt>
+    <trkpt lat="49.7541235" lon="22.7284975">
+      <ele>382</ele>
+      <time>2022-01-17T21:54:58Z</time>
+    </trkpt>
+    <trkpt lat="49.7542654" lon="22.7286888">
+      <ele>382</ele>
+      <time>2022-01-17T21:55:15Z</time>
+    </trkpt>
+    <trkpt lat="49.7543477" lon="22.7290895">
+      <ele>383</ele>
+      <time>2022-01-17T21:55:39Z</time>
+    </trkpt>
+    <trkpt lat="49.7544707" lon="22.7294187">
+      <ele>382</ele>
+      <time>2022-01-17T21:56:01Z</time>
+    </trkpt>
+    <trkpt lat="49.7547723" lon="22.7297768">
+      <ele>382</ele>
+      <time>2022-01-17T21:56:35Z</time>
+    </trkpt>
+    <trkpt lat="49.7556248" lon="22.73045">
+      <ele>383</ele>
+      <time>2022-01-17T21:58:00Z</time>
+    </trkpt>
+    <trkpt lat="49.7563734" lon="22.7308524">
+      <ele>383</ele>
+      <time>2022-01-17T21:59:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

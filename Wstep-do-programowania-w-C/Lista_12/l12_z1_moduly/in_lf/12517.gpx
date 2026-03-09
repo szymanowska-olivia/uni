@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:18Z</time>
+    <bounds maxlat="53.9696598" maxlon="14.7693586" minlat="53.9680594" minlon="14.7690839"/>
+  </metadata>
+  <wpt lat="53.96966" lon="14.769084">
+    <ele>24</ele>
+    <name>Kamien Pomorski, ul. Solskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/8608">
+      <text>Kamien Pomorski, ul. Solskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="53.968059" lon="14.769359">
+    <ele>15</ele>
+    <name>Kamien Pomorski, ul. Rejtana</name>
+    <link href="https://mapa-turystyczna.pl/node/8609">
+      <text>Kamien Pomorski, ul. Rejtana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Solskiego - Kamien Pomorski, ul. Rejtana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9696598,14.7690839;53.968560853016754,14.7693421;53.9680594,14.7693586">
+    <text>Kamien Pomorski, ul. Solskiego - Kamien Pomorski, ul. Rejtana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9696598" lon="14.7690839">
+      <ele>24</ele>
+      <time>2022-01-17T23:51:18Z</time>
+    </trkpt>
+    <trkpt lat="53.9690623" lon="14.7693256">
+      <ele>27</ele>
+      <time>2022-01-17T23:52:26Z</time>
+    </trkpt>
+    <trkpt lat="53.9680594" lon="14.7693586">
+      <ele>15</ele>
+      <time>2022-01-17T23:54:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

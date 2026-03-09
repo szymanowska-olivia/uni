@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:56Z</time>
+    <bounds maxlat="50.5650204" maxlon="16.2742174" minlat="50.5639777" minlon="16.2724257"/>
+  </metadata>
+  <wpt lat="50.563978" lon="16.272426">
+    <ele>645</ele>
+    <name>Kovarova rokle</name>
+    <link href="https://mapa-turystyczna.pl/node/5836">
+      <text>Kovarova rokle</text>
+    </link>
+  </wpt>
+  <wpt lat="50.56502" lon="16.274217">
+    <ele>668</ele>
+    <name>Nad Kovarovou rokli</name>
+    <link href="https://mapa-turystyczna.pl/node/5840">
+      <text>Nad Kovarovou rokli</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kovarova rokle - Nad Kovarovou rokli</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5639777,16.2724257;50.56462650006259,16.273488999999984;50.5650204,16.2742174">
+    <text>Kovarova rokle - Nad Kovarovou rokli</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5639777" lon="16.2724257">
+      <ele>645</ele>
+      <time>2022-01-17T22:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.564131" lon="16.2726349">
+      <ele>648</ele>
+      <time>2022-01-17T22:38:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5642759" lon="16.2727931">
+      <ele>651</ele>
+      <time>2022-01-17T22:39:07Z</time>
+    </trkpt>
+    <trkpt lat="50.5643789" lon="16.2730224">
+      <ele>654</ele>
+      <time>2022-01-17T22:39:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5645497" lon="16.2732176">
+      <ele>658</ele>
+      <time>2022-01-17T22:40:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5647033" lon="16.2737604">
+      <ele>663</ele>
+      <time>2022-01-17T22:41:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5647835" lon="16.2740264">
+      <ele>666</ele>
+      <time>2022-01-17T22:42:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5648764" lon="16.2741219">
+      <ele>667</ele>
+      <time>2022-01-17T22:42:27Z</time>
+    </trkpt>
+    <trkpt lat="50.5650204" lon="16.2742174">
+      <ele>668</ele>
+      <time>2022-01-17T22:42:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

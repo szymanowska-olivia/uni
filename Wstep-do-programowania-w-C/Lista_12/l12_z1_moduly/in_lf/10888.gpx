@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:32Z</time>
+    <bounds maxlat="49.9699761" maxlon="16.7544347" minlat="49.9694034" minlon="16.7486626"/>
+  </metadata>
+  <wpt lat="49.969403" lon="16.748663">
+    <ele>498</ele>
+    <name>Stity, byvaly ATC</name>
+    <link href="https://mapa-turystyczna.pl/node/7665">
+      <text>Stity, byvaly ATC</text>
+    </link>
+  </wpt>
+  <wpt lat="49.969976" lon="16.754435">
+    <ele>471</ele>
+    <name>Stity, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7666">
+      <text>Stity, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stity, byvaly ATC - Stity, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9694034,16.7486626;49.969726000037895,16.752015349999983;49.9699761,16.7544347">
+    <text>Stity, byvaly ATC - Stity, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9694034" lon="16.7486626">
+      <ele>498</ele>
+      <time>2022-01-17T23:24:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9694241" lon="16.7492205">
+      <ele>496</ele>
+      <time>2022-01-17T23:25:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9696759" lon="16.7502022">
+      <ele>485</ele>
+      <time>2022-01-17T23:25:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9697243" lon="16.7504704">
+      <ele>484</ele>
+      <time>2022-01-17T23:26:08Z</time>
+    </trkpt>
+    <trkpt lat="49.9697864" lon="16.7512053">
+      <ele>480</ele>
+      <time>2022-01-17T23:26:45Z</time>
+    </trkpt>
+    <trkpt lat="49.9696656" lon="16.7528254">
+      <ele>474</ele>
+      <time>2022-01-17T23:28:07Z</time>
+    </trkpt>
+    <trkpt lat="49.9696967" lon="16.7532974">
+      <ele>473</ele>
+      <time>2022-01-17T23:28:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9699761" lon="16.7544347">
+      <ele>471</ele>
+      <time>2022-01-17T23:29:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

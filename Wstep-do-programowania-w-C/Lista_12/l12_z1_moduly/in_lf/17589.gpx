@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:00Z</time>
+    <bounds maxlat="52.0647936" maxlon="21.1413465" minlat="52.0605622" minlon="21.1294919"/>
+  </metadata>
+  <wpt lat="52.064794" lon="21.129492">
+    <ele>108</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11937">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.060562" lon="21.141347">
+    <ele>112</ele>
+    <name>Rezerwat Obory</name>
+    <link href="https://mapa-turystyczna.pl/node/11914">
+      <text>Rezerwat Obory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Rezerwat Obory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0647936,21.1294919;52.06209320028052,21.135357550000016;52.0605622,21.1413465">
+    <text>Rozejscie szlakow zolty / czarny - Rezerwat Obory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0647936" lon="21.1294919">
+      <ele>108</ele>
+      <time>2022-01-18T01:16:00Z</time>
+    </trkpt>
+    <trkpt lat="52.0640126" lon="21.130256">
+      <ele>108</ele>
+      <time>2022-01-18T01:17:34Z</time>
+    </trkpt>
+    <trkpt lat="52.0638411" lon="21.1305349">
+      <ele>109</ele>
+      <time>2022-01-18T01:17:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0622515" lon="21.1349767">
+      <ele>113</ele>
+      <time>2022-01-18T01:23:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0619349" lon="21.1357384">
+      <ele>115</ele>
+      <time>2022-01-18T01:24:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0609388" lon="21.1378627">
+      <ele>114</ele>
+      <time>2022-01-18T01:27:14Z</time>
+    </trkpt>
+    <trkpt lat="52.0608663" lon="21.1381739">
+      <ele>115</ele>
+      <time>2022-01-18T01:27:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0608333" lon="21.1384635">
+      <ele>116</ele>
+      <time>2022-01-18T01:27:54Z</time>
+    </trkpt>
+    <trkpt lat="52.060642" lon="21.1407595">
+      <ele>114</ele>
+      <time>2022-01-18T01:30:22Z</time>
+    </trkpt>
+    <trkpt lat="52.0605622" lon="21.1413465">
+      <ele>112</ele>
+      <time>2022-01-18T01:31:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:44Z</time>
+    <bounds maxlat="50.7866494" maxlon="15.5150288" minlat="50.7858673" minlon="15.5142725"/>
+  </metadata>
+  <wpt lat="50.786649" lon="15.514273">
+    <ele>1290</ele>
+    <name>Svinske kameny CZ / PL</name>
+    <link href="https://mapa-turystyczna.pl/node/1213">
+      <text>Svinske kameny CZ / PL</text>
+    </link>
+  </wpt>
+  <wpt lat="50.785867" lon="15.515029">
+    <ele>1287</ele>
+    <name>Mokra Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1412">
+      <text>Mokra Przelecz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svinske kameny CZ / PL - Mokra Przelecz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7866494,15.5142725;50.78625835163544,15.514650649999995;50.7858673,15.5150288">
+    <text>Svinske kameny CZ / PL - Mokra Przelecz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7866494" lon="15.5142725">
+      <ele>1290</ele>
+      <time>2022-01-17T21:03:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7858673" lon="15.5150288">
+      <ele>1287</ele>
+      <time>2022-01-17T21:05:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

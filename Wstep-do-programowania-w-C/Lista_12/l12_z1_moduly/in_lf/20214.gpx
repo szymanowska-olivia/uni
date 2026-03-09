@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:39Z</time>
+    <bounds maxlat="49.745026" maxlon="19.674944" minlat="49.742505" minlon="19.673083"/>
+  </metadata>
+  <wpt lat="49.745026" lon="19.674944">
+    <ele>580</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13605">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.742505" lon="19.673083">
+    <ele>539</ele>
+    <name>Stodolowka</name>
+    <link href="https://mapa-turystyczna.pl/node/1638">
+      <text>Stodolowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Stodolowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.745026,19.674944;49.74403600084301,19.673940000000023;49.742505,19.673083">
+    <text>Rozejscie szlakow - Stodolowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.745026" lon="19.674944">
+      <ele>580</ele>
+      <time>2022-01-18T02:02:39Z</time>
+    </trkpt>
+    <trkpt lat="49.74481" lon="19.674697">
+      <ele>574</ele>
+      <time>2022-01-18T02:03:08Z</time>
+    </trkpt>
+    <trkpt lat="49.744322" lon="19.674204">
+      <ele>568</ele>
+      <time>2022-01-18T02:04:09Z</time>
+    </trkpt>
+    <trkpt lat="49.74375" lon="19.673676">
+      <ele>560</ele>
+      <time>2022-01-18T02:05:20Z</time>
+    </trkpt>
+    <trkpt lat="49.74357" lon="19.673523">
+      <ele>556</ele>
+      <time>2022-01-18T02:05:42Z</time>
+    </trkpt>
+    <trkpt lat="49.743405" lon="19.673408">
+      <ele>554</ele>
+      <time>2022-01-18T02:06:01Z</time>
+    </trkpt>
+    <trkpt lat="49.743258" lon="19.673324">
+      <ele>551</ele>
+      <time>2022-01-18T02:06:17Z</time>
+    </trkpt>
+    <trkpt lat="49.743043" lon="19.673268">
+      <ele>548</ele>
+      <time>2022-01-18T02:06:40Z</time>
+    </trkpt>
+    <trkpt lat="49.742814" lon="19.673201">
+      <ele>543</ele>
+      <time>2022-01-18T02:07:05Z</time>
+    </trkpt>
+    <trkpt lat="49.742601" lon="19.673113">
+      <ele>540</ele>
+      <time>2022-01-18T02:07:29Z</time>
+    </trkpt>
+    <trkpt lat="49.742505" lon="19.673083">
+      <ele>539</ele>
+      <time>2022-01-18T02:07:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

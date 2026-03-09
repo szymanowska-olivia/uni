@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:58Z</time>
+    <bounds maxlat="50.0202218" maxlon="16.8222567" minlat="50.0200769" minlon="16.8217896"/>
+  </metadata>
+  <wpt lat="50.020222" lon="16.82179">
+    <ele>793</ele>
+    <name>Cecel, silnice</name>
+    <link href="https://mapa-turystyczna.pl/node/7837">
+      <text>Cecel, silnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.020077" lon="16.822257">
+    <ele>793</ele>
+    <name>Cecel, silnice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7839">
+      <text>Cecel, silnice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cecel, silnice - Cecel, silnice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0202218,16.8217896;50.020149350054616,16.822023149999968;50.0200769,16.8222567">
+    <text>Cecel, silnice - Cecel, silnice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0202218" lon="16.8217896">
+      <ele>793</ele>
+      <time>2022-01-17T23:28:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0200769" lon="16.8222567">
+      <ele>793</ele>
+      <time>2022-01-17T23:29:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

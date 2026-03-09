@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:49Z</time>
+    <bounds maxlat="51.7832307" maxlon="21.1973404" minlat="51.7757631" minlon="21.1915361"/>
+  </metadata>
+  <wpt lat="51.775763" lon="21.19734">
+    <ele>99</ele>
+    <name>Warka, ul. Mostowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12004">
+      <text>Warka, ul. Mostowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.783231" lon="21.191536">
+    <ele>108</ele>
+    <name>Warka, ul. Farna</name>
+    <link href="https://mapa-turystyczna.pl/node/12005">
+      <text>Warka, ul. Farna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Mostowa - Warka, ul. Farna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7757631,21.1973404;51.77940380016709,21.194448750000035;51.7832307,21.1915361">
+    <text>Warka, ul. Mostowa - Warka, ul. Farna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7757631" lon="21.1973404">
+      <ele>99</ele>
+      <time>2022-01-18T01:17:49Z</time>
+    </trkpt>
+    <trkpt lat="51.7765941" lon="21.1965024">
+      <ele>97</ele>
+      <time>2022-01-18T01:19:33Z</time>
+    </trkpt>
+    <trkpt lat="51.7766936" lon="21.1962449">
+      <ele>98</ele>
+      <time>2022-01-18T01:19:53Z</time>
+    </trkpt>
+    <trkpt lat="51.778029" lon="21.1953383">
+      <ele>100</ele>
+      <time>2022-01-18T01:22:28Z</time>
+    </trkpt>
+    <trkpt lat="51.778716" lon="21.1948716">
+      <ele>101</ele>
+      <time>2022-01-18T01:23:47Z</time>
+    </trkpt>
+    <trkpt lat="51.7790347" lon="21.1947214">
+      <ele>101</ele>
+      <time>2022-01-18T01:24:23Z</time>
+    </trkpt>
+    <trkpt lat="51.779281" lon="21.1945775">
+      <ele>101</ele>
+      <time>2022-01-18T01:24:51Z</time>
+    </trkpt>
+    <trkpt lat="51.7795266" lon="21.19432">
+      <ele>101</ele>
+      <time>2022-01-18T01:25:22Z</time>
+    </trkpt>
+    <trkpt lat="51.7816533" lon="21.1928527">
+      <ele>102</ele>
+      <time>2022-01-18T01:29:28Z</time>
+    </trkpt>
+    <trkpt lat="51.7816176" lon="21.1926566">
+      <ele>101</ele>
+      <time>2022-01-18T01:29:42Z</time>
+    </trkpt>
+    <trkpt lat="51.7832307" lon="21.1915361">
+      <ele>108</ele>
+      <time>2022-01-18T01:32:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

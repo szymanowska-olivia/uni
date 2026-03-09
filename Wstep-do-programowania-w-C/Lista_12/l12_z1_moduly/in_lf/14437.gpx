@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:16Z</time>
+    <bounds maxlat="50.2161187" maxlon="18.8787331" minlat="50.2120219" minlon="18.8779827"/>
+  </metadata>
+  <wpt lat="50.216119" lon="18.878218">
+    <ele>259</ele>
+    <name>Halemba, ul. Pulaskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9855">
+      <text>Halemba, ul. Pulaskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.212022" lon="18.877983">
+    <ele>264</ele>
+    <name>Reta Smilowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/9854">
+      <text>Reta Smilowicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Halemba, ul. Pulaskiego - Reta Smilowicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2161187,18.8782185;50.21392360189906,18.878497099999976;50.2120219,18.8779827">
+    <text>Halemba, ul. Pulaskiego - Reta Smilowicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2161187" lon="18.8782185">
+      <ele>259</ele>
+      <time>2022-01-18T00:22:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2154477" lon="18.8783362">
+      <ele>259</ele>
+      <time>2022-01-18T00:23:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2152418" lon="18.8783254">
+      <ele>258</ele>
+      <time>2022-01-18T00:24:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2143493" lon="18.8782611">
+      <ele>263</ele>
+      <time>2022-01-18T00:26:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2134979" lon="18.8787331">
+      <ele>267</ele>
+      <time>2022-01-18T00:28:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2132645" lon="18.8787331">
+      <ele>268</ele>
+      <time>2022-01-18T00:29:07Z</time>
+    </trkpt>
+    <trkpt lat="50.212523" lon="18.8783683">
+      <ele>266</ele>
+      <time>2022-01-18T00:30:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2120219" lon="18.8779827">
+      <ele>264</ele>
+      <time>2022-01-18T00:32:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

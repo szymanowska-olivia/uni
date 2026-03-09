@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:36Z</time>
+    <bounds maxlat="52.0967449" maxlon="21.2874699" minlat="52.0946331" minlon="21.2835345"/>
+  </metadata>
+  <wpt lat="52.094633" lon="21.283534">
+    <ele>103</ele>
+    <name>Otwock, ul. Narutowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/12899">
+      <text>Otwock, ul. Narutowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.096745" lon="21.28747">
+    <ele>103</ele>
+    <name>Otwock, szkola podstawowa nr 2</name>
+    <link href="https://mapa-turystyczna.pl/node/12901">
+      <text>Otwock, szkola podstawowa nr 2</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Narutowicza - Otwock, szkola podstawowa nr 2</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0946331,21.2835345;52.095665311941545,21.285496949999985;52.0967449,21.2874699">
+    <text>Otwock, ul. Narutowicza - Otwock, szkola podstawowa nr 2</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0946331" lon="21.2835345">
+      <ele>103</ele>
+      <time>2022-01-18T01:41:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0966975" lon="21.2874594">
+      <ele>103</ele>
+      <time>2022-01-18T01:46:32Z</time>
+    </trkpt>
+    <trkpt lat="52.0967449" lon="21.2874699">
+      <ele>103</ele>
+      <time>2022-01-18T01:46:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

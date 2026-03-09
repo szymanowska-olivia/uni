@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:32Z</time>
+    <bounds maxlat="50.6635165" maxlon="15.9105313" minlat="50.6597186" minlon="15.9077096"/>
+  </metadata>
+  <wpt lat="50.663517" lon="15.910531">
+    <ele>613</ele>
+    <name>Zacler</name>
+    <link href="https://mapa-turystyczna.pl/node/1438">
+      <text>Zacler</text>
+    </link>
+  </wpt>
+  <wpt lat="50.659719" lon="15.90771">
+    <ele>628</ele>
+    <name>Zacler, U Porcelanky</name>
+    <link href="https://mapa-turystyczna.pl/node/1441">
+      <text>Zacler, U Porcelanky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zacler - Zacler, U Porcelanky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6635165,15.9105313;50.6617655540619,15.90886105;50.6597186,15.9077096">
+    <text>Zacler - Zacler, U Porcelanky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6635165" lon="15.9105313">
+      <ele>613</ele>
+      <time>2022-01-17T21:09:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6631176" lon="15.9102057">
+      <ele>614</ele>
+      <time>2022-01-17T21:10:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6623832" lon="15.9095083">
+      <ele>618</ele>
+      <time>2022-01-17T21:12:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6611479" lon="15.9082138">
+      <ele>623</ele>
+      <time>2022-01-17T21:16:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6606498" lon="15.9078668">
+      <ele>623</ele>
+      <time>2022-01-17T21:17:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6600848" lon="15.9077204">
+      <ele>627</ele>
+      <time>2022-01-17T21:18:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6597186" lon="15.9077096">
+      <ele>628</ele>
+      <time>2022-01-17T21:19:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

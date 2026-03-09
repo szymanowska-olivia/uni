@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:24Z</time>
+    <bounds maxlat="50.4525517" maxlon="16.7548692" minlat="50.4516329" minlon="16.7533773"/>
+  </metadata>
+  <wpt lat="50.451633" lon="16.753387">
+    <ele>752</ele>
+    <name>Klodzka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/10380">
+      <text>Klodzka Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.452552" lon="16.754869">
+    <ele>731</ele>
+    <name>Pod Klodzka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2214">
+      <text>Pod Klodzka Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klodzka Gora - Pod Klodzka Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4516329,16.7533869;50.452316200015176,16.75390335;50.4525517,16.7548692">
+    <text>Klodzka Gora - Pod Klodzka Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4516329" lon="16.7533869">
+      <ele>752</ele>
+      <time>2022-01-18T00:35:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4516813" lon="16.7533773">
+      <ele>751</ele>
+      <time>2022-01-18T00:35:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4518617" lon="16.753453">
+      <ele>750</ele>
+      <time>2022-01-18T00:35:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4520444" lon="16.7535951">
+      <ele>747</ele>
+      <time>2022-01-18T00:36:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4521799" lon="16.7537045">
+      <ele>745</ele>
+      <time>2022-01-18T00:36:13Z</time>
+    </trkpt>
+    <trkpt lat="50.4522783" lon="16.7538232">
+      <ele>743</ele>
+      <time>2022-01-18T00:36:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4523541" lon="16.7539835">
+      <ele>740</ele>
+      <time>2022-01-18T00:36:34Z</time>
+    </trkpt>
+    <trkpt lat="50.452361" lon="16.7541712">
+      <ele>738</ele>
+      <time>2022-01-18T00:36:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4523849" lon="16.7544126">
+      <ele>734</ele>
+      <time>2022-01-18T00:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4525517" lon="16.7548692">
+      <ele>731</ele>
+      <time>2022-01-18T00:37:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

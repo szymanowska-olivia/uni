@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:36Z</time>
+    <bounds maxlat="52.2786625" maxlon="16.8590559" minlat="52.2728039" minlon="16.8506016"/>
+  </metadata>
+  <wpt lat="52.272804" lon="16.858874">
+    <ele>64</ele>
+    <name>Puszczykowo, ul. Kasprowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/11627">
+      <text>Puszczykowo, ul. Kasprowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.278663" lon="16.850623">
+    <ele>70</ele>
+    <name>Puszczykowo, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11628">
+      <text>Puszczykowo, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowo, ul. Kasprowicza - Puszczykowo, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2728039,16.8588742;52.27512100001471,16.853640550000016;52.2786625,16.850623">
+    <text>Puszczykowo, ul. Kasprowicza - Puszczykowo, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2728039" lon="16.8588742">
+      <ele>64</ele>
+      <time>2022-01-18T01:06:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2743168" lon="16.8590559">
+      <ele>62</ele>
+      <time>2022-01-18T01:09:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2744416" lon="16.8589593">
+      <ele>62</ele>
+      <time>2022-01-18T01:09:55Z</time>
+    </trkpt>
+    <trkpt lat="52.2744941" lon="16.8587769">
+      <ele>62</ele>
+      <time>2022-01-18T01:10:10Z</time>
+    </trkpt>
+    <trkpt lat="52.274586" lon="16.8565561">
+      <ele>62</ele>
+      <time>2022-01-18T01:12:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2746385" lon="16.8561269">
+      <ele>62</ele>
+      <time>2022-01-18T01:13:27Z</time>
+    </trkpt>
+    <trkpt lat="52.2750849" lon="16.8537237">
+      <ele>61</ele>
+      <time>2022-01-18T01:16:32Z</time>
+    </trkpt>
+    <trkpt lat="52.2751571" lon="16.8535574">
+      <ele>61</ele>
+      <time>2022-01-18T01:16:47Z</time>
+    </trkpt>
+    <trkpt lat="52.2751505" lon="16.8533482">
+      <ele>61</ele>
+      <time>2022-01-18T01:17:02Z</time>
+    </trkpt>
+    <trkpt lat="52.275656" lon="16.8506016">
+      <ele>67</ele>
+      <time>2022-01-18T01:20:34Z</time>
+    </trkpt>
+    <trkpt lat="52.2786625" lon="16.850623">
+      <ele>70</ele>
+      <time>2022-01-18T01:26:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:24Z</time>
+    <bounds maxlat="54.0757798" maxlon="15.2571813" minlat="54.0738134" minlon="15.2568864"/>
+  </metadata>
+  <wpt lat="54.07578" lon="15.257181">
+    <ele>14</ele>
+    <name>Nowielice</name>
+    <link href="https://mapa-turystyczna.pl/node/12590">
+      <text>Nowielice</text>
+    </link>
+  </wpt>
+  <wpt lat="54.073813" lon="15.25699">
+    <ele>6</ele>
+    <name>Nowielice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12589">
+      <text>Nowielice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowielice - Nowielice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0757798,15.2571813;54.07470525310511,15.256967449999976;54.0738134,15.2569902">
+    <text>Nowielice - Nowielice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0757798" lon="15.2571813">
+      <ele>14</ele>
+      <time>2022-01-18T01:33:24Z</time>
+    </trkpt>
+    <trkpt lat="54.075213" lon="15.2570485">
+      <ele>11</ele>
+      <time>2022-01-18T01:34:16Z</time>
+    </trkpt>
+    <trkpt lat="54.0741975" lon="15.2568864">
+      <ele>6</ele>
+      <time>2022-01-18T01:35:49Z</time>
+    </trkpt>
+    <trkpt lat="54.0738134" lon="15.2569902">
+      <ele>6</ele>
+      <time>2022-01-18T01:36:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

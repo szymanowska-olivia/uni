@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:22:57Z</time>
+    <bounds maxlat="49.4895977" maxlon="18.2669136" minlat="49.4893812" minlon="18.2649824"/>
+  </metadata>
+  <wpt lat="49.489562" lon="18.264982">
+    <ele>1016</ele>
+    <name>Pustevny</name>
+    <link href="https://mapa-turystyczna.pl/node/7610">
+      <text>Pustevny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.489569" lon="18.266914">
+    <ele>1015</ele>
+    <name>Pustevny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7611">
+      <text>Pustevny, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pustevny - Pustevny, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4895623,18.2649824;49.48938995000079,18.266009649999997;49.4895693,18.2669136">
+    <text>Pustevny - Pustevny, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4895623" lon="18.2649824">
+      <ele>1016</ele>
+      <time>2022-01-17T23:22:57Z</time>
+    </trkpt>
+    <trkpt lat="49.4895977" lon="18.2650897">
+      <ele>1017</ele>
+      <time>2022-01-17T23:23:04Z</time>
+    </trkpt>
+    <trkpt lat="49.4895077" lon="18.2654142">
+      <ele>1017</ele>
+      <time>2022-01-17T23:23:25Z</time>
+    </trkpt>
+    <trkpt lat="49.4894188" lon="18.2656905">
+      <ele>1016</ele>
+      <time>2022-01-17T23:23:43Z</time>
+    </trkpt>
+    <trkpt lat="49.4893812" lon="18.2658809">
+      <ele>1015</ele>
+      <time>2022-01-17T23:23:54Z</time>
+    </trkpt>
+    <trkpt lat="49.4893987" lon="18.2661384">
+      <ele>1016</ele>
+      <time>2022-01-17T23:24:09Z</time>
+    </trkpt>
+    <trkpt lat="49.4894352" lon="18.2663396">
+      <ele>1017</ele>
+      <time>2022-01-17T23:24:21Z</time>
+    </trkpt>
+    <trkpt lat="49.489491" lon="18.2665864">
+      <ele>1017</ele>
+      <time>2022-01-17T23:24:37Z</time>
+    </trkpt>
+    <trkpt lat="49.4895693" lon="18.2669136">
+      <ele>1015</ele>
+      <time>2022-01-17T23:24:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

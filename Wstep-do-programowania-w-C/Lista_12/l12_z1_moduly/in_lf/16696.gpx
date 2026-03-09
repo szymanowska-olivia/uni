@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:18Z</time>
+    <bounds maxlat="52.4068364" maxlon="20.9330835" minlat="52.4021641" minlon="20.9279869"/>
+  </metadata>
+  <wpt lat="52.406836" lon="20.932202">
+    <ele>78</ele>
+    <name>Legionowo, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/11404">
+      <text>Legionowo, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.402164" lon="20.927987">
+    <ele>77</ele>
+    <name>Legionowo, ul. Jagiellonska</name>
+    <link href="https://mapa-turystyczna.pl/node/11399">
+      <text>Legionowo, ul. Jagiellonska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, ul. Kosciuszki - Legionowo, ul. Jagiellonska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4068364,20.9322023;52.40499556683749,20.931557250000015;52.4021641,20.9279869">
+    <text>Legionowo, ul. Kosciuszki - Legionowo, ul. Jagiellonska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4068364" lon="20.9322023">
+      <ele>78</ele>
+      <time>2022-01-18T01:01:18Z</time>
+    </trkpt>
+    <trkpt lat="52.4062144" lon="20.9330835">
+      <ele>77</ele>
+      <time>2022-01-18T01:02:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4037767" lon="20.930031">
+      <ele>78</ele>
+      <time>2022-01-18T01:07:52Z</time>
+    </trkpt>
+    <trkpt lat="52.4021641" lon="20.9279869">
+      <ele>77</ele>
+      <time>2022-01-18T01:11:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

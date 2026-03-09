@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:19Z</time>
+    <bounds maxlat="50.9221158" maxlon="16.1034465" minlat="50.9216964" minlon="16.1003298"/>
+  </metadata>
+  <wpt lat="50.922116" lon="16.10033">
+    <ele>351</ele>
+    <name>Bolkow</name>
+    <link href="https://mapa-turystyczna.pl/node/2576">
+      <text>Bolkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.921696" lon="16.103447">
+    <ele>331</ele>
+    <name>Bolkow, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/2577">
+      <text>Bolkow, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bolkow - Bolkow, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9221158,16.1003298;50.921926850108015,16.10201715000003;50.9216964,16.1034465">
+    <text>Bolkow - Bolkow, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9221158" lon="16.1003298">
+      <ele>351</ele>
+      <time>2022-01-17T21:33:19Z</time>
+    </trkpt>
+    <trkpt lat="50.9220812" lon="16.1006603">
+      <ele>348</ele>
+      <time>2022-01-17T21:33:38Z</time>
+    </trkpt>
+    <trkpt lat="50.9221049" lon="16.1007515">
+      <ele>347</ele>
+      <time>2022-01-17T21:33:43Z</time>
+    </trkpt>
+    <trkpt lat="50.9220271" lon="16.1014059">
+      <ele>340</ele>
+      <time>2022-01-17T21:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.9218266" lon="16.1026284">
+      <ele>333</ele>
+      <time>2022-01-17T21:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.9216964" lon="16.1034465">
+      <ele>331</ele>
+      <time>2022-01-17T21:36:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

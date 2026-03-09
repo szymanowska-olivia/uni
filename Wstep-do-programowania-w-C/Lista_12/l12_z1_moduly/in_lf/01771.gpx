@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:51Z</time>
+    <bounds maxlat="50.7906428" maxlon="15.5135831" minlat="50.7873391" minlon="15.5097878"/>
+  </metadata>
+  <wpt lat="50.790643" lon="15.509788">
+    <ele>1314</ele>
+    <name>Graniczna Laka</name>
+    <link href="https://mapa-turystyczna.pl/node/1295">
+      <text>Graniczna Laka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.787339" lon="15.513583">
+    <ele>1290</ele>
+    <name>Trzy Swinki</name>
+    <link href="https://mapa-turystyczna.pl/node/1409">
+      <text>Trzy Swinki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Graniczna Laka - Trzy Swinki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7906428,15.5097878;50.78939935292062,15.511873250000008;50.7873391,15.5135831">
+    <text>Graniczna Laka - Trzy Swinki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7906428" lon="15.5097878">
+      <ele>1314</ele>
+      <time>2022-01-17T21:05:51Z</time>
+    </trkpt>
+    <trkpt lat="50.790381" lon="15.510402">
+      <ele>1315</ele>
+      <time>2022-01-17T21:06:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7902332" lon="15.5109827">
+      <ele>1316</ele>
+      <time>2022-01-17T21:06:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7900243" lon="15.5114991">
+      <ele>1316</ele>
+      <time>2022-01-17T21:07:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7899219" lon="15.5116627">
+      <ele>1316</ele>
+      <time>2022-01-17T21:07:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7888768" lon="15.5120838">
+      <ele>1310</ele>
+      <time>2022-01-17T21:08:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7885796" lon="15.5121964">
+      <ele>1308</ele>
+      <time>2022-01-17T21:09:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7873391" lon="15.5135831">
+      <ele>1290</ele>
+      <time>2022-01-17T21:10:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

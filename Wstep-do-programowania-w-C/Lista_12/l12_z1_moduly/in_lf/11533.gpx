@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:05Z</time>
+    <bounds maxlat="50.9180137" maxlon="15.3283566" minlat="50.9167379" minlon="15.3274244"/>
+  </metadata>
+  <wpt lat="50.916738" lon="15.328357">
+    <ele>599</ele>
+    <name>Pod Swieradowka</name>
+    <link href="https://mapa-turystyczna.pl/node/8082">
+      <text>Pod Swieradowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.918014" lon="15.327424">
+    <ele>609</ele>
+    <name>Swieradowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2261">
+      <text>Swieradowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Swieradowka - Swieradowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9167379,15.3283566;50.917223950277325,15.327960850000014;50.9180137,15.3274244">
+    <text>Pod Swieradowka - Swieradowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9167379" lon="15.3283566">
+      <ele>599</ele>
+      <time>2022-01-17T23:36:05Z</time>
+    </trkpt>
+    <trkpt lat="50.9169585" lon="15.3281539">
+      <ele>602</ele>
+      <time>2022-01-17T23:36:38Z</time>
+    </trkpt>
+    <trkpt lat="50.9170633" lon="15.3280681">
+      <ele>603</ele>
+      <time>2022-01-17T23:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.9173846" lon="15.3278536">
+      <ele>605</ele>
+      <time>2022-01-17T23:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.9177907" lon="15.3275531">
+      <ele>608</ele>
+      <time>2022-01-17T23:38:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9180137" lon="15.3274244">
+      <ele>609</ele>
+      <time>2022-01-17T23:39:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

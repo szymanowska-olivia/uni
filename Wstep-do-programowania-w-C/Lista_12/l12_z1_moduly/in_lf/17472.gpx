@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:55Z</time>
+    <bounds maxlat="50.661334" maxlon="16.3108172" minlat="50.6607517" minlon="16.3081849"/>
+  </metadata>
+  <wpt lat="50.660752" lon="16.308185">
+    <ele>715</ele>
+    <name>Rozcestnik na Javorovem vrchu</name>
+    <link href="https://mapa-turystyczna.pl/node/2350">
+      <text>Rozcestnik na Javorovem vrchu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.661334" lon="16.310817">
+    <ele>729</ele>
+    <name>Javorovy vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/11861">
+      <text>Javorovy vrch, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozcestnik na Javorovem vrchu - Javorovy vrch, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6607517,16.3081849;50.66103145014439,16.309657400000006;50.661334,16.3108172">
+    <text>Rozcestnik na Javorovem vrchu - Javorovy vrch, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6607517" lon="16.3081849">
+      <ele>715</ele>
+      <time>2022-01-18T01:13:55Z</time>
+    </trkpt>
+    <trkpt lat="50.660915" lon="16.309011">
+      <ele>721</ele>
+      <time>2022-01-18T01:15:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6611479" lon="16.3103038">
+      <ele>725</ele>
+      <time>2022-01-18T01:17:52Z</time>
+    </trkpt>
+    <trkpt lat="50.661334" lon="16.3108172">
+      <ele>729</ele>
+      <time>2022-01-18T01:18:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

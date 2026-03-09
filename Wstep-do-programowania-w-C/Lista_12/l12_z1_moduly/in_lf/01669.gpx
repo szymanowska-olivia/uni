@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:16Z</time>
+    <bounds maxlat="50.7071471" maxlon="15.6745076" minlat="50.7057993" minlon="15.6673354"/>
+  </metadata>
+  <wpt lat="50.707147" lon="15.667335">
+    <ele>1331</ele>
+    <name>Nad Klinovymi Boudami</name>
+    <link href="https://mapa-turystyczna.pl/node/1231">
+      <text>Nad Klinovymi Boudami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.705799" lon="15.674508">
+    <ele>1349</ele>
+    <name>Chata na Rozcesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1108">
+      <text>Chata na Rozcesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Klinovymi Boudami - Chata na Rozcesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7071471,15.6673354;50.706185400238034,15.671643049999995;50.7057993,15.6745076">
+    <text>Nad Klinovymi Boudami - Chata na Rozcesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7071471" lon="15.6673354">
+      <ele>1331</ele>
+      <time>2022-01-17T21:04:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7069272" lon="15.6677029">
+      <ele>1335</ele>
+      <time>2022-01-17T21:04:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7068092" lon="15.6679737">
+      <ele>1338</ele>
+      <time>2022-01-17T21:05:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7064909" lon="15.6693363">
+      <ele>1345</ele>
+      <time>2022-01-17T21:07:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7063348" lon="15.6703985">
+      <ele>1348</ele>
+      <time>2022-01-17T21:08:44Z</time>
+    </trkpt>
+    <trkpt lat="50.706036" lon="15.6728876">
+      <ele>1349</ele>
+      <time>2022-01-17T21:12:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7057993" lon="15.6745076">
+      <ele>1349</ele>
+      <time>2022-01-17T21:14:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

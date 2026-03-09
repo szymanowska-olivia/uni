@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:57Z</time>
+    <bounds maxlat="52.3543399" maxlon="20.3060933" minlat="52.3525904" minlon="20.3035069"/>
+  </metadata>
+  <wpt lat="52.35259" lon="20.303507">
+    <ele>78</ele>
+    <name>Wilcze Tulowskie</name>
+    <link href="https://mapa-turystyczna.pl/node/4928">
+      <text>Wilcze Tulowskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.35434" lon="20.306093">
+    <ele>80</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12424">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilcze Tulowskie - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3525904,20.3035069;52.35384660275294,20.30544899999999;52.3543399,20.3060933">
+    <text>Wilcze Tulowskie - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3525904" lon="20.3035069">
+      <ele>78</ele>
+      <time>2022-01-18T01:28:57Z</time>
+    </trkpt>
+    <trkpt lat="52.3533533" lon="20.3048047">
+      <ele>79</ele>
+      <time>2022-01-18T01:31:17Z</time>
+    </trkpt>
+    <trkpt lat="52.3543399" lon="20.3060933">
+      <ele>80</ele>
+      <time>2022-01-18T01:33:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

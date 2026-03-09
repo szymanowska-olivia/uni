@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:54Z</time>
+    <bounds maxlat="51.1744019" maxlon="15.7653918" minlat="51.1728834" minlon="15.7626825"/>
+  </metadata>
+  <wpt lat="51.172883" lon="15.765392">
+    <ele>273</ele>
+    <name>Grodziec, Droga do Zamku</name>
+    <link href="https://mapa-turystyczna.pl/node/3356">
+      <text>Grodziec, Droga do Zamku</text>
+    </link>
+  </wpt>
+  <wpt lat="51.174396" lon="15.762683">
+    <ele>316</ele>
+    <name>Grodziec, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/3361">
+      <text>Grodziec, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodziec, Droga do Zamku - Grodziec, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1728834,15.7653918;51.1738545500181,15.7641754;51.174396,15.7626825">
+    <text>Grodziec, Droga do Zamku - Grodziec, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1728834" lon="15.7653918">
+      <ele>273</ele>
+      <time>2022-01-17T21:46:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1729435" lon="15.7653863">
+      <ele>274</ele>
+      <time>2022-01-17T21:47:08Z</time>
+    </trkpt>
+    <trkpt lat="51.1732608" lon="15.765222">
+      <ele>277</ele>
+      <time>2022-01-17T21:48:28Z</time>
+    </trkpt>
+    <trkpt lat="51.1733309" lon="15.7651435">
+      <ele>278</ele>
+      <time>2022-01-17T21:48:49Z</time>
+    </trkpt>
+    <trkpt lat="51.1734413" lon="15.7649269">
+      <ele>281</ele>
+      <time>2022-01-17T21:49:31Z</time>
+    </trkpt>
+    <trkpt lat="51.1734763" lon="15.7646791">
+      <ele>284</ele>
+      <time>2022-01-17T21:50:09Z</time>
+    </trkpt>
+    <trkpt lat="51.1735439" lon="15.7645058">
+      <ele>286</ele>
+      <time>2022-01-17T21:50:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1736517" lon="15.7643753">
+      <ele>288</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1738137" lon="15.7642861">
+      <ele>289</ele>
+      <time>2022-01-17T21:51:53Z</time>
+    </trkpt>
+    <trkpt lat="51.1738954" lon="15.7640647">
+      <ele>291</ele>
+      <time>2022-01-17T21:52:32Z</time>
+    </trkpt>
+    <trkpt lat="51.1744019" lon="15.7632571">
+      <ele>306</ele>
+      <time>2022-01-17T21:55:26Z</time>
+    </trkpt>
+    <trkpt lat="51.174396" lon="15.7626825">
+      <ele>316</ele>
+      <time>2022-01-17T21:56:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

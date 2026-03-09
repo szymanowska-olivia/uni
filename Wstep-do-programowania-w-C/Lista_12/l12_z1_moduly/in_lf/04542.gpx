@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:53Z</time>
+    <bounds maxlat="50.7627053" maxlon="20.9368784" minlat="50.7583178" minlon="20.9364438"/>
+  </metadata>
+  <wpt lat="50.762705" lon="20.93683">
+    <ele>294</ele>
+    <name>Widelki</name>
+    <link href="https://mapa-turystyczna.pl/node/3159">
+      <text>Widelki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.758318" lon="20.936878">
+    <ele>292</ele>
+    <name>Lapigrosz</name>
+    <link href="https://mapa-turystyczna.pl/node/3158">
+      <text>Lapigrosz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Widelki - Lapigrosz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7627053,20.93683;50.760992561651605,20.936614100000035;50.7583178,20.9368784">
+    <text>Widelki - Lapigrosz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7627053" lon="20.93683">
+      <ele>294</ele>
+      <time>2022-01-17T21:43:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7623948" lon="20.9365685">
+      <ele>294</ele>
+      <time>2022-01-17T21:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7622218" lon="20.9364626">
+      <ele>294</ele>
+      <time>2022-01-17T21:45:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7620368" lon="20.9364438">
+      <ele>293</ele>
+      <time>2022-01-17T21:45:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7599483" lon="20.9367844">
+      <ele>290</ele>
+      <time>2022-01-17T21:50:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7596632" lon="20.9366852">
+      <ele>289</ele>
+      <time>2022-01-17T21:50:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7595767" lon="20.9367254">
+      <ele>290</ele>
+      <time>2022-01-17T21:51:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7594477" lon="20.9367442">
+      <ele>290</ele>
+      <time>2022-01-17T21:51:19Z</time>
+    </trkpt>
+    <trkpt lat="50.759172" lon="20.9366671">
+      <ele>291</ele>
+      <time>2022-01-17T21:51:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7589913" lon="20.9366691">
+      <ele>291</ele>
+      <time>2022-01-17T21:52:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7586927" lon="20.9367228">
+      <ele>291</ele>
+      <time>2022-01-17T21:53:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7583178" lon="20.9368784">
+      <ele>292</ele>
+      <time>2022-01-17T21:53:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:40Z</time>
+    <bounds maxlat="50.8033549" maxlon="15.9146405" minlat="50.8010731" minlon="15.9103489"/>
+  </metadata>
+  <wpt lat="50.801073" lon="15.910349">
+    <ele>723</ele>
+    <name>Czarnow, Czartak</name>
+    <link href="https://mapa-turystyczna.pl/node/2991">
+      <text>Czarnow, Czartak</text>
+    </link>
+  </wpt>
+  <wpt lat="50.803355" lon="15.914641">
+    <ele>730</ele>
+    <name>Czarnow</name>
+    <link href="https://mapa-turystyczna.pl/node/2997">
+      <text>Czarnow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarnow, Czartak - Czarnow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8010731,15.9103489;50.80224150094963,15.912672350000001;50.8033549,15.9146405">
+    <text>Czarnow, Czartak - Czarnow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8010731" lon="15.9103489">
+      <ele>723</ele>
+      <time>2022-01-17T21:40:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8016868" lon="15.9110999">
+      <ele>729</ele>
+      <time>2022-01-17T21:41:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8019436" lon="15.9120212">
+      <ele>727</ele>
+      <time>2022-01-17T21:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8025394" lon="15.9133235">
+      <ele>728</ele>
+      <time>2022-01-17T21:44:03Z</time>
+    </trkpt>
+    <trkpt lat="50.8033549" lon="15.9146405">
+      <ele>730</ele>
+      <time>2022-01-17T21:45:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

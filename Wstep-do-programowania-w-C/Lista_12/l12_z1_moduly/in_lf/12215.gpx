@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:46:44Z</time>
+    <bounds maxlat="51.1757486" maxlon="20.6305217" minlat="51.1532532" minlon="20.6211662"/>
+  </metadata>
+  <wpt lat="51.175749" lon="20.624147">
+    <ele>284</ele>
+    <name>Nieklan</name>
+    <link href="https://mapa-turystyczna.pl/node/8423">
+      <text>Nieklan</text>
+    </link>
+  </wpt>
+  <wpt lat="51.153253" lon="20.630522">
+    <ele>278</ele>
+    <name>Wolka Plebanska</name>
+    <link href="https://mapa-turystyczna.pl/node/3217">
+      <text>Wolka Plebanska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nieklan - Wolka Plebanska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1757486,20.6241467;51.16439056654007,20.621466599999998;51.1532532,20.6305217">
+    <text>Nieklan - Wolka Plebanska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1757486" lon="20.6241467">
+      <ele>284</ele>
+      <time>2022-01-17T23:46:44Z</time>
+    </trkpt>
+    <trkpt lat="51.1705906" lon="20.6229901">
+      <ele>286</ele>
+      <time>2022-01-17T23:55:16Z</time>
+    </trkpt>
+    <trkpt lat="51.1691914" lon="20.6224108">
+      <ele>289</ele>
+      <time>2022-01-17T23:57:38Z</time>
+    </trkpt>
+    <trkpt lat="51.1682361" lon="20.6221533">
+      <ele>281</ele>
+      <time>2022-01-17T23:59:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1671059" lon="20.6214023">
+      <ele>278</ele>
+      <time>2022-01-18T00:01:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1656258" lon="20.6211662">
+      <ele>278</ele>
+      <time>2022-01-18T00:03:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1631553" lon="20.621767">
+      <ele>277</ele>
+      <time>2022-01-18T00:07:45Z</time>
+    </trkpt>
+    <trkpt lat="51.160464" lon="20.6230116">
+      <ele>276</ele>
+      <time>2022-01-18T00:12:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1549732" lon="20.6272602">
+      <ele>271</ele>
+      <time>2022-01-18T00:22:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1536273" lon="20.6294918">
+      <ele>276</ele>
+      <time>2022-01-18T00:25:31Z</time>
+    </trkpt>
+    <trkpt lat="51.1532532" lon="20.6305217">
+      <ele>278</ele>
+      <time>2022-01-18T00:26:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

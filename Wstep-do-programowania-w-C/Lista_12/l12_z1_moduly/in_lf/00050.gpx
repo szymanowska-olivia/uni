@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:43:59Z</time>
+    <bounds maxlat="49.419859" maxlon="20.457927" minlat="49.41735" minlon="20.452922"/>
+  </metadata>
+  <wpt lat="49.41735" lon="20.452922">
+    <ele>453</ele>
+    <name>Przeprawa pod Sokolica</name>
+    <link href="https://mapa-turystyczna.pl/node/40">
+      <text>Przeprawa pod Sokolica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.419859" lon="20.457927">
+    <ele>445</ele>
+    <name>Szczawnica, skrzyzowanie przy Orlicy</name>
+    <link href="https://mapa-turystyczna.pl/node/3986">
+      <text>Szczawnica, skrzyzowanie przy Orlicy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przeprawa pod Sokolica - Szczawnica, skrzyzowanie przy Orlicy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.41735,20.452922;49.418174500138264,20.45564149999999;49.419859,20.457927">
+    <text>Przeprawa pod Sokolica - Szczawnica, skrzyzowanie przy Orlicy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.41735" lon="20.452922">
+      <ele>453</ele>
+      <time>2022-01-17T20:43:59Z</time>
+    </trkpt>
+    <trkpt lat="49.417669" lon="20.45436">
+      <ele>450</ele>
+      <time>2022-01-17T20:46:19Z</time>
+    </trkpt>
+    <trkpt lat="49.418058" lon="20.455398">
+      <ele>444</ele>
+      <time>2022-01-17T20:48:10Z</time>
+    </trkpt>
+    <trkpt lat="49.418291" lon="20.455885">
+      <ele>441</ele>
+      <time>2022-01-17T20:49:06Z</time>
+    </trkpt>
+    <trkpt lat="49.418371" lon="20.456004">
+      <ele>440</ele>
+      <time>2022-01-17T20:49:22Z</time>
+    </trkpt>
+    <trkpt lat="49.418559" lon="20.456272">
+      <ele>439</ele>
+      <time>2022-01-17T20:49:59Z</time>
+    </trkpt>
+    <trkpt lat="49.418647" lon="20.456396">
+      <ele>439</ele>
+      <time>2022-01-17T20:50:16Z</time>
+    </trkpt>
+    <trkpt lat="49.419235" lon="20.457104">
+      <ele>444</ele>
+      <time>2022-01-17T20:52:02Z</time>
+    </trkpt>
+    <trkpt lat="49.419646" lon="20.457668">
+      <ele>445</ele>
+      <time>2022-01-17T20:53:20Z</time>
+    </trkpt>
+    <trkpt lat="49.419859" lon="20.457927">
+      <ele>445</ele>
+      <time>2022-01-17T20:53:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:28Z</time>
+    <bounds maxlat="50.3400957" maxlon="19.6277608" minlat="50.3359492" minlon="19.6192378"/>
+  </metadata>
+  <wpt lat="50.335949" lon="19.627761">
+    <ele>415</ele>
+    <name>Odejscie na Zubowe Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/13379">
+      <text>Odejscie na Zubowe Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.340096" lon="19.619238">
+    <ele>347</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4419">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na Zubowe Skaly - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3359492,19.6277608;50.33864620353964,19.622994899999995;50.3400957,19.6192378">
+    <text>Odejscie na Zubowe Skaly - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3359492" lon="19.6277608">
+      <ele>415</ele>
+      <time>2022-01-18T01:55:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3364562" lon="19.6270913">
+      <ele>411</ele>
+      <time>2022-01-18T01:56:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3367827" lon="19.6265367">
+      <ele>407</ele>
+      <time>2022-01-18T01:57:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3370819" lon="19.6255101">
+      <ele>405</ele>
+      <time>2022-01-18T01:58:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3377487" lon="19.6249589">
+      <ele>398</ele>
+      <time>2022-01-18T01:59:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3380663" lon="19.6244238">
+      <ele>396</ele>
+      <time>2022-01-18T01:59:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3392261" lon="19.621566">
+      <ele>363</ele>
+      <time>2022-01-18T02:03:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3399605" lon="19.6196106">
+      <ele>350</ele>
+      <time>2022-01-18T02:05:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3400957" lon="19.6192378">
+      <ele>347</ele>
+      <time>2022-01-18T02:05:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

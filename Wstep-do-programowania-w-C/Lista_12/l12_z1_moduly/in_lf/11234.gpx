@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:52Z</time>
+    <bounds maxlat="50.0396473" maxlon="16.8543248" minlat="50.0390777" minlon="16.853209"/>
+  </metadata>
+  <wpt lat="50.039078" lon="16.853209">
+    <ele>828</ele>
+    <name>Paramut</name>
+    <link href="https://mapa-turystyczna.pl/node/7914">
+      <text>Paramut</text>
+    </link>
+  </wpt>
+  <wpt lat="50.039381" lon="16.854325">
+    <ele>812</ele>
+    <name>Paramut, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7915">
+      <text>Paramut, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paramut - Paramut, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0390777,16.853209;50.039457800373995,16.85399935000001;50.0393809,16.8543248">
+    <text>Paramut - Paramut, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0390777" lon="16.853209">
+      <ele>828</ele>
+      <time>2022-01-17T23:30:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0392683" lon="16.8536882">
+      <ele>823</ele>
+      <time>2022-01-17T23:31:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0396473" lon="16.8543105">
+      <ele>816</ele>
+      <time>2022-01-17T23:32:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0393809" lon="16.8543248">
+      <ele>812</ele>
+      <time>2022-01-17T23:32:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

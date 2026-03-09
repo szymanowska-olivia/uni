@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:07Z</time>
+    <bounds maxlat="50.8633978" maxlon="15.6926195" minlat="50.8567606" minlon="15.6884685"/>
+  </metadata>
+  <wpt lat="50.863398" lon="15.688469">
+    <ele>340</ele>
+    <name>Cieplice, ul. Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/3388">
+      <text>Cieplice, ul. Wolnosci</text>
+    </link>
+  </wpt>
+  <wpt lat="50.856761" lon="15.692619">
+    <ele>359</ele>
+    <name>Cieplice, ul. Wroblewskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11039">
+      <text>Cieplice, ul. Wroblewskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieplice, ul. Wolnosci - Cieplice, ul. Wroblewskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8633978,15.6884685;50.859826451440696,15.691122549999985;50.8567606,15.6926195">
+    <text>Cieplice, ul. Wolnosci - Cieplice, ul. Wroblewskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8633978" lon="15.6884685">
+      <ele>340</ele>
+      <time>2022-01-18T00:52:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8628781" lon="15.6890573">
+      <ele>341</ele>
+      <time>2022-01-18T00:53:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8621958" lon="15.6896675">
+      <ele>347</ele>
+      <time>2022-01-18T00:54:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8614678" lon="15.6901985">
+      <ele>349</ele>
+      <time>2022-01-18T00:56:10Z</time>
+    </trkpt>
+    <trkpt lat="50.860193" lon="15.6908718">
+      <ele>347</ele>
+      <time>2022-01-18T00:58:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8594599" lon="15.6913733">
+      <ele>349</ele>
+      <time>2022-01-18T01:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8589723" lon="15.6898928">
+      <ele>346</ele>
+      <time>2022-01-18T01:01:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8577329" lon="15.691191">
+      <ele>353</ele>
+      <time>2022-01-18T01:04:42Z</time>
+    </trkpt>
+    <trkpt lat="50.856778" lon="15.6926125">
+      <ele>359</ele>
+      <time>2022-01-18T01:07:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8567606" lon="15.6926195">
+      <ele>359</ele>
+      <time>2022-01-18T01:07:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

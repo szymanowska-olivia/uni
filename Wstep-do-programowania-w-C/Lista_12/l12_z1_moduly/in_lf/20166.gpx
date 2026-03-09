@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:43Z</time>
+    <bounds maxlat="50.6610302" maxlon="16.4784408" minlat="50.66032" minlon="16.4781006"/>
+  </metadata>
+  <wpt lat="50.66032" lon="16.478101">
+    <ele>693</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13571">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.66103" lon="16.478441">
+    <ele>697</ele>
+    <name>Rozdroze nad Sokolcem, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/7350">
+      <text>Rozdroze nad Sokolcem, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Rozdroze nad Sokolcem, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.66032,16.4781006;50.66071940019205,16.47821944999997;50.6610302,16.4784408">
+    <text>Rozejscie szlakow - Rozdroze nad Sokolcem, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.66032" lon="16.4781006">
+      <ele>693</ele>
+      <time>2022-01-18T02:01:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6605851" lon="16.4781806">
+      <ele>696</ele>
+      <time>2022-01-18T02:02:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6608537" lon="16.4782583">
+      <ele>697</ele>
+      <time>2022-01-18T02:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6609592" lon="16.4783372">
+      <ele>696</ele>
+      <time>2022-01-18T02:03:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6610272" lon="16.4784408">
+      <ele>697</ele>
+      <time>2022-01-18T02:03:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6610302" lon="16.4784408">
+      <ele>697</ele>
+      <time>2022-01-18T02:03:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

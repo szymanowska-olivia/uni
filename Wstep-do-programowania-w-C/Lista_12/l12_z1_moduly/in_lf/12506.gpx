@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:11Z</time>
+    <bounds maxlat="53.9741117" maxlon="14.7716691" minlat="53.973326" minlon="14.771502"/>
+  </metadata>
+  <wpt lat="53.973326" lon="14.771611">
+    <ele>13</ele>
+    <name>Kamien Pomorski, ul. Gryfitow</name>
+    <link href="https://mapa-turystyczna.pl/node/8603">
+      <text>Kamien Pomorski, ul. Gryfitow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.974112" lon="14.771502">
+    <ele>8</ele>
+    <name>Kamien Pomorski, ul. Klasztorna</name>
+    <link href="https://mapa-turystyczna.pl/node/8602">
+      <text>Kamien Pomorski, ul. Klasztorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Gryfitow - Kamien Pomorski, ul. Klasztorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.973326,14.7716113;53.97377720134264,14.771585550000012;53.9741117,14.771502">
+    <text>Kamien Pomorski, ul. Gryfitow - Kamien Pomorski, ul. Klasztorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.973326" lon="14.7716113">
+      <ele>13</ele>
+      <time>2022-01-17T23:51:11Z</time>
+    </trkpt>
+    <trkpt lat="53.9734427" lon="14.7716691">
+      <ele>12</ele>
+      <time>2022-01-17T23:51:20Z</time>
+    </trkpt>
+    <trkpt lat="53.9741117" lon="14.771502">
+      <ele>8</ele>
+      <time>2022-01-17T23:52:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

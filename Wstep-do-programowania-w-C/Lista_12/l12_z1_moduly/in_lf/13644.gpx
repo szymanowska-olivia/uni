@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:29Z</time>
+    <bounds maxlat="50.7216638" maxlon="16.3306189" minlat="50.7208263" minlon="16.3296252"/>
+  </metadata>
+  <wpt lat="50.720826" lon="16.329625">
+    <ele>483</ele>
+    <name>Glinica, ul. Ogrodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9403">
+      <text>Glinica, ul. Ogrodowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.721664" lon="16.330619">
+    <ele>481</ele>
+    <name>Glinica, wiadukt</name>
+    <link href="https://mapa-turystyczna.pl/node/2531">
+      <text>Glinica, wiadukt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glinica, ul. Ogrodowa - Glinica, wiadukt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7208263,16.3296252;50.72139635076322,16.33013205;50.7216638,16.3306189">
+    <text>Glinica, ul. Ogrodowa - Glinica, wiadukt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7208263" lon="16.3296252">
+      <ele>483</ele>
+      <time>2022-01-18T00:10:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7211289" lon="16.3296452">
+      <ele>488</ele>
+      <time>2022-01-18T00:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7216638" lon="16.3306189">
+      <ele>481</ele>
+      <time>2022-01-18T00:12:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:24Z</time>
+    <bounds maxlat="50.4186344" maxlon="16.1434382" minlat="50.4185268" minlon="16.1412817"/>
+  </metadata>
+  <wpt lat="50.418599" lon="16.141282">
+    <ele>453</ele>
+    <name>Kramolna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6086">
+      <text>Kramolna, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.418527" lon="16.143438">
+    <ele>445</ele>
+    <name>Kramolna</name>
+    <link href="https://mapa-turystyczna.pl/node/6084">
+      <text>Kramolna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kramolna, rozc. - Kramolna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4185986,16.1412817;50.41858060003057,16.142531600000012;50.4185268,16.1434382">
+    <text>Kramolna, rozc. - Kramolna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4185986" lon="16.1412817">
+      <ele>453</ele>
+      <time>2022-01-17T22:44:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4186344" lon="16.141625">
+      <ele>452</ele>
+      <time>2022-01-17T22:44:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4185268" lon="16.1434382">
+      <ele>445</ele>
+      <time>2022-01-17T22:46:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:17Z</time>
+    <bounds maxlat="50.7940694" maxlon="15.5028961" minlat="50.7932246" minlon="15.5009365"/>
+  </metadata>
+  <wpt lat="50.794069" lon="15.500936">
+    <ele>1201</ele>
+    <name>Schronisko Hala Szrenicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1350">
+      <text>Schronisko Hala Szrenicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.793402" lon="15.502896">
+    <ele>1223</ele>
+    <name>Hala Szrenicka</name>
+    <link href="https://mapa-turystyczna.pl/node/8026">
+      <text>Hala Szrenicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko Hala Szrenicka - Hala Szrenicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7940694,15.5009365;50.793339800031426,15.501344249999978;50.7934015,15.5028961">
+    <text>Schronisko Hala Szrenicka - Hala Szrenicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7940694" lon="15.5009365">
+      <ele>1201</ele>
+      <time>2022-01-17T23:34:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7937833" lon="15.5009821">
+      <ele>1206</ele>
+      <time>2022-01-17T23:35:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7935615" lon="15.5010398">
+      <ele>1209</ele>
+      <time>2022-01-17T23:35:40Z</time>
+    </trkpt>
+    <trkpt lat="50.793394" lon="15.5011726">
+      <ele>1213</ele>
+      <time>2022-01-17T23:36:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7932856" lon="15.5015159">
+      <ele>1216</ele>
+      <time>2022-01-17T23:36:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7932246" lon="15.5018699">
+      <ele>1219</ele>
+      <time>2022-01-17T23:37:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7932551" lon="15.5022079">
+      <ele>1220</ele>
+      <time>2022-01-17T23:38:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7933552" lon="15.5025888">
+      <ele>1221</ele>
+      <time>2022-01-17T23:38:45Z</time>
+    </trkpt>
+    <trkpt lat="50.793401" lon="15.5028945">
+      <ele>1223</ele>
+      <time>2022-01-17T23:39:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7934015" lon="15.5028961">
+      <ele>1223</ele>
+      <time>2022-01-17T23:39:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

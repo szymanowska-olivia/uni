@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:38Z</time>
+    <bounds maxlat="51.3872724" maxlon="23.192941" minlat="51.3869678" minlon="23.1926942"/>
+  </metadata>
+  <wpt lat="51.387272" lon="23.192834">
+    <ele>173</ele>
+    <name>Urszulin, ul. Chelmska</name>
+    <link href="https://mapa-turystyczna.pl/node/13274">
+      <text>Urszulin, ul. Chelmska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.386968" lon="23.192941">
+    <ele>173</ele>
+    <name>Urszulin, siedziba PPN</name>
+    <link href="https://mapa-turystyczna.pl/node/13273">
+      <text>Urszulin, siedziba PPN</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Urszulin, ul. Chelmska - Urszulin, siedziba PPN</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3872724,23.1928337;51.38714100018865,23.192763950000035;51.3869678,23.192941">
+    <text>Urszulin, ul. Chelmska - Urszulin, siedziba PPN</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3872724" lon="23.1928337">
+      <ele>173</ele>
+      <time>2022-01-18T01:52:38Z</time>
+    </trkpt>
+    <trkpt lat="51.3870096" lon="23.1926942">
+      <ele>173</ele>
+      <time>2022-01-18T01:53:16Z</time>
+    </trkpt>
+    <trkpt lat="51.3869678" lon="23.192941">
+      <ele>173</ele>
+      <time>2022-01-18T01:53:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

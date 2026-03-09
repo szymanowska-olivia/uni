@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:42:38Z</time>
+    <bounds maxlat="50.5745911" maxlon="16.1241156" minlat="50.5745195" minlon="16.1237669"/>
+  </metadata>
+  <wpt lat="50.574571" lon="16.123767">
+    <ele>770</ele>
+    <name>Rozhledna Cap, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6019">
+      <text>Rozhledna Cap, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.574591" lon="16.124116">
+    <ele>771</ele>
+    <name>Rozhledna Cap</name>
+    <link href="https://mapa-turystyczna.pl/node/6020">
+      <text>Rozhledna Cap</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozhledna Cap, rozc. - Rozhledna Cap</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5745706,16.1237669;50.57455530001361,16.12398014999999;50.5745911,16.1241156">
+    <text>Rozhledna Cap, rozc. - Rozhledna Cap</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5745706" lon="16.1237669">
+      <ele>770</ele>
+      <time>2022-01-17T22:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5745195" lon="16.1238447">
+      <ele>770</ele>
+      <time>2022-01-17T22:42:55Z</time>
+    </trkpt>
+    <trkpt lat="50.5745911" lon="16.1241156">
+      <ele>771</ele>
+      <time>2022-01-17T22:43:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

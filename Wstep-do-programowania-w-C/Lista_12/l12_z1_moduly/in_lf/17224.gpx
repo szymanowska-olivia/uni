@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:51Z</time>
+    <bounds maxlat="50.7613814" maxlon="16.3053691" minlat="50.7612096" minlon="16.30075"/>
+  </metadata>
+  <wpt lat="50.761258" lon="16.305369">
+    <ele>522</ele>
+    <name>Rozejscie sciezek spacerowych</name>
+    <link href="https://mapa-turystyczna.pl/node/11728">
+      <text>Rozejscie sciezek spacerowych</text>
+    </link>
+  </wpt>
+  <wpt lat="50.761381" lon="16.30075">
+    <ele>537</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11721">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezek spacerowych - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7612576,16.3053691;50.76133010001922,16.303275049999986;50.7613814,16.30075">
+    <text>Rozejscie sciezek spacerowych - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7612576" lon="16.3053691">
+      <ele>522</ele>
+      <time>2022-01-18T01:09:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7612877" lon="16.3036908">
+      <ele>542</ele>
+      <time>2022-01-18T01:11:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7613725" lon="16.3028593">
+      <ele>538</ele>
+      <time>2022-01-18T01:12:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7612096" lon="16.3019742">
+      <ele>542</ele>
+      <time>2022-01-18T01:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7612198" lon="16.3014216">
+      <ele>541</ele>
+      <time>2022-01-18T01:14:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7612673" lon="16.3011373">
+      <ele>540</ele>
+      <time>2022-01-18T01:14:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7613814" lon="16.30075">
+      <ele>537</ele>
+      <time>2022-01-18T01:14:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

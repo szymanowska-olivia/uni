@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:15Z</time>
+    <bounds maxlat="50.1648229" maxlon="18.917281" minlat="50.1644497" minlon="18.916449"/>
+  </metadata>
+  <wpt lat="50.16445" lon="18.917281">
+    <ele>323</ele>
+    <name>Mikolow, ul. Pileckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12502">
+      <text>Mikolow, ul. Pileckiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.164823" lon="18.916449">
+    <ele>323</ele>
+    <name>Mikolow, ul. Cmentarna</name>
+    <link href="https://mapa-turystyczna.pl/node/9330">
+      <text>Mikolow, ul. Cmentarna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mikolow, ul. Pileckiego - Mikolow, ul. Cmentarna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1644497,18.917281;50.16458405018882,18.917021600000016;50.1648229,18.916449">
+    <text>Mikolow, ul. Pileckiego - Mikolow, ul. Cmentarna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1644497" lon="18.917281">
+      <ele>323</ele>
+      <time>2022-01-18T01:31:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1647184" lon="18.9167622">
+      <ele>323</ele>
+      <time>2022-01-18T01:31:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1648229" lon="18.916449">
+      <ele>323</ele>
+      <time>2022-01-18T01:32:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

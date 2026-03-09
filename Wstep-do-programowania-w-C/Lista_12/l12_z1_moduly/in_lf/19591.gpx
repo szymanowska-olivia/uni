@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:09Z</time>
+    <bounds maxlat="50.581227" maxlon="16.5165239" minlat="50.5804878" minlon="16.5145713"/>
+  </metadata>
+  <wpt lat="50.580665" lon="16.514571">
+    <ele>391</ele>
+    <name>Nowa Ruda, ul. Cicha</name>
+    <link href="https://mapa-turystyczna.pl/node/13215">
+      <text>Nowa Ruda, ul. Cicha</text>
+    </link>
+  </wpt>
+  <wpt lat="50.580508" lon="16.516524">
+    <ele>401</ele>
+    <name>Zacisze</name>
+    <link href="https://mapa-turystyczna.pl/node/13216">
+      <text>Zacisze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Ruda, ul. Cicha - Zacisze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5806646,16.5145713;50.581213350001974,16.515746550000017;50.5805079,16.5165239">
+    <text>Nowa Ruda, ul. Cicha - Zacisze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5806646" lon="16.5145713">
+      <ele>391</ele>
+      <time>2022-01-18T01:51:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5809443" lon="16.5149634">
+      <ele>392</ele>
+      <time>2022-01-18T01:52:07Z</time>
+    </trkpt>
+    <trkpt lat="50.5811146" lon="16.515296">
+      <ele>392</ele>
+      <time>2022-01-18T01:52:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5812099" lon="16.5155266">
+      <ele>392</ele>
+      <time>2022-01-18T01:53:17Z</time>
+    </trkpt>
+    <trkpt lat="50.581227" lon="16.5156822">
+      <ele>392</ele>
+      <time>2022-01-18T01:53:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5811997" lon="16.5158109">
+      <ele>392</ele>
+      <time>2022-01-18T01:53:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5811486" lon="16.515929">
+      <ele>392</ele>
+      <time>2022-01-18T01:54:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5809136" lon="16.516165">
+      <ele>394</ele>
+      <time>2022-01-18T01:54:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5807842" lon="16.5162401">
+      <ele>396</ele>
+      <time>2022-01-18T01:55:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5804878" lon="16.5163688">
+      <ele>400</ele>
+      <time>2022-01-18T01:55:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5805079" lon="16.5165239">
+      <ele>401</ele>
+      <time>2022-01-18T01:56:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

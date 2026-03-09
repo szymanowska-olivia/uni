@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:55Z</time>
+    <bounds maxlat="49.9977514" maxlon="20.0478224" minlat="49.9964388" minlon="20.0413498"/>
+  </metadata>
+  <wpt lat="49.996439" lon="20.047822">
+    <ele>228</ele>
+    <name>Wieliczka, Bogucice</name>
+    <link href="https://mapa-turystyczna.pl/node/8045">
+      <text>Wieliczka, Bogucice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.997751" lon="20.04135">
+    <ele>225</ele>
+    <name>Wieliczka, ul. Winnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/8046">
+      <text>Wieliczka, ul. Winnicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wieliczka, Bogucice - Wieliczka, ul. Winnicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9964388,20.0478224;49.997047750027846,20.044495000000005;49.9977514,20.0413498">
+    <text>Wieliczka, Bogucice - Wieliczka, ul. Winnicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9964388" lon="20.0478224">
+      <ele>228</ele>
+      <time>2022-01-17T23:34:55Z</time>
+    </trkpt>
+    <trkpt lat="49.996465" lon="20.046909">
+      <ele>226</ele>
+      <time>2022-01-17T23:36:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9966029" lon="20.0460292">
+      <ele>225</ele>
+      <time>2022-01-17T23:37:34Z</time>
+    </trkpt>
+    <trkpt lat="49.9968236" lon="20.04501">
+      <ele>225</ele>
+      <time>2022-01-17T23:39:08Z</time>
+    </trkpt>
+    <trkpt lat="49.996996" lon="20.0446452">
+      <ele>227</ele>
+      <time>2022-01-17T23:39:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9970995" lon="20.0443448">
+      <ele>227</ele>
+      <time>2022-01-17T23:40:18Z</time>
+    </trkpt>
+    <trkpt lat="49.9974098" lon="20.0428428">
+      <ele>225</ele>
+      <time>2022-01-17T23:42:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9976098" lon="20.0421132">
+      <ele>225</ele>
+      <time>2022-01-17T23:43:45Z</time>
+    </trkpt>
+    <trkpt lat="49.9977514" lon="20.0413498">
+      <ele>225</ele>
+      <time>2022-01-17T23:44:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

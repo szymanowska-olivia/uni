@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:39:54Z</time>
+    <bounds maxlat="50.6852378" maxlon="16.2783459" minlat="50.6849201" minlon="16.2782085"/>
+  </metadata>
+  <wpt lat="50.685238" lon="16.278346">
+    <ele>793</ele>
+    <name>Andrzejowka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8203">
+      <text>Andrzejowka, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.68492" lon="16.278209">
+    <ele>796</ele>
+    <name>Schronisko PTTK Andrzejowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2340">
+      <text>Schronisko PTTK Andrzejowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Andrzejowka, parking - Schronisko PTTK Andrzejowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6852378,16.2783459;50.6850789502689,16.278277199999998;50.6849201,16.2782085">
+    <text>Andrzejowka, parking - Schronisko PTTK Andrzejowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6852378" lon="16.2783459">
+      <ele>793</ele>
+      <time>2022-01-17T23:39:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6849201" lon="16.2782085">
+      <ele>796</ele>
+      <time>2022-01-17T23:40:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

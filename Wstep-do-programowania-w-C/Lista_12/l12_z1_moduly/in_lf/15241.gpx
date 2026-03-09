@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:46Z</time>
+    <bounds maxlat="50.1673468" maxlon="18.8293326" minlat="50.1655684" minlon="18.8277213"/>
+  </metadata>
+  <wpt lat="50.165568" lon="18.827721">
+    <ele>309</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10392">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.167347" lon="18.829333">
+    <ele>310</ele>
+    <name>Stara Huta</name>
+    <link href="https://mapa-turystyczna.pl/node/10393">
+      <text>Stara Huta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Stara Huta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1655684,18.8277213;50.16682110289121,18.829136899999988;50.1673465,18.8293326">
+    <text>Rozejscie szlakow czerwony / czarny - Stara Huta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1655684" lon="18.8277213">
+      <ele>309</ele>
+      <time>2022-01-18T00:35:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1658968" lon="18.8283108">
+      <ele>309</ele>
+      <time>2022-01-18T00:36:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1662954" lon="18.8289438">
+      <ele>308</ele>
+      <time>2022-01-18T00:38:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1673468" lon="18.82933">
+      <ele>310</ele>
+      <time>2022-01-18T00:40:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1673465" lon="18.8293326">
+      <ele>310</ele>
+      <time>2022-01-18T00:40:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

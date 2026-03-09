@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:22Z</time>
+    <bounds maxlat="50.4101313" maxlon="16.2961163" minlat="50.4057379" minlon="16.2901766"/>
+  </metadata>
+  <wpt lat="50.405738" lon="16.290177">
+    <ele>447</ele>
+    <name>Lewin Klodzki</name>
+    <link href="https://mapa-turystyczna.pl/node/1841">
+      <text>Lewin Klodzki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.410131" lon="16.295461">
+    <ele>459</ele>
+    <name>Rozdroze nad Lewinem Klodzkim</name>
+    <link href="https://mapa-turystyczna.pl/node/1840">
+      <text>Rozdroze nad Lewinem Klodzkim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lewin Klodzki - Rozdroze nad Lewinem Klodzkim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4057379,16.2901766;50.407962200304596,16.295126899999985;50.4101313,16.2954605">
+    <text>Lewin Klodzki - Rozdroze nad Lewinem Klodzkim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4057379" lon="16.2901766">
+      <ele>447</ele>
+      <time>2022-01-17T21:17:22Z</time>
+    </trkpt>
+    <trkpt lat="50.405897" lon="16.2912306">
+      <ele>450</ele>
+      <time>2022-01-17T21:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4062166" lon="16.2919897">
+      <ele>449</ele>
+      <time>2022-01-17T21:20:12Z</time>
+    </trkpt>
+    <trkpt lat="50.407603" lon="16.2937251">
+      <ele>444</ele>
+      <time>2022-01-17T21:24:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4077923" lon="16.2941375">
+      <ele>446</ele>
+      <time>2022-01-17T21:24:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4081321" lon="16.2961163">
+      <ele>451</ele>
+      <time>2022-01-17T21:27:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4090667" lon="16.2956811">
+      <ele>452</ele>
+      <time>2022-01-17T21:29:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4098007" lon="16.2954099">
+      <ele>456</ele>
+      <time>2022-01-17T21:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4101313" lon="16.2954605">
+      <ele>459</ele>
+      <time>2022-01-17T21:32:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

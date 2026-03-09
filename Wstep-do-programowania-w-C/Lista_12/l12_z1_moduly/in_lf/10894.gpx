@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:40Z</time>
+    <bounds maxlat="50.0872443" maxlon="16.4666678" minlat="50.0868616" minlon="16.464783"/>
+  </metadata>
+  <wpt lat="50.087244" lon="16.464783">
+    <ele>423</ele>
+    <name>Zamberk</name>
+    <link href="https://mapa-turystyczna.pl/node/1949">
+      <text>Zamberk</text>
+    </link>
+  </wpt>
+  <wpt lat="50.086882" lon="16.466668">
+    <ele>419</ele>
+    <name>Zamberk, Zamecka</name>
+    <link href="https://mapa-turystyczna.pl/node/7670">
+      <text>Zamberk, Zamecka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamberk - Zamberk, Zamecka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0872443,16.464783;50.08719925002117,16.465311349999972;50.0868818,16.4666678">
+    <text>Zamberk - Zamberk, Zamecka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0872443" lon="16.464783">
+      <ele>423</ele>
+      <time>2022-01-17T23:24:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0871542" lon="16.4658397">
+      <ele>422</ele>
+      <time>2022-01-17T23:25:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0870613" lon="16.4659899">
+      <ele>423</ele>
+      <time>2022-01-17T23:25:54Z</time>
+    </trkpt>
+    <trkpt lat="50.0869718" lon="16.466108">
+      <ele>423</ele>
+      <time>2022-01-17T23:26:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0868926" lon="16.4662689">
+      <ele>422</ele>
+      <time>2022-01-17T23:26:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0868616" lon="16.4664191">
+      <ele>421</ele>
+      <time>2022-01-17T23:26:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0868818" lon="16.4666678">
+      <ele>419</ele>
+      <time>2022-01-17T23:26:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

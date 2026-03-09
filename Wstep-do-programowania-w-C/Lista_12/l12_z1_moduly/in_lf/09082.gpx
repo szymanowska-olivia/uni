@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:38Z</time>
+    <bounds maxlat="50.5616979" maxlon="16.0361445" minlat="50.5610572" minlon="16.0280925"/>
+  </metadata>
+  <wpt lat="50.561698" lon="16.028092">
+    <ele>640</ele>
+    <name>Pod Pasekou</name>
+    <link href="https://mapa-turystyczna.pl/node/6319">
+      <text>Pod Pasekou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.561371" lon="16.036144">
+    <ele>683</ele>
+    <name>Paseka</name>
+    <link href="https://mapa-turystyczna.pl/node/6314">
+      <text>Paseka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Pasekou - Paseka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5616979,16.0280925;50.56112880002415,16.031893150000023;50.5613707,16.0361445">
+    <text>Pod Pasekou - Paseka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5616979" lon="16.0280925">
+      <ele>640</ele>
+      <time>2022-01-17T22:50:38Z</time>
+    </trkpt>
+    <trkpt lat="50.561657" lon="16.028468">
+      <ele>645</ele>
+      <time>2022-01-17T22:51:20Z</time>
+    </trkpt>
+    <trkpt lat="50.5615275" lon="16.0295033">
+      <ele>665</ele>
+      <time>2022-01-17T22:53:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5613537" lon="16.0303885">
+      <ele>676</ele>
+      <time>2022-01-17T22:54:59Z</time>
+    </trkpt>
+    <trkpt lat="50.5611765" lon="16.0314935">
+      <ele>684</ele>
+      <time>2022-01-17T22:57:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5610811" lon="16.0322928">
+      <ele>689</ele>
+      <time>2022-01-17T22:58:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5610572" lon="16.0326737">
+      <ele>690</ele>
+      <time>2022-01-17T22:59:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5610606" lon="16.0329098">
+      <ele>691</ele>
+      <time>2022-01-17T22:59:38Z</time>
+    </trkpt>
+    <trkpt lat="50.5612923" lon="16.0337842">
+      <ele>695</ele>
+      <time>2022-01-17T23:01:20Z</time>
+    </trkpt>
+    <trkpt lat="50.5613162" lon="16.0342616">
+      <ele>696</ele>
+      <time>2022-01-17T23:02:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5612787" lon="16.0347283">
+      <ele>697</ele>
+      <time>2022-01-17T23:03:03Z</time>
+    </trkpt>
+    <trkpt lat="50.5613707" lon="16.0361445">
+      <ele>683</ele>
+      <time>2022-01-17T23:05:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

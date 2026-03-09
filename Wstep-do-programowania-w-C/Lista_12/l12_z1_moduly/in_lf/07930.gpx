@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:53Z</time>
+    <bounds maxlat="48.9339079" maxlon="19.1262987" minlat="48.9303591" minlon="19.1170263"/>
+  </metadata>
+  <wpt lat="48.933908" lon="19.117026">
+    <ele>1532</ele>
+    <name>Ploska</name>
+    <link href="https://mapa-turystyczna.pl/node/5610">
+      <text>Ploska</text>
+    </link>
+  </wpt>
+  <wpt lat="48.930706" lon="19.126299">
+    <ele>1435</ele>
+    <name>Sedlo Ploskej, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5573">
+      <text>Sedlo Ploskej, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ploska - Sedlo Ploskej, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9339079,19.1170263;48.931405752070084,19.12032945;48.9307062,19.1262987">
+    <text>Ploska - Sedlo Ploskej, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9339079" lon="19.1170263">
+      <ele>1532</ele>
+      <time>2022-01-17T22:29:53Z</time>
+    </trkpt>
+    <trkpt lat="48.9337616" lon="19.1171658">
+      <ele>1532</ele>
+      <time>2022-01-17T22:30:13Z</time>
+    </trkpt>
+    <trkpt lat="48.9318604" lon="19.1192901">
+      <ele>1521</ele>
+      <time>2022-01-17T22:34:52Z</time>
+    </trkpt>
+    <trkpt lat="48.9309511" lon="19.1213688">
+      <ele>1509</ele>
+      <time>2022-01-17T22:38:06Z</time>
+    </trkpt>
+    <trkpt lat="48.9306833" lon="19.1225691">
+      <ele>1494</ele>
+      <time>2022-01-17T22:39:45Z</time>
+    </trkpt>
+    <trkpt lat="48.9305688" lon="19.1230596">
+      <ele>1489</ele>
+      <time>2022-01-17T22:40:26Z</time>
+    </trkpt>
+    <trkpt lat="48.930426" lon="19.1235072">
+      <ele>1483</ele>
+      <time>2022-01-17T22:41:05Z</time>
+    </trkpt>
+    <trkpt lat="48.9303591" lon="19.1239733">
+      <ele>1474</ele>
+      <time>2022-01-17T22:41:43Z</time>
+    </trkpt>
+    <trkpt lat="48.9304582" lon="19.1249221">
+      <ele>1453</ele>
+      <time>2022-01-17T22:43:01Z</time>
+    </trkpt>
+    <trkpt lat="48.9306348" lon="19.1259997">
+      <ele>1439</ele>
+      <time>2022-01-17T22:44:28Z</time>
+    </trkpt>
+    <trkpt lat="48.9307062" lon="19.1262987">
+      <ele>1435</ele>
+      <time>2022-01-17T22:44:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

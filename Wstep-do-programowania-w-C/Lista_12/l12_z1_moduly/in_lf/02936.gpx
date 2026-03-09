@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:37Z</time>
+    <bounds maxlat="50.4449436" maxlon="16.8992887" minlat="50.4420645" minlon="16.8947089"/>
+  </metadata>
+  <wpt lat="50.442065" lon="16.897531">
+    <ele>351</ele>
+    <name>Bila Voda, ves</name>
+    <link href="https://mapa-turystyczna.pl/node/2073">
+      <text>Bila Voda, ves</text>
+    </link>
+  </wpt>
+  <wpt lat="50.444897" lon="16.894709">
+    <ele>339</ele>
+    <name>Zloty Stok, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2072">
+      <text>Zloty Stok, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bila Voda, ves - Zloty Stok, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4420645,16.8975306;50.44456845002269,16.899117749999988;50.4448966,16.8947089">
+    <text>Bila Voda, ves - Zloty Stok, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4420645" lon="16.8975306">
+      <ele>351</ele>
+      <time>2022-01-17T21:22:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4423878" lon="16.8977894">
+      <ele>352</ele>
+      <time>2022-01-17T21:23:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4426109" lon="16.8978598">
+      <ele>351</ele>
+      <time>2022-01-17T21:23:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4429036" lon="16.8978735">
+      <ele>349</ele>
+      <time>2022-01-17T21:24:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4431381" lon="16.8979409">
+      <ele>348</ele>
+      <time>2022-01-17T21:24:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4445221" lon="16.8992887">
+      <ele>343</ele>
+      <time>2022-01-17T21:27:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4446148" lon="16.8989468">
+      <ele>343</ele>
+      <time>2022-01-17T21:27:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4449436" lon="16.8967205">
+      <ele>341</ele>
+      <time>2022-01-17T21:30:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4448966" lon="16.8947089">
+      <ele>339</ele>
+      <time>2022-01-17T21:32:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

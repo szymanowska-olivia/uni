@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:08Z</time>
+    <bounds maxlat="50.6849201" maxlon="16.278282" minlat="50.6846323" minlon="16.2782085"/>
+  </metadata>
+  <wpt lat="50.68492" lon="16.278209">
+    <ele>796</ele>
+    <name>Schronisko PTTK Andrzejowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2340">
+      <text>Schronisko PTTK Andrzejowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.684632" lon="16.278282">
+    <ele>797</ele>
+    <name>Przelecz Trzech Dolin</name>
+    <link href="https://mapa-turystyczna.pl/node/7727">
+      <text>Przelecz Trzech Dolin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Andrzejowka - Przelecz Trzech Dolin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6849201,16.2782085;50.684776200220654,16.278245249999994;50.6846323,16.278282">
+    <text>Schronisko PTTK Andrzejowka - Przelecz Trzech Dolin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6849201" lon="16.2782085">
+      <ele>796</ele>
+      <time>2022-01-17T23:26:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6846323" lon="16.278282">
+      <ele>797</ele>
+      <time>2022-01-17T23:27:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

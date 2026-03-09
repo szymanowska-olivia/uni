@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:22Z</time>
+    <bounds maxlat="50.2417845" maxlon="16.3813542" minlat="50.2330798" minlon="16.3786492"/>
+  </metadata>
+  <wpt lat="50.23308" lon="16.378738">
+    <ele>631</ele>
+    <name>Kacerov</name>
+    <link href="https://mapa-turystyczna.pl/node/1935">
+      <text>Kacerov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.241785" lon="16.380165">
+    <ele>671</ele>
+    <name>Nad Kacerovem</name>
+    <link href="https://mapa-turystyczna.pl/node/1924">
+      <text>Nad Kacerovem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kacerov - Nad Kacerovem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2330798,16.3787377;50.2376553542031,16.380184700000008;50.2417845,16.3801646">
+    <text>Kacerov - Nad Kacerovem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2330798" lon="16.3787377">
+      <ele>631</ele>
+      <time>2022-01-17T21:19:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2333869" lon="16.3786492">
+      <ele>630</ele>
+      <time>2022-01-17T21:20:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2338999" lon="16.3787109">
+      <ele>633</ele>
+      <time>2022-01-17T21:21:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2343786" lon="16.3787565">
+      <ele>634</ele>
+      <time>2022-01-17T21:22:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2363361" lon="16.3801271">
+      <ele>637</ele>
+      <time>2022-01-17T21:26:40Z</time>
+    </trkpt>
+    <trkpt lat="50.236614" lon="16.3801794">
+      <ele>639</ele>
+      <time>2022-01-17T21:27:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2370223" lon="16.3799205">
+      <ele>642</ele>
+      <time>2022-01-17T21:28:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2382884" lon="16.3804489">
+      <ele>649</ele>
+      <time>2022-01-17T21:30:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2398358" lon="16.3811249">
+      <ele>659</ele>
+      <time>2022-01-17T21:34:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2411687" lon="16.3813542">
+      <ele>666</ele>
+      <time>2022-01-17T21:37:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2414312" lon="16.3811758">
+      <ele>669</ele>
+      <time>2022-01-17T21:37:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2417845" lon="16.3801646">
+      <ele>671</ele>
+      <time>2022-01-17T21:39:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

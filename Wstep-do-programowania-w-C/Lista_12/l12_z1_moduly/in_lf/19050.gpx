@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:38Z</time>
+    <bounds maxlat="52.0994933" maxlon="21.2874702" minlat="52.0967449" minlon="21.2790425"/>
+  </metadata>
+  <wpt lat="52.096745" lon="21.28747">
+    <ele>103</ele>
+    <name>Otwock, szkola podstawowa nr 2</name>
+    <link href="https://mapa-turystyczna.pl/node/12901">
+      <text>Otwock, szkola podstawowa nr 2</text>
+    </link>
+  </wpt>
+  <wpt lat="52.099493" lon="21.279042">
+    <ele>102</ele>
+    <name>Otwock, dawna Willa Zulita</name>
+    <link href="https://mapa-turystyczna.pl/node/12900">
+      <text>Otwock, dawna Willa Zulita</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, szkola podstawowa nr 2 - Otwock, dawna Willa Zulita</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0967449,21.2874699;52.09873800117308,21.282664900000032;52.0994933,21.2790425">
+    <text>Otwock, szkola podstawowa nr 2 - Otwock, dawna Willa Zulita</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0967449" lon="21.2874699">
+      <ele>103</ele>
+      <time>2022-01-18T01:41:38Z</time>
+    </trkpt>
+    <trkpt lat="52.096747" lon="21.2874702">
+      <ele>103</ele>
+      <time>2022-01-18T01:41:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0967997" lon="21.2873897">
+      <ele>102</ele>
+      <time>2022-01-18T01:41:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0984145" lon="21.283479">
+      <ele>100</ele>
+      <time>2022-01-18T01:46:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0990615" lon="21.2818508">
+      <ele>99</ele>
+      <time>2022-01-18T01:48:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0991406" lon="21.2816147">
+      <ele>99</ele>
+      <time>2022-01-18T01:48:54Z</time>
+    </trkpt>
+    <trkpt lat="52.0992164" lon="21.281309">
+      <ele>99</ele>
+      <time>2022-01-18T01:49:15Z</time>
+    </trkpt>
+    <trkpt lat="52.0994933" lon="21.2790425">
+      <ele>102</ele>
+      <time>2022-01-18T01:51:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

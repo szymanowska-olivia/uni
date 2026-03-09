@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:41Z</time>
+    <bounds maxlat="49.6474585" maxlon="22.4883163" minlat="49.6362659" minlon="22.482968"/>
+  </metadata>
+  <wpt lat="49.647458" lon="22.488316">
+    <ele>470</ele>
+    <name>Reberce</name>
+    <link href="https://mapa-turystyczna.pl/node/3795">
+      <text>Reberce</text>
+    </link>
+  </wpt>
+  <wpt lat="49.636266" lon="22.483263">
+    <ele>470</ele>
+    <name>Kiczerka Nad Lomna</name>
+    <link href="https://mapa-turystyczna.pl/node/3797">
+      <text>Kiczerka Nad Lomna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Reberce - Kiczerka Nad Lomna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6474585,22.4883163;49.64162420208222,22.485559549999994;49.6362659,22.483263">
+    <text>Reberce - Kiczerka Nad Lomna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6474585" lon="22.4883163">
+      <ele>470</ele>
+      <time>2022-01-17T21:54:41Z</time>
+    </trkpt>
+    <trkpt lat="49.6471768" lon="22.488049">
+      <ele>471</ele>
+      <time>2022-01-17T21:55:19Z</time>
+    </trkpt>
+    <trkpt lat="49.6460236" lon="22.488006">
+      <ele>475</ele>
+      <time>2022-01-17T21:57:33Z</time>
+    </trkpt>
+    <trkpt lat="49.6432208" lon="22.4882826">
+      <ele>478</ele>
+      <time>2022-01-17T22:02:59Z</time>
+    </trkpt>
+    <trkpt lat="49.6427414" lon="22.4880359">
+      <ele>478</ele>
+      <time>2022-01-17T22:03:57Z</time>
+    </trkpt>
+    <trkpt lat="49.6420745" lon="22.4871186">
+      <ele>477</ele>
+      <time>2022-01-17T22:05:41Z</time>
+    </trkpt>
+    <trkpt lat="49.6411739" lon="22.4840005">
+      <ele>473</ele>
+      <time>2022-01-17T22:09:57Z</time>
+    </trkpt>
+    <trkpt lat="49.6407154" lon="22.4837108">
+      <ele>474</ele>
+      <time>2022-01-17T22:10:54Z</time>
+    </trkpt>
+    <trkpt lat="49.6401318" lon="22.4838288">
+      <ele>470</ele>
+      <time>2022-01-17T22:12:03Z</time>
+    </trkpt>
+    <trkpt lat="49.6381593" lon="22.482968">
+      <ele>466</ele>
+      <time>2022-01-17T22:16:00Z</time>
+    </trkpt>
+    <trkpt lat="49.6362659" lon="22.483263">
+      <ele>470</ele>
+      <time>2022-01-17T22:19:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

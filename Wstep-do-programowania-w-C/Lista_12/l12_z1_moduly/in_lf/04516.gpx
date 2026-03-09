@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:40Z</time>
+    <bounds maxlat="50.802965" maxlon="20.3806257" minlat="50.8020699" minlon="20.3754705"/>
+  </metadata>
+  <wpt lat="50.80207" lon="20.380626">
+    <ele>230</ele>
+    <name>Jedlnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3135">
+      <text>Jedlnica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.802965" lon="20.37547">
+    <ele>238</ele>
+    <name>Pod Jedlnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3136">
+      <text>Pod Jedlnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jedlnica - Pod Jedlnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8020699,20.3806257;50.802586950056785,20.377529149999976;50.802965,20.3754705">
+    <text>Jedlnica - Pod Jedlnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8020699" lon="20.3806257">
+      <ele>230</ele>
+      <time>2022-01-17T21:43:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8022988" lon="20.3806056">
+      <ele>230</ele>
+      <time>2022-01-17T21:43:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8025141" lon="20.3782681">
+      <ele>234</ele>
+      <time>2022-01-17T21:46:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8026598" lon="20.3767902">
+      <ele>238</ele>
+      <time>2022-01-17T21:47:25Z</time>
+    </trkpt>
+    <trkpt lat="50.802965" lon="20.3754705">
+      <ele>238</ele>
+      <time>2022-01-17T21:48:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

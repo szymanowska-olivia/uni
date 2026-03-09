@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:41Z</time>
+    <bounds maxlat="50.2615878" maxlon="17.4311454" minlat="50.2606433" minlon="17.4300908"/>
+  </metadata>
+  <wpt lat="50.261588" lon="17.430091">
+    <ele>785</ele>
+    <name>Pod Biskupia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/6286">
+      <text>Pod Biskupia Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.260643" lon="17.431145">
+    <ele>765</ele>
+    <name>Gorski Dom Turysty Pod Biskupia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2634">
+      <text>Gorski Dom Turysty Pod Biskupia Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Biskupia Kopa - Gorski Dom Turysty Pod Biskupia Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2615878,17.4300908;50.26131215026121,17.43056059999998;50.2606433,17.4311454">
+    <text>Pod Biskupia Kopa - Gorski Dom Turysty Pod Biskupia Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2615878" lon="17.4300908">
+      <ele>785</ele>
+      <time>2022-01-17T22:49:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2614699" lon="17.430346">
+      <ele>784</ele>
+      <time>2022-01-17T22:50:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2611544" lon="17.4307752">
+      <ele>779</ele>
+      <time>2022-01-17T22:50:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2606433" lon="17.4311454">
+      <ele>765</ele>
+      <time>2022-01-17T22:51:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

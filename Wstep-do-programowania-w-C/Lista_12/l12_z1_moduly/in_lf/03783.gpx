@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:28Z</time>
+    <bounds maxlat="50.2635686" maxlon="17.3962498" minlat="50.2593196" minlon="17.3840672"/>
+  </metadata>
+  <wpt lat="50.263569" lon="17.39625">
+    <ele>409</ele>
+    <name>Zlate Hory</name>
+    <link href="https://mapa-turystyczna.pl/node/2641">
+      <text>Zlate Hory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.25932" lon="17.384067">
+    <ele>440</ele>
+    <name>Zlate Hory, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/2650">
+      <text>Zlate Hory, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory - Zlate Hory, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2635686,17.3962498;50.261922103214765,17.39089005;50.2593196,17.3840672">
+    <text>Zlate Hory - Zlate Hory, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2635686" lon="17.3962498">
+      <ele>409</ele>
+      <time>2022-01-17T21:34:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2633982" lon="17.3952617">
+      <ele>407</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.263173" lon="17.3943809">
+      <ele>407</ele>
+      <time>2022-01-17T21:37:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2624755" lon="17.3924263">
+      <ele>408</ele>
+      <time>2022-01-17T21:40:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2613687" lon="17.3893538">
+      <ele>416</ele>
+      <time>2022-01-17T21:45:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2603099" lon="17.3865227">
+      <ele>429</ele>
+      <time>2022-01-17T21:50:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2596776" lon="17.3850589">
+      <ele>438</ele>
+      <time>2022-01-17T21:52:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2593196" lon="17.3840672">
+      <ele>440</ele>
+      <time>2022-01-17T21:54:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

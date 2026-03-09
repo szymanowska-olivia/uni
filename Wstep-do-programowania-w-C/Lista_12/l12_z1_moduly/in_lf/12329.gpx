@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:48:37Z</time>
+    <bounds maxlat="51.0005233" maxlon="19.8750528" minlat="50.997181" minlon="19.8737546"/>
+  </metadata>
+  <wpt lat="51.000523" lon="19.875053">
+    <ele>210</ele>
+    <name>Mrowina, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8485">
+      <text>Mrowina, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.997181" lon="19.873755">
+    <ele>211</ele>
+    <name>Mrowina</name>
+    <link href="https://mapa-turystyczna.pl/node/8484">
+      <text>Mrowina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mrowina, rozejscie szlakow - Mrowina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0005233,19.8750528;50.998742902172474,19.87439329999999;50.997181,19.8737546">
+    <text>Mrowina, rozejscie szlakow - Mrowina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0005233" lon="19.8750528">
+      <ele>210</ele>
+      <time>2022-01-17T23:48:37Z</time>
+    </trkpt>
+    <trkpt lat="50.9991919" lon="19.8745328">
+      <ele>208</ele>
+      <time>2022-01-17T23:50:36Z</time>
+    </trkpt>
+    <trkpt lat="50.9982939" lon="19.8742538">
+      <ele>209</ele>
+      <time>2022-01-17T23:51:56Z</time>
+    </trkpt>
+    <trkpt lat="50.997181" lon="19.8737546">
+      <ele>211</ele>
+      <time>2022-01-17T23:53:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

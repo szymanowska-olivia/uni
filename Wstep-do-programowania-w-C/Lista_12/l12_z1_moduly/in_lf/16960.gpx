@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:45Z</time>
+    <bounds maxlat="49.681692" maxlon="18.945352" minlat="49.678919" minlon="18.940539"/>
+  </metadata>
+  <wpt lat="49.681692" lon="18.940539">
+    <ele>784</ele>
+    <name>Grabowa, odejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/11598">
+      <text>Grabowa, odejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.678919" lon="18.945352">
+    <ele>791</ele>
+    <name>Grabowa, Ogrod Bajek</name>
+    <link href="https://mapa-turystyczna.pl/node/11597">
+      <text>Grabowa, Ogrod Bajek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grabowa, odejscie szlaku spacerowego - Grabowa, Ogrod Bajek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.681692,18.940539;49.680256500114446,18.942684999999994;49.678919,18.945352">
+    <text>Grabowa, odejscie szlaku spacerowego - Grabowa, Ogrod Bajek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.681692" lon="18.940539">
+      <ele>784</ele>
+      <time>2022-01-18T01:05:45Z</time>
+    </trkpt>
+    <trkpt lat="49.681546" lon="18.940775">
+      <ele>784</ele>
+      <time>2022-01-18T01:06:15Z</time>
+    </trkpt>
+    <trkpt lat="49.681075" lon="18.941533">
+      <ele>779</ele>
+      <time>2022-01-18T01:07:52Z</time>
+    </trkpt>
+    <trkpt lat="49.680362" lon="18.942416">
+      <ele>777</ele>
+      <time>2022-01-18T01:10:03Z</time>
+    </trkpt>
+    <trkpt lat="49.680151" lon="18.942954">
+      <ele>771</ele>
+      <time>2022-01-18T01:11:01Z</time>
+    </trkpt>
+    <trkpt lat="49.679778" lon="18.943638">
+      <ele>774</ele>
+      <time>2022-01-18T01:12:24Z</time>
+    </trkpt>
+    <trkpt lat="49.679324" lon="18.944491">
+      <ele>781</ele>
+      <time>2022-01-18T01:14:06Z</time>
+    </trkpt>
+    <trkpt lat="49.678919" lon="18.945352">
+      <ele>791</ele>
+      <time>2022-01-18T01:15:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:23Z</time>
+    <bounds maxlat="50.4497672" maxlon="16.3572518" minlat="50.4495091" minlon="16.3570533"/>
+  </metadata>
+  <wpt lat="50.449767" lon="16.357197">
+    <ele>770</ele>
+    <name>Odejscie do Skalnej Czaszki</name>
+    <link href="https://mapa-turystyczna.pl/node/13097">
+      <text>Odejscie do Skalnej Czaszki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.449509" lon="16.357252">
+    <ele>766</ele>
+    <name>Skalna Czaszka</name>
+    <link href="https://mapa-turystyczna.pl/node/13098">
+      <text>Skalna Czaszka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do Skalnej Czaszki - Skalna Czaszka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4497672,16.3571968;50.44958425005969,16.357152550000034;50.4495091,16.3572518">
+    <text>Odejscie do Skalnej Czaszki - Skalna Czaszka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4497672" lon="16.3571968">
+      <ele>770</ele>
+      <time>2022-01-18T01:47:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4496594" lon="16.3570533">
+      <ele>766</ele>
+      <time>2022-01-18T01:47:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4495091" lon="16.3572518">
+      <ele>766</ele>
+      <time>2022-01-18T01:48:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

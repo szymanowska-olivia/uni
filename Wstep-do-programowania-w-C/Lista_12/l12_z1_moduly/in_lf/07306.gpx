@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:06Z</time>
+    <bounds maxlat="52.3252027" maxlon="20.7681321" minlat="52.307534" minlon="20.7652343"/>
+  </metadata>
+  <wpt lat="52.307534" lon="20.767336">
+    <ele>79</ele>
+    <name>Truskaw</name>
+    <link href="https://mapa-turystyczna.pl/node/4973">
+      <text>Truskaw</text>
+    </link>
+  </wpt>
+  <wpt lat="52.325203" lon="20.765234">
+    <ele>83</ele>
+    <name>Pociecha</name>
+    <link href="https://mapa-turystyczna.pl/node/4976">
+      <text>Pociecha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Truskaw - Pociecha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.307534,20.7673359;52.31689725411279,20.768093399999977;52.3252027,20.7652343">
+    <text>Truskaw - Pociecha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.307534" lon="20.7673359">
+      <ele>79</ele>
+      <time>2022-01-17T22:21:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3115468" lon="20.7677811">
+      <ele>79</ele>
+      <time>2022-01-17T22:27:48Z</time>
+    </trkpt>
+    <trkpt lat="52.3135704" lon="20.7679819">
+      <ele>82</ele>
+      <time>2022-01-17T22:31:11Z</time>
+    </trkpt>
+    <trkpt lat="52.3162939" lon="20.7681321">
+      <ele>82</ele>
+      <time>2022-01-17T22:35:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3175006" lon="20.7680547">
+      <ele>85</ele>
+      <time>2022-01-17T22:37:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3230405" lon="20.7671374">
+      <ele>83</ele>
+      <time>2022-01-17T22:47:00Z</time>
+    </trkpt>
+    <trkpt lat="52.3237503" lon="20.7665764">
+      <ele>82</ele>
+      <time>2022-01-17T22:48:19Z</time>
+    </trkpt>
+    <trkpt lat="52.3252027" lon="20.7652343">
+      <ele>83</ele>
+      <time>2022-01-17T22:51:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

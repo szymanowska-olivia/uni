@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:48Z</time>
+    <bounds maxlat="50.9056647" maxlon="20.7936459" minlat="50.9054841" minlon="20.7925701"/>
+  </metadata>
+  <wpt lat="50.905665" lon="20.79257">
+    <ele>278</ele>
+    <name>Pod Radostowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3119">
+      <text>Pod Radostowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.905484" lon="20.793646">
+    <ele>281</ele>
+    <name>Radostowa, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/5674">
+      <text>Radostowa, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Radostowa - Radostowa, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9056647,20.7925701;50.90557440008757,20.79310799999999;50.9054841,20.7936459">
+    <text>Pod Radostowa - Radostowa, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9056647" lon="20.7925701">
+      <ele>278</ele>
+      <time>2022-01-17T22:33:48Z</time>
+    </trkpt>
+    <trkpt lat="50.9054841" lon="20.7936459">
+      <ele>281</ele>
+      <time>2022-01-17T22:34:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

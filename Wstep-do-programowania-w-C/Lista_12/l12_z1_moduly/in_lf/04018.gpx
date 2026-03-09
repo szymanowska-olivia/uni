@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:36:53Z</time>
+    <bounds maxlat="50.6506146" maxlon="16.6911177" minlat="50.648923" minlon="16.6872776"/>
+  </metadata>
+  <wpt lat="50.648923" lon="16.687278">
+    <ele>367</ele>
+    <name>Owiesno</name>
+    <link href="https://mapa-turystyczna.pl/node/2815">
+      <text>Owiesno</text>
+    </link>
+  </wpt>
+  <wpt lat="50.65027" lon="16.690979">
+    <ele>381</ele>
+    <name>Owiesno, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/2816">
+      <text>Owiesno, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Owiesno - Owiesno, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.648923,16.6872776;50.6498827524516,16.68935249999997;50.65027,16.6909791">
+    <text>Owiesno - Owiesno, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.648923" lon="16.6872776">
+      <ele>367</ele>
+      <time>2022-01-17T21:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6492701" lon="16.6885374">
+      <ele>365</ele>
+      <time>2022-01-17T21:38:09Z</time>
+    </trkpt>
+    <trkpt lat="50.649345" lon="16.6886447">
+      <ele>365</ele>
+      <time>2022-01-17T21:38:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6494028" lon="16.6887466">
+      <ele>366</ele>
+      <time>2022-01-17T21:38:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6503627" lon="16.6899584">
+      <ele>374</ele>
+      <time>2022-01-17T21:40:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6505525" lon="16.690313">
+      <ele>376</ele>
+      <time>2022-01-17T21:40:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6505933" lon="16.6905061">
+      <ele>376</ele>
+      <time>2022-01-17T21:40:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6506049" lon="16.6906822">
+      <ele>377</ele>
+      <time>2022-01-17T21:40:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6506146" lon="16.6911048">
+      <ele>378</ele>
+      <time>2022-01-17T21:41:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6505354" lon="16.6911177">
+      <ele>378</ele>
+      <time>2022-01-17T21:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.65027" lon="16.6909791">
+      <ele>381</ele>
+      <time>2022-01-17T21:41:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

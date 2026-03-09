@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:21Z</time>
+    <bounds maxlat="49.7500933" maxlon="22.8713733" minlat="49.7441486" minlon="22.8661591"/>
+  </metadata>
+  <wpt lat="49.750093" lon="22.871373">
+    <ele>249</ele>
+    <name>Fort Jaksmanice, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3777">
+      <text>Fort Jaksmanice, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.744149" lon="22.866159">
+    <ele>270</ele>
+    <name>Fort Jaksmanice</name>
+    <link href="https://mapa-turystyczna.pl/node/3778">
+      <text>Fort Jaksmanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Fort Jaksmanice, skrzyzowanie - Fort Jaksmanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7500933,22.8713733;49.74669925270144,22.86940855000001;49.7441486,22.8661591">
+    <text>Fort Jaksmanice, skrzyzowanie - Fort Jaksmanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7500933" lon="22.8713733">
+      <ele>249</ele>
+      <time>2022-01-17T21:54:21Z</time>
+    </trkpt>
+    <trkpt lat="49.7499322" lon="22.8712808">
+      <ele>249</ele>
+      <time>2022-01-17T21:54:43Z</time>
+    </trkpt>
+    <trkpt lat="49.7495771" lon="22.8708234">
+      <ele>247</ele>
+      <time>2022-01-17T21:55:42Z</time>
+    </trkpt>
+    <trkpt lat="49.7491024" lon="22.870338">
+      <ele>247</ele>
+      <time>2022-01-17T21:56:55Z</time>
+    </trkpt>
+    <trkpt lat="49.7477788" lon="22.8699893">
+      <ele>249</ele>
+      <time>2022-01-17T21:59:47Z</time>
+    </trkpt>
+    <trkpt lat="49.7472112" lon="22.8697854">
+      <ele>250</ele>
+      <time>2022-01-17T22:01:01Z</time>
+    </trkpt>
+    <trkpt lat="49.7461873" lon="22.8690317">
+      <ele>258</ele>
+      <time>2022-01-17T22:03:27Z</time>
+    </trkpt>
+    <trkpt lat="49.7455725" lon="22.8683531">
+      <ele>263</ele>
+      <time>2022-01-17T22:05:04Z</time>
+    </trkpt>
+    <trkpt lat="49.7441486" lon="22.8661591">
+      <ele>270</ele>
+      <time>2022-01-17T22:09:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

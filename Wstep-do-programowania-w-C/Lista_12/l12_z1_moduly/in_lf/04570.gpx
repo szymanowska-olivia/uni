@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:03Z</time>
+    <bounds maxlat="51.0155366" maxlon="21.1806321" minlat="51.009093" minlon="21.1685622"/>
+  </metadata>
+  <wpt lat="51.011122" lon="21.168562">
+    <ele>229</ele>
+    <name>Komorniki</name>
+    <link href="https://mapa-turystyczna.pl/node/3182">
+      <text>Komorniki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.015537" lon="21.180632">
+    <ele>195</ele>
+    <name>Ruda</name>
+    <link href="https://mapa-turystyczna.pl/node/3183">
+      <text>Ruda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Komorniki - Ruda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0111221,21.1685622;51.01084468231962,21.17539644999998;51.0155366,21.1806321">
+    <text>Komorniki - Ruda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0111221" lon="21.1685622">
+      <ele>229</ele>
+      <time>2022-01-17T21:44:03Z</time>
+    </trkpt>
+    <trkpt lat="51.0101528" lon="21.170783">
+      <ele>226</ele>
+      <time>2022-01-17T21:46:59Z</time>
+    </trkpt>
+    <trkpt lat="51.0096263" lon="21.1718988">
+      <ele>226</ele>
+      <time>2022-01-17T21:48:30Z</time>
+    </trkpt>
+    <trkpt lat="51.0094642" lon="21.1722529">
+      <ele>225</ele>
+      <time>2022-01-17T21:48:58Z</time>
+    </trkpt>
+    <trkpt lat="51.0091267" lon="21.1731434">
+      <ele>227</ele>
+      <time>2022-01-17T21:50:06Z</time>
+    </trkpt>
+    <trkpt lat="51.009093" lon="21.1733794">
+      <ele>226</ele>
+      <time>2022-01-17T21:50:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0091132" lon="21.1735511">
+      <ele>225</ele>
+      <time>2022-01-17T21:50:33Z</time>
+    </trkpt>
+    <trkpt lat="51.0125761" lon="21.1772418">
+      <ele>200</ele>
+      <time>2022-01-17T21:57:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0155366" lon="21.1806321">
+      <ele>195</ele>
+      <time>2022-01-17T22:04:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

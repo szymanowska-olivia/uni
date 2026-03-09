@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:30Z</time>
+    <bounds maxlat="54.3790202" maxlon="18.5228527" minlat="54.3760457" minlon="18.5226434"/>
+  </metadata>
+  <wpt lat="54.37902" lon="18.522821">
+    <ele>151</ele>
+    <name>Trawiasta Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/10833">
+      <text>Trawiasta Droga</text>
+    </link>
+  </wpt>
+  <wpt lat="54.376046" lon="18.522657">
+    <ele>145</ele>
+    <name>Zlota Karczma</name>
+    <link href="https://mapa-turystyczna.pl/node/10783">
+      <text>Zlota Karczma</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trawiasta Droga - Zlota Karczma</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3790202,18.5228205;54.37732835272886,18.522667549999994;54.3760457,18.5226569">
+    <text>Trawiasta Droga - Zlota Karczma</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3790202" lon="18.5228205">
+      <ele>151</ele>
+      <time>2022-01-18T00:46:30Z</time>
+    </trkpt>
+    <trkpt lat="54.3789296" lon="18.5227293">
+      <ele>150</ele>
+      <time>2022-01-18T00:46:40Z</time>
+    </trkpt>
+    <trkpt lat="54.378689" lon="18.5227293">
+      <ele>148</ele>
+      <time>2022-01-18T00:47:03Z</time>
+    </trkpt>
+    <trkpt lat="54.3778017" lon="18.5226917">
+      <ele>150</ele>
+      <time>2022-01-18T00:48:28Z</time>
+    </trkpt>
+    <trkpt lat="54.376855" lon="18.5226434">
+      <ele>149</ele>
+      <time>2022-01-18T00:49:59Z</time>
+    </trkpt>
+    <trkpt lat="54.3766113" lon="18.5226434">
+      <ele>147</ele>
+      <time>2022-01-18T00:50:22Z</time>
+    </trkpt>
+    <trkpt lat="54.376605" lon="18.5228527">
+      <ele>147</ele>
+      <time>2022-01-18T00:50:34Z</time>
+    </trkpt>
+    <trkpt lat="54.3764675" lon="18.5228473">
+      <ele>146</ele>
+      <time>2022-01-18T00:50:47Z</time>
+    </trkpt>
+    <trkpt lat="54.3761738" lon="18.5226488">
+      <ele>145</ele>
+      <time>2022-01-18T00:51:18Z</time>
+    </trkpt>
+    <trkpt lat="54.3760457" lon="18.5226569">
+      <ele>145</ele>
+      <time>2022-01-18T00:51:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

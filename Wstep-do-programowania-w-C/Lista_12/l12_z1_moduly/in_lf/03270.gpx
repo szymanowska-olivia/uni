@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:30Z</time>
+    <bounds maxlat="50.6727371" maxlon="16.3754679" minlat="50.6723571" minlon="16.3714582"/>
+  </metadata>
+  <wpt lat="50.672357" lon="16.375468">
+    <ele>483</ele>
+    <name>Gluszyca Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/2323">
+      <text>Gluszyca Gorna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.672737" lon="16.371458">
+    <ele>494</ele>
+    <name>Gluszyca Gorna, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2024">
+      <text>Gluszyca Gorna, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gluszyca Gorna - Gluszyca Gorna, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6723571,16.3754679;50.672654750034546,16.373570450000024;50.6727371,16.3714582">
+    <text>Gluszyca Gorna - Gluszyca Gorna, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6723571" lon="16.3754679">
+      <ele>483</ele>
+      <time>2022-01-17T21:27:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6724945" lon="16.3749087">
+      <ele>487</ele>
+      <time>2022-01-17T21:28:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6725978" lon="16.3742745">
+      <ele>488</ele>
+      <time>2022-01-17T21:29:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6727117" lon="16.3728664">
+      <ele>491</ele>
+      <time>2022-01-17T21:30:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6727371" lon="16.3714582">
+      <ele>494</ele>
+      <time>2022-01-17T21:32:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

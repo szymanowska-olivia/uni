@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:07Z</time>
+    <bounds maxlat="52.0752385" maxlon="23.1257151" minlat="52.0742265" minlon="23.1187979"/>
+  </metadata>
+  <wpt lat="52.075238" lon="23.118798">
+    <ele>147</ele>
+    <name>Cicibor Duzy</name>
+    <link href="https://mapa-turystyczna.pl/node/12753">
+      <text>Cicibor Duzy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.074227" lon="23.125715">
+    <ele>139</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12832">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cicibor Duzy - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0752385,23.1187979;52.07473250286753,23.1222565;52.0742265,23.1257151">
+    <text>Cicibor Duzy - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0752385" lon="23.1187979">
+      <ele>147</ele>
+      <time>2022-01-18T01:40:07Z</time>
+    </trkpt>
+    <trkpt lat="52.0742265" lon="23.1257151">
+      <ele>139</ele>
+      <time>2022-01-18T01:45:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:55:20Z</time>
+    <bounds maxlat="48.935765" maxlon="19.4668293" minlat="48.9311908" minlon="19.4656545"/>
+  </metadata>
+  <wpt lat="48.935765" lon="19.466829">
+    <ele>1730</ele>
+    <name>Nad sedlom Durkovej</name>
+    <link href="https://mapa-turystyczna.pl/node/6667">
+      <text>Nad sedlom Durkovej</text>
+    </link>
+  </wpt>
+  <wpt lat="48.931191" lon="19.466754">
+    <ele>1630</ele>
+    <name>Utulna pod Chabencom</name>
+    <link href="https://mapa-turystyczna.pl/node/6665">
+      <text>Utulna pod Chabencom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad sedlom Durkovej - Utulna pod Chabencom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.935765,19.4668293;48.93333080229217,19.46568535000001;48.9311908,19.4667542">
+    <text>Nad sedlom Durkovej - Utulna pod Chabencom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.935765" lon="19.4668293">
+      <ele>1730</ele>
+      <time>2022-01-17T22:55:20Z</time>
+    </trkpt>
+    <trkpt lat="48.9347448" lon="19.4663224">
+      <ele>1706</ele>
+      <time>2022-01-17T22:57:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9338092" lon="19.4656545">
+      <ele>1687</ele>
+      <time>2022-01-17T22:59:35Z</time>
+    </trkpt>
+    <trkpt lat="48.9328524" lon="19.4657162">
+      <ele>1670</ele>
+      <time>2022-01-17T23:01:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9314965" lon="19.4662352">
+      <ele>1636</ele>
+      <time>2022-01-17T23:04:22Z</time>
+    </trkpt>
+    <trkpt lat="48.9314492" lon="19.4663059">
+      <ele>1635</ele>
+      <time>2022-01-17T23:04:30Z</time>
+    </trkpt>
+    <trkpt lat="48.931325" lon="19.4664003">
+      <ele>1632</ele>
+      <time>2022-01-17T23:04:46Z</time>
+    </trkpt>
+    <trkpt lat="48.9312714" lon="19.466484">
+      <ele>1631</ele>
+      <time>2022-01-17T23:04:56Z</time>
+    </trkpt>
+    <trkpt lat="48.9311994" lon="19.4666191">
+      <ele>1630</ele>
+      <time>2022-01-17T23:05:09Z</time>
+    </trkpt>
+    <trkpt lat="48.9311908" lon="19.4667542">
+      <ele>1630</ele>
+      <time>2022-01-17T23:05:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

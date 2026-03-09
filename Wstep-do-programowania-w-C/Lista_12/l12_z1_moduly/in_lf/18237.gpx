@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:37Z</time>
+    <bounds maxlat="51.7445157" maxlon="21.6103558" minlat="51.7282297" minlon="21.5928907"/>
+  </metadata>
+  <wpt lat="51.744516" lon="21.592891">
+    <ele>141</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12385">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="51.72823" lon="21.610356">
+    <ele>133</ele>
+    <name>Nowa Krepa</name>
+    <link href="https://mapa-turystyczna.pl/node/11900">
+      <text>Nowa Krepa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zolty - Nowa Krepa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7445157,21.5928907;51.73669199690963,21.604933599999992;51.7282297,21.6103558">
+    <text>Rozejscie szlakow czerwony / zolty - Nowa Krepa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7445157" lon="21.5928907">
+      <ele>141</ele>
+      <time>2022-01-18T01:27:37Z</time>
+    </trkpt>
+    <trkpt lat="51.7445113" lon="21.5928955">
+      <ele>141</ele>
+      <time>2022-01-18T01:27:38Z</time>
+    </trkpt>
+    <trkpt lat="51.7440458" lon="21.5942615">
+      <ele>141</ele>
+      <time>2022-01-18T01:29:12Z</time>
+    </trkpt>
+    <trkpt lat="51.7424182" lon="21.5988749">
+      <ele>139</ele>
+      <time>2022-01-18T01:34:35Z</time>
+    </trkpt>
+    <trkpt lat="51.7406511" lon="21.6039174">
+      <ele>141</ele>
+      <time>2022-01-18T01:40:27Z</time>
+    </trkpt>
+    <trkpt lat="51.7403455" lon="21.6043144">
+      <ele>141</ele>
+      <time>2022-01-18T01:41:05Z</time>
+    </trkpt>
+    <trkpt lat="51.7399004" lon="21.604647">
+      <ele>141</ele>
+      <time>2022-01-18T01:41:53Z</time>
+    </trkpt>
+    <trkpt lat="51.7396346" lon="21.6046899">
+      <ele>140</ele>
+      <time>2022-01-18T01:42:19Z</time>
+    </trkpt>
+    <trkpt lat="51.738751" lon="21.6036385">
+      <ele>137</ele>
+      <time>2022-01-18T01:44:07Z</time>
+    </trkpt>
+    <trkpt lat="51.7346329" lon="21.6062287">
+      <ele>138</ele>
+      <time>2022-01-18T01:51:21Z</time>
+    </trkpt>
+    <trkpt lat="51.7282297" lon="21.6103558">
+      <ele>133</ele>
+      <time>2022-01-18T02:02:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:53Z</time>
+    <bounds maxlat="51.7835481" maxlon="21.1915361" minlat="51.7829676" minlon="21.1891078"/>
+  </metadata>
+  <wpt lat="51.783231" lon="21.191536">
+    <ele>108</ele>
+    <name>Warka, ul. Farna</name>
+    <link href="https://mapa-turystyczna.pl/node/12005">
+      <text>Warka, ul. Farna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.783548" lon="21.189108">
+    <ele>118</ele>
+    <name>Warka, ul. Przechodnia</name>
+    <link href="https://mapa-turystyczna.pl/node/12006">
+      <text>Warka, ul. Przechodnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Farna - Warka, ul. Przechodnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7832307,21.1915361;51.78313355030523,21.190261849999974;51.7835481,21.1891078">
+    <text>Warka, ul. Farna - Warka, ul. Przechodnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7832307" lon="21.1915361">
+      <ele>108</ele>
+      <time>2022-01-18T01:17:53Z</time>
+    </trkpt>
+    <trkpt lat="51.7832995" lon="21.1910209">
+      <ele>111</ele>
+      <time>2022-01-18T01:18:43Z</time>
+    </trkpt>
+    <trkpt lat="51.7829676" lon="21.1895028">
+      <ele>116</ele>
+      <time>2022-01-18T01:21:16Z</time>
+    </trkpt>
+    <trkpt lat="51.7835481" lon="21.1891078">
+      <ele>118</ele>
+      <time>2022-01-18T01:22:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

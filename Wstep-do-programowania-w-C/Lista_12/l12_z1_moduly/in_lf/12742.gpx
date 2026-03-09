@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:26Z</time>
+    <bounds maxlat="50.8268762" maxlon="15.1349716" minlat="50.8254225" minlon="15.1330351"/>
+  </metadata>
+  <wpt lat="50.826876" lon="15.134972">
+    <ele>792</ele>
+    <name>Zavory</name>
+    <link href="https://mapa-turystyczna.pl/node/8758">
+      <text>Zavory</text>
+    </link>
+  </wpt>
+  <wpt lat="50.825423" lon="15.133035">
+    <ele>797</ele>
+    <name>U Zavor</name>
+    <link href="https://mapa-turystyczna.pl/node/8757">
+      <text>U Zavor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zavory - U Zavor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8268762,15.1349716;50.82604760418489,15.133890700000014;50.8254225,15.1330351">
+    <text>Zavory - U Zavor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8268762" lon="15.1349716">
+      <ele>792</ele>
+      <time>2022-01-17T23:55:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8266727" lon="15.1347463">
+      <ele>792</ele>
+      <time>2022-01-17T23:56:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8254225" lon="15.1330351">
+      <ele>797</ele>
+      <time>2022-01-18T00:00:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:15:17Z</time>
+    <bounds maxlat="50.189942" maxlon="18.6229358" minlat="50.1869636" minlon="18.6028123"/>
+  </metadata>
+  <wpt lat="50.189942" lon="18.622936">
+    <ele>238</ele>
+    <name>Szczyglowice, Aleja Piastow</name>
+    <link href="https://mapa-turystyczna.pl/node/9532">
+      <text>Szczyglowice, Aleja Piastow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.188476" lon="18.602812">
+    <ele>245</ele>
+    <name>Wilcza</name>
+    <link href="https://mapa-turystyczna.pl/node/9584">
+      <text>Wilcza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczyglowice, Aleja Piastow - Wilcza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.189942,18.6229358;50.187255550892345,18.61012855000002;50.1884764,18.6028123">
+    <text>Szczyglowice, Aleja Piastow - Wilcza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.189942" lon="18.6229358">
+      <ele>238</ele>
+      <time>2022-01-18T00:15:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1898278" lon="18.6223846">
+      <ele>237</ele>
+      <time>2022-01-18T00:15:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1897273" lon="18.6216832">
+      <ele>235</ele>
+      <time>2022-01-18T00:16:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1895281" lon="18.6193765">
+      <ele>233</ele>
+      <time>2022-01-18T00:19:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1894182" lon="18.6183519">
+      <ele>228</ele>
+      <time>2022-01-18T00:20:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1892923" lon="18.6175127">
+      <ele>229</ele>
+      <time>2022-01-18T00:21:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1891446" lon="18.6170889">
+      <ele>230</ele>
+      <time>2022-01-18T00:22:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1877433" lon="18.6140956">
+      <ele>232</ele>
+      <time>2022-01-18T00:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1875475" lon="18.6136449">
+      <ele>233</ele>
+      <time>2022-01-18T00:27:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1869636" lon="18.6066122">
+      <ele>240</ele>
+      <time>2022-01-18T00:35:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1871319" lon="18.6064674">
+      <ele>241</ele>
+      <time>2022-01-18T00:35:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1875475" lon="18.6055876">
+      <ele>242</ele>
+      <time>2022-01-18T00:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1884764" lon="18.6028123">
+      <ele>245</ele>
+      <time>2022-01-18T00:40:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:48Z</time>
+    <bounds maxlat="48.9259077" maxlon="19.1045621" minlat="48.9246705" minlon="19.1021937"/>
+  </metadata>
+  <wpt lat="48.925908" lon="19.104562">
+    <ele>1321</ele>
+    <name>Chyzky, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5615">
+      <text>Chyzky, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.92467" lon="19.102194">
+    <ele>1310</ele>
+    <name>Chyzky</name>
+    <link href="https://mapa-turystyczna.pl/node/5571">
+      <text>Chyzky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chyzky, razc. - Chyzky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9259077,19.1045621;48.92499740106995,19.102779099999996;48.9246705,19.1021937">
+    <text>Chyzky, razc. - Chyzky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9259077" lon="19.1045621">
+      <ele>1321</ele>
+      <time>2022-01-17T22:29:48Z</time>
+    </trkpt>
+    <trkpt lat="48.9253243" lon="19.1033645">
+      <ele>1319</ele>
+      <time>2022-01-17T22:31:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9246705" lon="19.1021937">
+      <ele>1310</ele>
+      <time>2022-01-17T22:32:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

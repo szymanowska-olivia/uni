@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:59Z</time>
+    <bounds maxlat="49.9786996" maxlon="18.9513502" minlat="49.9780569" minlon="18.9491504"/>
+  </metadata>
+  <wpt lat="49.9787" lon="18.94915">
+    <ele>248</ele>
+    <name>Pszczyna, Stary Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/9307">
+      <text>Pszczyna, Stary Mlyn</text>
+    </link>
+  </wpt>
+  <wpt lat="49.978057" lon="18.95135">
+    <ele>252</ele>
+    <name>Pszczyna, Park Dworcowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9288">
+      <text>Pszczyna, Park Dworcowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pszczyna, Stary Mlyn - Pszczyna, Park Dworcowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9786996,18.9491504;49.9784877004666,18.949914500000006;49.9780569,18.9513502">
+    <text>Pszczyna, Stary Mlyn - Pszczyna, Park Dworcowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9786996" lon="18.9491504">
+      <ele>248</ele>
+      <time>2022-01-18T00:07:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9782758" lon="18.9506786">
+      <ele>253</ele>
+      <time>2022-01-18T00:10:03Z</time>
+    </trkpt>
+    <trkpt lat="49.9780569" lon="18.9513502">
+      <ele>252</ele>
+      <time>2022-01-18T00:10:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

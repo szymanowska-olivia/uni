@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:39Z</time>
+    <bounds maxlat="50.6408576" maxlon="15.9353042" minlat="50.6400105" minlon="15.934875"/>
+  </metadata>
+  <wpt lat="50.640011" lon="15.934875">
+    <ele>452</ele>
+    <name>Krenov, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2434">
+      <text>Krenov, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.640858" lon="15.935304">
+    <ele>453</ele>
+    <name>Krenov</name>
+    <link href="https://mapa-turystyczna.pl/node/2433">
+      <text>Krenov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krenov, skrzyzowanie - Krenov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6400105,15.934875;50.64043405190862,15.935089599999976;50.6408576,15.9353042">
+    <text>Krenov, skrzyzowanie - Krenov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6400105" lon="15.934875">
+      <ele>452</ele>
+      <time>2022-01-17T21:29:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6408576" lon="15.9353042">
+      <ele>453</ele>
+      <time>2022-01-17T21:31:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

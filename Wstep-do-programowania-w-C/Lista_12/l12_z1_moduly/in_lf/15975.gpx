@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:06Z</time>
+    <bounds maxlat="50.2997951" maxlon="16.3735127" minlat="50.2992458" minlon="16.3726404"/>
+  </metadata>
+  <wpt lat="50.299246" lon="16.37264">
+    <ele>690</ele>
+    <name>Destne, Zakouti, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/10943">
+      <text>Destne, Zakouti, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.299795" lon="16.373513">
+    <ele>689</ele>
+    <name>Destne, Zakouti</name>
+    <link href="https://mapa-turystyczna.pl/node/1885">
+      <text>Destne, Zakouti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Destne, Zakouti, parking - Destne, Zakouti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2992458,16.3726404;50.299520450792905,16.373076550000008;50.2997951,16.3735127">
+    <text>Destne, Zakouti, parking - Destne, Zakouti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2992458" lon="16.3726404">
+      <ele>690</ele>
+      <time>2022-01-18T00:49:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2997951" lon="16.3735127">
+      <ele>689</ele>
+      <time>2022-01-18T00:50:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

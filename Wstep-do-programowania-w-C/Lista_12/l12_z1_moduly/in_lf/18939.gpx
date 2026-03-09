@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:54Z</time>
+    <bounds maxlat="52.4825118" maxlon="17.0187596" minlat="52.4817372" minlon="17.0143776"/>
+  </metadata>
+  <wpt lat="52.481887" lon="17.014378">
+    <ele>134</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12824">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.482512" lon="17.01876">
+    <ele>112</ele>
+    <name>Pod Dziewicza Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12702">
+      <text>Pod Dziewicza Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Dziewicza Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4818869,17.0143776;52.482137601591454,17.017710650000016;52.4825118,17.0187596">
+    <text>Rozejscie szlakow - Pod Dziewicza Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4818869" lon="17.0143776">
+      <ele>134</ele>
+      <time>2022-01-18T01:39:54Z</time>
+    </trkpt>
+    <trkpt lat="52.4817405" lon="17.0152938">
+      <ele>130</ele>
+      <time>2022-01-18T01:40:54Z</time>
+    </trkpt>
+    <trkpt lat="52.4817372" lon="17.0163667">
+      <ele>121</ele>
+      <time>2022-01-18T01:42:02Z</time>
+    </trkpt>
+    <trkpt lat="52.4817634" lon="17.0166617">
+      <ele>119</ele>
+      <time>2022-01-18T01:42:21Z</time>
+    </trkpt>
+    <trkpt lat="52.4825118" lon="17.0187596">
+      <ele>112</ele>
+      <time>2022-01-18T01:44:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

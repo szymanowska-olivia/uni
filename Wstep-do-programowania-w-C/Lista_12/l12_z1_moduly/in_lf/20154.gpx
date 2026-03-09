@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:29Z</time>
+    <bounds maxlat="50.6634585" maxlon="16.6411328" minlat="50.6633032" minlon="16.6410166"/>
+  </metadata>
+  <wpt lat="50.663303" lon="16.641017">
+    <ele>446</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13565">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.663458" lon="16.641133">
+    <ele>447</ele>
+    <name>Przelecz pod Wrona</name>
+    <link href="https://mapa-turystyczna.pl/node/9376">
+      <text>Przelecz pod Wrona</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Przelecz pod Wrona</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6633032,16.6410166;50.663380850064215,16.64107470000001;50.6634585,16.6411328">
+    <text>Rozejscie szlakow - Przelecz pod Wrona</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6633032" lon="16.6410166">
+      <ele>446</ele>
+      <time>2022-01-18T02:01:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6634585" lon="16.6411328">
+      <ele>447</ele>
+      <time>2022-01-18T02:02:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:13Z</time>
+    <bounds maxlat="50.911401" maxlon="15.3435102" minlat="50.9103487" minlon="15.3430949"/>
+  </metadata>
+  <wpt lat="50.911401" lon="15.343095">
+    <ele>468</ele>
+    <name>Swieradow Zdroj, Miejskie Biuro Informacji Turystycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/10609">
+      <text>Swieradow Zdroj, Miejskie Biuro Informacji Turystycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.910349" lon="15.34351">
+    <ele>469</ele>
+    <name>Swieradow-Zdroj, ul. Stawowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8084">
+      <text>Swieradow-Zdroj, ul. Stawowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swieradow Zdroj, Miejskie Biuro Informacji Turystycznej - Swieradow-Zdroj, ul. Stawowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.911401,15.3430949;50.91094075031579,15.343193000000017;50.9103487,15.3435102">
+    <text>Swieradow Zdroj, Miejskie Biuro Informacji Turystycznej - Swieradow-Zdroj, ul. Stawowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.911401" lon="15.3430949">
+      <ele>468</ele>
+      <time>2022-01-18T00:41:13Z</time>
+    </trkpt>
+    <trkpt lat="50.9111122" lon="15.3431281">
+      <ele>468</ele>
+      <time>2022-01-18T00:41:45Z</time>
+    </trkpt>
+    <trkpt lat="50.9107693" lon="15.3432579">
+      <ele>468</ele>
+      <time>2022-01-18T00:42:24Z</time>
+    </trkpt>
+    <trkpt lat="50.9103487" lon="15.3435102">
+      <ele>469</ele>
+      <time>2022-01-18T00:43:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

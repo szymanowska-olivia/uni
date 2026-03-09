@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:47Z</time>
+    <bounds maxlat="50.6739262" maxlon="15.7374832" minlat="50.6700809" minlon="15.7371077"/>
+  </metadata>
+  <wpt lat="50.673926" lon="15.7374">
+    <ele>1141</ele>
+    <name>Pod Slatinnou strani</name>
+    <link href="https://mapa-turystyczna.pl/node/1292">
+      <text>Pod Slatinnou strani</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670081" lon="15.737175">
+    <ele>1126</ele>
+    <name>Kolinska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1176">
+      <text>Kolinska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Slatinnou strani - Kolinska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6739262,15.7374001;50.67219015215737,15.737369199999991;50.6700809,15.7371747">
+    <text>Pod Slatinnou strani - Kolinska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6739262" lon="15.7374001">
+      <ele>1141</ele>
+      <time>2022-01-17T21:05:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6736649" lon="15.7374363">
+      <ele>1144</ele>
+      <time>2022-01-17T21:06:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6734715" lon="15.737451">
+      <ele>1145</ele>
+      <time>2022-01-17T21:06:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6733227" lon="15.7373625">
+      <ele>1147</ele>
+      <time>2022-01-17T21:06:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6726402" lon="15.7374832">
+      <ele>1148</ele>
+      <time>2022-01-17T21:07:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6717401" lon="15.7372552">
+      <ele>1145</ele>
+      <time>2022-01-17T21:08:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6713541" lon="15.7373471">
+      <ele>1144</ele>
+      <time>2022-01-17T21:09:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6708797" lon="15.7373853">
+      <ele>1140</ele>
+      <time>2022-01-17T21:09:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6704034" lon="15.7371077">
+      <ele>1131</ele>
+      <time>2022-01-17T21:10:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6700809" lon="15.7371747">
+      <ele>1126</ele>
+      <time>2022-01-17T21:10:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

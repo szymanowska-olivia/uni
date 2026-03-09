@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:01Z</time>
+    <bounds maxlat="50.5918776" maxlon="16.1463511" minlat="50.5916799" minlon="16.146232"/>
+  </metadata>
+  <wpt lat="50.59168" lon="16.146351">
+    <ele>636</ele>
+    <name>Lokomotiva, vyhl., odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/6016">
+      <text>Lokomotiva, vyhl., odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.591878" lon="16.146232">
+    <ele>625</ele>
+    <name>Lokomotiva</name>
+    <link href="https://mapa-turystyczna.pl/node/13145">
+      <text>Lokomotiva</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lokomotiva, vyhl., odb. - Lokomotiva</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5916799,16.1463511;50.59183670001776,16.146277849999986;50.5918776,16.146232">
+    <text>Lokomotiva, vyhl., odb. - Lokomotiva</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5916799" lon="16.1463511">
+      <ele>636</ele>
+      <time>2022-01-18T01:49:01Z</time>
+    </trkpt>
+    <trkpt lat="50.5917958" lon="16.1463237">
+      <ele>629</ele>
+      <time>2022-01-18T01:49:34Z</time>
+    </trkpt>
+    <trkpt lat="50.5918776" lon="16.146232">
+      <ele>625</ele>
+      <time>2022-01-18T01:50:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

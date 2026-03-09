@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:23Z</time>
+    <bounds maxlat="51.9401328" maxlon="20.3061995" minlat="51.9371354" minlon="20.3052267"/>
+  </metadata>
+  <wpt lat="51.937135" lon="20.306151">
+    <ele>127</ele>
+    <name>Wyczesniak</name>
+    <link href="https://mapa-turystyczna.pl/node/11986">
+      <text>Wyczesniak</text>
+    </link>
+  </wpt>
+  <wpt lat="51.940133" lon="20.3062">
+    <ele>127</ele>
+    <name>Wyczesniak, Zeran</name>
+    <link href="https://mapa-turystyczna.pl/node/11987">
+      <text>Wyczesniak, Zeran</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wyczesniak - Wyczesniak, Zeran</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9371354,20.306151;51.9383791502693,20.305929500000016;51.9401328,20.3061995">
+    <text>Wyczesniak - Wyczesniak, Zeran</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9371354" lon="20.306151">
+      <ele>127</ele>
+      <time>2022-01-18T01:17:23Z</time>
+    </trkpt>
+    <trkpt lat="51.9376086" lon="20.3055379">
+      <ele>124</ele>
+      <time>2022-01-18T01:18:17Z</time>
+    </trkpt>
+    <trkpt lat="51.9379062" lon="20.3052267">
+      <ele>123</ele>
+      <time>2022-01-18T01:18:48Z</time>
+    </trkpt>
+    <trkpt lat="51.9382237" lon="20.3058061">
+      <ele>123</ele>
+      <time>2022-01-18T01:19:30Z</time>
+    </trkpt>
+    <trkpt lat="51.9385346" lon="20.3060529">
+      <ele>123</ele>
+      <time>2022-01-18T01:20:01Z</time>
+    </trkpt>
+    <trkpt lat="51.9401328" lon="20.3061995">
+      <ele>127</ele>
+      <time>2022-01-18T01:22:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

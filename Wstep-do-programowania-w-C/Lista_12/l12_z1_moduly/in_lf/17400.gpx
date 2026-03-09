@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:41Z</time>
+    <bounds maxlat="51.1006985" maxlon="15.5971291" minlat="51.0998431" minlon="15.5954975"/>
+  </metadata>
+  <wpt lat="51.099843" lon="15.597129">
+    <ele>273</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11826">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="51.100699" lon="15.595498">
+    <ele>269</ele>
+    <name>Odejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/11825">
+      <text>Odejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Odejscie szlaku spacerowego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0998431,15.5971291;51.10032815021762,15.59639520000002;51.1006985,15.5954975">
+    <text>Odejscie sciezki dydaktycznej - Odejscie szlaku spacerowego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0998431" lon="15.5971291">
+      <ele>273</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="51.1000852" lon="15.597043">
+      <ele>275</ele>
+      <time>2022-01-18T01:13:12Z</time>
+    </trkpt>
+    <trkpt lat="51.1001863" lon="15.5969036">
+      <ele>276</ele>
+      <time>2022-01-18T01:13:29Z</time>
+    </trkpt>
+    <trkpt lat="51.10047" lon="15.5958868">
+      <ele>273</ele>
+      <time>2022-01-18T01:14:57Z</time>
+    </trkpt>
+    <trkpt lat="51.1005973" lon="15.5955625">
+      <ele>270</ele>
+      <time>2022-01-18T01:15:27Z</time>
+    </trkpt>
+    <trkpt lat="51.1006985" lon="15.5954975">
+      <ele>269</ele>
+      <time>2022-01-18T01:15:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

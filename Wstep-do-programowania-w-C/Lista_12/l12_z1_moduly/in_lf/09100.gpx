@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:59Z</time>
+    <bounds maxlat="50.2246926" maxlon="17.3770505" minlat="50.2229491" minlon="17.3691273"/>
+  </metadata>
+  <wpt lat="50.224693" lon="17.369127">
+    <ele>943</ele>
+    <name>Olovena stola, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6332">
+      <text>Olovena stola, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.222949" lon="17.37705">
+    <ele>956</ele>
+    <name>Hreben</name>
+    <link href="https://mapa-turystyczna.pl/node/6333">
+      <text>Hreben</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olovena stola, rozc. - Hreben</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2246926,17.3691273;50.22373505133567,17.37346174999998;50.2229491,17.3770505">
+    <text>Olovena stola, rozc. - Hreben</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2246926" lon="17.3691273">
+      <ele>943</ele>
+      <time>2022-01-17T22:50:59Z</time>
+    </trkpt>
+    <trkpt lat="50.224092" lon="17.3717666">
+      <ele>952</ele>
+      <time>2022-01-17T22:54:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2233781" lon="17.3751569">
+      <ele>957</ele>
+      <time>2022-01-17T22:58:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2229491" lon="17.3770505">
+      <ele>956</ele>
+      <time>2022-01-17T23:00:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

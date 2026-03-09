@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:51Z</time>
+    <bounds maxlat="54.31412" maxlon="18.5067004" minlat="54.3119608" minlon="18.504265"/>
+  </metadata>
+  <wpt lat="54.311961" lon="18.5067">
+    <ele>126</ele>
+    <name>Jezioro Otominskie, dojscie do grodziska</name>
+    <link href="https://mapa-turystyczna.pl/node/10799">
+      <text>Jezioro Otominskie, dojscie do grodziska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.31412" lon="18.504265">
+    <ele>117</ele>
+    <name>Jezioro Otominskie, grodzisko</name>
+    <link href="https://mapa-turystyczna.pl/node/10800">
+      <text>Jezioro Otominskie, grodzisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Otominskie, dojscie do grodziska - Jezioro Otominskie, grodzisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3119608,18.5067004;54.31328290075213,18.505434400000016;54.31412,18.504265">
+    <text>Jezioro Otominskie, dojscie do grodziska - Jezioro Otominskie, grodzisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3119608" lon="18.5067004">
+      <ele>126</ele>
+      <time>2022-01-18T00:45:51Z</time>
+    </trkpt>
+    <trkpt lat="54.3121986" lon="18.5061854">
+      <ele>124</ele>
+      <time>2022-01-18T00:46:34Z</time>
+    </trkpt>
+    <trkpt lat="54.3125616" lon="18.5058957">
+      <ele>125</ele>
+      <time>2022-01-18T00:47:20Z</time>
+    </trkpt>
+    <trkpt lat="54.3130341" lon="18.5057294">
+      <ele>125</ele>
+      <time>2022-01-18T00:48:14Z</time>
+    </trkpt>
+    <trkpt lat="54.3135317" lon="18.5051394">
+      <ele>124</ele>
+      <time>2022-01-18T00:49:23Z</time>
+    </trkpt>
+    <trkpt lat="54.31412" lon="18.504265">
+      <ele>117</ele>
+      <time>2022-01-18T00:50:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

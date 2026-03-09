@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:34Z</time>
+    <bounds maxlat="52.9898758" maxlon="16.924811" minlat="52.9875087" minlon="16.9240209"/>
+  </metadata>
+  <wpt lat="52.987509" lon="16.924811">
+    <ele>57</ele>
+    <name>Promenada Chodzieska</name>
+    <link href="https://mapa-turystyczna.pl/node/10625">
+      <text>Promenada Chodzieska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.989876" lon="16.92414">
+    <ele>54</ele>
+    <name>Chodziez, przystan</name>
+    <link href="https://mapa-turystyczna.pl/node/10623">
+      <text>Chodziez, przystan</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Promenada Chodzieska - Chodziez, przystan</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9875087,16.924811;52.98873595034546,16.924071900000033;52.9898758,16.9241404">
+    <text>Promenada Chodzieska - Chodziez, przystan</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9875087" lon="16.924811">
+      <ele>57</ele>
+      <time>2022-01-18T00:41:34Z</time>
+    </trkpt>
+    <trkpt lat="52.9879504" lon="16.9245206">
+      <ele>53</ele>
+      <time>2022-01-18T00:42:32Z</time>
+    </trkpt>
+    <trkpt lat="52.9883403" lon="16.9242409">
+      <ele>54</ele>
+      <time>2022-01-18T00:43:24Z</time>
+    </trkpt>
+    <trkpt lat="52.9885632" lon="16.9241229">
+      <ele>55</ele>
+      <time>2022-01-18T00:43:53Z</time>
+    </trkpt>
+    <trkpt lat="52.9889087" lon="16.9240209">
+      <ele>55</ele>
+      <time>2022-01-18T00:44:36Z</time>
+    </trkpt>
+    <trkpt lat="52.9892348" lon="16.9240531">
+      <ele>54</ele>
+      <time>2022-01-18T00:45:15Z</time>
+    </trkpt>
+    <trkpt lat="52.9898758" lon="16.9241404">
+      <ele>54</ele>
+      <time>2022-01-18T00:46:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

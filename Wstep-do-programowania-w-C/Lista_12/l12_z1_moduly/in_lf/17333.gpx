@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:41Z</time>
+    <bounds maxlat="51.0378873" maxlon="15.8759368" minlat="51.0362147" minlon="15.8733947"/>
+  </metadata>
+  <wpt lat="51.036215" lon="15.873395">
+    <ele>348</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11789">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.037887" lon="15.875937">
+    <ele>350</ele>
+    <name>Odejscie do grodziska</name>
+    <link href="https://mapa-turystyczna.pl/node/11790">
+      <text>Odejscie do grodziska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Odejscie do grodziska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0362147,15.8733947;51.03708905007679,15.874459950000004;51.0378873,15.8759368">
+    <text>Odejscie na punkt widokowy - Odejscie do grodziska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0362147" lon="15.8733947">
+      <ele>348</ele>
+      <time>2022-01-18T01:11:41Z</time>
+    </trkpt>
+    <trkpt lat="51.036287" lon="15.8734202">
+      <ele>349</ele>
+      <time>2022-01-18T01:11:50Z</time>
+    </trkpt>
+    <trkpt lat="51.0365367" lon="15.8736134">
+      <ele>352</ele>
+      <time>2022-01-18T01:12:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0368158" lon="15.8741703">
+      <ele>351</ele>
+      <time>2022-01-18T01:13:20Z</time>
+    </trkpt>
+    <trkpt lat="51.0370047" lon="15.8744492">
+      <ele>351</ele>
+      <time>2022-01-18T01:13:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0371734" lon="15.8744707">
+      <ele>354</ele>
+      <time>2022-01-18T01:14:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0373083" lon="15.8745458">
+      <ele>356</ele>
+      <time>2022-01-18T01:14:31Z</time>
+    </trkpt>
+    <trkpt lat="51.0378873" lon="15.8759368">
+      <ele>350</ele>
+      <time>2022-01-18T01:16:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

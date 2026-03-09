@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:49Z</time>
+    <bounds maxlat="51.0130324" maxlon="15.5129313" minlat="51.0126224" minlon="15.508039"/>
+  </metadata>
+  <wpt lat="51.013032" lon="15.508039">
+    <ele>362</ele>
+    <name>Lubomierz, ul. Nowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3410">
+      <text>Lubomierz, ul. Nowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.012769" lon="15.512931">
+    <ele>360</ele>
+    <name>Lubomierz</name>
+    <link href="https://mapa-turystyczna.pl/node/3409">
+      <text>Lubomierz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubomierz, ul. Nowa - Lubomierz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0130324,15.508039;51.01263040000068,15.510522600000005;51.0127692,15.5129313">
+    <text>Lubomierz, ul. Nowa - Lubomierz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0130324" lon="15.508039">
+      <ele>362</ele>
+      <time>2022-01-17T21:47:49Z</time>
+    </trkpt>
+    <trkpt lat="51.0128029" lon="15.5088812">
+      <ele>366</ele>
+      <time>2022-01-17T21:48:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0126814" lon="15.5095008">
+      <ele>365</ele>
+      <time>2022-01-17T21:49:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0126443" lon="15.5098481">
+      <ele>365</ele>
+      <time>2022-01-17T21:49:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0126224" lon="15.5103491">
+      <ele>363</ele>
+      <time>2022-01-17T21:50:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0126384" lon="15.5106961">
+      <ele>362</ele>
+      <time>2022-01-17T21:50:34Z</time>
+    </trkpt>
+    <trkpt lat="51.0128151" lon="15.5122965">
+      <ele>360</ele>
+      <time>2022-01-17T21:52:11Z</time>
+    </trkpt>
+    <trkpt lat="51.0127692" lon="15.5129313">
+      <ele>360</ele>
+      <time>2022-01-17T21:52:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:13Z</time>
+    <bounds maxlat="50.7466008" maxlon="15.8236318" minlat="50.7457593" minlon="15.8218812"/>
+  </metadata>
+  <wpt lat="50.746357" lon="15.823632">
+    <ele>1046</ele>
+    <name>Przelecz Okraj, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9312">
+      <text>Przelecz Okraj, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.745759" lon="15.821881">
+    <ele>1049</ele>
+    <name>Pomezni bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/9311">
+      <text>Pomezni bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Okraj, parking - Pomezni bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7463572,15.8236318;50.74647485016944,15.822729199999998;50.7457593,15.8218812">
+    <text>Przelecz Okraj, parking - Pomezni bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7463572" lon="15.8236318">
+      <ele>1046</ele>
+      <time>2022-01-18T00:08:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7466008" lon="15.8228298">
+      <ele>1049</ele>
+      <time>2022-01-18T00:09:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7463489" lon="15.8226286">
+      <ele>1048</ele>
+      <time>2022-01-18T00:09:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7459618" lon="15.8222215">
+      <ele>1048</ele>
+      <time>2022-01-18T00:10:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7457593" lon="15.8218812">
+      <ele>1049</ele>
+      <time>2022-01-18T00:11:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

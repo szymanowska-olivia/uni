@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:21Z</time>
+    <bounds maxlat="49.778203" maxlon="19.129878" minlat="49.776999" minlon="19.128324"/>
+  </metadata>
+  <wpt lat="49.778203" lon="19.128324">
+    <ele>897</ele>
+    <name>Pod Magurka</name>
+    <link href="https://mapa-turystyczna.pl/node/3875">
+      <text>Pod Magurka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.776999" lon="19.129878">
+    <ele>908</ele>
+    <name>Magurka Wilkowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/13506">
+      <text>Magurka Wilkowicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Magurka - Magurka Wilkowicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.778203,19.128324;49.77771750058202,19.12903299999999;49.776999,19.129878">
+    <text>Pod Magurka - Magurka Wilkowicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.778203" lon="19.128324">
+      <ele>897</ele>
+      <time>2022-01-18T01:59:21Z</time>
+    </trkpt>
+    <trkpt lat="49.778065" lon="19.128572">
+      <ele>900</ele>
+      <time>2022-01-18T02:00:01Z</time>
+    </trkpt>
+    <trkpt lat="49.777955" lon="19.128759">
+      <ele>903</ele>
+      <time>2022-01-18T02:00:33Z</time>
+    </trkpt>
+    <trkpt lat="49.77748" lon="19.129307">
+      <ele>907</ele>
+      <time>2022-01-18T02:02:26Z</time>
+    </trkpt>
+    <trkpt lat="49.776999" lon="19.129878">
+      <ele>908</ele>
+      <time>2022-01-18T02:04:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

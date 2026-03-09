@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:02Z</time>
+    <bounds maxlat="49.7781015" maxlon="20.9760084" minlat="49.7773884" minlon="20.9747189"/>
+  </metadata>
+  <wpt lat="49.778101" lon="20.974719">
+    <ele>326</ele>
+    <name>Skamieniale Miasto</name>
+    <link href="https://mapa-turystyczna.pl/node/3624">
+      <text>Skamieniale Miasto</text>
+    </link>
+  </wpt>
+  <wpt lat="49.777388" lon="20.976008">
+    <ele>329</ele>
+    <name>Wawoz Czarownic</name>
+    <link href="https://mapa-turystyczna.pl/node/13496">
+      <text>Wawoz Czarownic</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skamieniale Miasto - Wawoz Czarownic</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7781015,20.9747189;49.77782520005682,20.975495999999993;49.7773884,20.9760084">
+    <text>Skamieniale Miasto - Wawoz Czarownic</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7781015" lon="20.9747189">
+      <ele>326</ele>
+      <time>2022-01-18T01:59:02Z</time>
+    </trkpt>
+    <trkpt lat="49.7779866" lon="20.9750285">
+      <ele>325</ele>
+      <time>2022-01-18T01:59:39Z</time>
+    </trkpt>
+    <trkpt lat="49.7778994" lon="20.975338">
+      <ele>323</ele>
+      <time>2022-01-18T02:00:13Z</time>
+    </trkpt>
+    <trkpt lat="49.777751" lon="20.975654">
+      <ele>323</ele>
+      <time>2022-01-18T02:00:53Z</time>
+    </trkpt>
+    <trkpt lat="49.7774888" lon="20.9759319">
+      <ele>327</ele>
+      <time>2022-01-18T02:01:44Z</time>
+    </trkpt>
+    <trkpt lat="49.7773884" lon="20.9760084">
+      <ele>329</ele>
+      <time>2022-01-18T02:02:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

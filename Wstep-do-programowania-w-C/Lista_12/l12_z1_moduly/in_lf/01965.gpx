@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:55Z</time>
+    <bounds maxlat="50.7089579" maxlon="15.6629848" minlat="50.7070687" minlon="15.6621963"/>
+  </metadata>
+  <wpt lat="50.707069" lon="15.662985">
+    <ele>1271</ele>
+    <name>U Klinovych bud</name>
+    <link href="https://mapa-turystyczna.pl/node/1416">
+      <text>U Klinovych bud</text>
+    </link>
+  </wpt>
+  <wpt lat="50.708958" lon="15.66225">
+    <ele>1279</ele>
+    <name>Klinovka</name>
+    <link href="https://mapa-turystyczna.pl/node/1174">
+      <text>Klinovka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Klinovych bud - Klinovka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7070687,15.6629848;50.708155151460446,15.662726000000005;50.7089579,15.66225">
+    <text>U Klinovych bud - Klinovka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7070687" lon="15.6629848">
+      <ele>1271</ele>
+      <time>2022-01-17T21:08:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7076426" lon="15.6629379">
+      <ele>1273</ele>
+      <time>2022-01-17T21:10:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7077851" lon="15.6629124">
+      <ele>1274</ele>
+      <time>2022-01-17T21:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7085252" lon="15.6625396">
+      <ele>1279</ele>
+      <time>2022-01-17T21:12:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7087964" lon="15.6622687">
+      <ele>1278</ele>
+      <time>2022-01-17T21:13:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7088943" lon="15.6621963">
+      <ele>1278</ele>
+      <time>2022-01-17T21:13:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7089579" lon="15.66225">
+      <ele>1279</ele>
+      <time>2022-01-17T21:13:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

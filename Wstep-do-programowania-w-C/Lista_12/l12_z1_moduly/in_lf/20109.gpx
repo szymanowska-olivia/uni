@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:40Z</time>
+    <bounds maxlat="50.2009302" maxlon="16.9869195" minlat="50.1956948" minlon="16.9844296"/>
+  </metadata>
+  <wpt lat="50.20093" lon="16.986919">
+    <ele>814</ele>
+    <name>Velke Vrbno, lanovka</name>
+    <link href="https://mapa-turystyczna.pl/node/13538">
+      <text>Velke Vrbno, lanovka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.195695" lon="16.98443">
+    <ele>858</ele>
+    <name>Pod Dalimilovou rozhl.</name>
+    <link href="https://mapa-turystyczna.pl/node/13542">
+      <text>Pod Dalimilovou rozhl.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velke Vrbno, lanovka - Pod Dalimilovou rozhl.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2009302,16.9869195;50.19826415007415,16.985561199999992;50.1956948,16.9844296">
+    <text>Velke Vrbno, lanovka - Pod Dalimilovou rozhl.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2009302" lon="16.9869195">
+      <ele>814</ele>
+      <time>2022-01-18T02:00:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2007108" lon="16.9866958">
+      <ele>820</ele>
+      <time>2022-01-18T02:01:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2005288" lon="16.9865885">
+      <ele>825</ele>
+      <time>2022-01-18T02:01:55Z</time>
+    </trkpt>
+    <trkpt lat="50.200103" lon="16.9865617">
+      <ele>831</ele>
+      <time>2022-01-18T02:03:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1995536" lon="16.9864598">
+      <ele>835</ele>
+      <time>2022-01-18T02:04:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1990694" lon="16.9861862">
+      <ele>846</ele>
+      <time>2022-01-18T02:05:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1983483" lon="16.9856068">
+      <ele>861</ele>
+      <time>2022-01-18T02:08:10Z</time>
+    </trkpt>
+    <trkpt lat="50.19818" lon="16.9855156">
+      <ele>862</ele>
+      <time>2022-01-18T02:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1977933" lon="16.9854744">
+      <ele>862</ele>
+      <time>2022-01-18T02:09:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1972816" lon="16.9854797">
+      <ele>863</ele>
+      <time>2022-01-18T02:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1956948" lon="16.9844296">
+      <ele>858</ele>
+      <time>2022-01-18T02:15:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

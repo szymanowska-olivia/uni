@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:33Z</time>
+    <bounds maxlat="49.9374353" maxlon="18.6468729" minlat="49.9371787" minlon="18.6463484"/>
+  </metadata>
+  <wpt lat="49.937179" lon="18.646873">
+    <ele>255</ele>
+    <name>Bzie Zameckie, ul. Niepodleglosci</name>
+    <link href="https://mapa-turystyczna.pl/node/12510">
+      <text>Bzie Zameckie, ul. Niepodleglosci</text>
+    </link>
+  </wpt>
+  <wpt lat="49.937435" lon="18.646348">
+    <ele>257</ele>
+    <name>Bzie Zameckie</name>
+    <link href="https://mapa-turystyczna.pl/node/9822">
+      <text>Bzie Zameckie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bzie Zameckie, ul. Niepodleglosci - Bzie Zameckie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9371787,18.6468729;49.9371832500002,18.64662035000002;49.9374353,18.6463484">
+    <text>Bzie Zameckie, ul. Niepodleglosci - Bzie Zameckie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9371787" lon="18.6468729">
+      <ele>255</ele>
+      <time>2022-01-18T01:31:33Z</time>
+    </trkpt>
+    <trkpt lat="49.9371878" lon="18.6463678">
+      <ele>257</ele>
+      <time>2022-01-18T01:32:07Z</time>
+    </trkpt>
+    <trkpt lat="49.9374353" lon="18.6463484">
+      <ele>257</ele>
+      <time>2022-01-18T01:32:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

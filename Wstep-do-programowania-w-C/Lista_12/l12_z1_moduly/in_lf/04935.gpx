@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:29Z</time>
+    <bounds maxlat="50.9204892" maxlon="15.074366" minlat="50.9192345" minlon="15.0731993"/>
+  </metadata>
+  <wpt lat="50.920489" lon="15.073199">
+    <ele>291</ele>
+    <name>Frydlant</name>
+    <link href="https://mapa-turystyczna.pl/node/3450">
+      <text>Frydlant</text>
+    </link>
+  </wpt>
+  <wpt lat="50.919235" lon="15.074304">
+    <ele>302</ele>
+    <name>Frydlant, zel.st.</name>
+    <link href="https://mapa-turystyczna.pl/node/3451">
+      <text>Frydlant, zel.st.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Frydlant - Frydlant, zel.st.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9204892,15.0731993;50.92000750003842,15.074116949999995;50.9192345,15.0743043">
+    <text>Frydlant - Frydlant, zel.st.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9204892" lon="15.0731993">
+      <ele>291</ele>
+      <time>2022-01-17T21:48:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9200673" lon="15.0740482">
+      <ele>297</ele>
+      <time>2022-01-17T21:50:40Z</time>
+    </trkpt>
+    <trkpt lat="50.9199477" lon="15.0741857">
+      <ele>298</ele>
+      <time>2022-01-17T21:51:08Z</time>
+    </trkpt>
+    <trkpt lat="50.9198646" lon="15.0742572">
+      <ele>298</ele>
+      <time>2022-01-17T21:51:26Z</time>
+    </trkpt>
+    <trkpt lat="50.9197309" lon="15.0743233">
+      <ele>299</ele>
+      <time>2022-01-17T21:51:53Z</time>
+    </trkpt>
+    <trkpt lat="50.9196122" lon="15.074359">
+      <ele>300</ele>
+      <time>2022-01-17T21:52:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9195" lon="15.074366">
+      <ele>300</ele>
+      <time>2022-01-17T21:52:38Z</time>
+    </trkpt>
+    <trkpt lat="50.9192345" lon="15.0743043">
+      <ele>302</ele>
+      <time>2022-01-17T21:53:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

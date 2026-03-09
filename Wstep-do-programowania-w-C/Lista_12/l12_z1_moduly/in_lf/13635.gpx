@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:26Z</time>
+    <bounds maxlat="50.2476316" maxlon="18.9392511" minlat="50.23787" minlon="18.938264"/>
+  </metadata>
+  <wpt lat="50.247632" lon="18.939193">
+    <ele>290</ele>
+    <name>Radoszowy, las</name>
+    <link href="https://mapa-turystyczna.pl/node/9137">
+      <text>Radoszowy, las</text>
+    </link>
+  </wpt>
+  <wpt lat="50.23787" lon="18.938629">
+    <ele>268</ele>
+    <name>Panewniki, staw nr 4</name>
+    <link href="https://mapa-turystyczna.pl/node/9400">
+      <text>Panewniki, staw nr 4</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radoszowy, las - Panewniki, staw nr 4</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2476316,18.9391935;50.2438607091337,18.938875549999988;50.23787,18.9386289">
+    <text>Radoszowy, las - Panewniki, staw nr 4</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2476316" lon="18.9391935">
+      <ele>290</ele>
+      <time>2022-01-18T00:10:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2470854" lon="18.9391223">
+      <ele>287</ele>
+      <time>2022-01-18T00:11:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2462553" lon="18.9392511">
+      <ele>282</ele>
+      <time>2022-01-18T00:12:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2460906" lon="18.9391652">
+      <ele>282</ele>
+      <time>2022-01-18T00:12:43Z</time>
+    </trkpt>
+    <trkpt lat="50.245823" lon="18.9384357">
+      <ele>279</ele>
+      <time>2022-01-18T00:13:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2456858" lon="18.9382855">
+      <ele>279</ele>
+      <time>2022-01-18T00:13:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2455211" lon="18.938264">
+      <ele>279</ele>
+      <time>2022-01-18T00:14:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2447938" lon="18.9389292">
+      <ele>278</ele>
+      <time>2022-01-18T00:15:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2429276" lon="18.9388219">
+      <ele>275</ele>
+      <time>2022-01-18T00:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2408718" lon="18.9388064">
+      <ele>272</ele>
+      <time>2022-01-18T00:21:01Z</time>
+    </trkpt>
+    <trkpt lat="50.23787" lon="18.9386289">
+      <ele>268</ele>
+      <time>2022-01-18T00:25:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

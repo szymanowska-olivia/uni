@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:45Z</time>
+    <bounds maxlat="50.8258215" maxlon="15.2132774" minlat="50.8244796" minlon="15.2117567"/>
+  </metadata>
+  <wpt lat="50.825822" lon="15.211757">
+    <ele>1079</ele>
+    <name>Cerna hora kristianovska</name>
+    <link href="https://mapa-turystyczna.pl/node/8812">
+      <text>Cerna hora kristianovska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.82448" lon="15.213039">
+    <ele>1071</ele>
+    <name>Certuv odpocinek</name>
+    <link href="https://mapa-turystyczna.pl/node/8811">
+      <text>Certuv odpocinek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerna hora kristianovska - Certuv odpocinek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8258215,15.2117567;50.825267853282774,15.212514400000012;50.8244796,15.2130388">
+    <text>Cerna hora kristianovska - Certuv odpocinek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8258215" lon="15.2117567">
+      <ele>1079</ele>
+      <time>2022-01-17T23:56:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8247142" lon="15.2132721">
+      <ele>1072</ele>
+      <time>2022-01-17T23:59:14Z</time>
+    </trkpt>
+    <trkpt lat="50.82466" lon="15.2132774">
+      <ele>1072</ele>
+      <time>2022-01-17T23:59:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8245854" lon="15.2132452">
+      <ele>1071</ele>
+      <time>2022-01-17T23:59:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8244796" lon="15.2130388">
+      <ele>1071</ele>
+      <time>2022-01-17T23:59:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

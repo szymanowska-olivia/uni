@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:17:59Z</time>
+    <bounds maxlat="50.4951525" maxlon="16.3271642" minlat="50.4946679" minlon="16.3254476"/>
+  </metadata>
+  <wpt lat="50.495153" lon="16.327164">
+    <ele>693</ele>
+    <name>Schronisko PTTK Pasterka</name>
+    <link href="https://mapa-turystyczna.pl/node/1851">
+      <text>Schronisko PTTK Pasterka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.494668" lon="16.325448">
+    <ele>682</ele>
+    <name>Pasterka</name>
+    <link href="https://mapa-turystyczna.pl/node/1850">
+      <text>Pasterka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Pasterka - Pasterka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4951525,16.3271642;50.49491020062141,16.326305900000012;50.4946679,16.3254476">
+    <text>Schronisko PTTK Pasterka - Pasterka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4951525" lon="16.3271642">
+      <ele>693</ele>
+      <time>2022-01-17T21:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4946679" lon="16.3254476">
+      <ele>682</ele>
+      <time>2022-01-17T21:19:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

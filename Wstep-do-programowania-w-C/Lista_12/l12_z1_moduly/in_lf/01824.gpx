@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:40Z</time>
+    <bounds maxlat="50.7232127" maxlon="15.4594588" minlat="50.7194331" minlon="15.4562349"/>
+  </metadata>
+  <wpt lat="50.723213" lon="15.456235">
+    <ele>630</ele>
+    <name>Rokytnice Nad Jizerou, Horni Ves</name>
+    <link href="https://mapa-turystyczna.pl/node/1328">
+      <text>Rokytnice Nad Jizerou, Horni Ves</text>
+    </link>
+  </wpt>
+  <wpt lat="50.719433" lon="15.45933">
+    <ele>692</ele>
+    <name>Nad Hornou Vsou</name>
+    <link href="https://mapa-turystyczna.pl/node/1228">
+      <text>Nad Hornou Vsou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rokytnice Nad Jizerou, Horni Ves - Nad Hornou Vsou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7232127,15.4562349;50.72114485039067,15.457807950000007;50.7194331,15.4593301">
+    <text>Rokytnice Nad Jizerou, Horni Ves - Nad Hornou Vsou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7232127" lon="15.4562349">
+      <ele>630</ele>
+      <time>2022-01-17T21:06:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7227418" lon="15.456444">
+      <ele>642</ele>
+      <time>2022-01-17T21:08:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7215822" lon="15.4576135">
+      <ele>659</ele>
+      <time>2022-01-17T21:13:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7213362" lon="15.4576242">
+      <ele>662</ele>
+      <time>2022-01-17T21:13:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7209535" lon="15.4579917">
+      <ele>666</ele>
+      <time>2022-01-17T21:15:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7205708" lon="15.4585951">
+      <ele>666</ele>
+      <time>2022-01-17T21:17:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7196153" lon="15.4594588">
+      <ele>686</ele>
+      <time>2022-01-17T21:20:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7194331" lon="15.4593301">
+      <ele>692</ele>
+      <time>2022-01-17T21:21:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

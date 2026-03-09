@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:42Z</time>
+    <bounds maxlat="54.4578841" maxlon="18.5528525" minlat="54.4574242" minlon="18.551209"/>
+  </metadata>
+  <wpt lat="54.457884" lon="18.551209">
+    <ele>36</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10845">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.457424" lon="18.552853">
+    <ele>30</ele>
+    <name>Sopot, Kamienny Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/10809">
+      <text>Sopot, Kamienny Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski / czarny - Sopot, Kamienny Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4578841,18.551209;54.45786070000074,18.552257700000013;54.4574242,18.5528525">
+    <text>Skrzyzowanie szlakow czerwony / niebieski / czarny - Sopot, Kamienny Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4578841" lon="18.551209">
+      <ele>36</ele>
+      <time>2022-01-18T00:46:42Z</time>
+    </trkpt>
+    <trkpt lat="54.4578685" lon="18.552137">
+      <ele>34</ele>
+      <time>2022-01-18T00:47:35Z</time>
+    </trkpt>
+    <trkpt lat="54.4578529" lon="18.5523784">
+      <ele>33</ele>
+      <time>2022-01-18T00:47:49Z</time>
+    </trkpt>
+    <trkpt lat="54.4578155" lon="18.552534">
+      <ele>33</ele>
+      <time>2022-01-18T00:47:59Z</time>
+    </trkpt>
+    <trkpt lat="54.4577609" lon="18.5526198">
+      <ele>32</ele>
+      <time>2022-01-18T00:48:06Z</time>
+    </trkpt>
+    <trkpt lat="54.4576877" lon="18.5527056">
+      <ele>31</ele>
+      <time>2022-01-18T00:48:15Z</time>
+    </trkpt>
+    <trkpt lat="54.4575692" lon="18.5527915">
+      <ele>30</ele>
+      <time>2022-01-18T00:48:27Z</time>
+    </trkpt>
+    <trkpt lat="54.4574242" lon="18.5528525">
+      <ele>30</ele>
+      <time>2022-01-18T00:48:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:42Z</time>
+    <bounds maxlat="49.3106949" maxlon="22.4104892" minlat="49.3090895" minlon="22.4023461"/>
+  </metadata>
+  <wpt lat="49.309089" lon="22.402346">
+    <ele>478</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/322">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="49.310252" lon="22.410489">
+    <ele>439</ele>
+    <name>Bukowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/11131">
+      <text>Bukowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Bukowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3090895,22.4023461;49.310275251787374,22.405938400000004;49.310252,22.4104892">
+    <text>Rozejscie szlakow czerwony / zielony - Bukowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3090895" lon="22.4023461">
+      <ele>478</ele>
+      <time>2022-01-18T00:54:42Z</time>
+    </trkpt>
+    <trkpt lat="49.3106949" lon="22.404608">
+      <ele>464</ele>
+      <time>2022-01-18T00:57:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3098556" lon="22.4072688">
+      <ele>452</ele>
+      <time>2022-01-18T01:00:30Z</time>
+    </trkpt>
+    <trkpt lat="49.310597" lon="22.4084489">
+      <ele>445</ele>
+      <time>2022-01-18T01:02:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3104291" lon="22.4088566">
+      <ele>442</ele>
+      <time>2022-01-18T01:02:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3103452" lon="22.4090927">
+      <ele>440</ele>
+      <time>2022-01-18T01:02:42Z</time>
+    </trkpt>
+    <trkpt lat="49.3101424" lon="22.409157">
+      <ele>439</ele>
+      <time>2022-01-18T01:02:59Z</time>
+    </trkpt>
+    <trkpt lat="49.3098835" lon="22.4091356">
+      <ele>438</ele>
+      <time>2022-01-18T01:03:21Z</time>
+    </trkpt>
+    <trkpt lat="49.3101633" lon="22.4100797">
+      <ele>439</ele>
+      <time>2022-01-18T01:04:18Z</time>
+    </trkpt>
+    <trkpt lat="49.310252" lon="22.4104892">
+      <ele>439</ele>
+      <time>2022-01-18T01:04:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

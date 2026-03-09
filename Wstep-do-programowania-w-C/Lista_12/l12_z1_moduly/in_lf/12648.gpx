@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:39Z</time>
+    <bounds maxlat="50.9147582" maxlon="15.2357948" minlat="50.91452" minlon="15.2349525"/>
+  </metadata>
+  <wpt lat="50.914758" lon="15.234953">
+    <ele>535</ele>
+    <name>U Spalene hospody</name>
+    <link href="https://mapa-turystyczna.pl/node/8682">
+      <text>U Spalene hospody</text>
+    </link>
+  </wpt>
+  <wpt lat="50.91452" lon="15.235795">
+    <ele>534</ele>
+    <name>U Spalene hospody, parkoviste</name>
+    <link href="https://mapa-turystyczna.pl/node/2269">
+      <text>U Spalene hospody, parkoviste</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Spalene hospody - U Spalene hospody, parkoviste</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9147582,15.2349525;50.91457920003766,15.235562800000011;50.91452,15.2357948">
+    <text>U Spalene hospody - U Spalene hospody, parkoviste</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9147582" lon="15.2349525">
+      <ele>535</ele>
+      <time>2022-01-17T23:53:39Z</time>
+    </trkpt>
+    <trkpt lat="50.9147196" lon="15.2350281">
+      <ele>535</ele>
+      <time>2022-01-17T23:53:45Z</time>
+    </trkpt>
+    <trkpt lat="50.9146384" lon="15.2353308">
+      <ele>534</ele>
+      <time>2022-01-17T23:54:07Z</time>
+    </trkpt>
+    <trkpt lat="50.91452" lon="15.2357948">
+      <ele>534</ele>
+      <time>2022-01-17T23:54:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:51Z</time>
+    <bounds maxlat="50.1845964" maxlon="17.1127778" minlat="50.1815083" minlon="17.1092373"/>
+  </metadata>
+  <wpt lat="50.184596" lon="17.109237">
+    <ele>1311</ele>
+    <name>Serak, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6445">
+      <text>Serak, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.181508" lon="17.112778">
+    <ele>1282</ele>
+    <name>Pod Keprnikem</name>
+    <link href="https://mapa-turystyczna.pl/node/6446">
+      <text>Pod Keprnikem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Serak, rozc. - Pod Keprnikem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1845964,17.1092373;50.18315200006819,17.111294550000018;50.1815083,17.1127778">
+    <text>Serak, rozc. - Pod Keprnikem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1845964" lon="17.1092373">
+      <ele>1311</ele>
+      <time>2022-01-17T22:53:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1839197" lon="17.1104336">
+      <ele>1300</ele>
+      <time>2022-01-17T22:55:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1836381" lon="17.1108359">
+      <ele>1300</ele>
+      <time>2022-01-17T22:55:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1832327" lon="17.1112275">
+      <ele>1297</ele>
+      <time>2022-01-17T22:56:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1830713" lon="17.1113616">
+      <ele>1297</ele>
+      <time>2022-01-17T22:56:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1826934" lon="17.1117908">
+      <ele>1294</ele>
+      <time>2022-01-17T22:57:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1825938" lon="17.1118712">
+      <ele>1294</ele>
+      <time>2022-01-17T22:57:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1824598" lon="17.1121019">
+      <ele>1293</ele>
+      <time>2022-01-17T22:57:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1820923" lon="17.1125793">
+      <ele>1287</ele>
+      <time>2022-01-17T22:58:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1818827" lon="17.1126705">
+      <ele>1284</ele>
+      <time>2022-01-17T22:58:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1817556" lon="17.1127349">
+      <ele>1283</ele>
+      <time>2022-01-17T22:58:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1815083" lon="17.1127778">
+      <ele>1282</ele>
+      <time>2022-01-17T22:58:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

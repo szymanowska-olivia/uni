@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:06Z</time>
+    <bounds maxlat="50.5553113" maxlon="16.7178011" minlat="50.549858" minlon="16.7057848"/>
+  </metadata>
+  <wpt lat="50.549858" lon="16.717801">
+    <ele>331</ele>
+    <name>Lesniczowka Tarnawa</name>
+    <link href="https://mapa-turystyczna.pl/node/2219">
+      <text>Lesniczowka Tarnawa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.555311" lon="16.705785">
+    <ele>361</ele>
+    <name>Kolonia Budzow</name>
+    <link href="https://mapa-turystyczna.pl/node/2201">
+      <text>Kolonia Budzow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesniczowka Tarnawa - Kolonia Budzow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.549858,16.7178011;50.55263060031451,16.711912950000002;50.5553113,16.7057848">
+    <text>Lesniczowka Tarnawa - Kolonia Budzow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.549858" lon="16.7178011">
+      <ele>331</ele>
+      <time>2022-01-17T21:25:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5507237" lon="16.7166316">
+      <ele>332</ele>
+      <time>2022-01-17T21:27:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5509587" lon="16.7160241">
+      <ele>333</ele>
+      <time>2022-01-17T21:28:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5514395" lon="16.7148185">
+      <ele>336</ele>
+      <time>2022-01-17T21:30:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5519131" lon="16.7137925">
+      <ele>340</ele>
+      <time>2022-01-17T21:32:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5524584" lon="16.7124621">
+      <ele>345</ele>
+      <time>2022-01-17T21:34:14Z</time>
+    </trkpt>
+    <trkpt lat="50.5528028" lon="16.7113638">
+      <ele>347</ele>
+      <time>2022-01-17T21:35:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5536445" lon="16.7096726">
+      <ele>354</ele>
+      <time>2022-01-17T21:38:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5540126" lon="16.7088357">
+      <ele>351</ele>
+      <time>2022-01-17T21:40:08Z</time>
+    </trkpt>
+    <trkpt lat="50.5543398" lon="16.707956">
+      <ele>356</ele>
+      <time>2022-01-17T21:41:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5548306" lon="16.70669">
+      <ele>357</ele>
+      <time>2022-01-17T21:43:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5553113" lon="16.7057848">
+      <ele>361</ele>
+      <time>2022-01-17T21:45:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

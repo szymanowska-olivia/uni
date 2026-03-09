@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:37Z</time>
+    <bounds maxlat="51.0169101" maxlon="15.6734455" minlat="51.0147002" minlon="15.6700594"/>
+  </metadata>
+  <wpt lat="51.01691" lon="15.673445">
+    <ele>227</ele>
+    <name>Wlen</name>
+    <link href="https://mapa-turystyczna.pl/node/3300">
+      <text>Wlen</text>
+    </link>
+  </wpt>
+  <wpt lat="51.0147" lon="15.670081">
+    <ele>233</ele>
+    <name>Wlen, wiadukt</name>
+    <link href="https://mapa-turystyczna.pl/node/9153">
+      <text>Wlen, wiadukt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wlen - Wlen, wiadukt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0169101,15.6734455;51.01580445005412,15.671379049999974;51.0147002,15.6700806">
+    <text>Wlen - Wlen, wiadukt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0169101" lon="15.6734455">
+      <ele>227</ele>
+      <time>2022-01-18T00:04:37Z</time>
+    </trkpt>
+    <trkpt lat="51.0164456" lon="15.6724197">
+      <ele>227</ele>
+      <time>2022-01-18T00:05:46Z</time>
+    </trkpt>
+    <trkpt lat="51.0161284" lon="15.6718189">
+      <ele>229</ele>
+      <time>2022-01-18T00:06:28Z</time>
+    </trkpt>
+    <trkpt lat="51.0160609" lon="15.6717814">
+      <ele>229</ele>
+      <time>2022-01-18T00:06:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0159765" lon="15.6716848">
+      <ele>229</ele>
+      <time>2022-01-18T00:06:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0158753" lon="15.6715132">
+      <ele>229</ele>
+      <time>2022-01-18T00:06:56Z</time>
+    </trkpt>
+    <trkpt lat="51.0157336" lon="15.6712449">
+      <ele>228</ele>
+      <time>2022-01-18T00:07:15Z</time>
+    </trkpt>
+    <trkpt lat="51.015386" lon="15.6704456">
+      <ele>228</ele>
+      <time>2022-01-18T00:08:08Z</time>
+    </trkpt>
+    <trkpt lat="51.0153252" lon="15.6702311">
+      <ele>228</ele>
+      <time>2022-01-18T00:08:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0152813" lon="15.6700594">
+      <ele>228</ele>
+      <time>2022-01-18T00:08:31Z</time>
+    </trkpt>
+    <trkpt lat="51.014838" lon="15.6704306">
+      <ele>231</ele>
+      <time>2022-01-18T00:09:14Z</time>
+    </trkpt>
+    <trkpt lat="51.0147136" lon="15.6701023">
+      <ele>233</ele>
+      <time>2022-01-18T00:09:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0147002" lon="15.6700806">
+      <ele>233</ele>
+      <time>2022-01-18T00:09:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:53Z</time>
+    <bounds maxlat="53.9280822" maxlon="14.4537799" minlat="53.9273288" minlon="14.4508128"/>
+  </metadata>
+  <wpt lat="53.927954" lon="14.450813">
+    <ele>6</ele>
+    <name>Miedzyzdroje</name>
+    <link href="https://mapa-turystyczna.pl/node/8532">
+      <text>Miedzyzdroje</text>
+    </link>
+  </wpt>
+  <wpt lat="53.927329" lon="14.45378">
+    <ele>8</ele>
+    <name>Miedzyzdroje, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8533">
+      <text>Miedzyzdroje, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje - Miedzyzdroje, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9279545,14.4508128;53.9277055016999,14.452636350000008;53.9273288,14.4537799">
+    <text>Miedzyzdroje - Miedzyzdroje, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9279545" lon="14.4508128">
+      <ele>6</ele>
+      <time>2022-01-17T23:49:53Z</time>
+    </trkpt>
+    <trkpt lat="53.9280632" lon="14.4512353">
+      <ele>5</ele>
+      <time>2022-01-17T23:50:34Z</time>
+    </trkpt>
+    <trkpt lat="53.9280822" lon="14.4514928">
+      <ele>4</ele>
+      <time>2022-01-17T23:50:58Z</time>
+    </trkpt>
+    <trkpt lat="53.9273288" lon="14.4537799">
+      <ele>8</ele>
+      <time>2022-01-17T23:54:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

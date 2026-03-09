@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:24Z</time>
+    <bounds maxlat="48.8858796" maxlon="19.0472648" minlat="48.8854993" minlon="19.0465552"/>
+  </metadata>
+  <wpt lat="48.885499" lon="19.047265">
+    <ele>1349</ele>
+    <name>Pri Kralovej skale</name>
+    <link href="https://mapa-turystyczna.pl/node/5601">
+      <text>Pri Kralovej skale</text>
+    </link>
+  </wpt>
+  <wpt lat="48.885809" lon="19.046755">
+    <ele>1377</ele>
+    <name>Kralova Skala</name>
+    <link href="https://mapa-turystyczna.pl/node/9779">
+      <text>Kralova Skala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pri Kralovej skale - Kralova Skala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8854993,19.0472648;48.885700700008485,19.04665330000001;48.8858088,19.0467549">
+    <text>Pri Kralovej skale - Kralova Skala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8854993" lon="19.0472648">
+      <ele>1349</ele>
+      <time>2022-01-18T00:20:24Z</time>
+    </trkpt>
+    <trkpt lat="48.88564" lon="19.0469026">
+      <ele>1360</ele>
+      <time>2022-01-18T00:22:08Z</time>
+    </trkpt>
+    <trkpt lat="48.8856716" lon="19.0467182">
+      <ele>1364</ele>
+      <time>2022-01-18T00:22:53Z</time>
+    </trkpt>
+    <trkpt lat="48.8857298" lon="19.0465884">
+      <ele>1367</ele>
+      <time>2022-01-18T00:23:31Z</time>
+    </trkpt>
+    <trkpt lat="48.8858796" lon="19.0465552">
+      <ele>1371</ele>
+      <time>2022-01-18T00:24:26Z</time>
+    </trkpt>
+    <trkpt lat="48.885876" lon="19.0466282">
+      <ele>1373</ele>
+      <time>2022-01-18T00:24:44Z</time>
+    </trkpt>
+    <trkpt lat="48.8858088" lon="19.0467549">
+      <ele>1377</ele>
+      <time>2022-01-18T00:25:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

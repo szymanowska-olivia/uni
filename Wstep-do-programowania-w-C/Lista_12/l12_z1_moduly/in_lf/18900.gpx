@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:11Z</time>
+    <bounds maxlat="52.0120432" maxlon="23.0622639" minlat="52.0113488" minlon="23.0620521"/>
+  </metadata>
+  <wpt lat="52.011349" lon="23.062264">
+    <ele>143</ele>
+    <name>Porosiuki, ul. Sokulska</name>
+    <link href="https://mapa-turystyczna.pl/node/12797">
+      <text>Porosiuki, ul. Sokulska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.012043" lon="23.062052">
+    <ele>146</ele>
+    <name>Porosiuki</name>
+    <link href="https://mapa-turystyczna.pl/node/12751">
+      <text>Porosiuki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Porosiuki, ul. Sokulska - Porosiuki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0113488,23.0622639;52.011588200640425,23.06220920000001;52.0120432,23.0620521">
+    <text>Porosiuki, ul. Sokulska - Porosiuki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0113488" lon="23.0622639">
+      <ele>143</ele>
+      <time>2022-01-18T01:39:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0118276" lon="23.0621545">
+      <ele>145</ele>
+      <time>2022-01-18T01:39:52Z</time>
+    </trkpt>
+    <trkpt lat="52.0120432" lon="23.0620521">
+      <ele>146</ele>
+      <time>2022-01-18T01:40:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

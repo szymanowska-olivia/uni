@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:48Z</time>
+    <bounds maxlat="50.4833914" maxlon="16.3273813" minlat="50.4812621" minlon="16.3261919"/>
+  </metadata>
+  <wpt lat="50.483391" lon="16.32651">
+    <ele>776</ele>
+    <name>Pod Pustelnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1849">
+      <text>Pod Pustelnikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.481262" lon="16.327381">
+    <ele>785</ele>
+    <name>Pasterskie Laki</name>
+    <link href="https://mapa-turystyczna.pl/node/10357">
+      <text>Pasterskie Laki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Pustelnikiem - Pasterskie Laki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4833914,16.3265097;50.482291000154156,16.326192550000023;50.4812621,16.3273813">
+    <text>Pod Pustelnikiem - Pasterskie Laki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4833914" lon="16.3265097">
+      <ele>776</ele>
+      <time>2022-01-18T00:34:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4824117" lon="16.3261932">
+      <ele>777</ele>
+      <time>2022-01-18T00:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4821703" lon="16.3261919">
+      <ele>778</ele>
+      <time>2022-01-18T00:37:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4818895" lon="16.3263971">
+      <ele>780</ele>
+      <time>2022-01-18T00:37:58Z</time>
+    </trkpt>
+    <trkpt lat="50.4816813" lon="16.3266398">
+      <ele>782</ele>
+      <time>2022-01-18T00:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4815233" lon="16.3268432">
+      <ele>783</ele>
+      <time>2022-01-18T00:38:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4813893" lon="16.3271444">
+      <ele>784</ele>
+      <time>2022-01-18T00:39:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4812621" lon="16.3273813">
+      <ele>785</ele>
+      <time>2022-01-18T00:39:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:11Z</time>
+    <bounds maxlat="49.986259" maxlon="21.0132945" minlat="49.9818128" minlon="21.0113686"/>
+  </metadata>
+  <wpt lat="49.981813" lon="21.013295">
+    <ele>352</ele>
+    <name>Zawada</name>
+    <link href="https://mapa-turystyczna.pl/node/3646">
+      <text>Zawada</text>
+    </link>
+  </wpt>
+  <wpt lat="49.986259" lon="21.011369">
+    <ele>359</ele>
+    <name>Gora Sw. Marcina</name>
+    <link href="https://mapa-turystyczna.pl/node/3649">
+      <text>Gora Sw. Marcina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawada - Gora Sw. Marcina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9818128,21.0132945;49.98425515114395,21.01198255;49.986259,21.0113686">
+    <text>Zawada - Gora Sw. Marcina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9818128" lon="21.0132945">
+      <ele>352</ele>
+      <time>2022-01-17T21:52:11Z</time>
+    </trkpt>
+    <trkpt lat="49.9827838" lon="21.0128358">
+      <ele>358</ele>
+      <time>2022-01-17T21:54:21Z</time>
+    </trkpt>
+    <trkpt lat="49.9829995" lon="21.0125063">
+      <ele>360</ele>
+      <time>2022-01-17T21:55:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9831739" lon="21.0123807">
+      <ele>364</ele>
+      <time>2022-01-17T21:55:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9835709" lon="21.0122688">
+      <ele>372</ele>
+      <time>2022-01-17T21:56:17Z</time>
+    </trkpt>
+    <trkpt lat="49.9839234" lon="21.0121418">
+      <ele>375</ele>
+      <time>2022-01-17T21:57:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9845869" lon="21.0118233">
+      <ele>376</ele>
+      <time>2022-01-17T21:58:33Z</time>
+    </trkpt>
+    <trkpt lat="49.986259" lon="21.0113686">
+      <ele>359</ele>
+      <time>2022-01-17T22:02:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

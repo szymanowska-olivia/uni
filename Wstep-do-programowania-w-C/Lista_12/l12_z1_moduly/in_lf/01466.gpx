@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:56Z</time>
+    <bounds maxlat="50.6760763" maxlon="15.7113987" minlat="50.6720554" minlon="15.70001"/>
+  </metadata>
+  <wpt lat="50.673914" lon="15.7002">
+    <ele>1078</ele>
+    <name>Cerny potok</name>
+    <link href="https://mapa-turystyczna.pl/node/1102">
+      <text>Cerny potok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.676076" lon="15.711399">
+    <ele>1092</ele>
+    <name>Pod Lesni Boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1278">
+      <text>Pod Lesni Boudou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerny potok - Pod Lesni Boudou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.673914,15.7002005;50.67375203066104,15.705143799999997;50.6760763,15.7113987">
+    <text>Cerny potok - Pod Lesni Boudou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.673914" lon="15.7002005">
+      <ele>1078</ele>
+      <time>2022-01-17T21:00:56Z</time>
+    </trkpt>
+    <trkpt lat="50.673894" lon="15.70023">
+      <ele>1078</ele>
+      <time>2022-01-17T21:00:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6737991" lon="15.700297">
+      <ele>1078</ele>
+      <time>2022-01-17T21:01:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6736972" lon="15.7002984">
+      <ele>1078</ele>
+      <time>2022-01-17T21:01:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6734107" lon="15.7002118">
+      <ele>1077</ele>
+      <time>2022-01-17T21:01:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6725414" lon="15.70001">
+      <ele>1078</ele>
+      <time>2022-01-17T21:03:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6723809" lon="15.7000423">
+      <ele>1077</ele>
+      <time>2022-01-17T21:04:04Z</time>
+    </trkpt>
+    <trkpt lat="50.672247" lon="15.7001388">
+      <ele>1077</ele>
+      <time>2022-01-17T21:04:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6721223" lon="15.7003105">
+      <ele>1077</ele>
+      <time>2022-01-17T21:04:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6720554" lon="15.7004929">
+      <ele>1077</ele>
+      <time>2022-01-17T21:04:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6754486" lon="15.7097947">
+      <ele>1086</ele>
+      <time>2022-01-17T21:18:33Z</time>
+    </trkpt>
+    <trkpt lat="50.6760763" lon="15.7113987">
+      <ele>1092</ele>
+      <time>2022-01-17T21:20:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

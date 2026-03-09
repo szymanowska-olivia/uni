@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:52Z</time>
+    <bounds maxlat="50.7100054" maxlon="15.8471672" minlat="50.7092958" minlon="15.8461065"/>
+  </metadata>
+  <wpt lat="50.710005" lon="15.846106">
+    <ele>931</ele>
+    <name>Pod Alberickym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/5647">
+      <text>Pod Alberickym vrchem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.709296" lon="15.847167">
+    <ele>920</ele>
+    <name>Pod Alberickym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/5648">
+      <text>Pod Alberickym vrchem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Alberickym vrchem - Pod Alberickym vrchem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7100054,15.8461065;50.70965060134263,15.846636849999989;50.7092958,15.8471672">
+    <text>Pod Alberickym vrchem - Pod Alberickym vrchem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7100054" lon="15.8461065">
+      <ele>931</ele>
+      <time>2022-01-17T22:32:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7092958" lon="15.8471672">
+      <ele>920</ele>
+      <time>2022-01-17T22:34:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

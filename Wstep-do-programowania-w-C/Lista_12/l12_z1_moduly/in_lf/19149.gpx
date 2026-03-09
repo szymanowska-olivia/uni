@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:07Z</time>
+    <bounds maxlat="52.1053373" maxlon="21.2681212" minlat="52.1048858" minlon="21.2674795"/>
+  </metadata>
+  <wpt lat="52.105337" lon="21.268121">
+    <ele>95</ele>
+    <name>Otwock, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/12935">
+      <text>Otwock, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.104886" lon="21.26748">
+    <ele>96</ele>
+    <name>Otwock, Teatr im. Stanislawa Jaracza</name>
+    <link href="https://mapa-turystyczna.pl/node/12936">
+      <text>Otwock, Teatr im. Stanislawa Jaracza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Lesna - Otwock, Teatr im. Stanislawa Jaracza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1053373,21.2681212;52.105082650079204,21.26785769999998;52.1048858,21.2674795">
+    <text>Otwock, ul. Lesna - Otwock, Teatr im. Stanislawa Jaracza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1053373" lon="21.2681212">
+      <ele>95</ele>
+      <time>2022-01-18T01:43:07Z</time>
+    </trkpt>
+    <trkpt lat="52.1052457" lon="21.2679248">
+      <ele>95</ele>
+      <time>2022-01-18T01:43:20Z</time>
+    </trkpt>
+    <trkpt lat="52.1051667" lon="21.2680052">
+      <ele>95</ele>
+      <time>2022-01-18T01:43:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1049986" lon="21.2677102">
+      <ele>95</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="52.1050052" lon="21.2676619">
+      <ele>95</ele>
+      <time>2022-01-18T01:43:53Z</time>
+    </trkpt>
+    <trkpt lat="52.1048858" lon="21.2674795">
+      <ele>96</ele>
+      <time>2022-01-18T01:44:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:12Z</time>
+    <bounds maxlat="52.2952734" maxlon="20.8365738" minlat="52.2926815" minlon="20.8322822"/>
+  </metadata>
+  <wpt lat="52.293727" lon="20.836574">
+    <ele>101</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12396">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295273" lon="20.832282">
+    <ele>100</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12397">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2937271,20.8365738;52.293408105959614,20.834299400000027;52.2952734,20.8322822">
+    <text>Odejscie sciezki dydaktycznej - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2937271" lon="20.8365738">
+      <ele>101</ele>
+      <time>2022-01-18T01:28:12Z</time>
+    </trkpt>
+    <trkpt lat="52.2926815" lon="20.8359265">
+      <ele>101</ele>
+      <time>2022-01-18T01:30:33Z</time>
+    </trkpt>
+    <trkpt lat="52.2941347" lon="20.8326723">
+      <ele>100</ele>
+      <time>2022-01-18T01:35:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2952734" lon="20.8322822">
+      <ele>100</ele>
+      <time>2022-01-18T01:38:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

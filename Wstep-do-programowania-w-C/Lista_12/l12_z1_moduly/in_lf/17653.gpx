@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:13Z</time>
+    <bounds maxlat="52.0542012" maxlon="20.3525299" minlat="52.0231216" minlon="20.3377076"/>
+  </metadata>
+  <wpt lat="52.023122" lon="20.35253">
+    <ele>116</ele>
+    <name>Jesionka, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/11977">
+      <text>Jesionka, ul. Koscielna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.054201" lon="20.337708">
+    <ele>105</ele>
+    <name>Uroczysko Ulaski</name>
+    <link href="https://mapa-turystyczna.pl/node/11979">
+      <text>Uroczysko Ulaski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesionka, ul. Koscielna - Uroczysko Ulaski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0231216,20.3525299;52.037741291203666,20.345161849999993;52.0542012,20.3377076">
+    <text>Jesionka, ul. Koscielna - Uroczysko Ulaski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0231216" lon="20.3525299">
+      <ele>116</ele>
+      <time>2022-01-18T01:17:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0242109" lon="20.3513787">
+      <ele>119</ele>
+      <time>2022-01-18T01:19:25Z</time>
+    </trkpt>
+    <trkpt lat="52.024508" lon="20.3512124">
+      <ele>123</ele>
+      <time>2022-01-18T01:19:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0256303" lon="20.3506974">
+      <ele>123</ele>
+      <time>2022-01-18T01:21:56Z</time>
+    </trkpt>
+    <trkpt lat="52.0288121" lon="20.3492651">
+      <ele>121</ele>
+      <time>2022-01-18T01:27:32Z</time>
+    </trkpt>
+    <trkpt lat="52.0317825" lon="20.3478918">
+      <ele>119</ele>
+      <time>2022-01-18T01:32:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0358219" lon="20.3460465">
+      <ele>121</ele>
+      <time>2022-01-18T01:39:52Z</time>
+    </trkpt>
+    <trkpt lat="52.0396606" lon="20.3442772">
+      <ele>120</ele>
+      <time>2022-01-18T01:46:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0444053" lon="20.3421422">
+      <ele>114</ele>
+      <time>2022-01-18T01:54:59Z</time>
+    </trkpt>
+    <trkpt lat="52.048668" lon="20.340211">
+      <ele>110</ele>
+      <time>2022-01-18T02:02:29Z</time>
+    </trkpt>
+    <trkpt lat="52.0503327" lon="20.3394689">
+      <ele>107</ele>
+      <time>2022-01-18T02:05:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0542012" lon="20.3377076">
+      <ele>105</ele>
+      <time>2022-01-18T02:12:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

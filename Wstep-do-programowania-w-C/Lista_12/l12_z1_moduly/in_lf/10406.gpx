@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:27Z</time>
+    <bounds maxlat="50.4431031" maxlon="16.8741792" minlat="50.441282" minlon="16.8728113"/>
+  </metadata>
+  <wpt lat="50.443103" lon="16.874179">
+    <ele>359</ele>
+    <name>Zloty Stok</name>
+    <link href="https://mapa-turystyczna.pl/node/2070">
+      <text>Zloty Stok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.441282" lon="16.873405">
+    <ele>383</ele>
+    <name>Zloty Stok, mennica</name>
+    <link href="https://mapa-turystyczna.pl/node/7309">
+      <text>Zloty Stok, mennica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zloty Stok - Zloty Stok, mennica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4431031,16.8741792;50.44224460053342,16.873290050000005;50.441282,16.8734048">
+    <text>Zloty Stok - Zloty Stok, mennica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4431031" lon="16.8741792">
+      <ele>359</ele>
+      <time>2022-01-17T23:15:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4425323" lon="16.8738091">
+      <ele>365</ele>
+      <time>2022-01-17T23:16:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4424613" lon="16.8737313">
+      <ele>366</ele>
+      <time>2022-01-17T23:16:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4424327" lon="16.8736388">
+      <ele>367</ele>
+      <time>2022-01-17T23:17:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4424389" lon="16.8735603">
+      <ele>368</ele>
+      <time>2022-01-17T23:17:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4424693" lon="16.8734514">
+      <ele>368</ele>
+      <time>2022-01-17T23:17:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4420199" lon="16.8731287">
+      <ele>373</ele>
+      <time>2022-01-17T23:18:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4414988" lon="16.8728435">
+      <ele>381</ele>
+      <time>2022-01-17T23:19:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4413475" lon="16.8728113">
+      <ele>384</ele>
+      <time>2022-01-17T23:19:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4413232" lon="16.8730688">
+      <ele>384</ele>
+      <time>2022-01-17T23:20:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4412905" lon="16.8732941">
+      <ele>383</ele>
+      <time>2022-01-17T23:20:18Z</time>
+    </trkpt>
+    <trkpt lat="50.441282" lon="16.8734048">
+      <ele>383</ele>
+      <time>2022-01-17T23:20:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

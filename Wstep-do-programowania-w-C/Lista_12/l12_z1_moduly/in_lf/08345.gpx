@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:09Z</time>
+    <bounds maxlat="50.7065173" maxlon="15.5148977" minlat="50.7060553" minlon="15.514707"/>
+  </metadata>
+  <wpt lat="50.706055" lon="15.514898">
+    <ele>866</ele>
+    <name>Rezek</name>
+    <link href="https://mapa-turystyczna.pl/node/5813">
+      <text>Rezek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.706517" lon="15.514707">
+    <ele>868</ele>
+    <name>Rezek, hotel</name>
+    <link href="https://mapa-turystyczna.pl/node/1324">
+      <text>Rezek, hotel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezek - Rezek, hotel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7060553,15.5148977;50.706286300569055,15.514802349999997;50.7065173,15.514707">
+    <text>Rezek - Rezek, hotel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7060553" lon="15.5148977">
+      <ele>866</ele>
+      <time>2022-01-17T22:37:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7065173" lon="15.514707">
+      <ele>868</ele>
+      <time>2022-01-17T22:38:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:46Z</time>
+    <bounds maxlat="52.1009274" maxlon="21.2939998" minlat="52.0952954" minlon="21.2874699"/>
+  </metadata>
+  <wpt lat="52.096745" lon="21.28747">
+    <ele>103</ele>
+    <name>Otwock, szkola podstawowa nr 2</name>
+    <link href="https://mapa-turystyczna.pl/node/12901">
+      <text>Otwock, szkola podstawowa nr 2</text>
+    </link>
+  </wpt>
+  <wpt lat="52.100927" lon="21.294">
+    <ele>101</ele>
+    <name>Srodborow, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12891">
+      <text>Srodborow, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, szkola podstawowa nr 2 - Srodborow, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0967449,21.2874699;52.097678055215844,21.2916184;52.1009274,21.2939998">
+    <text>Otwock, szkola podstawowa nr 2 - Srodborow, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0967449" lon="21.2874699">
+      <ele>103</ele>
+      <time>2022-01-18T01:41:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0966927" lon="21.2877184">
+      <ele>104</ele>
+      <time>2022-01-18T01:42:04Z</time>
+    </trkpt>
+    <trkpt lat="52.0952954" lon="21.2913555">
+      <ele>104</ele>
+      <time>2022-01-18T01:46:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0969959" lon="21.2932009">
+      <ele>103</ele>
+      <time>2022-01-18T01:50:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0983602" lon="21.2900359">
+      <ele>103</ele>
+      <time>2022-01-18T01:55:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1009274" lon="21.2939998">
+      <ele>101</ele>
+      <time>2022-01-18T02:01:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

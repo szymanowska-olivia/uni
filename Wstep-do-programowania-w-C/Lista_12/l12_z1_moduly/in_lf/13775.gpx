@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:24Z</time>
+    <bounds maxlat="50.1975967" maxlon="18.931831" minlat="50.1961517" minlon="18.9307279"/>
+  </metadata>
+  <wpt lat="50.197597" lon="18.930728">
+    <ele>281</ele>
+    <name>Przejazd kolejowy Mikolow Jamna</name>
+    <link href="https://mapa-turystyczna.pl/node/9464">
+      <text>Przejazd kolejowy Mikolow Jamna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.196152" lon="18.931831">
+    <ele>279</ele>
+    <name>Zarzecze, Owsiana Petla</name>
+    <link href="https://mapa-turystyczna.pl/node/9463">
+      <text>Zarzecze, Owsiana Petla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przejazd kolejowy Mikolow Jamna - Zarzecze, Owsiana Petla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1975967,18.9307279;50.196876503005456,18.93122015000003;50.1961517,18.931831">
+    <text>Przejazd kolejowy Mikolow Jamna - Zarzecze, Owsiana Petla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1975967" lon="18.9307279">
+      <ele>281</ele>
+      <time>2022-01-18T00:12:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1974122" lon="18.9309412">
+      <ele>282</ele>
+      <time>2022-01-18T00:12:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1963408" lon="18.9314991">
+      <ele>280</ele>
+      <time>2022-01-18T00:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1961517" lon="18.931831">
+      <ele>279</ele>
+      <time>2022-01-18T00:15:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:26Z</time>
+    <bounds maxlat="52.2802476" maxlon="16.709094" minlat="52.2790677" minlon="16.7082966"/>
+  </metadata>
+  <wpt lat="52.280248" lon="16.709094">
+    <ele>78</ele>
+    <name>Steszew</name>
+    <link href="https://mapa-turystyczna.pl/node/10230">
+      <text>Steszew</text>
+    </link>
+  </wpt>
+  <wpt lat="52.279068" lon="16.708513">
+    <ele>74</ele>
+    <name>Steszew, ul. Mosinska</name>
+    <link href="https://mapa-turystyczna.pl/node/10263">
+      <text>Steszew, ul. Mosinska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Steszew - Steszew, ul. Mosinska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2802476,16.709094;52.27965185004388,16.708771349999978;52.2790677,16.7085132">
+    <text>Steszew - Steszew, ul. Mosinska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2802476" lon="16.709094">
+      <ele>78</ele>
+      <time>2022-01-18T00:32:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2800556" lon="16.7089349">
+      <ele>77</ele>
+      <time>2022-01-18T00:32:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2797142" lon="16.7088062">
+      <ele>76</ele>
+      <time>2022-01-18T00:33:16Z</time>
+    </trkpt>
+    <trkpt lat="52.2795895" lon="16.7087365">
+      <ele>75</ele>
+      <time>2022-01-18T00:33:28Z</time>
+    </trkpt>
+    <trkpt lat="52.2791924" lon="16.7082966">
+      <ele>74</ele>
+      <time>2022-01-18T00:34:10Z</time>
+    </trkpt>
+    <trkpt lat="52.2790677" lon="16.7085112">
+      <ele>74</ele>
+      <time>2022-01-18T00:34:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2790677" lon="16.7085132">
+      <ele>74</ele>
+      <time>2022-01-18T00:34:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

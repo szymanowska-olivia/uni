@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:30Z</time>
+    <bounds maxlat="51.5311954" maxlon="17.2723364" minlat="51.52829" minlon="17.2711859"/>
+  </metadata>
+  <wpt lat="51.52829" lon="17.272336">
+    <ele>110</ele>
+    <name>Milicz</name>
+    <link href="https://mapa-turystyczna.pl/node/10553">
+      <text>Milicz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.531195" lon="17.271186">
+    <ele>111</ele>
+    <name>Milicz, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10550">
+      <text>Milicz, ul. Zamkowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Milicz - Milicz, ul. Zamkowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.52829,17.2723364;51.529105606934124,17.27202159999999;51.5311954,17.2711859">
+    <text>Milicz - Milicz, ul. Zamkowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.52829" lon="17.2723364">
+      <ele>110</ele>
+      <time>2022-01-18T00:39:30Z</time>
+    </trkpt>
+    <trkpt lat="51.528311" lon="17.2723332">
+      <ele>110</ele>
+      <time>2022-01-18T00:39:32Z</time>
+    </trkpt>
+    <trkpt lat="51.5299002" lon="17.27171">
+      <ele>108</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+    <trkpt lat="51.5304241" lon="17.2715383">
+      <ele>106</ele>
+      <time>2022-01-18T00:43:09Z</time>
+    </trkpt>
+    <trkpt lat="51.5306144" lon="17.2715061">
+      <ele>107</ele>
+      <time>2022-01-18T00:43:28Z</time>
+    </trkpt>
+    <trkpt lat="51.5311954" lon="17.2711859">
+      <ele>111</ele>
+      <time>2022-01-18T00:44:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

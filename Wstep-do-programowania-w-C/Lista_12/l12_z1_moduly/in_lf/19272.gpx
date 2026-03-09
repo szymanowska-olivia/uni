@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:19Z</time>
+    <bounds maxlat="52.4567518" maxlon="15.1703917" minlat="52.4550157" minlon="15.1692985"/>
+  </metadata>
+  <wpt lat="52.455016" lon="15.169394">
+    <ele>130</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13024">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.45667" lon="15.170392">
+    <ele>121</ele>
+    <name>Przy Zabim Oku</name>
+    <link href="https://mapa-turystyczna.pl/node/13025">
+      <text>Przy Zabim Oku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Przy Zabim Oku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4550157,15.1693939;52.45641840126216,15.169341400000004;52.4566698,15.1703917">
+    <text>Rozejscie szlakow - Przy Zabim Oku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4550157" lon="15.1693939">
+      <ele>130</ele>
+      <time>2022-01-18T01:45:19Z</time>
+    </trkpt>
+    <trkpt lat="52.456085" lon="15.1693843">
+      <ele>131</ele>
+      <time>2022-01-18T01:47:32Z</time>
+    </trkpt>
+    <trkpt lat="52.4567518" lon="15.1692985">
+      <ele>129</ele>
+      <time>2022-01-18T01:48:55Z</time>
+    </trkpt>
+    <trkpt lat="52.4567061" lon="15.1697062">
+      <ele>126</ele>
+      <time>2022-01-18T01:49:27Z</time>
+    </trkpt>
+    <trkpt lat="52.4566698" lon="15.1703917">
+      <ele>121</ele>
+      <time>2022-01-18T01:50:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

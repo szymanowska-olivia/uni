@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:07Z</time>
+    <bounds maxlat="50.8046498" maxlon="15.6675307" minlat="50.8033816" minlon="15.6668329"/>
+  </metadata>
+  <wpt lat="50.80465" lon="15.666833">
+    <ele>589</ele>
+    <name>Przesieka, ul. Kreta</name>
+    <link href="https://mapa-turystyczna.pl/node/8667">
+      <text>Przesieka, ul. Kreta</text>
+    </link>
+  </wpt>
+  <wpt lat="50.803382" lon="15.667531">
+    <ele>603</ele>
+    <name>Nad wodospadem Podgornej</name>
+    <link href="https://mapa-turystyczna.pl/node/1244">
+      <text>Nad wodospadem Podgornej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przesieka, ul. Kreta - Nad wodospadem Podgornej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8046498,15.6668329;50.803951500134,15.667110099999997;50.8033816,15.6675307">
+    <text>Przesieka, ul. Kreta - Nad wodospadem Podgornej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8046498" lon="15.6668329">
+      <ele>589</ele>
+      <time>2022-01-17T23:53:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8044053" lon="15.6669208">
+      <ele>587</ele>
+      <time>2022-01-17T23:54:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8040634" lon="15.6670833">
+      <ele>593</ele>
+      <time>2022-01-17T23:55:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8038396" lon="15.6671369">
+      <ele>602</ele>
+      <time>2022-01-17T23:56:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8036701" lon="15.6672657">
+      <ele>604</ele>
+      <time>2022-01-17T23:56:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8033816" lon="15.6675307">
+      <ele>603</ele>
+      <time>2022-01-17T23:58:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

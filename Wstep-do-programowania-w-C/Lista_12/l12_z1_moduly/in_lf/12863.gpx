@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:45Z</time>
+    <bounds maxlat="50.7706116" maxlon="15.1696955" minlat="50.7675989" minlon="15.1687635"/>
+  </metadata>
+  <wpt lat="50.770612" lon="15.168816">
+    <ele>539</ele>
+    <name>Janov nad Nisou, Za Prahou</name>
+    <link href="https://mapa-turystyczna.pl/node/8852">
+      <text>Janov nad Nisou, Za Prahou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.767599" lon="15.169695">
+    <ele>532</ele>
+    <name>Janov nad Nisou, transf.</name>
+    <link href="https://mapa-turystyczna.pl/node/8853">
+      <text>Janov nad Nisou, transf.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janov nad Nisou, Za Prahou - Janov nad Nisou, transf.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7706116,15.1688157;50.769390351570735,15.16877955;50.7675989,15.1696955">
+    <text>Janov nad Nisou, Za Prahou - Janov nad Nisou, transf.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7706116" lon="15.1688157">
+      <ele>539</ele>
+      <time>2022-01-17T23:57:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7697737" lon="15.1687635">
+      <ele>536</ele>
+      <time>2022-01-17T23:59:05Z</time>
+    </trkpt>
+    <trkpt lat="50.769007" lon="15.1687956">
+      <ele>536</ele>
+      <time>2022-01-18T00:00:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7686779" lon="15.1689137">
+      <ele>533</ele>
+      <time>2022-01-18T00:00:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7679349" lon="15.1693589">
+      <ele>531</ele>
+      <time>2022-01-18T00:02:07Z</time>
+    </trkpt>
+    <trkpt lat="50.767694" lon="15.1696164">
+      <ele>532</ele>
+      <time>2022-01-18T00:02:35Z</time>
+    </trkpt>
+    <trkpt lat="50.7675989" lon="15.1696955">
+      <ele>532</ele>
+      <time>2022-01-18T00:02:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

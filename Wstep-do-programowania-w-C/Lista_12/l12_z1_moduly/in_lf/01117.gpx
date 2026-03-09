@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:56:36Z</time>
+    <bounds maxlat="49.611443" maxlon="19.01059" minlat="49.608248" minlon="19.00801"/>
+  </metadata>
+  <wpt lat="49.608248" lon="19.00801">
+    <ele>1197</ele>
+    <name>Wierch Wiselka</name>
+    <link href="https://mapa-turystyczna.pl/node/848">
+      <text>Wierch Wiselka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.611443" lon="19.01059">
+    <ele>1220</ele>
+    <name>Barania Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/713">
+      <text>Barania Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wierch Wiselka - Barania Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608248,19.00801;49.610090501588296,19.00934850000001;49.611443,19.01059">
+    <text>Wierch Wiselka - Barania Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608248" lon="19.00801">
+      <ele>1197</ele>
+      <time>2022-01-17T20:56:36Z</time>
+    </trkpt>
+    <trkpt lat="49.608534" lon="19.008125">
+      <ele>1197</ele>
+      <time>2022-01-17T20:57:25Z</time>
+    </trkpt>
+    <trkpt lat="49.608753" lon="19.008282">
+      <ele>1198</ele>
+      <time>2022-01-17T20:58:05Z</time>
+    </trkpt>
+    <trkpt lat="49.609176" lon="19.008634">
+      <ele>1197</ele>
+      <time>2022-01-17T20:59:24Z</time>
+    </trkpt>
+    <trkpt lat="49.609697" lon="19.00902">
+      <ele>1198</ele>
+      <time>2022-01-17T21:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.610484" lon="19.009677">
+      <ele>1210</ele>
+      <time>2022-01-17T21:03:29Z</time>
+    </trkpt>
+    <trkpt lat="49.611258" lon="19.010364">
+      <ele>1218</ele>
+      <time>2022-01-17T21:05:57Z</time>
+    </trkpt>
+    <trkpt lat="49.611443" lon="19.01059">
+      <ele>1220</ele>
+      <time>2022-01-17T21:06:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:15Z</time>
+    <bounds maxlat="50.4059345" maxlon="16.8036586" minlat="50.4045652" minlon="16.8001396"/>
+  </metadata>
+  <wpt lat="50.405707" lon="16.80014">
+    <ele>662</ele>
+    <name>Pod Ptasznikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2167">
+      <text>Pod Ptasznikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.404565" lon="16.803659">
+    <ele>606</ele>
+    <name>Przelecz Leszczynowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2084">
+      <text>Przelecz Leszczynowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ptasznikiem - Przelecz Leszczynowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4057073,16.8001396;50.405890150003735,16.80238185000002;50.4045652,16.8036586">
+    <text>Pod Ptasznikiem - Przelecz Leszczynowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4057073" lon="16.8001396">
+      <ele>662</ele>
+      <time>2022-01-17T21:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4059345" lon="16.8014109">
+      <ele>652</ele>
+      <time>2022-01-17T21:23:36Z</time>
+    </trkpt>
+    <trkpt lat="50.405909" lon="16.8022156">
+      <ele>637</ele>
+      <time>2022-01-17T21:24:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4058713" lon="16.8025481">
+      <ele>633</ele>
+      <time>2022-01-17T21:24:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4056765" lon="16.8027144">
+      <ele>629</ele>
+      <time>2022-01-17T21:25:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4054687" lon="16.8027413">
+      <ele>625</ele>
+      <time>2022-01-17T21:25:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4048268" lon="16.8033636">
+      <ele>610</ele>
+      <time>2022-01-17T21:26:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4045652" lon="16.8036586">
+      <ele>606</ele>
+      <time>2022-01-17T21:27:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:26Z</time>
+    <bounds maxlat="50.9972888" maxlon="16.1303232" minlat="50.9968919" minlon="16.1291635"/>
+  </metadata>
+  <wpt lat="50.997289" lon="16.129164">
+    <ele>394</ele>
+    <name>Radogost</name>
+    <link href="https://mapa-turystyczna.pl/node/2840">
+      <text>Radogost</text>
+    </link>
+  </wpt>
+  <wpt lat="50.996892" lon="16.130323">
+    <ele>389</ele>
+    <name>Pod Radogostem</name>
+    <link href="https://mapa-turystyczna.pl/node/9888">
+      <text>Pod Radogostem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radogost - Pod Radogostem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9972888,16.1291635;50.9969855500052,16.1297735;50.9968919,16.1303232">
+    <text>Radogost - Pod Radogostem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9972888" lon="16.1291635">
+      <ele>394</ele>
+      <time>2022-01-18T00:23:26Z</time>
+    </trkpt>
+    <trkpt lat="50.9971021" lon="16.1293417">
+      <ele>394</ele>
+      <time>2022-01-18T00:23:41Z</time>
+    </trkpt>
+    <trkpt lat="50.9970075" lon="16.129626">
+      <ele>393</ele>
+      <time>2022-01-18T00:23:55Z</time>
+    </trkpt>
+    <trkpt lat="50.9969636" lon="16.129921">
+      <ele>392</ele>
+      <time>2022-01-18T00:24:08Z</time>
+    </trkpt>
+    <trkpt lat="50.9968919" lon="16.1303232">
+      <ele>389</ele>
+      <time>2022-01-18T00:24:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

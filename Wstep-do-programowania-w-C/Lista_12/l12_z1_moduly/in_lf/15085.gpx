@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:58Z</time>
+    <bounds maxlat="52.2497421" maxlon="16.8995972" minlat="52.2484876" minlon="16.8981201"/>
+  </metadata>
+  <wpt lat="52.249742" lon="16.898503">
+    <ele>61</ele>
+    <name>Rogalinek, petla</name>
+    <link href="https://mapa-turystyczna.pl/node/10282">
+      <text>Rogalinek, petla</text>
+    </link>
+  </wpt>
+  <wpt lat="52.248488" lon="16.89812">
+    <ele>61</ele>
+    <name>Rogalinek</name>
+    <link href="https://mapa-turystyczna.pl/node/10252">
+      <text>Rogalinek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rogalinek, petla - Rogalinek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2497421,16.8985028;52.249014600003676,16.89955159999999;52.2484876,16.8981201">
+    <text>Rogalinek, petla - Rogalinek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2497421" lon="16.8985028">
+      <ele>61</ele>
+      <time>2022-01-18T00:32:58Z</time>
+    </trkpt>
+    <trkpt lat="52.2490327" lon="16.8995972">
+      <ele>61</ele>
+      <time>2022-01-18T00:34:24Z</time>
+    </trkpt>
+    <trkpt lat="52.2489965" lon="16.899506">
+      <ele>61</ele>
+      <time>2022-01-18T00:34:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2489604" lon="16.8994201">
+      <ele>61</ele>
+      <time>2022-01-18T00:34:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2484876" lon="16.8981201">
+      <ele>61</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

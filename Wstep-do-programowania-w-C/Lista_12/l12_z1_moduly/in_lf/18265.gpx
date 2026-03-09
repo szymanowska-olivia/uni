@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:05Z</time>
+    <bounds maxlat="52.295298" maxlon="20.8263123" minlat="52.2947666" minlon="20.8260583"/>
+  </metadata>
+  <wpt lat="52.294767" lon="20.826312">
+    <ele>99</ele>
+    <name>Izabelin, skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/4979">
+      <text>Izabelin, skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295298" lon="20.826058">
+    <ele>98</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12399">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Izabelin, skrzyzowanie szlakow czerwony / czarny - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2947666,20.8263123;52.29511300014416,20.826123400000004;52.295298,20.8260583">
+    <text>Izabelin, skrzyzowanie szlakow czerwony / czarny - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2947666" lon="20.8263123">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:05Z</time>
+    </trkpt>
+    <trkpt lat="52.295" lon="20.8261679">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:32Z</time>
+    </trkpt>
+    <trkpt lat="52.295226" lon="20.8260789">
+      <ele>98</ele>
+      <time>2022-01-18T01:28:57Z</time>
+    </trkpt>
+    <trkpt lat="52.295298" lon="20.8260583">
+      <ele>98</ele>
+      <time>2022-01-18T01:29:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

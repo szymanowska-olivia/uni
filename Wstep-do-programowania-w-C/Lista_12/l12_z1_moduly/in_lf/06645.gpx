@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:28Z</time>
+    <bounds maxlat="49.775746" maxlon="19.103242" minlat="49.775323" minlon="19.102284"/>
+  </metadata>
+  <wpt lat="49.775746" lon="19.103242">
+    <ele>657</ele>
+    <name>Do Piotra, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4609">
+      <text>Do Piotra, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.775323" lon="19.102284">
+    <ele>645</ele>
+    <name>Do Piotra, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4608">
+      <text>Do Piotra, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Do Piotra, skrzyzowanie - Do Piotra, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.775746,19.103242;49.77553700004633,19.102781499999995;49.775323,19.102284">
+    <text>Do Piotra, skrzyzowanie - Do Piotra, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.775746" lon="19.103242">
+      <ele>657</ele>
+      <time>2022-01-17T22:10:28Z</time>
+    </trkpt>
+    <trkpt lat="49.775604" lon="19.102927">
+      <ele>652</ele>
+      <time>2022-01-17T22:10:48Z</time>
+    </trkpt>
+    <trkpt lat="49.77547" lon="19.102636">
+      <ele>648</ele>
+      <time>2022-01-17T22:11:06Z</time>
+    </trkpt>
+    <trkpt lat="49.775394" lon="19.102461">
+      <ele>646</ele>
+      <time>2022-01-17T22:11:17Z</time>
+    </trkpt>
+    <trkpt lat="49.775323" lon="19.102284">
+      <ele>645</ele>
+      <time>2022-01-17T22:11:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

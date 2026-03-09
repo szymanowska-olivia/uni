@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:04Z</time>
+    <bounds maxlat="51.0910286" maxlon="15.8795567" minlat="51.0894174" minlon="15.878913"/>
+  </metadata>
+  <wpt lat="51.091029" lon="15.879031">
+    <ele>325</ele>
+    <name>Czerwony Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/11739">
+      <text>Czerwony Kamien</text>
+    </link>
+  </wpt>
+  <wpt lat="51.089417" lon="15.879283">
+    <ele>254</ele>
+    <name>Czerwony Kamien, odejscie na szczyt</name>
+    <link href="https://mapa-turystyczna.pl/node/11799">
+      <text>Czerwony Kamien, odejscie na szczyt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czerwony Kamien - Czerwony Kamien, odejscie na szczyt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0910286,15.8790306;51.090239050103314,15.879551350000005;51.0894174,15.8792828">
+    <text>Czerwony Kamien - Czerwony Kamien, odejscie na szczyt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0910286" lon="15.8790306">
+      <ele>325</ele>
+      <time>2022-01-18T01:12:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0909185" lon="15.8789396">
+      <ele>322</ele>
+      <time>2022-01-18T01:12:16Z</time>
+    </trkpt>
+    <trkpt lat="51.0908085" lon="15.878913">
+      <ele>320</ele>
+      <time>2022-01-18T01:12:26Z</time>
+    </trkpt>
+    <trkpt lat="51.0907074" lon="15.8790954">
+      <ele>316</ele>
+      <time>2022-01-18T01:12:41Z</time>
+    </trkpt>
+    <trkpt lat="51.0906063" lon="15.8793743">
+      <ele>312</ele>
+      <time>2022-01-18T01:13:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0903368" lon="15.8795567">
+      <ele>301</ele>
+      <time>2022-01-18T01:13:28Z</time>
+    </trkpt>
+    <trkpt lat="51.0901413" lon="15.879546">
+      <ele>292</ele>
+      <time>2022-01-18T01:13:48Z</time>
+    </trkpt>
+    <trkpt lat="51.0899729" lon="15.8794601">
+      <ele>285</ele>
+      <time>2022-01-18T01:14:06Z</time>
+    </trkpt>
+    <trkpt lat="51.0897168" lon="15.8793743">
+      <ele>271</ele>
+      <time>2022-01-18T01:14:32Z</time>
+    </trkpt>
+    <trkpt lat="51.0894174" lon="15.8792828">
+      <ele>254</ele>
+      <time>2022-01-18T01:15:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

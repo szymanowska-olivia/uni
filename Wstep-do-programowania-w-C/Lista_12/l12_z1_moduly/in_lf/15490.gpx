@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:12Z</time>
+    <bounds maxlat="50.1752538" maxlon="19.3090325" minlat="50.1739461" minlon="19.306289"/>
+  </metadata>
+  <wpt lat="50.175254" lon="19.306289">
+    <ele>288</ele>
+    <name>Byczyna, ul. Cwiklinskiej</name>
+    <link href="https://mapa-turystyczna.pl/node/10576">
+      <text>Byczyna, ul. Cwiklinskiej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.173946" lon="19.309033">
+    <ele>285</ele>
+    <name>Byczyna, zrodlo Byczynki</name>
+    <link href="https://mapa-turystyczna.pl/node/10577">
+      <text>Byczyna, zrodlo Byczynki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Byczyna, ul. Cwiklinskiej - Byczyna, zrodlo Byczynki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1752538,19.306289;50.174346400118715,19.30732915;50.1739461,19.3090325">
+    <text>Byczyna, ul. Cwiklinskiej - Byczyna, zrodlo Byczynki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1752538" lon="19.306289">
+      <ele>288</ele>
+      <time>2022-01-18T00:40:12Z</time>
+    </trkpt>
+    <trkpt lat="50.174714" lon="19.3065835">
+      <ele>289</ele>
+      <time>2022-01-18T00:41:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1744529" lon="19.3070663">
+      <ele>290</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1742399" lon="19.307592">
+      <ele>289</ele>
+      <time>2022-01-18T00:43:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1741231" lon="19.3080426">
+      <ele>288</ele>
+      <time>2022-01-18T00:43:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1740303" lon="19.3084021">
+      <ele>287</ele>
+      <time>2022-01-18T00:44:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1740269" lon="19.3087615">
+      <ele>286</ele>
+      <time>2022-01-18T00:44:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1739461" lon="19.3090325">
+      <ele>285</ele>
+      <time>2022-01-18T00:45:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

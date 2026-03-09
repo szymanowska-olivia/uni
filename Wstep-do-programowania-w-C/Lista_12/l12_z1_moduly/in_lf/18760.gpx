@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:38Z</time>
+    <bounds maxlat="52.0992334" maxlon="15.0809386" minlat="52.0891521" minlon="15.0662018"/>
+  </metadata>
+  <wpt lat="52.089152" lon="15.080939">
+    <ele>49</ele>
+    <name>Bielow</name>
+    <link href="https://mapa-turystyczna.pl/node/12369">
+      <text>Bielow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.099233" lon="15.067414">
+    <ele>47</ele>
+    <name>Czetowice</name>
+    <link href="https://mapa-turystyczna.pl/node/12376">
+      <text>Czetowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bielow - Czetowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0891521,15.0809386;52.09387136037937,15.071840299999995;52.0992334,15.0674145">
+    <text>Bielow - Czetowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0891521" lon="15.0809386">
+      <ele>49</ele>
+      <time>2022-01-18T01:36:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0894739" lon="15.0801684">
+      <ele>46</ele>
+      <time>2022-01-18T01:37:41Z</time>
+    </trkpt>
+    <trkpt lat="52.0898101" lon="15.0797714">
+      <ele>44</ele>
+      <time>2022-01-18T01:38:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0903902" lon="15.0789346">
+      <ele>49</ele>
+      <time>2022-01-18T01:39:52Z</time>
+    </trkpt>
+    <trkpt lat="52.092909" lon="15.0738895">
+      <ele>53</ele>
+      <time>2022-01-18T01:47:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0948337" lon="15.0697911">
+      <ele>53</ele>
+      <time>2022-01-18T01:52:59Z</time>
+    </trkpt>
+    <trkpt lat="52.0965295" lon="15.0702012">
+      <ele>47</ele>
+      <time>2022-01-18T01:56:07Z</time>
+    </trkpt>
+    <trkpt lat="52.0969132" lon="15.0703798">
+      <ele>46</ele>
+      <time>2022-01-18T01:56:51Z</time>
+    </trkpt>
+    <trkpt lat="52.0970451" lon="15.0702403">
+      <ele>45</ele>
+      <time>2022-01-18T01:57:08Z</time>
+    </trkpt>
+    <trkpt lat="52.096643" lon="15.0662814">
+      <ele>47</ele>
+      <time>2022-01-18T02:01:39Z</time>
+    </trkpt>
+    <trkpt lat="52.0966961" lon="15.0662018">
+      <ele>47</ele>
+      <time>2022-01-18T02:01:47Z</time>
+    </trkpt>
+    <trkpt lat="52.0968675" lon="15.066234">
+      <ele>47</ele>
+      <time>2022-01-18T02:02:06Z</time>
+    </trkpt>
+    <trkpt lat="52.0992334" lon="15.0674145">
+      <ele>47</ele>
+      <time>2022-01-18T02:06:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

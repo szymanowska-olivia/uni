@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:04Z</time>
+    <bounds maxlat="50.6784109" maxlon="19.2179504" minlat="50.677548" minlon="19.2165362"/>
+  </metadata>
+  <wpt lat="50.678411" lon="19.216536">
+    <ele>274</ele>
+    <name>Poraj</name>
+    <link href="https://mapa-turystyczna.pl/node/4561">
+      <text>Poraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.677548" lon="19.21795">
+    <ele>274</ele>
+    <name>Poraj, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9646">
+      <text>Poraj, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poraj - Poraj, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6784109,19.2165362;50.677899800138206,19.217228849999984;50.677548,19.2179504">
+    <text>Poraj - Poraj, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6784109" lon="19.2165362">
+      <ele>274</ele>
+      <time>2022-01-18T00:17:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6780137" lon="19.2171403">
+      <ele>275</ele>
+      <time>2022-01-18T00:17:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6777859" lon="19.2173174">
+      <ele>274</ele>
+      <time>2022-01-18T00:18:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6776194" lon="19.2178162">
+      <ele>274</ele>
+      <time>2022-01-18T00:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.677548" lon="19.2179504">
+      <ele>274</ele>
+      <time>2022-01-18T00:19:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:43Z</time>
+    <bounds maxlat="50.3013267" maxlon="16.3981629" minlat="50.2918206" minlon="16.390518"/>
+  </metadata>
+  <wpt lat="50.301327" lon="16.397792">
+    <ele>1115</ele>
+    <name>Velka Destna</name>
+    <link href="https://mapa-turystyczna.pl/node/2014">
+      <text>Velka Destna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291821" lon="16.390518">
+    <ele>932</ele>
+    <name>Pod Marusou</name>
+    <link href="https://mapa-turystyczna.pl/node/1890">
+      <text>Pod Marusou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Destna - Pod Marusou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3013267,16.3977921;50.29783585545546,16.394356200000022;50.2918206,16.390518">
+    <text>Velka Destna - Pod Marusou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3013267" lon="16.3977921">
+      <ele>1115</ele>
+      <time>2022-01-17T21:21:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3010414" lon="16.3975629">
+      <ele>1113</ele>
+      <time>2022-01-17T21:22:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3004683" lon="16.3976556">
+      <ele>1106</ele>
+      <time>2022-01-17T21:23:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2994864" lon="16.3981629">
+      <ele>1087</ele>
+      <time>2022-01-17T21:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2993457" lon="16.3980617">
+      <ele>1085</ele>
+      <time>2022-01-17T21:25:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2990917" lon="16.3962713">
+      <ele>1068</ele>
+      <time>2022-01-17T21:27:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2985563" lon="16.3951582">
+      <ele>1046</ele>
+      <time>2022-01-17T21:28:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2971154" lon="16.3935542">
+      <ele>1013</ele>
+      <time>2022-01-17T21:31:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2964077" lon="16.3929158">
+      <ele>1007</ele>
+      <time>2022-01-17T21:33:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2918206" lon="16.390518">
+      <ele>932</ele>
+      <time>2022-01-17T21:41:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

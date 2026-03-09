@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:27Z</time>
+    <bounds maxlat="50.1955611" maxlon="19.0572554" minlat="50.1953251" minlon="19.0571354"/>
+  </metadata>
+  <wpt lat="50.195325" lon="19.057135">
+    <ele>303</ele>
+    <name>Dolina Murckowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9099">
+      <text>Dolina Murckowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.195561" lon="19.057255">
+    <ele>302</ele>
+    <name>Dolina Murckowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9435">
+      <text>Dolina Murckowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Murckowska - Dolina Murckowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1953251,19.0571354;50.19544310014582,19.057195400000005;50.1955611,19.0572554">
+    <text>Dolina Murckowska - Dolina Murckowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1953251" lon="19.0571354">
+      <ele>303</ele>
+      <time>2022-01-18T00:11:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1955611" lon="19.0572554">
+      <ele>302</ele>
+      <time>2022-01-18T00:12:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

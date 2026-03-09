@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:57Z</time>
+    <bounds maxlat="49.081192" maxlon="22.6586147" minlat="49.0793724" minlon="22.6549831"/>
+  </metadata>
+  <wpt lat="49.081192" lon="22.654983">
+    <ele>686</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11066">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.079372" lon="22.658615">
+    <ele>690</ele>
+    <name>Torfowisko Wolosate</name>
+    <link href="https://mapa-turystyczna.pl/node/11067">
+      <text>Torfowisko Wolosate</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Torfowisko Wolosate</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.081192,22.6549831;49.080024254277625,22.657445449999994;49.0793724,22.6586147">
+    <text>Odejscie sciezki dydaktycznej - Torfowisko Wolosate</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.081192" lon="22.6549831">
+      <ele>686</ele>
+      <time>2022-01-18T00:52:57Z</time>
+    </trkpt>
+    <trkpt lat="49.0806761" lon="22.6562762">
+      <ele>683</ele>
+      <time>2022-01-18T00:54:36Z</time>
+    </trkpt>
+    <trkpt lat="49.0793724" lon="22.6586147">
+      <ele>690</ele>
+      <time>2022-01-18T00:57:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

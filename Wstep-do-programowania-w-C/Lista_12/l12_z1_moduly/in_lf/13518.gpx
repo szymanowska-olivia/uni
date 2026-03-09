@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:47Z</time>
+    <bounds maxlat="50.1652308" maxlon="18.9192423" minlat="50.1644497" minlon="18.917281"/>
+  </metadata>
+  <wpt lat="50.16445" lon="18.917281">
+    <ele>323</ele>
+    <name>Mikolow, ul. Pileckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12502">
+      <text>Mikolow, ul. Pileckiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.164796" lon="18.919242">
+    <ele>317</ele>
+    <name>Mikolow, ul. Rolnicza</name>
+    <link href="https://mapa-turystyczna.pl/node/9332">
+      <text>Mikolow, ul. Rolnicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mikolow, ul. Pileckiego - Mikolow, ul. Rolnicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1644497,18.917281;50.16508725021556,18.918086349999985;50.1647961,18.9192423">
+    <text>Mikolow, ul. Pileckiego - Mikolow, ul. Rolnicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1644497" lon="18.917281">
+      <ele>323</ele>
+      <time>2022-01-18T00:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1646332" lon="18.9173678">
+      <ele>321</ele>
+      <time>2022-01-18T00:09:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1649706" lon="18.9175491">
+      <ele>317</ele>
+      <time>2022-01-18T00:09:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1652308" lon="18.9176851">
+      <ele>317</ele>
+      <time>2022-01-18T00:10:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1649437" lon="18.9184876">
+      <ele>316</ele>
+      <time>2022-01-18T00:11:00Z</time>
+    </trkpt>
+    <trkpt lat="50.164863" lon="18.9188381">
+      <ele>317</ele>
+      <time>2022-01-18T00:11:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1647961" lon="18.9192423">
+      <ele>317</ele>
+      <time>2022-01-18T00:11:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

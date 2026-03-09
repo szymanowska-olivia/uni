@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:52Z</time>
+    <bounds maxlat="50.8897655" maxlon="16.7319062" minlat="50.8885688" minlon="16.7290529"/>
+  </metadata>
+  <wpt lat="50.889766" lon="16.731906">
+    <ele>317</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11699">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.888569" lon="16.729053">
+    <ele>373</ele>
+    <name>Pod Wiezyca</name>
+    <link href="https://mapa-turystyczna.pl/node/11700">
+      <text>Pod Wiezyca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Wiezyca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8897655,16.7319062;50.88928725245513,16.731211550000012;50.8885688,16.7290529">
+    <text>Rozejscie szlakow - Pod Wiezyca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8897655" lon="16.7319062">
+      <ele>317</ele>
+      <time>2022-01-18T01:08:52Z</time>
+    </trkpt>
+    <trkpt lat="50.888809" lon="16.7305169">
+      <ele>363</ele>
+      <time>2022-01-18T01:14:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8888022" lon="16.7302701">
+      <ele>365</ele>
+      <time>2022-01-18T01:15:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8887751" lon="16.7300448">
+      <ele>366</ele>
+      <time>2022-01-18T01:15:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8886939" lon="16.7298732">
+      <ele>369</ele>
+      <time>2022-01-18T01:16:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8886601" lon="16.7293582">
+      <ele>370</ele>
+      <time>2022-01-18T01:17:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8885688" lon="16.7290529">
+      <ele>373</ele>
+      <time>2022-01-18T01:18:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

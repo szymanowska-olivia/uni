@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:43Z</time>
+    <bounds maxlat="50.1815083" maxlon="19.3116474" minlat="50.1807457" minlon="19.3070269"/>
+  </metadata>
+  <wpt lat="50.181508" lon="19.307029">
+    <ele>318</ele>
+    <name>Pod Grodziskiem</name>
+    <link href="https://mapa-turystyczna.pl/node/10594">
+      <text>Pod Grodziskiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.180746" lon="19.311647">
+    <ele>291</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10592">
+      <text>Skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Grodziskiem - Skrzyzowanie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1815083,19.3070287;50.18110835000062,19.30920219999998;50.1807457,19.3116474">
+    <text>Pod Grodziskiem - Skrzyzowanie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1815083" lon="19.3070287">
+      <ele>318</ele>
+      <time>2022-01-18T00:40:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1815077" lon="19.3070269">
+      <ele>318</ele>
+      <time>2022-01-18T00:40:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1814356" lon="19.3072093">
+      <ele>315</ele>
+      <time>2022-01-18T00:40:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1811848" lon="19.3084271">
+      <ele>303</ele>
+      <time>2022-01-18T00:42:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1811161" lon="19.3090064">
+      <ele>301</ele>
+      <time>2022-01-18T00:42:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1811006" lon="19.309398">
+      <ele>299</ele>
+      <time>2022-01-18T00:43:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1811058" lon="19.3097682">
+      <ele>297</ele>
+      <time>2022-01-18T00:43:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1807457" lon="19.3116474">
+      <ele>291</ele>
+      <time>2022-01-18T00:45:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

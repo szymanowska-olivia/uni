@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:17Z</time>
+    <bounds maxlat="49.386253" maxlon="20.461196" minlat="49.386211" minlon="20.459939"/>
+  </metadata>
+  <wpt lat="49.386211" lon="20.459939">
+    <ele>844</ele>
+    <name>Pod Plasnia</name>
+    <link href="https://mapa-turystyczna.pl/node/27">
+      <text>Pod Plasnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.386244" lon="20.461196">
+    <ele>837</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12802">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Plasnia - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.386211,20.459939;49.386233500003875,20.460453999999977;49.386244,20.461196">
+    <text>Pod Plasnia - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.386211" lon="20.459939">
+      <ele>844</ele>
+      <time>2022-01-18T01:39:17Z</time>
+    </trkpt>
+    <trkpt lat="49.386214" lon="20.460285">
+      <ele>842</ele>
+      <time>2022-01-18T01:39:33Z</time>
+    </trkpt>
+    <trkpt lat="49.386253" lon="20.460623">
+      <ele>840</ele>
+      <time>2022-01-18T01:39:50Z</time>
+    </trkpt>
+    <trkpt lat="49.386235" lon="20.461006">
+      <ele>839</ele>
+      <time>2022-01-18T01:40:08Z</time>
+    </trkpt>
+    <trkpt lat="49.386244" lon="20.461196">
+      <ele>837</ele>
+      <time>2022-01-18T01:40:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

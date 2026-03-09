@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:20Z</time>
+    <bounds maxlat="50.3352611" maxlon="16.3864409" minlat="50.3263615" minlon="16.3781261"/>
+  </metadata>
+  <wpt lat="50.335261" lon="16.378126">
+    <ele>992</ele>
+    <name>Bukacka</name>
+    <link href="https://mapa-turystyczna.pl/node/1995">
+      <text>Bukacka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.326361" lon="16.386441">
+    <ele>1013</ele>
+    <name>Masarykova chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5692">
+      <text>Masarykova chata, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bukacka - Masarykova chata, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3352611,16.3781261;50.33089836470544,16.381498699999977;50.3263615,16.3864409">
+    <text>Bukacka - Masarykova chata, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3352611" lon="16.3781261">
+      <ele>992</ele>
+      <time>2022-01-17T22:34:20Z</time>
+    </trkpt>
+    <trkpt lat="50.333627" lon="16.3793734">
+      <ele>999</ele>
+      <time>2022-01-17T22:37:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3320805" lon="16.3805549">
+      <ele>1016</ele>
+      <time>2022-01-17T22:41:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3297162" lon="16.3824425">
+      <ele>1018</ele>
+      <time>2022-01-17T22:46:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3288402" lon="16.3831056">
+      <ele>1012</ele>
+      <time>2022-01-17T22:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3283177" lon="16.3836381">
+      <ele>1013</ele>
+      <time>2022-01-17T22:49:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3274527" lon="16.3846131">
+      <ele>1015</ele>
+      <time>2022-01-17T22:51:16Z</time>
+    </trkpt>
+    <trkpt lat="50.326817" lon="16.3854808">
+      <ele>1016</ele>
+      <time>2022-01-17T22:52:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3263615" lon="16.3864409">
+      <ele>1013</ele>
+      <time>2022-01-17T22:54:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

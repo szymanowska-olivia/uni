@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:30Z</time>
+    <bounds maxlat="50.2507655" maxlon="17.1831858" minlat="50.248999" minlon="17.1810454"/>
+  </metadata>
+  <wpt lat="50.248999" lon="17.181045">
+    <ele>790</ele>
+    <name>Jitrni pramen, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6120">
+      <text>Jitrni pramen, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.250765" lon="17.183186">
+    <ele>751</ele>
+    <name>Smrkovy a Vilemuv pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/6125">
+      <text>Smrkovy a Vilemuv pramen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jitrni pramen, rozc. - Smrkovy a Vilemuv pramen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.248999,17.1810454;50.24998345160456,17.182289950000023;50.2507655,17.1831858">
+    <text>Jitrni pramen, rozc. - Smrkovy a Vilemuv pramen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.248999" lon="17.1810454">
+      <ele>790</ele>
+      <time>2022-01-17T22:45:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2490058" lon="17.1814397">
+      <ele>785</ele>
+      <time>2022-01-17T22:45:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2490401" lon="17.18207">
+      <ele>776</ele>
+      <time>2022-01-17T22:46:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2495924" lon="17.1822631">
+      <ele>767</ele>
+      <time>2022-01-17T22:47:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2503745" lon="17.1823168">
+      <ele>766</ele>
+      <time>2022-01-17T22:49:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2506626" lon="17.1825528">
+      <ele>764</ele>
+      <time>2022-01-17T22:49:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2507655" lon="17.1831858">
+      <ele>751</ele>
+      <time>2022-01-17T22:50:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

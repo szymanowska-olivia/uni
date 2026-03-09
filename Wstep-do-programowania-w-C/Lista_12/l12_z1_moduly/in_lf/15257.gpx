@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:59Z</time>
+    <bounds maxlat="50.2093703" maxlon="19.829936" minlat="50.2081614" minlon="19.8297525"/>
+  </metadata>
+  <wpt lat="50.20937" lon="19.829753">
+    <ele>333</ele>
+    <name>Ojcow</name>
+    <link href="https://mapa-turystyczna.pl/node/4592">
+      <text>Ojcow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.208161" lon="19.829935">
+    <ele>335</ele>
+    <name>Ojcow, odejscie sciezki gminnej</name>
+    <link href="https://mapa-turystyczna.pl/node/10400">
+      <text>Ojcow, odejscie sciezki gminnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ojcow - Ojcow, odejscie sciezki gminnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2093703,19.8297525;50.209013550628164,19.82993040000001;50.2081614,19.829935">
+    <text>Ojcow - Ojcow, odejscie sciezki gminnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2093703" lon="19.8297525">
+      <ele>333</ele>
+      <time>2022-01-18T00:35:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2092584" lon="19.8299248">
+      <ele>338</ele>
+      <time>2022-01-18T00:36:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2087687" lon="19.829936">
+      <ele>339</ele>
+      <time>2022-01-18T00:37:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2081645" lon="19.829936">
+      <ele>335</ele>
+      <time>2022-01-18T00:38:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2081614" lon="19.829935">
+      <ele>335</ele>
+      <time>2022-01-18T00:38:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:01Z</time>
+    <bounds maxlat="50.7696879" maxlon="15.3681886" minlat="50.7693283" minlon="15.3657478"/>
+  </metadata>
+  <wpt lat="50.769328" lon="15.368189">
+    <ele>688</ele>
+    <name>U Krbu</name>
+    <link href="https://mapa-turystyczna.pl/node/3087">
+      <text>U Krbu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.769688" lon="15.365748">
+    <ele>699</ele>
+    <name>Korenov, zst.</name>
+    <link href="https://mapa-turystyczna.pl/node/3097">
+      <text>Korenov, zst.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Krbu - Korenov, zst.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7693283,15.3681886;50.76950810034552,15.366968199999999;50.7696879,15.3657478">
+    <text>U Krbu - Korenov, zst.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7693283" lon="15.3681886">
+      <ele>688</ele>
+      <time>2022-01-17T21:43:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7696879" lon="15.3657478">
+      <ele>699</ele>
+      <time>2022-01-17T21:48:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:22Z</time>
+    <bounds maxlat="50.8431584" maxlon="15.2741938" minlat="50.8429304" minlon="15.2738012"/>
+  </metadata>
+  <wpt lat="50.84293" lon="15.273801">
+    <ele>848</ele>
+    <name>Pristresek Smedava</name>
+    <link href="https://mapa-turystyczna.pl/node/8711">
+      <text>Pristresek Smedava</text>
+    </link>
+  </wpt>
+  <wpt lat="50.843158" lon="15.274194">
+    <ele>848</ele>
+    <name>Smedava</name>
+    <link href="https://mapa-turystyczna.pl/node/2283">
+      <text>Smedava</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pristresek Smedava - Smedava</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8429304,15.2738012;50.84299540004526,15.273938000000008;50.8431584,15.2741938">
+    <text>Pristresek Smedava - Smedava</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8429304" lon="15.2738012">
+      <ele>848</ele>
+      <time>2022-01-17T23:54:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8430604" lon="15.2740748">
+      <ele>848</ele>
+      <time>2022-01-17T23:55:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8431584" lon="15.2741938">
+      <ele>848</ele>
+      <time>2022-01-17T23:55:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

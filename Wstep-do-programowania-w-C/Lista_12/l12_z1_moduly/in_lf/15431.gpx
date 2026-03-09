@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:13Z</time>
+    <bounds maxlat="51.3094495" maxlon="17.0629864" minlat="51.3071362" minlon="17.0596411"/>
+  </metadata>
+  <wpt lat="51.307136" lon="17.059641">
+    <ele>186</ele>
+    <name>Trzebnica, ul. Obroncow Pokoju</name>
+    <link href="https://mapa-turystyczna.pl/node/10543">
+      <text>Trzebnica, ul. Obroncow Pokoju</text>
+    </link>
+  </wpt>
+  <wpt lat="51.309449" lon="17.062986">
+    <ele>185</ele>
+    <name>Trzebnica, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/10540">
+      <text>Trzebnica, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, ul. Obroncow Pokoju - Trzebnica, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3071362,17.0596411;51.30772560378508,17.060605050000035;51.3094495,17.0629864">
+    <text>Trzebnica, ul. Obroncow Pokoju - Trzebnica, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3071362" lon="17.0596411">
+      <ele>186</ele>
+      <time>2022-01-18T00:39:13Z</time>
+    </trkpt>
+    <trkpt lat="51.308315" lon="17.061569">
+      <ele>189</ele>
+      <time>2022-01-18T00:41:55Z</time>
+    </trkpt>
+    <trkpt lat="51.3090159" lon="17.0624273">
+      <ele>188</ele>
+      <time>2022-01-18T00:43:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3092707" lon="17.0627868">
+      <ele>186</ele>
+      <time>2022-01-18T00:43:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3094495" lon="17.0629864">
+      <ele>185</ele>
+      <time>2022-01-18T00:44:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

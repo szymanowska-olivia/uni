@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:51Z</time>
+    <bounds maxlat="52.3246782" maxlon="20.7481366" minlat="52.3233536" minlon="20.7400203"/>
+  </metadata>
+  <wpt lat="52.323354" lon="20.74002">
+    <ele>89</ele>
+    <name>Karczmisko</name>
+    <link href="https://mapa-turystyczna.pl/node/4941">
+      <text>Karczmisko</text>
+    </link>
+  </wpt>
+  <wpt lat="52.324678" lon="20.748137">
+    <ele>94</ele>
+    <name>Cwikowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/5007">
+      <text>Cwikowa Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karczmisko - Cwikowa Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3233536,20.7400203;52.323827301883,20.74371369999998;52.3246782,20.7481366">
+    <text>Karczmisko - Cwikowa Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3233536" lon="20.7400203">
+      <ele>89</ele>
+      <time>2022-01-17T22:21:51Z</time>
+    </trkpt>
+    <trkpt lat="52.3234191" lon="20.7422411">
+      <ele>93</ele>
+      <time>2022-01-17T22:24:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3242355" lon="20.7451863">
+      <ele>97</ele>
+      <time>2022-01-17T22:28:16Z</time>
+    </trkpt>
+    <trkpt lat="52.3243498" lon="20.7457546">
+      <ele>98</ele>
+      <time>2022-01-17T22:28:58Z</time>
+    </trkpt>
+    <trkpt lat="52.3243859" lon="20.7463662">
+      <ele>96</ele>
+      <time>2022-01-17T22:29:41Z</time>
+    </trkpt>
+    <trkpt lat="52.3244716" lon="20.7469967">
+      <ele>94</ele>
+      <time>2022-01-17T22:30:27Z</time>
+    </trkpt>
+    <trkpt lat="52.3245334" lon="20.747305">
+      <ele>93</ele>
+      <time>2022-01-17T22:30:50Z</time>
+    </trkpt>
+    <trkpt lat="52.3246056" lon="20.7475571">
+      <ele>93</ele>
+      <time>2022-01-17T22:31:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3246318" lon="20.7477073">
+      <ele>93</ele>
+      <time>2022-01-17T22:31:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3246782" lon="20.7481366">
+      <ele>94</ele>
+      <time>2022-01-17T22:31:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

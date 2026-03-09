@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:04Z</time>
+    <bounds maxlat="51.9152158" maxlon="15.4589099" minlat="51.9144501" minlon="15.45656"/>
+  </metadata>
+  <wpt lat="51.915216" lon="15.45891">
+    <ele>221</ele>
+    <name>Gora Wilkanowska</name>
+    <link href="https://mapa-turystyczna.pl/node/11145">
+      <text>Gora Wilkanowska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.91445" lon="15.45656">
+    <ele>216</ele>
+    <name>Rozejscie szlakow niebieski / czarny / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11151">
+      <text>Rozejscie szlakow niebieski / czarny / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Wilkanowska - Rozejscie szlakow niebieski / czarny / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9152158,15.4589099;51.91483295163219,15.45773495;51.9144501,15.45656">
+    <text>Gora Wilkanowska - Rozejscie szlakow niebieski / czarny / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9152158" lon="15.4589099">
+      <ele>221</ele>
+      <time>2022-01-18T00:55:04Z</time>
+    </trkpt>
+    <trkpt lat="51.9144501" lon="15.45656">
+      <ele>216</ele>
+      <time>2022-01-18T00:58:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

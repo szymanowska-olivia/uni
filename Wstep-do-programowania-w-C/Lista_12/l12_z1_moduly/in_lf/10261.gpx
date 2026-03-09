@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:12Z</time>
+    <bounds maxlat="50.8593157" maxlon="16.3258607" minlat="50.8574259" minlon="16.322672"/>
+  </metadata>
+  <wpt lat="50.857426" lon="16.325861">
+    <ele>289</ele>
+    <name>Swiebodzice, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/7220">
+      <text>Swiebodzice, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.859316" lon="16.322672">
+    <ele>285</ele>
+    <name>Swiebodzice, ul. Walbrzyska</name>
+    <link href="https://mapa-turystyczna.pl/node/7219">
+      <text>Swiebodzice, ul. Walbrzyska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swiebodzice, ul. Kolejowa - Swiebodzice, ul. Walbrzyska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8574259,16.3258607;50.858300455453126,16.324529750000014;50.8593157,16.322672">
+    <text>Swiebodzice, ul. Kolejowa - Swiebodzice, ul. Walbrzyska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8574259" lon="16.3258607">
+      <ele>289</ele>
+      <time>2022-01-17T23:13:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8575873" lon="16.3256568">
+      <ele>289</ele>
+      <time>2022-01-17T23:13:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8590136" lon="16.3234027">
+      <ele>285</ele>
+      <time>2022-01-17T23:17:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8592059" lon="16.322996">
+      <ele>285</ele>
+      <time>2022-01-17T23:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8593157" lon="16.322672">
+      <ele>285</ele>
+      <time>2022-01-17T23:18:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

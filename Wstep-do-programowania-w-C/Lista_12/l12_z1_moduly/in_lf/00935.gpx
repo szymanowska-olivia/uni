@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:54:28Z</time>
+    <bounds maxlat="49.552861" maxlon="18.854905" minlat="49.552194" minlon="18.851349"/>
+  </metadata>
+  <wpt lat="49.552861" lon="18.851349">
+    <ele>491</ele>
+    <name>Bukovec za Kempou</name>
+    <link href="https://mapa-turystyczna.pl/node/726">
+      <text>Bukovec za Kempou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.552194" lon="18.854905">
+    <ele>491</ele>
+    <name>Jasnowice</name>
+    <link href="https://mapa-turystyczna.pl/node/751">
+      <text>Jasnowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bukovec za Kempou - Jasnowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.552861,18.851349;49.552459000000844,18.853108999999993;49.552194,18.854905">
+    <text>Bukovec za Kempou - Jasnowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.552861" lon="18.851349">
+      <ele>491</ele>
+      <time>2022-01-17T20:54:28Z</time>
+    </trkpt>
+    <trkpt lat="49.552667" lon="18.852076">
+      <ele>490</ele>
+      <time>2022-01-17T20:55:32Z</time>
+    </trkpt>
+    <trkpt lat="49.552624" lon="18.852251">
+      <ele>489</ele>
+      <time>2022-01-17T20:55:47Z</time>
+    </trkpt>
+    <trkpt lat="49.552495" lon="18.852875">
+      <ele>489</ele>
+      <time>2022-01-17T20:56:40Z</time>
+    </trkpt>
+    <trkpt lat="49.552468" lon="18.853039">
+      <ele>490</ele>
+      <time>2022-01-17T20:56:53Z</time>
+    </trkpt>
+    <trkpt lat="49.55245" lon="18.853179">
+      <ele>490</ele>
+      <time>2022-01-17T20:57:05Z</time>
+    </trkpt>
+    <trkpt lat="49.552435" lon="18.853335">
+      <ele>491</ele>
+      <time>2022-01-17T20:57:18Z</time>
+    </trkpt>
+    <trkpt lat="49.552421" lon="18.853468">
+      <ele>491</ele>
+      <time>2022-01-17T20:57:28Z</time>
+    </trkpt>
+    <trkpt lat="49.552412" lon="18.853576">
+      <ele>491</ele>
+      <time>2022-01-17T20:57:37Z</time>
+    </trkpt>
+    <trkpt lat="49.552367" lon="18.853814">
+      <ele>490</ele>
+      <time>2022-01-17T20:57:57Z</time>
+    </trkpt>
+    <trkpt lat="49.552284" lon="18.85433">
+      <ele>489</ele>
+      <time>2022-01-17T20:58:40Z</time>
+    </trkpt>
+    <trkpt lat="49.552194" lon="18.854905">
+      <ele>491</ele>
+      <time>2022-01-17T20:59:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

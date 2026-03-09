@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:12Z</time>
+    <bounds maxlat="50.7321272" maxlon="16.4048737" minlat="50.7305508" minlon="16.403296"/>
+  </metadata>
+  <wpt lat="50.730551" lon="16.403296">
+    <ele>375</ele>
+    <name>Jugowice, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/2021">
+      <text>Jugowice, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.732127" lon="16.404874">
+    <ele>384</ele>
+    <name>Jugowice, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9620">
+      <text>Jugowice, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jugowice, bus - Jugowice, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7305508,16.403296;50.730764800254775,16.40439269999999;50.7321272,16.4048737">
+    <text>Jugowice, bus - Jugowice, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7305508" lon="16.403296">
+      <ele>375</ele>
+      <time>2022-01-18T00:16:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7309499" lon="16.4034378">
+      <ele>375</ele>
+      <time>2022-01-18T00:16:59Z</time>
+    </trkpt>
+    <trkpt lat="50.730753" lon="16.4039099">
+      <ele>375</ele>
+      <time>2022-01-18T00:17:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7306103" lon="16.4043337">
+      <ele>378</ele>
+      <time>2022-01-18T00:18:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7309193" lon="16.4044517">
+      <ele>378</ele>
+      <time>2022-01-18T00:18:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7311095" lon="16.4044732">
+      <ele>379</ele>
+      <time>2022-01-18T00:19:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7317037" lon="16.4046234">
+      <ele>383</ele>
+      <time>2022-01-18T00:20:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7319346" lon="16.4047146">
+      <ele>383</ele>
+      <time>2022-01-18T00:20:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7320636" lon="16.4048326">
+      <ele>384</ele>
+      <time>2022-01-18T00:21:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7321272" lon="16.4048737">
+      <ele>384</ele>
+      <time>2022-01-18T00:21:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

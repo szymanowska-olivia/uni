@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:20Z</time>
+    <bounds maxlat="50.166893" maxlon="16.5400886" minlat="50.1501626" minlon="16.50949"/>
+  </metadata>
+  <wpt lat="50.150163" lon="16.540089">
+    <ele>660</ele>
+    <name>Zamberske lesy</name>
+    <link href="https://mapa-turystyczna.pl/node/1960">
+      <text>Zamberske lesy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.166893" lon="16.50949">
+    <ele>667</ele>
+    <name>Pod Zadnim vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/1961">
+      <text>Pod Zadnim vrchem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamberske lesy - Pod Zadnim vrchem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1501626,16.5400886;50.15909733316414,16.521914000000002;50.166893,16.50949">
+    <text>Zamberske lesy - Pod Zadnim vrchem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1501626" lon="16.5400886">
+      <ele>660</ele>
+      <time>2022-01-17T21:20:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1533662" lon="16.5313125">
+      <ele>661</ele>
+      <time>2022-01-17T21:32:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1538543" lon="16.5311193">
+      <ele>661</ele>
+      <time>2022-01-17T21:33:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1544729" lon="16.5311944">
+      <ele>665</ele>
+      <time>2022-01-17T21:34:26Z</time>
+    </trkpt>
+    <trkpt lat="50.155181" lon="16.5307492">
+      <ele>662</ele>
+      <time>2022-01-17T21:35:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1557928" lon="16.5300465">
+      <ele>665</ele>
+      <time>2022-01-17T21:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1562774" lon="16.5297031">
+      <ele>668</ele>
+      <time>2022-01-17T21:38:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1619171" lon="16.5141249">
+      <ele>641</ele>
+      <time>2022-01-17T21:59:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1625632" lon="16.5135241">
+      <ele>637</ele>
+      <time>2022-01-17T22:00:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1633192" lon="16.5131378">
+      <ele>640</ele>
+      <time>2022-01-17T22:02:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1652711" lon="16.5114212">
+      <ele>656</ele>
+      <time>2022-01-17T22:06:33Z</time>
+    </trkpt>
+    <trkpt lat="50.166893" lon="16.50949">
+      <ele>667</ele>
+      <time>2022-01-17T22:10:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:01Z</time>
+    <bounds maxlat="50.2294183" maxlon="16.5050483" minlat="50.2195889" minlon="16.4909077"/>
+  </metadata>
+  <wpt lat="50.229418" lon="16.490908">
+    <ele>927</ele>
+    <name>Mezivrsi</name>
+    <link href="https://mapa-turystyczna.pl/node/1974">
+      <text>Mezivrsi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.219589" lon="16.504962">
+    <ele>947</ele>
+    <name>U Anenskeho vrchu</name>
+    <link href="https://mapa-turystyczna.pl/node/1971">
+      <text>U Anenskeho vrchu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mezivrsi - U Anenskeho vrchu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2294183,16.4909077;50.225368700031595,16.498530500000015;50.2195889,16.5049624">
+    <text>Mezivrsi - U Anenskeho vrchu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2294183" lon="16.4909077">
+      <ele>927</ele>
+      <time>2022-01-17T21:20:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2275377" lon="16.4952207">
+      <ele>921</ele>
+      <time>2022-01-17T21:26:54Z</time>
+    </trkpt>
+    <trkpt lat="50.226261" lon="16.4959717">
+      <ele>929</ele>
+      <time>2022-01-17T21:29:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2257119" lon="16.4967227">
+      <ele>934</ele>
+      <time>2022-01-17T21:31:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2254236" lon="16.4974201">
+      <ele>938</ele>
+      <time>2022-01-17T21:32:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2253138" lon="16.4996409">
+      <ele>944</ele>
+      <time>2022-01-17T21:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2214012" lon="16.5050483">
+      <ele>938</ele>
+      <time>2022-01-17T21:46:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2208932" lon="16.504662">
+      <ele>940</ele>
+      <time>2022-01-17T21:47:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2203097" lon="16.5045118">
+      <ele>943</ele>
+      <time>2022-01-17T21:48:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2195889" lon="16.5049624">
+      <ele>947</ele>
+      <time>2022-01-17T21:50:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

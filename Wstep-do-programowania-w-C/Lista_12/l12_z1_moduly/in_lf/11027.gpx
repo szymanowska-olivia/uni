@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:07Z</time>
+    <bounds maxlat="50.0655263" maxlon="16.8090139" minlat="50.0630937" minlon="16.8005606"/>
+  </metadata>
+  <wpt lat="50.063662" lon="16.800561">
+    <ele>775</ele>
+    <name>Rozcestnik</name>
+    <link href="https://mapa-turystyczna.pl/node/7758">
+      <text>Rozcestnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.065526" lon="16.809014">
+    <ele>841</ele>
+    <name>Polesi Jerab</name>
+    <link href="https://mapa-turystyczna.pl/node/7764">
+      <text>Polesi Jerab</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozcestnik - Polesi Jerab</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.063662,16.8005606;50.06331795052419,16.804655500000013;50.0655263,16.8090139">
+    <text>Rozcestnik - Polesi Jerab</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.063662" lon="16.8005606">
+      <ele>775</ele>
+      <time>2022-01-17T23:27:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0631454" lon="16.8022774">
+      <ele>785</ele>
+      <time>2022-01-17T23:30:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0630937" lon="16.8027441">
+      <ele>788</ele>
+      <time>2022-01-17T23:31:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0635422" lon="16.8065669">
+      <ele>806</ele>
+      <time>2022-01-17T23:38:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0644518" lon="16.8069791">
+      <ele>813</ele>
+      <time>2022-01-17T23:41:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0649175" lon="16.8076484">
+      <ele>824</ele>
+      <time>2022-01-17T23:43:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0649839" lon="16.808389">
+      <ele>830</ele>
+      <time>2022-01-17T23:44:57Z</time>
+    </trkpt>
+    <trkpt lat="50.0651182" lon="16.8088235">
+      <ele>836</ele>
+      <time>2022-01-17T23:45:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0653223" lon="16.8089026">
+      <ele>838</ele>
+      <time>2022-01-17T23:46:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0655263" lon="16.8090139">
+      <ele>841</ele>
+      <time>2022-01-17T23:47:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

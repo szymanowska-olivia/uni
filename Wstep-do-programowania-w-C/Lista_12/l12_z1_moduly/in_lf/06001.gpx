@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:21Z</time>
+    <bounds maxlat="50.9439304" maxlon="15.8849524" minlat="50.9429603" minlon="15.8840445"/>
+  </metadata>
+  <wpt lat="50.94296" lon="15.884044">
+    <ele>711</ele>
+    <name>Pod Skopcem</name>
+    <link href="https://mapa-turystyczna.pl/node/4118">
+      <text>Pod Skopcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.94393" lon="15.88472">
+    <ele>719</ele>
+    <name>Skopiec</name>
+    <link href="https://mapa-turystyczna.pl/node/4119">
+      <text>Skopiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Skopcem - Skopiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9429603,15.8840445;50.943471850369484,15.884643950000026;50.9439304,15.8847204">
+    <text>Pod Skopcem - Skopiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9429603" lon="15.8840445">
+      <ele>711</ele>
+      <time>2022-01-17T22:04:21Z</time>
+    </trkpt>
+    <trkpt lat="50.9432865" lon="15.8844066">
+      <ele>714</ele>
+      <time>2022-01-17T22:05:19Z</time>
+    </trkpt>
+    <trkpt lat="50.9436572" lon="15.8848813">
+      <ele>718</ele>
+      <time>2022-01-17T22:06:28Z</time>
+    </trkpt>
+    <trkpt lat="50.9437282" lon="15.8849376">
+      <ele>719</ele>
+      <time>2022-01-17T22:06:39Z</time>
+    </trkpt>
+    <trkpt lat="50.943832" lon="15.8849524">
+      <ele>720</ele>
+      <time>2022-01-17T22:06:54Z</time>
+    </trkpt>
+    <trkpt lat="50.9438918" lon="15.884884">
+      <ele>720</ele>
+      <time>2022-01-17T22:07:05Z</time>
+    </trkpt>
+    <trkpt lat="50.9439304" lon="15.8847204">
+      <ele>719</ele>
+      <time>2022-01-17T22:07:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

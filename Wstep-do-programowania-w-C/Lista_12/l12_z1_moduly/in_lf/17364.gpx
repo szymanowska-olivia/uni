@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:13Z</time>
+    <bounds maxlat="52.255078" maxlon="16.8310926" minlat="52.2534388" minlon="16.8271165"/>
+  </metadata>
+  <wpt lat="52.253439" lon="16.831093">
+    <ele>120</ele>
+    <name>Pozegowo, ul. Skrzynecka</name>
+    <link href="https://mapa-turystyczna.pl/node/10244">
+      <text>Pozegowo, ul. Skrzynecka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.255078" lon="16.827116">
+    <ele>115</ele>
+    <name>Pozegowo, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11807">
+      <text>Pozegowo, lacznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pozegowo, ul. Skrzynecka - Pozegowo, lacznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2534388,16.8310926;52.25408205466413,16.82966410000001;52.255078,16.8271165">
+    <text>Pozegowo, ul. Skrzynecka - Pozegowo, lacznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2534388" lon="16.8310926">
+      <ele>120</ele>
+      <time>2022-01-18T01:12:13Z</time>
+    </trkpt>
+    <trkpt lat="52.2547253" lon="16.8282356">
+      <ele>118</ele>
+      <time>2022-01-18T01:15:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2549223" lon="16.8276504">
+      <ele>116</ele>
+      <time>2022-01-18T01:16:36Z</time>
+    </trkpt>
+    <trkpt lat="52.255078" lon="16.8271165">
+      <ele>115</ele>
+      <time>2022-01-18T01:17:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

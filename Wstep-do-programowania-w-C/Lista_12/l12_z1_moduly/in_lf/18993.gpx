@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:41Z</time>
+    <bounds maxlat="51.4453928" maxlon="23.123698" minlat="51.4451863" minlon="23.1222817"/>
+  </metadata>
+  <wpt lat="51.445393" lon="23.123698">
+    <ele>175</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12863">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.445186" lon="23.122282">
+    <ele>172</ele>
+    <name>Poczatek sciezki "Dab Dominik", parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12843">
+      <text>Poczatek sciezki "Dab Dominik", parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Poczatek sciezki &quot;Dab Dominik&quot;, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4453928,23.123698;51.44533165000006,23.12295729999999;51.4451863,23.1222817">
+    <text>Rozejscie szlakow - Poczatek sciezki &quot;Dab Dominik&quot;, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4453928" lon="23.123698">
+      <ele>175</ele>
+      <time>2022-01-18T01:40:41Z</time>
+    </trkpt>
+    <trkpt lat="51.4453298" lon="23.1234148">
+      <ele>175</ele>
+      <time>2022-01-18T01:41:05Z</time>
+    </trkpt>
+    <trkpt lat="51.4453293" lon="23.1230978">
+      <ele>175</ele>
+      <time>2022-01-18T01:41:31Z</time>
+    </trkpt>
+    <trkpt lat="51.445334" lon="23.1228168">
+      <ele>174</ele>
+      <time>2022-01-18T01:41:54Z</time>
+    </trkpt>
+    <trkpt lat="51.4452635" lon="23.1225064">
+      <ele>173</ele>
+      <time>2022-01-18T01:42:20Z</time>
+    </trkpt>
+    <trkpt lat="51.4451863" lon="23.1222817">
+      <ele>172</ele>
+      <time>2022-01-18T01:42:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

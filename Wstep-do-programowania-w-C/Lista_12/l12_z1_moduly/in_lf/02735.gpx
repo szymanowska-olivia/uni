@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:13Z</time>
+    <bounds maxlat="50.1838648" maxlon="16.490221" minlat="50.1676764" minlon="16.4737308"/>
+  </metadata>
+  <wpt lat="50.183865" lon="16.490221">
+    <ele>709</ele>
+    <name>Horni Rokytnice</name>
+    <link href="https://mapa-turystyczna.pl/node/1964">
+      <text>Horni Rokytnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.167676" lon="16.473731">
+    <ele>616</ele>
+    <name>Nad Rokytnici</name>
+    <link href="https://mapa-turystyczna.pl/node/1965">
+      <text>Nad Rokytnici</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Rokytnice - Nad Rokytnici</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1838648,16.490221;50.17553420705554,16.4812732;50.1676764,16.4737308">
+    <text>Horni Rokytnice - Nad Rokytnici</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1838648" lon="16.490221">
+      <ele>709</ele>
+      <time>2022-01-17T21:20:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1833152" lon="16.4886761">
+      <ele>702</ele>
+      <time>2022-01-17T21:22:13Z</time>
+    </trkpt>
+    <trkpt lat="50.182161" lon="16.4877963">
+      <ele>699</ele>
+      <time>2022-01-17T21:24:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1805465" lon="16.484921">
+      <ele>684</ele>
+      <time>2022-01-17T21:28:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1799075" lon="16.48417">
+      <ele>677</ele>
+      <time>2022-01-17T21:30:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1790143" lon="16.48417">
+      <ele>668</ele>
+      <time>2022-01-17T21:31:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1773928" lon="16.4833546">
+      <ele>655</ele>
+      <time>2022-01-17T21:34:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1763553" lon="16.4819384">
+      <ele>650</ele>
+      <time>2022-01-17T21:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1747131" lon="16.480608">
+      <ele>651</ele>
+      <time>2022-01-17T21:40:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1715316" lon="16.4779204">
+      <ele>653</ele>
+      <time>2022-01-17T21:46:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1676764" lon="16.4737308">
+      <ele>616</ele>
+      <time>2022-01-17T21:55:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

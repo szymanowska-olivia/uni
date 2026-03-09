@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:40Z</time>
+    <bounds maxlat="49.188265" maxlon="20.233438" minlat="49.187291" minlon="20.232249"/>
+  </metadata>
+  <wpt lat="49.187291" lon="20.232952">
+    <ele>1764</ele>
+    <name>Skalnate pleso, stacja kolejki</name>
+    <link href="https://mapa-turystyczna.pl/node/12780">
+      <text>Skalnate pleso, stacja kolejki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.188265" lon="20.233438">
+    <ele>1752</ele>
+    <name>Skalnate pleso</name>
+    <link href="https://mapa-turystyczna.pl/node/1586">
+      <text>Skalnate pleso</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalnate pleso, stacja kolejki - Skalnate pleso</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.187291,20.232952;49.187815000000356,20.232508999999997;49.188265,20.233438">
+    <text>Skalnate pleso, stacja kolejki - Skalnate pleso</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.187291" lon="20.232952">
+      <ele>1764</ele>
+      <time>2022-01-18T01:38:40Z</time>
+    </trkpt>
+    <trkpt lat="49.187329" lon="20.232834">
+      <ele>1764</ele>
+      <time>2022-01-18T01:38:54Z</time>
+    </trkpt>
+    <trkpt lat="49.187421" lon="20.232548">
+      <ele>1762</ele>
+      <time>2022-01-18T01:39:27Z</time>
+    </trkpt>
+    <trkpt lat="49.187517" lon="20.232249">
+      <ele>1761</ele>
+      <time>2022-01-18T01:40:03Z</time>
+    </trkpt>
+    <trkpt lat="49.187809" lon="20.232373">
+      <ele>1759</ele>
+      <time>2022-01-18T01:40:51Z</time>
+    </trkpt>
+    <trkpt lat="49.187821" lon="20.232645">
+      <ele>1760</ele>
+      <time>2022-01-18T01:41:20Z</time>
+    </trkpt>
+    <trkpt lat="49.187736" lon="20.232963">
+      <ele>1764</ele>
+      <time>2022-01-18T01:41:57Z</time>
+    </trkpt>
+    <trkpt lat="49.187859" lon="20.233075">
+      <ele>1761</ele>
+      <time>2022-01-18T01:42:20Z</time>
+    </trkpt>
+    <trkpt lat="49.188033" lon="20.233205">
+      <ele>1756</ele>
+      <time>2022-01-18T01:42:52Z</time>
+    </trkpt>
+    <trkpt lat="49.188257" lon="20.233366">
+      <ele>1752</ele>
+      <time>2022-01-18T01:43:32Z</time>
+    </trkpt>
+    <trkpt lat="49.188265" lon="20.233438">
+      <ele>1752</ele>
+      <time>2022-01-18T01:43:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

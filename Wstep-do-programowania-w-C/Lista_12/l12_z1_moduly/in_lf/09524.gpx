@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:06Z</time>
+    <bounds maxlat="48.9137146" maxlon="20.1866698" minlat="48.9128808" minlon="20.1864767"/>
+  </metadata>
+  <wpt lat="48.913715" lon="20.186659">
+    <ele>1439</ele>
+    <name>Smrecinske sedlo, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6710">
+      <text>Smrecinske sedlo, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.912881" lon="20.186477">
+    <ele>1442</ele>
+    <name>Smrecinske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6527">
+      <text>Smrecinske sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smrecinske sedlo, razc. - Smrecinske sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9137146,20.1866591;48.913263300044946,20.18666445000001;48.9128808,20.1864767">
+    <text>Smrecinske sedlo, razc. - Smrecinske sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9137146" lon="20.1866591">
+      <ele>1439</ele>
+      <time>2022-01-17T22:59:06Z</time>
+    </trkpt>
+    <trkpt lat="48.9135524" lon="20.1866323">
+      <ele>1439</ele>
+      <time>2022-01-17T22:59:29Z</time>
+    </trkpt>
+    <trkpt lat="48.9133303" lon="20.1866698">
+      <ele>1440</ele>
+      <time>2022-01-17T23:00:00Z</time>
+    </trkpt>
+    <trkpt lat="48.9131963" lon="20.1866591">
+      <ele>1440</ele>
+      <time>2022-01-17T23:00:18Z</time>
+    </trkpt>
+    <trkpt lat="48.91302" lon="20.1865116">
+      <ele>1441</ele>
+      <time>2022-01-17T23:00:46Z</time>
+    </trkpt>
+    <trkpt lat="48.9128808" lon="20.1864767">
+      <ele>1442</ele>
+      <time>2022-01-17T23:01:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

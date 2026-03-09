@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:37Z</time>
+    <bounds maxlat="51.3432999" maxlon="16.5577376" minlat="51.3422846" minlon="16.5569616"/>
+  </metadata>
+  <wpt lat="51.3433" lon="16.557738">
+    <ele>107</ele>
+    <name>Rudno, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10076">
+      <text>Rudno, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.342285" lon="16.556962">
+    <ele>105</ele>
+    <name>Rudno</name>
+    <link href="https://mapa-turystyczna.pl/node/10064">
+      <text>Rudno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rudno, rozejscie szlakow - Rudno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3432999,16.5577376;51.34303290077773,16.55753129999999;51.3422846,16.5569616">
+    <text>Rudno, rozejscie szlakow - Rudno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3432999" lon="16.5577376">
+      <ele>107</ele>
+      <time>2022-01-18T00:27:37Z</time>
+    </trkpt>
+    <trkpt lat="51.3427659" lon="16.557325">
+      <ele>106</ele>
+      <time>2022-01-18T00:28:40Z</time>
+    </trkpt>
+    <trkpt lat="51.3425716" lon="16.5572392">
+      <ele>105</ele>
+      <time>2022-01-18T00:29:01Z</time>
+    </trkpt>
+    <trkpt lat="51.3422846" lon="16.5569616">
+      <ele>105</ele>
+      <time>2022-01-18T00:29:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

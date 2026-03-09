@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:05Z</time>
+    <bounds maxlat="50.5969888" maxlon="16.8146771" minlat="50.5955075" minlon="16.8127084"/>
+  </metadata>
+  <wpt lat="50.596989" lon="16.812708">
+    <ele>285</ele>
+    <name>Zabkowice Slaskie, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2223">
+      <text>Zabkowice Slaskie, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="50.595736" lon="16.814677">
+    <ele>283</ele>
+    <name>Zabkowice Slaskie, Zeromskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/2831">
+      <text>Zabkowice Slaskie, Zeromskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabkowice Slaskie, PKP - Zabkowice Slaskie, Zeromskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5969888,16.8127084;50.596248155827155,16.813348100000017;50.5957356,16.8146771">
+    <text>Zabkowice Slaskie, PKP - Zabkowice Slaskie, Zeromskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5969888" lon="16.8127084">
+      <ele>285</ele>
+      <time>2022-01-17T21:37:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5955075" lon="16.8139878">
+      <ele>282</ele>
+      <time>2022-01-17T21:40:57Z</time>
+    </trkpt>
+    <trkpt lat="50.5957356" lon="16.8146771">
+      <ele>283</ele>
+      <time>2022-01-17T21:42:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

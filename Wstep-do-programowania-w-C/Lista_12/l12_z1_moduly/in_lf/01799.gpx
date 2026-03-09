@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:19Z</time>
+    <bounds maxlat="50.7625129" maxlon="15.6350494" minlat="50.7590529" minlon="15.6312811"/>
+  </metadata>
+  <wpt lat="50.762513" lon="15.635049">
+    <ele>1198</ele>
+    <name>Spindlerova bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/6223">
+      <text>Spindlerova bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.759053" lon="15.631281">
+    <ele>1158</ele>
+    <name>Chaty pod Przelecza Karkonoska</name>
+    <link href="https://mapa-turystyczna.pl/node/1109">
+      <text>Chaty pod Przelecza Karkonoska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spindlerova bouda - Chaty pod Przelecza Karkonoska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7625129,15.6350494;50.76070955017301,15.633363200000012;50.7590529,15.6312811">
+    <text>Spindlerova bouda - Chaty pod Przelecza Karkonoska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7625129" lon="15.6350494">
+      <ele>1198</ele>
+      <time>2022-01-17T21:06:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7619935" lon="15.6350307">
+      <ele>1199</ele>
+      <time>2022-01-17T21:06:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7608368" lon="15.6335161">
+      <ele>1181</ele>
+      <time>2022-01-17T21:08:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7605823" lon="15.6332103">
+      <ele>1176</ele>
+      <time>2022-01-17T21:09:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7600903" lon="15.6325773">
+      <ele>1170</ele>
+      <time>2022-01-17T21:09:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7594489" lon="15.6316761">
+      <ele>1163</ele>
+      <time>2022-01-17T21:10:45Z</time>
+    </trkpt>
+    <trkpt lat="50.75932" lon="15.6314669">
+      <ele>1162</ele>
+      <time>2022-01-17T21:10:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7592283" lon="15.6313435">
+      <ele>1161</ele>
+      <time>2022-01-17T21:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7591537" lon="15.6312898">
+      <ele>1160</ele>
+      <time>2022-01-17T21:11:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7590529" lon="15.6312811">
+      <ele>1158</ele>
+      <time>2022-01-17T21:11:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

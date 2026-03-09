@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:54:36Z</time>
+    <bounds maxlat="48.935765" maxlon="19.4668293" minlat="48.9327731" minlon="19.4625217"/>
+  </metadata>
+  <wpt lat="48.932773" lon="19.462522">
+    <ele>1703</ele>
+    <name>Sedlo Durkovej</name>
+    <link href="https://mapa-turystyczna.pl/node/6692">
+      <text>Sedlo Durkovej</text>
+    </link>
+  </wpt>
+  <wpt lat="48.935765" lon="19.466829">
+    <ele>1730</ele>
+    <name>Nad sedlom Durkovej</name>
+    <link href="https://mapa-turystyczna.pl/node/6667">
+      <text>Nad sedlom Durkovej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Durkovej - Nad sedlom Durkovej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9327731,19.4625217;48.934770800405865,19.464387799999965;48.935765,19.4668293">
+    <text>Sedlo Durkovej - Nad sedlom Durkovej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9327731" lon="19.4625217">
+      <ele>1703</ele>
+      <time>2022-01-17T22:54:36Z</time>
+    </trkpt>
+    <trkpt lat="48.9334832" lon="19.4631037">
+      <ele>1705</ele>
+      <time>2022-01-17T22:56:30Z</time>
+    </trkpt>
+    <trkpt lat="48.9337337" lon="19.4633186">
+      <ele>1705</ele>
+      <time>2022-01-17T22:57:10Z</time>
+    </trkpt>
+    <trkpt lat="48.9340687" lon="19.4636408">
+      <ele>1704</ele>
+      <time>2022-01-17T22:58:06Z</time>
+    </trkpt>
+    <trkpt lat="48.9345695" lon="19.4641243">
+      <ele>1707</ele>
+      <time>2022-01-17T22:59:29Z</time>
+    </trkpt>
+    <trkpt lat="48.9349721" lon="19.4646513">
+      <ele>1714</ele>
+      <time>2022-01-17T23:00:45Z</time>
+    </trkpt>
+    <trkpt lat="48.9352805" lon="19.4656384">
+      <ele>1720</ele>
+      <time>2022-01-17T23:02:26Z</time>
+    </trkpt>
+    <trkpt lat="48.935765" lon="19.4668293">
+      <ele>1730</ele>
+      <time>2022-01-17T23:04:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

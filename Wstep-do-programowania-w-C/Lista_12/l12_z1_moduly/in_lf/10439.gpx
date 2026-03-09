@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:01Z</time>
+    <bounds maxlat="50.8305892" maxlon="16.3218387" minlat="50.8301875" minlon="16.3111889"/>
+  </metadata>
+  <wpt lat="50.830589" lon="16.321839">
+    <ele>363</ele>
+    <name>Lubiechow, ul. Lisia</name>
+    <link href="https://mapa-turystyczna.pl/node/7325">
+      <text>Lubiechow, ul. Lisia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.830289" lon="16.311189">
+    <ele>391</ele>
+    <name>Lubiechow, przy Palmiarni</name>
+    <link href="https://mapa-turystyczna.pl/node/2583">
+      <text>Lubiechow, przy Palmiarni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubiechow, ul. Lisia - Lubiechow, przy Palmiarni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8305892,16.3218387;50.8302383500277,16.315974000000022;50.8302892,16.3111889">
+    <text>Lubiechow, ul. Lisia - Lubiechow, przy Palmiarni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8305892" lon="16.3218387">
+      <ele>363</ele>
+      <time>2022-01-17T23:16:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8305264" lon="16.3215959">
+      <ele>364</ele>
+      <time>2022-01-17T23:16:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8301875" lon="16.3171113">
+      <ele>382</ele>
+      <time>2022-01-17T23:22:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8302892" lon="16.3148367">
+      <ele>390</ele>
+      <time>2022-01-17T23:25:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8302282" lon="16.3137102">
+      <ele>392</ele>
+      <time>2022-01-17T23:27:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8302892" lon="16.3111889">
+      <ele>391</ele>
+      <time>2022-01-17T23:31:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

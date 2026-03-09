@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:13Z</time>
+    <bounds maxlat="49.1480153" maxlon="18.9509225" minlat="49.1479342" minlon="18.9505978"/>
+  </metadata>
+  <wpt lat="49.147934" lon="18.950598">
+    <ele>1136</ele>
+    <name>Chata pod Klacianskou Magurou, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/13371">
+      <text>Chata pod Klacianskou Magurou, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.148015" lon="18.950923">
+    <ele>1140</ele>
+    <name>Chata pod Klacianskou Magurou</name>
+    <link href="https://mapa-turystyczna.pl/node/5090">
+      <text>Chata pod Klacianskou Magurou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata pod Klacianskou Magurou, razc. - Chata pod Klacianskou Magurou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1479342,18.9505978;49.14797475001657,18.95076014999999;49.1480153,18.9509225">
+    <text>Chata pod Klacianskou Magurou, razc. - Chata pod Klacianskou Magurou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1479342" lon="18.9505978">
+      <ele>1136</ele>
+      <time>2022-01-18T01:55:13Z</time>
+    </trkpt>
+    <trkpt lat="49.1480153" lon="18.9509225">
+      <ele>1140</ele>
+      <time>2022-01-18T01:56:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

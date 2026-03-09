@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:31Z</time>
+    <bounds maxlat="50.7095583" maxlon="16.3246446" minlat="50.7093398" minlon="16.320721"/>
+  </metadata>
+  <wpt lat="50.709558" lon="16.320721">
+    <ele>713</ele>
+    <name>Pod Jalowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/9404">
+      <text>Pod Jalowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.709387" lon="16.324645">
+    <ele>751</ele>
+    <name>Jalowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/9405">
+      <text>Jalowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jalowcem - Jalowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7095583,16.320721;50.709339800000016,16.32247200000002;50.7093874,16.3246446">
+    <text>Pod Jalowcem - Jalowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7095583" lon="16.320721">
+      <ele>713</ele>
+      <time>2022-01-18T00:10:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7093398" lon="16.3221555">
+      <ele>730</ele>
+      <time>2022-01-18T00:14:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7093398" lon="16.3227885">
+      <ele>738</ele>
+      <time>2022-01-18T00:15:51Z</time>
+    </trkpt>
+    <trkpt lat="50.709401" lon="16.3244944">
+      <ele>752</ele>
+      <time>2022-01-18T00:20:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7093874" lon="16.3246446">
+      <ele>751</ele>
+      <time>2022-01-18T00:20:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

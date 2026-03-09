@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:35Z</time>
+    <bounds maxlat="53.9316689" maxlon="14.5376436" minlat="53.9283544" minlon="14.5335366"/>
+  </metadata>
+  <wpt lat="53.928354" lon="14.533537">
+    <ele>8</ele>
+    <name>Warnowo, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8579">
+      <text>Warnowo, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.931669" lon="14.536664">
+    <ele>13</ele>
+    <name>Warnowo, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8580">
+      <text>Warnowo, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warnowo, stacja kolejowa - Warnowo, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9283544,14.5335366;53.92917390055275,14.537584599999999;53.9316689,14.536664">
+    <text>Warnowo, stacja kolejowa - Warnowo, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9283544" lon="14.5335366">
+      <ele>8</ele>
+      <time>2022-01-17T23:50:35Z</time>
+    </trkpt>
+    <trkpt lat="53.9285674" lon="14.5358734">
+      <ele>8</ele>
+      <time>2022-01-17T23:53:01Z</time>
+    </trkpt>
+    <trkpt lat="53.928757" lon="14.5368497">
+      <ele>7</ele>
+      <time>2022-01-17T23:54:05Z</time>
+    </trkpt>
+    <trkpt lat="53.9289591" lon="14.5376436">
+      <ele>6</ele>
+      <time>2022-01-17T23:54:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9293887" lon="14.5375256">
+      <ele>9</ele>
+      <time>2022-01-17T23:55:44Z</time>
+    </trkpt>
+    <trkpt lat="53.9295466" lon="14.5373754">
+      <ele>10</ele>
+      <time>2022-01-17T23:56:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9297803" lon="14.5370214">
+      <ele>12</ele>
+      <time>2022-01-17T23:56:36Z</time>
+    </trkpt>
+    <trkpt lat="53.9300456" lon="14.5364635">
+      <ele>12</ele>
+      <time>2022-01-17T23:57:21Z</time>
+    </trkpt>
+    <trkpt lat="53.9302541" lon="14.5360772">
+      <ele>12</ele>
+      <time>2022-01-17T23:57:53Z</time>
+    </trkpt>
+    <trkpt lat="53.9304752" lon="14.535927">
+      <ele>15</ele>
+      <time>2022-01-17T23:58:18Z</time>
+    </trkpt>
+    <trkpt lat="53.9314416" lon="14.5363133">
+      <ele>13</ele>
+      <time>2022-01-18T00:00:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9316689" lon="14.536664">
+      <ele>13</ele>
+      <time>2022-01-18T00:00:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

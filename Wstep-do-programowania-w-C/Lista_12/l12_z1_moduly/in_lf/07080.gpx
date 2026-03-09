@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:25Z</time>
+    <bounds maxlat="49.5305444" maxlon="21.7181253" minlat="49.5278638" minlon="21.7175567"/>
+  </metadata>
+  <wpt lat="49.527864" lon="21.717569">
+    <ele>662</ele>
+    <name>Pod Cergowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4824">
+      <text>Pod Cergowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.530544" lon="21.717782">
+    <ele>716</ele>
+    <name>Cergowa</name>
+    <link href="https://mapa-turystyczna.pl/node/435">
+      <text>Cergowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Cergowa - Cergowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5278638,21.7175693;49.5293706521273,21.71781690000003;49.5305444,21.7177821">
+    <text>Pod Cergowa - Cergowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5278638" lon="21.7175693">
+      <ele>662</ele>
+      <time>2022-01-17T22:17:25Z</time>
+    </trkpt>
+    <trkpt lat="49.52791" lon="21.7177795">
+      <ele>665</ele>
+      <time>2022-01-17T22:17:54Z</time>
+    </trkpt>
+    <trkpt lat="49.5279657" lon="21.7180263">
+      <ele>666</ele>
+      <time>2022-01-17T22:18:27Z</time>
+    </trkpt>
+    <trkpt lat="49.5282152" lon="21.7181253">
+      <ele>669</ele>
+      <time>2022-01-17T22:19:19Z</time>
+    </trkpt>
+    <trkpt lat="49.528476" lon="21.7179644">
+      <ele>676</ele>
+      <time>2022-01-17T22:20:15Z</time>
+    </trkpt>
+    <trkpt lat="49.5289146" lon="21.7180771">
+      <ele>688</ele>
+      <time>2022-01-17T22:21:45Z</time>
+    </trkpt>
+    <trkpt lat="49.5298267" lon="21.7175567">
+      <ele>705</ele>
+      <time>2022-01-17T22:24:59Z</time>
+    </trkpt>
+    <trkpt lat="49.5305444" lon="21.7177821">
+      <ele>716</ele>
+      <time>2022-01-17T22:27:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

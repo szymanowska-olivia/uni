@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:12Z</time>
+    <bounds maxlat="50.2791348" maxlon="17.4453021" minlat="50.2783532" minlon="17.4440414"/>
+  </metadata>
+  <wpt lat="50.279135" lon="17.444041">
+    <ele>484</ele>
+    <name>Piekielko</name>
+    <link href="https://mapa-turystyczna.pl/node/2630">
+      <text>Piekielko</text>
+    </link>
+  </wpt>
+  <wpt lat="50.278353" lon="17.445302">
+    <ele>473</ele>
+    <name>Rozdroze pod Piekielkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2679">
+      <text>Rozdroze pod Piekielkiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piekielko - Rozdroze pod Piekielkiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2791348,17.4440414;50.27881110002532,17.444915900000012;50.2783532,17.4453021">
+    <text>Piekielko - Rozdroze pod Piekielkiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2791348" lon="17.4440414">
+      <ele>484</ele>
+      <time>2022-01-17T21:35:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2789471" lon="17.4444711">
+      <ele>481</ele>
+      <time>2022-01-17T21:35:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2788602" lon="17.4447599">
+      <ele>479</ele>
+      <time>2022-01-17T21:36:06Z</time>
+    </trkpt>
+    <trkpt lat="50.278762" lon="17.4450719">
+      <ele>476</ele>
+      <time>2022-01-17T21:36:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2785924" lon="17.4451887">
+      <ele>475</ele>
+      <time>2022-01-17T21:36:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2783532" lon="17.4453021">
+      <ele>473</ele>
+      <time>2022-01-17T21:37:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

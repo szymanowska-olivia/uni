@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:25Z</time>
+    <bounds maxlat="50.6158872" maxlon="16.1245608" minlat="50.6156557" minlon="16.1227691"/>
+  </metadata>
+  <wpt lat="50.615656" lon="16.122769">
+    <ele>512</ele>
+    <name>Adrspasske skaly, vstup</name>
+    <link href="https://mapa-turystyczna.pl/node/6047">
+      <text>Adrspasske skaly, vstup</text>
+    </link>
+  </wpt>
+  <wpt lat="50.615887" lon="16.124561">
+    <ele>509</ele>
+    <name>Adrspach, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6046">
+      <text>Adrspach, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Adrspasske skaly, vstup - Adrspach, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6156557,16.1227691;50.61575015009485,16.123259949999994;50.6158872,16.1245608">
+    <text>Adrspasske skaly, vstup - Adrspach, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6156557" lon="16.1227691">
+      <ele>512</ele>
+      <time>2022-01-17T22:43:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6158446" lon="16.1237508">
+      <ele>511</ele>
+      <time>2022-01-17T22:44:32Z</time>
+    </trkpt>
+    <trkpt lat="50.615831" lon="16.1242712">
+      <ele>510</ele>
+      <time>2022-01-17T22:45:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6158872" lon="16.1245608">
+      <ele>509</ele>
+      <time>2022-01-17T22:45:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

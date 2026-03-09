@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:26Z</time>
+    <bounds maxlat="51.39965" maxlon="16.2062804" minlat="51.3981139" minlon="16.204547"/>
+  </metadata>
+  <wpt lat="51.398114" lon="16.20628">
+    <ele>130</ele>
+    <name>Lubin, Park Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10124">
+      <text>Lubin, Park Pilsudskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.39965" lon="16.204547">
+    <ele>128</ele>
+    <name>Lubin, ul. Armii Krajowej</name>
+    <link href="https://mapa-turystyczna.pl/node/13128">
+      <text>Lubin, ul. Armii Krajowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, Park Pilsudskiego - Lubin, ul. Armii Krajowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3981139,16.2062804;51.39878320018615,16.205542950000005;51.39965,16.204547">
+    <text>Lubin, Park Pilsudskiego - Lubin, ul. Armii Krajowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3981139" lon="16.2062804">
+      <ele>130</ele>
+      <time>2022-01-18T01:48:26Z</time>
+    </trkpt>
+    <trkpt lat="51.398318" lon="16.2058005">
+      <ele>129</ele>
+      <time>2022-01-18T01:49:11Z</time>
+    </trkpt>
+    <trkpt lat="51.3984284" lon="16.2052479">
+      <ele>129</ele>
+      <time>2022-01-18T01:49:57Z</time>
+    </trkpt>
+    <trkpt lat="51.3986527" lon="16.2054625">
+      <ele>128</ele>
+      <time>2022-01-18T01:50:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3989137" lon="16.2056234">
+      <ele>127</ele>
+      <time>2022-01-18T01:51:05Z</time>
+    </trkpt>
+    <trkpt lat="51.399051" lon="16.2053767">
+      <ele>127</ele>
+      <time>2022-01-18T01:51:31Z</time>
+    </trkpt>
+    <trkpt lat="51.3991142" lon="16.2052298">
+      <ele>127</ele>
+      <time>2022-01-18T01:51:45Z</time>
+    </trkpt>
+    <trkpt lat="51.3992648" lon="16.2053586">
+      <ele>127</ele>
+      <time>2022-01-18T01:52:06Z</time>
+    </trkpt>
+    <trkpt lat="51.39965" lon="16.204547">
+      <ele>128</ele>
+      <time>2022-01-18T01:53:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

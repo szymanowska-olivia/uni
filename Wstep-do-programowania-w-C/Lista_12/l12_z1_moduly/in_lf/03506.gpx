@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:55Z</time>
+    <bounds maxlat="49.264082" maxlon="19.87122" minlat="49.262625" minlon="19.870069"/>
+  </metadata>
+  <wpt lat="49.264082" lon="19.870069">
+    <ele>952</ele>
+    <name>Cudakowa Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/185">
+      <text>Cudakowa Polana</text>
+    </link>
+  </wpt>
+  <wpt lat="49.262625" lon="19.87122">
+    <ele>971</ele>
+    <name>Zahradziska</name>
+    <link href="https://mapa-turystyczna.pl/node/2471">
+      <text>Zahradziska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cudakowa Polana - Zahradziska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.264082,19.870069;49.2632175001888,19.870763499999978;49.262625,19.87122">
+    <text>Cudakowa Polana - Zahradziska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.264082" lon="19.870069">
+      <ele>952</ele>
+      <time>2022-01-17T21:30:55Z</time>
+    </trkpt>
+    <trkpt lat="49.263848" lon="19.870255">
+      <ele>958</ele>
+      <time>2022-01-17T21:31:41Z</time>
+    </trkpt>
+    <trkpt lat="49.263648" lon="19.870442">
+      <ele>961</ele>
+      <time>2022-01-17T21:32:21Z</time>
+    </trkpt>
+    <trkpt lat="49.263563" lon="19.87056">
+      <ele>963</ele>
+      <time>2022-01-17T21:32:40Z</time>
+    </trkpt>
+    <trkpt lat="49.26346" lon="19.870718">
+      <ele>964</ele>
+      <time>2022-01-17T21:33:05Z</time>
+    </trkpt>
+    <trkpt lat="49.263415" lon="19.870773">
+      <ele>964</ele>
+      <time>2022-01-17T21:33:15Z</time>
+    </trkpt>
+    <trkpt lat="49.263354" lon="19.8708">
+      <ele>963</ele>
+      <time>2022-01-17T21:33:26Z</time>
+    </trkpt>
+    <trkpt lat="49.263081" lon="19.870727">
+      <ele>963</ele>
+      <time>2022-01-17T21:34:12Z</time>
+    </trkpt>
+    <trkpt lat="49.262969" lon="19.870707">
+      <ele>964</ele>
+      <time>2022-01-17T21:34:32Z</time>
+    </trkpt>
+    <trkpt lat="49.262906" lon="19.870745">
+      <ele>965</ele>
+      <time>2022-01-17T21:34:43Z</time>
+    </trkpt>
+    <trkpt lat="49.262829" lon="19.870917">
+      <ele>967</ele>
+      <time>2022-01-17T21:35:07Z</time>
+    </trkpt>
+    <trkpt lat="49.26274" lon="19.871033">
+      <ele>969</ele>
+      <time>2022-01-17T21:35:26Z</time>
+    </trkpt>
+    <trkpt lat="49.262625" lon="19.87122">
+      <ele>971</ele>
+      <time>2022-01-17T21:35:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:13Z</time>
+    <bounds maxlat="53.9727298" maxlon="14.7383369" minlat="53.9553534" minlon="14.7211202"/>
+  </metadata>
+  <wpt lat="53.97273" lon="14.721913">
+    <ele>3</ele>
+    <name>Buniewice</name>
+    <link href="https://mapa-turystyczna.pl/node/8555">
+      <text>Buniewice</text>
+    </link>
+  </wpt>
+  <wpt lat="53.957224" lon="14.738337">
+    <ele>8</ele>
+    <name>Chrzaszczewo</name>
+    <link href="https://mapa-turystyczna.pl/node/8554">
+      <text>Chrzaszczewo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Buniewice - Chrzaszczewo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9727298,14.721913;53.95971952204793,14.727900099999971;53.9572241,14.7383369">
+    <text>Buniewice - Chrzaszczewo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9727298" lon="14.721913">
+      <ele>3</ele>
+      <time>2022-01-17T23:50:13Z</time>
+    </trkpt>
+    <trkpt lat="53.9705668" lon="14.7217403">
+      <ele>0</ele>
+      <time>2022-01-17T23:53:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9687832" lon="14.7215488">
+      <ele>4</ele>
+      <time>2022-01-17T23:56:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9647731" lon="14.7211202">
+      <ele>1</ele>
+      <time>2022-01-18T00:03:35Z</time>
+    </trkpt>
+    <trkpt lat="53.9643503" lon="14.7211309">
+      <ele>2</ele>
+      <time>2022-01-18T00:04:17Z</time>
+    </trkpt>
+    <trkpt lat="53.9640221" lon="14.7212597">
+      <ele>2</ele>
+      <time>2022-01-18T00:04:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9554165" lon="14.7345405">
+      <ele>7</ele>
+      <time>2022-01-18T00:24:20Z</time>
+    </trkpt>
+    <trkpt lat="53.9553534" lon="14.7347443">
+      <ele>6</ele>
+      <time>2022-01-18T00:24:34Z</time>
+    </trkpt>
+    <trkpt lat="53.9553534" lon="14.7368257">
+      <ele>6</ele>
+      <time>2022-01-18T00:26:37Z</time>
+    </trkpt>
+    <trkpt lat="53.9553913" lon="14.7371369">
+      <ele>6</ele>
+      <time>2022-01-18T00:26:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9572241" lon="14.7383369">
+      <ele>8</ele>
+      <time>2022-01-18T00:30:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

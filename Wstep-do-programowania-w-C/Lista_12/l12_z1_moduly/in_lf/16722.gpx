@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:48Z</time>
+    <bounds maxlat="52.4017791" maxlon="21.0962942" minlat="52.4013601" minlon="21.0961279"/>
+  </metadata>
+  <wpt lat="52.401779" lon="21.096128">
+    <ele>85</ele>
+    <name>Zamostki Wolczynskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11421">
+      <text>Zamostki Wolczynskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.40136" lon="21.096294">
+    <ele>88</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11422">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamostki Wolczynskie - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4017791,21.0961279;52.401569600497396,21.09621104999999;52.4013601,21.0962942">
+    <text>Zamostki Wolczynskie - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4017791" lon="21.0961279">
+      <ele>85</ele>
+      <time>2022-01-18T01:01:48Z</time>
+    </trkpt>
+    <trkpt lat="52.4013601" lon="21.0962942">
+      <ele>88</ele>
+      <time>2022-01-18T01:02:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

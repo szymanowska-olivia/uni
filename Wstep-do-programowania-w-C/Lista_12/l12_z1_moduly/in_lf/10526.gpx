@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:34Z</time>
+    <bounds maxlat="49.5107023" maxlon="18.4812637" minlat="49.5106875" minlon="18.4809324"/>
+  </metadata>
+  <wpt lat="49.510688" lon="18.480932">
+    <ele>587</ele>
+    <name>Tesinoky</name>
+    <link href="https://mapa-turystyczna.pl/node/7394">
+      <text>Tesinoky</text>
+    </link>
+  </wpt>
+  <wpt lat="49.510702" lon="18.481264">
+    <ele>588</ele>
+    <name>Tesinoky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7491">
+      <text>Tesinoky, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tesinoky - Tesinoky, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5106875,18.4809324;49.510693800000084,18.48109035000001;49.5107023,18.4812637">
+    <text>Tesinoky - Tesinoky, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5106875" lon="18.4809324">
+      <ele>587</ele>
+      <time>2022-01-17T23:17:34Z</time>
+    </trkpt>
+    <trkpt lat="49.5106962" lon="18.4810156">
+      <ele>587</ele>
+      <time>2022-01-17T23:17:49Z</time>
+    </trkpt>
+    <trkpt lat="49.5106914" lon="18.4811651">
+      <ele>587</ele>
+      <time>2022-01-17T23:18:16Z</time>
+    </trkpt>
+    <trkpt lat="49.5107023" lon="18.4812637">
+      <ele>588</ele>
+      <time>2022-01-17T23:18:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

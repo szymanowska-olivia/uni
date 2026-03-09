@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:48Z</time>
+    <bounds maxlat="50.8158129" maxlon="15.3524152" minlat="50.8151479" minlon="15.3515043"/>
+  </metadata>
+  <wpt lat="50.815813" lon="15.352415">
+    <ele>901</ele>
+    <name>Upolinova louka</name>
+    <link href="https://mapa-turystyczna.pl/node/13139">
+      <text>Upolinova louka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.815148" lon="15.351504">
+    <ele>895</ele>
+    <name>Langeho pamatnik</name>
+    <link href="https://mapa-turystyczna.pl/node/13137">
+      <text>Langeho pamatnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Upolinova louka - Langeho pamatnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8158129,15.3524152;50.815541750787105,15.352023600000008;50.8151479,15.3515043">
+    <text>Upolinova louka - Langeho pamatnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8158129" lon="15.3524152">
+      <ele>901</ele>
+      <time>2022-01-18T01:48:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8152706" lon="15.351632">
+      <ele>896</ele>
+      <time>2022-01-18T01:49:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8151479" lon="15.3515043">
+      <ele>895</ele>
+      <time>2022-01-18T01:49:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

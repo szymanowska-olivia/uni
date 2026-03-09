@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:57Z</time>
+    <bounds maxlat="50.2541559" maxlon="16.4006114" minlat="50.2536553" minlon="16.399954"/>
+  </metadata>
+  <wpt lat="50.253655" lon="16.399954">
+    <ele>771</ele>
+    <name>Zdobnicka Sec</name>
+    <link href="https://mapa-turystyczna.pl/node/1927">
+      <text>Zdobnicka Sec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.254156" lon="16.400611">
+    <ele>766</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13549">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zdobnicka Sec - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.25365533,16.39995399;50.25390560065745,16.400282699999973;50.2541559,16.4006114">
+    <text>Zdobnicka Sec - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2536553" lon="16.399954">
+      <ele>771</ele>
+      <time>2022-01-18T02:00:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2541559" lon="16.4006114">
+      <ele>766</ele>
+      <time>2022-01-18T02:01:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

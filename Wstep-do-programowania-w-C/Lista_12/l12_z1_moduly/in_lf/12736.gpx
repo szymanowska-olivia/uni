@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:19Z</time>
+    <bounds maxlat="50.7927702" maxlon="15.0952009" minlat="50.7909017" minlon="15.0946913"/>
+  </metadata>
+  <wpt lat="50.79277" lon="15.094985">
+    <ele>604</ele>
+    <name>Mlynaruv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/8751">
+      <text>Mlynaruv kriz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.790902" lon="15.09476">
+    <ele>592</ele>
+    <name>Mariina cesta, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8752">
+      <text>Mariina cesta, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mlynaruv kriz - Mariina cesta, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7927702,15.0949852;50.79174105005174,15.095160650000032;50.7909017,15.0947599">
+    <text>Mlynaruv kriz - Mariina cesta, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7927702" lon="15.0949852">
+      <ele>604</ele>
+      <time>2022-01-17T23:55:19Z</time>
+    </trkpt>
+    <trkpt lat="50.792564" lon="15.0950539">
+      <ele>606</ele>
+      <time>2022-01-17T23:55:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7918106" lon="15.0952009">
+      <ele>605</ele>
+      <time>2022-01-17T23:57:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7916715" lon="15.0951204">
+      <ele>603</ele>
+      <time>2022-01-17T23:58:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7915698" lon="15.0948468">
+      <ele>597</ele>
+      <time>2022-01-17T23:58:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7914477" lon="15.0947235">
+      <ele>594</ele>
+      <time>2022-01-17T23:58:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7912917" lon="15.0946913">
+      <ele>594</ele>
+      <time>2022-01-17T23:59:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7909017" lon="15.0947599">
+      <ele>592</ele>
+      <time>2022-01-18T00:00:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

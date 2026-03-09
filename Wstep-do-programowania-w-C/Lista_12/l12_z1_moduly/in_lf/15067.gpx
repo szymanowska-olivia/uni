@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:38Z</time>
+    <bounds maxlat="49.4187749" maxlon="21.4808129" minlat="49.4135834" minlon="21.4734545"/>
+  </metadata>
+  <wpt lat="49.413614" lon="21.473454">
+    <ele>629</ele>
+    <name>Roztocky les</name>
+    <link href="https://mapa-turystyczna.pl/node/9057">
+      <text>Roztocky les</text>
+    </link>
+  </wpt>
+  <wpt lat="49.418775" lon="21.480649">
+    <ele>559</ele>
+    <name>Nad Przelecza Kuchtowska</name>
+    <link href="https://mapa-turystyczna.pl/node/10272">
+      <text>Nad Przelecza Kuchtowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roztocky les - Nad Przelecza Kuchtowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4136137,21.4734545;49.41565840009904,21.47818559999999;49.4187749,21.4806486">
+    <text>Roztocky les - Nad Przelecza Kuchtowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4136137" lon="21.4734545">
+      <ele>629</ele>
+      <time>2022-01-18T00:32:38Z</time>
+    </trkpt>
+    <trkpt lat="49.4135834" lon="21.4737225">
+      <ele>627</ele>
+      <time>2022-01-18T00:32:59Z</time>
+    </trkpt>
+    <trkpt lat="49.4143649" lon="21.4750528">
+      <ele>607</ele>
+      <time>2022-01-18T00:35:15Z</time>
+    </trkpt>
+    <trkpt lat="49.4153468" lon="21.4766729">
+      <ele>590</ele>
+      <time>2022-01-18T00:38:03Z</time>
+    </trkpt>
+    <trkpt lat="49.4155598" lon="21.4773273">
+      <ele>587</ele>
+      <time>2022-01-18T00:38:58Z</time>
+    </trkpt>
+    <trkpt lat="49.415757" lon="21.4790439">
+      <ele>592</ele>
+      <time>2022-01-18T00:41:09Z</time>
+    </trkpt>
+    <trkpt lat="49.416401" lon="21.4796019">
+      <ele>588</ele>
+      <time>2022-01-18T00:42:35Z</time>
+    </trkpt>
+    <trkpt lat="49.4179283" lon="21.4807874">
+      <ele>570</ele>
+      <time>2022-01-18T00:45:54Z</time>
+    </trkpt>
+    <trkpt lat="49.4183864" lon="21.4808129">
+      <ele>568</ele>
+      <time>2022-01-18T00:46:47Z</time>
+    </trkpt>
+    <trkpt lat="49.4185862" lon="21.4806024">
+      <ele>562</ele>
+      <time>2022-01-18T00:47:16Z</time>
+    </trkpt>
+    <trkpt lat="49.4187749" lon="21.4806486">
+      <ele>559</ele>
+      <time>2022-01-18T00:47:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

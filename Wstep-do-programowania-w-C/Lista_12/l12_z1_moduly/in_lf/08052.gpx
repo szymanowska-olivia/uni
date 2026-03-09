@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:08Z</time>
+    <bounds maxlat="49.048411" maxlon="19.271682" minlat="49.046097" minlon="19.270803"/>
+  </metadata>
+  <wpt lat="49.048411" lon="19.271348">
+    <ele>830</ele>
+    <name>Vlkolinske luky, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5625">
+      <text>Vlkolinske luky, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.046097" lon="19.271682">
+    <ele>860</ele>
+    <name>Sedlo pod Sidorovom</name>
+    <link href="https://mapa-turystyczna.pl/node/5506">
+      <text>Sedlo pod Sidorovom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vlkolinske luky, razc. - Sedlo pod Sidorovom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.048411,19.271348;49.04728650003562,19.270863500000004;49.046097,19.271682">
+    <text>Vlkolinske luky, razc. - Sedlo pod Sidorovom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.048411" lon="19.271348">
+      <ele>830</ele>
+      <time>2022-01-17T22:32:08Z</time>
+    </trkpt>
+    <trkpt lat="49.048094" lon="19.271233">
+      <ele>837</ele>
+      <time>2022-01-17T22:32:47Z</time>
+    </trkpt>
+    <trkpt lat="49.047809" lon="19.271207">
+      <ele>843</ele>
+      <time>2022-01-17T22:33:21Z</time>
+    </trkpt>
+    <trkpt lat="49.047702" lon="19.271156">
+      <ele>844</ele>
+      <time>2022-01-17T22:33:35Z</time>
+    </trkpt>
+    <trkpt lat="49.047514" lon="19.27097">
+      <ele>844</ele>
+      <time>2022-01-17T22:34:01Z</time>
+    </trkpt>
+    <trkpt lat="49.047346" lon="19.270803">
+      <ele>845</ele>
+      <time>2022-01-17T22:34:25Z</time>
+    </trkpt>
+    <trkpt lat="49.047227" lon="19.270924">
+      <ele>846</ele>
+      <time>2022-01-17T22:34:42Z</time>
+    </trkpt>
+    <trkpt lat="49.047114" lon="19.271013">
+      <ele>847</ele>
+      <time>2022-01-17T22:34:57Z</time>
+    </trkpt>
+    <trkpt lat="49.046586" lon="19.271324">
+      <ele>854</ele>
+      <time>2022-01-17T22:36:04Z</time>
+    </trkpt>
+    <trkpt lat="49.04633" lon="19.271499">
+      <ele>858</ele>
+      <time>2022-01-17T22:36:37Z</time>
+    </trkpt>
+    <trkpt lat="49.046204" lon="19.271586">
+      <ele>859</ele>
+      <time>2022-01-17T22:36:53Z</time>
+    </trkpt>
+    <trkpt lat="49.046097" lon="19.271682">
+      <ele>860</ele>
+      <time>2022-01-17T22:37:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:26Z</time>
+    <bounds maxlat="50.8141921" maxlon="16.163717" minlat="50.81273" minlon="16.1626214"/>
+  </metadata>
+  <wpt lat="50.81273" lon="16.163717">
+    <ele>778</ele>
+    <name>Trojgarb</name>
+    <link href="https://mapa-turystyczna.pl/node/8064">
+      <text>Trojgarb</text>
+    </link>
+  </wpt>
+  <wpt lat="50.814192" lon="16.162621">
+    <ele>746</ele>
+    <name>Przelecz pod Trojgarbem</name>
+    <link href="https://mapa-turystyczna.pl/node/2561">
+      <text>Przelecz pod Trojgarbem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trojgarb - Przelecz pod Trojgarbem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.81273,16.163717;50.81362270347078,16.16299555;50.8141921,16.1626214">
+    <text>Trojgarb - Przelecz pod Trojgarbem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.81273" lon="16.163717">
+      <ele>778</ele>
+      <time>2022-01-17T23:35:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8130533" lon="16.1633697">
+      <ele>775</ele>
+      <time>2022-01-17T23:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8141921" lon="16.1626214">
+      <ele>746</ele>
+      <time>2022-01-17T23:38:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

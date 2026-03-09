@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:31Z</time>
+    <bounds maxlat="50.2012323" maxlon="19.0263485" minlat="50.2008932" minlon="19.0257776"/>
+  </metadata>
+  <wpt lat="50.201232" lon="19.025778">
+    <ele>308</ele>
+    <name>Cegielnia Murcki, rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/9436">
+      <text>Cegielnia Murcki, rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.200893" lon="19.026349">
+    <ele>308</ele>
+    <name>Cegielnia Murcki, przejazd kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9343">
+      <text>Cegielnia Murcki, przejazd kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cegielnia Murcki, rozejscie szlakow niebieski / zolty - Cegielnia Murcki, przejazd kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2012323,19.0257776;50.201062750301126,19.026063050000005;50.2008932,19.0263485">
+    <text>Cegielnia Murcki, rozejscie szlakow niebieski / zolty - Cegielnia Murcki, przejazd kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2012323" lon="19.0257776">
+      <ele>308</ele>
+      <time>2022-01-18T00:11:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2008932" lon="19.0263485">
+      <ele>308</ele>
+      <time>2022-01-18T00:12:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

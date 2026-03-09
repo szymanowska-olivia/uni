@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:25Z</time>
+    <bounds maxlat="50.1259882" maxlon="17.3830211" minlat="50.1208533" minlon="17.3805535"/>
+  </metadata>
+  <wpt lat="50.125988" lon="17.380554">
+    <ele>536</ele>
+    <name>Mnichov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6805">
+      <text>Mnichov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.120853" lon="17.382925">
+    <ele>529</ele>
+    <name>Vrbno pod Pradedem</name>
+    <link href="https://mapa-turystyczna.pl/node/6799">
+      <text>Vrbno pod Pradedem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mnichov, rozc. - Vrbno pod Pradedem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1259882,17.3805535;50.123343401211066,17.382948700000004;50.1208533,17.3829246">
+    <text>Mnichov, rozc. - Vrbno pod Pradedem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1259882" lon="17.3805535">
+      <ele>536</ele>
+      <time>2022-01-17T23:02:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1254001" lon="17.3811597">
+      <ele>533</ele>
+      <time>2022-01-17T23:03:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1247054" lon="17.3820287">
+      <ele>530</ele>
+      <time>2022-01-17T23:05:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1242376" lon="17.3825866">
+      <ele>530</ele>
+      <time>2022-01-17T23:06:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1240313" lon="17.3827475">
+      <ele>531</ele>
+      <time>2022-01-17T23:06:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1236839" lon="17.382946">
+      <ele>529</ele>
+      <time>2022-01-17T23:07:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1230029" lon="17.3829514">
+      <ele>528</ele>
+      <time>2022-01-17T23:08:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1213245" lon="17.3830211">
+      <ele>528</ele>
+      <time>2022-01-17T23:11:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1208533" lon="17.3829246">
+      <ele>529</ele>
+      <time>2022-01-17T23:12:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

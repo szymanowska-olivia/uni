@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:58Z</time>
+    <bounds maxlat="50.0669138" maxlon="18.2769676" minlat="50.0635511" minlon="18.2748875"/>
+  </metadata>
+  <wpt lat="50.066914" lon="18.274887">
+    <ele>274</ele>
+    <name>Pogwizdow, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/10361">
+      <text>Pogwizdow, pomnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.063551" lon="18.276968">
+    <ele>285</ele>
+    <name>Las Widok</name>
+    <link href="https://mapa-turystyczna.pl/node/9556">
+      <text>Las Widok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogwizdow, pomnik - Las Widok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0669138,18.2748875;50.06465745411691,18.27638069999999;50.0635511,18.2769676">
+    <text>Pogwizdow, pomnik - Las Widok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0669138" lon="18.2748875">
+      <ele>274</ele>
+      <time>2022-01-18T00:34:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0667149" lon="18.2750852">
+      <ele>274</ele>
+      <time>2022-01-18T00:35:17Z</time>
+    </trkpt>
+    <trkpt lat="50.065675" lon="18.2758738">
+      <ele>275</ele>
+      <time>2022-01-18T00:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0652859" lon="18.2761098">
+      <ele>278</ele>
+      <time>2022-01-18T00:37:27Z</time>
+    </trkpt>
+    <trkpt lat="50.064029" lon="18.2766516">
+      <ele>284</ele>
+      <time>2022-01-18T00:39:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0635511" lon="18.2769676">
+      <ele>285</ele>
+      <time>2022-01-18T00:39:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

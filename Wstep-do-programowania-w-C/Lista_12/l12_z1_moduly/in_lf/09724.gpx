@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:57Z</time>
+    <bounds maxlat="49.3944203" maxlon="21.627566" minlat="49.3936725" minlon="21.6269328"/>
+  </metadata>
+  <wpt lat="49.39442" lon="21.627566">
+    <ele>431</ele>
+    <name>Pod Javorom</name>
+    <link href="https://mapa-turystyczna.pl/node/6827">
+      <text>Pod Javorom</text>
+    </link>
+  </wpt>
+  <wpt lat="49.393673" lon="21.626933">
+    <ele>434</ele>
+    <name>Pod Javorom</name>
+    <link href="https://mapa-turystyczna.pl/node/6826">
+      <text>Pod Javorom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Javorom - Pod Javorom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3944203,21.627566;49.39422415037547,21.627383549999998;49.3936729,21.6269328">
+    <text>Pod Javorom - Pod Javorom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3944203" lon="21.627566">
+      <ele>431</ele>
+      <time>2022-01-17T23:02:57Z</time>
+    </trkpt>
+    <trkpt lat="49.3944162" lon="21.6275579">
+      <ele>431</ele>
+      <time>2022-01-17T23:02:58Z</time>
+    </trkpt>
+    <trkpt lat="49.3940321" lon="21.6272092">
+      <ele>433</ele>
+      <time>2022-01-17T23:04:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3936725" lon="21.626941">
+      <ele>434</ele>
+      <time>2022-01-17T23:04:56Z</time>
+    </trkpt>
+    <trkpt lat="49.3936729" lon="21.6269328">
+      <ele>434</ele>
+      <time>2022-01-17T23:04:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

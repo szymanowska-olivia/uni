@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:18Z</time>
+    <bounds maxlat="52.4933415" maxlon="20.9240602" minlat="52.489757" minlon="20.9235642"/>
+  </metadata>
+  <wpt lat="52.493341" lon="20.924019">
+    <ele>95</ele>
+    <name>Debe</name>
+    <link href="https://mapa-turystyczna.pl/node/12219">
+      <text>Debe</text>
+    </link>
+  </wpt>
+  <wpt lat="52.489757" lon="20.923564">
+    <ele>75</ele>
+    <name>Elektrownia Wodna Debe</name>
+    <link href="https://mapa-turystyczna.pl/node/12254">
+      <text>Elektrownia Wodna Debe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Debe - Elektrownia Wodna Debe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4933415,20.9240191;52.49072801071916,20.923618150000006;52.489757,20.9235642">
+    <text>Debe - Elektrownia Wodna Debe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4933415" lon="20.9240191">
+      <ele>95</ele>
+      <time>2022-01-18T01:23:18Z</time>
+    </trkpt>
+    <trkpt lat="52.4925384" lon="20.9240315">
+      <ele>95</ele>
+      <time>2022-01-18T01:24:23Z</time>
+    </trkpt>
+    <trkpt lat="52.4924453" lon="20.9240602">
+      <ele>95</ele>
+      <time>2022-01-18T01:24:31Z</time>
+    </trkpt>
+    <trkpt lat="52.4919211" lon="20.9239296">
+      <ele>92</ele>
+      <time>2022-01-18T01:25:14Z</time>
+    </trkpt>
+    <trkpt lat="52.4917186" lon="20.9238652">
+      <ele>87</ele>
+      <time>2022-01-18T01:25:31Z</time>
+    </trkpt>
+    <trkpt lat="52.491699" lon="20.9236721">
+      <ele>88</ele>
+      <time>2022-01-18T01:25:40Z</time>
+    </trkpt>
+    <trkpt lat="52.489757" lon="20.9235642">
+      <ele>75</ele>
+      <time>2022-01-18T01:28:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

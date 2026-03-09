@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:17Z</time>
+    <bounds maxlat="50.4080082" maxlon="16.2033319" minlat="50.4042063" minlon="16.2011647"/>
+  </metadata>
+  <wpt lat="50.404206" lon="16.201165">
+    <ele>602</ele>
+    <name>Dobrosov, pevnost rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5737">
+      <text>Dobrosov, pevnost rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.408008" lon="16.203332">
+    <ele>581</ele>
+    <name>Polsko</name>
+    <link href="https://mapa-turystyczna.pl/node/5765">
+      <text>Polsko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dobrosov, pevnost rozc. - Polsko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4042063,16.2011647;50.406177800156534,16.202340850000013;50.4080082,16.2033319">
+    <text>Dobrosov, pevnost rozc. - Polsko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4042063" lon="16.2011647">
+      <ele>602</ele>
+      <time>2022-01-17T22:36:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4043003" lon="16.2013149">
+      <ele>603</ele>
+      <time>2022-01-17T22:36:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4051782" lon="16.2017548">
+      <ele>603</ele>
+      <time>2022-01-17T22:37:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4055009" lon="16.2019265">
+      <ele>600</ele>
+      <time>2022-01-17T22:38:00Z</time>
+    </trkpt>
+    <trkpt lat="50.406056" lon="16.2022805">
+      <ele>597</ele>
+      <time>2022-01-17T22:38:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4062996" lon="16.2024012">
+      <ele>595</ele>
+      <time>2022-01-17T22:39:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4065706" lon="16.2024575">
+      <ele>594</ele>
+      <time>2022-01-17T22:39:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4072381" lon="16.2028679">
+      <ele>589</ele>
+      <time>2022-01-17T22:40:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4074557" lon="16.2029283">
+      <ele>587</ele>
+      <time>2022-01-17T22:40:32Z</time>
+    </trkpt>
+    <trkpt lat="50.4076943" lon="16.203055">
+      <ele>585</ele>
+      <time>2022-01-17T22:40:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4080082" lon="16.2033319">
+      <ele>581</ele>
+      <time>2022-01-17T22:41:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

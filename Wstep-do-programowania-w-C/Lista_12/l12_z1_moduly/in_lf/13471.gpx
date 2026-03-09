@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:02Z</time>
+    <bounds maxlat="49.9800439" maxlon="18.9416509" minlat="49.9778216" minlon="18.9407931"/>
+  </metadata>
+  <wpt lat="49.977822" lon="18.941651">
+    <ele>250</ele>
+    <name>Pszczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/9305">
+      <text>Pszczyna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.980044" lon="18.940793">
+    <ele>250</ele>
+    <name>Pszczyna, Park Zamkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9285">
+      <text>Pszczyna, Park Zamkowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pszczyna - Pszczyna, Park Zamkowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9778216,18.9416509;49.978904550852135,18.941285950000022;49.9800439,18.9407931">
+    <text>Pszczyna - Pszczyna, Park Zamkowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9778216" lon="18.9416509">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9779731" lon="18.9416239">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:21Z</time>
+    </trkpt>
+    <trkpt lat="49.9785665" lon="18.9414308">
+      <ele>249</ele>
+      <time>2022-01-18T00:09:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9786182" lon="18.9414469">
+      <ele>249</ele>
+      <time>2022-01-18T00:09:44Z</time>
+    </trkpt>
+    <trkpt lat="49.9791909" lon="18.941125">
+      <ele>247</ele>
+      <time>2022-01-18T00:11:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9794531" lon="18.9413235">
+      <ele>249</ele>
+      <time>2022-01-18T00:11:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9800439" lon="18.9407931">
+      <ele>250</ele>
+      <time>2022-01-18T00:13:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

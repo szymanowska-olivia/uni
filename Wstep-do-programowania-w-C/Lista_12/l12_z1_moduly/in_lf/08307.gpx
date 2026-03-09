@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:29Z</time>
+    <bounds maxlat="49.227044" maxlon="20.033476" minlat="49.226958" minlon="20.033232"/>
+  </metadata>
+  <wpt lat="49.226958" lon="20.033232">
+    <ele>2225</ele>
+    <name>Skrajny Granat</name>
+    <link href="https://mapa-turystyczna.pl/node/285">
+      <text>Skrajny Granat</text>
+    </link>
+  </wpt>
+  <wpt lat="49.227044" lon="20.033476">
+    <ele>2187</ele>
+    <name>Skrajny Granat, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/5773">
+      <text>Skrajny Granat, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrajny Granat - Skrajny Granat, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.226958,20.033232;49.227001000018724,20.033354000000017;49.227044,20.033476">
+    <text>Skrajny Granat - Skrajny Granat, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.226958" lon="20.033232">
+      <ele>2225</ele>
+      <time>2022-01-17T22:36:29Z</time>
+    </trkpt>
+    <trkpt lat="49.227044" lon="20.033476">
+      <ele>2187</ele>
+      <time>2022-01-17T22:41:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

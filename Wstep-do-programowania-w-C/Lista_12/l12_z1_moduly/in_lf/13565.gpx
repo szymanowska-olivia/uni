@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:22Z</time>
+    <bounds maxlat="50.2088361" maxlon="19.0654822" minlat="50.2057504" minlon="19.0642868"/>
+  </metadata>
+  <wpt lat="50.208836" lon="19.064287">
+    <ele>300</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/9100">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.20575" lon="19.065482">
+    <ele>300</ele>
+    <name>Stara Wesola, las</name>
+    <link href="https://mapa-turystyczna.pl/node/9362">
+      <text>Stara Wesola, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Stara Wesola, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2088361,19.0642868;50.20733677355233,19.064868250000007;50.2057504,19.0654822">
+    <text>Rozejscie szlakow czerwony / niebieski - Stara Wesola, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2088361" lon="19.0642868">
+      <ele>300</ele>
+      <time>2022-01-18T00:09:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2058374" lon="19.0654497">
+      <ele>300</ele>
+      <time>2022-01-18T00:14:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2057504" lon="19.0654822">
+      <ele>300</ele>
+      <time>2022-01-18T00:14:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

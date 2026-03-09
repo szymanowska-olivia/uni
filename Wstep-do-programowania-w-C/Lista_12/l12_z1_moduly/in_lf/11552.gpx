@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:19Z</time>
+    <bounds maxlat="50.9168131" maxlon="15.3017557" minlat="50.9161981" minlon="15.301256"/>
+  </metadata>
+  <wpt lat="50.916813" lon="15.301756">
+    <ele>537</ele>
+    <name>Czerniawa-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/2262">
+      <text>Czerniawa-Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.916198" lon="15.301256">
+    <ele>543</ele>
+    <name>Czerniawa-Zdroj, ul. Sanatoryjna</name>
+    <link href="https://mapa-turystyczna.pl/node/8092">
+      <text>Czerniawa-Zdroj, ul. Sanatoryjna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czerniawa-Zdroj - Czerniawa-Zdroj, ul. Sanatoryjna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9168131,15.3017557;50.91663515034026,15.301615199999983;50.9161981,15.301256">
+    <text>Czerniawa-Zdroj - Czerniawa-Zdroj, ul. Sanatoryjna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9168131" lon="15.3017557">
+      <ele>537</ele>
+      <time>2022-01-17T23:36:19Z</time>
+    </trkpt>
+    <trkpt lat="50.9164572" lon="15.3014747">
+      <ele>540</ele>
+      <time>2022-01-17T23:37:28Z</time>
+    </trkpt>
+    <trkpt lat="50.9161981" lon="15.301256">
+      <ele>543</ele>
+      <time>2022-01-17T23:38:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

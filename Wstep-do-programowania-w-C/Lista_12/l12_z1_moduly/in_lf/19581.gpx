@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:58Z</time>
+    <bounds maxlat="50.5618921" maxlon="16.5079075" minlat="50.5618216" minlon="16.5067713"/>
+  </metadata>
+  <wpt lat="50.561838" lon="16.506771">
+    <ele>585</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13210">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.561892" lon="16.507908">
+    <ele>580</ele>
+    <name>Stara Lipa</name>
+    <link href="https://mapa-turystyczna.pl/node/13209">
+      <text>Stara Lipa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Stara Lipa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5618376,16.5067713;50.561829600000685,16.507097800000004;50.5618921,16.5079075">
+    <text>Rozejscie szlakow - Stara Lipa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5618376" lon="16.5067713">
+      <ele>585</ele>
+      <time>2022-01-18T01:50:58Z</time>
+    </trkpt>
+    <trkpt lat="50.5618216" lon="16.5074243">
+      <ele>582</ele>
+      <time>2022-01-18T01:51:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5618921" lon="16.5079075">
+      <ele>580</ele>
+      <time>2022-01-18T01:51:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

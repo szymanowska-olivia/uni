@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:45Z</time>
+    <bounds maxlat="54.5963873" maxlon="18.2435811" minlat="54.5937798" minlon="18.2398152"/>
+  </metadata>
+  <wpt lat="54.596387" lon="18.239815">
+    <ele>45</ele>
+    <name>Cedronski Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/10864">
+      <text>Cedronski Mlyn</text>
+    </link>
+  </wpt>
+  <wpt lat="54.59378" lon="18.243581">
+    <ele>53</ele>
+    <name>Skrzyzowanie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10865">
+      <text>Skrzyzowanie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cedronski Mlyn - Skrzyzowanie szlakow czerwony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.5963873,18.2398152;54.59506960048572,18.241285100000002;54.5937798,18.2435811">
+    <text>Cedronski Mlyn - Skrzyzowanie szlakow czerwony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.5963873" lon="18.2398152">
+      <ele>45</ele>
+      <time>2022-01-18T00:46:45Z</time>
+    </trkpt>
+    <trkpt lat="54.5962288" lon="18.2403731">
+      <ele>52</ele>
+      <time>2022-01-18T00:47:15Z</time>
+    </trkpt>
+    <trkpt lat="54.5959895" lon="18.2407808">
+      <ele>55</ele>
+      <time>2022-01-18T00:47:43Z</time>
+    </trkpt>
+    <trkpt lat="54.5957782" lon="18.2410169">
+      <ele>56</ele>
+      <time>2022-01-18T00:48:04Z</time>
+    </trkpt>
+    <trkpt lat="54.5955264" lon="18.2411107">
+      <ele>54</ele>
+      <time>2022-01-18T00:48:26Z</time>
+    </trkpt>
+    <trkpt lat="54.5952685" lon="18.2411617">
+      <ele>52</ele>
+      <time>2022-01-18T00:48:47Z</time>
+    </trkpt>
+    <trkpt lat="54.5948707" lon="18.2414085">
+      <ele>53</ele>
+      <time>2022-01-18T00:49:22Z</time>
+    </trkpt>
+    <trkpt lat="54.5944418" lon="18.2418966">
+      <ele>51</ele>
+      <time>2022-01-18T00:50:05Z</time>
+    </trkpt>
+    <trkpt lat="54.5940347" lon="18.2425672">
+      <ele>50</ele>
+      <time>2022-01-18T00:50:52Z</time>
+    </trkpt>
+    <trkpt lat="54.5937798" lon="18.2435811">
+      <ele>53</ele>
+      <time>2022-01-18T00:51:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

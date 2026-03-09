@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:40Z</time>
+    <bounds maxlat="50.1814379" maxlon="16.9923775" minlat="50.178128" minlon="16.9903886"/>
+  </metadata>
+  <wpt lat="50.181438" lon="16.992368">
+    <ele>663</ele>
+    <name>Adamovske udoli</name>
+    <link href="https://mapa-turystyczna.pl/node/2159">
+      <text>Adamovske udoli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.178128" lon="16.990389">
+    <ele>645</ele>
+    <name>Male Vrbno</name>
+    <link href="https://mapa-turystyczna.pl/node/2160">
+      <text>Male Vrbno</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Adamovske udoli - Male Vrbno</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1814379,16.9923681;50.179758900550304,16.991905449999976;50.178128,16.9903886">
+    <text>Adamovske udoli - Male Vrbno</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1814379" lon="16.9923681">
+      <ele>663</ele>
+      <time>2022-01-17T21:23:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1805868" lon="16.9923775">
+      <ele>654</ele>
+      <time>2022-01-17T21:24:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1799882" lon="16.9919202">
+      <ele>653</ele>
+      <time>2022-01-17T21:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1795296" lon="16.9918907">
+      <ele>655</ele>
+      <time>2022-01-17T21:26:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1791552" lon="16.9914991">
+      <ele>658</ele>
+      <time>2022-01-17T21:26:58Z</time>
+    </trkpt>
+    <trkpt lat="50.178128" lon="16.9903886">
+      <ele>645</ele>
+      <time>2022-01-17T21:28:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

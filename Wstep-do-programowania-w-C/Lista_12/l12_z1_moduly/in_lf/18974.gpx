@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:26Z</time>
+    <bounds maxlat="51.4559153" maxlon="23.121839" minlat="51.4545728" minlon="23.1201771"/>
+  </metadata>
+  <wpt lat="51.454573" lon="23.121839">
+    <ele>172</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12844">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.455915" lon="23.120189">
+    <ele>165</ele>
+    <name>Jezioro Moszne, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12845">
+      <text>Jezioro Moszne, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Jezioro Moszne, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4545728,23.121839;51.45489205022321,23.120377600000012;51.4559153,23.1201895">
+    <text>Rozejscie sciezki - Jezioro Moszne, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4545728" lon="23.121839">
+      <ele>172</ele>
+      <time>2022-01-18T01:40:26Z</time>
+    </trkpt>
+    <trkpt lat="51.4546203" lon="23.1216771">
+      <ele>171</ele>
+      <time>2022-01-18T01:40:42Z</time>
+    </trkpt>
+    <trkpt lat="51.4546811" lon="23.1211289">
+      <ele>167</ele>
+      <time>2022-01-18T01:41:32Z</time>
+    </trkpt>
+    <trkpt lat="51.4547493" lon="23.1203974">
+      <ele>166</ele>
+      <time>2022-01-18T01:42:38Z</time>
+    </trkpt>
+    <trkpt lat="51.4550348" lon="23.1203578">
+      <ele>165</ele>
+      <time>2022-01-18T01:43:19Z</time>
+    </trkpt>
+    <trkpt lat="51.4557625" lon="23.1201771">
+      <ele>166</ele>
+      <time>2022-01-18T01:45:04Z</time>
+    </trkpt>
+    <trkpt lat="51.4559153" lon="23.1201895">
+      <ele>165</ele>
+      <time>2022-01-18T01:45:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

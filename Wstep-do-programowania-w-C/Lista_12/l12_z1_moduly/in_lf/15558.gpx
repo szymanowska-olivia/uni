@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:09Z</time>
+    <bounds maxlat="50.4468391" maxlon="16.4426198" minlat="50.4463742" minlon="16.4404861"/>
+  </metadata>
+  <wpt lat="50.446374" lon="16.440486">
+    <ele>681</ele>
+    <name>Borowa Kopa, odejscie szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/10606">
+      <text>Borowa Kopa, odejscie szlaku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.446839" lon="16.44262">
+    <ele>655</ele>
+    <name>Tylna Borowa Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/10607">
+      <text>Tylna Borowa Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Borowa Kopa, odejscie szlaku - Tylna Borowa Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4463742,16.4404861;50.44665750000121,16.44182175;50.4468391,16.4426198">
+    <text>Borowa Kopa, odejscie szlaku - Tylna Borowa Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4463742" lon="16.4404861">
+      <ele>681</ele>
+      <time>2022-01-18T00:41:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4465442" lon="16.4405408">
+      <ele>677</ele>
+      <time>2022-01-18T00:41:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4466136" lon="16.4406778">
+      <ele>675</ele>
+      <time>2022-01-18T00:41:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4466205" lon="16.4410319">
+      <ele>675</ele>
+      <time>2022-01-18T00:42:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4466467" lon="16.4414528">
+      <ele>672</ele>
+      <time>2022-01-18T00:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4466683" lon="16.4421907">
+      <ele>665</ele>
+      <time>2022-01-18T00:43:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4468391" lon="16.4426198">
+      <ele>655</ele>
+      <time>2022-01-18T00:44:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

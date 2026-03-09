@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:30:01Z</time>
+    <bounds maxlat="48.9071815" maxlon="19.1645873" minlat="48.9063088" minlon="19.1628572"/>
+  </metadata>
+  <wpt lat="48.907182" lon="19.164587">
+    <ele>708</ele>
+    <name>Vysna Revuca</name>
+    <link href="https://mapa-turystyczna.pl/node/5482">
+      <text>Vysna Revuca</text>
+    </link>
+  </wpt>
+  <wpt lat="48.906309" lon="19.162857">
+    <ele>714</ele>
+    <name>Vysna Revuca, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5611">
+      <text>Vysna Revuca, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vysna Revuca - Vysna Revuca, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9071815,19.1645873;48.90680870040466,19.163966200000008;48.9063088,19.1628572">
+    <text>Vysna Revuca - Vysna Revuca, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9071815" lon="19.1645873">
+      <ele>708</ele>
+      <time>2022-01-17T22:30:01Z</time>
+    </trkpt>
+    <trkpt lat="48.9070098" lon="19.1643067">
+      <ele>711</ele>
+      <time>2022-01-17T22:30:33Z</time>
+    </trkpt>
+    <trkpt lat="48.9066076" lon="19.1636257">
+      <ele>713</ele>
+      <time>2022-01-17T22:31:48Z</time>
+    </trkpt>
+    <trkpt lat="48.9063088" lon="19.1628572">
+      <ele>714</ele>
+      <time>2022-01-17T22:33:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

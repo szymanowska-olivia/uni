@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:43Z</time>
+    <bounds maxlat="49.518139" maxlon="18.875663" minlat="49.515788" minlon="18.874388"/>
+  </metadata>
+  <wpt lat="49.515788" lon="18.875657">
+    <ele>490</ele>
+    <name>Jaworzynka, TPG Slowacja</name>
+    <link href="https://mapa-turystyczna.pl/node/755">
+      <text>Jaworzynka, TPG Slowacja</text>
+    </link>
+  </wpt>
+  <wpt lat="49.518139" lon="18.87471">
+    <ele>506</ele>
+    <name>Jaworzynka, Czadeczka</name>
+    <link href="https://mapa-turystyczna.pl/node/13107">
+      <text>Jaworzynka, Czadeczka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzynka, TPG Slowacja - Jaworzynka, Czadeczka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.515788,18.875657;49.516855002454705,18.874918500000003;49.518139,18.87471">
+    <text>Jaworzynka, TPG Slowacja - Jaworzynka, Czadeczka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.515788" lon="18.875657">
+      <ele>490</ele>
+      <time>2022-01-18T01:47:43Z</time>
+    </trkpt>
+    <trkpt lat="49.515833" lon="18.875663">
+      <ele>491</ele>
+      <time>2022-01-18T01:47:48Z</time>
+    </trkpt>
+    <trkpt lat="49.515857" lon="18.87566">
+      <ele>491</ele>
+      <time>2022-01-18T01:47:51Z</time>
+    </trkpt>
+    <trkpt lat="49.515878" lon="18.875653">
+      <ele>492</ele>
+      <time>2022-01-18T01:47:53Z</time>
+    </trkpt>
+    <trkpt lat="49.51596" lon="18.875652">
+      <ele>493</ele>
+      <time>2022-01-18T01:48:03Z</time>
+    </trkpt>
+    <trkpt lat="49.516009" lon="18.875647">
+      <ele>494</ele>
+      <time>2022-01-18T01:48:08Z</time>
+    </trkpt>
+    <trkpt lat="49.516279" lon="18.875538">
+      <ele>498</ele>
+      <time>2022-01-18T01:48:40Z</time>
+    </trkpt>
+    <trkpt lat="49.516365" lon="18.875406">
+      <ele>500</ele>
+      <time>2022-01-18T01:48:54Z</time>
+    </trkpt>
+    <trkpt lat="49.517345" lon="18.874431">
+      <ele>515</ele>
+      <time>2022-01-18T01:51:07Z</time>
+    </trkpt>
+    <trkpt lat="49.517582" lon="18.874388">
+      <ele>516</ele>
+      <time>2022-01-18T01:51:34Z</time>
+    </trkpt>
+    <trkpt lat="49.517749" lon="18.874442">
+      <ele>515</ele>
+      <time>2022-01-18T01:51:54Z</time>
+    </trkpt>
+    <trkpt lat="49.517934" lon="18.874549">
+      <ele>512</ele>
+      <time>2022-01-18T01:52:16Z</time>
+    </trkpt>
+    <trkpt lat="49.518139" lon="18.87471">
+      <ele>506</ele>
+      <time>2022-01-18T01:52:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:56Z</time>
+    <bounds maxlat="50.2953265" maxlon="17.1521902" minlat="50.2945332" minlon="17.1514311"/>
+  </metadata>
+  <wpt lat="50.294533" lon="17.151431">
+    <ele>417</ele>
+    <name>Hradisko, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6103">
+      <text>Hradisko, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.295327" lon="17.15219">
+    <ele>439</ele>
+    <name>Zricenina hradu Kaltenstejn</name>
+    <link href="https://mapa-turystyczna.pl/node/6102">
+      <text>Zricenina hradu Kaltenstejn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hradisko, rozc. - Zricenina hradu Kaltenstejn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2945332,17.1514311;50.29505295003639,17.1516602;50.2953265,17.1521902">
+    <text>Hradisko, rozc. - Zricenina hradu Kaltenstejn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2945332" lon="17.1514311">
+      <ele>417</ele>
+      <time>2022-01-17T22:44:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2947468" lon="17.1514815">
+      <ele>421</ele>
+      <time>2022-01-17T22:46:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2948771" lon="17.1515459">
+      <ele>425</ele>
+      <time>2022-01-17T22:46:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2949941" lon="17.1516135">
+      <ele>430</ele>
+      <time>2022-01-17T22:47:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2951118" lon="17.1517069">
+      <ele>433</ele>
+      <time>2022-01-17T22:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2951963" lon="17.1518549">
+      <ele>436</ele>
+      <time>2022-01-17T22:48:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2952746" lon="17.1519804">
+      <ele>438</ele>
+      <time>2022-01-17T22:49:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2953265" lon="17.1521902">
+      <ele>439</ele>
+      <time>2022-01-17T22:49:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

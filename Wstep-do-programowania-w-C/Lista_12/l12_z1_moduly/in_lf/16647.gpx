@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:20Z</time>
+    <bounds maxlat="52.4646861" maxlon="20.8648114" minlat="52.4552008" minlon="20.8630301"/>
+  </metadata>
+  <wpt lat="52.455201" lon="20.864811">
+    <ele>77</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11364">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.464686" lon="20.86303">
+    <ele>76</ele>
+    <name>Laki Klucowskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11365">
+      <text>Laki Klucowskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / czarny - Laki Klucowskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4552008,20.8648114;52.461001054232916,20.863711450000018;52.4646861,20.8630301">
+    <text>Rozejscie szlakow zielony / czarny - Laki Klucowskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4552008" lon="20.8648114">
+      <ele>77</ele>
+      <time>2022-01-18T01:00:20Z</time>
+    </trkpt>
+    <trkpt lat="52.4573157" lon="20.8643928">
+      <ele>79</ele>
+      <time>2022-01-18T01:03:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4646861" lon="20.8630301">
+      <ele>76</ele>
+      <time>2022-01-18T01:15:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

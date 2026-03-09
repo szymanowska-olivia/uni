@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:39Z</time>
+    <bounds maxlat="50.2932281" maxlon="18.9876485" minlat="50.2922202" minlon="18.9817128"/>
+  </metadata>
+  <wpt lat="50.293228" lon="18.987648">
+    <ele>304</ele>
+    <name>Park Slaski, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/9441">
+      <text>Park Slaski, lesniczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.29222" lon="18.981713">
+    <ele>289</ele>
+    <name>Aleja Klonowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9440">
+      <text>Aleja Klonowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Park Slaski, lesniczowka - Aleja Klonowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2932281,18.9876485;50.29235445001001,18.98500550000001;50.2922202,18.9817128">
+    <text>Park Slaski, lesniczowka - Aleja Klonowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2932281" lon="18.9876485">
+      <ele>304</ele>
+      <time>2022-01-18T00:11:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2928411" lon="18.9871352">
+      <ele>303</ele>
+      <time>2022-01-18T00:12:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2924538" lon="18.9867222">
+      <ele>302</ele>
+      <time>2022-01-18T00:12:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2924847" lon="18.9862876">
+      <ele>301</ele>
+      <time>2022-01-18T00:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2923544" lon="18.9858317">
+      <ele>301</ele>
+      <time>2022-01-18T00:13:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2923236" lon="18.9854132">
+      <ele>299</ele>
+      <time>2022-01-18T00:13:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2923853" lon="18.9845978">
+      <ele>296</ele>
+      <time>2022-01-18T00:14:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2922276" lon="18.9818137">
+      <ele>290</ele>
+      <time>2022-01-18T00:16:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2922202" lon="18.9817128">
+      <ele>289</ele>
+      <time>2022-01-18T00:16:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

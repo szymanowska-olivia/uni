@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:43Z</time>
+    <bounds maxlat="48.9133091" maxlon="19.7973955" minlat="48.9126569" minlon="19.7969717"/>
+  </metadata>
+  <wpt lat="48.913309" lon="19.796972">
+    <ele>1278</ele>
+    <name>Utulna Ramza</name>
+    <link href="https://mapa-turystyczna.pl/node/6716">
+      <text>Utulna Ramza</text>
+    </link>
+  </wpt>
+  <wpt lat="48.912657" lon="19.797396">
+    <ele>1270</ele>
+    <name>Ramza, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6573">
+      <text>Ramza, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Utulna Ramza - Ramza, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9133091,19.7969717;48.91293895009761,19.797218400000002;48.9126569,19.7973955">
+    <text>Utulna Ramza - Ramza, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9133091" lon="19.7969717">
+      <ele>1278</ele>
+      <time>2022-01-17T22:59:43Z</time>
+    </trkpt>
+    <trkpt lat="48.9130377" lon="19.7971272">
+      <ele>1274</ele>
+      <time>2022-01-17T23:00:07Z</time>
+    </trkpt>
+    <trkpt lat="48.9128402" lon="19.7973096">
+      <ele>1271</ele>
+      <time>2022-01-17T23:00:27Z</time>
+    </trkpt>
+    <trkpt lat="48.9126569" lon="19.7973955">
+      <ele>1270</ele>
+      <time>2022-01-17T23:00:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

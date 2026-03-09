@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:03Z</time>
+    <bounds maxlat="52.5198066" maxlon="15.2491892" minlat="52.5178546" minlon="15.2483738"/>
+  </metadata>
+  <wpt lat="52.517855" lon="15.249189">
+    <ele>51</ele>
+    <name>Lubniewice, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13010">
+      <text>Lubniewice, ul. Zamkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.519807" lon="15.248374">
+    <ele>62</ele>
+    <name>Lubniewice, osrodek jezdziecki</name>
+    <link href="https://mapa-turystyczna.pl/node/13008">
+      <text>Lubniewice, osrodek jezdziecki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubniewice, ul. Zamkowa - Lubniewice, osrodek jezdziecki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5178546,15.2491892;52.51929380299272,15.248471749999997;52.5198066,15.2483738">
+    <text>Lubniewice, ul. Zamkowa - Lubniewice, osrodek jezdziecki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5178546" lon="15.2491892">
+      <ele>51</ele>
+      <time>2022-01-18T01:45:03Z</time>
+    </trkpt>
+    <trkpt lat="52.5181739" lon="15.2489667">
+      <ele>53</ele>
+      <time>2022-01-18T01:45:54Z</time>
+    </trkpt>
+    <trkpt lat="52.5183959" lon="15.2486555">
+      <ele>54</ele>
+      <time>2022-01-18T01:46:36Z</time>
+    </trkpt>
+    <trkpt lat="52.518781" lon="15.2485697">
+      <ele>59</ele>
+      <time>2022-01-18T01:47:33Z</time>
+    </trkpt>
+    <trkpt lat="52.5198066" lon="15.2483738">
+      <ele>62</ele>
+      <time>2022-01-18T01:50:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

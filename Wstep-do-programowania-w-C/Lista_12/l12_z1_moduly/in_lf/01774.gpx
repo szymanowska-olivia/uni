@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:55Z</time>
+    <bounds maxlat="50.7485959" maxlon="15.8463299" minlat="50.7480568" minlon="15.8409012"/>
+  </metadata>
+  <wpt lat="50.748362" lon="15.840901">
+    <ele>930</ele>
+    <name>Pod Sredniakiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1297">
+      <text>Pod Sredniakiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.748094" lon="15.84633">
+    <ele>915</ele>
+    <name>Rozdroze pod Sulica</name>
+    <link href="https://mapa-turystyczna.pl/node/1337">
+      <text>Rozdroze pod Sulica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sredniakiem - Rozdroze pod Sulica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7483619,15.8409012;50.74834820060853,15.843277549999977;50.7480935,15.8463299">
+    <text>Pod Sredniakiem - Rozdroze pod Sulica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7483619" lon="15.8409012">
+      <ele>930</ele>
+      <time>2022-01-17T21:05:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7482789" lon="15.8411157">
+      <ele>929</ele>
+      <time>2022-01-17T21:06:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7483159" lon="15.8415234">
+      <ele>928</ele>
+      <time>2022-01-17T21:06:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7485959" lon="15.8424353">
+      <ele>923</ele>
+      <time>2022-01-17T21:07:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7485869" lon="15.8428001">
+      <ele>922</ele>
+      <time>2022-01-17T21:07:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7481095" lon="15.843755">
+      <ele>920</ele>
+      <time>2022-01-17T21:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7480568" lon="15.8442861">
+      <ele>921</ele>
+      <time>2022-01-17T21:09:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7480935" lon="15.8463299">
+      <ele>915</ele>
+      <time>2022-01-17T21:10:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:31Z</time>
+    <bounds maxlat="50.386342" maxlon="18.4762573" minlat="50.3843901" minlon="18.4758572"/>
+  </metadata>
+  <wpt lat="50.38439" lon="18.475857">
+    <ele>203</ele>
+    <name>Plawniowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9566">
+      <text>Plawniowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.386342" lon="18.476257">
+    <ele>194</ele>
+    <name>Plawniowice, most</name>
+    <link href="https://mapa-turystyczna.pl/node/9664">
+      <text>Plawniowice, most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Plawniowice - Plawniowice, most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3843901,18.4758572;50.385769752775246,18.476080650000014;50.386342,18.4762573">
+    <text>Plawniowice - Plawniowice, most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3843901" lon="18.4758572">
+      <ele>203</ele>
+      <time>2022-01-18T00:17:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3852567" lon="18.4759251">
+      <ele>200</ele>
+      <time>2022-01-18T00:18:50Z</time>
+    </trkpt>
+    <trkpt lat="50.3862828" lon="18.4762362">
+      <ele>194</ele>
+      <time>2022-01-18T00:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.386342" lon="18.4762573">
+      <ele>194</ele>
+      <time>2022-01-18T00:20:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

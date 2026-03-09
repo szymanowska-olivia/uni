@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:35Z</time>
+    <bounds maxlat="49.6840961" maxlon="22.6263427" minlat="49.6822425" minlon="22.6257634"/>
+  </metadata>
+  <wpt lat="49.684096" lon="22.625763">
+    <ele>541</ele>
+    <name>Kopystanka</name>
+    <link href="https://mapa-turystyczna.pl/node/3791">
+      <text>Kopystanka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.682243" lon="22.626343">
+    <ele>526</ele>
+    <name>Kopystanka, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3792">
+      <text>Kopystanka, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kopystanka - Kopystanka, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6840961,22.6257634;49.68294795511789,22.626093500000007;49.6822425,22.6263427">
+    <text>Kopystanka - Kopystanka, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6840961" lon="22.6257634">
+      <ele>541</ele>
+      <time>2022-01-17T21:54:35Z</time>
+    </trkpt>
+    <trkpt lat="49.6836534" lon="22.6258443">
+      <ele>536</ele>
+      <time>2022-01-17T21:55:17Z</time>
+    </trkpt>
+    <trkpt lat="49.6822425" lon="22.6263427">
+      <ele>526</ele>
+      <time>2022-01-17T21:57:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

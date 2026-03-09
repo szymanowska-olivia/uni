@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:55Z</time>
+    <bounds maxlat="50.3644075" maxlon="16.2777302" minlat="50.3642954" minlon="16.2762773"/>
+  </metadata>
+  <wpt lat="50.364295" lon="16.276277">
+    <ele>564</ele>
+    <name>Zelinkuv mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/5696">
+      <text>Zelinkuv mlyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.364314" lon="16.27773">
+    <ele>561</ele>
+    <name>Zelinkuv mlyn, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6221">
+      <text>Zelinkuv mlyn, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zelinkuv mlyn - Zelinkuv mlyn, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3642954,16.2762773;50.364373000012556,16.27726269999999;50.3643136,16.2777302">
+    <text>Zelinkuv mlyn - Zelinkuv mlyn, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3642954" lon="16.2762773">
+      <ele>564</ele>
+      <time>2022-01-17T22:47:55Z</time>
+    </trkpt>
+    <trkpt lat="50.364372" lon="16.2766019">
+      <ele>561</ele>
+      <time>2022-01-17T22:48:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3644075" lon="16.2769586">
+      <ele>561</ele>
+      <time>2022-01-17T22:48:52Z</time>
+    </trkpt>
+    <trkpt lat="50.3643385" lon="16.2775668">
+      <ele>561</ele>
+      <time>2022-01-17T22:49:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3643136" lon="16.2777302">
+      <ele>561</ele>
+      <time>2022-01-17T22:49:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

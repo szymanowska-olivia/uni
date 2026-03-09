@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:46Z</time>
+    <bounds maxlat="49.26333" maxlon="20.116143" minlat="49.263167" minlon="20.114895"/>
+  </metadata>
+  <wpt lat="49.2632" lon="20.116143">
+    <ele>973</ele>
+    <name>Lysa Polana, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/13573">
+      <text>Lysa Polana, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="49.26333" lon="20.114895">
+    <ele>970</ele>
+    <name>Lysa Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/1576">
+      <text>Lysa Polana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lysa Polana, parking - Lysa Polana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2632,20.116143;49.2631830000026,20.1155125;49.26333,20.114895">
+    <text>Lysa Polana, parking - Lysa Polana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2632" lon="20.116143">
+      <ele>973</ele>
+      <time>2022-01-18T02:01:46Z</time>
+    </trkpt>
+    <trkpt lat="49.263168" lon="20.115932">
+      <ele>974</ele>
+      <time>2022-01-18T02:02:06Z</time>
+    </trkpt>
+    <trkpt lat="49.263167" lon="20.115686">
+      <ele>974</ele>
+      <time>2022-01-18T02:02:28Z</time>
+    </trkpt>
+    <trkpt lat="49.263199" lon="20.115339">
+      <ele>974</ele>
+      <time>2022-01-18T02:03:00Z</time>
+    </trkpt>
+    <trkpt lat="49.263247" lon="20.115076">
+      <ele>973</ele>
+      <time>2022-01-18T02:03:25Z</time>
+    </trkpt>
+    <trkpt lat="49.263276" lon="20.11498">
+      <ele>972</ele>
+      <time>2022-01-18T02:03:35Z</time>
+    </trkpt>
+    <trkpt lat="49.26333" lon="20.114895">
+      <ele>970</ele>
+      <time>2022-01-18T02:03:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:12Z</time>
+    <bounds maxlat="50.7468966" maxlon="15.8236318" minlat="50.7463572" minlon="15.823448"/>
+  </metadata>
+  <wpt lat="50.746897" lon="15.823628">
+    <ele>1048</ele>
+    <name>Schronisko na Przeleczy Okraj</name>
+    <link href="https://mapa-turystyczna.pl/node/1318">
+      <text>Schronisko na Przeleczy Okraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.746357" lon="15.823632">
+    <ele>1046</ele>
+    <name>Przelecz Okraj, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9312">
+      <text>Przelecz Okraj, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko na Przeleczy Okraj - Przelecz Okraj, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7468966,15.8236277;50.74662475076447,15.82353989999997;50.7463572,15.8236318">
+    <text>Schronisko na Przeleczy Okraj - Przelecz Okraj, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7468966" lon="15.8236277">
+      <ele>1048</ele>
+      <time>2022-01-18T00:08:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7468923" lon="15.823448">
+      <ele>1049</ele>
+      <time>2022-01-18T00:08:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7463572" lon="15.8236318">
+      <ele>1046</ele>
+      <time>2022-01-18T00:09:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

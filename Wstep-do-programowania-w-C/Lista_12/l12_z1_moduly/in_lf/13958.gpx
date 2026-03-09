@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:54Z</time>
+    <bounds maxlat="50.1929437" maxlon="18.4488874" minlat="50.1926999" minlon="18.4479325"/>
+  </metadata>
+  <wpt lat="50.192944" lon="18.447933">
+    <ele>207</ele>
+    <name>Rudy</name>
+    <link href="https://mapa-turystyczna.pl/node/9559">
+      <text>Rudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.1927" lon="18.448887">
+    <ele>208</ele>
+    <name>Rudy, nadlesnictwo</name>
+    <link href="https://mapa-turystyczna.pl/node/9560">
+      <text>Rudy, nadlesnictwo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rudy - Rudy, nadlesnictwo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1929437,18.4479325;50.1928218001556,18.44840995000002;50.1926999,18.4488874">
+    <text>Rudy - Rudy, nadlesnictwo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1929437" lon="18.4479325">
+      <ele>207</ele>
+      <time>2022-01-18T00:14:54Z</time>
+    </trkpt>
+    <trkpt lat="50.1926999" lon="18.4488874">
+      <ele>208</ele>
+      <time>2022-01-18T00:15:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

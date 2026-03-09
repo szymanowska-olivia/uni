@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:21Z</time>
+    <bounds maxlat="50.689472" maxlon="15.7671312" minlat="50.6891112" minlon="15.7632995"/>
+  </metadata>
+  <wpt lat="50.689128" lon="15.7633">
+    <ele>709</ele>
+    <name>Velka Upa</name>
+    <link href="https://mapa-turystyczna.pl/node/1426">
+      <text>Velka Upa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.689472" lon="15.767131">
+    <ele>703</ele>
+    <name>Velka Upa, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/9316">
+      <text>Velka Upa, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Upa - Velka Upa, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6891276,15.7632995;50.68919930002436,15.765521050000029;50.689472,15.7671312">
+    <text>Velka Upa - Velka Upa, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6891276" lon="15.7632995">
+      <ele>709</ele>
+      <time>2022-01-18T00:08:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6891112" lon="15.7640412">
+      <ele>707</ele>
+      <time>2022-01-18T00:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6891515" lon="15.7650804">
+      <ele>704</ele>
+      <time>2022-01-18T00:10:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6892471" lon="15.7659617">
+      <ele>705</ele>
+      <time>2022-01-18T00:11:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6893368" lon="15.7665556">
+      <ele>705</ele>
+      <time>2022-01-18T00:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.689472" lon="15.7671312">
+      <ele>703</ele>
+      <time>2022-01-18T00:13:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

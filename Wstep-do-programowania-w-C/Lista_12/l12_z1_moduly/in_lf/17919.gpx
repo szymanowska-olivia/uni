@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:09Z</time>
+    <bounds maxlat="52.5891018" maxlon="21.1710483" minlat="52.5872343" minlon="21.1561299"/>
+  </metadata>
+  <wpt lat="52.589102" lon="21.15613">
+    <ele>90</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12204">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.587234" lon="21.171048">
+    <ele>91</ele>
+    <name>Wolka Zatorska, gajowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12205">
+      <text>Wolka Zatorska, gajowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow niebieski / zolty - Wolka Zatorska, gajowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5891018,21.1561299;52.58816805994747,21.163589100000014;52.5872343,21.1710483">
+    <text>Rozejscie szlakow niebieski / zolty - Wolka Zatorska, gajowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5891018" lon="21.1561299">
+      <ele>90</ele>
+      <time>2022-01-18T01:22:09Z</time>
+    </trkpt>
+    <trkpt lat="52.5872343" lon="21.1710483">
+      <ele>91</ele>
+      <time>2022-01-18T01:37:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

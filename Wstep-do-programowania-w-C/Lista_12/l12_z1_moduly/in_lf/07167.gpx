@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:56Z</time>
+    <bounds maxlat="50.4057379" maxlon="16.2901766" minlat="50.4053142" minlon="16.2901712"/>
+  </metadata>
+  <wpt lat="50.405314" lon="16.290174">
+    <ele>451</ele>
+    <name>Lewin Klodzki, plac Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/4876">
+      <text>Lewin Klodzki, plac Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.405738" lon="16.290177">
+    <ele>447</ele>
+    <name>Lewin Klodzki</name>
+    <link href="https://mapa-turystyczna.pl/node/1841">
+      <text>Lewin Klodzki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lewin Klodzki, plac Kosciuszki - Lewin Klodzki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4053142,16.2901738;50.405501300369366,16.290172500000008;50.4057379,16.2901766">
+    <text>Lewin Klodzki, plac Kosciuszki - Lewin Klodzki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4053142" lon="16.2901738">
+      <ele>451</ele>
+      <time>2022-01-17T22:18:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4056884" lon="16.2901712">
+      <ele>448</ele>
+      <time>2022-01-17T22:19:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4057379" lon="16.2901766">
+      <ele>447</ele>
+      <time>2022-01-17T22:19:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

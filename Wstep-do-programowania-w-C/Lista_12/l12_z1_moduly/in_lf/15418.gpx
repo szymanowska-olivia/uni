@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:58Z</time>
+    <bounds maxlat="51.3092632" maxlon="17.0769787" minlat="51.3040876" minlon="17.0748554"/>
+  </metadata>
+  <wpt lat="51.309263" lon="17.076979">
+    <ele>202</ele>
+    <name>Trzebnica, ul. Henryka Brodatego</name>
+    <link href="https://mapa-turystyczna.pl/node/10537">
+      <text>Trzebnica, ul. Henryka Brodatego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.304088" lon="17.075039">
+    <ele>201</ele>
+    <name>Trzebnica, ul. Olesnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/10536">
+      <text>Trzebnica, ul. Olesnicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, ul. Henryka Brodatego - Trzebnica, ul. Olesnicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3092632,17.0769787;51.307041152103125,17.07550985000001;51.3040876,17.0750393">
+    <text>Trzebnica, ul. Henryka Brodatego - Trzebnica, ul. Olesnicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3092632" lon="17.0769787">
+      <ele>202</ele>
+      <time>2022-01-18T00:38:58Z</time>
+    </trkpt>
+    <trkpt lat="51.3087816" lon="17.0764969">
+      <ele>199</ele>
+      <time>2022-01-18T00:40:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3081042" lon="17.0759819">
+      <ele>196</ele>
+      <time>2022-01-18T00:41:21Z</time>
+    </trkpt>
+    <trkpt lat="51.3074805" lon="17.0756493">
+      <ele>195</ele>
+      <time>2022-01-18T00:42:32Z</time>
+    </trkpt>
+    <trkpt lat="51.3066018" lon="17.0753704">
+      <ele>197</ele>
+      <time>2022-01-18T00:44:10Z</time>
+    </trkpt>
+    <trkpt lat="51.3045427" lon="17.0752202">
+      <ele>195</ele>
+      <time>2022-01-18T00:47:53Z</time>
+    </trkpt>
+    <trkpt lat="51.3044152" lon="17.0751021">
+      <ele>196</ele>
+      <time>2022-01-18T00:48:09Z</time>
+    </trkpt>
+    <trkpt lat="51.3043348" lon="17.0748554">
+      <ele>197</ele>
+      <time>2022-01-18T00:48:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3040876" lon="17.0750393">
+      <ele>201</ele>
+      <time>2022-01-18T00:48:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:50Z</time>
+    <bounds maxlat="50.4446781" maxlon="16.6988741" minlat="50.4437011" minlon="16.6980492"/>
+  </metadata>
+  <wpt lat="50.444678" lon="16.698049">
+    <ele>440</ele>
+    <name>Kukulka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13238">
+      <text>Kukulka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.443701" lon="16.698874">
+    <ele>443</ele>
+    <name>Kukulka</name>
+    <link href="https://mapa-turystyczna.pl/node/13237">
+      <text>Kukulka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kukulka, rozejscie szlakow - Kukulka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4446781,16.6980492;50.444159550157636,16.698286750000022;50.4437011,16.6988741">
+    <text>Kukulka, rozejscie szlakow - Kukulka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4446781" lon="16.6980492">
+      <ele>440</ele>
+      <time>2022-01-18T01:51:50Z</time>
+    </trkpt>
+    <trkpt lat="50.444678" lon="16.6980493">
+      <ele>440</ele>
+      <time>2022-01-18T01:51:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4442817" lon="16.6981835">
+      <ele>440</ele>
+      <time>2022-01-18T01:52:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4440374" lon="16.69839">
+      <ele>441</ele>
+      <time>2022-01-18T01:53:02Z</time>
+    </trkpt>
+    <trkpt lat="50.443726" lon="16.6988413">
+      <ele>442</ele>
+      <time>2022-01-18T01:53:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4437011" lon="16.6988741">
+      <ele>443</ele>
+      <time>2022-01-18T01:53:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

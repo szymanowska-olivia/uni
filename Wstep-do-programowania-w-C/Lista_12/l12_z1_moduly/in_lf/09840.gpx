@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:11Z</time>
+    <bounds maxlat="50.019556" maxlon="17.0721531" minlat="50.0184737" minlon="17.0699215"/>
+  </metadata>
+  <wpt lat="50.018474" lon="17.069921">
+    <ele>407</ele>
+    <name>Sobotin, Diakonie</name>
+    <link href="https://mapa-turystyczna.pl/node/6920">
+      <text>Sobotin, Diakonie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.019556" lon="17.072153">
+    <ele>409</ele>
+    <name>Sobotin, Diakonie rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6919">
+      <text>Sobotin, Diakonie rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotin, Diakonie - Sobotin, Diakonie rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0184737,17.0699215;50.019052801092506,17.07110165000002;50.019556,17.0721531">
+    <text>Sobotin, Diakonie - Sobotin, Diakonie rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0184737" lon="17.0699215">
+      <ele>407</ele>
+      <time>2022-01-17T23:05:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0187288" lon="17.0704257">
+      <ele>406</ele>
+      <time>2022-01-17T23:05:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0193768" lon="17.0717776">
+      <ele>407</ele>
+      <time>2022-01-17T23:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.019556" lon="17.0721531">
+      <ele>409</ele>
+      <time>2022-01-17T23:08:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

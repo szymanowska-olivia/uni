@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:20:22Z</time>
+    <bounds maxlat="52.1328048" maxlon="21.7870433" minlat="52.1112813" minlon="21.7634496"/>
+  </metadata>
+  <wpt lat="52.132805" lon="21.76345">
+    <ele>177</ele>
+    <name>Skwarne</name>
+    <link href="https://mapa-turystyczna.pl/node/12110">
+      <text>Skwarne</text>
+    </link>
+  </wpt>
+  <wpt lat="52.111281" lon="21.787043">
+    <ele>166</ele>
+    <name>Podskwarne</name>
+    <link href="https://mapa-turystyczna.pl/node/12115">
+      <text>Podskwarne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skwarne - Podskwarne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1328048,21.7634496;52.123106150010564,21.77414724999999;52.1112813,21.7870433">
+    <text>Skwarne - Podskwarne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1328048" lon="21.7634496">
+      <ele>177</ele>
+      <time>2022-01-18T01:20:22Z</time>
+    </trkpt>
+    <trkpt lat="52.12835" lon="21.7685091">
+      <ele>176</ele>
+      <time>2022-01-18T01:29:47Z</time>
+    </trkpt>
+    <trkpt lat="52.1252174" lon="21.7718667">
+      <ele>187</ele>
+      <time>2022-01-18T01:36:17Z</time>
+    </trkpt>
+    <trkpt lat="52.1209948" lon="21.7764278">
+      <ele>170</ele>
+      <time>2022-01-18T01:45:05Z</time>
+    </trkpt>
+    <trkpt lat="52.1178261" lon="21.7799146">
+      <ele>178</ele>
+      <time>2022-01-18T01:51:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1147297" lon="21.7831869">
+      <ele>172</ele>
+      <time>2022-01-18T01:58:06Z</time>
+    </trkpt>
+    <trkpt lat="52.1127597" lon="21.7853434">
+      <ele>168</ele>
+      <time>2022-01-18T02:02:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1117055" lon="21.7864914">
+      <ele>170</ele>
+      <time>2022-01-18T02:04:25Z</time>
+    </trkpt>
+    <trkpt lat="52.1112813" lon="21.7870433">
+      <ele>166</ele>
+      <time>2022-01-18T02:05:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:38Z</time>
+    <bounds maxlat="50.3014021" maxlon="17.3657531" minlat="50.3008573" minlon="17.3611021"/>
+  </metadata>
+  <wpt lat="50.300857" lon="17.365753">
+    <ele>495</ele>
+    <name>Przednia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2658">
+      <text>Przednia Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.301402" lon="17.361102">
+    <ele>468</ele>
+    <name>Pod Przednia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2659">
+      <text>Pod Przednia Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przednia Kopa - Pod Przednia Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3008573,17.3657531;50.30109375004942,17.36344769999999;50.3014021,17.3611021">
+    <text>Przednia Kopa - Pod Przednia Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3008573" lon="17.3657531">
+      <ele>495</ele>
+      <time>2022-01-17T21:34:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3009327" lon="17.3652267">
+      <ele>496</ele>
+      <time>2022-01-17T21:35:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3010322" lon="17.364534">
+      <ele>494</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3010252" lon="17.3638567">
+      <ele>491</ele>
+      <time>2022-01-17T21:36:39Z</time>
+    </trkpt>
+    <trkpt lat="50.3011623" lon="17.3630387">
+      <ele>484</ele>
+      <time>2022-01-17T21:37:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3011898" lon="17.3624419">
+      <ele>480</ele>
+      <time>2022-01-17T21:38:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3012136" lon="17.3618128">
+      <ele>474</ele>
+      <time>2022-01-17T21:38:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3014021" lon="17.3611021">
+      <ele>468</ele>
+      <time>2022-01-17T21:39:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

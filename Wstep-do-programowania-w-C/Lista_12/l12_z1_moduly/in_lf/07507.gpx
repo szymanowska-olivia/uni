@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:27Z</time>
+    <bounds maxlat="50.0655605" maxlon="19.8631082" minlat="50.0629107" minlon="19.861047"/>
+  </metadata>
+  <wpt lat="50.06556" lon="19.863108">
+    <ele>226</ele>
+    <name>Krakow, Wola Justowska</name>
+    <link href="https://mapa-turystyczna.pl/node/5112">
+      <text>Krakow, Wola Justowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.062911" lon="19.861444">
+    <ele>242</ele>
+    <name>Las Wolski, aleja Panienskich Skal</name>
+    <link href="https://mapa-turystyczna.pl/node/5113">
+      <text>Las Wolski, aleja Panienskich Skal</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krakow, Wola Justowska - Las Wolski, aleja Panienskich Skal</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0655605,19.8631082;50.064267050263034,19.861771149999992;50.0629107,19.861444">
+    <text>Krakow, Wola Justowska - Las Wolski, aleja Panienskich Skal</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0655605" lon="19.8631082">
+      <ele>226</ele>
+      <time>2022-01-17T22:24:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0652584" lon="19.8628065">
+      <ele>227</ele>
+      <time>2022-01-17T22:25:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0649683" lon="19.8625195">
+      <ele>227</ele>
+      <time>2022-01-17T22:25:34Z</time>
+    </trkpt>
+    <trkpt lat="50.0646489" lon="19.862211">
+      <ele>228</ele>
+      <time>2022-01-17T22:26:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0645305" lon="19.8621051">
+      <ele>229</ele>
+      <time>2022-01-17T22:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0644259" lon="19.8619723">
+      <ele>229</ele>
+      <time>2022-01-17T22:26:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0641082" lon="19.86157">
+      <ele>231</ele>
+      <time>2022-01-17T22:27:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0637923" lon="19.8611355">
+      <ele>233</ele>
+      <time>2022-01-17T22:27:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0636649" lon="19.8610872">
+      <ele>234</ele>
+      <time>2022-01-17T22:28:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0634841" lon="19.861047">
+      <ele>236</ele>
+      <time>2022-01-17T22:28:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0633067" lon="19.8610872">
+      <ele>237</ele>
+      <time>2022-01-17T22:28:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0629107" lon="19.861444">
+      <ele>242</ele>
+      <time>2022-01-17T22:29:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:32Z</time>
+    <bounds maxlat="50.293641" maxlon="18.6662179" minlat="50.2932402" minlon="18.6656843"/>
+  </metadata>
+  <wpt lat="50.293641" lon="18.665684">
+    <ele>225</ele>
+    <name>Gliwice, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/9119">
+      <text>Gliwice, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.29324" lon="18.666218">
+    <ele>222</ele>
+    <name>Gliwice, ul. Bytomska</name>
+    <link href="https://mapa-turystyczna.pl/node/12442">
+      <text>Gliwice, ul. Bytomska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, Rynek - Gliwice, ul. Bytomska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.293641,18.6656843;50.29339355024712,18.66598115000002;50.2932402,18.6662179">
+    <text>Gliwice, Rynek - Gliwice, ul. Bytomska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.293641" lon="18.6656843">
+      <ele>225</ele>
+      <time>2022-01-18T01:29:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2935469" lon="18.6657444">
+      <ele>224</ele>
+      <time>2022-01-18T01:29:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2932402" lon="18.6662179">
+      <ele>222</ele>
+      <time>2022-01-18T01:30:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

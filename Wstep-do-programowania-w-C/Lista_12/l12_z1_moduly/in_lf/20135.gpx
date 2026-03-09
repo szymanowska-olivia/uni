@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:09Z</time>
+    <bounds maxlat="50.3837181" maxlon="16.2135874" minlat="50.3836853" minlon="16.2132712"/>
+  </metadata>
+  <wpt lat="50.383685" lon="16.213271">
+    <ele>454</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13554">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.383718" lon="16.213587">
+    <ele>452</ele>
+    <name>Pod Dubovici</name>
+    <link href="https://mapa-turystyczna.pl/node/5712">
+      <text>Pod Dubovici</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Dubovici</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3836853,16.2132712;50.38370170000284,16.21342930000001;50.3837181,16.2135874">
+    <text>Rozejscie szlakow - Pod Dubovici</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3836853" lon="16.2132712">
+      <ele>454</ele>
+      <time>2022-01-18T02:01:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3837181" lon="16.2135874">
+      <ele>452</ele>
+      <time>2022-01-18T02:02:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

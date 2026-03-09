@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:30:43Z</time>
+    <bounds maxlat="50.7382407" maxlon="21.791574" minlat="50.7366711" minlon="21.7901736"/>
+  </metadata>
+  <wpt lat="50.736671" lon="21.790174">
+    <ele>143</ele>
+    <name>Dwikozy</name>
+    <link href="https://mapa-turystyczna.pl/node/12482">
+      <text>Dwikozy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.738241" lon="21.791574">
+    <ele>144</ele>
+    <name>Dwikozy, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12483">
+      <text>Dwikozy, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dwikozy - Dwikozy, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7366711,21.7901736;50.737153852488035,21.790519899999996;50.7382407,21.791574">
+    <text>Dwikozy - Dwikozy, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7366711" lon="21.7901736">
+      <ele>143</ele>
+      <time>2022-01-18T01:30:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7376366" lon="21.7908662">
+      <ele>145</ele>
+      <time>2022-01-18T01:32:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7382407" lon="21.791574">
+      <ele>144</ele>
+      <time>2022-01-18T01:33:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

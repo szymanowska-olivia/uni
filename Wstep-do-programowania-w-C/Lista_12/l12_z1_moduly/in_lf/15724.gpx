@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:19Z</time>
+    <bounds maxlat="51.0245634" maxlon="15.2641721" minlat="51.0233592" minlon="15.2633385"/>
+  </metadata>
+  <wpt lat="51.024563" lon="15.264172">
+    <ele>235</ele>
+    <name>Lesna, rzeka Kwisa</name>
+    <link href="https://mapa-turystyczna.pl/node/10742">
+      <text>Lesna, rzeka Kwisa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.023389" lon="15.263338">
+    <ele>238</ele>
+    <name>Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/3435">
+      <text>Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesna, rzeka Kwisa - Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0245634,15.2641721;51.023735701528885,15.263826300000014;51.0233891,15.2633385">
+    <text>Lesna, rzeka Kwisa - Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0245634" lon="15.2641721">
+      <ele>235</ele>
+      <time>2022-01-18T00:44:19Z</time>
+    </trkpt>
+    <trkpt lat="51.0241122" lon="15.2639737">
+      <ele>234</ele>
+      <time>2022-01-18T00:45:17Z</time>
+    </trkpt>
+    <trkpt lat="51.0233592" lon="15.2636789">
+      <ele>238</ele>
+      <time>2022-01-18T00:46:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0233891" lon="15.2633385">
+      <ele>238</ele>
+      <time>2022-01-18T00:47:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

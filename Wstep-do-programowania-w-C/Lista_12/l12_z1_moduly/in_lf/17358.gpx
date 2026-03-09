@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:07Z</time>
+    <bounds maxlat="51.0499738" maxlon="21.0683398" minlat="51.0494818" minlon="21.0682099"/>
+  </metadata>
+  <wpt lat="51.049482" lon="21.06834">
+    <ele>219</ele>
+    <name>Starachowice, poczatek czarnego szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/11803">
+      <text>Starachowice, poczatek czarnego szlaku</text>
+    </link>
+  </wpt>
+  <wpt lat="51.049974" lon="21.06821">
+    <ele>223</ele>
+    <name>Starachowice, Na Szlakowisku</name>
+    <link href="https://mapa-turystyczna.pl/node/3181">
+      <text>Starachowice, Na Szlakowisku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starachowice, poczatek czarnego szlaku - Starachowice, Na Szlakowisku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0494818,21.0683398;51.04969425007075,21.068235200000007;51.0499738,21.0682099">
+    <text>Starachowice, poczatek czarnego szlaku - Starachowice, Na Szlakowisku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0494818" lon="21.0683398">
+      <ele>219</ele>
+      <time>2022-01-18T01:12:07Z</time>
+    </trkpt>
+    <trkpt lat="51.0496133" lon="21.0682218">
+      <ele>220</ele>
+      <time>2022-01-18T01:12:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0497752" lon="21.0682486">
+      <ele>221</ele>
+      <time>2022-01-18T01:12:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0498494" lon="21.0682218">
+      <ele>221</ele>
+      <time>2022-01-18T01:12:52Z</time>
+    </trkpt>
+    <trkpt lat="51.0499738" lon="21.0682099">
+      <ele>223</ele>
+      <time>2022-01-18T01:13:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

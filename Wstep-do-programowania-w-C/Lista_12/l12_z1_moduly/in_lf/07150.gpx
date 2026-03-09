@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:39Z</time>
+    <bounds maxlat="50.7348586" maxlon="15.6974925" minlat="50.734134" minlon="15.6973278"/>
+  </metadata>
+  <wpt lat="50.734859" lon="15.697492">
+    <ele>1415</ele>
+    <name>Lucni Bouda, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4867">
+      <text>Lucni Bouda, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734134" lon="15.697328">
+    <ele>1413</ele>
+    <name>Lucni Bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1199">
+      <text>Lucni Bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lucni Bouda, skrzyzowanie - Lucni Bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7348586,15.6974925;50.734314950349514,15.697392199999992;50.734134,15.6973278">
+    <text>Lucni Bouda, skrzyzowanie - Lucni Bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7348586" lon="15.6974925">
+      <ele>1415</ele>
+      <time>2022-01-17T22:18:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7344959" lon="15.6974566">
+      <ele>1415</ele>
+      <time>2022-01-17T22:19:09Z</time>
+    </trkpt>
+    <trkpt lat="50.734134" lon="15.6973278">
+      <ele>1413</ele>
+      <time>2022-01-17T22:19:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

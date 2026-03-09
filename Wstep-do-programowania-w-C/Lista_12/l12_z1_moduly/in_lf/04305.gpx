@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:42Z</time>
+    <bounds maxlat="50.7441953" maxlon="15.9076452" minlat="50.7423283" minlon="15.9072428"/>
+  </metadata>
+  <wpt lat="50.742328" lon="15.907645">
+    <ele>696</ele>
+    <name>Paczyn, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3000">
+      <text>Paczyn, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.744195" lon="15.907345">
+    <ele>715</ele>
+    <name>Paczyn, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3001">
+      <text>Paczyn, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paczyn, skrzyzowanie - Paczyn, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7423283,15.9076452;50.74322070009576,15.907252199999977;50.7441953,15.9073448">
+    <text>Paczyn, skrzyzowanie - Paczyn, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7423283" lon="15.9076452">
+      <ele>696</ele>
+      <time>2022-01-17T21:40:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7424905" lon="15.9075781">
+      <ele>697</ele>
+      <time>2022-01-17T21:41:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7426976" lon="15.9073635">
+      <ele>701</ele>
+      <time>2022-01-17T21:41:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7428164" lon="15.9072723">
+      <ele>703</ele>
+      <time>2022-01-17T21:42:07Z</time>
+    </trkpt>
+    <trkpt lat="50.743126" lon="15.9072428">
+      <ele>705</ele>
+      <time>2022-01-17T21:42:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7433154" lon="15.9072616">
+      <ele>706</ele>
+      <time>2022-01-17T21:43:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7438168" lon="15.9073663">
+      <ele>710</ele>
+      <time>2022-01-17T21:44:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7441953" lon="15.9073448">
+      <ele>715</ele>
+      <time>2022-01-17T21:45:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

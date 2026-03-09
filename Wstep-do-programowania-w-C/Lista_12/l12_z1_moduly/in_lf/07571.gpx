@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:38Z</time>
+    <bounds maxlat="50.054752" maxlon="19.8562807" minlat="50.0545729" minlon="19.8548698"/>
+  </metadata>
+  <wpt lat="50.054752" lon="19.85487">
+    <ele>349</ele>
+    <name>Las Wolski, aleja Zubrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/5131">
+      <text>Las Wolski, aleja Zubrowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.054683" lon="19.856281">
+    <ele>353</ele>
+    <name>Las Wolski, rozejscie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5167">
+      <text>Las Wolski, rozejscie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, aleja Zubrowa - Las Wolski, rozejscie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.054752,19.8548698;50.05465725007415,19.855634949999995;50.0546831,19.8562807">
+    <text>Las Wolski, aleja Zubrowa - Las Wolski, rozejscie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.054752" lon="19.8548698">
+      <ele>349</ele>
+      <time>2022-01-17T22:25:38Z</time>
+    </trkpt>
+    <trkpt lat="50.0547416" lon="19.8551475">
+      <ele>350</ele>
+      <time>2022-01-17T22:26:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0545729" lon="19.8561224">
+      <ele>354</ele>
+      <time>2022-01-17T22:27:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0546831" lon="19.8562807">
+      <ele>353</ele>
+      <time>2022-01-17T22:27:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

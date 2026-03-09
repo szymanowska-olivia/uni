@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:58Z</time>
+    <bounds maxlat="50.727206" maxlon="15.6147266" minlat="50.7255593" minlon="15.606814"/>
+  </metadata>
+  <wpt lat="50.725559" lon="15.606814">
+    <ele>713</ele>
+    <name>Spindleruv Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/1375">
+      <text>Spindleruv Mlyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.727206" lon="15.614727">
+    <ele>821</ele>
+    <name>Drevarska cesta</name>
+    <link href="https://mapa-turystyczna.pl/node/1376">
+      <text>Drevarska cesta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spindleruv Mlyn - Drevarska cesta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7255593,15.606814;50.72637810024786,15.611540049999991;50.727206,15.6147266">
+    <text>Spindleruv Mlyn - Drevarska cesta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7255593" lon="15.606814">
+      <ele>713</ele>
+      <time>2022-01-17T21:07:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7257203" lon="15.607098">
+      <ele>716</ele>
+      <time>2022-01-17T21:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7257941" lon="15.6073182">
+      <ele>717</ele>
+      <time>2022-01-17T21:09:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7257472" lon="15.6076508">
+      <ele>719</ele>
+      <time>2022-01-17T21:10:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7257747" lon="15.6085625">
+      <ele>725</ele>
+      <time>2022-01-17T21:12:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7258766" lon="15.6090989">
+      <ele>731</ele>
+      <time>2022-01-17T21:13:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7260918" lon="15.609448">
+      <ele>736</ele>
+      <time>2022-01-17T21:14:44Z</time>
+    </trkpt>
+    <trkpt lat="50.726236" lon="15.6099415">
+      <ele>743</ele>
+      <time>2022-01-17T21:16:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7262257" lon="15.6108212">
+      <ele>760</ele>
+      <time>2022-01-17T21:18:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7265305" lon="15.6122589">
+      <ele>777</ele>
+      <time>2022-01-17T21:21:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7270894" lon="15.614394">
+      <ele>813</ele>
+      <time>2022-01-17T21:27:04Z</time>
+    </trkpt>
+    <trkpt lat="50.727206" lon="15.6147266">
+      <ele>821</ele>
+      <time>2022-01-17T21:27:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

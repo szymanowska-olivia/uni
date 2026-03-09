@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:19:38Z</time>
+    <bounds maxlat="50.6344947" maxlon="18.841448" minlat="50.6323327" minlon="18.8411605"/>
+  </metadata>
+  <wpt lat="50.632333" lon="18.841448">
+    <ele>306</ele>
+    <name>Koszecin, park</name>
+    <link href="https://mapa-turystyczna.pl/node/9744">
+      <text>Koszecin, park</text>
+    </link>
+  </wpt>
+  <wpt lat="50.634495" lon="18.841161">
+    <ele>304</ele>
+    <name>Koszecin</name>
+    <link href="https://mapa-turystyczna.pl/node/9726">
+      <text>Koszecin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Koszecin, park - Koszecin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6323327,18.841448;50.6335532594276,18.841272850000003;50.6344947,18.8411605">
+    <text>Koszecin, park - Koszecin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6323327" lon="18.841448">
+      <ele>306</ele>
+      <time>2022-01-18T00:19:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6326118" lon="18.8413852">
+      <ele>306</ele>
+      <time>2022-01-18T00:20:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6344947" lon="18.8411605">
+      <ele>304</ele>
+      <time>2022-01-18T00:24:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

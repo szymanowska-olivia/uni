@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:40:30Z</time>
+    <bounds maxlat="50.7931771" maxlon="15.8359131" minlat="50.7930635" minlon="15.8356632"/>
+  </metadata>
+  <wpt lat="50.793177" lon="15.835663">
+    <ele>461</ele>
+    <name>Kowary</name>
+    <link href="https://mapa-turystyczna.pl/node/1180">
+      <text>Kowary</text>
+    </link>
+  </wpt>
+  <wpt lat="50.793064" lon="15.835913">
+    <ele>465</ele>
+    <name>Kowary, ul. Gornicza</name>
+    <link href="https://mapa-turystyczna.pl/node/8221">
+      <text>Kowary, ul. Gornicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kowary - Kowary, ul. Gornicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7931771,15.8356632;50.793120300034516,15.835788150000004;50.7930635,15.8359131">
+    <text>Kowary - Kowary, ul. Gornicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7931771" lon="15.8356632">
+      <ele>461</ele>
+      <time>2022-01-17T23:40:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7930635" lon="15.8359131">
+      <ele>465</ele>
+      <time>2022-01-17T23:41:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

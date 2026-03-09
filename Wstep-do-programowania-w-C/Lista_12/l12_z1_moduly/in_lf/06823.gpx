@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:13:19Z</time>
+    <bounds maxlat="49.666261" maxlon="20.010155" minlat="49.664717" minlon="20.007045"/>
+  </metadata>
+  <wpt lat="49.666261" lon="20.007045">
+    <ele>634</ele>
+    <name>Przelecz Glisne</name>
+    <link href="https://mapa-turystyczna.pl/node/915">
+      <text>Przelecz Glisne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.664717" lon="20.010155">
+    <ele>619</ele>
+    <name>Glisne, Michalaki</name>
+    <link href="https://mapa-turystyczna.pl/node/4695">
+      <text>Glisne, Michalaki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Glisne - Glisne, Michalaki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.666261,20.007045;49.66553400032932,20.008458500000028;49.664717,20.010155">
+    <text>Przelecz Glisne - Glisne, Michalaki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.666261" lon="20.007045">
+      <ele>634</ele>
+      <time>2022-01-17T22:13:19Z</time>
+    </trkpt>
+    <trkpt lat="49.665779" lon="20.007963">
+      <ele>628</ele>
+      <time>2022-01-17T22:14:49Z</time>
+    </trkpt>
+    <trkpt lat="49.665713" lon="20.008097">
+      <ele>628</ele>
+      <time>2022-01-17T22:15:02Z</time>
+    </trkpt>
+    <trkpt lat="49.665355" lon="20.00882">
+      <ele>626</ele>
+      <time>2022-01-17T22:16:11Z</time>
+    </trkpt>
+    <trkpt lat="49.66512" lon="20.009225">
+      <ele>623</ele>
+      <time>2022-01-17T22:16:52Z</time>
+    </trkpt>
+    <trkpt lat="49.664922" lon="20.009496">
+      <ele>623</ele>
+      <time>2022-01-17T22:17:23Z</time>
+    </trkpt>
+    <trkpt lat="49.664852" lon="20.00966">
+      <ele>622</ele>
+      <time>2022-01-17T22:17:38Z</time>
+    </trkpt>
+    <trkpt lat="49.664781" lon="20.009902">
+      <ele>621</ele>
+      <time>2022-01-17T22:17:58Z</time>
+    </trkpt>
+    <trkpt lat="49.664717" lon="20.010155">
+      <ele>619</ele>
+      <time>2022-01-17T22:18:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

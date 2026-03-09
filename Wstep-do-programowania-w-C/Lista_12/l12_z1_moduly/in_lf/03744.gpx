@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:50Z</time>
+    <bounds maxlat="50.3213026" maxlon="17.5746006" minlat="50.319268" minlon="17.5736511"/>
+  </metadata>
+  <wpt lat="50.321303" lon="17.574601">
+    <ele>271</ele>
+    <name>Prudnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2610">
+      <text>Prudnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.319268" lon="17.573651">
+    <ele>270</ele>
+    <name>Prudnik, park miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/2611">
+      <text>Prudnik, park miejski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prudnik - Prudnik, park miejski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3213026,17.5746006;50.320285310885964,17.574125850000005;50.319268,17.5736511">
+    <text>Prudnik - Prudnik, park miejski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3213026" lon="17.5746006">
+      <ele>271</ele>
+      <time>2022-01-17T21:33:50Z</time>
+    </trkpt>
+    <trkpt lat="50.319268" lon="17.5736511">
+      <ele>270</ele>
+      <time>2022-01-17T21:38:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

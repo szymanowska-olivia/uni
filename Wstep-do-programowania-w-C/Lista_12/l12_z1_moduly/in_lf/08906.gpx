@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:26Z</time>
+    <bounds maxlat="50.5002813" maxlon="16.1416143" minlat="50.4996944" minlon="16.1389911"/>
+  </metadata>
+  <wpt lat="50.500049" lon="16.138991">
+    <ele>501</ele>
+    <name>Maternice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6199">
+      <text>Maternice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.500281" lon="16.141614">
+    <ele>516</ele>
+    <name>U Maternice</name>
+    <link href="https://mapa-turystyczna.pl/node/6200">
+      <text>U Maternice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maternice, rozc. - U Maternice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5000492,16.1389911;50.49975750000889,16.1404717;50.5002813,16.1416143">
+    <text>Maternice, rozc. - U Maternice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5000492" lon="16.1389911">
+      <ele>501</ele>
+      <time>2022-01-17T22:47:26Z</time>
+    </trkpt>
+    <trkpt lat="50.5000799" lon="16.1392218">
+      <ele>502</ele>
+      <time>2022-01-17T22:47:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4999605" lon="16.1395758">
+      <ele>501</ele>
+      <time>2022-01-17T22:48:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4997933" lon="16.1397743">
+      <ele>499</ele>
+      <time>2022-01-17T22:48:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4996944" lon="16.1400104">
+      <ele>499</ele>
+      <time>2022-01-17T22:49:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4997285" lon="16.1403537">
+      <ele>505</ele>
+      <time>2022-01-17T22:49:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4997865" lon="16.1405897">
+      <ele>510</ele>
+      <time>2022-01-17T22:50:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4998479" lon="16.141094">
+      <ele>509</ele>
+      <time>2022-01-17T22:51:05Z</time>
+    </trkpt>
+    <trkpt lat="50.4998957" lon="16.1412013">
+      <ele>510</ele>
+      <time>2022-01-17T22:51:17Z</time>
+    </trkpt>
+    <trkpt lat="50.5000254" lon="16.1414051">
+      <ele>512</ele>
+      <time>2022-01-17T22:51:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5002813" lon="16.1416143">
+      <ele>516</ele>
+      <time>2022-01-17T22:52:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

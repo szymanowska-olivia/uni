@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:28Z</time>
+    <bounds maxlat="50.655093" maxlon="15.9082291" minlat="50.6521834" minlon="15.9065616"/>
+  </metadata>
+  <wpt lat="50.655093" lon="15.908229">
+    <ele>618</ele>
+    <name>Zacler, stred</name>
+    <link href="https://mapa-turystyczna.pl/node/1440">
+      <text>Zacler, stred</text>
+    </link>
+  </wpt>
+  <wpt lat="50.652183" lon="15.906562">
+    <ele>621</ele>
+    <name>Zacler, namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1439">
+      <text>Zacler, namesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zacler, stred - Zacler, namesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.655093,15.9082291;50.65355200368644,15.907202649999993;50.6521834,15.9065616">
+    <text>Zacler, stred - Zacler, namesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.655093" lon="15.9082291">
+      <ele>618</ele>
+      <time>2022-01-17T21:09:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6541405" lon="15.9074253">
+      <ele>623</ele>
+      <time>2022-01-17T21:11:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6529635" lon="15.90698">
+      <ele>623</ele>
+      <time>2022-01-17T21:13:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6521834" lon="15.9065616">
+      <ele>620</ele>
+      <time>2022-01-17T21:14:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

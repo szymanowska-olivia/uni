@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:25Z</time>
+    <bounds maxlat="50.81273" maxlon="16.1657006" minlat="50.8106738" minlon="16.163717"/>
+  </metadata>
+  <wpt lat="50.810674" lon="16.165341">
+    <ele>744</ele>
+    <name>Droga "Tarcie Chrzanu"</name>
+    <link href="https://mapa-turystyczna.pl/node/8063">
+      <text>Droga "Tarcie Chrzanu"</text>
+    </link>
+  </wpt>
+  <wpt lat="50.81273" lon="16.163717">
+    <ele>778</ele>
+    <name>Trojgarb</name>
+    <link href="https://mapa-turystyczna.pl/node/8064">
+      <text>Trojgarb</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga &quot;Tarcie Chrzanu&quot; - Trojgarb</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8106738,16.1653411;50.81210930309032,16.164713550000023;50.81273,16.163717">
+    <text>Droga &quot;Tarcie Chrzanu&quot; - Trojgarb</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8106738" lon="16.1653411">
+      <ele>744</ele>
+      <time>2022-01-17T23:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8107903" lon="16.1652949">
+      <ele>746</ele>
+      <time>2022-01-17T23:35:52Z</time>
+    </trkpt>
+    <trkpt lat="50.810917" lon="16.165313">
+      <ele>749</ele>
+      <time>2022-01-17T23:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.811167" lon="16.1655638">
+      <ele>754</ele>
+      <time>2022-01-17T23:37:29Z</time>
+    </trkpt>
+    <trkpt lat="50.811389" lon="16.1657006">
+      <ele>758</ele>
+      <time>2022-01-17T23:38:23Z</time>
+    </trkpt>
+    <trkpt lat="50.811572" lon="16.1656201">
+      <ele>762</ele>
+      <time>2022-01-17T23:39:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8126466" lon="16.163807">
+      <ele>779</ele>
+      <time>2022-01-17T23:45:02Z</time>
+    </trkpt>
+    <trkpt lat="50.81273" lon="16.163717">
+      <ele>778</ele>
+      <time>2022-01-17T23:45:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

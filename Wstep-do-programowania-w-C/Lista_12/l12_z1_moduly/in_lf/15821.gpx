@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:09Z</time>
+    <bounds maxlat="54.410077" maxlon="18.5552162" minlat="54.4089093" minlon="18.5536069"/>
+  </metadata>
+  <wpt lat="54.410077" lon="18.553607">
+    <ele>38</ele>
+    <name>Gdansk, Oliwa, ul. Spacerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10819">
+      <text>Gdansk, Oliwa, ul. Spacerowa</text>
+    </link>
+  </wpt>
+  <wpt lat="54.408909" lon="18.555216">
+    <ele>33</ele>
+    <name>Gdansk, Oliwa, ul. Kwietna</name>
+    <link href="https://mapa-turystyczna.pl/node/10820">
+      <text>Gdansk, Oliwa, ul. Kwietna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gdansk, Oliwa, ul. Spacerowa - Gdansk, Oliwa, ul. Kwietna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.410077,18.5536069;54.40941040037943,18.554449099999996;54.4089093,18.5552162">
+    <text>Gdansk, Oliwa, ul. Spacerowa - Gdansk, Oliwa, ul. Kwietna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.410077" lon="18.5536069">
+      <ele>38</ele>
+      <time>2022-01-18T00:46:09Z</time>
+    </trkpt>
+    <trkpt lat="54.4100114" lon="18.5538054">
+      <ele>36</ele>
+      <time>2022-01-18T00:46:24Z</time>
+    </trkpt>
+    <trkpt lat="54.4098959" lon="18.5540092">
+      <ele>35</ele>
+      <time>2022-01-18T00:46:44Z</time>
+    </trkpt>
+    <trkpt lat="54.4097336" lon="18.5542291">
+      <ele>33</ele>
+      <time>2022-01-18T00:47:08Z</time>
+    </trkpt>
+    <trkpt lat="54.4095868" lon="18.5543579">
+      <ele>33</ele>
+      <time>2022-01-18T00:47:27Z</time>
+    </trkpt>
+    <trkpt lat="54.409234" lon="18.5545403">
+      <ele>33</ele>
+      <time>2022-01-18T00:48:09Z</time>
+    </trkpt>
+    <trkpt lat="54.4090342" lon="18.5550606">
+      <ele>33</ele>
+      <time>2022-01-18T00:48:51Z</time>
+    </trkpt>
+    <trkpt lat="54.4089093" lon="18.5552162">
+      <ele>33</ele>
+      <time>2022-01-18T00:49:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

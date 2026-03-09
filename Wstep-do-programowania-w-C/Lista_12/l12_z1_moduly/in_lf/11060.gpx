@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:42Z</time>
+    <bounds maxlat="50.9108307" maxlon="15.7234984" minlat="50.9106963" minlon="15.7193283"/>
+  </metadata>
+  <wpt lat="50.910827" lon="15.723498">
+    <ele>342</ele>
+    <name>Aleja Boleslawa Krzywoustego</name>
+    <link href="https://mapa-turystyczna.pl/node/7786">
+      <text>Aleja Boleslawa Krzywoustego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.910831" lon="15.719328">
+    <ele>346</ele>
+    <name>Cudowne Zrodelko</name>
+    <link href="https://mapa-turystyczna.pl/node/7785">
+      <text>Cudowne Zrodelko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Aleja Boleslawa Krzywoustego - Cudowne Zrodelko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9108266,15.7234984;50.91070815000029,15.721455199999967;50.9108307,15.7193283">
+    <text>Aleja Boleslawa Krzywoustego - Cudowne Zrodelko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9108266" lon="15.7234984">
+      <ele>342</ele>
+      <time>2022-01-17T23:27:42Z</time>
+    </trkpt>
+    <trkpt lat="50.9108266" lon="15.7230127">
+      <ele>342</ele>
+      <time>2022-01-17T23:28:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9107132" lon="15.7221767">
+      <ele>345</ele>
+      <time>2022-01-17T23:29:17Z</time>
+    </trkpt>
+    <trkpt lat="50.9107031" lon="15.7207337">
+      <ele>346</ele>
+      <time>2022-01-17T23:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.9106963" lon="15.7198539">
+      <ele>347</ele>
+      <time>2022-01-17T23:32:02Z</time>
+    </trkpt>
+    <trkpt lat="50.9108307" lon="15.7193283">
+      <ele>346</ele>
+      <time>2022-01-17T23:32:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

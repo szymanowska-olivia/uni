@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:25Z</time>
+    <bounds maxlat="50.7632526" maxlon="15.6394408" minlat="50.7625919" minlon="15.6383121"/>
+  </metadata>
+  <wpt lat="50.762592" lon="15.638312">
+    <ele>1225</ele>
+    <name>Schronisko PTTK Odrodzenie, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1356">
+      <text>Schronisko PTTK Odrodzenie, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.763253" lon="15.639441">
+    <ele>1239</ele>
+    <name>Schronisko PTTK Odrodzenie</name>
+    <link href="https://mapa-turystyczna.pl/node/1355">
+      <text>Schronisko PTTK Odrodzenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Odrodzenie, skrzyzowanie - Schronisko PTTK Odrodzenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7625919,15.6383121;50.76304335046788,15.63912105;50.7632526,15.6394408">
+    <text>Schronisko PTTK Odrodzenie, skrzyzowanie - Schronisko PTTK Odrodzenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7625919" lon="15.6383121">
+      <ele>1225</ele>
+      <time>2022-01-17T21:07:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7628341" lon="15.6388013">
+      <ele>1230</ele>
+      <time>2022-01-17T21:08:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7632526" lon="15.6394408">
+      <ele>1239</ele>
+      <time>2022-01-17T21:10:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

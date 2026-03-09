@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:42Z</time>
+    <bounds maxlat="52.2313982" maxlon="17.0963788" minlat="52.2298079" minlon="17.0941823"/>
+  </metadata>
+  <wpt lat="52.231398" lon="17.096379">
+    <ele>72</ele>
+    <name>Bnin</name>
+    <link href="https://mapa-turystyczna.pl/node/10259">
+      <text>Bnin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.229808" lon="17.094182">
+    <ele>67</ele>
+    <name>Bnin, ul. Blazejewska</name>
+    <link href="https://mapa-turystyczna.pl/node/10355">
+      <text>Bnin, ul. Blazejewska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bnin - Bnin, ul. Blazejewska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2313982,17.0963788;52.23080105208201,17.09547395000001;52.2298079,17.0941823">
+    <text>Bnin - Bnin, ul. Blazejewska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2313982" lon="17.0963788">
+      <ele>72</ele>
+      <time>2022-01-18T00:34:42Z</time>
+    </trkpt>
+    <trkpt lat="52.2313099" lon="17.096321">
+      <ele>72</ele>
+      <time>2022-01-18T00:34:56Z</time>
+    </trkpt>
+    <trkpt lat="52.231231" lon="17.0962352">
+      <ele>72</ele>
+      <time>2022-01-18T00:35:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2303711" lon="17.0947127">
+      <ele>66</ele>
+      <time>2022-01-18T00:38:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2301805" lon="17.0944981">
+      <ele>66</ele>
+      <time>2022-01-18T00:38:42Z</time>
+    </trkpt>
+    <trkpt lat="52.2298257" lon="17.0941977">
+      <ele>67</ele>
+      <time>2022-01-18T00:39:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2298079" lon="17.0941823">
+      <ele>67</ele>
+      <time>2022-01-18T00:39:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

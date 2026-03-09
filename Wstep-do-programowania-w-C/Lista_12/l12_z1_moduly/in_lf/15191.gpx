@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:51Z</time>
+    <bounds maxlat="50.4692545" maxlon="16.3421469" minlat="50.4666741" minlon="16.3399261"/>
+  </metadata>
+  <wpt lat="50.466674" lon="16.340103">
+    <ele>786</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10358">
+      <text>Skrzyzowanie szlakow niebieski / zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.469254" lon="16.342147">
+    <ele>755</ele>
+    <name>Karlow, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1819">
+      <text>Karlow, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zielony / zolty - Karlow, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4666741,16.3401025;50.46795445048541,16.34081994999999;50.4692545,16.3421469">
+    <text>Skrzyzowanie szlakow niebieski / zielony / zolty - Karlow, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4666741" lon="16.3401025">
+      <ele>786</ele>
+      <time>2022-01-18T00:34:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4670607" lon="16.3399583">
+      <ele>783</ele>
+      <time>2022-01-18T00:35:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4673731" lon="16.3399261">
+      <ele>779</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.4676531" lon="16.3400226">
+      <ele>774</ele>
+      <time>2022-01-18T00:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4677402" lon="16.3404934">
+      <ele>772</ele>
+      <time>2022-01-18T00:36:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4681687" lon="16.3411465">
+      <ele>769</ele>
+      <time>2022-01-18T00:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4686091" lon="16.3417501">
+      <ele>765</ele>
+      <time>2022-01-18T00:38:45Z</time>
+    </trkpt>
+    <trkpt lat="50.469041" lon="16.3420103">
+      <ele>759</ele>
+      <time>2022-01-18T00:39:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4692545" lon="16.3421469">
+      <ele>755</ele>
+      <time>2022-01-18T00:39:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

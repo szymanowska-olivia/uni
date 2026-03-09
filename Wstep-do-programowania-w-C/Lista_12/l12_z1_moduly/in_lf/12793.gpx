@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:24Z</time>
+    <bounds maxlat="50.8608664" maxlon="15.1903601" minlat="50.8598302" minlon="15.1878281"/>
+  </metadata>
+  <wpt lat="50.85983" lon="15.19036">
+    <ele>787</ele>
+    <name>Oresnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8798">
+      <text>Oresnik, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.860866" lon="15.187828">
+    <ele>800</ele>
+    <name>Oresnik</name>
+    <link href="https://mapa-turystyczna.pl/node/8799">
+      <text>Oresnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oresnik, rozc. - Oresnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8598302,15.1903601;50.860278250044416,15.18883230000002;50.8608664,15.1878281">
+    <text>Oresnik, rozc. - Oresnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8598302" lon="15.1903601">
+      <ele>787</ele>
+      <time>2022-01-17T23:56:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8601259" lon="15.1898757">
+      <ele>793</ele>
+      <time>2022-01-17T23:57:23Z</time>
+    </trkpt>
+    <trkpt lat="50.860258" lon="15.1894465">
+      <ele>801</ele>
+      <time>2022-01-17T23:58:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8602139" lon="15.1889584">
+      <ele>797</ele>
+      <time>2022-01-17T23:58:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8603426" lon="15.1887062">
+      <ele>801</ele>
+      <time>2022-01-17T23:59:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8604916" lon="15.1887384">
+      <ele>807</ele>
+      <time>2022-01-17T23:59:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8606541" lon="15.1886633">
+      <ele>810</ele>
+      <time>2022-01-18T00:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8607591" lon="15.1882932">
+      <ele>809</ele>
+      <time>2022-01-18T00:00:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8608065" lon="15.1880089">
+      <ele>803</ele>
+      <time>2022-01-18T00:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8608664" lon="15.1878281">
+      <ele>800</ele>
+      <time>2022-01-18T00:01:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

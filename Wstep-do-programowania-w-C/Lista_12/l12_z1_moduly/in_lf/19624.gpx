@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:45Z</time>
+    <bounds maxlat="51.4527666" maxlon="23.5682161" minlat="51.4408118" minlon="23.559045"/>
+  </metadata>
+  <wpt lat="51.440812" lon="23.566679">
+    <ele>175</ele>
+    <name>Rezerwat Zolwiowe Blota</name>
+    <link href="https://mapa-turystyczna.pl/node/13231">
+      <text>Rezerwat Zolwiowe Blota</text>
+    </link>
+  </wpt>
+  <wpt lat="51.452767" lon="23.559045">
+    <ele>165</ele>
+    <name>Zlobek Maly</name>
+    <link href="https://mapa-turystyczna.pl/node/13235">
+      <text>Zlobek Maly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Zolwiowe Blota - Zlobek Maly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4408118,23.5666791;51.449896790197876,23.562242949999998;51.4527666,23.559045">
+    <text>Rezerwat Zolwiowe Blota - Zlobek Maly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4408118" lon="23.5666791">
+      <ele>175</ele>
+      <time>2022-01-18T01:51:45Z</time>
+    </trkpt>
+    <trkpt lat="51.4409605" lon="23.5667934">
+      <ele>175</ele>
+      <time>2022-01-18T01:52:03Z</time>
+    </trkpt>
+    <trkpt lat="51.4413667" lon="23.5669137">
+      <ele>175</ele>
+      <time>2022-01-18T01:52:47Z</time>
+    </trkpt>
+    <trkpt lat="51.4424532" lon="23.5676425">
+      <ele>175</ele>
+      <time>2022-01-18T01:54:54Z</time>
+    </trkpt>
+    <trkpt lat="51.4428193" lon="23.5682161">
+      <ele>175</ele>
+      <time>2022-01-18T01:55:49Z</time>
+    </trkpt>
+    <trkpt lat="51.4432381" lon="23.568165">
+      <ele>173</ele>
+      <time>2022-01-18T01:56:34Z</time>
+    </trkpt>
+    <trkpt lat="51.4448438" lon="23.5678027">
+      <ele>173</ele>
+      <time>2022-01-18T01:59:29Z</time>
+    </trkpt>
+    <trkpt lat="51.4470268" lon="23.5654409">
+      <ele>168</ele>
+      <time>2022-01-18T02:04:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4527666" lon="23.559045">
+      <ele>165</ele>
+      <time>2022-01-18T02:16:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

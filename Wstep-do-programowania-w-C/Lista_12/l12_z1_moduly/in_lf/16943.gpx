@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:27Z</time>
+    <bounds maxlat="52.3101596" maxlon="21.1549962" minlat="52.3095804" minlon="21.153659"/>
+  </metadata>
+  <wpt lat="52.31016" lon="21.154996">
+    <ele>88</ele>
+    <name>Zielonka, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11589">
+      <text>Zielonka, ul. Slowackiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.30958" lon="21.153659">
+    <ele>88</ele>
+    <name>Zielonka</name>
+    <link href="https://mapa-turystyczna.pl/node/11430">
+      <text>Zielonka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielonka, ul. Slowackiego - Zielonka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3101596,21.1549962;52.30987000094729,21.15432759999998;52.3095804,21.153659">
+    <text>Zielonka, ul. Slowackiego - Zielonka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3101596" lon="21.1549962">
+      <ele>88</ele>
+      <time>2022-01-18T01:05:27Z</time>
+    </trkpt>
+    <trkpt lat="52.3095804" lon="21.153659">
+      <ele>88</ele>
+      <time>2022-01-18T01:07:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

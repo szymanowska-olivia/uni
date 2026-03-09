@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:34Z</time>
+    <bounds maxlat="50.1376952" maxlon="18.5754068" minlat="50.136858" minlon="18.5748017"/>
+  </metadata>
+  <wpt lat="50.136858" lon="18.574802">
+    <ele>271</ele>
+    <name>Kapliczka sw. Huberta</name>
+    <link href="https://mapa-turystyczna.pl/node/9555">
+      <text>Kapliczka sw. Huberta</text>
+    </link>
+  </wpt>
+  <wpt lat="50.137695" lon="18.575407">
+    <ele>274</ele>
+    <name>Kamien, ul. Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9633">
+      <text>Kamien, ul. Jodlowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kapliczka sw. Huberta - Kamien, ul. Jodlowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.136858,18.5748017;50.13727660183125,18.575104250000017;50.1376952,18.5754068">
+    <text>Kapliczka sw. Huberta - Kamien, ul. Jodlowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.136858" lon="18.5748017">
+      <ele>271</ele>
+      <time>2022-01-18T00:16:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1376952" lon="18.5754068">
+      <ele>274</ele>
+      <time>2022-01-18T00:18:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

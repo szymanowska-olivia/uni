@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:37Z</time>
+    <bounds maxlat="52.1545398" maxlon="17.1557757" minlat="52.1540309" minlon="17.1498781"/>
+  </metadata>
+  <wpt lat="52.154175" lon="17.149878">
+    <ele>79</ele>
+    <name>Jezioro Lekno</name>
+    <link href="https://mapa-turystyczna.pl/node/10351">
+      <text>Jezioro Lekno</text>
+    </link>
+  </wpt>
+  <wpt lat="52.15454" lon="17.155776">
+    <ele>74</ele>
+    <name>Zaniemysl, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/10350">
+      <text>Zaniemysl, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jezioro Lekno - Zaniemysl, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1541752,17.1498781;52.15410305005845,17.152012950000007;52.1545398,17.1557757">
+    <text>Jezioro Lekno - Zaniemysl, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1541752" lon="17.1498781">
+      <ele>79</ele>
+      <time>2022-01-18T00:34:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1540309" lon="17.1541478">
+      <ele>76</ele>
+      <time>2022-01-18T00:38:06Z</time>
+    </trkpt>
+    <trkpt lat="52.1542218" lon="17.1548452">
+      <ele>74</ele>
+      <time>2022-01-18T00:38:43Z</time>
+    </trkpt>
+    <trkpt lat="52.1542876" lon="17.1553066">
+      <ele>75</ele>
+      <time>2022-01-18T00:39:07Z</time>
+    </trkpt>
+    <trkpt lat="52.1545398" lon="17.1557757">
+      <ele>74</ele>
+      <time>2022-01-18T00:39:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

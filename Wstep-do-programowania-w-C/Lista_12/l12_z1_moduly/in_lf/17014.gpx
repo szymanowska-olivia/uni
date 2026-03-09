@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:38Z</time>
+    <bounds maxlat="52.2741322" maxlon="16.8140283" minlat="52.2738214" minlon="16.8135437"/>
+  </metadata>
+  <wpt lat="52.273821" lon="16.814026">
+    <ele>103</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11629">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.274132" lon="16.813544">
+    <ele>103</ele>
+    <name>Glaz Lesnikow</name>
+    <link href="https://mapa-turystyczna.pl/node/10250">
+      <text>Glaz Lesnikow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Glaz Lesnikow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2738214,16.8140264;52.27398160025585,16.813786;52.2741322,16.8135437">
+    <text>Rozejscie szlakow - Glaz Lesnikow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2738214" lon="16.8140264">
+      <ele>103</ele>
+      <time>2022-01-18T01:06:38Z</time>
+    </trkpt>
+    <trkpt lat="52.273831" lon="16.8140283">
+      <ele>103</ele>
+      <time>2022-01-18T01:06:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2741322" lon="16.8135437">
+      <ele>103</ele>
+      <time>2022-01-18T01:07:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

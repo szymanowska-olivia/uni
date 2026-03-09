@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:05:41Z</time>
+    <bounds maxlat="50.7664671" maxlon="15.707818" minlat="50.7649159" minlon="15.7046664"/>
+  </metadata>
+  <wpt lat="50.766467" lon="15.707818">
+    <ele>1054</ele>
+    <name>Pod Polana w Karkonoszach</name>
+    <link href="https://mapa-turystyczna.pl/node/1288">
+      <text>Pod Polana w Karkonoszach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.764916" lon="15.704666">
+    <ele>1067</ele>
+    <name>Polana w Karkonoszach</name>
+    <link href="https://mapa-turystyczna.pl/node/1304">
+      <text>Polana w Karkonoszach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Polana w Karkonoszach - Polana w Karkonoszach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7664671,15.707818;50.76542975134415,15.705476049999989;50.7649159,15.7046664">
+    <text>Pod Polana w Karkonoszach - Polana w Karkonoszach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7664671" lon="15.707818">
+      <ele>1054</ele>
+      <time>2022-01-17T21:05:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7662325" lon="15.7071787">
+      <ele>1054</ele>
+      <time>2022-01-17T21:06:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7659861" lon="15.7066216">
+      <ele>1054</ele>
+      <time>2022-01-17T21:07:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7657844" lon="15.7062206">
+      <ele>1057</ele>
+      <time>2022-01-17T21:08:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7650751" lon="15.7047315">
+      <ele>1065</ele>
+      <time>2022-01-17T21:10:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7649159" lon="15.7046664">
+      <ele>1067</ele>
+      <time>2022-01-17T21:10:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

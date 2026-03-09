@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:04Z</time>
+    <bounds maxlat="50.2302968" maxlon="17.2291803" minlat="50.2295659" minlon="17.2270507"/>
+  </metadata>
+  <wpt lat="50.230297" lon="17.227051">
+    <ele>675</ele>
+    <name>Krizovy Vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6263">
+      <text>Krizovy Vrch, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229566" lon="17.22918">
+    <ele>681</ele>
+    <name>Krizovy Vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6261">
+      <text>Krizovy Vrch, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krizovy Vrch, rozc. - Krizovy Vrch, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2302968,17.2270507;50.23006000058796,17.227584449999984;50.2295659,17.2291803">
+    <text>Krizovy Vrch, rozc. - Krizovy Vrch, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2302968" lon="17.2270507">
+      <ele>675</ele>
+      <time>2022-01-17T22:49:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2298232" lon="17.2281182">
+      <ele>676</ele>
+      <time>2022-01-17T22:50:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2296036" lon="17.2289014">
+      <ele>681</ele>
+      <time>2022-01-17T22:51:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2295659" lon="17.2291803">
+      <ele>681</ele>
+      <time>2022-01-17T22:52:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

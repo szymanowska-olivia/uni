@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:36Z</time>
+    <bounds maxlat="50.2922202" maxlon="18.9817128" minlat="50.2919359" minlon="18.9802583"/>
+  </metadata>
+  <wpt lat="50.29222" lon="18.981713">
+    <ele>289</ele>
+    <name>Aleja Klonowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9440">
+      <text>Aleja Klonowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291936" lon="18.980258">
+    <ele>281</ele>
+    <name>Ogrod Bylinowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9439">
+      <text>Ogrod Bylinowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Aleja Klonowa - Ogrod Bylinowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2922202,18.9817128;50.292167800007896,18.98093929999998;50.2919359,18.9802583">
+    <text>Aleja Klonowa - Ogrod Bylinowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2922202" lon="18.9817128">
+      <ele>289</ele>
+      <time>2022-01-18T00:11:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2921728" lon="18.9816581">
+      <ele>289</ele>
+      <time>2022-01-18T00:11:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2921659" lon="18.9813953">
+      <ele>286</ele>
+      <time>2022-01-18T00:12:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2921952" lon="18.9811914">
+      <ele>285</ele>
+      <time>2022-01-18T00:12:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2921404" lon="18.9806872">
+      <ele>282</ele>
+      <time>2022-01-18T00:12:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2920684" lon="18.9804458">
+      <ele>281</ele>
+      <time>2022-01-18T00:13:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2919359" lon="18.9802583">
+      <ele>281</ele>
+      <time>2022-01-18T00:13:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:39Z</time>
+    <bounds maxlat="50.7741447" maxlon="15.1578201" minlat="50.7739551" minlon="15.1567082"/>
+  </metadata>
+  <wpt lat="50.774145" lon="15.156708">
+    <ele>711</ele>
+    <name>Trniste, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/8848">
+      <text>Trniste, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.774121" lon="15.157765">
+    <ele>703</ele>
+    <name>Trniste</name>
+    <link href="https://mapa-turystyczna.pl/node/8849">
+      <text>Trniste</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trniste, odbocka - Trniste</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7741447,15.1567082;50.77398055000692,15.157203149999997;50.7741209,15.157765">
+    <text>Trniste, odbocka - Trniste</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7741447" lon="15.1567082">
+      <ele>711</ele>
+      <time>2022-01-17T23:57:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7740651" lon="15.1568377">
+      <ele>709</ele>
+      <time>2022-01-17T23:57:54Z</time>
+    </trkpt>
+    <trkpt lat="50.774006" lon="15.1569671">
+      <ele>708</ele>
+      <time>2022-01-17T23:58:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7739551" lon="15.1574392">
+      <ele>704</ele>
+      <time>2022-01-17T23:58:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7739687" lon="15.1577128">
+      <ele>702</ele>
+      <time>2022-01-17T23:59:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7739958" lon="15.1578201">
+      <ele>701</ele>
+      <time>2022-01-17T23:59:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7740651" lon="15.1578033">
+      <ele>702</ele>
+      <time>2022-01-17T23:59:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7741209" lon="15.157765">
+      <ele>703</ele>
+      <time>2022-01-17T23:59:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

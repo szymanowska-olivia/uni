@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:20Z</time>
+    <bounds maxlat="54.0607854" maxlon="14.9345291" minlat="54.0603641" minlon="14.9342469"/>
+  </metadata>
+  <wpt lat="54.060364" lon="14.934529">
+    <ele>10</ele>
+    <name>Pobierowo, ul. Jana z Kolna</name>
+    <link href="https://mapa-turystyczna.pl/node/12558">
+      <text>Pobierowo, ul. Jana z Kolna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.060785" lon="14.934247">
+    <ele>12</ele>
+    <name>Pobierowo, ul. Grunwaldzka</name>
+    <link href="https://mapa-turystyczna.pl/node/12652">
+      <text>Pobierowo, ul. Grunwaldzka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pobierowo, ul. Jana z Kolna - Pobierowo, ul. Grunwaldzka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0603641,14.9345291;54.060574750534165,14.934388000000002;54.0607854,14.9342469">
+    <text>Pobierowo, ul. Jana z Kolna - Pobierowo, ul. Grunwaldzka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0603641" lon="14.9345291">
+      <ele>10</ele>
+      <time>2022-01-18T01:35:20Z</time>
+    </trkpt>
+    <trkpt lat="54.0607854" lon="14.9342469">
+      <ele>12</ele>
+      <time>2022-01-18T01:36:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

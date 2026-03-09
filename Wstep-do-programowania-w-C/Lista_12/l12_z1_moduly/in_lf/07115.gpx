@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:58Z</time>
+    <bounds maxlat="49.672231" maxlon="19.517526" minlat="49.671537" minlon="19.515954"/>
+  </metadata>
+  <wpt lat="49.671537" lon="19.515954">
+    <ele>816</ele>
+    <name>Przelecz Koledowki</name>
+    <link href="https://mapa-turystyczna.pl/node/632">
+      <text>Przelecz Koledowki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.672231" lon="19.517526">
+    <ele>821</ele>
+    <name>Przy Przeleczy Koledowki</name>
+    <link href="https://mapa-turystyczna.pl/node/4843">
+      <text>Przy Przeleczy Koledowki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Koledowki - Przy Przeleczy Koledowki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.671537,19.515954;49.67186600002469,19.5167145;49.672231,19.517526">
+    <text>Przelecz Koledowki - Przy Przeleczy Koledowki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.671537" lon="19.515954">
+      <ele>816</ele>
+      <time>2022-01-17T22:17:58Z</time>
+    </trkpt>
+    <trkpt lat="49.671626" lon="19.51614">
+      <ele>816</ele>
+      <time>2022-01-17T22:18:20Z</time>
+    </trkpt>
+    <trkpt lat="49.671817" lon="19.516563">
+      <ele>816</ele>
+      <time>2022-01-17T22:19:08Z</time>
+    </trkpt>
+    <trkpt lat="49.671915" lon="19.516866">
+      <ele>817</ele>
+      <time>2022-01-17T22:19:40Z</time>
+    </trkpt>
+    <trkpt lat="49.672054" lon="19.517105">
+      <ele>820</ele>
+      <time>2022-01-17T22:20:11Z</time>
+    </trkpt>
+    <trkpt lat="49.672231" lon="19.517526">
+      <ele>821</ele>
+      <time>2022-01-17T22:20:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

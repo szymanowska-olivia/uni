@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:39Z</time>
+    <bounds maxlat="50.6995418" maxlon="15.661264" minlat="50.6975292" minlon="15.6600344"/>
+  </metadata>
+  <wpt lat="50.699542" lon="15.661264">
+    <ele>1272</ele>
+    <name>Zadni Rennerovky</name>
+    <link href="https://mapa-turystyczna.pl/node/1445">
+      <text>Zadni Rennerovky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.697529" lon="15.660034">
+    <ele>1252</ele>
+    <name>Zadni Rennerovky, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1446">
+      <text>Zadni Rennerovky, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zadni Rennerovky - Zadni Rennerovky, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6995418,15.661264;50.69846845303844,15.660463550000019;50.6975292,15.6600344">
+    <text>Zadni Rennerovky - Zadni Rennerovky, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6995418" lon="15.661264">
+      <ele>1272</ele>
+      <time>2022-01-17T21:09:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6990023" lon="15.6607747">
+      <ele>1268</ele>
+      <time>2022-01-17T21:11:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6979346" lon="15.6601524">
+      <ele>1254</ele>
+      <time>2022-01-17T21:13:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6975292" lon="15.6600344">
+      <ele>1252</ele>
+      <time>2022-01-17T21:14:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

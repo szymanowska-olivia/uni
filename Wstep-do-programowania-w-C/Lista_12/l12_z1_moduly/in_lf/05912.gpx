@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:48Z</time>
+    <bounds maxlat="50.4086821" maxlon="16.3900112" minlat="50.4048665" minlon="16.3859681"/>
+  </metadata>
+  <wpt lat="50.404866" lon="16.390011">
+    <ele>536</ele>
+    <name>Duszniki-Zdroj, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/4070">
+      <text>Duszniki-Zdroj, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.408682" lon="16.385968">
+    <ele>560</ele>
+    <name>Duszniki-Zdroj, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4071">
+      <text>Duszniki-Zdroj, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Duszniki-Zdroj, Rynek - Duszniki-Zdroj, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4048665,16.3900112;50.40728870055868,16.388241399999995;50.4086821,16.3859681">
+    <text>Duszniki-Zdroj, Rynek - Duszniki-Zdroj, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4048665" lon="16.3900112">
+      <ele>536</ele>
+      <time>2022-01-17T22:02:48Z</time>
+    </trkpt>
+    <trkpt lat="50.40635" lon="16.3878572">
+      <ele>534</ele>
+      <time>2022-01-17T22:07:48Z</time>
+    </trkpt>
+    <trkpt lat="50.406791" lon="16.387251">
+      <ele>535</ele>
+      <time>2022-01-17T22:09:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4070586" lon="16.3877311">
+      <ele>538</ele>
+      <time>2022-01-17T22:10:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4075188" lon="16.3887517">
+      <ele>551</ele>
+      <time>2022-01-17T22:12:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4075831" lon="16.3888194">
+      <ele>552</ele>
+      <time>2022-01-17T22:12:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4076406" lon="16.3888228">
+      <ele>554</ele>
+      <time>2022-01-17T22:12:35Z</time>
+    </trkpt>
+    <trkpt lat="50.40835" lon="16.387251">
+      <ele>559</ele>
+      <time>2022-01-17T22:15:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4086821" lon="16.3859681">
+      <ele>560</ele>
+      <time>2022-01-17T22:17:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

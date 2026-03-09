@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:11Z</time>
+    <bounds maxlat="50.1738061" maxlon="16.8658306" minlat="50.1689423" minlon="16.8622005"/>
+  </metadata>
+  <wpt lat="50.168942" lon="16.865831">
+    <ele>1255</ele>
+    <name>Tetrevi hora, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/3377">
+      <text>Tetrevi hora, sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.173806" lon="16.863198">
+    <ele>1321</ele>
+    <name>Susina</name>
+    <link href="https://mapa-turystyczna.pl/node/1737">
+      <text>Susina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tetrevi hora, sedlo - Susina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1689423,16.8658306;50.17139760238674,16.862463350000002;50.1738061,16.8631983">
+    <text>Tetrevi hora, sedlo - Susina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1689423" lon="16.8658306">
+      <ele>1255</ele>
+      <time>2022-01-17T21:47:11Z</time>
+    </trkpt>
+    <trkpt lat="50.16958" lon="16.8648291">
+      <ele>1261</ele>
+      <time>2022-01-17T21:49:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1700335" lon="16.8640459">
+      <ele>1265</ele>
+      <time>2022-01-17T21:51:13Z</time>
+    </trkpt>
+    <trkpt lat="50.17092" lon="16.8627262">
+      <ele>1282</ele>
+      <time>2022-01-17T21:54:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1718752" lon="16.8622005">
+      <ele>1298</ele>
+      <time>2022-01-17T21:56:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1735003" lon="16.8631715">
+      <ele>1320</ele>
+      <time>2022-01-17T22:01:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1738061" lon="16.8631983">
+      <ele>1321</ele>
+      <time>2022-01-17T22:02:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

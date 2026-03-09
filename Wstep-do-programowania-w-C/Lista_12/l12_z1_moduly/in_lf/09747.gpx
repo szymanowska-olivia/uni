@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:24Z</time>
+    <bounds maxlat="50.1075612" maxlon="17.1912968" minlat="50.1058925" minlon="17.1907228"/>
+  </metadata>
+  <wpt lat="50.105893" lon="17.190723">
+    <ele>1189</ele>
+    <name>Kamzik</name>
+    <link href="https://mapa-turystyczna.pl/node/6843">
+      <text>Kamzik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.107561" lon="17.191297">
+    <ele>1208</ele>
+    <name>Maly Jezernik</name>
+    <link href="https://mapa-turystyczna.pl/node/6844">
+      <text>Maly Jezernik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamzik - Maly Jezernik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1058925,17.1907228;50.106888551428,17.191047399999995;50.1075612,17.1912968">
+    <text>Kamzik - Maly Jezernik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1058925" lon="17.1907228">
+      <ele>1189</ele>
+      <time>2022-01-17T23:03:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1062469" lon="17.1908408">
+      <ele>1197</ele>
+      <time>2022-01-17T23:04:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1065187" lon="17.1908945">
+      <ele>1203</ele>
+      <time>2022-01-17T23:05:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1072584" lon="17.1912003">
+      <ele>1207</ele>
+      <time>2022-01-17T23:07:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1075612" lon="17.1912968">
+      <ele>1208</ele>
+      <time>2022-01-17T23:08:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

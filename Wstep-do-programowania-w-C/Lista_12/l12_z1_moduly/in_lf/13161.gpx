@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:21Z</time>
+    <bounds maxlat="49.3715234" maxlon="21.7583461" minlat="49.3667237" minlon="21.7453685"/>
+  </metadata>
+  <wpt lat="49.371523" lon="21.745369">
+    <ele>443</ele>
+    <name>Jaruhy</name>
+    <link href="https://mapa-turystyczna.pl/node/9074">
+      <text>Jaruhy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.366724" lon="21.758346">
+    <ele>490</ele>
+    <name>Magala</name>
+    <link href="https://mapa-turystyczna.pl/node/9075">
+      <text>Magala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaruhy - Magala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3715234,21.7453685;49.368530663341595,21.752633750000015;49.3667237,21.7583461">
+    <text>Jaruhy - Magala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3715234" lon="21.7453685">
+      <ele>443</ele>
+      <time>2022-01-18T00:03:21Z</time>
+    </trkpt>
+    <trkpt lat="49.3705842" lon="21.7470554">
+      <ele>455</ele>
+      <time>2022-01-18T00:06:17Z</time>
+    </trkpt>
+    <trkpt lat="49.3699135" lon="21.7478064">
+      <ele>462</ele>
+      <time>2022-01-18T00:07:58Z</time>
+    </trkpt>
+    <trkpt lat="49.369676" lon="21.7484394">
+      <ele>469</ele>
+      <time>2022-01-18T00:08:56Z</time>
+    </trkpt>
+    <trkpt lat="49.3673853" lon="21.7568281">
+      <ele>488</ele>
+      <time>2022-01-18T00:20:56Z</time>
+    </trkpt>
+    <trkpt lat="49.3668124" lon="21.7580082">
+      <ele>488</ele>
+      <time>2022-01-18T00:22:52Z</time>
+    </trkpt>
+    <trkpt lat="49.3667237" lon="21.7583461">
+      <ele>490</ele>
+      <time>2022-01-18T00:23:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

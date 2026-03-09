@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:27Z</time>
+    <bounds maxlat="52.486702" maxlon="20.9234128" minlat="52.483085" minlon="20.9231982"/>
+  </metadata>
+  <wpt lat="52.483085" lon="20.923198">
+    <ele>77</ele>
+    <name>Komornica, szkola</name>
+    <link href="https://mapa-turystyczna.pl/node/11370">
+      <text>Komornica, szkola</text>
+    </link>
+  </wpt>
+  <wpt lat="52.486702" lon="20.923413">
+    <ele>77</ele>
+    <name>Elektrownia wodna Debe</name>
+    <link href="https://mapa-turystyczna.pl/node/11371">
+      <text>Elektrownia wodna Debe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Komornica, szkola - Elektrownia wodna Debe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.483085,20.9231982;52.484893537176376,20.923305499999998;52.486702,20.9234128">
+    <text>Komornica, szkola - Elektrownia wodna Debe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.483085" lon="20.9231982">
+      <ele>77</ele>
+      <time>2022-01-18T01:00:27Z</time>
+    </trkpt>
+    <trkpt lat="52.486702" lon="20.9234128">
+      <ele>77</ele>
+      <time>2022-01-18T01:05:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

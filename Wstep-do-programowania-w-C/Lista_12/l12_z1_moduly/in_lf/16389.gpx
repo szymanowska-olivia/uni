@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:03Z</time>
+    <bounds maxlat="51.9504667" maxlon="15.7151348" minlat="51.9495539" minlon="15.7143675"/>
+  </metadata>
+  <wpt lat="51.949554" lon="15.714367">
+    <ele>66</ele>
+    <name>Zabor, staw</name>
+    <link href="https://mapa-turystyczna.pl/node/11191">
+      <text>Zabor, staw</text>
+    </link>
+  </wpt>
+  <wpt lat="51.950467" lon="15.715135">
+    <ele>67</ele>
+    <name>Zabor</name>
+    <link href="https://mapa-turystyczna.pl/node/11192">
+      <text>Zabor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabor, staw - Zabor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9495539,15.7143675;51.94991635026357,15.714740849999975;51.9504667,15.7151348">
+    <text>Zabor, staw - Zabor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9495539" lon="15.7143675">
+      <ele>66</ele>
+      <time>2022-01-18T00:56:03Z</time>
+    </trkpt>
+    <trkpt lat="51.9497626" lon="15.7146255">
+      <ele>66</ele>
+      <time>2022-01-18T00:56:33Z</time>
+    </trkpt>
+    <trkpt lat="51.9500701" lon="15.7148562">
+      <ele>67</ele>
+      <time>2022-01-18T00:57:13Z</time>
+    </trkpt>
+    <trkpt lat="51.9502056" lon="15.7149259">
+      <ele>67</ele>
+      <time>2022-01-18T00:57:29Z</time>
+    </trkpt>
+    <trkpt lat="51.9502949" lon="15.7149796">
+      <ele>67</ele>
+      <time>2022-01-18T00:57:40Z</time>
+    </trkpt>
+    <trkpt lat="51.9504667" lon="15.7151348">
+      <ele>67</ele>
+      <time>2022-01-18T00:58:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

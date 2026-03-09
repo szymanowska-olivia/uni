@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:04Z</time>
+    <bounds maxlat="49.344744" maxlon="19.017144" minlat="49.343742" minlon="19.010997"/>
+  </metadata>
+  <wpt lat="49.34473" lon="19.010997">
+    <ele>521</ele>
+    <name>Nova Bystrica</name>
+    <link href="https://mapa-turystyczna.pl/node/7810">
+      <text>Nova Bystrica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.343742" lon="19.017144">
+    <ele>527</ele>
+    <name>Nova Bystrica, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7812">
+      <text>Nova Bystrica, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nova Bystrica - Nova Bystrica, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.34473,19.010997;49.34412150062246,19.01514999999997;49.343742,19.017144">
+    <text>Nova Bystrica - Nova Bystrica, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.34473" lon="19.010997">
+      <ele>521</ele>
+      <time>2022-01-17T23:28:04Z</time>
+    </trkpt>
+    <trkpt lat="49.344744" lon="19.011283">
+      <ele>522</ele>
+      <time>2022-01-17T23:28:31Z</time>
+    </trkpt>
+    <trkpt lat="49.344718" lon="19.011842">
+      <ele>523</ele>
+      <time>2022-01-17T23:29:24Z</time>
+    </trkpt>
+    <trkpt lat="49.344669" lon="19.012259">
+      <ele>523</ele>
+      <time>2022-01-17T23:30:04Z</time>
+    </trkpt>
+    <trkpt lat="49.344415" lon="19.013596">
+      <ele>526</ele>
+      <time>2022-01-17T23:32:15Z</time>
+    </trkpt>
+    <trkpt lat="49.344369" lon="19.013843">
+      <ele>526</ele>
+      <time>2022-01-17T23:32:40Z</time>
+    </trkpt>
+    <trkpt lat="49.343874" lon="19.016457">
+      <ele>527</ele>
+      <time>2022-01-17T23:36:56Z</time>
+    </trkpt>
+    <trkpt lat="49.343742" lon="19.017144">
+      <ele>527</ele>
+      <time>2022-01-17T23:38:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

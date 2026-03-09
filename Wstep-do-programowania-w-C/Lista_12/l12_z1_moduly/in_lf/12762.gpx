@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:50Z</time>
+    <bounds maxlat="50.8763201" maxlon="15.1803764" minlat="50.8760561" minlon="15.1797916"/>
+  </metadata>
+  <wpt lat="50.87632" lon="15.180376">
+    <ele>375</ele>
+    <name>Hejnice, most</name>
+    <link href="https://mapa-turystyczna.pl/node/8770">
+      <text>Hejnice, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.876056" lon="15.179792">
+    <ele>377</ele>
+    <name>Hejnice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8771">
+      <text>Hejnice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hejnice, most - Hejnice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8763201,15.1803764;50.87618810018697,15.180084000000003;50.8760561,15.1797916">
+    <text>Hejnice, most - Hejnice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8763201" lon="15.1803764">
+      <ele>375</ele>
+      <time>2022-01-17T23:55:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8760561" lon="15.1797916">
+      <ele>377</ele>
+      <time>2022-01-17T23:56:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

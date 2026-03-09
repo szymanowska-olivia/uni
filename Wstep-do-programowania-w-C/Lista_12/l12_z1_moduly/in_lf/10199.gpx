@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:07Z</time>
+    <bounds maxlat="49.122968" maxlon="19.196391" minlat="49.122745" minlon="19.195055"/>
+  </metadata>
+  <wpt lat="49.122748" lon="19.195055">
+    <ele>454</ele>
+    <name>Svosov, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/7175">
+      <text>Svosov, vlak</text>
+    </link>
+  </wpt>
+  <wpt lat="49.122882" lon="19.196391">
+    <ele>456</ele>
+    <name>Svosov</name>
+    <link href="https://mapa-turystyczna.pl/node/7188">
+      <text>Svosov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svosov, vlak - Svosov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.122748,19.195055;49.12288250007369,19.195809500000003;49.122882,19.196391">
+    <text>Svosov, vlak - Svosov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.122748" lon="19.195055">
+      <ele>454</ele>
+      <time>2022-01-17T23:12:07Z</time>
+    </trkpt>
+    <trkpt lat="49.122745" lon="19.195652">
+      <ele>453</ele>
+      <time>2022-01-17T23:12:53Z</time>
+    </trkpt>
+    <trkpt lat="49.122797" lon="19.195749">
+      <ele>455</ele>
+      <time>2022-01-17T23:13:03Z</time>
+    </trkpt>
+    <trkpt lat="49.122968" lon="19.19587">
+      <ele>459</ele>
+      <time>2022-01-17T23:13:25Z</time>
+    </trkpt>
+    <trkpt lat="49.122882" lon="19.196391">
+      <ele>455</ele>
+      <time>2022-01-17T23:14:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

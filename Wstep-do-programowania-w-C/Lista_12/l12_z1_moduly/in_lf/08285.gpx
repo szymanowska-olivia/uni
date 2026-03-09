@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:06Z</time>
+    <bounds maxlat="49.243763" maxlon="20.008351" minlat="49.243275" minlon="20.006941"/>
+  </metadata>
+  <wpt lat="49.243763" lon="20.008351">
+    <ele>1495</ele>
+    <name>Murowaniec, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/5758">
+      <text>Murowaniec, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.243275" lon="20.006941">
+    <ele>1500</ele>
+    <name>Schronisko PTTK Murowaniec</name>
+    <link href="https://mapa-turystyczna.pl/node/275">
+      <text>Schronisko PTTK Murowaniec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Murowaniec, odejscie szlaku czarnego - Schronisko PTTK Murowaniec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.243763,20.008351;49.24335700000082,20.0077505;49.243275,20.006941">
+    <text>Murowaniec, odejscie szlaku czarnego - Schronisko PTTK Murowaniec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.243763" lon="20.008351">
+      <ele>1495</ele>
+      <time>2022-01-17T22:36:06Z</time>
+    </trkpt>
+    <trkpt lat="49.243408" lon="20.007854">
+      <ele>1496</ele>
+      <time>2022-01-17T22:36:58Z</time>
+    </trkpt>
+    <trkpt lat="49.243366" lon="20.007787">
+      <ele>1497</ele>
+      <time>2022-01-17T22:37:05Z</time>
+    </trkpt>
+    <trkpt lat="49.243348" lon="20.007714">
+      <ele>1497</ele>
+      <time>2022-01-17T22:37:10Z</time>
+    </trkpt>
+    <trkpt lat="49.243275" lon="20.006941">
+      <ele>1500</ele>
+      <time>2022-01-17T22:38:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:22Z</time>
+    <bounds maxlat="52.0291393" maxlon="20.9640696" minlat="52.0266897" minlon="20.9587639"/>
+  </metadata>
+  <wpt lat="52.029139" lon="20.959196">
+    <ele>104</ele>
+    <name>Gloskow</name>
+    <link href="https://mapa-turystyczna.pl/node/11946">
+      <text>Gloskow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.02669" lon="20.96407">
+    <ele>107</ele>
+    <name>Gloskow, ul. Millenium</name>
+    <link href="https://mapa-turystyczna.pl/node/11474">
+      <text>Gloskow, ul. Millenium</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gloskow - Gloskow, ul. Millenium</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0291393,20.959196;52.028074805473935,20.960308849999997;52.0266897,20.9640696">
+    <text>Gloskow - Gloskow, ul. Millenium</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0291393" lon="20.959196">
+      <ele>104</ele>
+      <time>2022-01-18T01:16:22Z</time>
+    </trkpt>
+    <trkpt lat="52.0287745" lon="20.9587639">
+      <ele>108</ele>
+      <time>2022-01-18T01:17:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0273751" lon="20.9618538">
+      <ele>107</ele>
+      <time>2022-01-18T01:22:51Z</time>
+    </trkpt>
+    <trkpt lat="52.027078" lon="20.9626048">
+      <ele>106</ele>
+      <time>2022-01-18T01:24:06Z</time>
+    </trkpt>
+    <trkpt lat="52.0266897" lon="20.9640696">
+      <ele>107</ele>
+      <time>2022-01-18T01:26:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

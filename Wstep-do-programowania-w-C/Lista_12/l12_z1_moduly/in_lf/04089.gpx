@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:44Z</time>
+    <bounds maxlat="50.7037967" maxlon="17.1095297" minlat="50.7021523" minlon="17.1075046"/>
+  </metadata>
+  <wpt lat="50.702152" lon="17.109441">
+    <ele>395</ele>
+    <name>Gromnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2856">
+      <text>Gromnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.703797" lon="17.107505">
+    <ele>351</ele>
+    <name>Skrzyzowanie pod Gromnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2866">
+      <text>Skrzyzowanie pod Gromnikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gromnik - Skrzyzowanie pod Gromnikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7021523,17.1094412;50.703230000249306,17.10859974999999;50.7037967,17.1075046">
+    <text>Gromnik - Skrzyzowanie pod Gromnikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7021523" lon="17.1094412">
+      <ele>395</ele>
+      <time>2022-01-17T21:37:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7023773" lon="17.1095297">
+      <ele>395</ele>
+      <time>2022-01-17T21:38:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7030771" lon="17.1087821">
+      <ele>376</ele>
+      <time>2022-01-17T21:40:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7033829" lon="17.1084174">
+      <ele>367</ele>
+      <time>2022-01-17T21:41:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7036683" lon="17.1078541">
+      <ele>357</ele>
+      <time>2022-01-17T21:42:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7037967" lon="17.1075046">
+      <ele>351</ele>
+      <time>2022-01-17T21:42:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:02Z</time>
+    <bounds maxlat="50.3773236" maxlon="18.8795701" minlat="50.3765619" minlon="18.8775496"/>
+  </metadata>
+  <wpt lat="50.376562" lon="18.87957">
+    <ele>284</ele>
+    <name>Bytom Polnocny</name>
+    <link href="https://mapa-turystyczna.pl/node/9355">
+      <text>Bytom Polnocny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.377324" lon="18.87755">
+    <ele>289</ele>
+    <name>Bytom, os. Przy Kopalni</name>
+    <link href="https://mapa-turystyczna.pl/node/9683">
+      <text>Bytom, os. Przy Kopalni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bytom Polnocny - Bytom, os. Przy Kopalni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3765619,18.8795701;50.376870851006046,18.87869785;50.3773236,18.8775496">
+    <text>Bytom Polnocny - Bytom, os. Przy Kopalni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3765619" lon="18.8795701">
+      <ele>284</ele>
+      <time>2022-01-18T00:18:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3771798" lon="18.8778256">
+      <ele>288</ele>
+      <time>2022-01-18T00:20:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3773236" lon="18.8775496">
+      <ele>289</ele>
+      <time>2022-01-18T00:21:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

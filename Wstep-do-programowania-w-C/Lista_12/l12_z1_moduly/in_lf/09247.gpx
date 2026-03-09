@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:47Z</time>
+    <bounds maxlat="50.1818793" maxlon="17.0800549" minlat="50.1794472" minlon="17.0691705"/>
+  </metadata>
+  <wpt lat="50.179447" lon="17.06917">
+    <ele>979</ele>
+    <name>Nad Dobrou vodou</name>
+    <link href="https://mapa-turystyczna.pl/node/6442">
+      <text>Nad Dobrou vodou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.181278" lon="17.080055">
+    <ele>1062</ele>
+    <name>Cernava, lanovka</name>
+    <link href="https://mapa-turystyczna.pl/node/6444">
+      <text>Cernava, lanovka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Dobrou vodou - Cernava, lanovka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1794472,17.0691705;50.18143965027285,17.07488354999999;50.1812782,17.0800549">
+    <text>Nad Dobrou vodou - Cernava, lanovka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1794472" lon="17.0691705">
+      <ele>979</ele>
+      <time>2022-01-17T22:53:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1800003" lon="17.0706725">
+      <ele>992</ele>
+      <time>2022-01-17T22:56:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1802373" lon="17.0713323">
+      <ele>1002</ele>
+      <time>2022-01-17T22:57:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1805671" lon="17.072078">
+      <ele>1009</ele>
+      <time>2022-01-17T22:59:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1808969" lon="17.072829">
+      <ele>1016</ele>
+      <time>2022-01-17T23:00:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1812782" lon="17.0740789">
+      <ele>1024</ele>
+      <time>2022-01-17T23:03:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1816011" lon="17.0756882">
+      <ele>1033</ele>
+      <time>2022-01-17T23:06:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1817934" lon="17.0768148">
+      <ele>1043</ele>
+      <time>2022-01-17T23:07:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1818793" lon="17.0780969">
+      <ele>1053</ele>
+      <time>2022-01-17T23:10:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1817763" lon="17.0790571">
+      <ele>1054</ele>
+      <time>2022-01-17T23:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1812782" lon="17.0800549">
+      <ele>1062</ele>
+      <time>2022-01-17T23:13:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

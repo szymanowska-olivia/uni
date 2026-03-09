@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:54:02Z</time>
+    <bounds maxlat="50.7737398" maxlon="16.8837819" minlat="50.7707404" minlon="16.875112"/>
+  </metadata>
+  <wpt lat="50.77074" lon="16.883782">
+    <ele>171</ele>
+    <name>Rozdroze pod Gora Drzymaly</name>
+    <link href="https://mapa-turystyczna.pl/node/3761">
+      <text>Rozdroze pod Gora Drzymaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.77374" lon="16.875112">
+    <ele>170</ele>
+    <name>Sienice</name>
+    <link href="https://mapa-turystyczna.pl/node/3760">
+      <text>Sienice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Gora Drzymaly - Sienice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7707404,16.8837819;50.77222390054404,16.878718850000023;50.7737398,16.875112">
+    <text>Rozdroze pod Gora Drzymaly - Sienice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7707404" lon="16.8837819">
+      <ele>171</ele>
+      <time>2022-01-17T21:54:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7713995" lon="16.8817672">
+      <ele>174</ele>
+      <time>2022-01-17T21:56:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7716115" lon="16.8806916">
+      <ele>173</ele>
+      <time>2022-01-17T21:57:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7719983" lon="16.879321">
+      <ele>176</ele>
+      <time>2022-01-17T21:58:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7724495" lon="16.8781167">
+      <ele>175</ele>
+      <time>2022-01-17T22:00:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7726056" lon="16.8775535">
+      <ele>173</ele>
+      <time>2022-01-17T22:00:54Z</time>
+    </trkpt>
+    <trkpt lat="50.772748" lon="16.8765986">
+      <ele>173</ele>
+      <time>2022-01-17T22:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7729421" lon="16.8762169">
+      <ele>173</ele>
+      <time>2022-01-17T22:02:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7731871" lon="16.8758406">
+      <ele>173</ele>
+      <time>2022-01-17T22:02:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7737398" lon="16.875112">
+      <ele>170</ele>
+      <time>2022-01-17T22:04:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

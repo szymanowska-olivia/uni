@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:06Z</time>
+    <bounds maxlat="52.1227195" maxlon="21.2477473" minlat="52.1207662" minlon="21.240359"/>
+  </metadata>
+  <wpt lat="52.120766" lon="21.240359">
+    <ele>97</ele>
+    <name>Otwock, ul. Turystyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12914">
+      <text>Otwock, ul. Turystyczna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.12272" lon="21.247747">
+    <ele>95</ele>
+    <name>Otwock, ul. Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/12915">
+      <text>Otwock, ul. Gorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Turystyczna - Otwock, ul. Gorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1207662,21.240359;52.12168520109839,21.243821899999975;52.1227195,21.2477473">
+    <text>Otwock, ul. Turystyczna - Otwock, ul. Gorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1207662" lon="21.240359">
+      <ele>97</ele>
+      <time>2022-01-18T01:42:06Z</time>
+    </trkpt>
+    <trkpt lat="52.1213723" lon="21.2426605">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1219981" lon="21.2449833">
+      <ele>96</ele>
+      <time>2022-01-18T01:48:22Z</time>
+    </trkpt>
+    <trkpt lat="52.1227195" lon="21.2477473">
+      <ele>95</ele>
+      <time>2022-01-18T01:52:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

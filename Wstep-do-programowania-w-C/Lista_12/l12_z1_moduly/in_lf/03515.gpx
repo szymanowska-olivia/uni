@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:05Z</time>
+    <bounds maxlat="49.154219" maxlon="20.077634" minlat="49.151894" minlon="20.076688"/>
+  </metadata>
+  <wpt lat="49.151894" lon="20.076688">
+    <ele>1515</ele>
+    <name>Odbocka Zimnej cesty na Strbske Pleso</name>
+    <link href="https://mapa-turystyczna.pl/node/2475">
+      <text>Odbocka Zimnej cesty na Strbske Pleso</text>
+    </link>
+  </wpt>
+  <wpt lat="49.154219" lon="20.077634">
+    <ele>1500</ele>
+    <name>Razcestie nad Popradskym plesom</name>
+    <link href="https://mapa-turystyczna.pl/node/1540">
+      <text>Razcestie nad Popradskym plesom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odbocka Zimnej cesty na Strbske Pleso - Razcestie nad Popradskym plesom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.151894,20.076688;49.15290500222955,20.077082999999988;49.154219,20.077634">
+    <text>Odbocka Zimnej cesty na Strbske Pleso - Razcestie nad Popradskym plesom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.151894" lon="20.076688">
+      <ele>1515</ele>
+      <time>2022-01-17T21:31:05Z</time>
+    </trkpt>
+    <trkpt lat="49.152435" lon="20.076868">
+      <ele>1513</ele>
+      <time>2022-01-17T21:32:13Z</time>
+    </trkpt>
+    <trkpt lat="49.153375" lon="20.077298">
+      <ele>1506</ele>
+      <time>2022-01-17T21:34:15Z</time>
+    </trkpt>
+    <trkpt lat="49.153635" lon="20.077357">
+      <ele>1503</ele>
+      <time>2022-01-17T21:34:47Z</time>
+    </trkpt>
+    <trkpt lat="49.153853" lon="20.077379">
+      <ele>1501</ele>
+      <time>2022-01-17T21:35:14Z</time>
+    </trkpt>
+    <trkpt lat="49.154019" lon="20.077443">
+      <ele>1501</ele>
+      <time>2022-01-17T21:35:36Z</time>
+    </trkpt>
+    <trkpt lat="49.154095" lon="20.077497">
+      <ele>1501</ele>
+      <time>2022-01-17T21:35:46Z</time>
+    </trkpt>
+    <trkpt lat="49.154183" lon="20.077604">
+      <ele>1500</ele>
+      <time>2022-01-17T21:36:00Z</time>
+    </trkpt>
+    <trkpt lat="49.154219" lon="20.077634">
+      <ele>1500</ele>
+      <time>2022-01-17T21:36:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

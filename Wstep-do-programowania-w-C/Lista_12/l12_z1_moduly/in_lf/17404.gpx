@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:45Z</time>
+    <bounds maxlat="51.0988883" maxlon="15.6004225" minlat="51.0983975" minlon="15.6001309"/>
+  </metadata>
+  <wpt lat="51.098397" lon="15.600131">
+    <ele>268</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11828">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="51.098888" lon="15.600423">
+    <ele>278</ele>
+    <name>Pod Bukowica</name>
+    <link href="https://mapa-turystyczna.pl/node/11827">
+      <text>Pod Bukowica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Pod Bukowica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0983975,15.6001309;51.09853395020136,15.600223099999994;51.0988883,15.6004225">
+    <text>Odejscie sciezki dydaktycznej - Pod Bukowica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0983975" lon="15.6001309">
+      <ele>268</ele>
+      <time>2022-01-18T01:12:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0986704" lon="15.6003153">
+      <ele>274</ele>
+      <time>2022-01-18T01:13:53Z</time>
+    </trkpt>
+    <trkpt lat="51.0988883" lon="15.6004225">
+      <ele>278</ele>
+      <time>2022-01-18T01:14:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

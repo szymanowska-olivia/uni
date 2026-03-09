@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:02Z</time>
+    <bounds maxlat="49.417055" maxlon="20.242379" minlat="49.416732" minlon="20.241768"/>
+  </metadata>
+  <wpt lat="49.416732" lon="20.241768">
+    <ele>823</ele>
+    <name>Polana Wapienne</name>
+    <link href="https://mapa-turystyczna.pl/node/11610">
+      <text>Polana Wapienne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.417055" lon="20.242379">
+    <ele>820</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11611">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polana Wapienne - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.416732,20.241768;49.41685750002808,20.242068000000025;49.417055,20.242379">
+    <text>Polana Wapienne - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.416732" lon="20.241768">
+      <ele>823</ele>
+      <time>2022-01-18T01:06:02Z</time>
+    </trkpt>
+    <trkpt lat="49.416805" lon="20.241977">
+      <ele>824</ele>
+      <time>2022-01-18T01:06:20Z</time>
+    </trkpt>
+    <trkpt lat="49.41691" lon="20.242159">
+      <ele>823</ele>
+      <time>2022-01-18T01:06:38Z</time>
+    </trkpt>
+    <trkpt lat="49.416999" lon="20.242264">
+      <ele>822</ele>
+      <time>2022-01-18T01:06:51Z</time>
+    </trkpt>
+    <trkpt lat="49.417055" lon="20.242379">
+      <ele>820</ele>
+      <time>2022-01-18T01:07:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

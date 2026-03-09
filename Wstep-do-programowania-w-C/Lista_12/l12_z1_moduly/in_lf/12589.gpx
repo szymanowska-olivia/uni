@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:38Z</time>
+    <bounds maxlat="49.318345" maxlon="20.688702" minlat="49.315849" minlon="20.688426"/>
+  </metadata>
+  <wpt lat="49.315849" lon="20.688702">
+    <ele>554</ele>
+    <name>Pasternik</name>
+    <link href="https://mapa-turystyczna.pl/node/8646">
+      <text>Pasternik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.318345" lon="20.688649">
+    <ele>566</ele>
+    <name>Vojensky tabor</name>
+    <link href="https://mapa-turystyczna.pl/node/8647">
+      <text>Vojensky tabor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pasternik - Vojensky tabor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.315849,20.688702;49.31713250047584,20.68853849999999;49.318345,20.688649">
+    <text>Pasternik - Vojensky tabor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.315849" lon="20.688702">
+      <ele>554</ele>
+      <time>2022-01-17T23:52:38Z</time>
+    </trkpt>
+    <trkpt lat="49.316152" lon="20.688691">
+      <ele>555</ele>
+      <time>2022-01-17T23:53:14Z</time>
+    </trkpt>
+    <trkpt lat="49.316408" lon="20.688657">
+      <ele>557</ele>
+      <time>2022-01-17T23:53:44Z</time>
+    </trkpt>
+    <trkpt lat="49.316916" lon="20.688576">
+      <ele>561</ele>
+      <time>2022-01-17T23:54:45Z</time>
+    </trkpt>
+    <trkpt lat="49.317349" lon="20.688501">
+      <ele>562</ele>
+      <time>2022-01-17T23:55:36Z</time>
+    </trkpt>
+    <trkpt lat="49.317884" lon="20.688426">
+      <ele>563</ele>
+      <time>2022-01-17T23:56:40Z</time>
+    </trkpt>
+    <trkpt lat="49.318017" lon="20.688437">
+      <ele>564</ele>
+      <time>2022-01-17T23:56:55Z</time>
+    </trkpt>
+    <trkpt lat="49.318146" lon="20.688491">
+      <ele>565</ele>
+      <time>2022-01-17T23:57:11Z</time>
+    </trkpt>
+    <trkpt lat="49.318225" lon="20.688531">
+      <ele>565</ele>
+      <time>2022-01-17T23:57:21Z</time>
+    </trkpt>
+    <trkpt lat="49.318296" lon="20.688592">
+      <ele>566</ele>
+      <time>2022-01-17T23:57:31Z</time>
+    </trkpt>
+    <trkpt lat="49.318345" lon="20.688649">
+      <ele>566</ele>
+      <time>2022-01-17T23:57:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

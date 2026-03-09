@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:10Z</time>
+    <bounds maxlat="50.3485832" maxlon="19.0905192" minlat="50.3485255" minlon="19.0902193"/>
+  </metadata>
+  <wpt lat="50.348583" lon="19.090519">
+    <ele>307</ele>
+    <name>Grodziec, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9383">
+      <text>Grodziec, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.348526" lon="19.090219">
+    <ele>306</ele>
+    <name>Grodziec, ul. Milosza</name>
+    <link href="https://mapa-turystyczna.pl/node/9525">
+      <text>Grodziec, ul. Milosza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodziec, kosciol - Grodziec, ul. Milosza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3485832,19.0905192;50.34855435000878,19.090369249999977;50.3485255,19.0902193">
+    <text>Grodziec, kosciol - Grodziec, ul. Milosza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3485832" lon="19.0905192">
+      <ele>307</ele>
+      <time>2022-01-18T00:14:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3485255" lon="19.0902193">
+      <ele>306</ele>
+      <time>2022-01-18T00:15:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

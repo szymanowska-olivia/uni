@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:59Z</time>
+    <bounds maxlat="49.6102291" maxlon="18.4871766" minlat="49.6101164" minlon="18.485814"/>
+  </metadata>
+  <wpt lat="49.610229" lon="18.485814">
+    <ele>423</ele>
+    <name>Prazmo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7531">
+      <text>Prazmo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.610116" lon="18.487177">
+    <ele>421</ele>
+    <name>Prazmo</name>
+    <link href="https://mapa-turystyczna.pl/node/7472">
+      <text>Prazmo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prazmo, rozc. - Prazmo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.6102291,18.485814;49.61017275003256,18.486495299999977;49.6101164,18.4871766">
+    <text>Prazmo, rozc. - Prazmo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.6102291" lon="18.485814">
+      <ele>423</ele>
+      <time>2022-01-17T23:20:59Z</time>
+    </trkpt>
+    <trkpt lat="49.6101164" lon="18.4871766">
+      <ele>421</ele>
+      <time>2022-01-17T23:21:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

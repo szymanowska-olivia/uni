@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:18Z</time>
+    <bounds maxlat="50.2452512" maxlon="16.4066648" minlat="50.2385595" minlon="16.3959736"/>
+  </metadata>
+  <wpt lat="50.23856" lon="16.395974">
+    <ele>739</ele>
+    <name>Nad Zdobnici</name>
+    <link href="https://mapa-turystyczna.pl/node/1923">
+      <text>Nad Zdobnici</text>
+    </link>
+  </wpt>
+  <wpt lat="50.245167" lon="16.406665">
+    <ele>638</ele>
+    <name>Zdobnice, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/1921">
+      <text>Zdobnice, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Zdobnici - Zdobnice, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2385595,16.3959736;50.24259076946064,16.402622749999985;50.2451672,16.4066648">
+    <text>Nad Zdobnici - Zdobnice, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2385595" lon="16.3959736">
+      <ele>739</ele>
+      <time>2022-01-17T21:19:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2386349" lon="16.3963196">
+      <ele>740</ele>
+      <time>2022-01-17T21:19:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2389163" lon="16.3969713">
+      <ele>740</ele>
+      <time>2022-01-17T21:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.239774" lon="16.3986424">
+      <ele>735</ele>
+      <time>2022-01-17T21:22:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2404945" lon="16.4005709">
+      <ele>731</ele>
+      <time>2022-01-17T21:24:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2412287" lon="16.4012253">
+      <ele>725</ele>
+      <time>2022-01-17T21:25:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2439528" lon="16.4040202">
+      <ele>673</ele>
+      <time>2022-01-17T21:30:51Z</time>
+    </trkpt>
+    <trkpt lat="50.244349" lon="16.4042281">
+      <ele>670</ele>
+      <time>2022-01-17T21:31:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2444982" lon="16.4045754">
+      <ele>664</ele>
+      <time>2022-01-17T21:31:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2449176" lon="16.4054183">
+      <ele>650</ele>
+      <time>2022-01-17T21:32:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2452512" lon="16.4062665">
+      <ele>642</ele>
+      <time>2022-01-17T21:33:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2451672" lon="16.4066648">
+      <ele>638</ele>
+      <time>2022-01-17T21:34:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

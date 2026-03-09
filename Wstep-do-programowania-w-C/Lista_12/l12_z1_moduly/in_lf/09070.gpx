@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:24Z</time>
+    <bounds maxlat="50.5178541" maxlon="16.0372657" minlat="50.5177552" minlon="16.0369706"/>
+  </metadata>
+  <wpt lat="50.517854" lon="16.036971">
+    <ele>354</ele>
+    <name>Batnovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6312">
+      <text>Batnovice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.517755" lon="16.037266">
+    <ele>353</ele>
+    <name>Batnovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6311">
+      <text>Batnovice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Batnovice, rozc. - Batnovice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5178541,16.0369706;50.51780465002592,16.03711814999997;50.5177552,16.0372657">
+    <text>Batnovice, rozc. - Batnovice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5178541" lon="16.0369706">
+      <ele>354</ele>
+      <time>2022-01-17T22:50:24Z</time>
+    </trkpt>
+    <trkpt lat="50.5177552" lon="16.0372657">
+      <ele>353</ele>
+      <time>2022-01-17T22:51:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

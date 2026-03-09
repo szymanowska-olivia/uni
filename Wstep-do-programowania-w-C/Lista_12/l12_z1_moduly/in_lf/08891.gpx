@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:09Z</time>
+    <bounds maxlat="50.3798703" maxlon="16.2777535" minlat="50.3795949" minlon="16.2770037"/>
+  </metadata>
+  <wpt lat="50.37987" lon="16.277004">
+    <ele>632</ele>
+    <name>Taszow</name>
+    <link href="https://mapa-turystyczna.pl/node/5677">
+      <text>Taszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.379595" lon="16.277753">
+    <ele>630</ele>
+    <name>Taszow, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/6189">
+      <text>Taszow, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Taszow - Taszow, odejscie szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3798703,16.2770037;50.3796818000796,16.277563049999983;50.3795949,16.2777535">
+    <text>Taszow - Taszow, odejscie szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3798703" lon="16.2770037">
+      <ele>632</ele>
+      <time>2022-01-17T22:47:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3797687" lon="16.2773726">
+      <ele>630</ele>
+      <time>2022-01-17T22:47:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3795949" lon="16.2777535">
+      <ele>630</ele>
+      <time>2022-01-17T22:48:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

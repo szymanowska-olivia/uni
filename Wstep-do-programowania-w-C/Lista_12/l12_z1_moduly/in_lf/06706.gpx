@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:26Z</time>
+    <bounds maxlat="49.674641" maxlon="20.080953" minlat="49.674024" minlon="20.079822"/>
+  </metadata>
+  <wpt lat="49.674024" lon="20.079822">
+    <ele>384</ele>
+    <name>Mszana Dolna</name>
+    <link href="https://mapa-turystyczna.pl/node/903">
+      <text>Mszana Dolna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.674641" lon="20.080953">
+    <ele>396</ele>
+    <name>Mszana Dolna, ul. Spadochroniarzy</name>
+    <link href="https://mapa-turystyczna.pl/node/4638">
+      <text>Mszana Dolna, ul. Spadochroniarzy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mszana Dolna - Mszana Dolna, ul. Spadochroniarzy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.674024,20.079822;49.674348000520474,20.08041549999998;49.674641,20.080953">
+    <text>Mszana Dolna - Mszana Dolna, ul. Spadochroniarzy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.674024" lon="20.079822">
+      <ele>384</ele>
+      <time>2022-01-17T22:11:26Z</time>
+    </trkpt>
+    <trkpt lat="49.67412" lon="20.079999">
+      <ele>385</ele>
+      <time>2022-01-17T22:11:54Z</time>
+    </trkpt>
+    <trkpt lat="49.674123" lon="20.080005">
+      <ele>385</ele>
+      <time>2022-01-17T22:11:55Z</time>
+    </trkpt>
+    <trkpt lat="49.674573" lon="20.080826">
+      <ele>394</ele>
+      <time>2022-01-17T22:14:06Z</time>
+    </trkpt>
+    <trkpt lat="49.674641" lon="20.080953">
+      <ele>396</ele>
+      <time>2022-01-17T22:14:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

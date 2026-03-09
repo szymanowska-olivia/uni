@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:25Z</time>
+    <bounds maxlat="49.603345" maxlon="19.474677" minlat="49.602655" minlon="19.474369"/>
+  </metadata>
+  <wpt lat="49.603345" lon="19.474677">
+    <ele>997</ele>
+    <name>Przelecz Jalowiecka</name>
+    <link href="https://mapa-turystyczna.pl/node/630">
+      <text>Przelecz Jalowiecka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.602655" lon="19.474369">
+    <ele>1010</ele>
+    <name>Przelecz Jalowiecka, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/6087">
+      <text>Przelecz Jalowiecka, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Jalowiecka - Przelecz Jalowiecka, odejscie szlaku czarnego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.603345,19.474677;49.603021500095515,19.4745125;49.602655,19.474369">
+    <text>Przelecz Jalowiecka - Przelecz Jalowiecka, odejscie szlaku czarnego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.603345" lon="19.474677">
+      <ele>997</ele>
+      <time>2022-01-17T22:44:25Z</time>
+    </trkpt>
+    <trkpt lat="49.603118" lon="19.474565">
+      <ele>1000</ele>
+      <time>2022-01-17T22:45:24Z</time>
+    </trkpt>
+    <trkpt lat="49.602925" lon="19.47446">
+      <ele>1004</ele>
+      <time>2022-01-17T22:46:16Z</time>
+    </trkpt>
+    <trkpt lat="49.602655" lon="19.474369">
+      <ele>1010</ele>
+      <time>2022-01-17T22:47:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:36Z</time>
+    <bounds maxlat="54.1175382" maxlon="15.3165813" minlat="54.1159161" minlon="15.3162886"/>
+  </metadata>
+  <wpt lat="54.115916" lon="15.316289">
+    <ele>10</ele>
+    <name>Roby, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12575">
+      <text>Roby, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="54.117538" lon="15.316581">
+    <ele>6</ele>
+    <name>Roby</name>
+    <link href="https://mapa-turystyczna.pl/node/12585">
+      <text>Roby</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roby, rozejscie szlakow - Roby</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1159161,15.3162886;54.11683085603558,15.316508100000013;54.1175382,15.3165813">
+    <text>Roby, rozejscie szlakow - Roby</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1159161" lon="15.3162886">
+      <ele>10</ele>
+      <time>2022-01-18T01:33:36Z</time>
+    </trkpt>
+    <trkpt lat="54.1159914" lon="15.316392">
+      <ele>10</ele>
+      <time>2022-01-18T01:33:47Z</time>
+    </trkpt>
+    <trkpt lat="54.1161235" lon="15.3164349">
+      <ele>10</ele>
+      <time>2022-01-18T01:34:01Z</time>
+    </trkpt>
+    <trkpt lat="54.1175382" lon="15.3165813">
+      <ele>6</ele>
+      <time>2022-01-18T01:36:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:14Z</time>
+    <bounds maxlat="50.8624837" maxlon="15.7119751" minlat="50.8616439" minlon="15.710913"/>
+  </metadata>
+  <wpt lat="50.862484" lon="15.710913">
+    <ele>402</ele>
+    <name>Rozdroze nad Zrodelkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/11044">
+      <text>Rozdroze nad Zrodelkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.861644" lon="15.711975">
+    <ele>411</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11043">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze nad Zrodelkiem - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8624837,15.710913;50.86206380189076,15.711444050000019;50.8616439,15.7119751">
+    <text>Rozdroze nad Zrodelkiem - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8624837" lon="15.710913">
+      <ele>402</ele>
+      <time>2022-01-18T00:52:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8616439" lon="15.7119751">
+      <ele>411</ele>
+      <time>2022-01-18T00:55:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

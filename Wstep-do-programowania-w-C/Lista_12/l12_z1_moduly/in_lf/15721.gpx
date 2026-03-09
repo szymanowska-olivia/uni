@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:15Z</time>
+    <bounds maxlat="51.1216547" maxlon="15.2900028" minlat="51.1200391" minlon="15.2889615"/>
+  </metadata>
+  <wpt lat="51.121655" lon="15.288961">
+    <ele>217</ele>
+    <name>Luban, ul. Podwale</name>
+    <link href="https://mapa-turystyczna.pl/node/3561">
+      <text>Luban, ul. Podwale</text>
+    </link>
+  </wpt>
+  <wpt lat="51.120039" lon="15.290003">
+    <ele>225</ele>
+    <name>Luban, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/10741">
+      <text>Luban, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Luban, ul. Podwale - Luban, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1216547,15.2889615;51.12082975010489,15.289962300000006;51.1200391,15.2900028">
+    <text>Luban, ul. Podwale - Luban, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1216547" lon="15.2889615">
+      <ele>217</ele>
+      <time>2022-01-18T00:44:15Z</time>
+    </trkpt>
+    <trkpt lat="51.1215038" lon="15.2891245">
+      <ele>219</ele>
+      <time>2022-01-18T00:44:41Z</time>
+    </trkpt>
+    <trkpt lat="51.1212951" lon="15.2893766">
+      <ele>221</ele>
+      <time>2022-01-18T00:45:18Z</time>
+    </trkpt>
+    <trkpt lat="51.1211132" lon="15.2894731">
+      <ele>223</ele>
+      <time>2022-01-18T00:45:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1209282" lon="15.2899955">
+      <ele>223</ele>
+      <time>2022-01-18T00:46:38Z</time>
+    </trkpt>
+    <trkpt lat="51.1207313" lon="15.2899291">
+      <ele>223</ele>
+      <time>2022-01-18T00:47:06Z</time>
+    </trkpt>
+    <trkpt lat="51.1201706" lon="15.289557">
+      <ele>223</ele>
+      <time>2022-01-18T00:48:31Z</time>
+    </trkpt>
+    <trkpt lat="51.1200391" lon="15.2900028">
+      <ele>225</ele>
+      <time>2022-01-18T00:49:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

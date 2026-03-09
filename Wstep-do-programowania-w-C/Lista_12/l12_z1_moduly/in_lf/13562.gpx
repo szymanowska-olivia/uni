@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:18Z</time>
+    <bounds maxlat="50.2063947" maxlon="19.0763484" minlat="50.2055394" minlon="19.0761613"/>
+  </metadata>
+  <wpt lat="50.206395" lon="19.076161">
+    <ele>299</ele>
+    <name>Stara Wesola, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/9360">
+      <text>Stara Wesola, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.205539" lon="19.076348">
+    <ele>299</ele>
+    <name>Stara Wesola</name>
+    <link href="https://mapa-turystyczna.pl/node/9102">
+      <text>Stara Wesola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Wesola, granica - Stara Wesola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2063947,19.0761613;50.20596705191595,19.076254850000012;50.2055394,19.0763484">
+    <text>Stara Wesola, granica - Stara Wesola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2063947" lon="19.0761613">
+      <ele>299</ele>
+      <time>2022-01-18T00:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2055394" lon="19.0763484">
+      <ele>299</ele>
+      <time>2022-01-18T00:10:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:30:36Z</time>
+    <bounds maxlat="50.3986932" maxlon="18.6311796" minlat="50.3982534" minlon="18.6272069"/>
+  </metadata>
+  <wpt lat="50.398253" lon="18.627207">
+    <ele>229</ele>
+    <name>Pyskowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9590">
+      <text>Pyskowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.398693" lon="18.63118">
+    <ele>232</ele>
+    <name>Pyskowice, ul. Nowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10171">
+      <text>Pyskowice, ul. Nowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pyskowice - Pyskowice, ul. Nowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3982534,18.6272069;50.3985700000022,18.629712249999997;50.3986932,18.6311796">
+    <text>Pyskowice - Pyskowice, ul. Nowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3982534" lon="18.6272069">
+      <ele>229</ele>
+      <time>2022-01-18T00:30:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3984666" lon="18.6283794">
+      <ele>230</ele>
+      <time>2022-01-18T00:32:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3985555" lon="18.6290339">
+      <ele>229</ele>
+      <time>2022-01-18T00:32:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3985845" lon="18.6303906">
+      <ele>232</ele>
+      <time>2022-01-18T00:34:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3986352" lon="18.6308277">
+      <ele>232</ele>
+      <time>2022-01-18T00:35:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3986932" lon="18.6311796">
+      <ele>232</ele>
+      <time>2022-01-18T00:35:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

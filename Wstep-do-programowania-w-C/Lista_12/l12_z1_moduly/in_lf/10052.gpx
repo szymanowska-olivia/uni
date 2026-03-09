@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:16Z</time>
+    <bounds maxlat="50.0195905" maxlon="17.2125936" minlat="50.016509" minlon="17.2075295"/>
+  </metadata>
+  <wpt lat="50.016509" lon="17.207529">
+    <ele>1111</ele>
+    <name>Mravenci sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/7074">
+      <text>Mravenci sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.01959" lon="17.212594">
+    <ele>1088</ele>
+    <name>Alfredka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7075">
+      <text>Alfredka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mravenci sedlo - Alfredka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.016509,17.2075295;50.018130750704856,17.209887199999976;50.0195905,17.2125936">
+    <text>Mravenci sedlo - Alfredka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.016509" lon="17.2075295">
+      <ele>1111</ele>
+      <time>2022-01-17T23:09:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0170743" lon="17.2080016">
+      <ele>1111</ele>
+      <time>2022-01-17T23:10:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0171984" lon="17.2081035">
+      <ele>1110</ele>
+      <time>2022-01-17T23:10:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0175982" lon="17.2087634">
+      <ele>1110</ele>
+      <time>2022-01-17T23:12:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0178705" lon="17.2092783">
+      <ele>1107</ele>
+      <time>2022-01-17T23:13:11Z</time>
+    </trkpt>
+    <trkpt lat="50.018391" lon="17.2104961">
+      <ele>1104</ele>
+      <time>2022-01-17T23:15:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0186254" lon="17.2110593">
+      <ele>1101</ele>
+      <time>2022-01-17T23:16:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0189046" lon="17.2114992">
+      <ele>1099</ele>
+      <time>2022-01-17T23:17:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0195802" lon="17.2124487">
+      <ele>1090</ele>
+      <time>2022-01-17T23:19:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0195905" lon="17.2125936">
+      <ele>1088</ele>
+      <time>2022-01-17T23:19:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

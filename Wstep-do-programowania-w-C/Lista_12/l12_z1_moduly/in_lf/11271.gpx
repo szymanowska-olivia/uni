@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:35Z</time>
+    <bounds maxlat="49.9838732" maxlon="16.8880437" minlat="49.9820562" minlon="16.886168"/>
+  </metadata>
+  <wpt lat="49.982056" lon="16.886168">
+    <ele>334</ele>
+    <name>Ruda nad Moravou, Myto</name>
+    <link href="https://mapa-turystyczna.pl/node/7942">
+      <text>Ruda nad Moravou, Myto</text>
+    </link>
+  </wpt>
+  <wpt lat="49.983873" lon="16.888044">
+    <ele>336</ele>
+    <name>Ruda nad Moravou, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7941">
+      <text>Ruda nad Moravou, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruda nad Moravou, Myto - Ruda nad Moravou, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9820562,16.886168;49.98320960457708,16.8876396;49.9838732,16.8880437">
+    <text>Ruda nad Moravou, Myto - Ruda nad Moravou, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9820562" lon="16.886168">
+      <ele>334</ele>
+      <time>2022-01-17T23:31:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9824325" lon="16.8870835">
+      <ele>333</ele>
+      <time>2022-01-17T23:33:07Z</time>
+    </trkpt>
+    <trkpt lat="49.982546" lon="16.8872355">
+      <ele>333</ele>
+      <time>2022-01-17T23:33:27Z</time>
+    </trkpt>
+    <trkpt lat="49.9838732" lon="16.8880437">
+      <ele>336</ele>
+      <time>2022-01-17T23:36:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

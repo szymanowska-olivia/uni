@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:22Z</time>
+    <bounds maxlat="49.8081854" maxlon="19.202696" minlat="49.8061835" minlon="19.201296"/>
+  </metadata>
+  <wpt lat="49.808185" lon="19.201296">
+    <ele>320</ele>
+    <name>Zarnowka Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/1082">
+      <text>Zarnowka Mala</text>
+    </link>
+  </wpt>
+  <wpt lat="49.806184" lon="19.202696">
+    <ele>331</ele>
+    <name>Porabka, Zapora</name>
+    <link href="https://mapa-turystyczna.pl/node/3856">
+      <text>Porabka, Zapora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zarnowka Mala - Porabka, Zapora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8081854,19.201296;49.807069558109276,19.202004049999992;49.8061835,19.202696">
+    <text>Zarnowka Mala - Porabka, Zapora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8081854" lon="19.201296">
+      <ele>320</ele>
+      <time>2022-01-17T21:56:22Z</time>
+    </trkpt>
+    <trkpt lat="49.8079556" lon="19.2013121">
+      <ele>317</ele>
+      <time>2022-01-17T21:56:53Z</time>
+    </trkpt>
+    <trkpt lat="49.8061835" lon="19.202696">
+      <ele>331</ele>
+      <time>2022-01-17T22:01:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:13Z</time>
+    <bounds maxlat="51.7839844" maxlon="21.1915361" minlat="51.7832307" minlon="21.1909964"/>
+  </metadata>
+  <wpt lat="51.783984" lon="21.190996">
+    <ele>115</ele>
+    <name>Warka, ul. Senatorska</name>
+    <link href="https://mapa-turystyczna.pl/node/11999">
+      <text>Warka, ul. Senatorska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.783231" lon="21.191536">
+    <ele>108</ele>
+    <name>Warka, ul. Farna</name>
+    <link href="https://mapa-turystyczna.pl/node/12005">
+      <text>Warka, ul. Farna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka, ul. Senatorska - Warka, ul. Farna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7839844,21.1909964;51.78360755157395,21.191266250000023;51.7832307,21.1915361">
+    <text>Warka, ul. Senatorska - Warka, ul. Farna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7839844" lon="21.1909964">
+      <ele>115</ele>
+      <time>2022-01-18T01:19:13Z</time>
+    </trkpt>
+    <trkpt lat="51.7832307" lon="21.1915361">
+      <ele>108</ele>
+      <time>2022-01-18T01:20:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

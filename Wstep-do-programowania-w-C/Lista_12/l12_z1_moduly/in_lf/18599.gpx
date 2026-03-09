@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:47Z</time>
+    <bounds maxlat="54.2090151" maxlon="15.7196728" minlat="54.2075751" minlon="15.7128331"/>
+  </metadata>
+  <wpt lat="54.207575" lon="15.712833">
+    <ele>4</ele>
+    <name>Sianozety, promenada</name>
+    <link href="https://mapa-turystyczna.pl/node/12593">
+      <text>Sianozety, promenada</text>
+    </link>
+  </wpt>
+  <wpt lat="54.209015" lon="15.719673">
+    <ele>4</ele>
+    <name>Sianozety</name>
+    <link href="https://mapa-turystyczna.pl/node/12594">
+      <text>Sianozety</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sianozety, promenada - Sianozety</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.2075751,15.7128331;54.208093700393896,15.715501249999981;54.2090151,15.7196728">
+    <text>Sianozety, promenada - Sianozety</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.2075751" lon="15.7128331">
+      <ele>4</ele>
+      <time>2022-01-18T01:33:47Z</time>
+    </trkpt>
+    <trkpt lat="54.2079133" lon="15.714651">
+      <ele>4</ele>
+      <time>2022-01-18T01:35:06Z</time>
+    </trkpt>
+    <trkpt lat="54.2082741" lon="15.7163515">
+      <ele>4</ele>
+      <time>2022-01-18T01:36:20Z</time>
+    </trkpt>
+    <trkpt lat="54.2086352" lon="15.7180121">
+      <ele>5</ele>
+      <time>2022-01-18T01:37:33Z</time>
+    </trkpt>
+    <trkpt lat="54.2090151" lon="15.7196728">
+      <ele>4</ele>
+      <time>2022-01-18T01:38:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

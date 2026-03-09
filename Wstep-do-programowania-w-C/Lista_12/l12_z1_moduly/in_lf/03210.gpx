@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:26:40Z</time>
+    <bounds maxlat="50.8653175" maxlon="15.4486012" minlat="50.8611868" minlon="15.446198"/>
+  </metadata>
+  <wpt lat="50.865318" lon="15.448601">
+    <ele>769</ele>
+    <name>Rozdroze Izerskie</name>
+    <link href="https://mapa-turystyczna.pl/node/2248">
+      <text>Rozdroze Izerskie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.861187" lon="15.446198">
+    <ele>784</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/2294">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze Izerskie - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8653175,15.4486012;50.86276635396099,15.447152850000014;50.8611868,15.446198">
+    <text>Rozdroze Izerskie - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8653175" lon="15.4486012">
+      <ele>769</ele>
+      <time>2022-01-17T21:26:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8633741" lon="15.4476142">
+      <ele>773</ele>
+      <time>2022-01-17T21:31:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8621586" lon="15.4466915">
+      <ele>781</ele>
+      <time>2022-01-17T21:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8611868" lon="15.446198">
+      <ele>784</ele>
+      <time>2022-01-17T21:36:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

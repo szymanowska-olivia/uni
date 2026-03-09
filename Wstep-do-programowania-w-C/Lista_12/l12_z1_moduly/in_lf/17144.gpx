@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:31Z</time>
+    <bounds maxlat="50.8758612" maxlon="16.7337127" minlat="50.8737811" minlon="16.7310153"/>
+  </metadata>
+  <wpt lat="50.875861" lon="16.733628">
+    <ele>381</ele>
+    <name>Skrzyzowanie z Droga Dzikiej Swini</name>
+    <link href="https://mapa-turystyczna.pl/node/8324">
+      <text>Skrzyzowanie z Droga Dzikiej Swini</text>
+    </link>
+  </wpt>
+  <wpt lat="50.873781" lon="16.731015">
+    <ele>403</ele>
+    <name>Trakt Bolka</name>
+    <link href="https://mapa-turystyczna.pl/node/11693">
+      <text>Trakt Bolka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie z Droga Dzikiej Swini - Trakt Bolka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8758612,16.7336276;50.87474090029316,16.733011400000013;50.8737811,16.7310153">
+    <text>Skrzyzowanie z Droga Dzikiej Swini - Trakt Bolka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8758612" lon="16.7336276">
+      <ele>381</ele>
+      <time>2022-01-18T01:08:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8757772" lon="16.7336711">
+      <ele>382</ele>
+      <time>2022-01-18T01:08:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8753253" lon="16.7337127">
+      <ele>382</ele>
+      <time>2022-01-18T01:09:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8750515" lon="16.7335683">
+      <ele>382</ele>
+      <time>2022-01-18T01:09:56Z</time>
+    </trkpt>
+    <trkpt lat="50.8749062" lon="16.7332736">
+      <ele>385</ele>
+      <time>2022-01-18T01:10:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8745756" lon="16.7327492">
+      <ele>389</ele>
+      <time>2022-01-18T01:11:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8743208" lon="16.7318562">
+      <ele>396</ele>
+      <time>2022-01-18T01:12:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8737811" lon="16.7310153">
+      <ele>403</ele>
+      <time>2022-01-18T01:13:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

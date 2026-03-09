@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:50Z</time>
+    <bounds maxlat="50.8344004" maxlon="15.5570805" minlat="50.833464" minlon="15.5551711"/>
+  </metadata>
+  <wpt lat="50.8344" lon="15.555171">
+    <ele>580</ele>
+    <name>Pod Chybotkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/7164">
+      <text>Pod Chybotkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.833464" lon="15.55708">
+    <ele>555</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7165">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Chybotkiem - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8344004,15.5551711;50.83380610011812,15.555967400000013;50.833464,15.5570805">
+    <text>Pod Chybotkiem - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8344004" lon="15.5551711">
+      <ele>580</ele>
+      <time>2022-01-17T23:11:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8342736" lon="15.5552191">
+      <ele>580</ele>
+      <time>2022-01-17T23:12:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8341788" lon="15.5554122">
+      <ele>578</ele>
+      <time>2022-01-17T23:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8341042" lon="15.5555463">
+      <ele>577</ele>
+      <time>2022-01-17T23:12:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8339111" lon="15.5558038">
+      <ele>574</ele>
+      <time>2022-01-17T23:13:03Z</time>
+    </trkpt>
+    <trkpt lat="50.8337011" lon="15.556131">
+      <ele>570</ele>
+      <time>2022-01-17T23:13:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8335249" lon="15.5566567">
+      <ele>561</ele>
+      <time>2022-01-17T23:14:19Z</time>
+    </trkpt>
+    <trkpt lat="50.833464" lon="15.5570805">
+      <ele>555</ele>
+      <time>2022-01-17T23:14:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

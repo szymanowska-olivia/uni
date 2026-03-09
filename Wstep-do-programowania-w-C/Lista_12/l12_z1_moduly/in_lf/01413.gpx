@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:09Z</time>
+    <bounds maxlat="49.781297" maxlon="19.127813" minlat="49.780002" minlon="19.127321"/>
+  </metadata>
+  <wpt lat="49.781297" lon="19.127813">
+    <ele>850</ele>
+    <name>Pod Magurka</name>
+    <link href="https://mapa-turystyczna.pl/node/3876">
+      <text>Pod Magurka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.780002" lon="19.127321">
+    <ele>869</ele>
+    <name>Magurka</name>
+    <link href="https://mapa-turystyczna.pl/node/1026">
+      <text>Magurka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Magurka - Magurka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.781297,19.127813;49.780630000022796,19.12774999999999;49.780002,19.127321">
+    <text>Pod Magurka - Magurka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.781297" lon="19.127813">
+      <ele>850</ele>
+      <time>2022-01-17T21:00:09Z</time>
+    </trkpt>
+    <trkpt lat="49.781205" lon="19.127786">
+      <ele>851</ele>
+      <time>2022-01-17T21:00:29Z</time>
+    </trkpt>
+    <trkpt lat="49.780952" lon="19.127779">
+      <ele>856</ele>
+      <time>2022-01-17T21:01:25Z</time>
+    </trkpt>
+    <trkpt lat="49.780797" lon="19.127754">
+      <ele>860</ele>
+      <time>2022-01-17T21:02:00Z</time>
+    </trkpt>
+    <trkpt lat="49.780677" lon="19.127746">
+      <ele>861</ele>
+      <time>2022-01-17T21:02:26Z</time>
+    </trkpt>
+    <trkpt lat="49.780583" lon="19.127754">
+      <ele>863</ele>
+      <time>2022-01-17T21:02:47Z</time>
+    </trkpt>
+    <trkpt lat="49.780478" lon="19.1277">
+      <ele>864</ele>
+      <time>2022-01-17T21:03:11Z</time>
+    </trkpt>
+    <trkpt lat="49.780377" lon="19.127606">
+      <ele>864</ele>
+      <time>2022-01-17T21:03:37Z</time>
+    </trkpt>
+    <trkpt lat="49.78017" lon="19.12741">
+      <ele>866</ele>
+      <time>2022-01-17T21:04:30Z</time>
+    </trkpt>
+    <trkpt lat="49.780067" lon="19.127353">
+      <ele>868</ele>
+      <time>2022-01-17T21:04:54Z</time>
+    </trkpt>
+    <trkpt lat="49.780002" lon="19.127321">
+      <ele>869</ele>
+      <time>2022-01-17T21:05:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

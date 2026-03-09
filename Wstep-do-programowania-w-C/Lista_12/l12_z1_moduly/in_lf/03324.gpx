@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:12Z</time>
+    <bounds maxlat="50.6744744" maxlon="16.1571336" minlat="50.6723666" minlon="16.1518335"/>
+  </metadata>
+  <wpt lat="50.674474" lon="16.151833">
+    <ele>568</ele>
+    <name>Czartowskie Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/2374">
+      <text>Czartowskie Skaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.672367" lon="16.157134">
+    <ele>553</ele>
+    <name>Rozana</name>
+    <link href="https://mapa-turystyczna.pl/node/2373">
+      <text>Rozana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czartowskie Skaly - Rozana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6744744,16.1518335;50.673486800051734,16.154555300000016;50.6723666,16.1571336">
+    <text>Czartowskie Skaly - Rozana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6744744" lon="16.1518335">
+      <ele>568</ele>
+      <time>2022-01-17T21:28:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6738896" lon="16.15318">
+      <ele>566</ele>
+      <time>2022-01-17T21:29:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6735565" lon="16.1541858">
+      <ele>563</ele>
+      <time>2022-01-17T21:30:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6734171" lon="16.1549248">
+      <ele>558</ele>
+      <time>2022-01-17T21:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6732709" lon="16.1555779">
+      <ele>555</ele>
+      <time>2022-01-17T21:31:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6730499" lon="16.156109">
+      <ele>554</ele>
+      <time>2022-01-17T21:32:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6723666" lon="16.1571336">
+      <ele>553</ele>
+      <time>2022-01-17T21:33:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

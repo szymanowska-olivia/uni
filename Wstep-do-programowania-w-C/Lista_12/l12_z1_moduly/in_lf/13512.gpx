@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:45Z</time>
+    <bounds maxlat="50.1694957" maxlon="18.9058187" minlat="50.1692765" minlon="18.9048445"/>
+  </metadata>
+  <wpt lat="50.169496" lon="18.904844">
+    <ele>290</ele>
+    <name>Mikolow</name>
+    <link href="https://mapa-turystyczna.pl/node/9113">
+      <text>Mikolow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.169277" lon="18.905819">
+    <ele>287</ele>
+    <name>Mikolow, ul. Sw. Wojciecha</name>
+    <link href="https://mapa-turystyczna.pl/node/9329">
+      <text>Mikolow, ul. Sw. Wojciecha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mikolow - Mikolow, ul. Sw. Wojciecha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1694957,18.9048445;50.16938610012569,18.90533159999997;50.1692765,18.9058187">
+    <text>Mikolow - Mikolow, ul. Sw. Wojciecha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1694957" lon="18.9048445">
+      <ele>290</ele>
+      <time>2022-01-18T00:08:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1692765" lon="18.9058187">
+      <ele>287</ele>
+      <time>2022-01-18T00:09:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

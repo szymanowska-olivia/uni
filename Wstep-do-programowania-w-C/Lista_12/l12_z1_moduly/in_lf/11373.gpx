@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:32Z</time>
+    <bounds maxlat="50.6978185" maxlon="16.4414987" minlat="50.6977173" minlon="16.4406781"/>
+  </metadata>
+  <wpt lat="50.697818" lon="16.441499">
+    <ele>509</ele>
+    <name>Walim, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2018">
+      <text>Walim, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.697717" lon="16.440678">
+    <ele>514</ele>
+    <name>Walim, ul. Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/8004">
+      <text>Walim, ul. Gorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walim, skrzyzowanie - Walim, ul. Gorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6978185,16.4414987;50.6977735000216,16.44120770000003;50.6977173,16.4406781">
+    <text>Walim, skrzyzowanie - Walim, ul. Gorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6978185" lon="16.4414987">
+      <ele>509</ele>
+      <time>2022-01-17T23:33:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6977285" lon="16.4409167">
+      <ele>512</ele>
+      <time>2022-01-17T23:34:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6977246" lon="16.44074">
+      <ele>514</ele>
+      <time>2022-01-17T23:34:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6977173" lon="16.4406781">
+      <ele>514</ele>
+      <time>2022-01-17T23:34:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

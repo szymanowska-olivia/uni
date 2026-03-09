@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:32Z</time>
+    <bounds maxlat="50.3399021" maxlon="19.5968252" minlat="50.3377196" minlon="19.5959935"/>
+  </metadata>
+  <wpt lat="50.33772" lon="19.596825">
+    <ele>369</ele>
+    <name>Jaroszowiec Olkuski</name>
+    <link href="https://mapa-turystyczna.pl/node/4424">
+      <text>Jaroszowiec Olkuski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.339902" lon="19.595993">
+    <ele>383</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13452">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaroszowiec Olkuski - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3377196,19.5968252;50.339039900926,19.596564400000016;50.3399021,19.5959935">
+    <text>Jaroszowiec Olkuski - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3377196" lon="19.5968252">
+      <ele>369</ele>
+      <time>2022-01-18T01:57:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3387433" lon="19.5966482">
+      <ele>374</ele>
+      <time>2022-01-18T01:59:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3393365" lon="19.5964806">
+      <ele>378</ele>
+      <time>2022-01-18T02:01:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3399021" lon="19.5959935">
+      <ele>383</ele>
+      <time>2022-01-18T02:02:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

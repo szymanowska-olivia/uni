@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:55:36Z</time>
+    <bounds maxlat="48.8438192" maxlon="19.6063042" minlat="48.8425288" minlon="19.604601"/>
+  </metadata>
+  <wpt lat="48.843819" lon="19.606304">
+    <ele>573</ele>
+    <name>Bystra</name>
+    <link href="https://mapa-turystyczna.pl/node/6500">
+      <text>Bystra</text>
+    </link>
+  </wpt>
+  <wpt lat="48.842529" lon="19.604601">
+    <ele>565</ele>
+    <name>Bystra, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6499">
+      <text>Bystra, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystra - Bystra, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8438192,19.6063042;48.843159500050454,19.605548699999975;48.8425288,19.604601">
+    <text>Bystra - Bystra, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8438192" lon="19.6063042">
+      <ele>573</ele>
+      <time>2022-01-17T22:55:36Z</time>
+    </trkpt>
+    <trkpt lat="48.8437468" lon="19.6061566">
+      <ele>573</ele>
+      <time>2022-01-17T22:55:49Z</time>
+    </trkpt>
+    <trkpt lat="48.84364" lon="19.6060346">
+      <ele>572</ele>
+      <time>2022-01-17T22:56:03Z</time>
+    </trkpt>
+    <trkpt lat="48.8434983" lon="19.6058985">
+      <ele>570</ele>
+      <time>2022-01-17T22:56:20Z</time>
+    </trkpt>
+    <trkpt lat="48.8433834" lon="19.6057821">
+      <ele>569</ele>
+      <time>2022-01-17T22:56:35Z</time>
+    </trkpt>
+    <trkpt lat="48.8432306" lon="19.6056247">
+      <ele>568</ele>
+      <time>2022-01-17T22:56:54Z</time>
+    </trkpt>
+    <trkpt lat="48.8430884" lon="19.6054727">
+      <ele>568</ele>
+      <time>2022-01-17T22:57:12Z</time>
+    </trkpt>
+    <trkpt lat="48.8430138" lon="19.6053433">
+      <ele>568</ele>
+      <time>2022-01-17T22:57:24Z</time>
+    </trkpt>
+    <trkpt lat="48.8429039" lon="19.6051495">
+      <ele>567</ele>
+      <time>2022-01-17T22:57:42Z</time>
+    </trkpt>
+    <trkpt lat="48.8427022" lon="19.6048699">
+      <ele>567</ele>
+      <time>2022-01-17T22:58:10Z</time>
+    </trkpt>
+    <trkpt lat="48.8425288" lon="19.604601">
+      <ele>565</ele>
+      <time>2022-01-17T22:58:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

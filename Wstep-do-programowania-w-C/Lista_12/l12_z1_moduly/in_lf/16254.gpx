@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:41Z</time>
+    <bounds maxlat="49.3246532" maxlon="22.5858394" minlat="49.3242056" minlon="22.5854102"/>
+  </metadata>
+  <wpt lat="49.324653" lon="22.585839">
+    <ele>674</ele>
+    <name>Odejscie do punktu widokowego</name>
+    <link href="https://mapa-turystyczna.pl/node/11092">
+      <text>Odejscie do punktu widokowego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.324206" lon="22.58541">
+    <ele>671</ele>
+    <name>Punkt widokowy na Rosolin</name>
+    <link href="https://mapa-turystyczna.pl/node/11093">
+      <text>Punkt widokowy na Rosolin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do punktu widokowego - Punkt widokowy na Rosolin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3246532,22.5858394;49.32430350009734,22.58557115000001;49.3242056,22.5854102">
+    <text>Odejscie do punktu widokowego - Punkt widokowy na Rosolin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3246532" lon="22.5858394">
+      <ele>674</ele>
+      <time>2022-01-18T00:53:41Z</time>
+    </trkpt>
+    <trkpt lat="49.3244014" lon="22.5857321">
+      <ele>674</ele>
+      <time>2022-01-18T00:54:10Z</time>
+    </trkpt>
+    <trkpt lat="49.3242056" lon="22.5854102">
+      <ele>671</ele>
+      <time>2022-01-18T00:54:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

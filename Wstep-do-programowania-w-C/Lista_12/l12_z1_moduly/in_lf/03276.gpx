@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:36Z</time>
+    <bounds maxlat="50.6985167" maxlon="16.3544368" minlat="50.687928" minlon="16.3484341"/>
+  </metadata>
+  <wpt lat="50.698517" lon="16.348434">
+    <ele>474</ele>
+    <name>Grzmiaca</name>
+    <link href="https://mapa-turystyczna.pl/node/2331">
+      <text>Grzmiaca</text>
+    </link>
+  </wpt>
+  <wpt lat="50.687928" lon="16.354437">
+    <ele>486</ele>
+    <name>Gluszyca, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2023">
+      <text>Gluszyca, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grzmiaca - Gluszyca, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6985167,16.3484341;50.69247561910794,16.35253365;50.687928,16.3544368">
+    <text>Grzmiaca - Gluszyca, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6985167" lon="16.3484341">
+      <ele>474</ele>
+      <time>2022-01-17T21:27:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6976815" lon="16.3496691">
+      <ele>476</ele>
+      <time>2022-01-17T21:29:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6975524" lon="16.3498407">
+      <ele>477</ele>
+      <time>2022-01-17T21:29:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6961728" lon="16.3506776">
+      <ele>478</ele>
+      <time>2022-01-17T21:32:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6953505" lon="16.3513321">
+      <ele>474</ele>
+      <time>2022-01-17T21:34:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6940524" lon="16.3514393">
+      <ele>484</ele>
+      <time>2022-01-17T21:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6938145" lon="16.3515788">
+      <ele>487</ele>
+      <time>2022-01-17T21:36:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6911367" lon="16.3534885">
+      <ele>487</ele>
+      <time>2022-01-17T21:41:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6894607" lon="16.3540636">
+      <ele>485</ele>
+      <time>2022-01-17T21:44:54Z</time>
+    </trkpt>
+    <trkpt lat="50.687928" lon="16.3544368">
+      <ele>486</ele>
+      <time>2022-01-17T21:47:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

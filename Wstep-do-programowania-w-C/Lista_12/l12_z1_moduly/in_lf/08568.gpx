@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:05Z</time>
+    <bounds maxlat="49.8284817" maxlon="19.9473846" minlat="49.821646" minlon="19.9434973"/>
+  </metadata>
+  <wpt lat="49.821646" lon="19.947385">
+    <ele>283</ele>
+    <name>Myslenice Zarabie</name>
+    <link href="https://mapa-turystyczna.pl/node/1677">
+      <text>Myslenice Zarabie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.828482" lon="19.943497">
+    <ele>294</ele>
+    <name>Myslenice, ul. Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/5963">
+      <text>Myslenice, ul. Mickiewicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myslenice Zarabie - Myslenice, ul. Mickiewicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.821646,19.9473846;49.82323977625153,19.945641150000018;49.8284817,19.9434973">
+    <text>Myslenice Zarabie - Myslenice, ul. Mickiewicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.821646" lon="19.9473846">
+      <ele>283</ele>
+      <time>2022-01-17T22:41:05Z</time>
+    </trkpt>
+    <trkpt lat="49.8248335" lon="19.9438977">
+      <ele>285</ele>
+      <time>2022-01-17T22:48:49Z</time>
+    </trkpt>
+    <trkpt lat="49.8284817" lon="19.9434973">
+      <ele>294</ele>
+      <time>2022-01-17T22:56:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

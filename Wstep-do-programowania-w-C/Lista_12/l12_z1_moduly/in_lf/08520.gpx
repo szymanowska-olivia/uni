@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:13Z</time>
+    <bounds maxlat="49.244805" maxlon="19.711118" minlat="49.244543" minlon="19.71017"/>
+  </metadata>
+  <wpt lat="49.244805" lon="19.711118">
+    <ele>1025</ele>
+    <name>Zverovka, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/5931">
+      <text>Zverovka, razcestie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.244543" lon="19.71017">
+    <ele>1021</ele>
+    <name>Zverovka, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/1496">
+      <text>Zverovka, razcestie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zverovka, razcestie - Zverovka, razcestie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.244805,19.711118;49.24465750000468,19.710724999999982;49.244543,19.71017">
+    <text>Zverovka, razcestie - Zverovka, razcestie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.244805" lon="19.711118">
+      <ele>1025</ele>
+      <time>2022-01-17T22:40:13Z</time>
+    </trkpt>
+    <trkpt lat="49.244708" lon="19.710905">
+      <ele>1024</ele>
+      <time>2022-01-17T22:40:28Z</time>
+    </trkpt>
+    <trkpt lat="49.244679" lon="19.710803">
+      <ele>1024</ele>
+      <time>2022-01-17T22:40:34Z</time>
+    </trkpt>
+    <trkpt lat="49.244636" lon="19.710647">
+      <ele>1023</ele>
+      <time>2022-01-17T22:40:44Z</time>
+    </trkpt>
+    <trkpt lat="49.244611" lon="19.710556">
+      <ele>1023</ele>
+      <time>2022-01-17T22:40:50Z</time>
+    </trkpt>
+    <trkpt lat="49.244565" lon="19.710344">
+      <ele>1021</ele>
+      <time>2022-01-17T22:41:03Z</time>
+    </trkpt>
+    <trkpt lat="49.244543" lon="19.71017">
+      <ele>1021</ele>
+      <time>2022-01-17T22:41:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

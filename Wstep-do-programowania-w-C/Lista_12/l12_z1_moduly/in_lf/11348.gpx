@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:03Z</time>
+    <bounds maxlat="50.6732245" maxlon="15.7255493" minlat="50.6730106" minlon="15.720706"/>
+  </metadata>
+  <wpt lat="50.673225" lon="15.725549">
+    <ele>1076</ele>
+    <name>Husova bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7991">
+      <text>Husova bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.673011" lon="15.720706">
+    <ele>1088</ele>
+    <name>Luciny, retranslacni vez</name>
+    <link href="https://mapa-turystyczna.pl/node/1198">
+      <text>Luciny, retranslacni vez</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Husova bouda, rozc. - Luciny, retranslacni vez</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6732245,15.7255493;50.6730956500253,15.722310549999996;50.6730106,15.720706">
+    <text>Husova bouda, rozc. - Luciny, retranslacni vez</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6732245" lon="15.7255493">
+      <ele>1076</ele>
+      <time>2022-01-17T23:33:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6732107" lon="15.7255126">
+      <ele>1076</ele>
+      <time>2022-01-17T23:33:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6731561" lon="15.7252443">
+      <ele>1077</ele>
+      <time>2022-01-17T23:33:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6731287" lon="15.7240051">
+      <ele>1078</ele>
+      <time>2022-01-17T23:34:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6731444" lon="15.7237073">
+      <ele>1079</ele>
+      <time>2022-01-17T23:34:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6730469" lon="15.7209138">
+      <ele>1089</ele>
+      <time>2022-01-17T23:37:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6730106" lon="15.720706">
+      <ele>1088</ele>
+      <time>2022-01-17T23:38:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

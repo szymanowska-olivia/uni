@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:04Z</time>
+    <bounds maxlat="50.2553069" maxlon="17.3464626" minlat="50.2544871" minlon="17.34613"/>
+  </metadata>
+  <wpt lat="50.254487" lon="17.34613">
+    <ele>459</ele>
+    <name>Ondrejovice</name>
+    <link href="https://mapa-turystyczna.pl/node/2654">
+      <text>Ondrejovice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.255307" lon="17.346463">
+    <ele>442</ele>
+    <name>Ondrejovice, u kaple</name>
+    <link href="https://mapa-turystyczna.pl/node/2677">
+      <text>Ondrejovice, u kaple</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ondrejovice - Ondrejovice, u kaple</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2544871,17.34613;50.25488800021133,17.346309700000013;50.2553069,17.3464626">
+    <text>Ondrejovice - Ondrejovice, u kaple</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2544871" lon="17.34613">
+      <ele>459</ele>
+      <time>2022-01-17T21:35:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2547461" lon="17.3462051">
+      <ele>453</ele>
+      <time>2022-01-17T21:35:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2550299" lon="17.3464143">
+      <ele>448</ele>
+      <time>2022-01-17T21:35:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2551924" lon="17.3464599">
+      <ele>444</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2553069" lon="17.3464626">
+      <ele>442</ele>
+      <time>2022-01-17T21:36:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

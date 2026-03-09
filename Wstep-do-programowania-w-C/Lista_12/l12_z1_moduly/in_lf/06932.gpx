@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:15:11Z</time>
+    <bounds maxlat="49.515788" maxlon="18.875657" minlat="49.515663" minlon="18.875512"/>
+  </metadata>
+  <wpt lat="49.515663" lon="18.875512">
+    <ele>497</ele>
+    <name>Cierne, Cadecka</name>
+    <link href="https://mapa-turystyczna.pl/node/4752">
+      <text>Cierne, Cadecka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.515788" lon="18.875657">
+    <ele>490</ele>
+    <name>Jaworzynka, TPG Slowacja</name>
+    <link href="https://mapa-turystyczna.pl/node/755">
+      <text>Jaworzynka, TPG Slowacja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cierne, Cadecka - Jaworzynka, TPG Slowacja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.515663,18.875512;49.51572550003993,18.87558449999999;49.515788,18.875657">
+    <text>Cierne, Cadecka - Jaworzynka, TPG Slowacja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.515663" lon="18.875512">
+      <ele>497</ele>
+      <time>2022-01-17T22:15:11Z</time>
+    </trkpt>
+    <trkpt lat="49.515788" lon="18.875657">
+      <ele>490</ele>
+      <time>2022-01-17T22:16:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

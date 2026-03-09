@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:43Z</time>
+    <bounds maxlat="50.055644" maxlon="19.8458362" minlat="50.0546934" minlon="19.8434275"/>
+  </metadata>
+  <wpt lat="50.055644" lon="19.843428">
+    <ele>337</ele>
+    <name>Las Wolski, skrzyzowanie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5121">
+      <text>Las Wolski, skrzyzowanie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.054693" lon="19.845836">
+    <ele>346</ele>
+    <name>Las Wolski, Aleja do Kopca</name>
+    <link href="https://mapa-turystyczna.pl/node/5168">
+      <text>Las Wolski, Aleja do Kopca</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, skrzyzowanie szlakow zielony / czarny - Las Wolski, Aleja do Kopca</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.055644,19.8434275;50.05532540105774,19.84453659999998;50.0546934,19.8458362">
+    <text>Las Wolski, skrzyzowanie szlakow zielony / czarny - Las Wolski, Aleja do Kopca</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.055644" lon="19.8434275">
+      <ele>337</ele>
+      <time>2022-01-17T22:25:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0550068" lon="19.8456457">
+      <ele>347</ele>
+      <time>2022-01-17T22:29:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0548501" lon="19.8456712">
+      <ele>346</ele>
+      <time>2022-01-17T22:30:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0546934" lon="19.8458362">
+      <ele>346</ele>
+      <time>2022-01-17T22:30:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

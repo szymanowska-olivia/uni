@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:56Z</time>
+    <bounds maxlat="50.9090034" maxlon="15.3758276" minlat="50.9083641" minlon="15.3678024"/>
+  </metadata>
+  <wpt lat="50.909003" lon="15.367802">
+    <ele>828</ele>
+    <name>Sepia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2254">
+      <text>Sepia Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.908364" lon="15.375828">
+    <ele>771</ele>
+    <name>Pod Sepia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2255">
+      <text>Pod Sepia Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sepia Gora - Pod Sepia Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9090034,15.3678024;50.90853835008634,15.371896150000026;50.9083641,15.3758276">
+    <text>Sepia Gora - Pod Sepia Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9090034" lon="15.3678024">
+      <ele>828</ele>
+      <time>2022-01-17T21:25:56Z</time>
+    </trkpt>
+    <trkpt lat="50.9087912" lon="15.3687368">
+      <ele>831</ele>
+      <time>2022-01-17T21:27:08Z</time>
+    </trkpt>
+    <trkpt lat="50.9085214" lon="15.3696283">
+      <ele>826</ele>
+      <time>2022-01-17T21:28:20Z</time>
+    </trkpt>
+    <trkpt lat="50.9084487" lon="15.3707998">
+      <ele>815</ele>
+      <time>2022-01-17T21:29:46Z</time>
+    </trkpt>
+    <trkpt lat="50.908628" lon="15.3729925">
+      <ele>791</ele>
+      <time>2022-01-17T21:32:27Z</time>
+    </trkpt>
+    <trkpt lat="50.9083776" lon="15.375275">
+      <ele>772</ele>
+      <time>2022-01-17T21:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9083641" lon="15.3758276">
+      <ele>771</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:41Z</time>
+    <bounds maxlat="50.9260679" maxlon="15.2316602" minlat="50.9249156" minlon="15.2293628"/>
+  </metadata>
+  <wpt lat="50.926068" lon="15.23166">
+    <ele>476</ele>
+    <name>Nove Mesto pod Smrkem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8683">
+      <text>Nove Mesto pod Smrkem, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.924916" lon="15.229363">
+    <ele>466</ele>
+    <name>Nove Mesto pod Smrkem</name>
+    <link href="https://mapa-turystyczna.pl/node/2273">
+      <text>Nove Mesto pod Smrkem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nove Mesto pod Smrkem, rozc. - Nove Mesto pod Smrkem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9260679,15.2316602;50.92595245014325,15.230785099999986;50.9249156,15.2293628">
+    <text>Nove Mesto pod Smrkem, rozc. - Nove Mesto pod Smrkem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9260679" lon="15.2316602">
+      <ele>476</ele>
+      <time>2022-01-17T23:53:41Z</time>
+    </trkpt>
+    <trkpt lat="50.925837" lon="15.22991">
+      <ele>469</ele>
+      <time>2022-01-17T23:56:19Z</time>
+    </trkpt>
+    <trkpt lat="50.9256527" lon="15.2299516">
+      <ele>469</ele>
+      <time>2022-01-17T23:56:45Z</time>
+    </trkpt>
+    <trkpt lat="50.9254363" lon="15.2297652">
+      <ele>468</ele>
+      <time>2022-01-17T23:57:20Z</time>
+    </trkpt>
+    <trkpt lat="50.9249156" lon="15.2293628">
+      <ele>466</ele>
+      <time>2022-01-17T23:58:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

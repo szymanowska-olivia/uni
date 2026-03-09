@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:43Z</time>
+    <bounds maxlat="51.0041013" maxlon="14.9920249" minlat="51.0016117" minlon="14.9810815"/>
+  </metadata>
+  <wpt lat="51.00185" lon="14.992025">
+    <ele>300</ele>
+    <name>Andelka</name>
+    <link href="https://mapa-turystyczna.pl/node/3461">
+      <text>Andelka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.004101" lon="14.981082">
+    <ele>315</ele>
+    <name>Przejscie graniczne Andelka / Lutogniewice</name>
+    <link href="https://mapa-turystyczna.pl/node/3462">
+      <text>Przejscie graniczne Andelka / Lutogniewice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Andelka - Przejscie graniczne Andelka / Lutogniewice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0018497,14.9920249;51.00353135025476,14.986737250000024;51.0041013,14.9810815">
+    <text>Andelka - Przejscie graniczne Andelka / Lutogniewice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0018497" lon="14.9920249">
+      <ele>300</ele>
+      <time>2022-01-17T21:48:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0016902" lon="14.9910003">
+      <ele>304</ele>
+      <time>2022-01-17T21:50:01Z</time>
+    </trkpt>
+    <trkpt lat="51.0016117" lon="14.9907482">
+      <ele>305</ele>
+      <time>2022-01-17T21:50:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0018465" lon="14.9901443">
+      <ele>307</ele>
+      <time>2022-01-17T21:51:14Z</time>
+    </trkpt>
+    <trkpt lat="51.0033776" lon="14.9871158">
+      <ele>314</ele>
+      <time>2022-01-17T21:56:01Z</time>
+    </trkpt>
+    <trkpt lat="51.0036851" lon="14.9863587">
+      <ele>312</ele>
+      <time>2022-01-17T21:57:08Z</time>
+    </trkpt>
+    <trkpt lat="51.003814" lon="14.9858961">
+      <ele>310</ele>
+      <time>2022-01-17T21:57:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0039503" lon="14.9849707">
+      <ele>310</ele>
+      <time>2022-01-17T21:58:55Z</time>
+    </trkpt>
+    <trkpt lat="51.0040596" lon="14.9826077">
+      <ele>314</ele>
+      <time>2022-01-17T22:01:50Z</time>
+    </trkpt>
+    <trkpt lat="51.0041013" lon="14.9810815">
+      <ele>315</ele>
+      <time>2022-01-17T22:03:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:57Z</time>
+    <bounds maxlat="50.1979554" maxlon="19.2118732" minlat="50.1965754" minlon="19.2068941"/>
+  </metadata>
+  <wpt lat="50.197383" lon="19.206894">
+    <ele>250</ele>
+    <name>Zalew Leg</name>
+    <link href="https://mapa-turystyczna.pl/node/9125">
+      <text>Zalew Leg</text>
+    </link>
+  </wpt>
+  <wpt lat="50.196575" lon="19.211873">
+    <ele>245</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/10566">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zalew Leg - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1973827,19.2068941;50.197589701400645,19.209806500000006;50.1965754,19.2118732">
+    <text>Zalew Leg - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1973827" lon="19.2068941">
+      <ele>250</ele>
+      <time>2022-01-18T00:39:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1972789" lon="19.2070814">
+      <ele>252</ele>
+      <time>2022-01-18T00:40:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1971587" lon="19.2072155">
+      <ele>253</ele>
+      <time>2022-01-18T00:40:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1970695" lon="19.2073657">
+      <ele>253</ele>
+      <time>2022-01-18T00:40:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1971347" lon="19.2075857">
+      <ele>253</ele>
+      <time>2022-01-18T00:40:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1973614" lon="19.2079934">
+      <ele>253</ele>
+      <time>2022-01-18T00:41:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1979554" lon="19.2091413">
+      <ele>253</ele>
+      <time>2022-01-18T00:42:14Z</time>
+    </trkpt>
+    <trkpt lat="50.197224" lon="19.2104717">
+      <ele>248</ele>
+      <time>2022-01-18T00:43:36Z</time>
+    </trkpt>
+    <trkpt lat="50.1966024" lon="19.2117753">
+      <ele>246</ele>
+      <time>2022-01-18T00:44:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1965754" lon="19.2118732">
+      <ele>245</ele>
+      <time>2022-01-18T00:44:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

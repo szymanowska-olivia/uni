@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:02Z</time>
+    <bounds maxlat="49.953688" maxlon="16.9369601" minlat="49.9528665" minlon="16.9365202"/>
+  </metadata>
+  <wpt lat="49.953688" lon="16.93652">
+    <ele>376</ele>
+    <name>Bludovecek, restaurace</name>
+    <link href="https://mapa-turystyczna.pl/node/8019">
+      <text>Bludovecek, restaurace</text>
+    </link>
+  </wpt>
+  <wpt lat="49.952866" lon="16.93696">
+    <ele>377</ele>
+    <name>Zamecek</name>
+    <link href="https://mapa-turystyczna.pl/node/8018">
+      <text>Zamecek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bludovecek, restaurace - Zamecek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.953688,16.9365202;49.95335050027014,16.936660150000023;49.9528665,16.9369601">
+    <text>Bludovecek, restaurace - Zamecek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.953688" lon="16.9365202">
+      <ele>376</ele>
+      <time>2022-01-17T23:34:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9535118" lon="16.9365673">
+      <ele>378</ele>
+      <time>2022-01-17T23:34:27Z</time>
+    </trkpt>
+    <trkpt lat="49.9531892" lon="16.936753">
+      <ele>378</ele>
+      <time>2022-01-17T23:35:14Z</time>
+    </trkpt>
+    <trkpt lat="49.9529423" lon="16.9369375">
+      <ele>378</ele>
+      <time>2022-01-17T23:35:51Z</time>
+    </trkpt>
+    <trkpt lat="49.9528665" lon="16.9369601">
+      <ele>377</ele>
+      <time>2022-01-17T23:36:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

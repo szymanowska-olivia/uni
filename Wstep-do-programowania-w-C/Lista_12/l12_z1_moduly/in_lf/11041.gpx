@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:22Z</time>
+    <bounds maxlat="50.0874708" maxlon="16.9056567" minlat="50.0861219" minlon="16.9001428"/>
+  </metadata>
+  <wpt lat="50.087447" lon="16.900143">
+    <ele>460</ele>
+    <name>Vlaske, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7774">
+      <text>Vlaske, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.086122" lon="16.90563">
+    <ele>512</ele>
+    <name>Zamecek u Hanusovic</name>
+    <link href="https://mapa-turystyczna.pl/node/7775">
+      <text>Zamecek u Hanusovic</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vlaske, zeleznicni stanice - Zamecek u Hanusovic</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0874467,16.9001428;50.08741850002853,16.903848899999996;50.0861219,16.9056304">
+    <text>Vlaske, zeleznicni stanice - Zamecek u Hanusovic</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0874467" lon="16.9001428">
+      <ele>460</ele>
+      <time>2022-01-17T23:27:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0874605" lon="16.9002507">
+      <ele>462</ele>
+      <time>2022-01-17T23:27:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0874708" lon="16.903303">
+      <ele>514</ele>
+      <time>2022-01-17T23:34:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0873662" lon="16.9043948">
+      <ele>509</ele>
+      <time>2022-01-17T23:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0869945" lon="16.90528">
+      <ele>505</ele>
+      <time>2022-01-17T23:39:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0864972" lon="16.9056567">
+      <ele>511</ele>
+      <time>2022-01-17T23:41:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0861219" lon="16.9056304">
+      <ele>512</ele>
+      <time>2022-01-17T23:42:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

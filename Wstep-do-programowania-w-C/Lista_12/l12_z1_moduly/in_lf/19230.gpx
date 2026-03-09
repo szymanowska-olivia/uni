@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:29Z</time>
+    <bounds maxlat="52.5443253" maxlon="17.0753396" minlat="52.543164" minlon="17.074536"/>
+  </metadata>
+  <wpt lat="52.543164" lon="17.074536">
+    <ele>109</ele>
+    <name>Okoniec</name>
+    <link href="https://mapa-turystyczna.pl/node/10639">
+      <text>Okoniec</text>
+    </link>
+  </wpt>
+  <wpt lat="52.544325" lon="17.07534">
+    <ele>106</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12989">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okoniec - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.543164,17.074536;52.543744653840456,17.0749378;52.5443253,17.0753396">
+    <text>Okoniec - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.543164" lon="17.074536">
+      <ele>109</ele>
+      <time>2022-01-18T01:44:29Z</time>
+    </trkpt>
+    <trkpt lat="52.5443253" lon="17.0753396">
+      <ele>106</ele>
+      <time>2022-01-18T01:46:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

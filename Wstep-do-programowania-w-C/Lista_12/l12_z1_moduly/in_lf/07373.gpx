@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:02Z</time>
+    <bounds maxlat="52.3692454" maxlon="20.4260731" minlat="52.3628122" minlon="20.4187239"/>
+  </metadata>
+  <wpt lat="52.369245" lon="20.426073">
+    <ele>68</ele>
+    <name>Nowiny</name>
+    <link href="https://mapa-turystyczna.pl/node/5011">
+      <text>Nowiny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.362812" lon="20.418724">
+    <ele>80</ele>
+    <name>Nowiny, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4949">
+      <text>Nowiny, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowiny - Nowiny, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3692454,20.4260731;52.36498400000108,20.424533500000006;52.3628122,20.4187239">
+    <text>Nowiny - Nowiny, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3692454" lon="20.4260731">
+      <ele>68</ele>
+      <time>2022-01-17T22:22:02Z</time>
+    </trkpt>
+    <trkpt lat="52.3649742" lon="20.4250431">
+      <ele>71</ele>
+      <time>2022-01-17T22:29:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3649938" lon="20.4240239">
+      <ele>68</ele>
+      <time>2022-01-17T22:30:07Z</time>
+    </trkpt>
+    <trkpt lat="52.364568" lon="20.4209018">
+      <ele>69</ele>
+      <time>2022-01-17T22:33:19Z</time>
+    </trkpt>
+    <trkpt lat="52.3640635" lon="20.4197752">
+      <ele>69</ele>
+      <time>2022-01-17T22:34:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3635361" lon="20.4192334">
+      <ele>75</ele>
+      <time>2022-01-17T22:35:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3628122" lon="20.4187239">
+      <ele>80</ele>
+      <time>2022-01-17T22:37:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

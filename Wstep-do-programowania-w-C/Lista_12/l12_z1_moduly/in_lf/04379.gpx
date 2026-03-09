@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:39Z</time>
+    <bounds maxlat="50.7456807" maxlon="15.7864791" minlat="50.7420601" minlon="15.7785865"/>
+  </metadata>
+  <wpt lat="50.74206" lon="15.778586">
+    <ele>1253</ele>
+    <name>Jelenka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3040">
+      <text>Jelenka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.745681" lon="15.786479">
+    <ele>1160</ele>
+    <name>Sowia Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1373">
+      <text>Sowia Przelecz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jelenka, rozc. - Sowia Przelecz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7420601,15.7785865;50.7435965523795,15.782066850000009;50.7456807,15.7864791">
+    <text>Jelenka, rozc. - Sowia Przelecz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7420601" lon="15.7785865">
+      <ele>1253</ele>
+      <time>2022-01-17T21:41:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7421001" lon="15.7788233">
+      <ele>1251</ele>
+      <time>2022-01-17T21:41:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7421981" lon="15.779167">
+      <ele>1246</ele>
+      <time>2022-01-17T21:42:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7423049" lon="15.7794408">
+      <ele>1241</ele>
+      <time>2022-01-17T21:42:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7424228" lon="15.7795616">
+      <ele>1239</ele>
+      <time>2022-01-17T21:42:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7431245" lon="15.7810664">
+      <ele>1224</ele>
+      <time>2022-01-17T21:44:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7440686" lon="15.7830673">
+      <ele>1198</ele>
+      <time>2022-01-17T21:47:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7446007" lon="15.7841832">
+      <ele>1186</ele>
+      <time>2022-01-17T21:48:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7456807" lon="15.7864791">
+      <ele>1160</ele>
+      <time>2022-01-17T21:51:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

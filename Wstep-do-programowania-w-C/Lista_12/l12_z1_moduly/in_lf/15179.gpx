@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:38Z</time>
+    <bounds maxlat="52.1582051" maxlon="17.1601862" minlat="52.1566778" minlon="17.1584906"/>
+  </metadata>
+  <wpt lat="52.158205" lon="17.158491">
+    <ele>74</ele>
+    <name>Zaniemysl, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10352">
+      <text>Zaniemysl, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.156678" lon="17.160186">
+    <ele>74</ele>
+    <name>Zaniemysl</name>
+    <link href="https://mapa-turystyczna.pl/node/10261">
+      <text>Zaniemysl</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zaniemysl, dworzec kolejowy - Zaniemysl</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1582051,17.1584906;52.15744145655071,17.159338400000003;52.1566778,17.1601862">
+    <text>Zaniemysl, dworzec kolejowy - Zaniemysl</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1582051" lon="17.1584906">
+      <ele>74</ele>
+      <time>2022-01-18T00:34:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1566778" lon="17.1601862">
+      <ele>74</ele>
+      <time>2022-01-18T00:37:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

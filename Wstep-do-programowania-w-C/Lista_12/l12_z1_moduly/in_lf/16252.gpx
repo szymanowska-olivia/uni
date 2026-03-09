@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:39Z</time>
+    <bounds maxlat="49.3158331" maxlon="22.5932868" minlat="49.3150148" minlon="22.5928809"/>
+  </metadata>
+  <wpt lat="49.315833" lon="22.593287">
+    <ele>504</ele>
+    <name>Odejscie do jaskini</name>
+    <link href="https://mapa-turystyczna.pl/node/11090">
+      <text>Odejscie do jaskini</text>
+    </link>
+  </wpt>
+  <wpt lat="49.315015" lon="22.593072">
+    <ele>486</ele>
+    <name>Jaskinia w Rosolinie</name>
+    <link href="https://mapa-turystyczna.pl/node/11091">
+      <text>Jaskinia w Rosolinie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do jaskini - Jaskinia w Rosolinie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3158331,22.5932868;49.31528100001008,22.59293454999999;49.3150148,22.5930722">
+    <text>Odejscie do jaskini - Jaskinia w Rosolinie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3158331" lon="22.5932868">
+      <ele>504</ele>
+      <time>2022-01-18T00:53:39Z</time>
+    </trkpt>
+    <trkpt lat="49.3156202" lon="22.5930741">
+      <ele>498</ele>
+      <time>2022-01-18T00:54:03Z</time>
+    </trkpt>
+    <trkpt lat="49.3154803" lon="22.592956">
+      <ele>493</ele>
+      <time>2022-01-18T00:54:18Z</time>
+    </trkpt>
+    <trkpt lat="49.3153125" lon="22.5928809">
+      <ele>489</ele>
+      <time>2022-01-18T00:54:34Z</time>
+    </trkpt>
+    <trkpt lat="49.3152495" lon="22.5929882">
+      <ele>488</ele>
+      <time>2022-01-18T00:54:43Z</time>
+    </trkpt>
+    <trkpt lat="49.3153684" lon="22.593117">
+      <ele>491</ele>
+      <time>2022-01-18T00:54:56Z</time>
+    </trkpt>
+    <trkpt lat="49.3153474" lon="22.5932457">
+      <ele>491</ele>
+      <time>2022-01-18T00:55:04Z</time>
+    </trkpt>
+    <trkpt lat="49.3152425" lon="22.5932779">
+      <ele>488</ele>
+      <time>2022-01-18T00:55:14Z</time>
+    </trkpt>
+    <trkpt lat="49.3151096" lon="22.5932028">
+      <ele>486</ele>
+      <time>2022-01-18T00:55:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3150148" lon="22.5930722">
+      <ele>486</ele>
+      <time>2022-01-18T00:55:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

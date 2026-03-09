@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:43Z</time>
+    <bounds maxlat="50.6403542" maxlon="16.1456805" minlat="50.6396228" minlon="16.1454499"/>
+  </metadata>
+  <wpt lat="50.640354" lon="16.14545">
+    <ele>519</ele>
+    <name>Zdonov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6060">
+      <text>Zdonov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.639623" lon="16.145681">
+    <ele>516</ele>
+    <name>Zdonov</name>
+    <link href="https://mapa-turystyczna.pl/node/6058">
+      <text>Zdonov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zdonov, rozc. - Zdonov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6403542,16.1454499;50.64016455038267,16.145526349999997;50.6396228,16.1456805">
+    <text>Zdonov, rozc. - Zdonov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6403542" lon="16.1454499">
+      <ele>519</ele>
+      <time>2022-01-17T22:43:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6399749" lon="16.1456028">
+      <ele>517</ele>
+      <time>2022-01-17T22:44:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6396228" lon="16.1456805">
+      <ele>516</ele>
+      <time>2022-01-17T22:44:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

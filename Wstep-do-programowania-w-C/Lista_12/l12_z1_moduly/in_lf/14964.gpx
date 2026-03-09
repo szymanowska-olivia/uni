@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:10Z</time>
+    <bounds maxlat="51.5648771" maxlon="16.6938833" minlat="51.5636605" minlon="16.692403"/>
+  </metadata>
+  <wpt lat="51.564877" lon="16.693883">
+    <ele>87</ele>
+    <name>Wasosz, ul. 1 Maja</name>
+    <link href="https://mapa-turystyczna.pl/node/10189">
+      <text>Wasosz, ul. 1 Maja</text>
+    </link>
+  </wpt>
+  <wpt lat="51.56366" lon="16.692403">
+    <ele>87</ele>
+    <name>Wasosz, rzeka Orla</name>
+    <link href="https://mapa-turystyczna.pl/node/10192">
+      <text>Wasosz, rzeka Orla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz, ul. 1 Maja - Wasosz, rzeka Orla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5648771,16.6938833;51.56426880406891,16.69314315000002;51.5636605,16.692403">
+    <text>Wasosz, ul. 1 Maja - Wasosz, rzeka Orla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5648771" lon="16.6938833">
+      <ele>87</ele>
+      <time>2022-01-18T00:31:10Z</time>
+    </trkpt>
+    <trkpt lat="51.5636605" lon="16.692403">
+      <ele>87</ele>
+      <time>2022-01-18T00:34:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:19Z</time>
+    <bounds maxlat="49.298136" maxlon="19.746961" minlat="49.297322" minlon="19.746469"/>
+  </metadata>
+  <wpt lat="49.298136" lon="19.746815">
+    <ele>794</ele>
+    <name>Oravice, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8954">
+      <text>Oravice, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.297322" lon="19.746469">
+    <ele>791</ele>
+    <name>Oravice</name>
+    <link href="https://mapa-turystyczna.pl/node/1548">
+      <text>Oravice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oravice, razc. - Oravice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.298136,19.746815;49.297769500033546,19.74678599999999;49.297322,19.746469">
+    <text>Oravice, razc. - Oravice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.298136" lon="19.746815">
+      <ele>794</ele>
+      <time>2022-01-18T00:00:19Z</time>
+    </trkpt>
+    <trkpt lat="49.298102" lon="19.746961">
+      <ele>792</ele>
+      <time>2022-01-18T00:00:32Z</time>
+    </trkpt>
+    <trkpt lat="49.297972" lon="19.746888">
+      <ele>792</ele>
+      <time>2022-01-18T00:00:49Z</time>
+    </trkpt>
+    <trkpt lat="49.297827" lon="19.746816">
+      <ele>791</ele>
+      <time>2022-01-18T00:01:09Z</time>
+    </trkpt>
+    <trkpt lat="49.297712" lon="19.746756">
+      <ele>790</ele>
+      <time>2022-01-18T00:01:24Z</time>
+    </trkpt>
+    <trkpt lat="49.297641" lon="19.746715">
+      <ele>791</ele>
+      <time>2022-01-18T00:01:34Z</time>
+    </trkpt>
+    <trkpt lat="49.297568" lon="19.746669">
+      <ele>791</ele>
+      <time>2022-01-18T00:01:44Z</time>
+    </trkpt>
+    <trkpt lat="49.297458" lon="19.746586">
+      <ele>791</ele>
+      <time>2022-01-18T00:01:59Z</time>
+    </trkpt>
+    <trkpt lat="49.297322" lon="19.746469">
+      <ele>791</ele>
+      <time>2022-01-18T00:02:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

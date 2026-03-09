@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:48:47Z</time>
+    <bounds maxlat="49.2757799" maxlon="22.2875231" minlat="49.2733258" minlon="22.2846723"/>
+  </metadata>
+  <wpt lat="49.27578" lon="22.284672">
+    <ele>542</ele>
+    <name>Jablonki, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/342">
+      <text>Jablonki, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="49.273326" lon="22.287523">
+    <ele>548</ele>
+    <name>Jablonki</name>
+    <link href="https://mapa-turystyczna.pl/node/339">
+      <text>Jablonki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablonki, parking - Jablonki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2757799,22.2846723;49.27472601125881,22.285949050000017;49.2733258,22.2875231">
+    <text>Jablonki, parking - Jablonki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2757799" lon="22.2846723">
+      <ele>542</ele>
+      <time>2022-01-17T20:48:47Z</time>
+    </trkpt>
+    <trkpt lat="49.2736721" lon="22.2872258">
+      <ele>546</ele>
+      <time>2022-01-17T20:53:08Z</time>
+    </trkpt>
+    <trkpt lat="49.2733258" lon="22.2875231">
+      <ele>548</ele>
+      <time>2022-01-17T20:53:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

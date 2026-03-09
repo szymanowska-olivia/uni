@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:25Z</time>
+    <bounds maxlat="50.6644622" maxlon="16.183951" minlat="50.6623771" minlon="16.1777759"/>
+  </metadata>
+  <wpt lat="50.664462" lon="16.183951">
+    <ele>500</ele>
+    <name>Mieroszow, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/13412">
+      <text>Mieroszow, ul. Slowackiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.662384" lon="16.177776">
+    <ele>489</ele>
+    <name>Mieroszow, Czarci Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/2371">
+      <text>Mieroszow, Czarci Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mieroszow, ul. Slowackiego - Mieroszow, Czarci Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6644622,16.183951;50.662993700000044,16.181364650000006;50.6623839,16.1777759">
+    <text>Mieroszow, ul. Slowackiego - Mieroszow, Czarci Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6644622" lon="16.183951">
+      <ele>500</ele>
+      <time>2022-01-18T01:56:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6633225" lon="16.182231">
+      <ele>492</ele>
+      <time>2022-01-18T01:59:50Z</time>
+    </trkpt>
+    <trkpt lat="50.663098" lon="16.1817884">
+      <ele>489</ele>
+      <time>2022-01-18T02:00:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6629954" lon="16.1815068">
+      <ele>488</ele>
+      <time>2022-01-18T02:01:03Z</time>
+    </trkpt>
+    <trkpt lat="50.662992" lon="16.1812225">
+      <ele>488</ele>
+      <time>2022-01-18T02:01:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6628798" lon="16.1801711">
+      <ele>491</ele>
+      <time>2022-01-18T02:02:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6628124" lon="16.1799458">
+      <ele>492</ele>
+      <time>2022-01-18T02:03:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6625091" lon="16.1790284">
+      <ele>491</ele>
+      <time>2022-01-18T02:04:40Z</time>
+    </trkpt>
+    <trkpt lat="50.662418" lon="16.1784894">
+      <ele>490</ele>
+      <time>2022-01-18T02:05:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6623771" lon="16.1781326">
+      <ele>490</ele>
+      <time>2022-01-18T02:05:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6623839" lon="16.1777759">
+      <ele>489</ele>
+      <time>2022-01-18T02:06:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

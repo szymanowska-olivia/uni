@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:06Z</time>
+    <bounds maxlat="50.1531325" maxlon="17.1318376" minlat="50.1528712" minlon="17.1313602"/>
+  </metadata>
+  <wpt lat="50.152871" lon="17.13136">
+    <ele>1203</ele>
+    <name>Sedlo pod Vresovkou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6752">
+      <text>Sedlo pod Vresovkou, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.153132" lon="17.131838">
+    <ele>1207</ele>
+    <name>Sedlo pod Vresovkou</name>
+    <link href="https://mapa-turystyczna.pl/node/6751">
+      <text>Sedlo pod Vresovkou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo pod Vresovkou, rozc. - Sedlo pod Vresovkou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1528712,17.1313602;50.15306545004703,17.131682049999995;50.1531325,17.1318376">
+    <text>Sedlo pod Vresovkou, rozc. - Sedlo pod Vresovkou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1528712" lon="17.1313602">
+      <ele>1203</ele>
+      <time>2022-01-17T23:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1529984" lon="17.1315265">
+      <ele>1205</ele>
+      <time>2022-01-17T23:01:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1531325" lon="17.1318376">
+      <ele>1207</ele>
+      <time>2022-01-17T23:02:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

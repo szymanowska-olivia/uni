@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:15Z</time>
+    <bounds maxlat="50.1198558" maxlon="16.6050636" minlat="50.1193774" minlon="16.6046333"/>
+  </metadata>
+  <wpt lat="50.119377" lon="16.605064">
+    <ele>645</ele>
+    <name>Ceske Petrovice</name>
+    <link href="https://mapa-turystyczna.pl/node/6797">
+      <text>Ceske Petrovice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.119856" lon="16.604633">
+    <ele>645</ele>
+    <name>Ceske Petrovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2000">
+      <text>Ceske Petrovice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceske Petrovice - Ceske Petrovice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1193774,16.6050636;50.119723350183236,16.604721849999997;50.1198558,16.6046333">
+    <text>Ceske Petrovice - Ceske Petrovice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1193774" lon="16.6050636">
+      <ele>645</ele>
+      <time>2022-01-17T23:02:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1195909" lon="16.6048104">
+      <ele>645</ele>
+      <time>2022-01-17T23:02:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1198558" lon="16.6046333">
+      <ele>645</ele>
+      <time>2022-01-17T23:03:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:48Z</time>
+    <bounds maxlat="50.1730193" maxlon="17.2848254" minlat="50.165515" minlon="17.2801691"/>
+  </metadata>
+  <wpt lat="50.165515" lon="17.280169">
+    <ele>1007</ele>
+    <name>Pasmo Orlika</name>
+    <link href="https://mapa-turystyczna.pl/node/6778">
+      <text>Pasmo Orlika</text>
+    </link>
+  </wpt>
+  <wpt lat="50.173019" lon="17.284809">
+    <ele>1030</ele>
+    <name>Pod Orlikem, potok</name>
+    <link href="https://mapa-turystyczna.pl/node/6777">
+      <text>Pod Orlikem, potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pasmo Orlika - Pod Orlikem, potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.165515,17.2801691;50.169363551899174,17.282618000000003;50.1730193,17.2848094">
+    <text>Pasmo Orlika - Pod Orlikem, potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.165515" lon="17.2801691">
+      <ele>1007</ele>
+      <time>2022-01-17T23:01:48Z</time>
+    </trkpt>
+    <trkpt lat="50.166326" lon="17.2808129">
+      <ele>1018</ele>
+      <time>2022-01-17T23:04:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1671782" lon="17.281301">
+      <ele>1029</ele>
+      <time>2022-01-17T23:06:17Z</time>
+    </trkpt>
+    <trkpt lat="50.167697" lon="17.2816283">
+      <ele>1033</ele>
+      <time>2022-01-17T23:07:39Z</time>
+    </trkpt>
+    <trkpt lat="50.168477" lon="17.2820681">
+      <ele>1040</ele>
+      <time>2022-01-17T23:09:41Z</time>
+    </trkpt>
+    <trkpt lat="50.168611" lon="17.2821808">
+      <ele>1041</ele>
+      <time>2022-01-17T23:10:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1689375" lon="17.2823739">
+      <ele>1044</ele>
+      <time>2022-01-17T23:10:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1697896" lon="17.2828621">
+      <ele>1050</ele>
+      <time>2022-01-17T23:13:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1716312" lon="17.2839671">
+      <ele>1049</ele>
+      <time>2022-01-17T23:17:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1717996" lon="17.2841334">
+      <ele>1049</ele>
+      <time>2022-01-17T23:18:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1722222" lon="17.2846216">
+      <ele>1049</ele>
+      <time>2022-01-17T23:19:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1727994" lon="17.2848254">
+      <ele>1033</ele>
+      <time>2022-01-17T23:21:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1730193" lon="17.2848094">
+      <ele>1030</ele>
+      <time>2022-01-17T23:21:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

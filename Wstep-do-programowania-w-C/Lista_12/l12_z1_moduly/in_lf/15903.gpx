@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:41Z</time>
+    <bounds maxlat="54.3273172" maxlon="18.1820726" minlat="54.3263349" minlon="18.1809622"/>
+  </metadata>
+  <wpt lat="54.327317" lon="18.180962">
+    <ele>227</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10895">
+      <text>Skrzyzowanie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="54.326335" lon="18.182073">
+    <ele>232</ele>
+    <name>Lawka Asesora</name>
+    <link href="https://mapa-turystyczna.pl/node/10896">
+      <text>Lawka Asesora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski - Lawka Asesora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3273172,18.1809622;54.3269324512624,18.18134039999999;54.3263349,18.1820726">
+    <text>Skrzyzowanie szlakow czerwony / niebieski - Lawka Asesora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3273172" lon="18.1809622">
+      <ele>227</ele>
+      <time>2022-01-18T00:47:41Z</time>
+    </trkpt>
+    <trkpt lat="54.3272547" lon="18.1810534">
+      <ele>226</ele>
+      <time>2022-01-18T00:47:53Z</time>
+    </trkpt>
+    <trkpt lat="54.3266102" lon="18.1816274">
+      <ele>231</ele>
+      <time>2022-01-18T00:49:39Z</time>
+    </trkpt>
+    <trkpt lat="54.3264601" lon="18.1817883">
+      <ele>232</ele>
+      <time>2022-01-18T00:50:05Z</time>
+    </trkpt>
+    <trkpt lat="54.326385" lon="18.1818044">
+      <ele>233</ele>
+      <time>2022-01-18T00:50:16Z</time>
+    </trkpt>
+    <trkpt lat="54.3263506" lon="18.1818849">
+      <ele>233</ele>
+      <time>2022-01-18T00:50:25Z</time>
+    </trkpt>
+    <trkpt lat="54.3263349" lon="18.1820726">
+      <ele>232</ele>
+      <time>2022-01-18T00:50:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:10Z</time>
+    <bounds maxlat="50.2832281" maxlon="18.4700823" minlat="50.2801987" minlon="18.4686445"/>
+  </metadata>
+  <wpt lat="50.283143" lon="18.468644">
+    <ele>226</ele>
+    <name>Sierakowice, ul. Polna</name>
+    <link href="https://mapa-turystyczna.pl/node/9561">
+      <text>Sierakowice, ul. Polna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.280199" lon="18.469508">
+    <ele>220</ele>
+    <name>Sierakowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9562">
+      <text>Sierakowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sierakowice, ul. Polna - Sierakowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2831433,18.4686445;50.281970200020815,18.469949499999995;50.2801987,18.4695081">
+    <text>Sierakowice, ul. Polna - Sierakowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2831433" lon="18.4686445">
+      <ele>226</ele>
+      <time>2022-01-18T00:20:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2832281" lon="18.4690202">
+      <ele>225</ele>
+      <time>2022-01-18T00:20:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2820147" lon="18.4700823">
+      <ele>220</ele>
+      <time>2022-01-18T00:22:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2819257" lon="18.4698167">
+      <ele>220</ele>
+      <time>2022-01-18T00:22:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2817543" lon="18.4696129">
+      <ele>222</ele>
+      <time>2022-01-18T00:22:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2812847" lon="18.4693715">
+      <ele>225</ele>
+      <time>2022-01-18T00:23:39Z</time>
+    </trkpt>
+    <trkpt lat="50.280726" lon="18.4692642">
+      <ele>222</ele>
+      <time>2022-01-18T00:24:25Z</time>
+    </trkpt>
+    <trkpt lat="50.280661" lon="18.4692769">
+      <ele>222</ele>
+      <time>2022-01-18T00:24:30Z</time>
+    </trkpt>
+    <trkpt lat="50.280596" lon="18.4693003">
+      <ele>221</ele>
+      <time>2022-01-18T00:24:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2804878" lon="18.4693406">
+      <ele>220</ele>
+      <time>2022-01-18T00:24:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2801987" lon="18.4695081">
+      <ele>220</ele>
+      <time>2022-01-18T00:25:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:01:17Z</time>
+    <bounds maxlat="50.1988716" maxlon="16.8823222" minlat="50.1939488" minlon="16.8753004"/>
+  </metadata>
+  <wpt lat="50.198872" lon="16.882322">
+    <ele>961</ele>
+    <name>Hranicni hora, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/8989">
+      <text>Hranicni hora, sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.193949" lon="16.8753">
+    <ele>1047</ele>
+    <name>Nad Adelinym pramenem</name>
+    <link href="https://mapa-turystyczna.pl/node/1718">
+      <text>Nad Adelinym pramenem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hranicni hora, sedlo - Nad Adelinym pramenem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1988716,16.8823222;50.196232504319156,16.879420250000024;50.1939488,16.8753004">
+    <text>Hranicni hora, sedlo - Nad Adelinym pramenem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1988716" lon="16.8823222">
+      <ele>961</ele>
+      <time>2022-01-18T00:01:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1987702" lon="16.8817377">
+      <ele>962</ele>
+      <time>2022-01-18T00:02:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1982328" lon="16.8813622">
+      <ele>965</ele>
+      <time>2022-01-18T00:03:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1979083" lon="16.8806863">
+      <ele>982</ele>
+      <time>2022-01-18T00:05:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1968747" lon="16.8799996">
+      <ele>988</ele>
+      <time>2022-01-18T00:08:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1955903" lon="16.8788409">
+      <ele>1013</ele>
+      <time>2022-01-18T00:12:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1946047" lon="16.8787229">
+      <ele>1014</ele>
+      <time>2022-01-18T00:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1940587" lon="16.8777895">
+      <ele>1025</ele>
+      <time>2022-01-18T00:17:02Z</time>
+    </trkpt>
+    <trkpt lat="50.1939488" lon="16.8753004">
+      <ele>1047</ele>
+      <time>2022-01-18T00:21:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

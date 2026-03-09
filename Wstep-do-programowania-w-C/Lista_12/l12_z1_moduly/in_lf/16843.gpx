@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:56Z</time>
+    <bounds maxlat="52.1311246" maxlon="21.422943" minlat="52.1277471" minlon="21.4168313"/>
+  </metadata>
+  <wpt lat="52.131125" lon="21.416831">
+    <ele>108</ele>
+    <name>Glinianka</name>
+    <link href="https://mapa-turystyczna.pl/node/11527">
+      <text>Glinianka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.127747" lon="21.421483">
+    <ele>111</ele>
+    <name>Glinianka, Swider</name>
+    <link href="https://mapa-turystyczna.pl/node/11508">
+      <text>Glinianka, Swider</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glinianka - Glinianka, Swider</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1311246,21.4168313;52.130100400684654,21.420357350000028;52.1277471,21.4214829">
+    <text>Glinianka - Glinianka, Swider</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1311246" lon="21.4168313">
+      <ele>108</ele>
+      <time>2022-01-18T01:03:56Z</time>
+    </trkpt>
+    <trkpt lat="52.1305055" lon="21.4184584">
+      <ele>109</ele>
+      <time>2022-01-18T01:05:52Z</time>
+    </trkpt>
+    <trkpt lat="52.1303474" lon="21.4189948">
+      <ele>109</ele>
+      <time>2022-01-18T01:06:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1298534" lon="21.4217199">
+      <ele>111</ele>
+      <time>2022-01-18T01:09:19Z</time>
+    </trkpt>
+    <trkpt lat="52.1295175" lon="21.422943">
+      <ele>111</ele>
+      <time>2022-01-18T01:10:40Z</time>
+    </trkpt>
+    <trkpt lat="52.1286152" lon="21.4220633">
+      <ele>112</ele>
+      <time>2022-01-18T01:12:24Z</time>
+    </trkpt>
+    <trkpt lat="52.1277471" lon="21.4214829">
+      <ele>111</ele>
+      <time>2022-01-18T01:13:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

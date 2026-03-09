@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:03Z</time>
+    <bounds maxlat="52.477902" maxlon="20.7355978" minlat="52.4755812" minlon="20.7299913"/>
+  </metadata>
+  <wpt lat="52.475581" lon="20.735598">
+    <ele>91</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12242">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.477902" lon="20.729991">
+    <ele>86</ele>
+    <name>Skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12243">
+      <text>Skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Skrzyzowanie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4755812,20.7355978;52.476578801590286,20.732177850000014;52.477902,20.7299913">
+    <text>Rozejscie szlakow zolty / czarny - Skrzyzowanie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4755812" lon="20.7355978">
+      <ele>91</ele>
+      <time>2022-01-18T01:23:03Z</time>
+    </trkpt>
+    <trkpt lat="52.4757995" lon="20.734852">
+      <ele>91</ele>
+      <time>2022-01-18T01:23:39Z</time>
+    </trkpt>
+    <trkpt lat="52.4758747" lon="20.7345409">
+      <ele>92</ele>
+      <time>2022-01-18T01:23:53Z</time>
+    </trkpt>
+    <trkpt lat="52.4759269" lon="20.7340044">
+      <ele>91</ele>
+      <time>2022-01-18T01:24:17Z</time>
+    </trkpt>
+    <trkpt lat="52.4759923" lon="20.7334412">
+      <ele>92</ele>
+      <time>2022-01-18T01:24:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4762047" lon="20.7328672">
+      <ele>91</ele>
+      <time>2022-01-18T01:25:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4769529" lon="20.7314885">
+      <ele>88</ele>
+      <time>2022-01-18T01:26:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4775149" lon="20.7306195">
+      <ele>88</ele>
+      <time>2022-01-18T01:27:24Z</time>
+    </trkpt>
+    <trkpt lat="52.477902" lon="20.7299913">
+      <ele>86</ele>
+      <time>2022-01-18T01:28:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

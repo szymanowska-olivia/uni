@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:08Z</time>
+    <bounds maxlat="51.3102189" maxlon="17.0679463" minlat="51.3095798" minlon="17.0662917"/>
+  </metadata>
+  <wpt lat="51.30958" lon="17.066292">
+    <ele>184</ele>
+    <name>Trzebnica, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/10542">
+      <text>Trzebnica, muzeum</text>
+    </link>
+  </wpt>
+  <wpt lat="51.310219" lon="17.067946">
+    <ele>174</ele>
+    <name>Trzebnica, ul. Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/10541">
+      <text>Trzebnica, ul. Jana Pawla II</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, muzeum - Trzebnica, ul. Jana Pawla II</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3095798,17.0662917;51.30978425010304,17.067007250000017;51.3102189,17.0679463">
+    <text>Trzebnica, muzeum - Trzebnica, ul. Jana Pawla II</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3095798" lon="17.0662917">
+      <ele>184</ele>
+      <time>2022-01-18T00:39:08Z</time>
+    </trkpt>
+    <trkpt lat="51.309687" lon="17.0667337">
+      <ele>184</ele>
+      <time>2022-01-18T00:39:37Z</time>
+    </trkpt>
+    <trkpt lat="51.3098815" lon="17.0672808">
+      <ele>181</ele>
+      <time>2022-01-18T00:40:15Z</time>
+    </trkpt>
+    <trkpt lat="51.3101531" lon="17.0678334">
+      <ele>175</ele>
+      <time>2022-01-18T00:40:59Z</time>
+    </trkpt>
+    <trkpt lat="51.3102189" lon="17.0679463">
+      <ele>174</ele>
+      <time>2022-01-18T00:41:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

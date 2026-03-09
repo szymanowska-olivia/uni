@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:56Z</time>
+    <bounds maxlat="50.1442235" maxlon="17.4535865" minlat="50.1422399" minlon="17.4507934"/>
+  </metadata>
+  <wpt lat="50.144224" lon="17.450888">
+    <ele>755</ele>
+    <name>Na Skalce, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/7719">
+      <text>Na Skalce, rozhledna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.14224" lon="17.453587">
+    <ele>716</ele>
+    <name>Pod Moravskym kopcem</name>
+    <link href="https://mapa-turystyczna.pl/node/7720">
+      <text>Pod Moravskym kopcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Skalce, rozhledna - Pod Moravskym kopcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1442235,17.4508882;50.1431278502027,17.452270149999993;50.1422399,17.4535865">
+    <text>Na Skalce, rozhledna - Pod Moravskym kopcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1442235" lon="17.4508882">
+      <ele>755</ele>
+      <time>2022-01-17T23:25:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1440221" lon="17.4510087">
+      <ele>754</ele>
+      <time>2022-01-17T23:26:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1435394" lon="17.4507934">
+      <ele>748</ele>
+      <time>2022-01-17T23:27:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1433977" lon="17.451385">
+      <ele>745</ele>
+      <time>2022-01-17T23:27:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1432671" lon="17.4518249">
+      <ele>741</ele>
+      <time>2022-01-17T23:28:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1429886" lon="17.4527154">
+      <ele>732</ele>
+      <time>2022-01-17T23:29:14Z</time>
+    </trkpt>
+    <trkpt lat="50.142649" lon="17.4535293">
+      <ele>722</ele>
+      <time>2022-01-17T23:30:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1426036" lon="17.4534449">
+      <ele>721</ele>
+      <time>2022-01-17T23:30:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1424764" lon="17.4535147">
+      <ele>719</ele>
+      <time>2022-01-17T23:30:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1422399" lon="17.4535865">
+      <ele>716</ele>
+      <time>2022-01-17T23:30:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

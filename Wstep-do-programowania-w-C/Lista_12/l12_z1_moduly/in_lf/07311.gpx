@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:10Z</time>
+    <bounds maxlat="52.3196025" maxlon="20.8765125" minlat="52.3110106" minlon="20.8724785"/>
+  </metadata>
+  <wpt lat="52.319603" lon="20.876513">
+    <ele>86</ele>
+    <name>Dabrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4981">
+      <text>Dabrowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.311011" lon="20.872478">
+    <ele>89</ele>
+    <name>Przedluze</name>
+    <link href="https://mapa-turystyczna.pl/node/4982">
+      <text>Przedluze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dabrowa - Przedluze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3196025,20.8765125;52.31583636622899,20.8759117;52.3110106,20.8724785">
+    <text>Dabrowa - Przedluze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3196025" lon="20.8765125">
+      <ele>86</ele>
+      <time>2022-01-17T22:21:10Z</time>
+    </trkpt>
+    <trkpt lat="52.3170349" lon="20.8761048">
+      <ele>81</ele>
+      <time>2022-01-17T22:25:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3146378" lon="20.8757186">
+      <ele>83</ele>
+      <time>2022-01-17T22:29:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3140469" lon="20.8752894">
+      <ele>82</ele>
+      <time>2022-01-17T22:30:17Z</time>
+    </trkpt>
+    <trkpt lat="52.3132854" lon="20.8740234">
+      <ele>83</ele>
+      <time>2022-01-17T22:32:02Z</time>
+    </trkpt>
+    <trkpt lat="52.3126545" lon="20.8738947">
+      <ele>89</ele>
+      <time>2022-01-17T22:33:04Z</time>
+    </trkpt>
+    <trkpt lat="52.3122847" lon="20.8732939">
+      <ele>89</ele>
+      <time>2022-01-17T22:33:55Z</time>
+    </trkpt>
+    <trkpt lat="52.31181" lon="20.8728218">
+      <ele>90</ele>
+      <time>2022-01-17T22:34:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3114927" lon="20.8727789">
+      <ele>91</ele>
+      <time>2022-01-17T22:35:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3110106" lon="20.8724785">
+      <ele>89</ele>
+      <time>2022-01-17T22:36:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:45Z</time>
+    <bounds maxlat="49.8394513" maxlon="19.457793" minlat="49.8394288" minlon="19.4559931"/>
+  </metadata>
+  <wpt lat="49.839429" lon="19.455993">
+    <ele>510</ele>
+    <name>Przelecz Czeslawa Panczakiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/1039">
+      <text>Przelecz Czeslawa Panczakiewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.839451" lon="19.457793">
+    <ele>510</ele>
+    <name>Przelecz pod Lysa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4615">
+      <text>Przelecz pod Lysa Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Czeslawa Panczakiewicza - Przelecz pod Lysa Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8394288,19.4559931;49.83944005000132,19.45689304999999;49.8394513,19.457793">
+    <text>Przelecz Czeslawa Panczakiewicza - Przelecz pod Lysa Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8394288" lon="19.4559931">
+      <ele>510</ele>
+      <time>2022-01-17T22:10:45Z</time>
+    </trkpt>
+    <trkpt lat="49.8394513" lon="19.457793">
+      <ele>510</ele>
+      <time>2022-01-17T22:12:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

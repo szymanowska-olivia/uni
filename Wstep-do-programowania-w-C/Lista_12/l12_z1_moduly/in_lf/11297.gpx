@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:06Z</time>
+    <bounds maxlat="50.0202914" maxlon="17.0301045" minlat="50.017789" minlon="17.0294742"/>
+  </metadata>
+  <wpt lat="50.017789" lon="17.029474">
+    <ele>373</ele>
+    <name>Rapotin, V Aleji</name>
+    <link href="https://mapa-turystyczna.pl/node/7963">
+      <text>Rapotin, V Aleji</text>
+    </link>
+  </wpt>
+  <wpt lat="50.020291" lon="17.030105">
+    <ele>394</ele>
+    <name>Zamecky park</name>
+    <link href="https://mapa-turystyczna.pl/node/7962">
+      <text>Zamecky park</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rapotin, V Aleji - Zamecky park</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.017789,17.0294742;50.01938500187182,17.02962085000002;50.0202914,17.0301045">
+    <text>Rapotin, V Aleji - Zamecky park</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.017789" lon="17.0294742">
+      <ele>373</ele>
+      <time>2022-01-17T23:32:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0184882" lon="17.0296715">
+      <ele>373</ele>
+      <time>2022-01-17T23:33:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0188162" lon="17.0297961">
+      <ele>374</ele>
+      <time>2022-01-17T23:34:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0189609" lon="17.0294903">
+      <ele>374</ele>
+      <time>2022-01-17T23:34:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0198091" lon="17.0297514">
+      <ele>384</ele>
+      <time>2022-01-17T23:36:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0199915" lon="17.02978">
+      <ele>388</ele>
+      <time>2022-01-17T23:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0201814" lon="17.0299284">
+      <ele>393</ele>
+      <time>2022-01-17T23:36:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0202914" lon="17.0301045">
+      <ele>394</ele>
+      <time>2022-01-17T23:37:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

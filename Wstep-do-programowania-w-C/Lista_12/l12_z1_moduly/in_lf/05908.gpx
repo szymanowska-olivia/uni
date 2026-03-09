@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:45Z</time>
+    <bounds maxlat="50.3755335" maxlon="16.4987665" minlat="50.3740924" minlon="16.497855"/>
+  </metadata>
+  <wpt lat="50.375534" lon="16.498766">
+    <ele>704</ele>
+    <name>Kamienna Gora, taras widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/4069">
+      <text>Kamienna Gora, taras widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.374092" lon="16.497855">
+    <ele>704</ele>
+    <name>Kamienna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4068">
+      <text>Kamienna Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienna Gora, taras widokowy - Kamienna Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3755335,16.4987665;50.37484305008207,16.49836645000003;50.3740924,16.497855">
+    <text>Kamienna Gora, taras widokowy - Kamienna Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3755335" lon="16.4987665">
+      <ele>704</ele>
+      <time>2022-01-17T22:02:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3752323" lon="16.4984864">
+      <ele>709</ele>
+      <time>2022-01-17T22:03:23Z</time>
+    </trkpt>
+    <trkpt lat="50.375116" lon="16.4982397">
+      <ele>710</ele>
+      <time>2022-01-17T22:03:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3749313" lon="16.4983362">
+      <ele>709</ele>
+      <time>2022-01-17T22:04:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3747548" lon="16.4983967">
+      <ele>708</ele>
+      <time>2022-01-17T22:04:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3745207" lon="16.4982397">
+      <ele>707</ele>
+      <time>2022-01-17T22:04:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3742744" lon="16.4981324">
+      <ele>706</ele>
+      <time>2022-01-17T22:05:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3740924" lon="16.497855">
+      <ele>704</ele>
+      <time>2022-01-17T22:05:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

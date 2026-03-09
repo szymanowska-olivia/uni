@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:41Z</time>
+    <bounds maxlat="51.4470881" maxlon="23.1409103" minlat="51.4275061" minlon="23.1388052"/>
+  </metadata>
+  <wpt lat="51.447088" lon="23.14091">
+    <ele>177</ele>
+    <name>Szalowily</name>
+    <link href="https://mapa-turystyczna.pl/node/13269">
+      <text>Szalowily</text>
+    </link>
+  </wpt>
+  <wpt lat="51.427506" lon="23.138805">
+    <ele>172</ele>
+    <name>Babsk</name>
+    <link href="https://mapa-turystyczna.pl/node/13319">
+      <text>Babsk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szalowily - Babsk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4470881,23.1409103;51.437577724596686,23.13998480000002;51.4275061,23.1388052">
+    <text>Szalowily - Babsk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4470881" lon="23.1409103">
+      <ele>177</ele>
+      <time>2022-01-18T01:53:41Z</time>
+    </trkpt>
+    <trkpt lat="51.4439635" lon="23.140628">
+      <ele>184</ele>
+      <time>2022-01-18T01:59:15Z</time>
+    </trkpt>
+    <trkpt lat="51.4434687" lon="23.140349">
+      <ele>181</ele>
+      <time>2022-01-18T02:00:11Z</time>
+    </trkpt>
+    <trkpt lat="51.4433483" lon="23.1404563">
+      <ele>179</ele>
+      <time>2022-01-18T02:00:26Z</time>
+    </trkpt>
+    <trkpt lat="51.442586" lon="23.1405099">
+      <ele>174</ele>
+      <time>2022-01-18T02:01:47Z</time>
+    </trkpt>
+    <trkpt lat="51.4325689" lon="23.1394597">
+      <ele>173</ele>
+      <time>2022-01-18T02:19:38Z</time>
+    </trkpt>
+    <trkpt lat="51.4314504" lon="23.1391512">
+      <ele>174</ele>
+      <time>2022-01-18T02:21:40Z</time>
+    </trkpt>
+    <trkpt lat="51.4300242" lon="23.1390359">
+      <ele>172</ele>
+      <time>2022-01-18T02:24:12Z</time>
+    </trkpt>
+    <trkpt lat="51.4275061" lon="23.1388052">
+      <ele>172</ele>
+      <time>2022-01-18T02:28:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

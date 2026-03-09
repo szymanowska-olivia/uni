@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:15Z</time>
+    <bounds maxlat="51.5636605" maxlon="16.6931349" minlat="51.5618371" minlon="16.6914466"/>
+  </metadata>
+  <wpt lat="51.56366" lon="16.692403">
+    <ele>87</ele>
+    <name>Wasosz, rzeka Orla</name>
+    <link href="https://mapa-turystyczna.pl/node/10192">
+      <text>Wasosz, rzeka Orla</text>
+    </link>
+  </wpt>
+  <wpt lat="51.561984" lon="16.691447">
+    <ele>88</ele>
+    <name>Wasosz, ul. Kilinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/10193">
+      <text>Wasosz, ul. Kilinskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wasosz, rzeka Orla - Wasosz, ul. Kilinskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5636605,16.692403;51.56251910090443,16.69280765;51.5619841,16.6914466">
+    <text>Wasosz, rzeka Orla - Wasosz, ul. Kilinskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5636605" lon="16.692403">
+      <ele>87</ele>
+      <time>2022-01-18T00:31:15Z</time>
+    </trkpt>
+    <trkpt lat="51.5635529" lon="16.6928076">
+      <ele>87</ele>
+      <time>2022-01-18T00:31:45Z</time>
+    </trkpt>
+    <trkpt lat="51.5634561" lon="16.6930008">
+      <ele>87</ele>
+      <time>2022-01-18T00:32:01Z</time>
+    </trkpt>
+    <trkpt lat="51.5633661" lon="16.6930812">
+      <ele>87</ele>
+      <time>2022-01-18T00:32:12Z</time>
+    </trkpt>
+    <trkpt lat="51.5632094" lon="16.6931349">
+      <ele>87</ele>
+      <time>2022-01-18T00:32:30Z</time>
+    </trkpt>
+    <trkpt lat="51.5629273" lon="16.6931184">
+      <ele>87</ele>
+      <time>2022-01-18T00:33:00Z</time>
+    </trkpt>
+    <trkpt lat="51.5628059" lon="16.6930759">
+      <ele>87</ele>
+      <time>2022-01-18T00:33:14Z</time>
+    </trkpt>
+    <trkpt lat="51.5622323" lon="16.6925394">
+      <ele>90</ele>
+      <time>2022-01-18T00:34:25Z</time>
+    </trkpt>
+    <trkpt lat="51.5620455" lon="16.6924375">
+      <ele>90</ele>
+      <time>2022-01-18T00:34:47Z</time>
+    </trkpt>
+    <trkpt lat="51.5618371" lon="16.6923898">
+      <ele>90</ele>
+      <time>2022-01-18T00:35:10Z</time>
+    </trkpt>
+    <trkpt lat="51.5618821" lon="16.6920995">
+      <ele>90</ele>
+      <time>2022-01-18T00:35:30Z</time>
+    </trkpt>
+    <trkpt lat="51.5619841" lon="16.6914466">
+      <ele>88</ele>
+      <time>2022-01-18T00:36:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

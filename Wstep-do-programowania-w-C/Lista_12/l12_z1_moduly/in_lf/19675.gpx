@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:40Z</time>
+    <bounds maxlat="51.3913621" maxlon="23.1952143" minlat="51.387182" minlon="23.1932629"/>
+  </metadata>
+  <wpt lat="51.391362" lon="23.193378">
+    <ele>170</ele>
+    <name>Urszulin</name>
+    <link href="https://mapa-turystyczna.pl/node/13276">
+      <text>Urszulin</text>
+    </link>
+  </wpt>
+  <wpt lat="51.387182" lon="23.193263">
+    <ele>173</ele>
+    <name>Urszulin, ul. Kwiatowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13275">
+      <text>Urszulin, ul. Kwiatowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Urszulin - Urszulin, ul. Kwiatowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3913621,23.1933784;51.389052238220216,23.194238599999988;51.387182,23.1932629">
+    <text>Urszulin - Urszulin, ul. Kwiatowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3913621" lon="23.1933784">
+      <ele>170</ele>
+      <time>2022-01-18T01:52:40Z</time>
+    </trkpt>
+    <trkpt lat="51.3909224" lon="23.1952143">
+      <ele>170</ele>
+      <time>2022-01-18T01:55:03Z</time>
+    </trkpt>
+    <trkpt lat="51.387182" lon="23.1932629">
+      <ele>173</ele>
+      <time>2022-01-18T02:02:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

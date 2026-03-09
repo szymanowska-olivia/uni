@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:14Z</time>
+    <bounds maxlat="52.2557006" maxlon="16.8271165" minlat="52.2549757" minlon="16.806722"/>
+  </metadata>
+  <wpt lat="52.255078" lon="16.827116">
+    <ele>115</ele>
+    <name>Pozegowo, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11807">
+      <text>Pozegowo, lacznik</text>
+    </link>
+  </wpt>
+  <wpt lat="52.254976" lon="16.806722">
+    <ele>91</ele>
+    <name>Glaz Franciszka Jaskowiaka</name>
+    <link href="https://mapa-turystyczna.pl/node/10245">
+      <text>Glaz Franciszka Jaskowiaka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pozegowo, lacznik - Glaz Franciszka Jaskowiaka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.255078,16.8271165;52.255528200199414,16.818163649999978;52.2549757,16.806722">
+    <text>Pozegowo, lacznik - Glaz Franciszka Jaskowiaka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.255078" lon="16.8271165">
+      <ele>115</ele>
+      <time>2022-01-18T01:12:14Z</time>
+    </trkpt>
+    <trkpt lat="52.2552671" lon="16.822919">
+      <ele>107</ele>
+      <time>2022-01-18T01:16:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2553952" lon="16.8208698">
+      <ele>99</ele>
+      <time>2022-01-18T01:18:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2556612" lon="16.8154575">
+      <ele>95</ele>
+      <time>2022-01-18T01:23:38Z</time>
+    </trkpt>
+    <trkpt lat="52.2557006" lon="16.8141379">
+      <ele>99</ele>
+      <time>2022-01-18T01:24:55Z</time>
+    </trkpt>
+    <trkpt lat="52.2556743" lon="16.813639">
+      <ele>100</ele>
+      <time>2022-01-18T01:25:24Z</time>
+    </trkpt>
+    <trkpt lat="52.2553427" lon="16.8102648">
+      <ele>97</ele>
+      <time>2022-01-18T01:28:44Z</time>
+    </trkpt>
+    <trkpt lat="52.2552606" lon="16.8090685">
+      <ele>96</ele>
+      <time>2022-01-18T01:29:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2552048" lon="16.8084141">
+      <ele>94</ele>
+      <time>2022-01-18T01:30:33Z</time>
+    </trkpt>
+    <trkpt lat="52.2550865" lon="16.8077167">
+      <ele>92</ele>
+      <time>2022-01-18T01:31:15Z</time>
+    </trkpt>
+    <trkpt lat="52.2549757" lon="16.806722">
+      <ele>91</ele>
+      <time>2022-01-18T01:32:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

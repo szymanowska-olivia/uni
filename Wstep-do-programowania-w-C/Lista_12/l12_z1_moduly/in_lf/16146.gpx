@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:51:47Z</time>
+    <bounds maxlat="49.581425" maxlon="20.070283" minlat="49.578697" minlon="20.068832"/>
+  </metadata>
+  <wpt lat="49.581425" lon="20.070283">
+    <ele>955</ele>
+    <name>Skrzyzowanie przy polanie Jaworzyna Porebska</name>
+    <link href="https://mapa-turystyczna.pl/node/11030">
+      <text>Skrzyzowanie przy polanie Jaworzyna Porebska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.578697" lon="20.068832">
+    <ele>960</ele>
+    <name>Polana Tobolow</name>
+    <link href="https://mapa-turystyczna.pl/node/11021">
+      <text>Polana Tobolow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy polanie Jaworzyna Porebska - Polana Tobolow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.581425,20.070283;49.580008501979236,20.069176999999996;49.578697,20.068832">
+    <text>Skrzyzowanie przy polanie Jaworzyna Porebska - Polana Tobolow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.581425" lon="20.070283">
+      <ele>955</ele>
+      <time>2022-01-18T00:51:47Z</time>
+    </trkpt>
+    <trkpt lat="49.581378" lon="20.070214">
+      <ele>955</ele>
+      <time>2022-01-18T00:51:54Z</time>
+    </trkpt>
+    <trkpt lat="49.581276" lon="20.070134">
+      <ele>956</ele>
+      <time>2022-01-18T00:52:05Z</time>
+    </trkpt>
+    <trkpt lat="49.581034" lon="20.070003">
+      <ele>958</ele>
+      <time>2022-01-18T00:52:31Z</time>
+    </trkpt>
+    <trkpt lat="49.580971" lon="20.069934">
+      <ele>959</ele>
+      <time>2022-01-18T00:52:39Z</time>
+    </trkpt>
+    <trkpt lat="49.580828" lon="20.06972">
+      <ele>962</ele>
+      <time>2022-01-18T00:52:59Z</time>
+    </trkpt>
+    <trkpt lat="49.580729" lon="20.06957">
+      <ele>963</ele>
+      <time>2022-01-18T00:53:13Z</time>
+    </trkpt>
+    <trkpt lat="49.580448" lon="20.069374">
+      <ele>963</ele>
+      <time>2022-01-18T00:53:44Z</time>
+    </trkpt>
+    <trkpt lat="49.579569" lon="20.06898">
+      <ele>968</ele>
+      <time>2022-01-18T00:55:17Z</time>
+    </trkpt>
+    <trkpt lat="49.579444" lon="20.068964">
+      <ele>969</ele>
+      <time>2022-01-18T00:55:29Z</time>
+    </trkpt>
+    <trkpt lat="49.579186" lon="20.068991">
+      <ele>965</ele>
+      <time>2022-01-18T00:55:56Z</time>
+    </trkpt>
+    <trkpt lat="49.57896" lon="20.068985">
+      <ele>962</ele>
+      <time>2022-01-18T00:56:19Z</time>
+    </trkpt>
+    <trkpt lat="49.578697" lon="20.068832">
+      <ele>960</ele>
+      <time>2022-01-18T00:56:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

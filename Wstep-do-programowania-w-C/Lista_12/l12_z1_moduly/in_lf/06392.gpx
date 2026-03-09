@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:22Z</time>
+    <bounds maxlat="50.5236317" maxlon="19.520098" minlat="50.5202485" minlon="19.5176089"/>
+  </metadata>
+  <wpt lat="50.520249" lon="19.517609">
+    <ele>395</ele>
+    <name>Zawiercie, Skarzyce, ul. Okiennik</name>
+    <link href="https://mapa-turystyczna.pl/node/4454">
+      <text>Zawiercie, Skarzyce, ul. Okiennik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.523632" lon="19.520098">
+    <ele>385</ele>
+    <name>Okiennik Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/4460">
+      <text>Okiennik Wielki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawiercie, Skarzyce, ul. Okiennik - Okiennik Wielki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5202485,19.5176089;50.52194013031635,19.518853449999998;50.5236317,19.520098">
+    <text>Zawiercie, Skarzyce, ul. Okiennik - Okiennik Wielki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5202485" lon="19.5176089">
+      <ele>395</ele>
+      <time>2022-01-17T22:06:22Z</time>
+    </trkpt>
+    <trkpt lat="50.5236317" lon="19.520098">
+      <ele>385</ele>
+      <time>2022-01-17T22:11:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

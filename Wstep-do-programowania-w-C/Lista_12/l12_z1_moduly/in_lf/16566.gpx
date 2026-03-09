@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:51Z</time>
+    <bounds maxlat="49.2275004" maxlon="22.5531828" minlat="49.2212768" minlon="22.5482385"/>
+  </metadata>
+  <wpt lat="49.2275" lon="22.553183">
+    <ele>512</ele>
+    <name>Zatwarnica</name>
+    <link href="https://mapa-turystyczna.pl/node/408">
+      <text>Zatwarnica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.221277" lon="22.548239">
+    <ele>536</ele>
+    <name>Zatwarnica, chata bojkowska</name>
+    <link href="https://mapa-turystyczna.pl/node/11310">
+      <text>Zatwarnica, chata bojkowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zatwarnica - Zatwarnica, chata bojkowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2275004,22.5531828;49.225387045196,22.55204019999999;49.2212768,22.5482385">
+    <text>Zatwarnica - Zatwarnica, chata bojkowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2275004" lon="22.5531828">
+      <ele>512</ele>
+      <time>2022-01-18T00:58:51Z</time>
+    </trkpt>
+    <trkpt lat="49.2232736" lon="22.5508976">
+      <ele>523</ele>
+      <time>2022-01-18T01:08:16Z</time>
+    </trkpt>
+    <trkpt lat="49.2228979" lon="22.5504785">
+      <ele>525</ele>
+      <time>2022-01-18T01:09:15Z</time>
+    </trkpt>
+    <trkpt lat="49.2221412" lon="22.5493413">
+      <ele>531</ele>
+      <time>2022-01-18T01:11:29Z</time>
+    </trkpt>
+    <trkpt lat="49.2212768" lon="22.5482385">
+      <ele>536</ele>
+      <time>2022-01-18T01:13:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

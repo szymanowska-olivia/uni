@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:54:34Z</time>
+    <bounds maxlat="48.9277369" maxlon="19.4383389" minlat="48.9267113" minlon="19.4322181"/>
+  </metadata>
+  <wpt lat="48.926743" lon="19.432218">
+    <ele>1591</ele>
+    <name>Sedlo Zamostskej hole</name>
+    <link href="https://mapa-turystyczna.pl/node/6670">
+      <text>Sedlo Zamostskej hole</text>
+    </link>
+  </wpt>
+  <wpt lat="48.927642" lon="19.438339">
+    <ele>1630</ele>
+    <name>Zamostska hola</name>
+    <link href="https://mapa-turystyczna.pl/node/6668">
+      <text>Zamostska hola</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Zamostskej hole - Zamostska hola</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.926743,19.4322181;48.926996750143836,19.435180599999978;48.9276418,19.4383389">
+    <text>Sedlo Zamostskej hole - Zamostska hola</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.926743" lon="19.4322181">
+      <ele>1591</ele>
+      <time>2022-01-17T22:54:34Z</time>
+    </trkpt>
+    <trkpt lat="48.9267113" lon="19.4331086">
+      <ele>1591</ele>
+      <time>2022-01-17T22:55:56Z</time>
+    </trkpt>
+    <trkpt lat="48.9267782" lon="19.4338033">
+      <ele>1598</ele>
+      <time>2022-01-17T22:57:01Z</time>
+    </trkpt>
+    <trkpt lat="48.9268769" lon="19.434793">
+      <ele>1610</ele>
+      <time>2022-01-17T22:58:34Z</time>
+    </trkpt>
+    <trkpt lat="48.9271166" lon="19.4355682">
+      <ele>1619</ele>
+      <time>2022-01-17T22:59:53Z</time>
+    </trkpt>
+    <trkpt lat="48.9273527" lon="19.4365311">
+      <ele>1626</ele>
+      <time>2022-01-17T23:01:28Z</time>
+    </trkpt>
+    <trkpt lat="48.9277263" lon="19.437207">
+      <ele>1629</ele>
+      <time>2022-01-17T23:02:49Z</time>
+    </trkpt>
+    <trkpt lat="48.9277369" lon="19.4377488">
+      <ele>1629</ele>
+      <time>2022-01-17T23:03:38Z</time>
+    </trkpt>
+    <trkpt lat="48.9276418" lon="19.4383389">
+      <ele>1630</ele>
+      <time>2022-01-17T23:04:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

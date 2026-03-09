@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:31Z</time>
+    <bounds maxlat="50.7205593" maxlon="15.9037722" minlat="50.719419" minlon="15.9003532"/>
+  </metadata>
+  <wpt lat="50.719419" lon="15.903772">
+    <ele>576</ele>
+    <name>Jarkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3002">
+      <text>Jarkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.720559" lon="15.900353">
+    <ele>573</ele>
+    <name>Jarkowice, mostek</name>
+    <link href="https://mapa-turystyczna.pl/node/9150">
+      <text>Jarkowice, mostek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarkowice - Jarkowice, mostek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.719419,15.9037722;50.72000760153017,15.901553950000004;50.7205593,15.9003532">
+    <text>Jarkowice - Jarkowice, mostek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.719419" lon="15.9037722">
+      <ele>576</ele>
+      <time>2022-01-18T00:04:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7196289" lon="15.9031123">
+      <ele>573</ele>
+      <time>2022-01-18T00:05:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7196459" lon="15.9029353">
+      <ele>573</ele>
+      <time>2022-01-18T00:05:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7196255" lon="15.9024847">
+      <ele>575</ele>
+      <time>2022-01-18T00:06:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7196289" lon="15.9023291">
+      <ele>575</ele>
+      <time>2022-01-18T00:06:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7203863" lon="15.9007788">
+      <ele>574</ele>
+      <time>2022-01-18T00:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7205593" lon="15.9003532">
+      <ele>573</ele>
+      <time>2022-01-18T00:09:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

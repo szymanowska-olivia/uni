@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:09Z</time>
+    <bounds maxlat="50.6597669" maxlon="15.854457" minlat="50.6575679" minlon="15.8505786"/>
+  </metadata>
+  <wpt lat="50.659767" lon="15.850579">
+    <ele>997</ele>
+    <name>Rychorska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1345">
+      <text>Rychorska bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.657598" lon="15.854457">
+    <ele>996</ele>
+    <name>Kutna</name>
+    <link href="https://mapa-turystyczna.pl/node/1190">
+      <text>Kutna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rychorska bouda - Kutna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6597669,15.8505786;50.65915590397452,15.851498600000014;50.6575983,15.854457">
+    <text>Rychorska bouda - Kutna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6597669" lon="15.8505786">
+      <ele>997</ele>
+      <time>2022-01-17T21:07:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6585449" lon="15.8524186">
+      <ele>992</ele>
+      <time>2022-01-17T21:09:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6577805" lon="15.8536885">
+      <ele>994</ele>
+      <time>2022-01-17T21:11:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6575985" lon="15.8540357">
+      <ele>995</ele>
+      <time>2022-01-17T21:11:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6575679" lon="15.8542449">
+      <ele>996</ele>
+      <time>2022-01-17T21:11:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6575983" lon="15.854457">
+      <ele>996</ele>
+      <time>2022-01-17T21:12:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

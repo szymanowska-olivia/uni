@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:37Z</time>
+    <bounds maxlat="50.0486914" maxlon="19.843964" minlat="50.0485416" minlon="19.841727"/>
+  </metadata>
+  <wpt lat="50.048673" lon="19.841727">
+    <ele>293</ele>
+    <name>Las Wolski, Lupany Dol</name>
+    <link href="https://mapa-turystyczna.pl/node/5166">
+      <text>Las Wolski, Lupany Dol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.048542" lon="19.843964">
+    <ele>303</ele>
+    <name>Las Wolski, rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/5130">
+      <text>Las Wolski, rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, Lupany Dol - Las Wolski, rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0486725,19.841727;50.04865225000122,19.842920600000003;50.0485416,19.843964">
+    <text>Las Wolski, Lupany Dol - Las Wolski, rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0486725" lon="19.841727">
+      <ele>293</ele>
+      <time>2022-01-17T22:25:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0486914" lon="19.8421562">
+      <ele>295</ele>
+      <time>2022-01-17T22:26:11Z</time>
+    </trkpt>
+    <trkpt lat="50.048663" lon="19.8425263">
+      <ele>298</ele>
+      <time>2022-01-17T22:26:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0486415" lon="19.8433149">
+      <ele>301</ele>
+      <time>2022-01-17T22:27:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0485416" lon="19.843964">
+      <ele>303</ele>
+      <time>2022-01-17T22:28:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:51:38Z</time>
+    <bounds maxlat="49.523996" maxlon="20.124979" minlat="49.521251" minlon="20.123961"/>
+  </metadata>
+  <wpt lat="49.521251" lon="20.124912">
+    <ele>803</ele>
+    <name>Gajowka Mikolaja</name>
+    <link href="https://mapa-turystyczna.pl/node/11026">
+      <text>Gajowka Mikolaja</text>
+    </link>
+  </wpt>
+  <wpt lat="49.523996" lon="20.124038">
+    <ele>820</ele>
+    <name>Odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11025">
+      <text>Odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gajowka Mikolaja - Odejscie sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.521251,20.124912;49.522618000104316,20.124670500000022;49.523996,20.124038">
+    <text>Gajowka Mikolaja - Odejscie sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.521251" lon="20.124912">
+      <ele>803</ele>
+      <time>2022-01-18T00:51:38Z</time>
+    </trkpt>
+    <trkpt lat="49.521361" lon="20.12488">
+      <ele>805</ele>
+      <time>2022-01-18T00:51:50Z</time>
+    </trkpt>
+    <trkpt lat="49.52167" lon="20.124861">
+      <ele>809</ele>
+      <time>2022-01-18T00:52:21Z</time>
+    </trkpt>
+    <trkpt lat="49.522043" lon="20.124947">
+      <ele>813</ele>
+      <time>2022-01-18T00:53:00Z</time>
+    </trkpt>
+    <trkpt lat="49.522269" lon="20.124979">
+      <ele>815</ele>
+      <time>2022-01-18T00:53:23Z</time>
+    </trkpt>
+    <trkpt lat="49.522388" lon="20.124931">
+      <ele>816</ele>
+      <time>2022-01-18T00:53:35Z</time>
+    </trkpt>
+    <trkpt lat="49.522517" lon="20.124818">
+      <ele>818</ele>
+      <time>2022-01-18T00:53:51Z</time>
+    </trkpt>
+    <trkpt lat="49.522719" lon="20.124523">
+      <ele>818</ele>
+      <time>2022-01-18T00:54:19Z</time>
+    </trkpt>
+    <trkpt lat="49.52287" lon="20.124331">
+      <ele>818</ele>
+      <time>2022-01-18T00:54:39Z</time>
+    </trkpt>
+    <trkpt lat="49.52303" lon="20.124237">
+      <ele>816</ele>
+      <time>2022-01-18T00:54:56Z</time>
+    </trkpt>
+    <trkpt lat="49.523569" lon="20.123961">
+      <ele>815</ele>
+      <time>2022-01-18T00:55:54Z</time>
+    </trkpt>
+    <trkpt lat="49.523996" lon="20.124038">
+      <ele>820</ele>
+      <time>2022-01-18T00:56:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

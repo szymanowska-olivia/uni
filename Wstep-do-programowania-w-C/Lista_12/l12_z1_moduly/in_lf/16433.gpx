@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:42Z</time>
+    <bounds maxlat="51.8984896" maxlon="15.5709284" minlat="51.8962272" minlon="15.5697088"/>
+  </metadata>
+  <wpt lat="51.896227" lon="15.569709">
+    <ele>99</ele>
+    <name>Drzonkow, WOSiR</name>
+    <link href="https://mapa-turystyczna.pl/node/11221">
+      <text>Drzonkow, WOSiR</text>
+    </link>
+  </wpt>
+  <wpt lat="51.89849" lon="15.570928">
+    <ele>101</ele>
+    <name>Drzonkow</name>
+    <link href="https://mapa-turystyczna.pl/node/11147">
+      <text>Drzonkow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Drzonkow, WOSiR - Drzonkow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8962272,15.5697088;51.89711525877618,15.570119950000016;51.8984896,15.5709284">
+    <text>Drzonkow, WOSiR - Drzonkow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8962272" lon="15.5697088">
+      <ele>99</ele>
+      <time>2022-01-18T00:56:42Z</time>
+    </trkpt>
+    <trkpt lat="51.8980033" lon="15.5705311">
+      <ele>100</ele>
+      <time>2022-01-18T01:00:34Z</time>
+    </trkpt>
+    <trkpt lat="51.8984896" lon="15.5709284">
+      <ele>101</ele>
+      <time>2022-01-18T01:01:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

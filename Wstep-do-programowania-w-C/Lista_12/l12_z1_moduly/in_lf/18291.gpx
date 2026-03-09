@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:32Z</time>
+    <bounds maxlat="52.3502808" maxlon="20.5627906" minlat="52.3483634" minlon="20.5598777"/>
+  </metadata>
+  <wpt lat="52.350281" lon="20.559878">
+    <ele>84</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12413">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.348363" lon="20.562791">
+    <ele>85</ele>
+    <name>Biela</name>
+    <link href="https://mapa-turystyczna.pl/node/4950">
+      <text>Biela</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Biela</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3502808,20.5598777;52.349285500697924,20.56115185000002;52.3483634,20.5627906">
+    <text>Odejscie sciezki dydaktycznej - Biela</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3502808" lon="20.5598777">
+      <ele>84</ele>
+      <time>2022-01-18T01:28:32Z</time>
+    </trkpt>
+    <trkpt lat="52.3501941" lon="20.5600884">
+      <ele>84</ele>
+      <time>2022-01-18T01:28:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3498982" lon="20.5608202">
+      <ele>81</ele>
+      <time>2022-01-18T01:29:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3495339" lon="20.5611027">
+      <ele>81</ele>
+      <time>2022-01-18T01:30:29Z</time>
+    </trkpt>
+    <trkpt lat="52.3490371" lon="20.561201">
+      <ele>84</ele>
+      <time>2022-01-18T01:31:23Z</time>
+    </trkpt>
+    <trkpt lat="52.3488624" lon="20.5613966">
+      <ele>83</ele>
+      <time>2022-01-18T01:31:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3487271" lon="20.5618761">
+      <ele>82</ele>
+      <time>2022-01-18T01:32:20Z</time>
+    </trkpt>
+    <trkpt lat="52.3485807" lon="20.5623129">
+      <ele>83</ele>
+      <time>2022-01-18T01:32:53Z</time>
+    </trkpt>
+    <trkpt lat="52.3483634" lon="20.5627906">
+      <ele>85</ele>
+      <time>2022-01-18T01:33:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

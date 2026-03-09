@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:11Z</time>
+    <bounds maxlat="51.113754" maxlon="20.8670508" minlat="51.111179" minlon="20.8656549"/>
+  </metadata>
+  <wpt lat="51.113754" lon="20.865655">
+    <ele>252</ele>
+    <name>Skarzysko-Kamienna</name>
+    <link href="https://mapa-turystyczna.pl/node/3226">
+      <text>Skarzysko-Kamienna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.111179" lon="20.867051">
+    <ele>242</ele>
+    <name>Skarzysko-Kamienna, Aleja Niepodleglosci</name>
+    <link href="https://mapa-turystyczna.pl/node/7263">
+      <text>Skarzysko-Kamienna, Aleja Niepodleglosci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skarzysko-Kamienna - Skarzysko-Kamienna, Aleja Niepodleglosci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.113754,20.8656549;51.11240926637599,20.86639579999998;51.111179,20.8670508">
+    <text>Skarzysko-Kamienna - Skarzysko-Kamienna, Aleja Niepodleglosci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.113754" lon="20.8656549">
+      <ele>252</ele>
+      <time>2022-01-17T23:14:11Z</time>
+    </trkpt>
+    <trkpt lat="51.1136395" lon="20.8657408">
+      <ele>252</ele>
+      <time>2022-01-17T23:14:25Z</time>
+    </trkpt>
+    <trkpt lat="51.111179" lon="20.8670508">
+      <ele>242</ele>
+      <time>2022-01-17T23:19:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

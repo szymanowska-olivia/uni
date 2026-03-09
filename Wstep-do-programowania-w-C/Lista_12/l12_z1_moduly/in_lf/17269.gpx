@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:39Z</time>
+    <bounds maxlat="50.1634018" maxlon="16.8199941" minlat="50.1621689" minlon="16.8171919"/>
+  </metadata>
+  <wpt lat="50.162169" lon="16.817192">
+    <ele>737</ele>
+    <name>Mlecny pramen, odb.</name>
+    <link href="https://mapa-turystyczna.pl/node/11751">
+      <text>Mlecny pramen, odb.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.163017" lon="16.819994">
+    <ele>757</ele>
+    <name>Mlecny pramen</name>
+    <link href="https://mapa-turystyczna.pl/node/11752">
+      <text>Mlecny pramen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mlecny pramen, odb. - Mlecny pramen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1621689,16.8171919;50.163322800044604,16.81818630000001;50.1630169,16.8199941">
+    <text>Mlecny pramen, odb. - Mlecny pramen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1621689" lon="16.8171919">
+      <ele>737</ele>
+      <time>2022-01-18T01:10:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1629757" lon="16.8177518">
+      <ele>742</ele>
+      <time>2022-01-18T01:12:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1632575" lon="16.8180629">
+      <ele>743</ele>
+      <time>2022-01-18T01:13:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1633881" lon="16.8183097">
+      <ele>745</ele>
+      <time>2022-01-18T01:13:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1634018" lon="16.8185564">
+      <ele>747</ele>
+      <time>2022-01-18T01:13:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1633537" lon="16.8188032">
+      <ele>749</ele>
+      <time>2022-01-18T01:14:02Z</time>
+    </trkpt>
+    <trkpt lat="50.1633125" lon="16.8190821">
+      <ele>751</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="50.16323" lon="16.8195006">
+      <ele>753</ele>
+      <time>2022-01-18T01:14:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1630169" lon="16.8199941">
+      <ele>757</ele>
+      <time>2022-01-18T01:15:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:50Z</time>
+    <bounds maxlat="52.0231744" maxlon="20.9779836" minlat="52.0213192" minlon="20.9745182"/>
+  </metadata>
+  <wpt lat="52.023174" lon="20.974518">
+    <ele>119</ele>
+    <name>Gonna Sosna, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12822">
+      <text>Gonna Sosna, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.021319" lon="20.977984">
+    <ele>122</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12823">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gonna Sosna, parking - Skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0231744,20.9745182;52.022694102578804,20.975703749999997;52.0213192,20.9779836">
+    <text>Gonna Sosna, parking - Skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0231744" lon="20.9745182">
+      <ele>119</ele>
+      <time>2022-01-18T01:39:50Z</time>
+    </trkpt>
+    <trkpt lat="52.0222138" lon="20.9768893">
+      <ele>123</ele>
+      <time>2022-01-18T01:42:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0216724" lon="20.9776295">
+      <ele>122</ele>
+      <time>2022-01-18T01:44:07Z</time>
+    </trkpt>
+    <trkpt lat="52.0213192" lon="20.9779836">
+      <ele>122</ele>
+      <time>2022-01-18T01:44:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:03Z</time>
+    <bounds maxlat="49.38893" maxlon="20.536759" minlat="49.386892" minlon="20.530052"/>
+  </metadata>
+  <wpt lat="49.38893" lon="20.530052">
+    <ele>879</ele>
+    <name>Pod Durbaszka</name>
+    <link href="https://mapa-turystyczna.pl/node/3046">
+      <text>Pod Durbaszka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.387005" lon="20.536759">
+    <ele>934</ele>
+    <name>Durbaszka</name>
+    <link href="https://mapa-turystyczna.pl/node/12305">
+      <text>Durbaszka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Durbaszka - Durbaszka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.38893,20.530052;49.38740250028216,20.533695499999975;49.387005,20.536759">
+    <text>Pod Durbaszka - Durbaszka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.38893" lon="20.530052">
+      <ele>879</ele>
+      <time>2022-01-18T01:25:03Z</time>
+    </trkpt>
+    <trkpt lat="49.388313" lon="20.531602">
+      <ele>893</ele>
+      <time>2022-01-18T01:28:38Z</time>
+    </trkpt>
+    <trkpt lat="49.387943" lon="20.532455">
+      <ele>905</ele>
+      <time>2022-01-18T01:30:41Z</time>
+    </trkpt>
+    <trkpt lat="49.387569" lon="20.533222">
+      <ele>910</ele>
+      <time>2022-01-18T01:32:34Z</time>
+    </trkpt>
+    <trkpt lat="49.387236" lon="20.534169">
+      <ele>919</ele>
+      <time>2022-01-18T01:34:42Z</time>
+    </trkpt>
+    <trkpt lat="49.387056" lon="20.534665">
+      <ele>927</ele>
+      <time>2022-01-18T01:35:50Z</time>
+    </trkpt>
+    <trkpt lat="49.386935" lon="20.535271">
+      <ele>932</ele>
+      <time>2022-01-18T01:37:05Z</time>
+    </trkpt>
+    <trkpt lat="49.386892" lon="20.535899">
+      <ele>934</ele>
+      <time>2022-01-18T01:38:20Z</time>
+    </trkpt>
+    <trkpt lat="49.387005" lon="20.536759">
+      <ele>934</ele>
+      <time>2022-01-18T01:40:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

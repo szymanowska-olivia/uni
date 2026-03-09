@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:54Z</time>
+    <bounds maxlat="52.3316545" maxlon="20.7468868" minlat="52.3305794" minlon="20.7466829"/>
+  </metadata>
+  <wpt lat="52.331654" lon="20.746683">
+    <ele>88</ele>
+    <name>Cmentarz Palmiry</name>
+    <link href="https://mapa-turystyczna.pl/node/4942">
+      <text>Cmentarz Palmiry</text>
+    </link>
+  </wpt>
+  <wpt lat="52.330579" lon="20.746887">
+    <ele>92</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5008">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cmentarz Palmiry - Skrzyzowanie szlakow czerwony / niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3316545,20.7466829;52.33111695326632,20.74678485000001;52.3305794,20.7468868">
+    <text>Cmentarz Palmiry - Skrzyzowanie szlakow czerwony / niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3316545" lon="20.7466829">
+      <ele>88</ele>
+      <time>2022-01-17T22:21:54Z</time>
+    </trkpt>
+    <trkpt lat="52.3305794" lon="20.7468868">
+      <ele>92</ele>
+      <time>2022-01-17T22:23:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

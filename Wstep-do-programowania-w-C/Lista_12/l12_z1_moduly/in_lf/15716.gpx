@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:09Z</time>
+    <bounds maxlat="49.9804324" maxlon="17.1538537" minlat="49.9794385" minlon="17.1531388"/>
+  </metadata>
+  <wpt lat="49.980432" lon="17.153139">
+    <ele>860</ele>
+    <name>U pramene Oskavy</name>
+    <link href="https://mapa-turystyczna.pl/node/10735">
+      <text>U pramene Oskavy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.979439" lon="17.153854">
+    <ele>845</ele>
+    <name>Pramen Oskavy</name>
+    <link href="https://mapa-turystyczna.pl/node/10737">
+      <text>Pramen Oskavy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U pramene Oskavy - Pramen Oskavy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9804324,17.1531388;49.979935452566565,17.153496249999996;49.9794385,17.1538537">
+    <text>U pramene Oskavy - Pramen Oskavy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9804324" lon="17.1531388">
+      <ele>860</ele>
+      <time>2022-01-18T00:44:09Z</time>
+    </trkpt>
+    <trkpt lat="49.9794385" lon="17.1538537">
+      <ele>845</ele>
+      <time>2022-01-18T00:46:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

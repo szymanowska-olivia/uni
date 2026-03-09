@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:47Z</time>
+    <bounds maxlat="50.7873391" maxlon="15.5142725" minlat="50.7866494" minlon="15.5135831"/>
+  </metadata>
+  <wpt lat="50.787339" lon="15.513583">
+    <ele>1290</ele>
+    <name>Trzy Swinki</name>
+    <link href="https://mapa-turystyczna.pl/node/1409">
+      <text>Trzy Swinki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.786649" lon="15.514273">
+    <ele>1290</ele>
+    <name>Svinske kameny CZ / PL</name>
+    <link href="https://mapa-turystyczna.pl/node/1213">
+      <text>Svinske kameny CZ / PL</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzy Swinki - Svinske kameny CZ / PL</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7873391,15.5135831;50.78699425127185,15.513927799999978;50.7866494,15.5142725">
+    <text>Trzy Swinki - Svinske kameny CZ / PL</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7873391" lon="15.5135831">
+      <ele>1290</ele>
+      <time>2022-01-17T21:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7866494" lon="15.5142725">
+      <ele>1290</ele>
+      <time>2022-01-17T21:09:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

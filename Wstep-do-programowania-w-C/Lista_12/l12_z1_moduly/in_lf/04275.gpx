@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:16Z</time>
+    <bounds maxlat="50.3534412" maxlon="16.3599689" minlat="50.3475007" minlon="16.3544369"/>
+  </metadata>
+  <wpt lat="50.353441" lon="16.359969">
+    <ele>1074</ele>
+    <name>Vrchmezi rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2975">
+      <text>Vrchmezi rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.347501" lon="16.354437">
+    <ele>1051</ele>
+    <name>Polomsky kopec</name>
+    <link href="https://mapa-turystyczna.pl/node/1868">
+      <text>Polomsky kopec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrchmezi rozc. - Polomsky kopec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3534412,16.3599689;50.34878606739609,16.357160649999987;50.3475007,16.3544369">
+    <text>Vrchmezi rozc. - Polomsky kopec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3534412" lon="16.3599689">
+      <ele>1074</ele>
+      <time>2022-01-17T21:40:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3500714" lon="16.3598844">
+      <ele>1066</ele>
+      <time>2022-01-17T21:46:50Z</time>
+    </trkpt>
+    <trkpt lat="50.3475007" lon="16.3544369">
+      <ele>1051</ele>
+      <time>2022-01-17T21:55:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

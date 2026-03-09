@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:42:28Z</time>
+    <bounds maxlat="50.9989086" maxlon="16.063342" minlat="50.997829" minlon="16.0616909"/>
+  </metadata>
+  <wpt lat="50.997829" lon="16.063342">
+    <ele>329</ele>
+    <name>Wawoz Siedmicy, zach.</name>
+    <link href="https://mapa-turystyczna.pl/node/3289">
+      <text>Wawoz Siedmicy, zach.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.998909" lon="16.061691">
+    <ele>343</ele>
+    <name>Nowowiejski Wawoz</name>
+    <link href="https://mapa-turystyczna.pl/node/8284">
+      <text>Nowowiejski Wawoz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wawoz Siedmicy, zach. - Nowowiejski Wawoz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.997829,16.063342;50.99829525005672,16.062386300000018;50.9989086,16.0616909">
+    <text>Wawoz Siedmicy, zach. - Nowowiejski Wawoz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.997829" lon="16.063342">
+      <ele>329</ele>
+      <time>2022-01-17T23:42:28Z</time>
+    </trkpt>
+    <trkpt lat="50.9980708" lon="16.062912">
+      <ele>331</ele>
+      <time>2022-01-17T23:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.9982227" lon="16.0625794">
+      <ele>335</ele>
+      <time>2022-01-17T23:44:29Z</time>
+    </trkpt>
+    <trkpt lat="50.9983678" lon="16.0621932">
+      <ele>339</ele>
+      <time>2022-01-17T23:45:24Z</time>
+    </trkpt>
+    <trkpt lat="50.9985805" lon="16.0619196">
+      <ele>342</ele>
+      <time>2022-01-17T23:46:17Z</time>
+    </trkpt>
+    <trkpt lat="50.9987527" lon="16.0617425">
+      <ele>343</ele>
+      <time>2022-01-17T23:46:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9989086" lon="16.0616909">
+      <ele>343</ele>
+      <time>2022-01-17T23:47:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

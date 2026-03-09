@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:28:41Z</time>
+    <bounds maxlat="48.8385886" maxlon="19.1162592" minlat="48.8372434" minlon="19.1150683"/>
+  </metadata>
+  <wpt lat="48.838589" lon="19.115068">
+    <ele>479</ele>
+    <name>Stare Hory</name>
+    <link href="https://mapa-turystyczna.pl/node/5464">
+      <text>Stare Hory</text>
+    </link>
+  </wpt>
+  <wpt lat="48.837243" lon="19.116259">
+    <ele>479</ele>
+    <name>Stare Hory, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5463">
+      <text>Stare Hory, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stare Hory - Stare Hory, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8385886,19.1150683;48.837858950245256,19.115654550000006;48.8372434,19.1162592">
+    <text>Stare Hory - Stare Hory, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8385886" lon="19.1150683">
+      <ele>479</ele>
+      <time>2022-01-17T22:28:41Z</time>
+    </trkpt>
+    <trkpt lat="48.8383437" lon="19.1152138">
+      <ele>478</ele>
+      <time>2022-01-17T22:29:11Z</time>
+    </trkpt>
+    <trkpt lat="48.8381568" lon="19.1153349">
+      <ele>479</ele>
+      <time>2022-01-17T22:29:35Z</time>
+    </trkpt>
+    <trkpt lat="48.8380157" lon="19.1154693">
+      <ele>480</ele>
+      <time>2022-01-17T22:29:54Z</time>
+    </trkpt>
+    <trkpt lat="48.8377022" lon="19.1158398">
+      <ele>480</ele>
+      <time>2022-01-17T22:30:39Z</time>
+    </trkpt>
+    <trkpt lat="48.8374468" lon="19.116103">
+      <ele>480</ele>
+      <time>2022-01-17T22:31:15Z</time>
+    </trkpt>
+    <trkpt lat="48.8372434" lon="19.1162592">
+      <ele>479</ele>
+      <time>2022-01-17T22:31:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

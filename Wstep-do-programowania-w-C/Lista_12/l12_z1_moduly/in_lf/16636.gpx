@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:07Z</time>
+    <bounds maxlat="52.4163428" maxlon="20.7798353" minlat="52.4103121" minlon="20.7792917"/>
+  </metadata>
+  <wpt lat="52.410404" lon="20.779495">
+    <ele>74</ele>
+    <name>Suchocin</name>
+    <link href="https://mapa-turystyczna.pl/node/11357">
+      <text>Suchocin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.416343" lon="20.779292">
+    <ele>84</ele>
+    <name>Rozejscie szlakow czerwony / zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11358">
+      <text>Rozejscie szlakow czerwony / zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Suchocin - Rozejscie szlakow czerwony / zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.410404,20.7794955;52.413409347565306,20.779563500000016;52.4163428,20.7792917">
+    <text>Suchocin - Rozejscie szlakow czerwony / zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.410404" lon="20.7794955">
+      <ele>74</ele>
+      <time>2022-01-18T01:00:07Z</time>
+    </trkpt>
+    <trkpt lat="52.4103121" lon="20.7798138">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:28Z</time>
+    </trkpt>
+    <trkpt lat="52.4104757" lon="20.7798353">
+      <ele>77</ele>
+      <time>2022-01-18T01:00:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4163428" lon="20.7792917">
+      <ele>84</ele>
+      <time>2022-01-18T01:10:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

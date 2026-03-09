@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:17Z</time>
+    <bounds maxlat="51.7807347" maxlon="15.4895883" minlat="51.7801559" minlon="15.4895818"/>
+  </metadata>
+  <wpt lat="51.780735" lon="15.489588">
+    <ele>117</ele>
+    <name>Broniszow</name>
+    <link href="https://mapa-turystyczna.pl/node/11210">
+      <text>Broniszow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.780156" lon="15.489582">
+    <ele>118</ele>
+    <name>Broniszow, zamek</name>
+    <link href="https://mapa-turystyczna.pl/node/12764">
+      <text>Broniszow, zamek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Broniszow - Broniszow, zamek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7807347,15.4895883;51.78044530092812,15.489585049999999;51.7801559,15.4895818">
+    <text>Broniszow - Broniszow, zamek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7807347" lon="15.4895883">
+      <ele>117</ele>
+      <time>2022-01-18T01:38:17Z</time>
+    </trkpt>
+    <trkpt lat="51.7801559" lon="15.4895818">
+      <ele>118</ele>
+      <time>2022-01-18T01:39:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

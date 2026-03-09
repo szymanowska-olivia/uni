@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:42Z</time>
+    <bounds maxlat="51.4659457" maxlon="23.1562671" minlat="51.4653208" minlon="23.1551013"/>
+  </metadata>
+  <wpt lat="51.465946" lon="23.155146">
+    <ele>168</ele>
+    <name>Lipniak, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12858">
+      <text>Lipniak, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="51.465321" lon="23.156267">
+    <ele>167</ele>
+    <name>Lipniak</name>
+    <link href="https://mapa-turystyczna.pl/node/12864">
+      <text>Lipniak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipniak, parking - Lipniak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4659457,23.155146;51.46562880074759,23.15564000000001;51.4653208,23.1562671">
+    <text>Lipniak, parking - Lipniak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4659457" lon="23.155146">
+      <ele>168</ele>
+      <time>2022-01-18T01:40:42Z</time>
+    </trkpt>
+    <trkpt lat="51.46589" lon="23.1551013">
+      <ele>168</ele>
+      <time>2022-01-18T01:40:50Z</time>
+    </trkpt>
+    <trkpt lat="51.4653676" lon="23.1561787">
+      <ele>167</ele>
+      <time>2022-01-18T01:42:33Z</time>
+    </trkpt>
+    <trkpt lat="51.4653208" lon="23.1562671">
+      <ele>167</ele>
+      <time>2022-01-18T01:42:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

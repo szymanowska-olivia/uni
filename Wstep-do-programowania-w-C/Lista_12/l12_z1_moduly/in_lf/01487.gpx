@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:19Z</time>
+    <bounds maxlat="50.7144723" maxlon="15.8772772" minlat="50.7126081" minlon="15.8722186"/>
+  </metadata>
+  <wpt lat="50.712608" lon="15.872219">
+    <ele>641</ele>
+    <name>Dolina Srebrnika</name>
+    <link href="https://mapa-turystyczna.pl/node/1112">
+      <text>Dolina Srebrnika</text>
+    </link>
+  </wpt>
+  <wpt lat="50.714472" lon="15.877277">
+    <ele>636</ele>
+    <name>Srebrny Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/1378">
+      <text>Srebrny Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Srebrnika - Srebrny Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7126081,15.8722186;50.71375115013439,15.874734850000007;50.7144723,15.8772772">
+    <text>Dolina Srebrnika - Srebrny Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7126081" lon="15.8722186">
+      <ele>641</ele>
+      <time>2022-01-17T21:01:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7131134" lon="15.8729642">
+      <ele>638</ele>
+      <time>2022-01-17T21:02:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7133552" lon="15.873333">
+      <ele>640</ele>
+      <time>2022-01-17T21:02:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7134612" lon="15.8735516">
+      <ele>642</ele>
+      <time>2022-01-17T21:02:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7135638" lon="15.8738614">
+      <ele>642</ele>
+      <time>2022-01-17T21:03:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7136149" lon="15.8741561">
+      <ele>641</ele>
+      <time>2022-01-17T21:03:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7136389" lon="15.874408">
+      <ele>640</ele>
+      <time>2022-01-17T21:03:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7138634" lon="15.8750617">
+      <ele>638</ele>
+      <time>2022-01-17T21:04:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7142372" lon="15.8766923">
+      <ele>638</ele>
+      <time>2022-01-17T21:05:44Z</time>
+    </trkpt>
+    <trkpt lat="50.714278" lon="15.8768425">
+      <ele>637</ele>
+      <time>2022-01-17T21:05:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7144723" lon="15.8772772">
+      <ele>636</ele>
+      <time>2022-01-17T21:06:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

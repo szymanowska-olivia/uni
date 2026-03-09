@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:26Z</time>
+    <bounds maxlat="50.733644" maxlon="16.0671187" minlat="50.7318648" minlon="16.0662926"/>
+  </metadata>
+  <wpt lat="50.733644" lon="16.066293">
+    <ele>470</ele>
+    <name>Krzeszow</name>
+    <link href="https://mapa-turystyczna.pl/node/2385">
+      <text>Krzeszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.731865" lon="16.067119">
+    <ele>468</ele>
+    <name>Krzeszow, PKS</name>
+    <link href="https://mapa-turystyczna.pl/node/2384">
+      <text>Krzeszow, PKS</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krzeszow - Krzeszow, PKS</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.733644,16.0662926;50.73293310397194,16.06655500000001;50.7318648,16.0671187">
+    <text>Krzeszow - Krzeszow, PKS</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.733644" lon="16.0662926">
+      <ele>470</ele>
+      <time>2022-01-17T21:28:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7335431" lon="16.0662972">
+      <ele>470</ele>
+      <time>2022-01-17T21:28:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7323231" lon="16.0668128">
+      <ele>468</ele>
+      <time>2022-01-17T21:30:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7319429" lon="16.067046">
+      <ele>468</ele>
+      <time>2022-01-17T21:31:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7318648" lon="16.0671187">
+      <ele>468</ele>
+      <time>2022-01-17T21:31:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

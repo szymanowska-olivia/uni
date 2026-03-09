@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:37Z</time>
+    <bounds maxlat="49.303796" maxlon="19.916928" minlat="49.303694" minlon="19.91157"/>
+  </metadata>
+  <wpt lat="49.3037" lon="19.91157">
+    <ele>1128</ele>
+    <name>Gubalowka, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/962">
+      <text>Gubalowka, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.303694" lon="19.916928">
+    <ele>1122</ele>
+    <name>Pajakowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2493">
+      <text>Pajakowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gubalowka, skrzyzowanie szlakow - Pajakowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3037,19.91157;49.30379000000037,19.91427350000001;49.303694,19.916928">
+    <text>Gubalowka, skrzyzowanie szlakow - Pajakowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3037" lon="19.91157">
+      <ele>1128</ele>
+      <time>2022-01-17T21:31:37Z</time>
+    </trkpt>
+    <trkpt lat="49.303715" lon="19.911892">
+      <ele>1127</ele>
+      <time>2022-01-17T21:31:55Z</time>
+    </trkpt>
+    <trkpt lat="49.303719" lon="19.912846">
+      <ele>1125</ele>
+      <time>2022-01-17T21:32:48Z</time>
+    </trkpt>
+    <trkpt lat="49.303776" lon="19.913948">
+      <ele>1122</ele>
+      <time>2022-01-17T21:33:50Z</time>
+    </trkpt>
+    <trkpt lat="49.303784" lon="19.91406">
+      <ele>1122</ele>
+      <time>2022-01-17T21:33:56Z</time>
+    </trkpt>
+    <trkpt lat="49.303796" lon="19.914487">
+      <ele>1121</ele>
+      <time>2022-01-17T21:34:20Z</time>
+    </trkpt>
+    <trkpt lat="49.303755" lon="19.915504">
+      <ele>1118</ele>
+      <time>2022-01-17T21:35:17Z</time>
+    </trkpt>
+    <trkpt lat="49.303702" lon="19.916759">
+      <ele>1122</ele>
+      <time>2022-01-17T21:36:28Z</time>
+    </trkpt>
+    <trkpt lat="49.303694" lon="19.916928">
+      <ele>1122</ele>
+      <time>2022-01-17T21:36:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

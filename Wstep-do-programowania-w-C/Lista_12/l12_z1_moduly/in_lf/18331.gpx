@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:10Z</time>
+    <bounds maxlat="52.357464" maxlon="20.3098141" minlat="52.357076" minlon="20.3068353"/>
+  </metadata>
+  <wpt lat="52.357076" lon="20.309814">
+    <ele>82</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12425">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.357464" lon="20.306835">
+    <ele>76</ele>
+    <name>Parking przy Drodze Jagielly</name>
+    <link href="https://mapa-turystyczna.pl/node/12430">
+      <text>Parking przy Drodze Jagielly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Parking przy Drodze Jagielly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.357076,20.3098141;52.357259200018476,20.308362299999988;52.357464,20.3068353">
+    <text>Odejscie sciezki dydaktycznej - Parking przy Drodze Jagielly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.357076" lon="20.3098141">
+      <ele>82</ele>
+      <time>2022-01-18T01:29:10Z</time>
+    </trkpt>
+    <trkpt lat="52.3571771" lon="20.3092669">
+      <ele>81</ele>
+      <time>2022-01-18T01:29:41Z</time>
+    </trkpt>
+    <trkpt lat="52.3572682" lon="20.3090505">
+      <ele>81</ele>
+      <time>2022-01-18T01:29:55Z</time>
+    </trkpt>
+    <trkpt lat="52.3573435" lon="20.308699">
+      <ele>80</ele>
+      <time>2022-01-18T01:30:15Z</time>
+    </trkpt>
+    <trkpt lat="52.3572996" lon="20.3084449">
+      <ele>79</ele>
+      <time>2022-01-18T01:30:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3572188" lon="20.3082797">
+      <ele>79</ele>
+      <time>2022-01-18T01:30:41Z</time>
+    </trkpt>
+    <trkpt lat="52.3571416" lon="20.3080905">
+      <ele>78</ele>
+      <time>2022-01-18T01:30:53Z</time>
+    </trkpt>
+    <trkpt lat="52.3571417" lon="20.3078084">
+      <ele>77</ele>
+      <time>2022-01-18T01:31:09Z</time>
+    </trkpt>
+    <trkpt lat="52.357264" lon="20.3074425">
+      <ele>77</ele>
+      <time>2022-01-18T01:31:31Z</time>
+    </trkpt>
+    <trkpt lat="52.3573337" lon="20.3071739">
+      <ele>77</ele>
+      <time>2022-01-18T01:31:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3573627" lon="20.3069662">
+      <ele>77</ele>
+      <time>2022-01-18T01:31:59Z</time>
+    </trkpt>
+    <trkpt lat="52.357464" lon="20.3068353">
+      <ele>76</ele>
+      <time>2022-01-18T01:32:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

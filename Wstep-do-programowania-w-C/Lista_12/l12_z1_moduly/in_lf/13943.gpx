@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:47Z</time>
+    <bounds maxlat="50.8656586" maxlon="16.7091384" minlat="50.8654191" minlon="16.708915"/>
+  </metadata>
+  <wpt lat="50.865419" lon="16.708915">
+    <ele>718</ele>
+    <name>Sleza</name>
+    <link href="https://mapa-turystyczna.pl/node/2708">
+      <text>Sleza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.865659" lon="16.709138">
+    <ele>717</ele>
+    <name>Sleza, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9550">
+      <text>Sleza, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sleza - Sleza, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8654191,16.708915;50.86557990001126,16.708989749999983;50.8656586,16.7091384">
+    <text>Sleza - Sleza, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8654191" lon="16.708915">
+      <ele>718</ele>
+      <time>2022-01-18T00:14:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8655475" lon="16.7089398">
+      <ele>718</ele>
+      <time>2022-01-18T00:15:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8656123" lon="16.7090397">
+      <ele>718</ele>
+      <time>2022-01-18T00:15:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8656586" lon="16.7091384">
+      <ele>717</ele>
+      <time>2022-01-18T00:15:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

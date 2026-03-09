@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:51Z</time>
+    <bounds maxlat="50.877667" maxlon="15.3440921" minlat="50.8764678" minlon="15.343641"/>
+  </metadata>
+  <wpt lat="50.877667" lon="15.343641">
+    <ele>963</ele>
+    <name>Polana Izerska</name>
+    <link href="https://mapa-turystyczna.pl/node/2298">
+      <text>Polana Izerska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.876468" lon="15.344092">
+    <ele>964</ele>
+    <name>Polana Izerska, wiata</name>
+    <link href="https://mapa-turystyczna.pl/node/4809">
+      <text>Polana Izerska, wiata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polana Izerska - Polana Izerska, wiata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.877667,15.343641;50.87700425173605,15.343871200000017;50.8764678,15.3440921">
+    <text>Polana Izerska - Polana Izerska, wiata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.877667" lon="15.343641">
+      <ele>963</ele>
+      <time>2022-01-17T22:16:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8774065" lon="15.3437618">
+      <ele>963</ele>
+      <time>2022-01-17T22:17:17Z</time>
+    </trkpt>
+    <trkpt lat="50.876602" lon="15.3439806">
+      <ele>964</ele>
+      <time>2022-01-17T22:18:36Z</time>
+    </trkpt>
+    <trkpt lat="50.8764678" lon="15.3440921">
+      <ele>964</ele>
+      <time>2022-01-17T22:18:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

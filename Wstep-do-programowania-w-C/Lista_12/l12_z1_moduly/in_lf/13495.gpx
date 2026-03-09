@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:27Z</time>
+    <bounds maxlat="50.6954715" maxlon="15.7395116" minlat="50.6953096" minlon="15.7391489"/>
+  </metadata>
+  <wpt lat="50.695471" lon="15.739149">
+    <ele>768</ele>
+    <name>Pec pod Snezkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1253">
+      <text>Pec pod Snezkou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.69531" lon="15.739512">
+    <ele>767</ele>
+    <name>Pec pod Snezkou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9319">
+      <text>Pec pod Snezkou, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pec pod Snezkou - Pec pod Snezkou, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6954715,15.7391489;50.69537225004185,15.739427599999999;50.6953096,15.7395116">
+    <text>Pec pod Snezkou - Pec pod Snezkou, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6954715" lon="15.7391489">
+      <ele>768</ele>
+      <time>2022-01-18T00:08:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6954349" lon="15.7393436">
+      <ele>767</ele>
+      <time>2022-01-18T00:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6953096" lon="15.7395116">
+      <ele>767</ele>
+      <time>2022-01-18T00:09:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

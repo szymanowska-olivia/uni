@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:31Z</time>
+    <bounds maxlat="51.0769275" maxlon="21.0148871" minlat="51.0735034" minlon="21.0126204"/>
+  </metadata>
+  <wpt lat="51.073503" lon="21.01262">
+    <ele>219</ele>
+    <name>Wachock, pomnik Ponurego</name>
+    <link href="https://mapa-turystyczna.pl/node/7343">
+      <text>Wachock, pomnik Ponurego</text>
+    </link>
+  </wpt>
+  <wpt lat="51.076927" lon="21.014705">
+    <ele>213</ele>
+    <name>Wachock</name>
+    <link href="https://mapa-turystyczna.pl/node/3179">
+      <text>Wachock</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wachock, pomnik Ponurego - Wachock</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0735034,21.0126204;51.07511770055926,21.01475564999999;51.0769275,21.0147052">
+    <text>Wachock, pomnik Ponurego - Wachock</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0735034" lon="21.0126204">
+      <ele>219</ele>
+      <time>2022-01-17T23:16:31Z</time>
+    </trkpt>
+    <trkpt lat="51.0738444" lon="21.0126618">
+      <ele>217</ele>
+      <time>2022-01-17T23:17:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0746846" lon="21.0148871">
+      <ele>214</ele>
+      <time>2022-01-17T23:20:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0748902" lon="21.0148388">
+      <ele>214</ele>
+      <time>2022-01-17T23:21:01Z</time>
+    </trkpt>
+    <trkpt lat="51.0753452" lon="21.0146725">
+      <ele>214</ele>
+      <time>2022-01-17T23:21:59Z</time>
+    </trkpt>
+    <trkpt lat="51.0755204" lon="21.0145492">
+      <ele>214</ele>
+      <time>2022-01-17T23:22:23Z</time>
+    </trkpt>
+    <trkpt lat="51.0756249" lon="21.0144472">
+      <ele>214</ele>
+      <time>2022-01-17T23:22:38Z</time>
+    </trkpt>
+    <trkpt lat="51.0762114" lon="21.0135031">
+      <ele>213</ele>
+      <time>2022-01-17T23:24:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0763731" lon="21.0138303">
+      <ele>212</ele>
+      <time>2022-01-17T23:24:54Z</time>
+    </trkpt>
+    <trkpt lat="51.0769275" lon="21.0147052">
+      <ele>213</ele>
+      <time>2022-01-17T23:26:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:45:06Z</time>
+    <bounds maxlat="49.7835778" maxlon="20.9654653" minlat="49.7768762" minlon="20.9627965"/>
+  </metadata>
+  <wpt lat="49.783578" lon="20.965465">
+    <ele>246</ele>
+    <name>Ciezkowice, komisariat</name>
+    <link href="https://mapa-turystyczna.pl/node/3592">
+      <text>Ciezkowice, komisariat</text>
+    </link>
+  </wpt>
+  <wpt lat="49.776876" lon="20.963691">
+    <ele>261</ele>
+    <name>Skamieniale Miasto, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8368">
+      <text>Skamieniale Miasto, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ciezkowice, komisariat - Skamieniale Miasto, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7835778,20.9654653;49.7798179056447,20.96309490000002;49.7768762,20.9636913">
+    <text>Ciezkowice, komisariat - Skamieniale Miasto, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7835778" lon="20.9654653">
+      <ele>246</ele>
+      <time>2022-01-17T23:45:06Z</time>
+    </trkpt>
+    <trkpt lat="49.7811602" lon="20.9637165">
+      <ele>247</ele>
+      <time>2022-01-17T23:50:39Z</time>
+    </trkpt>
+    <trkpt lat="49.7805575" lon="20.9633732">
+      <ele>247</ele>
+      <time>2022-01-17T23:51:59Z</time>
+    </trkpt>
+    <trkpt lat="49.7790783" lon="20.9628166">
+      <ele>248</ele>
+      <time>2022-01-17T23:55:09Z</time>
+    </trkpt>
+    <trkpt lat="49.7785552" lon="20.9627965">
+      <ele>250</ele>
+      <time>2022-01-17T23:56:14Z</time>
+    </trkpt>
+    <trkpt lat="49.778062" lon="20.9628758">
+      <ele>255</ele>
+      <time>2022-01-17T23:57:16Z</time>
+    </trkpt>
+    <trkpt lat="49.7777793" lon="20.9629655">
+      <ele>258</ele>
+      <time>2022-01-17T23:57:52Z</time>
+    </trkpt>
+    <trkpt lat="49.7774641" lon="20.9631103">
+      <ele>259</ele>
+      <time>2022-01-17T23:58:33Z</time>
+    </trkpt>
+    <trkpt lat="49.7769306" lon="20.9634537">
+      <ele>258</ele>
+      <time>2022-01-17T23:59:45Z</time>
+    </trkpt>
+    <trkpt lat="49.7769155" lon="20.9635511">
+      <ele>259</ele>
+      <time>2022-01-17T23:59:54Z</time>
+    </trkpt>
+    <trkpt lat="49.7768762" lon="20.9636913">
+      <ele>261</ele>
+      <time>2022-01-18T00:00:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

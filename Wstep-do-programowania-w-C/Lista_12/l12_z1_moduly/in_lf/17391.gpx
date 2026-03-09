@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:38Z</time>
+    <bounds maxlat="49.659553" maxlon="20.343876" minlat="49.659228" minlon="20.343621"/>
+  </metadata>
+  <wpt lat="49.659228" lon="20.343876">
+    <ele>529</ele>
+    <name>Slopnice Gorne, remiza</name>
+    <link href="https://mapa-turystyczna.pl/node/11821">
+      <text>Slopnice Gorne, remiza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.659553" lon="20.343621">
+    <ele>528</ele>
+    <name>Slopnice Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/11814">
+      <text>Slopnice Gorne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slopnice Gorne, remiza - Slopnice Gorne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.659228,20.343876;49.659349000150435,20.343782999999974;49.659553,20.343621">
+    <text>Slopnice Gorne, remiza - Slopnice Gorne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.659228" lon="20.343876">
+      <ele>529</ele>
+      <time>2022-01-18T01:12:38Z</time>
+    </trkpt>
+    <trkpt lat="49.65947" lon="20.34369">
+      <ele>528</ele>
+      <time>2022-01-18T01:13:22Z</time>
+    </trkpt>
+    <trkpt lat="49.659553" lon="20.343621">
+      <ele>528</ele>
+      <time>2022-01-18T01:13:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

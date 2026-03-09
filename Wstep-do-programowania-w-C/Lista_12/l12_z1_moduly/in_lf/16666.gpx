@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:42Z</time>
+    <bounds maxlat="52.4154165" maxlon="20.889694" minlat="52.4150926" minlon="20.8880954"/>
+  </metadata>
+  <wpt lat="52.415416" lon="20.888095">
+    <ele>76</ele>
+    <name>Chotomow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11381">
+      <text>Chotomow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.415093" lon="20.889694">
+    <ele>75</ele>
+    <name>Chotomow, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11382">
+      <text>Chotomow, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chotomow, ul. Kolejowa - Chotomow, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4154165,20.8880954;52.41525455029737,20.888894699999998;52.4150926,20.889694">
+    <text>Chotomow, ul. Kolejowa - Chotomow, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4154165" lon="20.8880954">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:42Z</time>
+    </trkpt>
+    <trkpt lat="52.4150926" lon="20.889694">
+      <ele>75</ele>
+      <time>2022-01-18T01:02:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

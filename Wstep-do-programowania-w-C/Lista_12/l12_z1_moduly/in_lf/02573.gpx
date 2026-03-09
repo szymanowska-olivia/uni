@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:00Z</time>
+    <bounds maxlat="50.4957531" maxlon="16.3254476" minlat="50.4946679" minlon="16.3243318"/>
+  </metadata>
+  <wpt lat="50.494668" lon="16.325448">
+    <ele>682</ele>
+    <name>Pasterka</name>
+    <link href="https://mapa-turystyczna.pl/node/1850">
+      <text>Pasterka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.495753" lon="16.324332">
+    <ele>682</ele>
+    <name>Pasterka, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1811">
+      <text>Pasterka, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pasterka - Pasterka, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4946679,16.3254476;50.495210503116226,16.32488969999998;50.4957531,16.3243318">
+    <text>Pasterka - Pasterka, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4946679" lon="16.3254476">
+      <ele>682</ele>
+      <time>2022-01-17T21:18:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4957531" lon="16.3243318">
+      <ele>682</ele>
+      <time>2022-01-17T21:20:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

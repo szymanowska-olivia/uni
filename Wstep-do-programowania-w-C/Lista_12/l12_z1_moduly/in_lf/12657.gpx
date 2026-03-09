@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:49Z</time>
+    <bounds maxlat="50.7322968" maxlon="19.3016911" minlat="50.7278716" minlon="19.2900715"/>
+  </metadata>
+  <wpt lat="50.727872" lon="19.301691">
+    <ele>319</ele>
+    <name>Skrzyzowanie przy Jaskini Maurycego</name>
+    <link href="https://mapa-turystyczna.pl/node/4531">
+      <text>Skrzyzowanie przy Jaskini Maurycego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.732297" lon="19.290071">
+    <ele>314</ele>
+    <name>Skrzyzowanie szlakow zielony / zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8687">
+      <text>Skrzyzowanie szlakow zielony / zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Jaskini Maurycego - Skrzyzowanie szlakow zielony / zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7278716,19.3016911;50.729532059855806,19.29752825000002;50.7322968,19.2900715">
+    <text>Skrzyzowanie przy Jaskini Maurycego - Skrzyzowanie szlakow zielony / zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7278716" lon="19.3016911">
+      <ele>319</ele>
+      <time>2022-01-17T23:53:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7285711" lon="19.2998886">
+      <ele>328</ele>
+      <time>2022-01-17T23:56:09Z</time>
+    </trkpt>
+    <trkpt lat="50.730493" lon="19.2951679">
+      <ele>325</ele>
+      <time>2022-01-18T00:02:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7307307" lon="19.2944062">
+      <ele>324</ele>
+      <time>2022-01-18T00:03:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7311585" lon="19.2930114">
+      <ele>315</ele>
+      <time>2022-01-18T00:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7317901" lon="19.2914128">
+      <ele>316</ele>
+      <time>2022-01-18T00:07:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7322968" lon="19.2900715">
+      <ele>314</ele>
+      <time>2022-01-18T00:08:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

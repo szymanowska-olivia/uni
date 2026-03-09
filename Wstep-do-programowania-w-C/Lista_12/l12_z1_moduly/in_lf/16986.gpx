@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:13Z</time>
+    <bounds maxlat="52.3535866" maxlon="20.8748565" minlat="52.352802" minlon="20.8733365"/>
+  </metadata>
+  <wpt lat="52.353587" lon="20.873337">
+    <ele>76</ele>
+    <name>Kielpin, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11614">
+      <text>Kielpin, cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="52.352802" lon="20.874856">
+    <ele>77</ele>
+    <name>Kielpin, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11616">
+      <text>Kielpin, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kielpin, cmentarz - Kielpin, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3535866,20.8733365;52.35319430174101,20.87409649999997;52.352802,20.8748565">
+    <text>Kielpin, cmentarz - Kielpin, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3535866" lon="20.8733365">
+      <ele>76</ele>
+      <time>2022-01-18T01:06:13Z</time>
+    </trkpt>
+    <trkpt lat="52.352802" lon="20.8748565">
+      <ele>77</ele>
+      <time>2022-01-18T01:08:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

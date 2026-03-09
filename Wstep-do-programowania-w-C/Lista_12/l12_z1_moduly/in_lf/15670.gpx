@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:43:15Z</time>
+    <bounds maxlat="49.8856079" maxlon="17.0253603" minlat="49.8839177" minlon="17.0234667"/>
+  </metadata>
+  <wpt lat="49.883918" lon="17.02536">
+    <ele>513</ele>
+    <name>U Cikanskeho buku</name>
+    <link href="https://mapa-turystyczna.pl/node/10702">
+      <text>U Cikanskeho buku</text>
+    </link>
+  </wpt>
+  <wpt lat="49.885608" lon="17.023467">
+    <ele>503</ele>
+    <name>U Cikanskeho buku, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10701">
+      <text>U Cikanskeho buku, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Cikanskeho buku - U Cikanskeho buku, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8839177,17.0253603;49.88480925152453,17.02439854999998;49.8856079,17.0234667">
+    <text>U Cikanskeho buku - U Cikanskeho buku, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8839177" lon="17.0253603">
+      <ele>513</ele>
+      <time>2022-01-18T00:43:15Z</time>
+    </trkpt>
+    <trkpt lat="49.8841509" lon="17.0252362">
+      <ele>512</ele>
+      <time>2022-01-18T00:43:50Z</time>
+    </trkpt>
+    <trkpt lat="49.8844256" lon="17.0249189">
+      <ele>507</ele>
+      <time>2022-01-18T00:44:39Z</time>
+    </trkpt>
+    <trkpt lat="49.8851929" lon="17.0238782">
+      <ele>502</ele>
+      <time>2022-01-18T00:47:05Z</time>
+    </trkpt>
+    <trkpt lat="49.8856079" lon="17.0234667">
+      <ele>503</ele>
+      <time>2022-01-18T00:48:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

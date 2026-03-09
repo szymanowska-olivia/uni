@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:00Z</time>
+    <bounds maxlat="50.3003499" maxlon="18.6762918" minlat="50.2988356" minlon="18.6743277"/>
+  </metadata>
+  <wpt lat="50.30035" lon="18.676292">
+    <ele>221</ele>
+    <name>Gliwice, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9118">
+      <text>Gliwice, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.298836" lon="18.674328">
+    <ele>220</ele>
+    <name>Gliwice, ul. Zwyciestwa</name>
+    <link href="https://mapa-turystyczna.pl/node/9682">
+      <text>Gliwice, ul. Zwyciestwa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, stacja kolejowa - Gliwice, ul. Zwyciestwa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3003499,18.6762918;50.29956620013853,18.675454000000034;50.2988356,18.6743277">
+    <text>Gliwice, stacja kolejowa - Gliwice, ul. Zwyciestwa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3003499" lon="18.6762918">
+      <ele>221</ele>
+      <time>2022-01-18T00:18:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2999174" lon="18.6758027">
+      <ele>220</ele>
+      <time>2022-01-18T00:18:48Z</time>
+    </trkpt>
+    <trkpt lat="50.299681" lon="18.6756847">
+      <ele>221</ele>
+      <time>2022-01-18T00:19:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2994514" lon="18.6752233">
+      <ele>219</ele>
+      <time>2022-01-18T00:19:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2991498" lon="18.6746923">
+      <ele>220</ele>
+      <time>2022-01-18T00:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2988356" lon="18.6743277">
+      <ele>220</ele>
+      <time>2022-01-18T00:21:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

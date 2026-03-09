@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:34Z</time>
+    <bounds maxlat="51.8262377" maxlon="21.4090293" minlat="51.8240006" minlon="21.3926575"/>
+  </metadata>
+  <wpt lat="51.824001" lon="21.393509">
+    <ele>99</ele>
+    <name>Wilga, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/12317">
+      <text>Wilga, pomnik</text>
+    </link>
+  </wpt>
+  <wpt lat="51.826238" lon="21.409029">
+    <ele>107</ele>
+    <name>Osiedle Wilga</name>
+    <link href="https://mapa-turystyczna.pl/node/11895">
+      <text>Osiedle Wilga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilga, pomnik - Osiedle Wilga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8240006,21.3935089;51.82608895006454,21.399933600000008;51.8262377,21.4090293">
+    <text>Wilga, pomnik - Osiedle Wilga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8240006" lon="21.3935089">
+      <ele>99</ele>
+      <time>2022-01-18T01:25:34Z</time>
+    </trkpt>
+    <trkpt lat="51.8242056" lon="21.3933978">
+      <ele>99</ele>
+      <time>2022-01-18T01:25:55Z</time>
+    </trkpt>
+    <trkpt lat="51.8244576" lon="21.3934192">
+      <ele>100</ele>
+      <time>2022-01-18T01:26:21Z</time>
+    </trkpt>
+    <trkpt lat="51.8247494" lon="21.393387">
+      <ele>100</ele>
+      <time>2022-01-18T01:26:50Z</time>
+    </trkpt>
+    <trkpt lat="51.8255716" lon="21.3927219">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:21Z</time>
+    </trkpt>
+    <trkpt lat="51.8257971" lon="21.3926575">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:44Z</time>
+    </trkpt>
+    <trkpt lat="51.8258369" lon="21.3928184">
+      <ele>99</ele>
+      <time>2022-01-18T01:28:55Z</time>
+    </trkpt>
+    <trkpt lat="51.8260193" lon="21.3940596">
+      <ele>107</ele>
+      <time>2022-01-18T01:30:13Z</time>
+    </trkpt>
+    <trkpt lat="51.8260127" lon="21.3977825">
+      <ele>106</ele>
+      <time>2022-01-18T01:34:02Z</time>
+    </trkpt>
+    <trkpt lat="51.8261652" lon="21.4020847">
+      <ele>106</ele>
+      <time>2022-01-18T01:38:27Z</time>
+    </trkpt>
+    <trkpt lat="51.8261321" lon="21.4061295">
+      <ele>106</ele>
+      <time>2022-01-18T01:42:35Z</time>
+    </trkpt>
+    <trkpt lat="51.8262377" lon="21.4090293">
+      <ele>107</ele>
+      <time>2022-01-18T01:45:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

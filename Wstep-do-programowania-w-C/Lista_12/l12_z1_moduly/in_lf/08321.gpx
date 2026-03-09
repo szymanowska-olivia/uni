@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:44Z</time>
+    <bounds maxlat="50.5856448" maxlon="16.334669" minlat="50.5826543" minlon="16.3315845"/>
+  </metadata>
+  <wpt lat="50.585645" lon="16.331585">
+    <ele>416</ele>
+    <name>Broumov, Mirove namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/5782">
+      <text>Broumov, Mirove namesti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.582654" lon="16.334669">
+    <ele>388</ele>
+    <name>Broumov, dolni brana</name>
+    <link href="https://mapa-turystyczna.pl/node/5783">
+      <text>Broumov, dolni brana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Broumov, Mirove namesti - Broumov, dolni brana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5856448,16.3315845;50.58411295045473,16.333294699999968;50.5826543,16.334669">
+    <text>Broumov, Mirove namesti - Broumov, dolni brana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5856448" lon="16.3315845">
+      <ele>416</ele>
+      <time>2022-01-17T22:36:44Z</time>
+    </trkpt>
+    <trkpt lat="50.5854507" lon="16.3317414">
+      <ele>417</ele>
+      <time>2022-01-17T22:37:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5845413" lon="16.3325956">
+      <ele>411</ele>
+      <time>2022-01-17T22:38:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5843199" lon="16.3329403">
+      <ele>407</ele>
+      <time>2022-01-17T22:38:54Z</time>
+    </trkpt>
+    <trkpt lat="50.583906" lon="16.3336491">
+      <ele>403</ele>
+      <time>2022-01-17T22:39:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5836582" lon="16.3341537">
+      <ele>401</ele>
+      <time>2022-01-17T22:40:16Z</time>
+    </trkpt>
+    <trkpt lat="50.583456" lon="16.3343684">
+      <ele>398</ele>
+      <time>2022-01-17T22:40:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5830585" lon="16.334567">
+      <ele>392</ele>
+      <time>2022-01-17T22:41:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5826543" lon="16.334669">
+      <ele>388</ele>
+      <time>2022-01-17T22:41:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

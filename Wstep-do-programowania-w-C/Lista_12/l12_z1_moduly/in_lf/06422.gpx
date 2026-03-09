@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:53Z</time>
+    <bounds maxlat="50.6085717" maxlon="19.5285523" minlat="50.6030496" minlon="19.5179522"/>
+  </metadata>
+  <wpt lat="50.60305" lon="19.528552">
+    <ele>324</ele>
+    <name>Zdow</name>
+    <link href="https://mapa-turystyczna.pl/node/4478">
+      <text>Zdow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.608572" lon="19.517952">
+    <ele>325</ele>
+    <name>Zdow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4481">
+      <text>Zdow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zdow - Zdow, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6030496,19.5285523;50.605789800934815,19.52324709999998;50.6085717,19.5179522">
+    <text>Zdow - Zdow, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6030496" lon="19.5285523">
+      <ele>324</ele>
+      <time>2022-01-17T22:06:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6036324" lon="19.5279172">
+      <ele>323</ele>
+      <time>2022-01-17T22:08:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6039524" lon="19.52737">
+      <ele>322</ele>
+      <time>2022-01-17T22:08:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6043391" lon="19.5265708">
+      <ele>321</ele>
+      <time>2022-01-17T22:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6048029" lon="19.5255295">
+      <ele>323</ele>
+      <time>2022-01-17T22:11:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6054932" lon="19.5238846">
+      <ele>317</ele>
+      <time>2022-01-17T22:13:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6060864" lon="19.5226096">
+      <ele>320</ele>
+      <time>2022-01-17T22:15:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6068236" lon="19.5211025">
+      <ele>318</ele>
+      <time>2022-01-17T22:17:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6074832" lon="19.5198277">
+      <ele>321</ele>
+      <time>2022-01-17T22:19:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6080836" lon="19.51878">
+      <ele>323</ele>
+      <time>2022-01-17T22:20:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6084298" lon="19.5182347">
+      <ele>324</ele>
+      <time>2022-01-17T22:21:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6085717" lon="19.5179522">
+      <ele>325</ele>
+      <time>2022-01-17T22:21:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

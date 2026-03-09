@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:55Z</time>
+    <bounds maxlat="48.9407546" maxlon="19.1037118" minlat="48.9402754" minlon="19.099474"/>
+  </metadata>
+  <wpt lat="48.940755" lon="19.099474">
+    <ele>1261</ele>
+    <name>Chata pod Borisovom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5609">
+      <text>Chata pod Borisovom, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.940275" lon="19.103712">
+    <ele>1264</ele>
+    <name>Salas pod Ploskou, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5617">
+      <text>Salas pod Ploskou, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata pod Borisovom, razc. - Salas pod Ploskou, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9407546,19.099474;48.940624299999996,19.10102025000003;48.9402754,19.1037118">
+    <text>Chata pod Borisovom, razc. - Salas pod Ploskou, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9407546" lon="19.099474">
+      <ele>1261</ele>
+      <time>2022-01-17T22:29:55Z</time>
+    </trkpt>
+    <trkpt lat="48.9406243" lon="19.1000292">
+      <ele>1256</ele>
+      <time>2022-01-17T22:30:36Z</time>
+    </trkpt>
+    <trkpt lat="48.9406243" lon="19.1020113">
+      <ele>1262</ele>
+      <time>2022-01-17T22:32:52Z</time>
+    </trkpt>
+    <trkpt lat="48.9405485" lon="19.1026095">
+      <ele>1265</ele>
+      <time>2022-01-17T22:33:34Z</time>
+    </trkpt>
+    <trkpt lat="48.940419" lon="19.1032304">
+      <ele>1262</ele>
+      <time>2022-01-17T22:34:19Z</time>
+    </trkpt>
+    <trkpt lat="48.9402754" lon="19.1037118">
+      <ele>1264</ele>
+      <time>2022-01-17T22:34:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:42Z</time>
+    <bounds maxlat="51.1728834" maxlon="15.7675695" minlat="51.1658021" minlon="15.7651448"/>
+  </metadata>
+  <wpt lat="51.172883" lon="15.765392">
+    <ele>273</ele>
+    <name>Grodziec, Droga do Zamku</name>
+    <link href="https://mapa-turystyczna.pl/node/3356">
+      <text>Grodziec, Droga do Zamku</text>
+    </link>
+  </wpt>
+  <wpt lat="51.165802" lon="15.767183">
+    <ele>248</ele>
+    <name>Grodziec</name>
+    <link href="https://mapa-turystyczna.pl/node/3309">
+      <text>Grodziec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodziec, Droga do Zamku - Grodziec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1728834,15.7653918;51.16931717153484,15.76653960000001;51.1658021,15.7671833">
+    <text>Grodziec, Droga do Zamku - Grodziec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1728834" lon="15.7653918">
+      <ele>273</ele>
+      <time>2022-01-17T21:46:42Z</time>
+    </trkpt>
+    <trkpt lat="51.1727467" lon="15.7653245">
+      <ele>273</ele>
+      <time>2022-01-17T21:46:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1724461" lon="15.7651931">
+      <ele>270</ele>
+      <time>2022-01-17T21:47:19Z</time>
+    </trkpt>
+    <trkpt lat="51.172235" lon="15.7651448">
+      <ele>269</ele>
+      <time>2022-01-17T21:47:37Z</time>
+    </trkpt>
+    <trkpt lat="51.1718533" lon="15.7652843">
+      <ele>267</ele>
+      <time>2022-01-17T21:48:09Z</time>
+    </trkpt>
+    <trkpt lat="51.1707265" lon="15.7658315">
+      <ele>264</ele>
+      <time>2022-01-17T21:49:45Z</time>
+    </trkpt>
+    <trkpt lat="51.1679078" lon="15.7672477">
+      <ele>251</ele>
+      <time>2022-01-17T21:53:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1672199" lon="15.7675695">
+      <ele>251</ele>
+      <time>2022-01-17T21:54:44Z</time>
+    </trkpt>
+    <trkpt lat="51.1670837" lon="15.7674837">
+      <ele>251</ele>
+      <time>2022-01-17T21:54:56Z</time>
+    </trkpt>
+    <trkpt lat="51.1658021" lon="15.7671833">
+      <ele>248</ele>
+      <time>2022-01-17T21:56:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

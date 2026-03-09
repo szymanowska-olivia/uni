@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:45Z</time>
+    <bounds maxlat="50.3598416" maxlon="18.6451158" minlat="50.359474" minlon="18.6417913"/>
+  </metadata>
+  <wpt lat="50.359842" lon="18.645116">
+    <ele>250</ele>
+    <name>Czechowice, ul. Rekreacyjna</name>
+    <link href="https://mapa-turystyczna.pl/node/9594">
+      <text>Czechowice, ul. Rekreacyjna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.359474" lon="18.641791">
+    <ele>247</ele>
+    <name>Czechowice, petla</name>
+    <link href="https://mapa-turystyczna.pl/node/10275">
+      <text>Czechowice, petla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czechowice, ul. Rekreacyjna - Czechowice, petla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3598416,18.6451158;50.35965780035586,18.64345354999999;50.359474,18.6417913">
+    <text>Czechowice, ul. Rekreacyjna - Czechowice, petla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3598416" lon="18.6451158">
+      <ele>250</ele>
+      <time>2022-01-18T00:32:45Z</time>
+    </trkpt>
+    <trkpt lat="50.359474" lon="18.6417913">
+      <ele>247</ele>
+      <time>2022-01-18T00:37:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

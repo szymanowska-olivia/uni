@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:09Z</time>
+    <bounds maxlat="50.7849443" maxlon="16.3039202" minlat="50.7843657" minlon="16.3014565"/>
+  </metadata>
+  <wpt lat="50.784366" lon="16.30392">
+    <ele>585</ele>
+    <name>Pod Lisim Kamieniem</name>
+    <link href="https://mapa-turystyczna.pl/node/2555">
+      <text>Pod Lisim Kamieniem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.784877" lon="16.301457">
+    <ele>560</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7216">
+      <text>Skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Lisim Kamieniem - Skrzyzowanie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7843657,16.3039202;50.78485275008964,16.30271849999998;50.784877,16.3014565">
+    <text>Pod Lisim Kamieniem - Skrzyzowanie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7843657" lon="16.3039202">
+      <ele>585</ele>
+      <time>2022-01-17T23:13:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7844763" lon="16.3037431">
+      <ele>585</ele>
+      <time>2022-01-17T23:13:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7845482" lon="16.3032389">
+      <ele>584</ele>
+      <time>2022-01-17T23:13:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7846187" lon="16.3030028">
+      <ele>581</ele>
+      <time>2022-01-17T23:14:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7847612" lon="16.3028419">
+      <ele>582</ele>
+      <time>2022-01-17T23:14:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7849443" lon="16.3025951">
+      <ele>581</ele>
+      <time>2022-01-17T23:14:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7849375" lon="16.302327">
+      <ele>577</ele>
+      <time>2022-01-17T23:15:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7848493" lon="16.3018656">
+      <ele>567</ele>
+      <time>2022-01-17T23:15:43Z</time>
+    </trkpt>
+    <trkpt lat="50.784877" lon="16.3014565">
+      <ele>560</ele>
+      <time>2022-01-17T23:16:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

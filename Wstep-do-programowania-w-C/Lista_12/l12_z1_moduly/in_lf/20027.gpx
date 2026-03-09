@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:07Z</time>
+    <bounds maxlat="49.7511128" maxlon="20.8494812" minlat="49.7505367" minlon="20.849239"/>
+  </metadata>
+  <wpt lat="49.751113" lon="20.849299">
+    <ele>479</ele>
+    <name>Skala Diabel</name>
+    <link href="https://mapa-turystyczna.pl/node/13500">
+      <text>Skala Diabel</text>
+    </link>
+  </wpt>
+  <wpt lat="49.750537" lon="20.849239">
+    <ele>488</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13501">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skala Diabel - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7511128,20.8492992;49.75079605014956,20.84946104999999;49.7505367,20.849239">
+    <text>Skala Diabel - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7511128" lon="20.8492992">
+      <ele>479</ele>
+      <time>2022-01-18T01:59:07Z</time>
+    </trkpt>
+    <trkpt lat="49.7509165" lon="20.8494409">
+      <ele>483</ele>
+      <time>2022-01-18T01:59:46Z</time>
+    </trkpt>
+    <trkpt lat="49.7506756" lon="20.8494812">
+      <ele>485</ele>
+      <time>2022-01-18T02:00:29Z</time>
+    </trkpt>
+    <trkpt lat="49.7505379" lon="20.8492537">
+      <ele>488</ele>
+      <time>2022-01-18T02:01:05Z</time>
+    </trkpt>
+    <trkpt lat="49.7505367" lon="20.849239">
+      <ele>488</ele>
+      <time>2022-01-18T02:01:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

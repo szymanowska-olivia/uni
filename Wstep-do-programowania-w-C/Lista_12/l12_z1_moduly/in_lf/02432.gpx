@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:18Z</time>
+    <bounds maxlat="50.1270577" maxlon="16.8449807" minlat="50.1208533" minlon="16.840142"/>
+  </metadata>
+  <wpt lat="50.127058" lon="16.844981">
+    <ele>736</ele>
+    <name>Sklene</name>
+    <link href="https://mapa-turystyczna.pl/node/1764">
+      <text>Sklene</text>
+    </link>
+  </wpt>
+  <wpt lat="50.120853" lon="16.840689">
+    <ele>689</ele>
+    <name>Sklene, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/1765">
+      <text>Sklene, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sklene - Sklene, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1270577,16.8449807;50.123566000688875,16.842674999999996;50.1208533,16.8406892">
+    <text>Sklene - Sklene, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1270577" lon="16.8449807">
+      <ele>736</ele>
+      <time>2022-01-17T21:16:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1261945" lon="16.8447125">
+      <ele>732</ele>
+      <time>2022-01-17T21:17:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1245471" lon="16.8436289">
+      <ele>716</ele>
+      <time>2022-01-17T21:19:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1238228" lon="16.8431018">
+      <ele>711</ele>
+      <time>2022-01-17T21:21:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1233092" lon="16.8422482">
+      <ele>704</ele>
+      <time>2022-01-17T21:22:07Z</time>
+    </trkpt>
+    <trkpt lat="50.1225756" lon="16.8415448">
+      <ele>701</ele>
+      <time>2022-01-17T21:23:18Z</time>
+    </trkpt>
+    <trkpt lat="50.121677" lon="16.8402976">
+      <ele>695</ele>
+      <time>2022-01-17T21:24:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1212006" lon="16.840142">
+      <ele>692</ele>
+      <time>2022-01-17T21:25:37Z</time>
+    </trkpt>
+    <trkpt lat="50.1208533" lon="16.8406892">
+      <ele>689</ele>
+      <time>2022-01-17T21:26:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

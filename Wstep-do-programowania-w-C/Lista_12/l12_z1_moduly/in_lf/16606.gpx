@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:35Z</time>
+    <bounds maxlat="49.578857" maxlon="20.092308" minlat="49.577765" minlon="20.090293"/>
+  </metadata>
+  <wpt lat="49.578857" lon="20.090293">
+    <ele>685</ele>
+    <name>Oberowka, odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11334">
+      <text>Oberowka, odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.577765" lon="20.092308">
+    <ele>697</ele>
+    <name>Potok Turbacz, odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/10990">
+      <text>Potok Turbacz, odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oberowka, odejscie sciezki edukacyjnej - Potok Turbacz, odejscie sciezki edukacyjnej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.578857,20.090293;49.57852550077769,20.09095950000001;49.577765,20.092308">
+    <text>Oberowka, odejscie sciezki edukacyjnej - Potok Turbacz, odejscie sciezki edukacyjnej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.578857" lon="20.090293">
+      <ele>685</ele>
+      <time>2022-01-18T00:59:35Z</time>
+    </trkpt>
+    <trkpt lat="49.578801" lon="20.090446">
+      <ele>688</ele>
+      <time>2022-01-18T00:59:55Z</time>
+    </trkpt>
+    <trkpt lat="49.57825" lon="20.091473">
+      <ele>696</ele>
+      <time>2022-01-18T01:02:27Z</time>
+    </trkpt>
+    <trkpt lat="49.577962" lon="20.091921">
+      <ele>698</ele>
+      <time>2022-01-18T01:03:39Z</time>
+    </trkpt>
+    <trkpt lat="49.577765" lon="20.092308">
+      <ele>697</ele>
+      <time>2022-01-18T01:04:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

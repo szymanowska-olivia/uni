@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:34Z</time>
+    <bounds maxlat="50.855248" maxlon="15.1620558" minlat="50.8549948" minlon="15.1614052"/>
+  </metadata>
+  <wpt lat="50.855248" lon="15.161405">
+    <ele>599</ele>
+    <name>Maly Stolpich, u vdp.</name>
+    <link href="https://mapa-turystyczna.pl/node/8801">
+      <text>Maly Stolpich, u vdp.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.854995" lon="15.162056">
+    <ele>593</ele>
+    <name>Maly Stolpich, vodopad</name>
+    <link href="https://mapa-turystyczna.pl/node/13132">
+      <text>Maly Stolpich, vodopad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maly Stolpich, u vdp. - Maly Stolpich, vodopad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.855248,15.1614052;50.85505470003846,15.161844900000006;50.8549948,15.1620558">
+    <text>Maly Stolpich, u vdp. - Maly Stolpich, vodopad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.855248" lon="15.1614052">
+      <ele>599</ele>
+      <time>2022-01-18T01:48:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8551146" lon="15.161634">
+      <ele>595</ele>
+      <time>2022-01-18T01:48:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8549948" lon="15.1620558">
+      <ele>593</ele>
+      <time>2022-01-18T01:49:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

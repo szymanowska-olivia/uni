@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:22Z</time>
+    <bounds maxlat="52.4654102" maxlon="20.8721021" minlat="52.4646861" minlon="20.8630301"/>
+  </metadata>
+  <wpt lat="52.464686" lon="20.86303">
+    <ele>76</ele>
+    <name>Laki Klucowskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11365">
+      <text>Laki Klucowskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.46541" lon="20.872102">
+    <ele>76</ele>
+    <name>Kaluszyn, ul. Reja</name>
+    <link href="https://mapa-turystyczna.pl/node/11368">
+      <text>Kaluszyn, ul. Reja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Laki Klucowskie - Kaluszyn, ul. Reja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4646861,20.8630301;52.46508340007581,20.867488800000007;52.4654102,20.8721021">
+    <text>Laki Klucowskie - Kaluszyn, ul. Reja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4646861" lon="20.8630301">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:22Z</time>
+    </trkpt>
+    <trkpt lat="52.4650017" lon="20.8666144">
+      <ele>73</ele>
+      <time>2022-01-18T01:04:19Z</time>
+    </trkpt>
+    <trkpt lat="52.4651651" lon="20.8683632">
+      <ele>71</ele>
+      <time>2022-01-18T01:06:15Z</time>
+    </trkpt>
+    <trkpt lat="52.4653243" lon="20.8703549">
+      <ele>67</ele>
+      <time>2022-01-18T01:08:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4652982" lon="20.8711595">
+      <ele>70</ele>
+      <time>2022-01-18T01:09:19Z</time>
+    </trkpt>
+    <trkpt lat="52.4653603" lon="20.8717979">
+      <ele>74</ele>
+      <time>2022-01-18T01:10:01Z</time>
+    </trkpt>
+    <trkpt lat="52.4653864" lon="20.8719856">
+      <ele>75</ele>
+      <time>2022-01-18T01:10:14Z</time>
+    </trkpt>
+    <trkpt lat="52.4654102" lon="20.8721021">
+      <ele>76</ele>
+      <time>2022-01-18T01:10:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

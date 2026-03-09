@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:53Z</time>
+    <bounds maxlat="50.8489314" maxlon="16.2809183" minlat="50.8484302" minlon="16.2792544"/>
+  </metadata>
+  <wpt lat="50.848931" lon="16.280918">
+    <ele>325</ele>
+    <name>Staw Polesnicki II</name>
+    <link href="https://mapa-turystyczna.pl/node/11882">
+      <text>Staw Polesnicki II</text>
+    </link>
+  </wpt>
+  <wpt lat="50.84843" lon="16.279254">
+    <ele>357</ele>
+    <name>Pod Zwierzyncem</name>
+    <link href="https://mapa-turystyczna.pl/node/11889">
+      <text>Pod Zwierzyncem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Staw Polesnicki II - Pod Zwierzyncem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8489314,16.2809183;50.84869465007077,16.28004769999997;50.8484302,16.2792544">
+    <text>Staw Polesnicki II - Pod Zwierzyncem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8489314" lon="16.2809183">
+      <ele>325</ele>
+      <time>2022-01-18T01:14:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8487759" lon="16.280273">
+      <ele>336</ele>
+      <time>2022-01-18T01:16:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8486134" lon="16.2798224">
+      <ele>345</ele>
+      <time>2022-01-18T01:18:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8484302" lon="16.2792544">
+      <ele>357</ele>
+      <time>2022-01-18T01:19:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

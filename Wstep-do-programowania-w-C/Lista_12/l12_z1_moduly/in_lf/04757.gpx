@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:05Z</time>
+    <bounds maxlat="51.0544048" maxlon="15.9680808" minlat="51.0496535" minlon="15.9653556"/>
+  </metadata>
+  <wpt lat="51.049653" lon="15.965356">
+    <ele>309</ele>
+    <name>Kondratow</name>
+    <link href="https://mapa-turystyczna.pl/node/3320">
+      <text>Kondratow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.054405" lon="15.968081">
+    <ele>362</ele>
+    <name>Kondratow, Ziebniak</name>
+    <link href="https://mapa-turystyczna.pl/node/3321">
+      <text>Kondratow, Ziebniak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kondratow - Kondratow, Ziebniak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0496535,15.9653556;51.051553700681275,15.967827249999988;51.0544048,15.9680808">
+    <text>Kondratow - Kondratow, Ziebniak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0496535" lon="15.9653556">
+      <ele>309</ele>
+      <time>2022-01-17T21:46:05Z</time>
+    </trkpt>
+    <trkpt lat="51.0499932" lon="15.9658653">
+      <ele>317</ele>
+      <time>2022-01-17T21:47:20Z</time>
+    </trkpt>
+    <trkpt lat="51.0504409" lon="15.9672117">
+      <ele>324</ele>
+      <time>2022-01-17T21:49:54Z</time>
+    </trkpt>
+    <trkpt lat="51.0506529" lon="15.9676151">
+      <ele>326</ele>
+      <time>2022-01-17T21:50:47Z</time>
+    </trkpt>
+    <trkpt lat="51.0508439" lon="15.9677803">
+      <ele>329</ele>
+      <time>2022-01-17T21:51:22Z</time>
+    </trkpt>
+    <trkpt lat="51.0513025" lon="15.9678822">
+      <ele>332</ele>
+      <time>2022-01-17T21:52:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0518049" lon="15.9677723">
+      <ele>338</ele>
+      <time>2022-01-17T21:53:57Z</time>
+    </trkpt>
+    <trkpt lat="51.0524406" lon="15.9675779">
+      <ele>349</ele>
+      <time>2022-01-17T21:55:42Z</time>
+    </trkpt>
+    <trkpt lat="51.0528381" lon="15.9674756">
+      <ele>352</ele>
+      <time>2022-01-17T21:56:47Z</time>
+    </trkpt>
+    <trkpt lat="51.0532314" lon="15.967598">
+      <ele>356</ele>
+      <time>2022-01-17T21:57:51Z</time>
+    </trkpt>
+    <trkpt lat="51.0536946" lon="15.9678297">
+      <ele>358</ele>
+      <time>2022-01-17T21:59:09Z</time>
+    </trkpt>
+    <trkpt lat="51.0544048" lon="15.9680808">
+      <ele>362</ele>
+      <time>2022-01-17T22:01:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

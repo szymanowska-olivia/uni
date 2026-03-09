@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:01Z</time>
+    <bounds maxlat="50.2169745" maxlon="18.5685964" minlat="50.2150442" minlon="18.565945"/>
+  </metadata>
+  <wpt lat="50.215044" lon="18.565945">
+    <ele>232</ele>
+    <name>Pilchowice, szpital</name>
+    <link href="https://mapa-turystyczna.pl/node/9638">
+      <text>Pilchowice, szpital</text>
+    </link>
+  </wpt>
+  <wpt lat="50.216974" lon="18.568596">
+    <ele>230</ele>
+    <name>Pilchowice, ul. Gliwicka</name>
+    <link href="https://mapa-turystyczna.pl/node/10761">
+      <text>Pilchowice, ul. Gliwicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pilchowice, szpital - Pilchowice, ul. Gliwicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2150442,18.565945;50.21593125824626,18.567084099999978;50.2169745,18.5685964">
+    <text>Pilchowice, szpital - Pilchowice, ul. Gliwicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2150442" lon="18.565945">
+      <ele>232</ele>
+      <time>2022-01-18T00:45:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2168183" lon="18.5682232">
+      <ele>230</ele>
+      <time>2022-01-18T00:49:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2169213" lon="18.5684485">
+      <ele>230</ele>
+      <time>2022-01-18T00:49:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2169745" lon="18.5685964">
+      <ele>230</ele>
+      <time>2022-01-18T00:50:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

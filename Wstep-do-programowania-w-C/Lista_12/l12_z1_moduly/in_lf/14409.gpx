@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:51Z</time>
+    <bounds maxlat="49.889644" maxlon="21.5378873" minlat="49.8889487" minlon="21.5351879"/>
+  </metadata>
+  <wpt lat="49.888949" lon="21.537887">
+    <ele>534</ele>
+    <name>Bardo</name>
+    <link href="https://mapa-turystyczna.pl/node/9839">
+      <text>Bardo</text>
+    </link>
+  </wpt>
+  <wpt lat="49.889644" lon="21.535188">
+    <ele>521</ele>
+    <name>Pod Bardem</name>
+    <link href="https://mapa-turystyczna.pl/node/3733">
+      <text>Pod Bardem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bardo - Pod Bardem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8889487,21.5378873;49.88927120020159,21.536925349999983;49.889644,21.5351879">
+    <text>Bardo - Pod Bardem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8889487" lon="21.5378873">
+      <ele>534</ele>
+      <time>2022-01-18T00:21:51Z</time>
+    </trkpt>
+    <trkpt lat="49.8891317" lon="21.5373994">
+      <ele>537</ele>
+      <time>2022-01-18T00:22:26Z</time>
+    </trkpt>
+    <trkpt lat="49.8894107" lon="21.5364513">
+      <ele>526</ele>
+      <time>2022-01-18T00:23:30Z</time>
+    </trkpt>
+    <trkpt lat="49.889644" lon="21.5351879">
+      <ele>521</ele>
+      <time>2022-01-18T00:24:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

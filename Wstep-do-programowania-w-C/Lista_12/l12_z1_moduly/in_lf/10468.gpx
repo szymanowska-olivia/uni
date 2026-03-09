@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:32Z</time>
+    <bounds maxlat="51.0518447" maxlon="21.0638916" minlat="51.0507225" minlon="21.0612202"/>
+  </metadata>
+  <wpt lat="51.050722" lon="21.06122">
+    <ele>210</ele>
+    <name>Starachowice</name>
+    <link href="https://mapa-turystyczna.pl/node/3178">
+      <text>Starachowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.051608" lon="21.063828">
+    <ele>218</ele>
+    <name>Starachowice, park miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/7344">
+      <text>Starachowice, park miejski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starachowice - Starachowice, park miejski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0507225,21.0612202;51.051467050567894,21.06262564999998;51.0516081,21.0638284">
+    <text>Starachowice - Starachowice, park miejski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0507225" lon="21.0612202">
+      <ele>210</ele>
+      <time>2022-01-17T23:16:32Z</time>
+    </trkpt>
+    <trkpt lat="51.0512377" lon="21.0620034">
+      <ele>212</ele>
+      <time>2022-01-17T23:18:06Z</time>
+    </trkpt>
+    <trkpt lat="51.0516964" lon="21.0632479">
+      <ele>216</ele>
+      <time>2022-01-17T23:20:06Z</time>
+    </trkpt>
+    <trkpt lat="51.0518178" lon="21.0635483">
+      <ele>218</ele>
+      <time>2022-01-17T23:20:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0518447" lon="21.06372">
+      <ele>219</ele>
+      <time>2022-01-17T23:20:50Z</time>
+    </trkpt>
+    <trkpt lat="51.051784" lon="21.0638916">
+      <ele>219</ele>
+      <time>2022-01-17T23:21:06Z</time>
+    </trkpt>
+    <trkpt lat="51.0516154" lon="21.0638058">
+      <ele>218</ele>
+      <time>2022-01-17T23:21:30Z</time>
+    </trkpt>
+    <trkpt lat="51.0516081" lon="21.0638284">
+      <ele>218</ele>
+      <time>2022-01-17T23:21:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:58:56Z</time>
+    <bounds maxlat="49.1916628" maxlon="22.5870373" minlat="49.1903096" minlon="22.5839957"/>
+  </metadata>
+  <wpt lat="49.19031" lon="22.587037">
+    <ele>961</ele>
+    <name>Dwernik Kamien, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11313">
+      <text>Dwernik Kamien, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.191663" lon="22.583996">
+    <ele>1004</ele>
+    <name>Dwernik Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/11315">
+      <text>Dwernik Kamien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dwernik Kamien, rozejscie szlakow - Dwernik Kamien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1903096,22.5870373;49.190831450083984,22.58532770000001;49.1916628,22.5839957">
+    <text>Dwernik Kamien, rozejscie szlakow - Dwernik Kamien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1903096" lon="22.5870373">
+      <ele>961</ele>
+      <time>2022-01-18T00:58:56Z</time>
+    </trkpt>
+    <trkpt lat="49.1907403" lon="22.585612">
+      <ele>984</ele>
+      <time>2022-01-18T01:03:07Z</time>
+    </trkpt>
+    <trkpt lat="49.1909226" lon="22.5850434">
+      <ele>993</ele>
+      <time>2022-01-18T01:04:48Z</time>
+    </trkpt>
+    <trkpt lat="49.1910698" lon="22.5847">
+      <ele>997</ele>
+      <time>2022-01-18T01:05:52Z</time>
+    </trkpt>
+    <trkpt lat="49.191168" lon="22.584464">
+      <ele>999</ele>
+      <time>2022-01-18T01:06:36Z</time>
+    </trkpt>
+    <trkpt lat="49.1916628" lon="22.5839957">
+      <ele>1004</ele>
+      <time>2022-01-18T01:08:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

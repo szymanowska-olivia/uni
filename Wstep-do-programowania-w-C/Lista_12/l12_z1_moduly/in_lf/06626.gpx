@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:11Z</time>
+    <bounds maxlat="49.753107" maxlon="19.038247" minlat="49.751677" minlon="19.035208"/>
+  </metadata>
+  <wpt lat="49.753106" lon="19.038247">
+    <ele>689</ele>
+    <name>Bystra Krakowska</name>
+    <link href="https://mapa-turystyczna.pl/node/727">
+      <text>Bystra Krakowska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.751677" lon="19.035208">
+    <ele>751</ele>
+    <name>Lanckorona</name>
+    <link href="https://mapa-turystyczna.pl/node/4600">
+      <text>Lanckorona</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystra Krakowska - Lanckorona</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.753106,19.038247;49.75254100004357,19.03635000000003;49.751677,19.035208">
+    <text>Bystra Krakowska - Lanckorona</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.753106" lon="19.038247">
+      <ele>689</ele>
+      <time>2022-01-17T22:10:11Z</time>
+    </trkpt>
+    <trkpt lat="49.753107" lon="19.037952">
+      <ele>692</ele>
+      <time>2022-01-17T22:10:56Z</time>
+    </trkpt>
+    <trkpt lat="49.753095" lon="19.037831">
+      <ele>694</ele>
+      <time>2022-01-17T22:11:14Z</time>
+    </trkpt>
+    <trkpt lat="49.753023" lon="19.03765">
+      <ele>697</ele>
+      <time>2022-01-17T22:11:47Z</time>
+    </trkpt>
+    <trkpt lat="49.752906" lon="19.037426">
+      <ele>701</ele>
+      <time>2022-01-17T22:12:31Z</time>
+    </trkpt>
+    <trkpt lat="49.752779" lon="19.037011">
+      <ele>707</ele>
+      <time>2022-01-17T22:13:40Z</time>
+    </trkpt>
+    <trkpt lat="49.752705" lon="19.036769">
+      <ele>710</ele>
+      <time>2022-01-17T22:14:21Z</time>
+    </trkpt>
+    <trkpt lat="49.752606" lon="19.036498">
+      <ele>716</ele>
+      <time>2022-01-17T22:15:09Z</time>
+    </trkpt>
+    <trkpt lat="49.752476" lon="19.036202">
+      <ele>722</ele>
+      <time>2022-01-17T22:16:04Z</time>
+    </trkpt>
+    <trkpt lat="49.752211" lon="19.035852">
+      <ele>729</ele>
+      <time>2022-01-17T22:17:26Z</time>
+    </trkpt>
+    <trkpt lat="49.751933" lon="19.035425">
+      <ele>741</ele>
+      <time>2022-01-17T22:19:00Z</time>
+    </trkpt>
+    <trkpt lat="49.751821" lon="19.035326">
+      <ele>745</ele>
+      <time>2022-01-17T22:19:31Z</time>
+    </trkpt>
+    <trkpt lat="49.751753" lon="19.035285">
+      <ele>747</ele>
+      <time>2022-01-17T22:19:49Z</time>
+    </trkpt>
+    <trkpt lat="49.751677" lon="19.035208">
+      <ele>751</ele>
+      <time>2022-01-17T22:20:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

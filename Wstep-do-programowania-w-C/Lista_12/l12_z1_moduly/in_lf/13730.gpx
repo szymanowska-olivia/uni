@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:46Z</time>
+    <bounds maxlat="50.1582311" maxlon="19.0587136" minlat="50.155289" minlon="19.0583818"/>
+  </metadata>
+  <wpt lat="50.158231" lon="19.058382">
+    <ele>262</ele>
+    <name>Lesny Krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9444">
+      <text>Lesny Krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.155289" lon="19.058714">
+    <ele>254</ele>
+    <name>Hamerla</name>
+    <link href="https://mapa-turystyczna.pl/node/9432">
+      <text>Hamerla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesny Krzyz - Hamerla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1582311,19.0583818;50.157177861601596,19.058397700000004;50.155289,19.0587136">
+    <text>Lesny Krzyz - Hamerla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1582311" lon="19.0583818">
+      <ele>262</ele>
+      <time>2022-01-18T00:11:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1561246" lon="19.0584136">
+      <ele>255</ele>
+      <time>2022-01-18T00:15:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1556846" lon="19.0584994">
+      <ele>254</ele>
+      <time>2022-01-18T00:16:04Z</time>
+    </trkpt>
+    <trkpt lat="50.155289" lon="19.0587136">
+      <ele>254</ele>
+      <time>2022-01-18T00:16:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

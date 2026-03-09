@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:26Z</time>
+    <bounds maxlat="49.385866" maxlon="20.86485" minlat="49.385142" minlon="20.863492"/>
+  </metadata>
+  <wpt lat="49.385142" lon="20.86485">
+    <ele>558</ele>
+    <name>Szczawnik</name>
+    <link href="https://mapa-turystyczna.pl/node/169">
+      <text>Szczawnik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.385866" lon="20.863492">
+    <ele>556</ele>
+    <name>Szczawnik, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2457">
+      <text>Szczawnik, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczawnik - Szczawnik, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.385142,20.86485;49.38545250035017,20.86427699999997;49.385866,20.863492">
+    <text>Szczawnik - Szczawnik, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.385142" lon="20.86485">
+      <ele>558</ele>
+      <time>2022-01-17T21:30:26Z</time>
+    </trkpt>
+    <trkpt lat="49.385267" lon="20.864626">
+      <ele>557</ele>
+      <time>2022-01-17T21:30:46Z</time>
+    </trkpt>
+    <trkpt lat="49.385638" lon="20.863928">
+      <ele>556</ele>
+      <time>2022-01-17T21:31:48Z</time>
+    </trkpt>
+    <trkpt lat="49.385708" lon="20.863781">
+      <ele>556</ele>
+      <time>2022-01-17T21:32:00Z</time>
+    </trkpt>
+    <trkpt lat="49.38579" lon="20.863603">
+      <ele>556</ele>
+      <time>2022-01-17T21:32:15Z</time>
+    </trkpt>
+    <trkpt lat="49.385866" lon="20.863492">
+      <ele>556</ele>
+      <time>2022-01-17T21:32:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:00Z</time>
+    <bounds maxlat="50.5776315" maxlon="16.4992445" minlat="50.577441" minlon="16.4967906"/>
+  </metadata>
+  <wpt lat="50.577632" lon="16.496791">
+    <ele>421</ele>
+    <name>Nowa Ruda, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3673">
+      <text>Nowa Ruda, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.577507" lon="16.499244">
+    <ele>417</ele>
+    <name>Nowa Ruda, odejscie szlaku czarnego przy stacji kolejowej</name>
+    <link href="https://mapa-turystyczna.pl/node/4109">
+      <text>Nowa Ruda, odejscie szlaku czarnego przy stacji kolejowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Ruda, stacja kolejowa - Nowa Ruda, odejscie szlaku czarnego przy stacji kolejowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5776315,16.4967906;50.577536250096315,16.4976589;50.5775073,16.4992445">
+    <text>Nowa Ruda, stacja kolejowa - Nowa Ruda, odejscie szlaku czarnego przy stacji kolejowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5776315" lon="16.4967906">
+      <ele>421</ele>
+      <time>2022-01-17T22:04:00Z</time>
+    </trkpt>
+    <trkpt lat="50.577441" lon="16.4985272">
+      <ele>418</ele>
+      <time>2022-01-17T22:06:07Z</time>
+    </trkpt>
+    <trkpt lat="50.5774571" lon="16.498859">
+      <ele>417</ele>
+      <time>2022-01-17T22:06:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5775073" lon="16.4992445">
+      <ele>417</ele>
+      <time>2022-01-17T22:07:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

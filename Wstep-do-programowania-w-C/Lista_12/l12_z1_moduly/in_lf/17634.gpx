@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:53Z</time>
+    <bounds maxlat="52.1244404" maxlon="20.7616199" minlat="52.1212365" minlon="20.760391"/>
+  </metadata>
+  <wpt lat="52.121237" lon="20.760391">
+    <ele>106</ele>
+    <name>Karolin</name>
+    <link href="https://mapa-turystyczna.pl/node/11963">
+      <text>Karolin</text>
+    </link>
+  </wpt>
+  <wpt lat="52.12444" lon="20.76162">
+    <ele>98</ele>
+    <name>Otrebusy</name>
+    <link href="https://mapa-turystyczna.pl/node/11965">
+      <text>Otrebusy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karolin - Otrebusy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1212365,20.760391;52.12352415941882,20.76128719999998;52.1244404,20.7616199">
+    <text>Karolin - Otrebusy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1212365" lon="20.760391">
+      <ele>106</ele>
+      <time>2022-01-18T01:16:53Z</time>
+    </trkpt>
+    <trkpt lat="52.1226079" lon="20.7609545">
+      <ele>105</ele>
+      <time>2022-01-18T01:19:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1244404" lon="20.7616199">
+      <ele>98</ele>
+      <time>2022-01-18T01:21:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

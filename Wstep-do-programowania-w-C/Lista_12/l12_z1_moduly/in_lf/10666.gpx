@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:15Z</time>
+    <bounds maxlat="49.5964028" maxlon="18.6701971" minlat="49.5963066" minlon="18.6693764"/>
+  </metadata>
+  <wpt lat="49.596401" lon="18.669376">
+    <ele>748</ele>
+    <name>Pod Ostrym, sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7449">
+      <text>Pod Ostrym, sedlo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.596307" lon="18.670197">
+    <ele>735</ele>
+    <name>Pod Ostrym, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/7448">
+      <text>Pod Ostrym, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ostrym, sedlo, rozc. - Pod Ostrym, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5964005,18.6693764;49.59639675000039,18.669770649999975;49.5963066,18.6701971">
+    <text>Pod Ostrym, sedlo, rozc. - Pod Ostrym, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5964005" lon="18.6693764">
+      <ele>748</ele>
+      <time>2022-01-17T23:20:15Z</time>
+    </trkpt>
+    <trkpt lat="49.5964028" lon="18.6696607">
+      <ele>744</ele>
+      <time>2022-01-17T23:20:35Z</time>
+    </trkpt>
+    <trkpt lat="49.5963907" lon="18.6698806">
+      <ele>740</ele>
+      <time>2022-01-17T23:20:50Z</time>
+    </trkpt>
+    <trkpt lat="49.5963698" lon="18.6700523">
+      <ele>738</ele>
+      <time>2022-01-17T23:21:03Z</time>
+    </trkpt>
+    <trkpt lat="49.5963066" lon="18.6701971">
+      <ele>735</ele>
+      <time>2022-01-17T23:21:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

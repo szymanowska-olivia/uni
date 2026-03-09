@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:26Z</time>
+    <bounds maxlat="50.6169287" maxlon="16.1228335" minlat="50.6156557" minlon="16.1218572"/>
+  </metadata>
+  <wpt lat="50.616929" lon="16.121857">
+    <ele>511</ele>
+    <name>Adrspach</name>
+    <link href="https://mapa-turystyczna.pl/node/6048">
+      <text>Adrspach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.615656" lon="16.122769">
+    <ele>512</ele>
+    <name>Adrspasske skaly, vstup</name>
+    <link href="https://mapa-turystyczna.pl/node/6047">
+      <text>Adrspasske skaly, vstup</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Adrspach - Adrspasske skaly, vstup</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6169287,16.1218572;50.61644195020199,16.1226243;50.6156557,16.1227691">
+    <text>Adrspach - Adrspasske skaly, vstup</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6169287" lon="16.1218572">
+      <ele>511</ele>
+      <time>2022-01-17T22:43:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6165798" lon="16.1228335">
+      <ele>510</ele>
+      <time>2022-01-17T22:44:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6163041" lon="16.1224151">
+      <ele>509</ele>
+      <time>2022-01-17T22:45:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6159773" lon="16.1223936">
+      <ele>511</ele>
+      <time>2022-01-17T22:45:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6158003" lon="16.1224741">
+      <ele>512</ele>
+      <time>2022-01-17T22:46:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6156846" lon="16.1226457">
+      <ele>512</ele>
+      <time>2022-01-17T22:46:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6156557" lon="16.1227691">
+      <ele>512</ele>
+      <time>2022-01-17T22:46:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

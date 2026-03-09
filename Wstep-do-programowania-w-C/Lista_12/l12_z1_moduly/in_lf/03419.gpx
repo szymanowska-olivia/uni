@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:35Z</time>
+    <bounds maxlat="50.655093" maxlon="15.9121084" minlat="50.6547345" minlon="15.9082291"/>
+  </metadata>
+  <wpt lat="50.655093" lon="15.908229">
+    <ele>618</ele>
+    <name>Zacler, stred</name>
+    <link href="https://mapa-turystyczna.pl/node/1440">
+      <text>Zacler, stred</text>
+    </link>
+  </wpt>
+  <wpt lat="50.654753" lon="15.912108">
+    <ele>611</ele>
+    <name>Zacler, Na piliri</name>
+    <link href="https://mapa-turystyczna.pl/node/2431">
+      <text>Zacler, Na piliri</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zacler, stred - Zacler, Na piliri</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.655093,15.9082291;50.65481870004054,15.910158800000023;50.6547527,15.9121084">
+    <text>Zacler, stred - Zacler, Na piliri</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.655093" lon="15.9082291">
+      <ele>618</ele>
+      <time>2022-01-17T21:29:35Z</time>
+    </trkpt>
+    <trkpt lat="50.654951" lon="15.9088905">
+      <ele>612</ele>
+      <time>2022-01-17T21:30:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6548804" lon="15.9094392">
+      <ele>610</ele>
+      <time>2022-01-17T21:31:11Z</time>
+    </trkpt>
+    <trkpt lat="50.654757" lon="15.9108784">
+      <ele>606</ele>
+      <time>2022-01-17T21:33:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6547345" lon="15.9115471">
+      <ele>609</ele>
+      <time>2022-01-17T21:33:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6547527" lon="15.9121084">
+      <ele>611</ele>
+      <time>2022-01-17T21:34:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

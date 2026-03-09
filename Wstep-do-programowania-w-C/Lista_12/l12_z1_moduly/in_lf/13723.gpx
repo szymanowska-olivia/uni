@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:40Z</time>
+    <bounds maxlat="50.2924093" maxlon="18.9802583" minlat="50.2919359" minlon="18.9784971"/>
+  </metadata>
+  <wpt lat="50.292409" lon="18.978497">
+    <ele>279</ele>
+    <name>Park Slaski, ul. Wycieczkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9442">
+      <text>Park Slaski, ul. Wycieczkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291936" lon="18.980258">
+    <ele>281</ele>
+    <name>Ogrod Bylinowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9439">
+      <text>Ogrod Bylinowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Park Slaski, ul. Wycieczkowa - Ogrod Bylinowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2924093,18.9784971;50.29199015000051,18.979154300000012;50.2919359,18.9802583">
+    <text>Park Slaski, ul. Wycieczkowa - Ogrod Bylinowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2924093" lon="18.9784971">
+      <ele>279</ele>
+      <time>2022-01-18T00:11:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2922335" lon="18.9786608">
+      <ele>279</ele>
+      <time>2022-01-18T00:12:07Z</time>
+    </trkpt>
+    <trkpt lat="50.292045" lon="18.9787627">
+      <ele>279</ele>
+      <time>2022-01-18T00:12:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2920382" lon="18.9789397">
+      <ele>280</ele>
+      <time>2022-01-18T00:12:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2919833" lon="18.979106">
+      <ele>280</ele>
+      <time>2022-01-18T00:13:03Z</time>
+    </trkpt>
+    <trkpt lat="50.291997" lon="18.9792026">
+      <ele>280</ele>
+      <time>2022-01-18T00:13:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2920107" lon="18.9794493">
+      <ele>280</ele>
+      <time>2022-01-18T00:13:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2919902" lon="18.9798034">
+      <ele>281</ele>
+      <time>2022-01-18T00:14:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2919359" lon="18.9802583">
+      <ele>281</ele>
+      <time>2022-01-18T00:14:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

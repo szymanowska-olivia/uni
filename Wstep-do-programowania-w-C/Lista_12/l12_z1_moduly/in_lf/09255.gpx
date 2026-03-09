@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:57Z</time>
+    <bounds maxlat="50.1542048" maxlon="17.1085507" minlat="50.1531084" minlon="17.1070218"/>
+  </metadata>
+  <wpt lat="50.154205" lon="17.107022">
+    <ele>1358</ele>
+    <name>U Vozky</name>
+    <link href="https://mapa-turystyczna.pl/node/6450">
+      <text>U Vozky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.153108" lon="17.108551">
+    <ele>1363</ele>
+    <name>Skaly Vozka</name>
+    <link href="https://mapa-turystyczna.pl/node/6451">
+      <text>Skaly Vozka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Vozky - Skaly Vozka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1542048,17.1070218;50.15365490016919,17.107695049999997;50.1531084,17.1085507">
+    <text>U Vozky - Skaly Vozka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1542048" lon="17.1070218">
+      <ele>1358</ele>
+      <time>2022-01-17T22:53:57Z</time>
+    </trkpt>
+    <trkpt lat="50.1537821" lon="17.10751">
+      <ele>1362</ele>
+      <time>2022-01-17T22:55:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1535277" lon="17.1078801">
+      <ele>1363</ele>
+      <time>2022-01-17T22:55:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1533009" lon="17.10832">
+      <ele>1365</ele>
+      <time>2022-01-17T22:56:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1531084" lon="17.1085507">
+      <ele>1363</ele>
+      <time>2022-01-17T22:56:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

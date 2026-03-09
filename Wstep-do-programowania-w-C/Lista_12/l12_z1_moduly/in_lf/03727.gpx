@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:39Z</time>
+    <bounds maxlat="50.7750548" maxlon="16.2118399" minlat="50.7726191" minlon="16.2036914"/>
+  </metadata>
+  <wpt lat="50.774851" lon="16.203691">
+    <ele>776</ele>
+    <name>Chelmiec Maly</name>
+    <link href="https://mapa-turystyczna.pl/node/2569">
+      <text>Chelmiec Maly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.772619" lon="16.21184">
+    <ele>719</ele>
+    <name>Rosochatka</name>
+    <link href="https://mapa-turystyczna.pl/node/2605">
+      <text>Rosochatka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmiec Maly - Rosochatka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7748513,16.2036914;50.77481865005488,16.208535400000002;50.7726191,16.2118399">
+    <text>Chelmiec Maly - Rosochatka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7748513" lon="16.2036914">
+      <ele>776</ele>
+      <time>2022-01-17T21:33:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7748479" lon="16.2049922">
+      <ele>766</ele>
+      <time>2022-01-17T21:34:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7750548" lon="16.2061107">
+      <ele>767</ele>
+      <time>2022-01-17T21:36:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7750413" lon="16.2069368">
+      <ele>764</ele>
+      <time>2022-01-17T21:37:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7750548" lon="16.2076234">
+      <ele>766</ele>
+      <time>2022-01-17T21:37:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7748903" lon="16.2083101">
+      <ele>763</ele>
+      <time>2022-01-17T21:38:26Z</time>
+    </trkpt>
+    <trkpt lat="50.774747" lon="16.2087607">
+      <ele>762</ele>
+      <time>2022-01-17T21:38:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7745087" lon="16.2091255">
+      <ele>759</ele>
+      <time>2022-01-17T21:39:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7730686" lon="16.2114966">
+      <ele>726</ele>
+      <time>2022-01-17T21:42:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7726191" lon="16.2118399">
+      <ele>719</ele>
+      <time>2022-01-17T21:43:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

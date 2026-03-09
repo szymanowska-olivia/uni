@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:36Z</time>
+    <bounds maxlat="50.767387" maxlon="15.1428049" minlat="50.7648692" minlon="15.140129"/>
+  </metadata>
+  <wpt lat="50.767387" lon="15.142805">
+    <ele>669</ele>
+    <name>Harcovsky les</name>
+    <link href="https://mapa-turystyczna.pl/node/8844">
+      <text>Harcovsky les</text>
+    </link>
+  </wpt>
+  <wpt lat="50.764869" lon="15.140129">
+    <ele>662</ele>
+    <name>U buku</name>
+    <link href="https://mapa-turystyczna.pl/node/8847">
+      <text>U buku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Harcovsky les - U buku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.767387,15.1428049;50.766120350372326,15.141084300000012;50.7648692,15.140129">
+    <text>Harcovsky les - U buku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.767387" lon="15.1428049">
+      <ele>669</ele>
+      <time>2022-01-17T23:57:36Z</time>
+    </trkpt>
+    <trkpt lat="50.766307" lon="15.1412801">
+      <ele>665</ele>
+      <time>2022-01-17T23:59:54Z</time>
+    </trkpt>
+    <trkpt lat="50.7659337" lon="15.1408885">
+      <ele>664</ele>
+      <time>2022-01-18T00:00:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7658659" lon="15.1407598">
+      <ele>662</ele>
+      <time>2022-01-18T00:00:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7657302" lon="15.1404272">
+      <ele>659</ele>
+      <time>2022-01-18T00:01:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7655843" lon="15.1402931">
+      <ele>659</ele>
+      <time>2022-01-18T00:01:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7654757" lon="15.1402287">
+      <ele>660</ele>
+      <time>2022-01-18T00:01:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7652144" lon="15.1401536">
+      <ele>661</ele>
+      <time>2022-01-18T00:02:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7648692" lon="15.140129">
+      <ele>662</ele>
+      <time>2022-01-18T00:02:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

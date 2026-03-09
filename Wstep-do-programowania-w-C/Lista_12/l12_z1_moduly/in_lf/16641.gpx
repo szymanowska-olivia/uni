@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:13Z</time>
+    <bounds maxlat="52.4266305" maxlon="20.7785085" minlat="52.4245599" minlon="20.7783154"/>
+  </metadata>
+  <wpt lat="52.42456" lon="20.778509">
+    <ele>73</ele>
+    <name>Janowek, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11361">
+      <text>Janowek, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.426631" lon="20.778315">
+    <ele>72</ele>
+    <name>Janowek, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11362">
+      <text>Janowek, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janowek, stacja kolejowa - Janowek, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4245599,20.7785085;52.425595212157155,20.77841195000002;52.4266305,20.7783154">
+    <text>Janowek, stacja kolejowa - Janowek, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4245599" lon="20.7785085">
+      <ele>73</ele>
+      <time>2022-01-18T01:00:13Z</time>
+    </trkpt>
+    <trkpt lat="52.4266305" lon="20.7783154">
+      <ele>72</ele>
+      <time>2022-01-18T01:03:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

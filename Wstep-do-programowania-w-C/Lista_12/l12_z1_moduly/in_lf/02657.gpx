@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:58Z</time>
+    <bounds maxlat="50.1855273" maxlon="16.3906467" minlat="50.1845346" minlon="16.3805401"/>
+  </metadata>
+  <wpt lat="50.185527" lon="16.38054">
+    <ele>524</ele>
+    <name>Bela</name>
+    <link href="https://mapa-turystyczna.pl/node/1946">
+      <text>Bela</text>
+    </link>
+  </wpt>
+  <wpt lat="50.185019" lon="16.390647">
+    <ele>558</ele>
+    <name>Zadni Ochoz</name>
+    <link href="https://mapa-turystyczna.pl/node/1947">
+      <text>Zadni Ochoz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bela - Zadni Ochoz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1855273,16.3805401;50.18508545006609,16.385813999999993;50.1850189,16.3906467">
+    <text>Bela - Zadni Ochoz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1855273" lon="16.3805401">
+      <ele>524</ele>
+      <time>2022-01-17T21:18:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1851529" lon="16.3838929">
+      <ele>541</ele>
+      <time>2022-01-17T21:23:50Z</time>
+    </trkpt>
+    <trkpt lat="50.1851649" lon="16.3853654">
+      <ele>545</ele>
+      <time>2022-01-17T21:25:56Z</time>
+    </trkpt>
+    <trkpt lat="50.185006" lon="16.3862626">
+      <ele>548</ele>
+      <time>2022-01-17T21:27:16Z</time>
+    </trkpt>
+    <trkpt lat="50.184593" lon="16.3878572">
+      <ele>552</ele>
+      <time>2022-01-17T21:29:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1845346" lon="16.3884044">
+      <ele>554</ele>
+      <time>2022-01-17T21:30:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1845973" lon="16.3892251">
+      <ele>556</ele>
+      <time>2022-01-17T21:31:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1847424" lon="16.3900459">
+      <ele>557</ele>
+      <time>2022-01-17T21:32:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1850189" lon="16.3906467">
+      <ele>558</ele>
+      <time>2022-01-17T21:33:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

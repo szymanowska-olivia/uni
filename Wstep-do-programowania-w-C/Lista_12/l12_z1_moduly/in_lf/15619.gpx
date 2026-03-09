@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:16Z</time>
+    <bounds maxlat="49.9624138" maxlon="17.1040993" minlat="49.9606124" minlon="17.1021466"/>
+  </metadata>
+  <wpt lat="49.960612" lon="17.104099">
+    <ele>884</ele>
+    <name>Nad rijistem</name>
+    <link href="https://mapa-turystyczna.pl/node/10658">
+      <text>Nad rijistem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.962414" lon="17.102147">
+    <ele>938</ele>
+    <name>Kamenec, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10657">
+      <text>Kamenec, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad rijistem - Kamenec, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9606124,17.1040993;49.96175460451315,17.102890699999964;49.9624138,17.1021466">
+    <text>Nad rijistem - Kamenec, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9606124" lon="17.1040993">
+      <ele>884</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+    <trkpt lat="49.9610954" lon="17.1036348">
+      <ele>900</ele>
+      <time>2022-01-18T00:44:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9624138" lon="17.1021466">
+      <ele>938</ele>
+      <time>2022-01-18T00:52:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

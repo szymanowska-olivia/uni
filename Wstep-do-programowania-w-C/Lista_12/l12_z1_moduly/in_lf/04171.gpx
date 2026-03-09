@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:38:56Z</time>
+    <bounds maxlat="50.6129631" maxlon="16.0246646" minlat="50.6083845" minlon="16.0158187"/>
+  </metadata>
+  <wpt lat="50.608384" lon="16.015819">
+    <ele>452</ele>
+    <name>Okrzeszyn, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2912">
+      <text>Okrzeszyn, granica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.612963" lon="16.024665">
+    <ele>456</ele>
+    <name>Okrzeszyn</name>
+    <link href="https://mapa-turystyczna.pl/node/2913">
+      <text>Okrzeszyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okrzeszyn, granica - Okrzeszyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6083845,16.0158187;50.61142790108834,16.020049899999965;50.6129631,16.0246646">
+    <text>Okrzeszyn, granica - Okrzeszyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6083845" lon="16.0158187">
+      <ele>452</ele>
+      <time>2022-01-17T21:38:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6092849" lon="16.0166851">
+      <ele>455</ele>
+      <time>2022-01-17T21:41:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6095547" lon="16.0170217">
+      <ele>454</ele>
+      <time>2022-01-17T21:41:43Z</time>
+    </trkpt>
+    <trkpt lat="50.609896" lon="16.0180932">
+      <ele>454</ele>
+      <time>2022-01-17T21:43:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6101173" lon="16.0185653">
+      <ele>456</ele>
+      <time>2022-01-17T21:43:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6111079" lon="16.0196999">
+      <ele>454</ele>
+      <time>2022-01-17T21:46:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6117479" lon="16.0203999">
+      <ele>455</ele>
+      <time>2022-01-17T21:47:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6120151" lon="16.0208371">
+      <ele>455</ele>
+      <time>2022-01-17T21:48:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6123734" lon="16.0216351">
+      <ele>459</ele>
+      <time>2022-01-17T21:49:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6127125" lon="16.0232196">
+      <ele>454</ele>
+      <time>2022-01-17T21:52:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6129631" lon="16.0246646">
+      <ele>456</ele>
+      <time>2022-01-17T21:53:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:24Z</time>
+    <bounds maxlat="52.0504381" maxlon="21.0785069" minlat="52.0496596" minlon="21.0775681"/>
+  </metadata>
+  <wpt lat="52.050438" lon="21.078507">
+    <ele>117</ele>
+    <name>Rezerwat Chojnow</name>
+    <link href="https://mapa-turystyczna.pl/node/11916">
+      <text>Rezerwat Chojnow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.04966" lon="21.077568">
+    <ele>118</ele>
+    <name>Rozejscie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11917">
+      <text>Rozejscie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Chojnow - Rozejscie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0504381,21.0785069;52.05004885169542,21.078037500000022;52.0496596,21.0775681">
+    <text>Rezerwat Chojnow - Rozejscie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0504381" lon="21.0785069">
+      <ele>117</ele>
+      <time>2022-01-18T01:15:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0496596" lon="21.0775681">
+      <ele>118</ele>
+      <time>2022-01-18T01:17:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

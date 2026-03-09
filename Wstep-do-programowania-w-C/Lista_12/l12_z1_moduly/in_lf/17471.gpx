@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:54Z</time>
+    <bounds maxlat="52.2588647" maxlon="16.7673991" minlat="52.2583858" minlon="16.7664346"/>
+  </metadata>
+  <wpt lat="52.258865" lon="16.766435">
+    <ele>79</ele>
+    <name>Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11860">
+      <text>Gorka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.258386" lon="16.767399">
+    <ele>78</ele>
+    <name>Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11859">
+      <text>Gorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorka - Gorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2588647,16.7664346;52.258625250646425,16.766916850000005;52.2583858,16.7673991">
+    <text>Gorka - Gorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2588647" lon="16.7664346">
+      <ele>79</ele>
+      <time>2022-01-18T01:13:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2583858" lon="16.7673991">
+      <ele>78</ele>
+      <time>2022-01-18T01:14:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

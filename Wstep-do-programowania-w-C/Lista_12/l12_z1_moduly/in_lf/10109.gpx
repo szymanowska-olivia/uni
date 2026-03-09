@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:24Z</time>
+    <bounds maxlat="50.1208533" maxlon="17.3829246" minlat="50.1175615" minlon="17.3800063"/>
+  </metadata>
+  <wpt lat="50.117562" lon="17.380006">
+    <ele>567</ele>
+    <name>Vrbno pod Pradedem, namesti</name>
+    <link href="https://mapa-turystyczna.pl/node/7114">
+      <text>Vrbno pod Pradedem, namesti</text>
+    </link>
+  </wpt>
+  <wpt lat="50.120853" lon="17.382925">
+    <ele>529</ele>
+    <name>Vrbno pod Pradedem</name>
+    <link href="https://mapa-turystyczna.pl/node/6799">
+      <text>Vrbno pod Pradedem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrbno pod Pradedem, namesti - Vrbno pod Pradedem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1175615,17.3800063;50.11922290060559,17.381848950000016;50.1208533,17.3829246">
+    <text>Vrbno pod Pradedem, namesti - Vrbno pod Pradedem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1175615" lon="17.3800063">
+      <ele>567</ele>
+      <time>2022-01-17T23:10:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1182392" lon="17.3802799">
+      <ele>561</ele>
+      <time>2022-01-17T23:11:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1184077" lon="17.3804623">
+      <ele>559</ele>
+      <time>2022-01-17T23:11:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1189821" lon="17.3815244">
+      <ele>547</ele>
+      <time>2022-01-17T23:12:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1194637" lon="17.3821735">
+      <ele>541</ele>
+      <time>2022-01-17T23:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1203098" lon="17.3828495">
+      <ele>530</ele>
+      <time>2022-01-17T23:14:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1206366" lon="17.3829192">
+      <ele>529</ele>
+      <time>2022-01-17T23:15:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1208533" lon="17.3829246">
+      <ele>529</ele>
+      <time>2022-01-17T23:15:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:10:10Z</time>
+    <bounds maxlat="50.3491535" maxlon="19.0906053" minlat="50.3485832" minlon="19.0905192"/>
+  </metadata>
+  <wpt lat="50.349153" lon="19.090605">
+    <ele>309</ele>
+    <name>Grodziec</name>
+    <link href="https://mapa-turystyczna.pl/node/9389">
+      <text>Grodziec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.348583" lon="19.090519">
+    <ele>307</ele>
+    <name>Grodziec, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9383">
+      <text>Grodziec, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodziec - Grodziec, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3491535,19.0906053;50.348887900033624,19.09058844999997;50.3485832,19.0905192">
+    <text>Grodziec - Grodziec, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3491535" lon="19.0906053">
+      <ele>309</ele>
+      <time>2022-01-18T00:10:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3489444" lon="19.0905777">
+      <ele>308</ele>
+      <time>2022-01-18T00:10:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3488314" lon="19.0905992">
+      <ele>308</ele>
+      <time>2022-01-18T00:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3487424" lon="19.0905402">
+      <ele>307</ele>
+      <time>2022-01-18T00:10:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3485832" lon="19.0905192">
+      <ele>307</ele>
+      <time>2022-01-18T00:11:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

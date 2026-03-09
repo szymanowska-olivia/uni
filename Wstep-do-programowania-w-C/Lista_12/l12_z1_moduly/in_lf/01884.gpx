@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:07:38Z</time>
+    <bounds maxlat="50.6675761" maxlon="15.7407099" minlat="50.6670874" minlon="15.7349593"/>
+  </metadata>
+  <wpt lat="50.667576" lon="15.74071">
+    <ele>1108</ele>
+    <name>Sedlo Pod Kolinskou boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1363">
+      <text>Sedlo Pod Kolinskou boudou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.667087" lon="15.734959">
+    <ele>1102</ele>
+    <name>Nad Stribnim potokem</name>
+    <link href="https://mapa-turystyczna.pl/node/1241">
+      <text>Nad Stribnim potokem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Pod Kolinskou boudou - Nad Stribnim potokem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6675761,15.7407099;50.66734335057693,15.739212549999992;50.6670874,15.7349593">
+    <text>Sedlo Pod Kolinskou boudou - Nad Stribnim potokem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6675761" lon="15.7407099">
+      <ele>1108</ele>
+      <time>2022-01-17T21:07:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6671106" lon="15.7377152">
+      <ele>1113</ele>
+      <time>2022-01-17T21:10:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6671003" lon="15.7371399">
+      <ele>1109</ele>
+      <time>2022-01-17T21:10:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6671544" lon="15.7359248">
+      <ele>1105</ele>
+      <time>2022-01-17T21:11:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6671734" lon="15.7353897">
+      <ele>1103</ele>
+      <time>2022-01-17T21:12:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6671447" lon="15.7350531">
+      <ele>1102</ele>
+      <time>2022-01-17T21:12:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6670874" lon="15.7349593">
+      <ele>1102</ele>
+      <time>2022-01-17T21:12:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

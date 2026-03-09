@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:28Z</time>
+    <bounds maxlat="52.2864652" maxlon="20.4521968" minlat="52.2848689" minlon="20.4470945"/>
+  </metadata>
+  <wpt lat="52.286465" lon="20.447094">
+    <ele>72</ele>
+    <name>Granica, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12417">
+      <text>Granica, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.284869" lon="20.452197">
+    <ele>74</ele>
+    <name>Rozejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12440">
+      <text>Rozejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Granica, parking - Rozejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2864652,20.4470945;52.28532035229996,20.450679049999987;52.2848689,20.4521968">
+    <text>Granica, parking - Rozejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2864652" lon="20.4470945">
+      <ele>72</ele>
+      <time>2022-01-18T01:29:28Z</time>
+    </trkpt>
+    <trkpt lat="52.2862437" lon="20.4479913">
+      <ele>74</ele>
+      <time>2022-01-18T01:30:18Z</time>
+    </trkpt>
+    <trkpt lat="52.2861292" lon="20.4480021">
+      <ele>73</ele>
+      <time>2022-01-18T01:30:27Z</time>
+    </trkpt>
+    <trkpt lat="52.2857718" lon="20.4491613">
+      <ele>73</ele>
+      <time>2022-01-18T01:31:34Z</time>
+    </trkpt>
+    <trkpt lat="52.2848689" lon="20.4521968">
+      <ele>74</ele>
+      <time>2022-01-18T01:34:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

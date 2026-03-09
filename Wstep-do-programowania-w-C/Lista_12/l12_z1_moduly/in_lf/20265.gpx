@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:31Z</time>
+    <bounds maxlat="50.683154" maxlon="16.543601" minlat="50.681653" minlon="16.543445"/>
+  </metadata>
+  <wpt lat="50.683154" lon="16.543601">
+    <ele>401</ele>
+    <name>Kamionki Dolne</name>
+    <link href="https://mapa-turystyczna.pl/node/2041">
+      <text>Kamionki Dolne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.681653" lon="16.543485">
+    <ele>408</ele>
+    <name>Kamionki, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/13629">
+      <text>Kamionki, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamionki Dolne - Kamionki, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.683154,16.543601;50.68237100004365,16.543464499999967;50.681653,16.543485">
+    <text>Kamionki Dolne - Kamionki, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.683154" lon="16.543601">
+      <ele>401</ele>
+      <time>2022-01-18T02:03:31Z</time>
+    </trkpt>
+    <trkpt lat="50.682922" lon="16.543521">
+      <ele>402</ele>
+      <time>2022-01-18T02:03:59Z</time>
+    </trkpt>
+    <trkpt lat="50.682766" lon="16.543467">
+      <ele>402</ele>
+      <time>2022-01-18T02:04:18Z</time>
+    </trkpt>
+    <trkpt lat="50.682594" lon="16.543445">
+      <ele>403</ele>
+      <time>2022-01-18T02:04:39Z</time>
+    </trkpt>
+    <trkpt lat="50.682435" lon="16.543456">
+      <ele>404</ele>
+      <time>2022-01-18T02:04:58Z</time>
+    </trkpt>
+    <trkpt lat="50.682307" lon="16.543473">
+      <ele>404</ele>
+      <time>2022-01-18T02:05:13Z</time>
+    </trkpt>
+    <trkpt lat="50.682065" lon="16.543511">
+      <ele>406</ele>
+      <time>2022-01-18T02:05:42Z</time>
+    </trkpt>
+    <trkpt lat="50.68193" lon="16.543509">
+      <ele>406</ele>
+      <time>2022-01-18T02:05:58Z</time>
+    </trkpt>
+    <trkpt lat="50.68175" lon="16.543497">
+      <ele>407</ele>
+      <time>2022-01-18T02:06:19Z</time>
+    </trkpt>
+    <trkpt lat="50.681653" lon="16.543485">
+      <ele>408</ele>
+      <time>2022-01-18T02:06:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

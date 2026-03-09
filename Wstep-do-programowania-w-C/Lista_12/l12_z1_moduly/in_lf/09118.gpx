@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:19Z</time>
+    <bounds maxlat="50.2020632" maxlon="17.4039853" minlat="50.2011533" minlon="17.4037224"/>
+  </metadata>
+  <wpt lat="50.201153" lon="17.403722">
+    <ele>715</ele>
+    <name>Hermanovice, hreben, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6347">
+      <text>Hermanovice, hreben, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.202063" lon="17.403985">
+    <ele>719</ele>
+    <name>Hermanovice, hreben</name>
+    <link href="https://mapa-turystyczna.pl/node/6345">
+      <text>Hermanovice, hreben</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hermanovice, hreben, rozc. - Hermanovice, hreben</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2011533,17.4037224;50.20165635034033,17.403738499999974;50.2020632,17.4039853">
+    <text>Hermanovice, hreben, rozc. - Hermanovice, hreben</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2011533" lon="17.4037224">
+      <ele>715</ele>
+      <time>2022-01-17T22:51:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2014761" lon="17.4037224">
+      <ele>715</ele>
+      <time>2022-01-17T22:51:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2018366" lon="17.4037546">
+      <ele>718</ele>
+      <time>2022-01-17T22:52:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2019534" lon="17.403819">
+      <ele>719</ele>
+      <time>2022-01-17T22:53:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2020632" lon="17.4039853">
+      <ele>719</ele>
+      <time>2022-01-17T22:53:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

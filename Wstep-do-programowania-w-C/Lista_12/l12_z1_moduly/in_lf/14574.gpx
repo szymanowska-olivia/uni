@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:24:45Z</time>
+    <bounds maxlat="50.2983553" maxlon="19.3903804" minlat="50.2978344" minlon="19.3893247"/>
+  </metadata>
+  <wpt lat="50.297858" lon="19.39038">
+    <ele>309</ele>
+    <name>Slawkow, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9935">
+      <text>Slawkow, ul. Zamkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.298315" lon="19.389325">
+    <ele>312</ele>
+    <name>Slawkow</name>
+    <link href="https://mapa-turystyczna.pl/node/9545">
+      <text>Slawkow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slawkow, ul. Zamkowa - Slawkow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2978576,19.3903804;50.29818050032116,19.389749099999992;50.2983146,19.3893247">
+    <text>Slawkow, ul. Zamkowa - Slawkow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2978576" lon="19.3903804">
+      <ele>309</ele>
+      <time>2022-01-18T00:24:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2978344" lon="19.3902183">
+      <ele>310</ele>
+      <time>2022-01-18T00:24:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2980057" lon="19.3900037">
+      <ele>311</ele>
+      <time>2022-01-18T00:25:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2983553" lon="19.3894945">
+      <ele>312</ele>
+      <time>2022-01-18T00:26:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2983146" lon="19.3893247">
+      <ele>312</ele>
+      <time>2022-01-18T00:26:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

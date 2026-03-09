@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:05Z</time>
+    <bounds maxlat="49.9346732" maxlon="21.0135949" minlat="49.9340784" minlon="21.0070074"/>
+  </metadata>
+  <wpt lat="49.934673" lon="21.007007">
+    <ele>362</ele>
+    <name>Buchcickie</name>
+    <link href="https://mapa-turystyczna.pl/node/3645">
+      <text>Buchcickie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.934649" lon="21.013595">
+    <ele>361</ele>
+    <name>Buchcickie, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/3644">
+      <text>Buchcickie, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Buchcickie - Buchcickie, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9346732,21.0070074;49.93417640009966,21.009714350000017;49.934649,21.0135949">
+    <text>Buchcickie - Buchcickie, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9346732" lon="21.0070074">
+      <ele>362</ele>
+      <time>2022-01-17T21:52:05Z</time>
+    </trkpt>
+    <trkpt lat="49.9342744" lon="21.00885">
+      <ele>357</ele>
+      <time>2022-01-17T21:54:55Z</time>
+    </trkpt>
+    <trkpt lat="49.9340784" lon="21.0105787">
+      <ele>360</ele>
+      <time>2022-01-17T21:57:28Z</time>
+    </trkpt>
+    <trkpt lat="49.9341047" lon="21.0113358">
+      <ele>360</ele>
+      <time>2022-01-17T21:58:34Z</time>
+    </trkpt>
+    <trkpt lat="49.9342629" lon="21.0121864">
+      <ele>362</ele>
+      <time>2022-01-17T21:59:51Z</time>
+    </trkpt>
+    <trkpt lat="49.934649" lon="21.0135949">
+      <ele>361</ele>
+      <time>2022-01-17T22:02:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

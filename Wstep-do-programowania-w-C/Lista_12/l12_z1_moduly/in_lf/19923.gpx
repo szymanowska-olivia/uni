@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:23Z</time>
+    <bounds maxlat="51.3480539" maxlon="17.6254673" minlat="51.3466435" minlon="17.6212094"/>
+  </metadata>
+  <wpt lat="51.34796" lon="17.6252">
+    <ele>199</ele>
+    <name>Dojscie do cmentarza</name>
+    <link href="https://mapa-turystyczna.pl/node/13447">
+      <text>Dojscie do cmentarza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.348054" lon="17.621209">
+    <ele>204</ele>
+    <name>Dojscie do grodziska</name>
+    <link href="https://mapa-turystyczna.pl/node/13449">
+      <text>Dojscie do grodziska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dojscie do cmentarza - Dojscie do grodziska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3479601,17.6252005;51.34734870542618,17.62333835;51.3480539,17.6212094">
+    <text>Dojscie do cmentarza - Dojscie do grodziska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3479601" lon="17.6252005">
+      <ele>199</ele>
+      <time>2022-01-18T01:57:23Z</time>
+    </trkpt>
+    <trkpt lat="51.3466435" lon="17.6254673">
+      <ele>199</ele>
+      <time>2022-01-18T02:00:27Z</time>
+    </trkpt>
+    <trkpt lat="51.3480539" lon="17.6212094">
+      <ele>204</ele>
+      <time>2022-01-18T02:07:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

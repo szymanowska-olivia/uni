@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:51Z</time>
+    <bounds maxlat="49.852788" maxlon="19.7132248" minlat="49.8525367" minlon="19.7123587"/>
+  </metadata>
+  <wpt lat="49.852788" lon="19.712359">
+    <ele>415</ele>
+    <name>Lanckorona, Za Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/1700">
+      <text>Lanckorona, Za Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.852537" lon="19.713225">
+    <ele>424</ele>
+    <name>Lanckorona, Za Gora, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3934">
+      <text>Lanckorona, Za Gora, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lanckorona, Za Gora - Lanckorona, Za Gora, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.852788,19.7123587;49.85264045004707,19.712823449999988;49.8525367,19.7132248">
+    <text>Lanckorona, Za Gora - Lanckorona, Za Gora, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.852788" lon="19.7123587">
+      <ele>415</ele>
+      <time>2022-01-17T21:58:51Z</time>
+    </trkpt>
+    <trkpt lat="49.8527079" lon="19.7126357">
+      <ele>418</ele>
+      <time>2022-01-17T21:59:29Z</time>
+    </trkpt>
+    <trkpt lat="49.852573" lon="19.7130112">
+      <ele>423</ele>
+      <time>2022-01-17T22:00:23Z</time>
+    </trkpt>
+    <trkpt lat="49.8525367" lon="19.7132248">
+      <ele>424</ele>
+      <time>2022-01-17T22:00:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

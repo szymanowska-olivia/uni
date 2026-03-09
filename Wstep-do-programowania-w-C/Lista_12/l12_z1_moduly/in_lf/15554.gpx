@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:06Z</time>
+    <bounds maxlat="50.4392184" maxlon="16.4633835" minlat="50.438781" minlon="16.462816"/>
+  </metadata>
+  <wpt lat="50.438781" lon="16.462816">
+    <ele>587</ele>
+    <name>Brzytwa</name>
+    <link href="https://mapa-turystyczna.pl/node/4035">
+      <text>Brzytwa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.439218" lon="16.463383">
+    <ele>591</ele>
+    <name>Brzytwa, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10605">
+      <text>Brzytwa, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzytwa - Brzytwa, odejscie na punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.438781,16.462816;50.43899970050524,16.463099749999998;50.4392184,16.4633835">
+    <text>Brzytwa - Brzytwa, odejscie na punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.438781" lon="16.462816">
+      <ele>587</ele>
+      <time>2022-01-18T00:41:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4392184" lon="16.4633835">
+      <ele>591</ele>
+      <time>2022-01-18T00:42:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

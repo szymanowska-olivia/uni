@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:58Z</time>
+    <bounds maxlat="49.4248191" maxlon="21.6566025" minlat="49.4235423" minlon="21.6560805"/>
+  </metadata>
+  <wpt lat="49.424819" lon="21.656081">
+    <ele>555</ele>
+    <name>Porubske sedlo, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/510">
+      <text>Porubske sedlo, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.423542" lon="21.656148">
+    <ele>541</ele>
+    <name>Porubske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6828">
+      <text>Porubske sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Porubske sedlo, razc. - Porubske sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4248191,21.6560805;49.42426265016526,21.6565301;49.4235423,21.6561482">
+    <text>Porubske sedlo, razc. - Porubske sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4248191" lon="21.6560805">
+      <ele>555</ele>
+      <time>2022-01-17T23:02:58Z</time>
+    </trkpt>
+    <trkpt lat="49.4246168" lon="21.6564684">
+      <ele>552</ele>
+      <time>2022-01-17T23:03:24Z</time>
+    </trkpt>
+    <trkpt lat="49.42439" lon="21.6566025">
+      <ele>550</ele>
+      <time>2022-01-17T23:03:44Z</time>
+    </trkpt>
+    <trkpt lat="49.4241353" lon="21.6564577">
+      <ele>548</ele>
+      <time>2022-01-17T23:04:07Z</time>
+    </trkpt>
+    <trkpt lat="49.4235423" lon="21.6561482">
+      <ele>541</ele>
+      <time>2022-01-17T23:04:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

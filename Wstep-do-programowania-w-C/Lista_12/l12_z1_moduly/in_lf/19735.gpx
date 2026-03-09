@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:50Z</time>
+    <bounds maxlat="51.4225621" maxlon="23.1201007" minlat="51.4092882" minlon="23.1195983"/>
+  </metadata>
+  <wpt lat="51.422562" lon="23.120101">
+    <ele>172</ele>
+    <name>Zawadowka</name>
+    <link href="https://mapa-turystyczna.pl/node/13267">
+      <text>Zawadowka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.409288" lon="23.119598">
+    <ele>168</ele>
+    <name>Rozejscie szlakow, wiata turystyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12984">
+      <text>Rozejscie szlakow, wiata turystyczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawadowka - Rozejscie szlakow, wiata turystyczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4225621,23.1201007;51.41592563180535,23.1198495;51.4092882,23.1195983">
+    <text>Zawadowka - Rozejscie szlakow, wiata turystyczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4225621" lon="23.1201007">
+      <ele>172</ele>
+      <time>2022-01-18T01:53:50Z</time>
+    </trkpt>
+    <trkpt lat="51.4092882" lon="23.1195983">
+      <ele>168</ele>
+      <time>2022-01-18T02:13:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

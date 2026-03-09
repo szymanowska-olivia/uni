@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:48Z</time>
+    <bounds maxlat="49.7890051" maxlon="20.0011361" minlat="49.7885673" minlon="20.0005819"/>
+  </metadata>
+  <wpt lat="49.788567" lon="20.000582">
+    <ele>600</ele>
+    <name>Dzialek</name>
+    <link href="https://mapa-turystyczna.pl/node/3838">
+      <text>Dzialek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.789005" lon="20.001136">
+    <ele>591</ele>
+    <name>Dzialek, poczatek szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/1664">
+      <text>Dzialek, poczatek szlaku zoltego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dzialek - Dzialek, poczatek szlaku zoltego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7885673,20.0005819;49.78869925017971,20.000780800000022;49.7890051,20.0011361">
+    <text>Dzialek - Dzialek, poczatek szlaku zoltego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7885673" lon="20.0005819">
+      <ele>600</ele>
+      <time>2022-01-17T21:55:48Z</time>
+    </trkpt>
+    <trkpt lat="49.7888312" lon="20.0009797">
+      <ele>595</ele>
+      <time>2022-01-17T21:56:27Z</time>
+    </trkpt>
+    <trkpt lat="49.7890051" lon="20.0011361">
+      <ele>591</ele>
+      <time>2022-01-17T21:56:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

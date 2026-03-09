@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:07Z</time>
+    <bounds maxlat="50.0563122" maxlon="19.8434275" minlat="50.055644" minlon="19.841212"/>
+  </metadata>
+  <wpt lat="50.056312" lon="19.841212">
+    <ele>310</ele>
+    <name>Las Wolski, skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5122">
+      <text>Las Wolski, skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.055644" lon="19.843428">
+    <ele>337</ele>
+    <name>Las Wolski, skrzyzowanie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5121">
+      <text>Las Wolski, skrzyzowanie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, skrzyzowanie szlakow niebieski / czarny - Las Wolski, skrzyzowanie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0563122,19.841212;50.055978101163205,19.84231975000001;50.055644,19.8434275">
+    <text>Las Wolski, skrzyzowanie szlakow niebieski / czarny - Las Wolski, skrzyzowanie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0563122" lon="19.841212">
+      <ele>310</ele>
+      <time>2022-01-17T22:25:07Z</time>
+    </trkpt>
+    <trkpt lat="50.055644" lon="19.8434275">
+      <ele>337</ele>
+      <time>2022-01-17T22:30:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

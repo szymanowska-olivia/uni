@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:05Z</time>
+    <bounds maxlat="50.4652389" maxlon="16.1489958" minlat="50.4609909" minlon="16.1417592"/>
+  </metadata>
+  <wpt lat="50.460991" lon="16.141759">
+    <ele>444</ele>
+    <name>V rovinach</name>
+    <link href="https://mapa-turystyczna.pl/node/6150">
+      <text>V rovinach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.465239" lon="16.148996">
+    <ele>408</ele>
+    <name>Horni Radechova, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6149">
+      <text>Horni Radechova, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>V rovinach - Horni Radechova, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4609909,16.1417592;50.46303125061279,16.14584145000001;50.4652389,16.1489958">
+    <text>V rovinach - Horni Radechova, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4609909" lon="16.1417592">
+      <ele>444</ele>
+      <time>2022-01-17T22:46:05Z</time>
+    </trkpt>
+    <trkpt lat="50.461387" lon="16.1427569">
+      <ele>441</ele>
+      <time>2022-01-17T22:47:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4617592" lon="16.1435884">
+      <ele>438</ele>
+      <time>2022-01-17T22:48:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4621144" lon="16.1439586">
+      <ele>437</ele>
+      <time>2022-01-17T22:48:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4623808" lon="16.1447364">
+      <ele>431</ele>
+      <time>2022-01-17T22:49:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4627905" lon="16.1453694">
+      <ele>426</ele>
+      <time>2022-01-17T22:50:44Z</time>
+    </trkpt>
+    <trkpt lat="50.463272" lon="16.1463135">
+      <ele>424</ele>
+      <time>2022-01-17T22:51:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4643955" lon="16.1480677">
+      <ele>415</ele>
+      <time>2022-01-17T22:54:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4647233" lon="16.1484164">
+      <ele>412</ele>
+      <time>2022-01-17T22:55:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4648087" lon="16.1484379">
+      <ele>412</ele>
+      <time>2022-01-17T22:55:12Z</time>
+    </trkpt>
+    <trkpt lat="50.464935" lon="16.1485183">
+      <ele>411</ele>
+      <time>2022-01-17T22:55:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4652389" lon="16.1489958">
+      <ele>408</ele>
+      <time>2022-01-17T22:56:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

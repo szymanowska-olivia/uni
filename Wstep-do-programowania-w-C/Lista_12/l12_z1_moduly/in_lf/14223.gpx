@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:41Z</time>
+    <bounds maxlat="50.3931056" maxlon="18.9415509" minlat="50.3917967" minlon="18.9321867"/>
+  </metadata>
+  <wpt lat="50.393106" lon="18.932187">
+    <ele>324</ele>
+    <name>Kopiec Wyzwolenia</name>
+    <link href="https://mapa-turystyczna.pl/node/9705">
+      <text>Kopiec Wyzwolenia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.391797" lon="18.941551">
+    <ele>306</ele>
+    <name>Piekary Slaskie, ul. Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/9685">
+      <text>Piekary Slaskie, ul. Jana Pawla II</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kopiec Wyzwolenia - Piekary Slaskie, ul. Jana Pawla II</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3931056,18.9321867;50.39256040002965,18.93666600000002;50.3917967,18.9415509">
+    <text>Kopiec Wyzwolenia - Piekary Slaskie, ul. Jana Pawla II</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3931056" lon="18.9321867">
+      <ele>324</ele>
+      <time>2022-01-18T00:18:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3926613" lon="18.935813">
+      <ele>311</ele>
+      <time>2022-01-18T00:22:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3926134" lon="18.9361993">
+      <ele>311</ele>
+      <time>2022-01-18T00:22:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3925074" lon="18.9371327">
+      <ele>314</ele>
+      <time>2022-01-18T00:23:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3924048" lon="18.9379481">
+      <ele>314</ele>
+      <time>2022-01-18T00:24:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3923786" lon="18.938186">
+      <ele>314</ele>
+      <time>2022-01-18T00:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3923507" lon="18.9384023">
+      <ele>315</ele>
+      <time>2022-01-18T00:25:17Z</time>
+    </trkpt>
+    <trkpt lat="50.392268" lon="18.9389083">
+      <ele>315</ele>
+      <time>2022-01-18T00:25:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3920149" lon="18.9403715">
+      <ele>311</ele>
+      <time>2022-01-18T00:27:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3917967" lon="18.9415509">
+      <ele>306</ele>
+      <time>2022-01-18T00:28:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

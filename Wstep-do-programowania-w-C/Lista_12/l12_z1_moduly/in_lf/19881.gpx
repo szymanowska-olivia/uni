@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:38Z</time>
+    <bounds maxlat="49.576482" maxlon="18.977581" minlat="49.576346" minlon="18.9767"/>
+  </metadata>
+  <wpt lat="49.576346" lon="18.9767">
+    <ele>774</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/13418">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.576482" lon="18.977581">
+    <ele>799</ele>
+    <name>Zrodla Olzy</name>
+    <link href="https://mapa-turystyczna.pl/node/13419">
+      <text>Zrodla Olzy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Zrodla Olzy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.576346,18.9767;49.57645600000262,18.977239500000014;49.576482,18.977581">
+    <text>Rozejscie sciezki - Zrodla Olzy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.576346" lon="18.9767">
+      <ele>774</ele>
+      <time>2022-01-18T01:56:38Z</time>
+    </trkpt>
+    <trkpt lat="49.576383" lon="18.976928">
+      <ele>780</ele>
+      <time>2022-01-18T01:57:54Z</time>
+    </trkpt>
+    <trkpt lat="49.57644" lon="18.977144">
+      <ele>786</ele>
+      <time>2022-01-18T01:59:12Z</time>
+    </trkpt>
+    <trkpt lat="49.576472" lon="18.977335">
+      <ele>792</ele>
+      <time>2022-01-18T02:00:17Z</time>
+    </trkpt>
+    <trkpt lat="49.576482" lon="18.977581">
+      <ele>799</ele>
+      <time>2022-01-18T02:01:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

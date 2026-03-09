@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:14Z</time>
+    <bounds maxlat="50.2865341" maxlon="17.4304777" minlat="50.2858363" minlon="17.4279106"/>
+  </metadata>
+  <wpt lat="50.285836" lon="17.427911">
+    <ele>360</ele>
+    <name>Jarnoltowek, most</name>
+    <link href="https://mapa-turystyczna.pl/node/2680">
+      <text>Jarnoltowek, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.286292" lon="17.430426">
+    <ele>361</ele>
+    <name>Jarnoltowek, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/2649">
+      <text>Jarnoltowek, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarnoltowek, most - Jarnoltowek, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2858363,17.4279106;50.28604845005638,17.429212949999986;50.2862922,17.4304265">
+    <text>Jarnoltowek, most - Jarnoltowek, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2858363" lon="17.4279106">
+      <ele>360</ele>
+      <time>2022-01-17T21:35:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2859083" lon="17.4283236">
+      <ele>361</ele>
+      <time>2022-01-17T21:35:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2859752" lon="17.4288352">
+      <ele>360</ele>
+      <time>2022-01-17T21:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2861217" lon="17.4295907">
+      <ele>358</ele>
+      <time>2022-01-17T21:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2862892" lon="17.4299925">
+      <ele>357</ele>
+      <time>2022-01-17T21:38:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2865341" lon="17.4304777">
+      <ele>357</ele>
+      <time>2022-01-17T21:39:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2862922" lon="17.4304265">
+      <ele>361</ele>
+      <time>2022-01-17T21:40:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

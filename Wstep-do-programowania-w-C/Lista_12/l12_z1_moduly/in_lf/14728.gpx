@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:02Z</time>
+    <bounds maxlat="51.0823229" maxlon="15.9542191" minlat="51.0814604" minlon="15.9500295"/>
+  </metadata>
+  <wpt lat="51.082252" lon="15.950029">
+    <ele>345</ele>
+    <name>Wilkow, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/10039">
+      <text>Wilkow, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.08146" lon="15.954219">
+    <ele>366</ele>
+    <name>Pod Prusicka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3348">
+      <text>Pod Prusicka Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilkow, ul. Lesna - Pod Prusicka Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0822523,15.9500295;51.08200045021655,15.952592100000018;51.0814604,15.9542191">
+    <text>Wilkow, ul. Lesna - Pod Prusicka Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0822523" lon="15.9500295">
+      <ele>345</ele>
+      <time>2022-01-18T00:27:02Z</time>
+    </trkpt>
+    <trkpt lat="51.0823146" lon="15.9503592">
+      <ele>346</ele>
+      <time>2022-01-18T00:27:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0823229" lon="15.9507426">
+      <ele>348</ele>
+      <time>2022-01-18T00:27:50Z</time>
+    </trkpt>
+    <trkpt lat="51.0822724" lon="15.9511128">
+      <ele>352</ele>
+      <time>2022-01-18T00:28:15Z</time>
+    </trkpt>
+    <trkpt lat="51.0822296" lon="15.9517767">
+      <ele>355</ele>
+      <time>2022-01-18T00:29:00Z</time>
+    </trkpt>
+    <trkpt lat="51.0821892" lon="15.9520235">
+      <ele>357</ele>
+      <time>2022-01-18T00:29:17Z</time>
+    </trkpt>
+    <trkpt lat="51.082142" lon="15.9522488">
+      <ele>358</ele>
+      <time>2022-01-18T00:29:32Z</time>
+    </trkpt>
+    <trkpt lat="51.0818589" lon="15.9529354">
+      <ele>362</ele>
+      <time>2022-01-18T00:30:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0816394" lon="15.9535773">
+      <ele>364</ele>
+      <time>2022-01-18T00:31:15Z</time>
+    </trkpt>
+    <trkpt lat="51.0815095" lon="15.9539196">
+      <ele>365</ele>
+      <time>2022-01-18T00:31:42Z</time>
+    </trkpt>
+    <trkpt lat="51.0814604" lon="15.9542191">
+      <ele>366</ele>
+      <time>2022-01-18T00:32:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

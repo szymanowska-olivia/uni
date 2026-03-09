@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:46Z</time>
+    <bounds maxlat="49.9869483" maxlon="16.9819502" minlat="49.9842538" minlon="16.9803034"/>
+  </metadata>
+  <wpt lat="49.984254" lon="16.98195">
+    <ele>391</ele>
+    <name>U Novych Domku</name>
+    <link href="https://mapa-turystyczna.pl/node/10682">
+      <text>U Novych Domku</text>
+    </link>
+  </wpt>
+  <wpt lat="49.986948" lon="16.980303">
+    <ele>402</ele>
+    <name>Tulinka</name>
+    <link href="https://mapa-turystyczna.pl/node/10681">
+      <text>Tulinka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Novych Domku - Tulinka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9842538,16.9819502;49.984895653722695,16.981136249999977;49.9869483,16.9803034">
+    <text>U Novych Domku - Tulinka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9842538" lon="16.9819502">
+      <ele>391</ele>
+      <time>2022-01-18T00:42:46Z</time>
+    </trkpt>
+    <trkpt lat="49.9842972" lon="16.981096">
+      <ele>395</ele>
+      <time>2022-01-18T00:43:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9854941" lon="16.9811765">
+      <ele>402</ele>
+      <time>2022-01-18T00:45:23Z</time>
+    </trkpt>
+    <trkpt lat="49.9856666" lon="16.9811604">
+      <ele>404</ele>
+      <time>2022-01-18T00:45:38Z</time>
+    </trkpt>
+    <trkpt lat="49.9862445" lon="16.9807616">
+      <ele>402</ele>
+      <time>2022-01-18T00:46:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9864963" lon="16.980488">
+      <ele>401</ele>
+      <time>2022-01-18T00:47:03Z</time>
+    </trkpt>
+    <trkpt lat="49.986686" lon="16.9805041">
+      <ele>399</ele>
+      <time>2022-01-18T00:47:20Z</time>
+    </trkpt>
+    <trkpt lat="49.9869483" lon="16.9803034">
+      <ele>402</ele>
+      <time>2022-01-18T00:47:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

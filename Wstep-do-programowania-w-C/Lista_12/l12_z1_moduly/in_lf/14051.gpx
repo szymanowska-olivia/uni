@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:04Z</time>
+    <bounds maxlat="50.7126081" maxlon="15.8722186" minlat="50.7119758" minlon="15.8713068"/>
+  </metadata>
+  <wpt lat="50.711976" lon="15.871307">
+    <ele>651</ele>
+    <name>Dolina Srebrnika, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/9616">
+      <text>Dolina Srebrnika, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.712608" lon="15.872219">
+    <ele>641</ele>
+    <name>Dolina Srebrnika</name>
+    <link href="https://mapa-turystyczna.pl/node/1112">
+      <text>Dolina Srebrnika</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Srebrnika, rozejscie szlakow - Dolina Srebrnika</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7119758,15.8713068;50.712293901053,15.871767950000008;50.7126081,15.8722186">
+    <text>Dolina Srebrnika, rozejscie szlakow - Dolina Srebrnika</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7119758" lon="15.8713068">
+      <ele>651</ele>
+      <time>2022-01-18T00:16:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7119797" lon="15.8713173">
+      <ele>651</ele>
+      <time>2022-01-18T00:16:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7126081" lon="15.8722186">
+      <ele>641</ele>
+      <time>2022-01-18T00:17:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

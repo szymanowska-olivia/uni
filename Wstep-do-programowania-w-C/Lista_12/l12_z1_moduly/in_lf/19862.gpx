@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:16Z</time>
+    <bounds maxlat="49.3056837" maxlon="22.1882468" minlat="49.3055652" minlon="22.18737"/>
+  </metadata>
+  <wpt lat="49.305684" lon="22.18737">
+    <ele>986</ele>
+    <name>Chryszczata, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13406">
+      <text>Chryszczata, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.305565" lon="22.188247">
+    <ele>998</ele>
+    <name>Chryszczata</name>
+    <link href="https://mapa-turystyczna.pl/node/325">
+      <text>Chryszczata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chryszczata, rozejscie szlakow - Chryszczata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3056837,22.18737;49.30562445003562,22.18780840000001;49.3055652,22.1882468">
+    <text>Chryszczata, rozejscie szlakow - Chryszczata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3056837" lon="22.18737">
+      <ele>986</ele>
+      <time>2022-01-18T01:56:16Z</time>
+    </trkpt>
+    <trkpt lat="49.3055652" lon="22.1882468">
+      <ele>998</ele>
+      <time>2022-01-18T01:58:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

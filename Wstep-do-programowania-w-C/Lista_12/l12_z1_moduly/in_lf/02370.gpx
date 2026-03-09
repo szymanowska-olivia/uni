@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:28Z</time>
+    <bounds maxlat="49.7530602" maxlon="19.9738097" minlat="49.7519398" minlon="19.9702303"/>
+  </metadata>
+  <wpt lat="49.75194" lon="19.97023">
+    <ele>329</ele>
+    <name>Pcim</name>
+    <link href="https://mapa-turystyczna.pl/node/1702">
+      <text>Pcim</text>
+    </link>
+  </wpt>
+  <wpt lat="49.75306" lon="19.97381">
+    <ele>322</ele>
+    <name>Pcim, zaklad</name>
+    <link href="https://mapa-turystyczna.pl/node/1662">
+      <text>Pcim, zaklad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pcim - Pcim, zaklad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7519398,19.9702303;49.75239375015737,19.9718113;49.7530602,19.9738097">
+    <text>Pcim - Pcim, zaklad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7519398" lon="19.9702303">
+      <ele>329</ele>
+      <time>2022-01-17T21:15:28Z</time>
+    </trkpt>
+    <trkpt lat="49.7522702" lon="19.9714202">
+      <ele>326</ele>
+      <time>2022-01-17T21:17:06Z</time>
+    </trkpt>
+    <trkpt lat="49.7525173" lon="19.9722024">
+      <ele>324</ele>
+      <time>2022-01-17T21:18:11Z</time>
+    </trkpt>
+    <trkpt lat="49.7530602" lon="19.9738097">
+      <ele>322</ele>
+      <time>2022-01-17T21:20:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

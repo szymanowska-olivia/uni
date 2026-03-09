@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:56Z</time>
+    <bounds maxlat="52.3819799" maxlon="20.9441289" minlat="52.3779227" minlon="20.9403952"/>
+  </metadata>
+  <wpt lat="52.377923" lon="20.940395">
+    <ele>79</ele>
+    <name>Jablonna, ul. Szarych Szeregow</name>
+    <link href="https://mapa-turystyczna.pl/node/11389">
+      <text>Jablonna, ul. Szarych Szeregow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.38198" lon="20.944129">
+    <ele>85</ele>
+    <name>Rezerwat Bukowiec Jablonowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11390">
+      <text>Rezerwat Bukowiec Jablonowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablonna, ul. Szarych Szeregow - Rezerwat Bukowiec Jablonowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3779227,20.9403952;52.379130263181764,20.941735649999973;52.3819799,20.9441289">
+    <text>Jablonna, ul. Szarych Szeregow - Rezerwat Bukowiec Jablonowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3779227" lon="20.9403952">
+      <ele>79</ele>
+      <time>2022-01-18T01:00:56Z</time>
+    </trkpt>
+    <trkpt lat="52.3780001" lon="20.9405035">
+      <ele>78</ele>
+      <time>2022-01-18T01:01:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3780513" lon="20.9406118">
+      <ele>78</ele>
+      <time>2022-01-18T01:01:18Z</time>
+    </trkpt>
+    <trkpt lat="52.3802092" lon="20.9428595">
+      <ele>84</ele>
+      <time>2022-01-18T01:06:22Z</time>
+    </trkpt>
+    <trkpt lat="52.3808707" lon="20.9436159">
+      <ele>86</ele>
+      <time>2022-01-18T01:07:58Z</time>
+    </trkpt>
+    <trkpt lat="52.380982" lon="20.9432886">
+      <ele>86</ele>
+      <time>2022-01-18T01:08:25Z</time>
+    </trkpt>
+    <trkpt lat="52.3810951" lon="20.9431255">
+      <ele>86</ele>
+      <time>2022-01-18T01:08:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3812851" lon="20.9431148">
+      <ele>87</ele>
+      <time>2022-01-18T01:09:05Z</time>
+    </trkpt>
+    <trkpt lat="52.3815878" lon="20.9435676">
+      <ele>87</ele>
+      <time>2022-01-18T01:09:54Z</time>
+    </trkpt>
+    <trkpt lat="52.3819799" lon="20.9441289">
+      <ele>85</ele>
+      <time>2022-01-18T01:10:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

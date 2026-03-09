@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:51Z</time>
+    <bounds maxlat="49.680078" maxlon="19.21796" minlat="49.679808" minlon="19.217518"/>
+  </metadata>
+  <wpt lat="49.680078" lon="19.217518">
+    <ele>359</ele>
+    <name>Zywiec, ul. Klonowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12283">
+      <text>Zywiec, ul. Klonowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.679808" lon="19.21796">
+    <ele>360</ele>
+    <name>Zywiec, ul. Grunwaldzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13171">
+      <text>Zywiec, ul. Grunwaldzka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zywiec, ul. Klonowa - Zywiec, ul. Grunwaldzka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.680078,19.217518;49.679904000094766,19.217826999999996;49.679808,19.21796">
+    <text>Zywiec, ul. Klonowa - Zywiec, ul. Grunwaldzka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.680078" lon="19.217518">
+      <ele>359</ele>
+      <time>2022-01-18T01:49:51Z</time>
+    </trkpt>
+    <trkpt lat="49.680053" lon="19.217612">
+      <ele>360</ele>
+      <time>2022-01-18T01:50:01Z</time>
+    </trkpt>
+    <trkpt lat="49.68" lon="19.217694">
+      <ele>359</ele>
+      <time>2022-01-18T01:50:12Z</time>
+    </trkpt>
+    <trkpt lat="49.679808" lon="19.21796">
+      <ele>360</ele>
+      <time>2022-01-18T01:50:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

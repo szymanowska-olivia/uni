@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:03Z</time>
+    <bounds maxlat="49.7685921" maxlon="19.16833" minlat="49.7681619" minlon="19.1666748"/>
+  </metadata>
+  <wpt lat="49.768162" lon="19.166675">
+    <ele>872</ele>
+    <name>Przelecz pod Czuplem</name>
+    <link href="https://mapa-turystyczna.pl/node/3878">
+      <text>Przelecz pod Czuplem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.768592" lon="19.16833">
+    <ele>878</ele>
+    <name>Pod Rogaczem</name>
+    <link href="https://mapa-turystyczna.pl/node/1055">
+      <text>Pod Rogaczem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Czuplem - Pod Rogaczem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7681619,19.1666748;49.76834180002791,19.16754854999997;49.7685921,19.16833">
+    <text>Przelecz pod Czuplem - Pod Rogaczem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7681619" lon="19.1666748">
+      <ele>872</ele>
+      <time>2022-01-17T21:57:03Z</time>
+    </trkpt>
+    <trkpt lat="49.7682898" lon="19.1673179">
+      <ele>874</ele>
+      <time>2022-01-17T21:58:11Z</time>
+    </trkpt>
+    <trkpt lat="49.7683938" lon="19.1677792">
+      <ele>877</ele>
+      <time>2022-01-17T21:59:00Z</time>
+    </trkpt>
+    <trkpt lat="49.7685921" lon="19.16833">
+      <ele>878</ele>
+      <time>2022-01-17T22:00:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

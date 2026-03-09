@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:03Z</time>
+    <bounds maxlat="50.6879451" maxlon="16.789298" minlat="50.6827075" minlon="16.7848276"/>
+  </metadata>
+  <wpt lat="50.682707" lon="16.784828">
+    <ele>358</ele>
+    <name>Grzybowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/4784">
+      <text>Grzybowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.687891" lon="16.789298">
+    <ele>324</ele>
+    <name>Skrzyzowanie pod Grzybowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2820">
+      <text>Skrzyzowanie pod Grzybowcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grzybowiec - Skrzyzowanie pod Grzybowcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6827075,16.7848276;50.685262557223965,16.78594935000002;50.6878905,16.789298">
+    <text>Grzybowiec - Skrzyzowanie pod Grzybowcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6827075" lon="16.7848276">
+      <ele>358</ele>
+      <time>2022-01-17T22:16:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6844392" lon="16.7854974">
+      <ele>353</ele>
+      <time>2022-01-17T22:18:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6860859" lon="16.7864013">
+      <ele>340</ele>
+      <time>2022-01-17T22:21:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6879211" lon="16.7874634">
+      <ele>319</ele>
+      <time>2022-01-17T22:24:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6879417" lon="16.7883853">
+      <ele>323</ele>
+      <time>2022-01-17T22:25:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6879451" lon="16.7888627">
+      <ele>324</ele>
+      <time>2022-01-17T22:25:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6878905" lon="16.789298">
+      <ele>324</ele>
+      <time>2022-01-17T22:26:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

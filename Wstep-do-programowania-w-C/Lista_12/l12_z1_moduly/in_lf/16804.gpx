@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:15Z</time>
+    <bounds maxlat="52.1411845" maxlon="20.7182402" minlat="52.140391" minlon="20.717634"/>
+  </metadata>
+  <wpt lat="52.140391" lon="20.71824">
+    <ele>96</ele>
+    <name>Brwinow</name>
+    <link href="https://mapa-turystyczna.pl/node/11495">
+      <text>Brwinow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.141185" lon="20.717634">
+    <ele>96</ele>
+    <name>Brwinow, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11496">
+      <text>Brwinow, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brwinow - Brwinow, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.140391,20.7182402;52.14060995053818,20.718090000000007;52.1411845,20.717634">
+    <text>Brwinow - Brwinow, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.140391" lon="20.7182402">
+      <ele>96</ele>
+      <time>2022-01-18T01:03:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1408289" lon="20.7179398">
+      <ele>95</ele>
+      <time>2022-01-18T01:04:20Z</time>
+    </trkpt>
+    <trkpt lat="52.1411845" lon="20.717634">
+      <ele>96</ele>
+      <time>2022-01-18T01:05:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:53Z</time>
+    <bounds maxlat="50.6941384" maxlon="15.7337355" minlat="50.6906079" minlon="15.7292622"/>
+  </metadata>
+  <wpt lat="50.694138" lon="15.733735">
+    <ele>780</ele>
+    <name>Pec pod Snezkou, Vesely Vylet</name>
+    <link href="https://mapa-turystyczna.pl/node/1257">
+      <text>Pec pod Snezkou, Vesely Vylet</text>
+    </link>
+  </wpt>
+  <wpt lat="50.690608" lon="15.729262">
+    <ele>803</ele>
+    <name>Pec pod Snezkou, minigolf</name>
+    <link href="https://mapa-turystyczna.pl/node/1255">
+      <text>Pec pod Snezkou, minigolf</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pec pod Snezkou, Vesely Vylet - Pec pod Snezkou, minigolf</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6941384,15.7337355;50.69266920237971,15.731941050000025;50.6906079,15.7292622">
+    <text>Pec pod Snezkou, Vesely Vylet - Pec pod Snezkou, minigolf</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6941384" lon="15.7337355">
+      <ele>780</ele>
+      <time>2022-01-17T21:04:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6935429" lon="15.7330428">
+      <ele>784</ele>
+      <time>2022-01-17T21:06:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6931417" lon="15.732682">
+      <ele>789</ele>
+      <time>2022-01-17T21:07:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6921967" lon="15.7312001">
+      <ele>795</ele>
+      <time>2022-01-17T21:10:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6918601" lon="15.7306308">
+      <ele>798</ele>
+      <time>2022-01-17T21:11:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6912347" lon="15.7298308">
+      <ele>799</ele>
+      <time>2022-01-17T21:13:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6908341" lon="15.7294473">
+      <ele>800</ele>
+      <time>2022-01-17T21:14:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6906079" lon="15.7292622">
+      <ele>803</ele>
+      <time>2022-01-17T21:14:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

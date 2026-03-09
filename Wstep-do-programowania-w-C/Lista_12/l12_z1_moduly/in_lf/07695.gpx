@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:57Z</time>
+    <bounds maxlat="49.435772" maxlon="20.848451" minlat="49.433608" minlon="20.847799"/>
+  </metadata>
+  <wpt lat="49.433608" lon="20.847983">
+    <ele>875</ele>
+    <name>Nad Wierchomla, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/5256">
+      <text>Nad Wierchomla, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.435772" lon="20.848451">
+    <ele>883</ele>
+    <name>Bacowka PTTK Nad Wierchomla</name>
+    <link href="https://mapa-turystyczna.pl/node/123">
+      <text>Bacowka PTTK Nad Wierchomla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Wierchomla, odejscie szlaku czarnego - Bacowka PTTK Nad Wierchomla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.433608,20.847983;49.434710500150494,20.847985499999968;49.435772,20.848451">
+    <text>Nad Wierchomla, odejscie szlaku czarnego - Bacowka PTTK Nad Wierchomla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.433608" lon="20.847983">
+      <ele>875</ele>
+      <time>2022-01-17T22:27:57Z</time>
+    </trkpt>
+    <trkpt lat="49.43406" lon="20.847838">
+      <ele>870</ele>
+      <time>2022-01-17T22:28:59Z</time>
+    </trkpt>
+    <trkpt lat="49.43423" lon="20.847799">
+      <ele>869</ele>
+      <time>2022-01-17T22:29:22Z</time>
+    </trkpt>
+    <trkpt lat="49.434337" lon="20.847813">
+      <ele>869</ele>
+      <time>2022-01-17T22:29:36Z</time>
+    </trkpt>
+    <trkpt lat="49.434589" lon="20.847919">
+      <ele>870</ele>
+      <time>2022-01-17T22:30:11Z</time>
+    </trkpt>
+    <trkpt lat="49.434832" lon="20.848052">
+      <ele>872</ele>
+      <time>2022-01-17T22:30:46Z</time>
+    </trkpt>
+    <trkpt lat="49.4353" lon="20.848277">
+      <ele>878</ele>
+      <time>2022-01-17T22:31:52Z</time>
+    </trkpt>
+    <trkpt lat="49.435772" lon="20.848451">
+      <ele>883</ele>
+      <time>2022-01-17T22:32:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:51Z</time>
+    <bounds maxlat="50.0405251" maxlon="17.1853316" minlat="50.0399325" minlon="17.1852189"/>
+  </metadata>
+  <wpt lat="50.040525" lon="17.185267">
+    <ele>1081</ele>
+    <name>Certova stena</name>
+    <link href="https://mapa-turystyczna.pl/node/7060">
+      <text>Certova stena</text>
+    </link>
+  </wpt>
+  <wpt lat="50.039932" lon="17.185332">
+    <ele>1089</ele>
+    <name>Certova stena, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7059">
+      <text>Certova stena, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Certova stena - Certova stena, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0405251,17.1852672;50.040251200212985,17.1852672;50.0399325,17.1853316">
+    <text>Certova stena - Certova stena, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0405251" lon="17.1852672">
+      <ele>1081</ele>
+      <time>2022-01-17T23:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0403942" lon="17.1852189">
+      <ele>1083</ele>
+      <time>2022-01-17T23:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0401082" lon="17.1853155">
+      <ele>1086</ele>
+      <time>2022-01-17T23:10:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0399325" lon="17.1853316">
+      <ele>1089</ele>
+      <time>2022-01-17T23:10:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

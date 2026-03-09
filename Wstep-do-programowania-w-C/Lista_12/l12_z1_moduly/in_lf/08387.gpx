@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:52Z</time>
+    <bounds maxlat="50.564131" maxlon="16.2759447" minlat="50.5637494" minlon="16.275537"/>
+  </metadata>
+  <wpt lat="50.564131" lon="16.275537">
+    <ele>683</ele>
+    <name>U Supiho hnizda</name>
+    <link href="https://mapa-turystyczna.pl/node/5837">
+      <text>U Supiho hnizda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.563749" lon="16.275945">
+    <ele>686</ele>
+    <name>Supi hnizdo, odbocka k vyhlidce</name>
+    <link href="https://mapa-turystyczna.pl/node/5838">
+      <text>Supi hnizdo, odbocka k vyhlidce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Supiho hnizda - Supi hnizdo, odbocka k vyhlidce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.564131,16.275537;50.56399130020711,16.275676500000003;50.5637494,16.2759447">
+    <text>U Supiho hnizda - Supi hnizdo, odbocka k vyhlidce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.564131" lon="16.275537">
+      <ele>683</ele>
+      <time>2022-01-17T22:37:52Z</time>
+    </trkpt>
+    <trkpt lat="50.5638516" lon="16.275816">
+      <ele>685</ele>
+      <time>2022-01-17T22:38:35Z</time>
+    </trkpt>
+    <trkpt lat="50.5637494" lon="16.2759447">
+      <ele>686</ele>
+      <time>2022-01-17T22:38:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

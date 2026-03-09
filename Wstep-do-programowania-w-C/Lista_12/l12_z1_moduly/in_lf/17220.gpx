@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:46Z</time>
+    <bounds maxlat="50.7525044" maxlon="16.3121159" minlat="50.7520447" minlon="16.3115238"/>
+  </metadata>
+  <wpt lat="50.752045" lon="16.311524">
+    <ele>530</ele>
+    <name>Walbrzych, ul. Drzymaly</name>
+    <link href="https://mapa-turystyczna.pl/node/11725">
+      <text>Walbrzych, ul. Drzymaly</text>
+    </link>
+  </wpt>
+  <wpt lat="50.752504" lon="16.312116">
+    <ele>527</ele>
+    <name>Walbrzych, ul. Swidnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/8307">
+      <text>Walbrzych, ul. Swidnicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walbrzych, ul. Drzymaly - Walbrzych, ul. Swidnicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7520447,16.3115238;50.75227455056432,16.311819849999992;50.7525044,16.3121159">
+    <text>Walbrzych, ul. Drzymaly - Walbrzych, ul. Swidnicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7520447" lon="16.3115238">
+      <ele>530</ele>
+      <time>2022-01-18T01:09:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7525044" lon="16.3121159">
+      <ele>527</ele>
+      <time>2022-01-18T01:10:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

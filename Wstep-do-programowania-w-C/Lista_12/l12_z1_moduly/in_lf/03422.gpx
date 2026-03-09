@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:29:38Z</time>
+    <bounds maxlat="50.6400105" maxlon="15.9365849" minlat="50.6382686" minlon="15.934875"/>
+  </metadata>
+  <wpt lat="50.638269" lon="15.935819">
+    <ele>472</ele>
+    <name>Krenov, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/2435">
+      <text>Krenov, vlak</text>
+    </link>
+  </wpt>
+  <wpt lat="50.640011" lon="15.934875">
+    <ele>452</ele>
+    <name>Krenov, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2434">
+      <text>Krenov, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krenov, vlak - Krenov, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6382686,15.9358191;50.6388522001705,15.935847649999987;50.6400105,15.934875">
+    <text>Krenov, vlak - Krenov, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6382686" lon="15.9358191">
+      <ele>472</ele>
+      <time>2022-01-17T21:29:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6384825" lon="15.9365849">
+      <ele>471</ele>
+      <time>2022-01-17T21:30:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6385229" lon="15.9365465">
+      <ele>470</ele>
+      <time>2022-01-17T21:30:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6385972" lon="15.9362828">
+      <ele>468</ele>
+      <time>2022-01-17T21:31:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6387256" lon="15.9360559">
+      <ele>464</ele>
+      <time>2022-01-17T21:31:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6389788" lon="15.9356394">
+      <ele>457</ele>
+      <time>2022-01-17T21:32:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6391447" lon="15.9355187">
+      <ele>452</ele>
+      <time>2022-01-17T21:32:42Z</time>
+    </trkpt>
+    <trkpt lat="50.639456" lon="15.9353149">
+      <ele>451</ele>
+      <time>2022-01-17T21:33:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6397332" lon="15.9350789">
+      <ele>452</ele>
+      <time>2022-01-17T21:34:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6400105" lon="15.934875">
+      <ele>452</ele>
+      <time>2022-01-17T21:34:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

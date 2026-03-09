@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:39Z</time>
+    <bounds maxlat="50.9105698" maxlon="15.3470451" minlat="50.9104768" minlon="15.3466694"/>
+  </metadata>
+  <wpt lat="50.910509" lon="15.346669">
+    <ele>522</ele>
+    <name>Swieradow-Zdroj, ul. Sybirakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8086">
+      <text>Swieradow-Zdroj, ul. Sybirakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.91057" lon="15.347045">
+    <ele>528</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12961">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swieradow-Zdroj, ul. Sybirakow - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9105087,15.3466694;50.91047850000006,15.346808299999987;50.9105698,15.3470451">
+    <text>Swieradow-Zdroj, ul. Sybirakow - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9105087" lon="15.3466694">
+      <ele>522</ele>
+      <time>2022-01-18T01:43:39Z</time>
+    </trkpt>
+    <trkpt lat="50.9104768" lon="15.3467305">
+      <ele>523</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9104802" lon="15.3468861">
+      <ele>526</ele>
+      <time>2022-01-18T01:44:11Z</time>
+    </trkpt>
+    <trkpt lat="50.9105698" lon="15.3470451">
+      <ele>528</ele>
+      <time>2022-01-18T01:44:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

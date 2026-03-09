@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:58Z</time>
+    <bounds maxlat="50.6788972" maxlon="19.2191755" minlat="50.6774251" minlon="19.2165362"/>
+  </metadata>
+  <wpt lat="50.678411" lon="19.216536">
+    <ele>274</ele>
+    <name>Poraj</name>
+    <link href="https://mapa-turystyczna.pl/node/4561">
+      <text>Poraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.677425" lon="19.219175">
+    <ele>275</ele>
+    <name>Poraj, ul. Choronska</name>
+    <link href="https://mapa-turystyczna.pl/node/4539">
+      <text>Poraj, ul. Choronska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poraj - Poraj, ul. Choronska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6784109,19.2165362;50.678665500571945,19.21788659999997;50.6774251,19.2191755">
+    <text>Poraj - Poraj, ul. Choronska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6784109" lon="19.2165362">
+      <ele>274</ele>
+      <time>2022-01-17T22:08:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6785134" lon="19.2167809">
+      <ele>274</ele>
+      <time>2022-01-17T22:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6788103" lon="19.2173356">
+      <ele>273</ele>
+      <time>2022-01-17T22:10:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6788972" lon="19.2177053">
+      <ele>274</ele>
+      <time>2022-01-17T22:10:39Z</time>
+    </trkpt>
+    <trkpt lat="50.6784338" lon="19.2180679">
+      <ele>274</ele>
+      <time>2022-01-17T22:11:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6777938" lon="19.2185452">
+      <ele>275</ele>
+      <time>2022-01-17T22:12:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6774251" lon="19.2191755">
+      <ele>275</ele>
+      <time>2022-01-17T22:13:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

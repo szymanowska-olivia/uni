@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:20Z</time>
+    <bounds maxlat="54.1160024" maxlon="15.3162886" minlat="54.1158987" minlon="15.3129339"/>
+  </metadata>
+  <wpt lat="54.115916" lon="15.316289">
+    <ele>10</ele>
+    <name>Roby, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12575">
+      <text>Roby, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="54.115935" lon="15.312934">
+    <ele>6</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/12578">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roby, rozejscie szlakow - Rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1159161,15.3162886;54.115950550032416,15.315158400000008;54.1159347,15.3129339">
+    <text>Roby, rozejscie szlakow - Rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1159161" lon="15.3162886">
+      <ele>10</ele>
+      <time>2022-01-18T01:33:20Z</time>
+    </trkpt>
+    <trkpt lat="54.1158987" lon="15.3161347">
+      <ele>11</ele>
+      <time>2022-01-18T01:33:28Z</time>
+    </trkpt>
+    <trkpt lat="54.1160024" lon="15.3141821">
+      <ele>6</ele>
+      <time>2022-01-18T01:35:13Z</time>
+    </trkpt>
+    <trkpt lat="54.1159961" lon="15.3135759">
+      <ele>5</ele>
+      <time>2022-01-18T01:35:45Z</time>
+    </trkpt>
+    <trkpt lat="54.1159347" lon="15.3129339">
+      <ele>6</ele>
+      <time>2022-01-18T01:36:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

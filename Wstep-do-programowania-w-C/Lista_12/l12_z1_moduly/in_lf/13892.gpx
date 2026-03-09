@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:03Z</time>
+    <bounds maxlat="50.2278293" maxlon="18.8069868" minlat="50.2272653" minlon="18.8052768"/>
+  </metadata>
+  <wpt lat="50.227829" lon="18.805277">
+    <ele>237</ele>
+    <name>Borowa Wies, swietlica</name>
+    <link href="https://mapa-turystyczna.pl/node/9520">
+      <text>Borowa Wies, swietlica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.227265" lon="18.806987">
+    <ele>240</ele>
+    <name>Borowa Wies, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9116">
+      <text>Borowa Wies, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Borowa Wies, swietlica - Borowa Wies, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2278293,18.8052768;50.227547300833756,18.806131800000013;50.2272653,18.8069868">
+    <text>Borowa Wies, swietlica - Borowa Wies, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2278293" lon="18.8052768">
+      <ele>237</ele>
+      <time>2022-01-18T00:14:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2272653" lon="18.8069868">
+      <ele>240</ele>
+      <time>2022-01-18T00:16:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

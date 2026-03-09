@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:17Z</time>
+    <bounds maxlat="49.192978" maxlon="19.013895" minlat="49.192894" minlon="19.013246"/>
+  </metadata>
+  <wpt lat="49.192978" lon="19.013246">
+    <ele>1499</ele>
+    <name>Sedlo Bublen, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5107">
+      <text>Sedlo Bublen, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.192919" lon="19.013895">
+    <ele>1510</ele>
+    <name>Sedlo Bublen</name>
+    <link href="https://mapa-turystyczna.pl/node/5035">
+      <text>Sedlo Bublen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Bublen, razc. - Sedlo Bublen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.192978,19.013246;49.19290300000084,19.01354200000002;49.192919,19.013895">
+    <text>Sedlo Bublen, razc. - Sedlo Bublen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.192978" lon="19.013246">
+      <ele>1499</ele>
+      <time>2022-01-17T22:24:17Z</time>
+    </trkpt>
+    <trkpt lat="49.192912" lon="19.013441">
+      <ele>1501</ele>
+      <time>2022-01-17T22:24:55Z</time>
+    </trkpt>
+    <trkpt lat="49.192894" lon="19.013643">
+      <ele>1505</ele>
+      <time>2022-01-17T22:25:31Z</time>
+    </trkpt>
+    <trkpt lat="49.192907" lon="19.013796">
+      <ele>1508</ele>
+      <time>2022-01-17T22:25:59Z</time>
+    </trkpt>
+    <trkpt lat="49.192919" lon="19.013895">
+      <ele>1510</ele>
+      <time>2022-01-17T22:26:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

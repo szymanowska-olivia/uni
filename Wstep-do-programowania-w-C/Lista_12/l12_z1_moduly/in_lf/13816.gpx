@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:55Z</time>
+    <bounds maxlat="50.2093856" maxlon="18.9355317" minlat="50.2089186" minlon="18.9339536"/>
+  </metadata>
+  <wpt lat="50.209386" lon="18.935532">
+    <ele>278</ele>
+    <name>Dwa pomniki Bohaterow Katowic</name>
+    <link href="https://mapa-turystyczna.pl/node/9482">
+      <text>Dwa pomniki Bohaterow Katowic</text>
+    </link>
+  </wpt>
+  <wpt lat="50.208919" lon="18.933954">
+    <ele>279</ele>
+    <name>Rozejscie szlakow czerwony / zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9466">
+      <text>Rozejscie szlakow czerwony / zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dwa pomniki Bohaterow Katowic - Rozejscie szlakow czerwony / zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2093856,18.9355317;50.20915210057124,18.934742650000036;50.2089186,18.9339536">
+    <text>Dwa pomniki Bohaterow Katowic - Rozejscie szlakow czerwony / zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2093856" lon="18.9355317">
+      <ele>278</ele>
+      <time>2022-01-18T00:12:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2089186" lon="18.9339536">
+      <ele>279</ele>
+      <time>2022-01-18T00:14:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

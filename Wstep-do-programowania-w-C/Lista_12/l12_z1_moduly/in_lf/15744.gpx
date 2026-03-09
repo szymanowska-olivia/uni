@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:40Z</time>
+    <bounds maxlat="49.720565" maxlon="20.448789" minlat="49.719748" minlon="20.446395"/>
+  </metadata>
+  <wpt lat="49.720565" lon="20.448789">
+    <ele>725</ele>
+    <name>Skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/10751">
+      <text>Skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="49.719748" lon="20.446395">
+    <ele>717</ele>
+    <name>Wiata pod Miejska Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/10750">
+      <text>Wiata pod Miejska Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zolty - Wiata pod Miejska Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.720565,20.448789;49.720012000002626,20.447881000000013;49.719748,20.446395">
+    <text>Skrzyzowanie szlakow niebieski / zolty - Wiata pod Miejska Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.720565" lon="20.448789">
+      <ele>725</ele>
+      <time>2022-01-18T00:44:40Z</time>
+    </trkpt>
+    <trkpt lat="49.720403" lon="20.448534">
+      <ele>727</ele>
+      <time>2022-01-18T00:45:03Z</time>
+    </trkpt>
+    <trkpt lat="49.720267" lon="20.44837">
+      <ele>727</ele>
+      <time>2022-01-18T00:45:19Z</time>
+    </trkpt>
+    <trkpt lat="49.720127" lon="20.448201">
+      <ele>724</ele>
+      <time>2022-01-18T00:45:37Z</time>
+    </trkpt>
+    <trkpt lat="49.720028" lon="20.448064">
+      <ele>722</ele>
+      <time>2022-01-18T00:45:50Z</time>
+    </trkpt>
+    <trkpt lat="49.719996" lon="20.447698">
+      <ele>718</ele>
+      <time>2022-01-18T00:46:14Z</time>
+    </trkpt>
+    <trkpt lat="49.719976" lon="20.447418">
+      <ele>717</ele>
+      <time>2022-01-18T00:46:31Z</time>
+    </trkpt>
+    <trkpt lat="49.719927" lon="20.447077">
+      <ele>716</ele>
+      <time>2022-01-18T00:46:53Z</time>
+    </trkpt>
+    <trkpt lat="49.719848" lon="20.446766">
+      <ele>716</ele>
+      <time>2022-01-18T00:47:15Z</time>
+    </trkpt>
+    <trkpt lat="49.719766" lon="20.446477">
+      <ele>717</ele>
+      <time>2022-01-18T00:47:35Z</time>
+    </trkpt>
+    <trkpt lat="49.719748" lon="20.446395">
+      <ele>717</ele>
+      <time>2022-01-18T00:47:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

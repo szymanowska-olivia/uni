@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:31Z</time>
+    <bounds maxlat="51.9520583" maxlon="15.7189601" minlat="51.9504667" minlon="15.7151348"/>
+  </metadata>
+  <wpt lat="51.952058" lon="15.71896">
+    <ele>63</ele>
+    <name>Zabor, Urzad Gminy</name>
+    <link href="https://mapa-turystyczna.pl/node/11171">
+      <text>Zabor, Urzad Gminy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.950467" lon="15.715135">
+    <ele>67</ele>
+    <name>Zabor</name>
+    <link href="https://mapa-turystyczna.pl/node/11192">
+      <text>Zabor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabor, Urzad Gminy - Zabor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9520583,15.7189601;51.951742050059025,15.716704450000014;51.9504667,15.7151348">
+    <text>Zabor, Urzad Gminy - Zabor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9520583" lon="15.7189601">
+      <ele>63</ele>
+      <time>2022-01-18T00:55:31Z</time>
+    </trkpt>
+    <trkpt lat="51.9519801" lon="15.7175574">
+      <ele>63</ele>
+      <time>2022-01-18T00:56:56Z</time>
+    </trkpt>
+    <trkpt lat="51.9519074" lon="15.7171175">
+      <ele>63</ele>
+      <time>2022-01-18T00:57:24Z</time>
+    </trkpt>
+    <trkpt lat="51.9518148" lon="15.71686">
+      <ele>63</ele>
+      <time>2022-01-18T00:57:42Z</time>
+    </trkpt>
+    <trkpt lat="51.9516693" lon="15.7165489">
+      <ele>63</ele>
+      <time>2022-01-18T00:58:05Z</time>
+    </trkpt>
+    <trkpt lat="51.9508583" lon="15.7155351">
+      <ele>66</ele>
+      <time>2022-01-18T00:59:46Z</time>
+    </trkpt>
+    <trkpt lat="51.9504667" lon="15.7151348">
+      <ele>67</ele>
+      <time>2022-01-18T01:00:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

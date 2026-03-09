@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:40Z</time>
+    <bounds maxlat="49.4595845" maxlon="18.1383124" minlat="49.4592809" minlon="18.1378148"/>
+  </metadata>
+  <wpt lat="49.459584" lon="18.137815">
+    <ele>372</ele>
+    <name>Roznov pod Radhostem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7584">
+      <text>Roznov pod Radhostem, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.459281" lon="18.138312">
+    <ele>375</ele>
+    <name>Roznov pod Radhostem</name>
+    <link href="https://mapa-turystyczna.pl/node/7582">
+      <text>Roznov pod Radhostem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roznov pod Radhostem, rozc. - Roznov pod Radhostem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4595845,18.1378148;49.4593629500687,18.138178300000003;49.4592809,18.1383124">
+    <text>Roznov pod Radhostem, rozc. - Roznov pod Radhostem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4595845" lon="18.1378148">
+      <ele>372</ele>
+      <time>2022-01-17T23:21:40Z</time>
+    </trkpt>
+    <trkpt lat="49.459445" lon="18.1380442">
+      <ele>373</ele>
+      <time>2022-01-17T23:22:08Z</time>
+    </trkpt>
+    <trkpt lat="49.4592809" lon="18.1383124">
+      <ele>375</ele>
+      <time>2022-01-17T23:22:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

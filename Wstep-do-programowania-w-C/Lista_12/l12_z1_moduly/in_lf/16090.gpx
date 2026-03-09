@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:48Z</time>
+    <bounds maxlat="49.526218" maxlon="20.141034" minlat="49.523534" minlon="20.138876"/>
+  </metadata>
+  <wpt lat="49.523534" lon="20.138876">
+    <ele>1083</ele>
+    <name>Pod Wysznia</name>
+    <link href="https://mapa-turystyczna.pl/node/11001">
+      <text>Pod Wysznia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.526218" lon="20.141034">
+    <ele>1088</ele>
+    <name>Polana Jankowki</name>
+    <link href="https://mapa-turystyczna.pl/node/11000">
+      <text>Polana Jankowki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wysznia - Polana Jankowki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.523534,20.138876;49.52487350018226,20.13978700000001;49.526218,20.141034">
+    <text>Pod Wysznia - Polana Jankowki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.523534" lon="20.138876">
+      <ele>1083</ele>
+      <time>2022-01-18T00:50:48Z</time>
+    </trkpt>
+    <trkpt lat="49.52377" lon="20.138975">
+      <ele>1081</ele>
+      <time>2022-01-18T00:51:12Z</time>
+    </trkpt>
+    <trkpt lat="49.524167" lon="20.139311">
+      <ele>1081</ele>
+      <time>2022-01-18T00:51:57Z</time>
+    </trkpt>
+    <trkpt lat="49.52474" lon="20.139718">
+      <ele>1081</ele>
+      <time>2022-01-18T00:52:59Z</time>
+    </trkpt>
+    <trkpt lat="49.525007" lon="20.139856">
+      <ele>1080</ele>
+      <time>2022-01-18T00:53:26Z</time>
+    </trkpt>
+    <trkpt lat="49.525097" lon="20.139919">
+      <ele>1079</ele>
+      <time>2022-01-18T00:53:36Z</time>
+    </trkpt>
+    <trkpt lat="49.525168" lon="20.139969">
+      <ele>1079</ele>
+      <time>2022-01-18T00:53:44Z</time>
+    </trkpt>
+    <trkpt lat="49.525618" lon="20.140469">
+      <ele>1080</ele>
+      <time>2022-01-18T00:54:38Z</time>
+    </trkpt>
+    <trkpt lat="49.525863" lon="20.140658">
+      <ele>1083</ele>
+      <time>2022-01-18T00:55:05Z</time>
+    </trkpt>
+    <trkpt lat="49.52605" lon="20.140827">
+      <ele>1085</ele>
+      <time>2022-01-18T00:55:27Z</time>
+    </trkpt>
+    <trkpt lat="49.526109" lon="20.140881">
+      <ele>1086</ele>
+      <time>2022-01-18T00:55:33Z</time>
+    </trkpt>
+    <trkpt lat="49.526218" lon="20.141034">
+      <ele>1088</ele>
+      <time>2022-01-18T00:55:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

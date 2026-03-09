@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:55Z</time>
+    <bounds maxlat="50.0971354" maxlon="16.5253955" minlat="50.0932364" minlon="16.5175903"/>
+  </metadata>
+  <wpt lat="50.097135" lon="16.51759">
+    <ele>465</ele>
+    <name>Zakopanka</name>
+    <link href="https://mapa-turystyczna.pl/node/1951">
+      <text>Zakopanka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.093236" lon="16.525395">
+    <ele>469</ele>
+    <name>Zakopanka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1952">
+      <text>Zakopanka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zakopanka - Zakopanka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0971354,16.5175903;50.09494190281733,16.522545000000015;50.0932364,16.5253955">
+    <text>Zakopanka - Zakopanka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0971354" lon="16.5175903">
+      <ele>465</ele>
+      <time>2022-01-17T21:20:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0968415" lon="16.5181784">
+      <ele>464</ele>
+      <time>2022-01-17T21:21:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0966364" lon="16.5186417">
+      <ele>463</ele>
+      <time>2022-01-17T21:22:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0962565" lon="16.5197287">
+      <ele>465</ele>
+      <time>2022-01-17T21:23:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0959861" lon="16.5203717">
+      <ele>464</ele>
+      <time>2022-01-17T21:24:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0954615" lon="16.5214453">
+      <ele>463</ele>
+      <time>2022-01-17T21:25:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0944223" lon="16.5236447">
+      <ele>465</ele>
+      <time>2022-01-17T21:28:21Z</time>
+    </trkpt>
+    <trkpt lat="50.0933175" lon="16.5253184">
+      <ele>469</ele>
+      <time>2022-01-17T21:30:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0932364" lon="16.5253955">
+      <ele>469</ele>
+      <time>2022-01-17T21:30:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

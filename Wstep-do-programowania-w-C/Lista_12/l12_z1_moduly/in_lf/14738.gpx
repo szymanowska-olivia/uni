@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:13Z</time>
+    <bounds maxlat="51.2549441" maxlon="16.6576046" minlat="51.2529559" minlon="16.637785"/>
+  </metadata>
+  <wpt lat="51.254944" lon="16.657605">
+    <ele>112</ele>
+    <name>Pogalewo Male</name>
+    <link href="https://mapa-turystyczna.pl/node/10053">
+      <text>Pogalewo Male</text>
+    </link>
+  </wpt>
+  <wpt lat="51.253693" lon="16.637785">
+    <ele>112</ele>
+    <name>Pogalewo Wielkie</name>
+    <link href="https://mapa-turystyczna.pl/node/10054">
+      <text>Pogalewo Wielkie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogalewo Male - Pogalewo Wielkie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2549441,16.6576046;51.253006250027575,16.648622800000002;51.2536934,16.637785">
+    <text>Pogalewo Male - Pogalewo Wielkie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2549441" lon="16.6576046">
+      <ele>112</ele>
+      <time>2022-01-18T00:27:13Z</time>
+    </trkpt>
+    <trkpt lat="51.2548763" lon="16.6573561">
+      <ele>113</ele>
+      <time>2022-01-18T00:27:29Z</time>
+    </trkpt>
+    <trkpt lat="51.2539296" lon="16.6556609">
+      <ele>114</ele>
+      <time>2022-01-18T00:29:40Z</time>
+    </trkpt>
+    <trkpt lat="51.2537348" lon="16.6552318">
+      <ele>115</ele>
+      <time>2022-01-18T00:30:10Z</time>
+    </trkpt>
+    <trkpt lat="51.2536341" lon="16.6549528">
+      <ele>115</ele>
+      <time>2022-01-18T00:30:29Z</time>
+    </trkpt>
+    <trkpt lat="51.2535401" lon="16.6545344">
+      <ele>115</ele>
+      <time>2022-01-18T00:30:55Z</time>
+    </trkpt>
+    <trkpt lat="51.2530499" lon="16.6513908">
+      <ele>114</ele>
+      <time>2022-01-18T00:34:01Z</time>
+    </trkpt>
+    <trkpt lat="51.2529559" lon="16.6503609">
+      <ele>114</ele>
+      <time>2022-01-18T00:35:01Z</time>
+    </trkpt>
+    <trkpt lat="51.2530566" lon="16.6468847">
+      <ele>116</ele>
+      <time>2022-01-18T00:38:22Z</time>
+    </trkpt>
+    <trkpt lat="51.2532916" lon="16.6423357">
+      <ele>116</ele>
+      <time>2022-01-18T00:42:46Z</time>
+    </trkpt>
+    <trkpt lat="51.2533588" lon="16.6416705">
+      <ele>116</ele>
+      <time>2022-01-18T00:43:24Z</time>
+    </trkpt>
+    <trkpt lat="51.2537415" lon="16.6391922">
+      <ele>115</ele>
+      <time>2022-01-18T00:45:52Z</time>
+    </trkpt>
+    <trkpt lat="51.2536934" lon="16.637785">
+      <ele>112</ele>
+      <time>2022-01-18T00:47:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

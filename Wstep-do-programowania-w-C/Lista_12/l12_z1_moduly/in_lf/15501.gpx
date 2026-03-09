@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:19Z</time>
+    <bounds maxlat="50.1627524" maxlon="19.2439751" minlat="50.1620941" minlon="19.240316"/>
+  </metadata>
+  <wpt lat="50.16225" lon="19.240316">
+    <ele>239</ele>
+    <name>Jelen, ul. Celnikow</name>
+    <link href="https://mapa-turystyczna.pl/node/10582">
+      <text>Jelen, ul. Celnikow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.162094" lon="19.243975">
+    <ele>241</ele>
+    <name>Jaworzno, Jelen</name>
+    <link href="https://mapa-turystyczna.pl/node/9093">
+      <text>Jaworzno, Jelen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jelen, ul. Celnikow - Jaworzno, Jelen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1622497,19.240316;50.162750700000025,19.242181950000024;50.1620941,19.2439751">
+    <text>Jelen, ul. Celnikow - Jaworzno, Jelen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1622497" lon="19.240316">
+      <ele>239</ele>
+      <time>2022-01-18T00:40:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1622644" lon="19.2403782">
+      <ele>239</ele>
+      <time>2022-01-18T00:40:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1624328" lon="19.2410849">
+      <ele>239</ele>
+      <time>2022-01-18T00:41:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1625565" lon="19.2415141">
+      <ele>237</ele>
+      <time>2022-01-18T00:41:53Z</time>
+    </trkpt>
+    <trkpt lat="50.162749" lon="19.2420934">
+      <ele>237</ele>
+      <time>2022-01-18T00:42:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1627524" lon="19.2422705">
+      <ele>237</ele>
+      <time>2022-01-18T00:42:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1626253" lon="19.2428605">
+      <ele>239</ele>
+      <time>2022-01-18T00:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1625222" lon="19.2429786">
+      <ele>239</ele>
+      <time>2022-01-18T00:43:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1620941" lon="19.2439751">
+      <ele>241</ele>
+      <time>2022-01-18T00:45:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

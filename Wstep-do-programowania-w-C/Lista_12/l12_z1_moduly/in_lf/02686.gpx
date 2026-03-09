@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:28Z</time>
+    <bounds maxlat="50.2524532" maxlon="16.4089508" minlat="50.2451672" minlon="16.4066648"/>
+  </metadata>
+  <wpt lat="50.245167" lon="16.406665">
+    <ele>638</ele>
+    <name>Zdobnice, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/1921">
+      <text>Zdobnice, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.252453" lon="16.407679">
+    <ele>680</ele>
+    <name>Pod Certovym Dolem</name>
+    <link href="https://mapa-turystyczna.pl/node/1922">
+      <text>Pod Certovym Dolem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zdobnice, bus - Pod Certovym Dolem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2451672,16.4066648;50.24904915163665,16.408810799999998;50.2524532,16.4076787">
+    <text>Zdobnice, bus - Pod Certovym Dolem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2451672" lon="16.4066648">
+      <ele>638</ele>
+      <time>2022-01-17T21:19:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2458293" lon="16.4074548">
+      <ele>643</ele>
+      <time>2022-01-17T21:21:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2469631" lon="16.4079999">
+      <ele>651</ele>
+      <time>2022-01-17T21:24:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2477195" lon="16.4087597">
+      <ele>654</ele>
+      <time>2022-01-17T21:26:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2486542" lon="16.4089508">
+      <ele>660</ele>
+      <time>2022-01-17T21:28:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2494441" lon="16.4086708">
+      <ele>666</ele>
+      <time>2022-01-17T21:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2503917" lon="16.4073609">
+      <ele>682</ele>
+      <time>2022-01-17T21:34:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2510314" lon="16.4070048">
+      <ele>686</ele>
+      <time>2022-01-17T21:35:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2518863" lon="16.4072774">
+      <ele>684</ele>
+      <time>2022-01-17T21:37:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2524532" lon="16.4076787">
+      <ele>680</ele>
+      <time>2022-01-17T21:39:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

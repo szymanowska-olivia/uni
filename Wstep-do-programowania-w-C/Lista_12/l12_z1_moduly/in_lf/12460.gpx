@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:33Z</time>
+    <bounds maxlat="53.9327444" maxlon="14.474773" minlat="53.9323582" minlon="14.4645826"/>
+  </metadata>
+  <wpt lat="53.932358" lon="14.464583">
+    <ele>50</ele>
+    <name>Miedzyzdroje, Droga Zubrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8536">
+      <text>Miedzyzdroje, Droga Zubrowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.932744" lon="14.474773">
+    <ele>59</ele>
+    <name>Zagroda Pokazowa Zubrow</name>
+    <link href="https://mapa-turystyczna.pl/node/8578">
+      <text>Zagroda Pokazowa Zubrow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje, Droga Zubrowa - Zagroda Pokazowa Zubrow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9323582,14.4645826;53.932568300154905,14.468797450000013;53.9327444,14.474773">
+    <text>Miedzyzdroje, Droga Zubrowa - Zagroda Pokazowa Zubrow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9323582" lon="14.4645826">
+      <ele>50</ele>
+      <time>2022-01-17T23:50:33Z</time>
+    </trkpt>
+    <trkpt lat="53.9324546" lon="14.4666946">
+      <ele>51</ele>
+      <time>2022-01-17T23:52:37Z</time>
+    </trkpt>
+    <trkpt lat="53.932682" lon="14.4709003">
+      <ele>58</ele>
+      <time>2022-01-17T23:56:45Z</time>
+    </trkpt>
+    <trkpt lat="53.9325936" lon="14.4727027">
+      <ele>59</ele>
+      <time>2022-01-17T23:58:31Z</time>
+    </trkpt>
+    <trkpt lat="53.9327444" lon="14.474773">
+      <ele>59</ele>
+      <time>2022-01-18T00:00:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

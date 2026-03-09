@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:08:58Z</time>
+    <bounds maxlat="50.8814151" maxlon="16.7393778" minlat="50.8811308" minlon="16.7379723"/>
+  </metadata>
+  <wpt lat="50.881131" lon="16.737972">
+    <ele>301</ele>
+    <name>Droga Bolka</name>
+    <link href="https://mapa-turystyczna.pl/node/11702">
+      <text>Droga Bolka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.881415" lon="16.739378">
+    <ele>293</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11703">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Bolka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8811308,16.7379723;50.88127295021685,16.73867505;50.8814151,16.7393778">
+    <text>Droga Bolka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8811308" lon="16.7379723">
+      <ele>301</ele>
+      <time>2022-01-18T01:08:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8814151" lon="16.7393778">
+      <ele>293</ele>
+      <time>2022-01-18T01:10:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

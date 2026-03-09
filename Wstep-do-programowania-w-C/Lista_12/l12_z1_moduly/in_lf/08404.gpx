@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:12Z</time>
+    <bounds maxlat="50.4823129" maxlon="16.2752366" minlat="50.4781005" minlon="16.2745828"/>
+  </metadata>
+  <wpt lat="50.482313" lon="16.275237">
+    <ele>678</ele>
+    <name>Pod Bukowinou</name>
+    <link href="https://mapa-turystyczna.pl/node/5850">
+      <text>Pod Bukowinou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.4781" lon="16.274883">
+    <ele>706</ele>
+    <name>Bukowina Klodzka, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/5848">
+      <text>Bukowina Klodzka, rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bukowinou - Bukowina Klodzka, rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4823129,16.2752366;50.480166150082574,16.274695549999976;50.4781005,16.2748826">
+    <text>Pod Bukowinou - Bukowina Klodzka, rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4823129" lon="16.2752366">
+      <ele>678</ele>
+      <time>2022-01-17T22:38:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4821452" lon="16.275073">
+      <ele>677</ele>
+      <time>2022-01-17T22:38:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4819843" lon="16.2747592">
+      <ele>678</ele>
+      <time>2022-01-17T22:39:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4813622" lon="16.2747324">
+      <ele>683</ele>
+      <time>2022-01-17T22:40:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4802545" lon="16.2747002">
+      <ele>691</ele>
+      <time>2022-01-17T22:43:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4800778" lon="16.2746909">
+      <ele>692</ele>
+      <time>2022-01-17T22:43:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4799761" lon="16.2746227">
+      <ele>692</ele>
+      <time>2022-01-17T22:43:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4798411" lon="16.2745828">
+      <ele>693</ele>
+      <time>2022-01-17T22:44:10Z</time>
+    </trkpt>
+    <trkpt lat="50.479175" lon="16.2746532">
+      <ele>699</ele>
+      <time>2022-01-17T22:45:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4786727" lon="16.2746914">
+      <ele>703</ele>
+      <time>2022-01-17T22:46:50Z</time>
+    </trkpt>
+    <trkpt lat="50.478191" lon="16.2747833">
+      <ele>705</ele>
+      <time>2022-01-17T22:47:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4781005" lon="16.2748826">
+      <ele>706</ele>
+      <time>2022-01-17T22:48:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

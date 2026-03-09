@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:13Z</time>
+    <bounds maxlat="50.781866" maxlon="16.2156915" minlat="50.7799632" minlon="16.211577"/>
+  </metadata>
+  <wpt lat="50.779963" lon="16.211577">
+    <ele>842</ele>
+    <name>Chelmiec, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/2557">
+      <text>Chelmiec, krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.781866" lon="16.215691">
+    <ele>693</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8057">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmiec, krzyz - Skrzyzowanie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7799632,16.211577;50.781065850829044,16.21351135;50.781866,16.2156915">
+    <text>Chelmiec, krzyz - Skrzyzowanie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7799632" lon="16.211577">
+      <ele>842</ele>
+      <time>2022-01-17T23:35:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7802718" lon="16.2122959">
+      <ele>831</ele>
+      <time>2022-01-17T23:36:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7807874" lon="16.2130201">
+      <ele>807</ele>
+      <time>2022-01-17T23:37:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7813443" lon="16.2140026">
+      <ele>759</ele>
+      <time>2022-01-17T23:38:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7816971" lon="16.2146571">
+      <ele>723</ele>
+      <time>2022-01-17T23:39:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7817446" lon="16.214979">
+      <ele>714</ele>
+      <time>2022-01-17T23:39:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7817982" lon="16.2153858">
+      <ele>703</ele>
+      <time>2022-01-17T23:39:54Z</time>
+    </trkpt>
+    <trkpt lat="50.781866" lon="16.2156915">
+      <ele>693</ele>
+      <time>2022-01-17T23:40:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

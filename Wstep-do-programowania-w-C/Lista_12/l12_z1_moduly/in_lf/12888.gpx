@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:14Z</time>
+    <bounds maxlat="50.8187717" maxlon="15.2463598" minlat="50.7973873" minlon="15.2356272"/>
+  </metadata>
+  <wpt lat="50.818772" lon="15.235627">
+    <ele>880</ele>
+    <name>Pod Cihadlem</name>
+    <link href="https://mapa-turystyczna.pl/node/8865">
+      <text>Pod Cihadlem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.797387" lon="15.245386">
+    <ele>784</ele>
+    <name>Vodopad Jedlove</name>
+    <link href="https://mapa-turystyczna.pl/node/8869">
+      <text>Vodopad Jedlove</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Cihadlem - Vodopad Jedlove</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8187717,15.2356272;50.81024977574346,15.239737400000015;50.7973873,15.2453862">
+    <text>Pod Cihadlem - Vodopad Jedlove</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8187717" lon="15.2356272">
+      <ele>880</ele>
+      <time>2022-01-17T23:58:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8181946" lon="15.2357275">
+      <ele>877</ele>
+      <time>2022-01-17T23:59:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8023036" lon="15.2437473">
+      <ele>839</ele>
+      <time>2022-01-18T00:28:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8000524" lon="15.2463598">
+      <ele>827</ele>
+      <time>2022-01-18T00:33:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7996082" lon="15.2457751">
+      <ele>820</ele>
+      <time>2022-01-18T00:34:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7993166" lon="15.2455873">
+      <ele>816</ele>
+      <time>2022-01-18T00:34:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7988962" lon="15.2455873">
+      <ele>809</ele>
+      <time>2022-01-18T00:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7986521" lon="15.245539">
+      <ele>804</ele>
+      <time>2022-01-18T00:35:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7983232" lon="15.2455551">
+      <ele>798</ele>
+      <time>2022-01-18T00:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7981842" lon="15.2457536">
+      <ele>798</ele>
+      <time>2022-01-18T00:36:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7978688" lon="15.2456088">
+      <ele>791</ele>
+      <time>2022-01-18T00:37:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7976146" lon="15.2453942">
+      <ele>786</ele>
+      <time>2022-01-18T00:37:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7973873" lon="15.2453862">
+      <ele>784</ele>
+      <time>2022-01-18T00:38:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

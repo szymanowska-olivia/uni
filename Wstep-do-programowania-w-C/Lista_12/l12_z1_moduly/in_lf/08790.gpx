@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:13Z</time>
+    <bounds maxlat="50.2461861" maxlon="17.1427274" minlat="50.2442066" minlon="17.1386558"/>
+  </metadata>
+  <wpt lat="50.246186" lon="17.138656">
+    <ele>564</ele>
+    <name>Pomezi, jeskyne</name>
+    <link href="https://mapa-turystyczna.pl/node/6114">
+      <text>Pomezi, jeskyne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244207" lon="17.142727">
+    <ele>578</ele>
+    <name>Lipova</name>
+    <link href="https://mapa-turystyczna.pl/node/2182">
+      <text>Lipova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomezi, jeskyne - Lipova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2461861,17.1386558;50.24493215017364,17.140570849999968;50.2442066,17.1427274">
+    <text>Pomezi, jeskyne - Lipova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2461861" lon="17.1386558">
+      <ele>564</ele>
+      <time>2022-01-17T22:45:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2460248" lon="17.1387738">
+      <ele>566</ele>
+      <time>2022-01-17T22:45:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2457298" lon="17.1391439">
+      <ele>572</ele>
+      <time>2022-01-17T22:46:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2450608" lon="17.1402436">
+      <ele>574</ele>
+      <time>2022-01-17T22:49:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2448035" lon="17.1408981">
+      <ele>575</ele>
+      <time>2022-01-17T22:50:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2450643" lon="17.1416062">
+      <ele>572</ele>
+      <time>2022-01-17T22:52:10Z</time>
+    </trkpt>
+    <trkpt lat="50.244632" lon="17.1421319">
+      <ele>575</ele>
+      <time>2022-01-17T22:53:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2442066" lon="17.1427274">
+      <ele>578</ele>
+      <time>2022-01-17T22:55:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

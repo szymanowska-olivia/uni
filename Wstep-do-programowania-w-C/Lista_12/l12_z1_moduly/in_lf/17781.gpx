@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:34Z</time>
+    <bounds maxlat="52.0972261" maxlon="20.890223" minlat="52.0968447" minlon="20.8878207"/>
+  </metadata>
+  <wpt lat="52.096845" lon="20.890223">
+    <ele>125</ele>
+    <name>Sekocin-Las, ul. Mahoniowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11481">
+      <text>Sekocin-Las, ul. Mahoniowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.097226" lon="20.887821">
+    <ele>126</ele>
+    <name>Sekocin-Las, ul. Mahoniowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12089">
+      <text>Sekocin-Las, ul. Mahoniowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sekocin-Las, ul. Mahoniowa - Sekocin-Las, ul. Mahoniowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0968447,20.890223;52.097035400407634,20.889021849999967;52.0972261,20.8878207">
+    <text>Sekocin-Las, ul. Mahoniowa - Sekocin-Las, ul. Mahoniowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0968447" lon="20.890223">
+      <ele>125</ele>
+      <time>2022-01-18T01:19:34Z</time>
+    </trkpt>
+    <trkpt lat="52.0972261" lon="20.8878207">
+      <ele>126</ele>
+      <time>2022-01-18T01:22:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

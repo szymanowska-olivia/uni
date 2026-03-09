@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:08Z</time>
+    <bounds maxlat="50.7855845" maxlon="16.3014793" minlat="50.784877" minlon="16.3013748"/>
+  </metadata>
+  <wpt lat="50.784877" lon="16.301457">
+    <ele>560</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7216">
+      <text>Skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="50.785584" lon="16.301478">
+    <ele>564</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7215">
+      <text>Skrzyzowanie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zielony - Skrzyzowanie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.784877,16.3014565;50.78513065034631,16.301394899999977;50.7855845,16.3014778">
+    <text>Skrzyzowanie szlakow niebieski / zielony - Skrzyzowanie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.784877" lon="16.3014565">
+      <ele>560</ele>
+      <time>2022-01-17T23:13:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7849507" lon="16.3013748">
+      <ele>561</ele>
+      <time>2022-01-17T23:13:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7853106" lon="16.301415">
+      <ele>565</ele>
+      <time>2022-01-17T23:14:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7855819" lon="16.3014793">
+      <ele>564</ele>
+      <time>2022-01-17T23:15:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7855845" lon="16.3014778">
+      <ele>564</ele>
+      <time>2022-01-17T23:15:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:12Z</time>
+    <bounds maxlat="51.5240802" maxlon="23.093633" minlat="51.5209502" minlon="23.0890937"/>
+  </metadata>
+  <wpt lat="51.521392" lon="23.089094">
+    <ele>163</ele>
+    <name>Sosnowica</name>
+    <link href="https://mapa-turystyczna.pl/node/13298">
+      <text>Sosnowica</text>
+    </link>
+  </wpt>
+  <wpt lat="51.52408" lon="23.093633">
+    <ele>165</ele>
+    <name>Sosnowica, ul. Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/13299">
+      <text>Sosnowica, ul. Mickiewicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowica - Sosnowica, ul. Mickiewicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5213917,23.0890937;51.52237327223466,23.09226350000002;51.5240802,23.093633">
+    <text>Sosnowica - Sosnowica, ul. Mickiewicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5213917" lon="23.0890937">
+      <ele>163</ele>
+      <time>2022-01-18T01:53:12Z</time>
+    </trkpt>
+    <trkpt lat="51.5209502" lon="23.0913633">
+      <ele>164</ele>
+      <time>2022-01-18T01:56:11Z</time>
+    </trkpt>
+    <trkpt lat="51.5237963" lon="23.0931637">
+      <ele>164</ele>
+      <time>2022-01-18T02:02:22Z</time>
+    </trkpt>
+    <trkpt lat="51.5239449" lon="23.0933232">
+      <ele>164</ele>
+      <time>2022-01-18T02:02:43Z</time>
+    </trkpt>
+    <trkpt lat="51.5240192" lon="23.0935049">
+      <ele>164</ele>
+      <time>2022-01-18T02:03:00Z</time>
+    </trkpt>
+    <trkpt lat="51.5240802" lon="23.093633">
+      <ele>165</ele>
+      <time>2022-01-18T02:03:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:29Z</time>
+    <bounds maxlat="50.6597186" maxlon="15.9089916" minlat="50.655093" minlon="15.9077096"/>
+  </metadata>
+  <wpt lat="50.659719" lon="15.90771">
+    <ele>628</ele>
+    <name>Zacler, U Porcelanky</name>
+    <link href="https://mapa-turystyczna.pl/node/1441">
+      <text>Zacler, U Porcelanky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.655093" lon="15.908229">
+    <ele>618</ele>
+    <name>Zacler, stred</name>
+    <link href="https://mapa-turystyczna.pl/node/1440">
+      <text>Zacler, stred</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zacler, U Porcelanky - Zacler, stred</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6597186,15.9077096;50.65771755324207,15.908567900000005;50.655093,15.9082291">
+    <text>Zacler, U Porcelanky - Zacler, stred</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6597186" lon="15.9077096">
+      <ele>628</ele>
+      <time>2022-01-17T21:09:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6591657" lon="15.9077873">
+      <ele>628</ele>
+      <time>2022-01-17T21:10:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6582694" lon="15.9082246">
+      <ele>626</ele>
+      <time>2022-01-17T21:12:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6571657" lon="15.9089112">
+      <ele>614</ele>
+      <time>2022-01-17T21:15:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6565881" lon="15.9089916">
+      <ele>614</ele>
+      <time>2022-01-17T21:16:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6560922" lon="15.9088361">
+      <ele>616</ele>
+      <time>2022-01-17T21:17:16Z</time>
+    </trkpt>
+    <trkpt lat="50.655093" lon="15.9082291">
+      <ele>618</ele>
+      <time>2022-01-17T21:19:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

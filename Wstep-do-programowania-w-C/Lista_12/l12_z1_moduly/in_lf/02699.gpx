@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:41Z</time>
+    <bounds maxlat="50.2982222" maxlon="16.4132309" minlat="50.2888731" minlon="16.390518"/>
+  </metadata>
+  <wpt lat="50.298222" lon="16.413231">
+    <ele>1047</ele>
+    <name>Pod Jelenkou</name>
+    <link href="https://mapa-turystyczna.pl/node/1915">
+      <text>Pod Jelenkou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291821" lon="16.390518">
+    <ele>932</ele>
+    <name>Pod Marusou</name>
+    <link href="https://mapa-turystyczna.pl/node/1890">
+      <text>Pod Marusou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jelenkou - Pod Marusou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2982222,16.4132309;50.289819102022264,16.402663;50.2918206,16.390518">
+    <text>Pod Jelenkou - Pod Marusou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2982222" lon="16.4132309">
+      <ele>1047</ele>
+      <time>2022-01-17T21:19:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2967007" lon="16.4081025">
+      <ele>1006</ele>
+      <time>2022-01-17T21:26:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2944595" lon="16.4062893">
+      <ele>978</ele>
+      <time>2022-01-17T21:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2930544" lon="16.4051628">
+      <ele>975</ele>
+      <time>2022-01-17T21:33:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2916835" lon="16.4045191">
+      <ele>974</ele>
+      <time>2022-01-17T21:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2902578" lon="16.403532">
+      <ele>982</ele>
+      <time>2022-01-17T21:39:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2893804" lon="16.401794">
+      <ele>987</ele>
+      <time>2022-01-17T21:41:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2889485" lon="16.4005387">
+      <ele>983</ele>
+      <time>2022-01-17T21:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2888731" lon="16.3977385">
+      <ele>976</ele>
+      <time>2022-01-17T21:46:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2894626" lon="16.3967729">
+      <ele>974</ele>
+      <time>2022-01-17T21:48:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2928213" lon="16.3929105">
+      <ele>950</ele>
+      <time>2022-01-17T21:56:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2928488" lon="16.3922265">
+      <ele>946</ele>
+      <time>2022-01-17T21:56:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2924786" lon="16.3916284">
+      <ele>941</ele>
+      <time>2022-01-17T21:57:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2918206" lon="16.390518">
+      <ele>932</ele>
+      <time>2022-01-17T21:59:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

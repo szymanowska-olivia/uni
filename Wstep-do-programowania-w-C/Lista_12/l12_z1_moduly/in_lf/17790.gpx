@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:42Z</time>
+    <bounds maxlat="51.7904787" maxlon="21.2035186" minlat="51.7890196" minlon="21.201176"/>
+  </metadata>
+  <wpt lat="51.790479" lon="21.203519">
+    <ele>120</ele>
+    <name>Warka ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12093">
+      <text>Warka ul. Parkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.78902" lon="21.201176">
+    <ele>115</ele>
+    <name>Warka, ul. Kwiatowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12092">
+      <text>Warka, ul. Kwiatowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Warka ul. Parkowa - Warka, ul. Kwiatowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7904787,21.2035186;51.78980600011354,21.202039449999997;51.7890196,21.201176">
+    <text>Warka ul. Parkowa - Warka, ul. Kwiatowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7904787" lon="21.2035186">
+      <ele>120</ele>
+      <time>2022-01-18T01:19:42Z</time>
+    </trkpt>
+    <trkpt lat="51.7902854" lon="21.2029246">
+      <ele>121</ele>
+      <time>2022-01-18T01:20:41Z</time>
+    </trkpt>
+    <trkpt lat="51.7901726" lon="21.202592">
+      <ele>121</ele>
+      <time>2022-01-18T01:21:15Z</time>
+    </trkpt>
+    <trkpt lat="51.7899072" lon="21.2021467">
+      <ele>120</ele>
+      <time>2022-01-18T01:22:09Z</time>
+    </trkpt>
+    <trkpt lat="51.7897048" lon="21.2019322">
+      <ele>118</ele>
+      <time>2022-01-18T01:22:44Z</time>
+    </trkpt>
+    <trkpt lat="51.7890196" lon="21.201176">
+      <ele>115</ele>
+      <time>2022-01-18T01:24:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

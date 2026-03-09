@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:42Z</time>
+    <bounds maxlat="52.4378294" maxlon="20.6756269" minlat="52.4367437" minlon="20.6745003"/>
+  </metadata>
+  <wpt lat="52.437829" lon="20.6745">
+    <ele>106</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12226">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.436744" lon="20.675627">
+    <ele>102</ele>
+    <name>Twierdza Modlin, Brama Kadetow</name>
+    <link href="https://mapa-turystyczna.pl/node/12227">
+      <text>Twierdza Modlin, Brama Kadetow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski / zolty - Twierdza Modlin, Brama Kadetow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4378294,20.6745003;52.437130501038325,20.675289849999995;52.4367437,20.6756269">
+    <text>Skrzyzowanie szlakow czerwony / niebieski / zolty - Twierdza Modlin, Brama Kadetow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4378294" lon="20.6745003">
+      <ele>106</ele>
+      <time>2022-01-18T01:22:42Z</time>
+    </trkpt>
+    <trkpt lat="52.4376455" lon="20.6748097">
+      <ele>105</ele>
+      <time>2022-01-18T01:23:06Z</time>
+    </trkpt>
+    <trkpt lat="52.437433" lon="20.6750458">
+      <ele>105</ele>
+      <time>2022-01-18T01:23:30Z</time>
+    </trkpt>
+    <trkpt lat="52.436828" lon="20.6755339">
+      <ele>102</ele>
+      <time>2022-01-18T01:24:33Z</time>
+    </trkpt>
+    <trkpt lat="52.4367437" lon="20.6756269">
+      <ele>102</ele>
+      <time>2022-01-18T01:24:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

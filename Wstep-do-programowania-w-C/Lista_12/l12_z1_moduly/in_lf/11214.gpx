@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:29Z</time>
+    <bounds maxlat="49.9865535" maxlon="17.0794483" minlat="49.9865029" minlon="17.0789395"/>
+  </metadata>
+  <wpt lat="49.986503" lon="17.07894">
+    <ele>655</ele>
+    <name>Nad Hrabesicemi, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7901">
+      <text>Nad Hrabesicemi, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.986549" lon="17.079448">
+    <ele>652</ele>
+    <name>Nad Hrabesicemi</name>
+    <link href="https://mapa-turystyczna.pl/node/7900">
+      <text>Nad Hrabesicemi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Hrabesicemi, rozc. - Nad Hrabesicemi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9865029,17.0789395;49.98655125000007,17.079304999999994;49.986549,17.0794483">
+    <text>Nad Hrabesicemi, rozc. - Nad Hrabesicemi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9865029" lon="17.0789395">
+      <ele>655</ele>
+      <time>2022-01-17T23:30:29Z</time>
+    </trkpt>
+    <trkpt lat="49.9865535" lon="17.0791617">
+      <ele>654</ele>
+      <time>2022-01-17T23:30:56Z</time>
+    </trkpt>
+    <trkpt lat="49.986549" lon="17.0794483">
+      <ele>652</ele>
+      <time>2022-01-17T23:31:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

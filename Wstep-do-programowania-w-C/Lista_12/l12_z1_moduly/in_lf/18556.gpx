@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:57Z</time>
+    <bounds maxlat="54.0696857" maxlon="14.9651905" minlat="54.0653961" minlon="14.9528616"/>
+  </metadata>
+  <wpt lat="54.065396" lon="14.95337">
+    <ele>17</ele>
+    <name>Pobierowo, ul. Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12559">
+      <text>Pobierowo, ul. Graniczna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.069686" lon="14.965191">
+    <ele>20</ele>
+    <name>Odejscie sciezki historycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12557">
+      <text>Odejscie sciezki historycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pobierowo, ul. Graniczna - Odejscie sciezki historycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0653961,14.9533696;54.06818490217496,14.958448349999998;54.0696857,14.9651905">
+    <text>Pobierowo, ul. Graniczna - Odejscie sciezki historycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0653961" lon="14.9533696">
+      <ele>17</ele>
+      <time>2022-01-18T01:32:57Z</time>
+    </trkpt>
+    <trkpt lat="54.0664686" lon="14.9528616">
+      <ele>15</ele>
+      <time>2022-01-18T01:34:46Z</time>
+    </trkpt>
+    <trkpt lat="54.0666518" lon="14.9528747">
+      <ele>14</ele>
+      <time>2022-01-18T01:35:03Z</time>
+    </trkpt>
+    <trkpt lat="54.0669351" lon="14.953218">
+      <ele>12</ele>
+      <time>2022-01-18T01:35:37Z</time>
+    </trkpt>
+    <trkpt lat="54.067231" lon="14.9537115">
+      <ele>13</ele>
+      <time>2022-01-18T01:36:18Z</time>
+    </trkpt>
+    <trkpt lat="54.0674004" lon="14.9544065">
+      <ele>13</ele>
+      <time>2022-01-18T01:37:01Z</time>
+    </trkpt>
+    <trkpt lat="54.0677599" lon="14.9563723">
+      <ele>18</ele>
+      <time>2022-01-18T01:38:59Z</time>
+    </trkpt>
+    <trkpt lat="54.0686099" lon="14.9605244">
+      <ele>21</ele>
+      <time>2022-01-18T01:43:10Z</time>
+    </trkpt>
+    <trkpt lat="54.0691381" lon="14.9630003">
+      <ele>22</ele>
+      <time>2022-01-18T01:45:41Z</time>
+    </trkpt>
+    <trkpt lat="54.0696857" lon="14.9651905">
+      <ele>20</ele>
+      <time>2022-01-18T01:47:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

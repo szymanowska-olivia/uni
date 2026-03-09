@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:00Z</time>
+    <bounds maxlat="49.3063111" maxlon="22.2450388" minlat="49.3060725" minlon="22.2448021"/>
+  </metadata>
+  <wpt lat="49.306311" lon="22.245039">
+    <ele>524</ele>
+    <name>Skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12754">
+      <text>Skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.306072" lon="22.244802">
+    <ele>527</ele>
+    <name>Zrodlo Rabskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11108">
+      <text>Zrodlo Rabskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow - Zrodlo Rabskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3063111,22.2450388;49.30618060011858,22.24491730000004;49.3060725,22.2448021">
+    <text>Skrzyzowanie szlakow - Zrodlo Rabskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3063111" lon="22.2450388">
+      <ele>524</ele>
+      <time>2022-01-18T01:38:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3062887" lon="22.2450325">
+      <ele>524</ele>
+      <time>2022-01-18T01:38:05Z</time>
+    </trkpt>
+    <trkpt lat="49.3060725" lon="22.2448021">
+      <ele>527</ele>
+      <time>2022-01-18T01:39:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

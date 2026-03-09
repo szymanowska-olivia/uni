@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:04Z</time>
+    <bounds maxlat="49.9505902" maxlon="18.5692711" minlat="49.948225" minlon="18.5680124"/>
+  </metadata>
+  <wpt lat="49.95059" lon="18.569271">
+    <ele>257</ele>
+    <name>Jastrzebie Zdroj, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9864">
+      <text>Jastrzebie Zdroj, pomnik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.948225" lon="18.569229">
+    <ele>257</ele>
+    <name>Jastrzebie Zdroj, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9865">
+      <text>Jastrzebie Zdroj, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jastrzebie Zdroj, pomnik - Jastrzebie Zdroj, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9505902,18.5692711;49.94905800720344,18.568620900000035;49.948225,18.5692294">
+    <text>Jastrzebie Zdroj, pomnik - Jastrzebie Zdroj, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9505902" lon="18.5692711">
+      <ele>257</ele>
+      <time>2022-01-18T00:23:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9505745" lon="18.5691926">
+      <ele>257</ele>
+      <time>2022-01-18T00:23:09Z</time>
+    </trkpt>
+    <trkpt lat="49.9504226" lon="18.5690048">
+      <ele>257</ele>
+      <time>2022-01-18T00:23:28Z</time>
+    </trkpt>
+    <trkpt lat="49.9503259" lon="18.5688492">
+      <ele>257</ele>
+      <time>2022-01-18T00:23:42Z</time>
+    </trkpt>
+    <trkpt lat="49.9501603" lon="18.5688975">
+      <ele>257</ele>
+      <time>2022-01-18T00:23:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9501257" lon="18.5688331">
+      <ele>257</ele>
+      <time>2022-01-18T00:24:04Z</time>
+    </trkpt>
+    <trkpt lat="49.949891" lon="18.5680124">
+      <ele>256</ele>
+      <time>2022-01-18T00:25:02Z</time>
+    </trkpt>
+    <trkpt lat="49.948225" lon="18.5692294">
+      <ele>257</ele>
+      <time>2022-01-18T00:28:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

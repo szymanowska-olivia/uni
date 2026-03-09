@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:37Z</time>
+    <bounds maxlat="49.5784382" maxlon="18.7713023" minlat="49.5759832" minlon="18.7666997"/>
+  </metadata>
+  <wpt lat="49.578438" lon="18.7667">
+    <ele>382</ele>
+    <name>Jablunkov</name>
+    <link href="https://mapa-turystyczna.pl/node/750">
+      <text>Jablunkov</text>
+    </link>
+  </wpt>
+  <wpt lat="49.575983" lon="18.771302">
+    <ele>383</ele>
+    <name>Jablunkov, ulice Lesni</name>
+    <link href="https://mapa-turystyczna.pl/node/3898">
+      <text>Jablunkov, ulice Lesni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablunkov - Jablunkov, ulice Lesni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5784382,18.7666997;49.57733625389975,18.76833254999999;49.5759832,18.7713023">
+    <text>Jablunkov - Jablunkov, ulice Lesni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5784382" lon="18.7666997">
+      <ele>382</ele>
+      <time>2022-01-17T21:57:37Z</time>
+    </trkpt>
+    <trkpt lat="49.5779532" lon="18.7673665">
+      <ele>381</ele>
+      <time>2022-01-17T21:58:26Z</time>
+    </trkpt>
+    <trkpt lat="49.5767193" lon="18.7692986">
+      <ele>381</ele>
+      <time>2022-01-17T22:00:39Z</time>
+    </trkpt>
+    <trkpt lat="49.5764803" lon="18.7697822">
+      <ele>381</ele>
+      <time>2022-01-17T22:01:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5764088" lon="18.7699892">
+      <ele>380</ele>
+      <time>2022-01-17T22:01:20Z</time>
+    </trkpt>
+    <trkpt lat="49.5763408" lon="18.770325">
+      <ele>380</ele>
+      <time>2022-01-17T22:01:38Z</time>
+    </trkpt>
+    <trkpt lat="49.5762733" lon="18.7709719">
+      <ele>382</ele>
+      <time>2022-01-17T22:02:10Z</time>
+    </trkpt>
+    <trkpt lat="49.5759832" lon="18.7713023">
+      <ele>383</ele>
+      <time>2022-01-17T22:02:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

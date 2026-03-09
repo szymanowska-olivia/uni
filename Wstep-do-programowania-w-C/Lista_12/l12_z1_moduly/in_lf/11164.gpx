@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:38Z</time>
+    <bounds maxlat="50.6818792" maxlon="16.2404392" minlat="50.6804844" minlon="16.2401899"/>
+  </metadata>
+  <wpt lat="50.680484" lon="16.24025">
+    <ele>598</ele>
+    <name>Bednarski Jar</name>
+    <link href="https://mapa-turystyczna.pl/node/2345">
+      <text>Bednarski Jar</text>
+    </link>
+  </wpt>
+  <wpt lat="50.681879" lon="16.240439">
+    <ele>598</ele>
+    <name>Sokolowsko, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7865">
+      <text>Sokolowsko, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bednarski Jar - Sokolowsko, skrzyzowanie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6804844,16.2402499;50.68107660088928,16.24020060000001;50.6818792,16.2404392">
+    <text>Bednarski Jar - Sokolowsko, skrzyzowanie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6804844" lon="16.2402499">
+      <ele>598</ele>
+      <time>2022-01-17T23:29:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6807877" lon="16.2402113">
+      <ele>598</ele>
+      <time>2022-01-17T23:30:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6813655" lon="16.2401899">
+      <ele>598</ele>
+      <time>2022-01-17T23:30:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6815355" lon="16.2402113">
+      <ele>599</ele>
+      <time>2022-01-17T23:31:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6818792" lon="16.2404392">
+      <ele>598</ele>
+      <time>2022-01-17T23:31:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

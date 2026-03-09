@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:50:04Z</time>
+    <bounds maxlat="49.357795" maxlon="20.941737" minlat="49.354374" minlon="20.939276"/>
+  </metadata>
+  <wpt lat="49.357795" lon="20.939276">
+    <ele>656</ele>
+    <name>Czarna Mlaka, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/10973">
+      <text>Czarna Mlaka, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.354374" lon="20.941737">
+    <ele>704</ele>
+    <name>Odejscie do Czarnej Mlaki</name>
+    <link href="https://mapa-turystyczna.pl/node/10971">
+      <text>Odejscie do Czarnej Mlaki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarna Mlaka, skrzyzowanie - Odejscie do Czarnej Mlaki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.357795,20.939276;49.355878500342286,20.94038399999997;49.354374,20.941737">
+    <text>Czarna Mlaka, skrzyzowanie - Odejscie do Czarnej Mlaki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.357795" lon="20.939276">
+      <ele>656</ele>
+      <time>2022-01-18T00:50:04Z</time>
+    </trkpt>
+    <trkpt lat="49.357736" lon="20.939378">
+      <ele>658</ele>
+      <time>2022-01-18T00:50:18Z</time>
+    </trkpt>
+    <trkpt lat="49.357599" lon="20.939528">
+      <ele>662</ele>
+      <time>2022-01-18T00:50:44Z</time>
+    </trkpt>
+    <trkpt lat="49.357428" lon="20.939678">
+      <ele>667</ele>
+      <time>2022-01-18T00:51:16Z</time>
+    </trkpt>
+    <trkpt lat="49.357131" lon="20.939899">
+      <ele>674</ele>
+      <time>2022-01-18T00:52:08Z</time>
+    </trkpt>
+    <trkpt lat="49.356904" lon="20.939995">
+      <ele>680</ele>
+      <time>2022-01-18T00:52:45Z</time>
+    </trkpt>
+    <trkpt lat="49.356656" lon="20.940075">
+      <ele>687</ele>
+      <time>2022-01-18T00:53:25Z</time>
+    </trkpt>
+    <trkpt lat="49.356373" lon="20.940193">
+      <ele>693</ele>
+      <time>2022-01-18T00:54:11Z</time>
+    </trkpt>
+    <trkpt lat="49.356062" lon="20.940274">
+      <ele>697</ele>
+      <time>2022-01-18T00:55:00Z</time>
+    </trkpt>
+    <trkpt lat="49.355695" lon="20.940494">
+      <ele>697</ele>
+      <time>2022-01-18T00:56:01Z</time>
+    </trkpt>
+    <trkpt lat="49.355234" lon="20.94073">
+      <ele>699</ele>
+      <time>2022-01-18T00:57:16Z</time>
+    </trkpt>
+    <trkpt lat="49.354965" lon="20.940993">
+      <ele>702</ele>
+      <time>2022-01-18T00:58:06Z</time>
+    </trkpt>
+    <trkpt lat="49.354629" lon="20.941384">
+      <ele>703</ele>
+      <time>2022-01-18T00:59:11Z</time>
+    </trkpt>
+    <trkpt lat="49.354374" lon="20.941737">
+      <ele>704</ele>
+      <time>2022-01-18T01:00:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:50Z</time>
+    <bounds maxlat="50.690086" maxlon="16.304183" minlat="50.6897359" minlon="16.3005484"/>
+  </metadata>
+  <wpt lat="50.689736" lon="16.304183">
+    <ele>837</ele>
+    <name>Przelecz pod Jelencem</name>
+    <link href="https://mapa-turystyczna.pl/node/2335">
+      <text>Przelecz pod Jelencem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.690082" lon="16.300548">
+    <ele>849</ele>
+    <name>Pod Turzyna</name>
+    <link href="https://mapa-turystyczna.pl/node/4590">
+      <text>Pod Turzyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Jelencem - Pod Turzyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6897359,16.304183;50.68991095032659,16.303024300000022;50.6900821,16.3005484">
+    <text>Przelecz pod Jelencem - Pod Turzyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6897359" lon="16.304183">
+      <ele>837</ele>
+      <time>2022-01-17T22:09:50Z</time>
+    </trkpt>
+    <trkpt lat="50.690086" lon="16.3018656">
+      <ele>838</ele>
+      <time>2022-01-17T22:13:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6900579" lon="16.3010556">
+      <ele>846</ele>
+      <time>2022-01-17T22:14:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6900821" lon="16.3005484">
+      <ele>849</ele>
+      <time>2022-01-17T22:14:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

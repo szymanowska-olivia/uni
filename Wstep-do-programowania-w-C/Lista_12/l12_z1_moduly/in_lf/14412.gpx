@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:54Z</time>
+    <bounds maxlat="49.3400442" maxlon="22.7128624" minlat="49.3365463" minlon="22.7121233"/>
+  </metadata>
+  <wpt lat="49.336546" lon="22.712123">
+    <ele>873</ele>
+    <name>Pod Jawornikami</name>
+    <link href="https://mapa-turystyczna.pl/node/9837">
+      <text>Pod Jawornikami</text>
+    </link>
+  </wpt>
+  <wpt lat="49.340044" lon="22.712862">
+    <ele>909</ele>
+    <name>Jaworniki</name>
+    <link href="https://mapa-turystyczna.pl/node/9842">
+      <text>Jaworniki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jawornikami - Jaworniki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3365463,22.7121233;49.33822315032279,22.7126532;49.3400442,22.7128624">
+    <text>Pod Jawornikami - Jaworniki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3365463" lon="22.7121233">
+      <ele>873</ele>
+      <time>2022-01-18T00:21:54Z</time>
+    </trkpt>
+    <trkpt lat="49.3371081" lon="22.7124977">
+      <ele>880</ele>
+      <time>2022-01-18T00:23:36Z</time>
+    </trkpt>
+    <trkpt lat="49.3380449" lon="22.7125835">
+      <ele>888</ele>
+      <time>2022-01-18T00:26:11Z</time>
+    </trkpt>
+    <trkpt lat="49.3384014" lon="22.7127229">
+      <ele>896</ele>
+      <time>2022-01-18T00:27:13Z</time>
+    </trkpt>
+    <trkpt lat="49.3387999" lon="22.7127766">
+      <ele>898</ele>
+      <time>2022-01-18T00:28:19Z</time>
+    </trkpt>
+    <trkpt lat="49.3394011" lon="22.7126479">
+      <ele>903</ele>
+      <time>2022-01-18T00:30:00Z</time>
+    </trkpt>
+    <trkpt lat="49.3398485" lon="22.7126479">
+      <ele>907</ele>
+      <time>2022-01-18T00:31:14Z</time>
+    </trkpt>
+    <trkpt lat="49.3400442" lon="22.7128624">
+      <ele>909</ele>
+      <time>2022-01-18T00:31:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

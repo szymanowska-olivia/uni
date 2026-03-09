@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:32:57Z</time>
+    <bounds maxlat="49.524567" maxlon="18.857105" minlat="49.523976" minlon="18.856959"/>
+  </metadata>
+  <wpt lat="49.524567" lon="18.856967">
+    <ele>618</ele>
+    <name>Jaworzynka, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/5650">
+      <text>Jaworzynka, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="49.523976" lon="18.857105">
+    <ele>610</ele>
+    <name>Trzycatek</name>
+    <link href="https://mapa-turystyczna.pl/node/841">
+      <text>Trzycatek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzynka, kosciol - Trzycatek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.524567,18.856967;49.52425650012488,18.85703450000001;49.523976,18.857105">
+    <text>Jaworzynka, kosciol - Trzycatek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.524567" lon="18.856967">
+      <ele>618</ele>
+      <time>2022-01-17T22:32:57Z</time>
+    </trkpt>
+    <trkpt lat="49.524482" lon="18.856959">
+      <ele>617</ele>
+      <time>2022-01-17T22:33:05Z</time>
+    </trkpt>
+    <trkpt lat="49.524367" lon="18.856982">
+      <ele>616</ele>
+      <time>2022-01-17T22:33:17Z</time>
+    </trkpt>
+    <trkpt lat="49.524146" lon="18.857087">
+      <ele>612</ele>
+      <time>2022-01-17T22:33:40Z</time>
+    </trkpt>
+    <trkpt lat="49.523976" lon="18.857105">
+      <ele>610</ele>
+      <time>2022-01-17T22:33:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

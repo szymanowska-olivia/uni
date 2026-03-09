@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:56Z</time>
+    <bounds maxlat="50.7683834" maxlon="20.9417304" minlat="50.7627053" minlon="20.93683"/>
+  </metadata>
+  <wpt lat="50.768383" lon="20.94173">
+    <ele>310</ele>
+    <name>Widelki, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3162">
+      <text>Widelki, przystanek autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762705" lon="20.93683">
+    <ele>294</ele>
+    <name>Widelki</name>
+    <link href="https://mapa-turystyczna.pl/node/3159">
+      <text>Widelki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Widelki, przystanek autobusowy - Widelki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7683834,20.9417304;50.76492440444172,20.938836349999974;50.7627053,20.93683">
+    <text>Widelki, przystanek autobusowy - Widelki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7683834" lon="20.9417304">
+      <ele>310</ele>
+      <time>2022-01-17T21:43:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7676014" lon="20.941245">
+      <ele>306</ele>
+      <time>2022-01-17T21:45:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7672689" lon="20.9410572">
+      <ele>305</ele>
+      <time>2022-01-17T21:45:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7666446" lon="20.940671">
+      <ele>301</ele>
+      <time>2022-01-17T21:46:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7664071" lon="20.9404778">
+      <ele>300</ele>
+      <time>2022-01-17T21:47:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7659949" lon="20.9399924">
+      <ele>300</ele>
+      <time>2022-01-17T21:48:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7655691" lon="20.9394157">
+      <ele>301</ele>
+      <time>2022-01-17T21:48:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7642797" lon="20.938257">
+      <ele>298</ele>
+      <time>2022-01-17T21:51:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7627053" lon="20.93683">
+      <ele>294</ele>
+      <time>2022-01-17T21:53:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

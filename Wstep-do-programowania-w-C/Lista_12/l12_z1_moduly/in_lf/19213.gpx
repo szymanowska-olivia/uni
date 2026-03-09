@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:12Z</time>
+    <bounds maxlat="51.4921843" maxlon="23.5231103" minlat="51.4914739" minlon="23.5181442"/>
+  </metadata>
+  <wpt lat="51.492184" lon="23.52311">
+    <ele>169</ele>
+    <name>Okuninka, Jezioro Biale</name>
+    <link href="https://mapa-turystyczna.pl/node/12979">
+      <text>Okuninka, Jezioro Biale</text>
+    </link>
+  </wpt>
+  <wpt lat="51.491474" lon="23.518144">
+    <ele>170</ele>
+    <name>Okuninka, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12978">
+      <text>Okuninka, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okuninka, Jezioro Biale - Okuninka, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4921843,23.5231103;51.49182910138376,23.520627249999986;51.4914739,23.5181442">
+    <text>Okuninka, Jezioro Biale - Okuninka, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4921843" lon="23.5231103">
+      <ele>169</ele>
+      <time>2022-01-18T01:44:12Z</time>
+    </trkpt>
+    <trkpt lat="51.4914739" lon="23.5181442">
+      <ele>170</ele>
+      <time>2022-01-18T01:49:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

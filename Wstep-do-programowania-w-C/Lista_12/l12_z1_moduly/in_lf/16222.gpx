@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:06Z</time>
+    <bounds maxlat="49.1475372" maxlon="22.5204662" minlat="49.1457923" minlon="22.5182338"/>
+  </metadata>
+  <wpt lat="49.145792" lon="22.518234">
+    <ele>721</ele>
+    <name>Gorna Wetlinka</name>
+    <link href="https://mapa-turystyczna.pl/node/336">
+      <text>Gorna Wetlinka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.147537" lon="22.520466">
+    <ele>742</ele>
+    <name>Gorna Wetlinka, kemping</name>
+    <link href="https://mapa-turystyczna.pl/node/11070">
+      <text>Gorna Wetlinka, kemping</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorna Wetlinka - Gorna Wetlinka, kemping</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1457923,22.5182338;49.14709460189372,22.519509750000015;49.1475372,22.5204662">
+    <text>Gorna Wetlinka - Gorna Wetlinka, kemping</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1457923" lon="22.5182338">
+      <ele>721</ele>
+      <time>2022-01-18T00:53:06Z</time>
+    </trkpt>
+    <trkpt lat="49.1462972" lon="22.5182551">
+      <ele>724</ele>
+      <time>2022-01-18T00:54:08Z</time>
+    </trkpt>
+    <trkpt lat="49.1464862" lon="22.5183329">
+      <ele>724</ele>
+      <time>2022-01-18T00:54:32Z</time>
+    </trkpt>
+    <trkpt lat="49.1466614" lon="22.5185864">
+      <ele>726</ele>
+      <time>2022-01-18T00:55:01Z</time>
+    </trkpt>
+    <trkpt lat="49.1475278" lon="22.5204331">
+      <ele>741</ele>
+      <time>2022-01-18T00:58:03Z</time>
+    </trkpt>
+    <trkpt lat="49.1475372" lon="22.5204662">
+      <ele>742</ele>
+      <time>2022-01-18T00:58:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:08Z</time>
+    <bounds maxlat="50.6716968" maxlon="16.419931" minlat="50.6698882" minlon="16.417624"/>
+  </metadata>
+  <wpt lat="50.671697" lon="16.419931">
+    <ele>591</ele>
+    <name>Kompleks Osowka</name>
+    <link href="https://mapa-turystyczna.pl/node/3945">
+      <text>Kompleks Osowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.669888" lon="16.417624">
+    <ele>585</ele>
+    <name>Kompleks Osowka, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/3940">
+      <text>Kompleks Osowka, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kompleks Osowka - Kompleks Osowka, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6716968,16.419931;50.67065495057204,16.419091500000025;50.6698882,16.417624">
+    <text>Kompleks Osowka - Kompleks Osowka, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6716968" lon="16.419931">
+      <ele>591</ele>
+      <time>2022-01-17T21:59:08Z</time>
+    </trkpt>
+    <trkpt lat="50.6712595" lon="16.4196655">
+      <ele>592</ele>
+      <time>2022-01-17T22:00:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6708867" lon="16.419298">
+      <ele>591</ele>
+      <time>2022-01-17T22:01:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6704232" lon="16.418885">
+      <ele>589</ele>
+      <time>2022-01-17T22:02:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6702443" lon="16.4187241">
+      <ele>587</ele>
+      <time>2022-01-17T22:02:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6700497" lon="16.4183378">
+      <ele>587</ele>
+      <time>2022-01-17T22:03:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6698882" lon="16.417624">
+      <ele>585</ele>
+      <time>2022-01-17T22:04:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

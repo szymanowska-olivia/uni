@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:12Z</time>
+    <bounds maxlat="50.6133103" maxlon="15.9889483" minlat="50.6112849" minlon="15.9866335"/>
+  </metadata>
+  <wpt lat="50.61331" lon="15.986633">
+    <ele>673</ele>
+    <name>Jansky Vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5728">
+      <text>Jansky Vrch, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.611285" lon="15.988948">
+    <ele>697</ele>
+    <name>Janski Wierch</name>
+    <link href="https://mapa-turystyczna.pl/node/2915">
+      <text>Janski Wierch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jansky Vrch, rozc. - Janski Wierch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6133103,15.9866335;50.61236110136756,15.987704750000015;50.6112849,15.9889483">
+    <text>Jansky Vrch, rozc. - Janski Wierch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6133103" lon="15.9866335">
+      <ele>673</ele>
+      <time>2022-01-17T22:35:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6127198" lon="15.9872652">
+      <ele>683</ele>
+      <time>2022-01-17T22:36:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6120024" lon="15.9881443">
+      <ele>690</ele>
+      <time>2022-01-17T22:38:27Z</time>
+    </trkpt>
+    <trkpt lat="50.6112849" lon="15.9889483">
+      <ele>697</ele>
+      <time>2022-01-17T22:40:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

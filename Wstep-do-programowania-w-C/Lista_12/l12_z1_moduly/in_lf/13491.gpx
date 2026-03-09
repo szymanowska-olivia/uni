@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:23Z</time>
+    <bounds maxlat="50.6898415" maxlon="15.7691346" minlat="50.689472" minlon="15.7671312"/>
+  </metadata>
+  <wpt lat="50.689472" lon="15.767131">
+    <ele>703</ele>
+    <name>Velka Upa, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/9316">
+      <text>Velka Upa, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.689837" lon="15.769135">
+    <ele>702</ele>
+    <name>Velka Upa, Restaurace U Pece</name>
+    <link href="https://mapa-turystyczna.pl/node/9317">
+      <text>Velka Upa, Restaurace U Pece</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Upa, bus - Velka Upa, Restaurace U Pece</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.689472,15.7671312;50.68962125023742,15.767866099999974;50.6898372,15.7691346">
+    <text>Velka Upa, bus - Velka Upa, Restaurace U Pece</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.689472" lon="15.7671312">
+      <ele>703</ele>
+      <time>2022-01-18T00:08:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6897705" lon="15.768601">
+      <ele>701</ele>
+      <time>2022-01-18T00:09:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6898415" lon="15.7691144">
+      <ele>702</ele>
+      <time>2022-01-18T00:10:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6898372" lon="15.7691346">
+      <ele>702</ele>
+      <time>2022-01-18T00:10:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

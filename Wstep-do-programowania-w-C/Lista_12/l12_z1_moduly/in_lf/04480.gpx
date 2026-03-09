@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:15Z</time>
+    <bounds maxlat="50.7463474" maxlon="15.3124095" minlat="50.7430479" minlon="15.3115351"/>
+  </metadata>
+  <wpt lat="50.743048" lon="15.311632">
+    <ele>468</ele>
+    <name>Tanvald, zst.</name>
+    <link href="https://mapa-turystyczna.pl/node/3102">
+      <text>Tanvald, zst.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.746347" lon="15.31223">
+    <ele>475</ele>
+    <name>Tanvald, Cerna Desna</name>
+    <link href="https://mapa-turystyczna.pl/node/3094">
+      <text>Tanvald, Cerna Desna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tanvald, zst. - Tanvald, Cerna Desna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7430479,15.3116316;50.74476365286154,15.311540450000019;50.7463474,15.3122297">
+    <text>Tanvald, zst. - Tanvald, Cerna Desna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7430479" lon="15.3116316">
+      <ele>468</ele>
+      <time>2022-01-17T21:43:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7433195" lon="15.3116986">
+      <ele>470</ele>
+      <time>2022-01-17T21:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7434822" lon="15.3116746">
+      <ele>471</ele>
+      <time>2022-01-17T21:43:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7439916" lon="15.3115498">
+      <ele>470</ele>
+      <time>2022-01-17T21:44:36Z</time>
+    </trkpt>
+    <trkpt lat="50.744246" lon="15.3115351">
+      <ele>470</ele>
+      <time>2022-01-17T21:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7452813" lon="15.3115458">
+      <ele>474</ele>
+      <time>2022-01-17T21:46:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7455089" lon="15.3116255">
+      <ele>473</ele>
+      <time>2022-01-17T21:46:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7457584" lon="15.3118565">
+      <ele>473</ele>
+      <time>2022-01-17T21:47:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7460378" lon="15.312211">
+      <ele>474</ele>
+      <time>2022-01-17T21:47:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7462466" lon="15.3124095">
+      <ele>475</ele>
+      <time>2022-01-17T21:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7463474" lon="15.3122297">
+      <ele>475</ele>
+      <time>2022-01-17T21:48:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

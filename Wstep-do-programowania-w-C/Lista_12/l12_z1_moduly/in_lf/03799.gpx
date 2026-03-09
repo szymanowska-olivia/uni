@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:44Z</time>
+    <bounds maxlat="50.3026733" maxlon="17.3741484" minlat="50.3002473" minlon="17.3720133"/>
+  </metadata>
+  <wpt lat="50.300247" lon="17.372013">
+    <ele>431</ele>
+    <name>Pod Przednia Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2661">
+      <text>Pod Przednia Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.302673" lon="17.374148">
+    <ele>402</ele>
+    <name>Gora Chrobrego, Droga Krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2662">
+      <text>Gora Chrobrego, Droga Krzyzowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Przednia Kopa - Gora Chrobrego, Droga Krzyzowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3002473,17.3720133;50.3013036514731,17.372913899999975;50.3026733,17.3741484">
+    <text>Pod Przednia Kopa - Gora Chrobrego, Droga Krzyzowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3002473" lon="17.3720133">
+      <ele>431</ele>
+      <time>2022-01-17T21:34:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3009293" lon="17.372236">
+      <ele>424</ele>
+      <time>2022-01-17T21:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.301678" lon="17.3735918">
+      <ele>409</ele>
+      <time>2022-01-17T21:37:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3019058" lon="17.3738533">
+      <ele>404</ele>
+      <time>2022-01-17T21:38:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3026733" lon="17.3741484">
+      <ele>402</ele>
+      <time>2022-01-17T21:39:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

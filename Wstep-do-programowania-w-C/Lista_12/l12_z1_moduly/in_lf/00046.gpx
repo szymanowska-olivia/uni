@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:43:54Z</time>
+    <bounds maxlat="49.419477" maxlon="20.440581" minlat="49.418145" minlon="20.439135"/>
+  </metadata>
+  <wpt lat="49.419477" lon="20.439135">
+    <ele>655</ele>
+    <name>Przelecz Sosnow</name>
+    <link href="https://mapa-turystyczna.pl/node/37">
+      <text>Przelecz Sosnow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.418145" lon="20.440581">
+    <ele>698</ele>
+    <name>Pod Sokolica</name>
+    <link href="https://mapa-turystyczna.pl/node/3822">
+      <text>Pod Sokolica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Sosnow - Pod Sokolica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.419477,20.439135;49.418800500147945,20.439912499999966;49.418145,20.440581">
+    <text>Przelecz Sosnow - Pod Sokolica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.419477" lon="20.439135">
+      <ele>655</ele>
+      <time>2022-01-17T20:43:54Z</time>
+    </trkpt>
+    <trkpt lat="49.419366" lon="20.439253">
+      <ele>660</ele>
+      <time>2022-01-17T20:44:43Z</time>
+    </trkpt>
+    <trkpt lat="49.419199" lon="20.439516">
+      <ele>671</ele>
+      <time>2022-01-17T20:46:10Z</time>
+    </trkpt>
+    <trkpt lat="49.418921" lon="20.43989">
+      <ele>682</ele>
+      <time>2022-01-17T20:48:20Z</time>
+    </trkpt>
+    <trkpt lat="49.41868" lon="20.439935">
+      <ele>689</ele>
+      <time>2022-01-17T20:49:45Z</time>
+    </trkpt>
+    <trkpt lat="49.418538" lon="20.440021">
+      <ele>695</ele>
+      <time>2022-01-17T20:50:40Z</time>
+    </trkpt>
+    <trkpt lat="49.418423" lon="20.440184">
+      <ele>703</ele>
+      <time>2022-01-17T20:51:39Z</time>
+    </trkpt>
+    <trkpt lat="49.418274" lon="20.44045">
+      <ele>706</ele>
+      <time>2022-01-17T20:52:57Z</time>
+    </trkpt>
+    <trkpt lat="49.418145" lon="20.440581">
+      <ele>698</ele>
+      <time>2022-01-17T20:53:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

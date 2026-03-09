@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:13Z</time>
+    <bounds maxlat="49.221833" maxlon="20.231172" minlat="49.221645" minlon="20.231098"/>
+  </metadata>
+  <wpt lat="49.221645" lon="20.231172">
+    <ele>1610</ele>
+    <name>Velke Biele pleso</name>
+    <link href="https://mapa-turystyczna.pl/node/1582">
+      <text>Velke Biele pleso</text>
+    </link>
+  </wpt>
+  <wpt lat="49.221833" lon="20.231098">
+    <ele>1615</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13439">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velke Biele pleso - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.221645,20.231172;49.22172900000635,20.231165999999988;49.221833,20.231098">
+    <text>Velke Biele pleso - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.221645" lon="20.231172">
+      <ele>1610</ele>
+      <time>2022-01-18T01:57:13Z</time>
+    </trkpt>
+    <trkpt lat="49.221704" lon="20.231172">
+      <ele>1612</ele>
+      <time>2022-01-18T01:57:31Z</time>
+    </trkpt>
+    <trkpt lat="49.221754" lon="20.23116">
+      <ele>1613</ele>
+      <time>2022-01-18T01:57:46Z</time>
+    </trkpt>
+    <trkpt lat="49.22179" lon="20.231137">
+      <ele>1614</ele>
+      <time>2022-01-18T01:57:58Z</time>
+    </trkpt>
+    <trkpt lat="49.221833" lon="20.231098">
+      <ele>1615</ele>
+      <time>2022-01-18T01:58:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

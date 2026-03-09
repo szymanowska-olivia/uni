@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:21Z</time>
+    <bounds maxlat="50.8448698" maxlon="16.1004424" minlat="50.8442197" minlon="16.0974257"/>
+  </metadata>
+  <wpt lat="50.84422" lon="16.100442">
+    <ele>523</ele>
+    <name>Gostkow</name>
+    <link href="https://mapa-turystyczna.pl/node/2566">
+      <text>Gostkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.84487" lon="16.097426">
+    <ele>533</ele>
+    <name>Gostkow, rondo</name>
+    <link href="https://mapa-turystyczna.pl/node/8675">
+      <text>Gostkow, rondo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gostkow - Gostkow, rondo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8442197,16.1004424;50.844529200511644,16.099278300000037;50.8448698,16.0974257">
+    <text>Gostkow - Gostkow, rondo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8442197" lon="16.1004424">
+      <ele>523</ele>
+      <time>2022-01-17T23:53:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8443107" lon="16.0999167">
+      <ele>526</ele>
+      <time>2022-01-17T23:54:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8447477" lon="16.0986399">
+      <ele>526</ele>
+      <time>2022-01-17T23:56:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8448328" lon="16.0982323">
+      <ele>528</ele>
+      <time>2022-01-17T23:57:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8448561" lon="16.0980284">
+      <ele>530</ele>
+      <time>2022-01-17T23:57:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8448698" lon="16.0974257">
+      <ele>533</ele>
+      <time>2022-01-17T23:58:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

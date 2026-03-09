@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:45Z</time>
+    <bounds maxlat="51.6959762" maxlon="21.5614361" minlat="51.6923692" minlon="21.5531068"/>
+  </metadata>
+  <wpt lat="51.692979" lon="21.553107">
+    <ele>106</ele>
+    <name>Maciejowice</name>
+    <link href="https://mapa-turystyczna.pl/node/11897">
+      <text>Maciejowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.695976" lon="21.561436">
+    <ele>107</ele>
+    <name>Maciejowice, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/12325">
+      <text>Maciejowice, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maciejowice - Maciejowice, ul. Kosciuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6929789,21.5531068;51.694870661308975,21.558813100000034;51.6959762,21.5614361">
+    <text>Maciejowice - Maciejowice, ul. Kosciuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6929789" lon="21.5531068">
+      <ele>106</ele>
+      <time>2022-01-18T01:25:45Z</time>
+    </trkpt>
+    <trkpt lat="51.6923692" lon="21.5541883">
+      <ele>106</ele>
+      <time>2022-01-18T01:27:06Z</time>
+    </trkpt>
+    <trkpt lat="51.6938589" lon="21.5566237">
+      <ele>106</ele>
+      <time>2022-01-18T01:30:16Z</time>
+    </trkpt>
+    <trkpt lat="51.6958824" lon="21.5610025">
+      <ele>107</ele>
+      <time>2022-01-18T01:35:19Z</time>
+    </trkpt>
+    <trkpt lat="51.6959762" lon="21.5614361">
+      <ele>107</ele>
+      <time>2022-01-18T01:35:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

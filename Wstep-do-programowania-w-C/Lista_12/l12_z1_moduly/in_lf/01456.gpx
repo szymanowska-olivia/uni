@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:45Z</time>
+    <bounds maxlat="50.76378" maxlon="15.8040722" minlat="50.7633382" minlon="15.8002601"/>
+  </metadata>
+  <wpt lat="50.76378" lon="15.804048">
+    <ele>847</ele>
+    <name>Budniki</name>
+    <link href="https://mapa-turystyczna.pl/node/1096">
+      <text>Budniki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.763338" lon="15.80026">
+    <ele>885</ele>
+    <name>Nad Budnikami</name>
+    <link href="https://mapa-turystyczna.pl/node/1223">
+      <text>Nad Budnikami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Budniki - Nad Budnikami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.76378,15.8040476;50.763522700013326,15.802556450000003;50.7633382,15.8002601">
+    <text>Budniki - Nad Budnikami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.76378" lon="15.8040476">
+      <ele>847</ele>
+      <time>2022-01-17T21:00:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7636099" lon="15.8040722">
+      <ele>848</ele>
+      <time>2022-01-17T21:01:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7635014" lon="15.8040078">
+      <ele>848</ele>
+      <time>2022-01-17T21:01:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7634533" lon="15.8038114">
+      <ele>848</ele>
+      <time>2022-01-17T21:02:15Z</time>
+    </trkpt>
+    <trkpt lat="50.763442" lon="15.8034066">
+      <ele>852</ele>
+      <time>2022-01-17T21:03:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7634874" lon="15.8028997">
+      <ele>855</ele>
+      <time>2022-01-17T21:04:21Z</time>
+    </trkpt>
+    <trkpt lat="50.763558" lon="15.8022132">
+      <ele>862</ele>
+      <time>2022-01-17T21:05:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7635517" lon="15.8018641">
+      <ele>867</ele>
+      <time>2022-01-17T21:06:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7636269" lon="15.801372">
+      <ele>871</ele>
+      <time>2022-01-17T21:07:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7635957" lon="15.8009719">
+      <ele>877</ele>
+      <time>2022-01-17T21:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.763517" lon="15.8006255">
+      <ele>881</ele>
+      <time>2022-01-17T21:09:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7633382" lon="15.8002601">
+      <ele>885</ele>
+      <time>2022-01-17T21:10:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:10Z</time>
+    <bounds maxlat="50.4400066" maxlon="16.4696457" minlat="50.4389611" minlon="16.4633835"/>
+  </metadata>
+  <wpt lat="50.439218" lon="16.463383">
+    <ele>591</ele>
+    <name>Brzytwa, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10605">
+      <text>Brzytwa, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.440007" lon="16.469646">
+    <ele>576</ele>
+    <name>Orlik, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10608">
+      <text>Orlik, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzytwa, odejscie na punkt widokowy - Orlik, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4392184,16.4633835;50.43912505002419,16.466437800000012;50.4400066,16.4696457">
+    <text>Brzytwa, odejscie na punkt widokowy - Orlik, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4392184" lon="16.4633835">
+      <ele>591</ele>
+      <time>2022-01-18T00:41:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4391729" lon="16.464217">
+      <ele>593</ele>
+      <time>2022-01-18T00:41:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4389611" lon="16.4655151">
+      <ele>590</ele>
+      <time>2022-01-18T00:42:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4390772" lon="16.4659872">
+      <ele>587</ele>
+      <time>2022-01-18T00:43:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4391729" lon="16.4668884">
+      <ele>585</ele>
+      <time>2022-01-18T00:43:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4392822" lon="16.4676931">
+      <ele>581</ele>
+      <time>2022-01-18T00:44:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4394462" lon="16.4683476">
+      <ele>582</ele>
+      <time>2022-01-18T00:45:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4396717" lon="16.4687982">
+      <ele>581</ele>
+      <time>2022-01-18T00:45:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4398323" lon="16.4691469">
+      <ele>579</ele>
+      <time>2022-01-18T00:45:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4400066" lon="16.4696457">
+      <ele>576</ele>
+      <time>2022-01-18T00:46:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

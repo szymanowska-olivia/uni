@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:15Z</time>
+    <bounds maxlat="50.2442066" maxlon="17.1431565" minlat="50.2439939" minlon="17.1427274"/>
+  </metadata>
+  <wpt lat="50.244207" lon="17.142727">
+    <ele>578</ele>
+    <name>Lipova</name>
+    <link href="https://mapa-turystyczna.pl/node/2182">
+      <text>Lipova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.243994" lon="17.143156">
+    <ele>577</ele>
+    <name>Lipova, jeskyne, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6116">
+      <text>Lipova, jeskyne, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipova - Lipova, jeskyne, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2442066,17.1427274;50.24410025011865,17.14294194999999;50.2439939,17.1431565">
+    <text>Lipova - Lipova, jeskyne, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2442066" lon="17.1427274">
+      <ele>578</ele>
+      <time>2022-01-17T22:45:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2439939" lon="17.1431565">
+      <ele>577</ele>
+      <time>2022-01-17T22:46:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

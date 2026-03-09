@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:07Z</time>
+    <bounds maxlat="51.3365611" maxlon="16.645124" minlat="51.3346347" minlon="16.6390924"/>
+  </metadata>
+  <wpt lat="51.334635" lon="16.639092">
+    <ele>113</ele>
+    <name>Wolow, ul. Chopina</name>
+    <link href="https://mapa-turystyczna.pl/node/10396">
+      <text>Wolow, ul. Chopina</text>
+    </link>
+  </wpt>
+  <wpt lat="51.336343" lon="16.645124">
+    <ele>111</ele>
+    <name>Wolow, Skwer Sybirakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10397">
+      <text>Wolow, Skwer Sybirakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, ul. Chopina - Wolow, Skwer Sybirakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3346347,16.6390924;51.33642705019598,16.64144424999997;51.3363429,16.645124">
+    <text>Wolow, ul. Chopina - Wolow, Skwer Sybirakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3346347" lon="16.6390924">
+      <ele>113</ele>
+      <time>2022-01-18T00:38:07Z</time>
+    </trkpt>
+    <trkpt lat="51.3358707" lon="16.6400334">
+      <ele>114</ele>
+      <time>2022-01-18T00:40:49Z</time>
+    </trkpt>
+    <trkpt lat="51.3365611" lon="16.6404411">
+      <ele>113</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+    <trkpt lat="51.336293" lon="16.6424474">
+      <ele>115</ele>
+      <time>2022-01-18T00:44:47Z</time>
+    </trkpt>
+    <trkpt lat="51.3362796" lon="16.6430911">
+      <ele>114</ele>
+      <time>2022-01-18T00:45:35Z</time>
+    </trkpt>
+    <trkpt lat="51.336293" lon="16.6435739">
+      <ele>112</ele>
+      <time>2022-01-18T00:46:10Z</time>
+    </trkpt>
+    <trkpt lat="51.3364003" lon="16.6441747">
+      <ele>111</ele>
+      <time>2022-01-18T00:46:56Z</time>
+    </trkpt>
+    <trkpt lat="51.3363802" lon="16.6448721">
+      <ele>111</ele>
+      <time>2022-01-18T00:47:48Z</time>
+    </trkpt>
+    <trkpt lat="51.3363429" lon="16.645124">
+      <ele>111</ele>
+      <time>2022-01-18T00:48:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

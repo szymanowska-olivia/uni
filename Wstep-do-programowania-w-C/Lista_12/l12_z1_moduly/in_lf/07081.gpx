@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:26Z</time>
+    <bounds maxlat="49.796952" maxlon="19.096155" minlat="49.795857" minlon="19.094865"/>
+  </metadata>
+  <wpt lat="49.796952" lon="19.094865">
+    <ele>419</ele>
+    <name>Bielsko-Biala, Straconka, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/4825">
+      <text>Bielsko-Biala, Straconka, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="49.795857" lon="19.096155">
+    <ele>430</ele>
+    <name>Bielsko-Biala, Straconka</name>
+    <link href="https://mapa-turystyczna.pl/node/1000">
+      <text>Bielsko-Biala, Straconka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bielsko-Biala, Straconka, kosciol - Bielsko-Biala, Straconka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.796952,19.094865;49.7963685014481,19.09555100000002;49.795857,19.096155">
+    <text>Bielsko-Biala, Straconka, kosciol - Bielsko-Biala, Straconka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.796952" lon="19.094865">
+      <ele>419</ele>
+      <time>2022-01-17T22:17:26Z</time>
+    </trkpt>
+    <trkpt lat="49.796844" lon="19.094991">
+      <ele>420</ele>
+      <time>2022-01-17T22:17:44Z</time>
+    </trkpt>
+    <trkpt lat="49.796743" lon="19.095108">
+      <ele>420</ele>
+      <time>2022-01-17T22:18:00Z</time>
+    </trkpt>
+    <trkpt lat="49.795994" lon="19.095994">
+      <ele>428</ele>
+      <time>2022-01-17T22:20:03Z</time>
+    </trkpt>
+    <trkpt lat="49.795885" lon="19.096122">
+      <ele>430</ele>
+      <time>2022-01-17T22:20:21Z</time>
+    </trkpt>
+    <trkpt lat="49.795857" lon="19.096155">
+      <ele>430</ele>
+      <time>2022-01-17T22:20:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

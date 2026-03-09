@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:59:00Z</time>
+    <bounds maxlat="50.7078448" maxlon="15.2082978" minlat="50.7062787" minlon="15.2018444"/>
+  </metadata>
+  <wpt lat="50.707845" lon="15.201844">
+    <ele>668</ele>
+    <name>Pod Rozvodim</name>
+    <link href="https://mapa-turystyczna.pl/node/8901">
+      <text>Pod Rozvodim</text>
+    </link>
+  </wpt>
+  <wpt lat="50.706279" lon="15.208298">
+    <ele>685</ele>
+    <name>Dolni Cerna Studnice</name>
+    <link href="https://mapa-turystyczna.pl/node/8902">
+      <text>Dolni Cerna Studnice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Rozvodim - Dolni Cerna Studnice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7078448,15.2018444;50.707623000524656,15.204011650000009;50.7062787,15.2082978">
+    <text>Pod Rozvodim - Dolni Cerna Studnice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7078448" lon="15.2018444">
+      <ele>668</ele>
+      <time>2022-01-17T23:59:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7074012" lon="15.2061789">
+      <ele>674</ele>
+      <time>2022-01-18T00:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7072381" lon="15.2071016">
+      <ele>680</ele>
+      <time>2022-01-18T00:06:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7071566" lon="15.2073055">
+      <ele>682</ele>
+      <time>2022-01-18T00:06:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7070071" lon="15.2075093">
+      <ele>685</ele>
+      <time>2022-01-18T00:07:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7062787" lon="15.2082978">
+      <ele>685</ele>
+      <time>2022-01-18T00:09:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

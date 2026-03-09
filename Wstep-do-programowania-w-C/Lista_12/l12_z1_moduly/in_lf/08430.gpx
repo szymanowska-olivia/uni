@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:40Z</time>
+    <bounds maxlat="50.2433833" maxlon="16.7538285" minlat="50.2413586" minlon="16.749078"/>
+  </metadata>
+  <wpt lat="50.241359" lon="16.749078">
+    <ele>776</ele>
+    <name>Pod Igliczna</name>
+    <link href="https://mapa-turystyczna.pl/node/5866">
+      <text>Pod Igliczna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.243383" lon="16.753829">
+    <ele>757</ele>
+    <name>Pod Igliczna</name>
+    <link href="https://mapa-turystyczna.pl/node/1752">
+      <text>Pod Igliczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Igliczna - Pod Igliczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2413586,16.749078;50.24257290036289,16.750707349999992;50.2433833,16.7538285">
+    <text>Pod Igliczna - Pod Igliczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2413586" lon="16.749078">
+      <ele>776</ele>
+      <time>2022-01-17T22:38:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2414812" lon="16.7491097">
+      <ele>779</ele>
+      <time>2022-01-17T22:38:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2416356" lon="16.7491633">
+      <ele>782</ele>
+      <time>2022-01-17T22:39:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2417831" lon="16.7494583">
+      <ele>780</ele>
+      <time>2022-01-17T22:39:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2422578" lon="16.7499995">
+      <ele>782</ele>
+      <time>2022-01-17T22:40:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2423869" lon="16.750204">
+      <ele>779</ele>
+      <time>2022-01-17T22:40:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2427589" lon="16.7512107">
+      <ele>768</ele>
+      <time>2022-01-17T22:41:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2432632" lon="16.7532385">
+      <ele>759</ele>
+      <time>2022-01-17T22:43:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2433833" lon="16.7538285">
+      <ele>757</ele>
+      <time>2022-01-17T22:43:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

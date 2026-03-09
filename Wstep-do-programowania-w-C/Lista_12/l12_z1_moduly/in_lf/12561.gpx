@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:06Z</time>
+    <bounds maxlat="53.9741117" maxlon="14.7817895" minlat="53.9699215" minlon="14.771502"/>
+  </metadata>
+  <wpt lat="53.969921" lon="14.78179">
+    <ele>1</ele>
+    <name>Kamien Pomorski, ul. Lipowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8601">
+      <text>Kamien Pomorski, ul. Lipowa</text>
+    </link>
+  </wpt>
+  <wpt lat="53.974112" lon="14.771502">
+    <ele>8</ele>
+    <name>Kamien Pomorski, ul. Klasztorna</name>
+    <link href="https://mapa-turystyczna.pl/node/8602">
+      <text>Kamien Pomorski, ul. Klasztorna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Lipowa - Kamien Pomorski, ul. Klasztorna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9699215,14.7817895;53.97250476653101,14.778169849999996;53.9741117,14.771502">
+    <text>Kamien Pomorski, ul. Lipowa - Kamien Pomorski, ul. Klasztorna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9699215" lon="14.7817895">
+      <ele>1</ele>
+      <time>2022-01-17T23:52:06Z</time>
+    </trkpt>
+    <trkpt lat="53.971331" lon="14.779342">
+      <ele>-1</ele>
+      <time>2022-01-17T23:55:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9736785" lon="14.7769977">
+      <ele>-0</ele>
+      <time>2022-01-18T00:00:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9736154" lon="14.7745354">
+      <ele>4</ele>
+      <time>2022-01-18T00:03:37Z</time>
+    </trkpt>
+    <trkpt lat="53.9740444" lon="14.7727652">
+      <ele>9</ele>
+      <time>2022-01-18T00:05:43Z</time>
+    </trkpt>
+    <trkpt lat="53.9741117" lon="14.771502">
+      <ele>8</ele>
+      <time>2022-01-18T00:07:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

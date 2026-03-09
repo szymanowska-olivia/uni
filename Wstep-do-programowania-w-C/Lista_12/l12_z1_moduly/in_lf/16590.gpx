@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:18Z</time>
+    <bounds maxlat="51.801202" maxlon="15.7091695" minlat="51.7994212" minlon="15.707986"/>
+  </metadata>
+  <wpt lat="51.801202" lon="15.707986">
+    <ele>66</ele>
+    <name>Nowa Sol, ul. Towarowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11218">
+      <text>Nowa Sol, ul. Towarowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.799421" lon="15.709169">
+    <ele>66</ele>
+    <name>Nowa Sol, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11327">
+      <text>Nowa Sol, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Sol, ul. Towarowa - Nowa Sol, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.801202,15.707986;51.80012390032998,15.708585150000003;51.7994212,15.7091695">
+    <text>Nowa Sol, ul. Towarowa - Nowa Sol, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.801202" lon="15.707986">
+      <ele>66</ele>
+      <time>2022-01-18T00:59:18Z</time>
+    </trkpt>
+    <trkpt lat="51.8007542" lon="15.7081614">
+      <ele>65</ele>
+      <time>2022-01-18T01:00:00Z</time>
+    </trkpt>
+    <trkpt lat="51.8002964" lon="15.7084403">
+      <ele>64</ele>
+      <time>2022-01-18T01:00:45Z</time>
+    </trkpt>
+    <trkpt lat="51.7999514" lon="15.70873">
+      <ele>66</ele>
+      <time>2022-01-18T01:01:21Z</time>
+    </trkpt>
+    <trkpt lat="51.7996462" lon="15.7091269">
+      <ele>66</ele>
+      <time>2022-01-18T01:01:57Z</time>
+    </trkpt>
+    <trkpt lat="51.7994212" lon="15.7091695">
+      <ele>66</ele>
+      <time>2022-01-18T01:02:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

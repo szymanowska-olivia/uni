@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:44:03Z</time>
+    <bounds maxlat="50.4814226" maxlon="17.0113099" minlat="50.4780935" minlon="17.0065066"/>
+  </metadata>
+  <wpt lat="50.481423" lon="17.006507">
+    <ele>224</ele>
+    <name>Pelkowe Wzgorze</name>
+    <link href="https://mapa-turystyczna.pl/node/8338">
+      <text>Pelkowe Wzgorze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.478121" lon="17.01131">
+    <ele>222</ele>
+    <name>Paczkow PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2772">
+      <text>Paczkow PKP</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pelkowe Wzgorze - Paczkow PKP</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4814226,17.0065066;50.47898280836595,17.007240950000018;50.4781209,17.0113099">
+    <text>Pelkowe Wzgorze - Paczkow PKP</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4814226" lon="17.0065066">
+      <ele>224</ele>
+      <time>2022-01-17T23:44:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4807886" lon="17.0067742">
+      <ele>226</ele>
+      <time>2022-01-17T23:45:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4798721" lon="17.0072275">
+      <ele>225</ele>
+      <time>2022-01-17T23:46:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4780935" lon="17.0072544">
+      <ele>218</ele>
+      <time>2022-01-17T23:49:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4781209" lon="17.0113099">
+      <ele>222</ele>
+      <time>2022-01-17T23:54:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

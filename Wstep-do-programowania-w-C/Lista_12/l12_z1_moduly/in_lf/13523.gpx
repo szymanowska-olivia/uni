@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:51Z</time>
+    <bounds maxlat="50.3076129" maxlon="19.0276051" minlat="50.3075056" minlon="19.0254589"/>
+  </metadata>
+  <wpt lat="50.307613" lon="19.027605">
+    <ele>276</ele>
+    <name>Siemianowice Slaskie, zespol palacowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9334">
+      <text>Siemianowice Slaskie, zespol palacowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.307555" lon="19.025459">
+    <ele>274</ele>
+    <name>Siemianowice Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/9135">
+      <text>Siemianowice Slaskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Siemianowice Slaskie, zespol palacowy - Siemianowice Slaskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3076129,19.0276051;50.30757580000004,19.026607949999963;50.3075548,19.0254589">
+    <text>Siemianowice Slaskie, zespol palacowy - Siemianowice Slaskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3076129" lon="19.0276051">
+      <ele>276</ele>
+      <time>2022-01-18T00:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3075775" lon="19.027198">
+      <ele>275</ele>
+      <time>2022-01-18T00:09:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3075741" lon="19.0260179">
+      <ele>274</ele>
+      <time>2022-01-18T00:10:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3075056" lon="19.0258891">
+      <ele>274</ele>
+      <time>2022-01-18T00:10:27Z</time>
+    </trkpt>
+    <trkpt lat="50.3075548" lon="19.0254589">
+      <ele>274</ele>
+      <time>2022-01-18T00:10:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

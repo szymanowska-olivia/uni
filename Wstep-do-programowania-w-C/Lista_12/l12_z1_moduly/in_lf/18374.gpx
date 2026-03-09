@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:52Z</time>
+    <bounds maxlat="52.2831426" maxlon="20.5895188" minlat="52.2790369" minlon="20.5866588"/>
+  </metadata>
+  <wpt lat="52.279037" lon="20.588662">
+    <ele>103</ele>
+    <name>Rozejscie pod Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12450">
+      <text>Rozejscie pod Biala Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.283143" lon="20.586659">
+    <ele>102</ele>
+    <name>Rozejscie pod Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12451">
+      <text>Rozejscie pod Biala Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie pod Biala Gora - Rozejscie pod Biala Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2790369,20.588662;52.28124335082226,20.589305599999975;52.2831426,20.5866588">
+    <text>Rozejscie pod Biala Gora - Rozejscie pod Biala Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2790369" lon="20.588662">
+      <ele>103</ele>
+      <time>2022-01-18T01:29:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2805385" lon="20.5894732">
+      <ele>101</ele>
+      <time>2022-01-18T01:33:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2809734" lon="20.5895188">
+      <ele>99</ele>
+      <time>2022-01-18T01:34:03Z</time>
+    </trkpt>
+    <trkpt lat="52.2815133" lon="20.5890924">
+      <ele>98</ele>
+      <time>2022-01-18T01:35:17Z</time>
+    </trkpt>
+    <trkpt lat="52.2819629" lon="20.5885398">
+      <ele>98</ele>
+      <time>2022-01-18T01:36:27Z</time>
+    </trkpt>
+    <trkpt lat="52.2831426" lon="20.5866588">
+      <ele>102</ele>
+      <time>2022-01-18T01:39:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

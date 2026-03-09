@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:34Z</time>
+    <bounds maxlat="50.3311219" maxlon="19.6304564" minlat="50.327663" minlon="19.6243071"/>
+  </metadata>
+  <wpt lat="50.327663" lon="19.630456">
+    <ele>387</ele>
+    <name>Rezerwat Pazurek, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/13381">
+      <text>Rezerwat Pazurek, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.331122" lon="19.624307">
+    <ele>403</ele>
+    <name>Rezerwat Pazurek, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13377">
+      <text>Rezerwat Pazurek, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Pazurek, parking - Rezerwat Pazurek, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.327663,19.6304564;50.328957503953895,19.628160449999974;50.3311219,19.6243071">
+    <text>Rezerwat Pazurek, parking - Rezerwat Pazurek, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.327663" lon="19.6304564">
+      <ele>387</ele>
+      <time>2022-01-18T01:55:34Z</time>
+    </trkpt>
+    <trkpt lat="50.327824" lon="19.6303867">
+      <ele>386</ele>
+      <time>2022-01-18T01:55:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3280158" lon="19.6302043">
+      <ele>385</ele>
+      <time>2022-01-18T01:56:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3283445" lon="19.6295713">
+      <ele>384</ele>
+      <time>2022-01-18T01:57:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3295705" lon="19.6267496">
+      <ele>397</ele>
+      <time>2022-01-18T02:01:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3301938" lon="19.6256016">
+      <ele>398</ele>
+      <time>2022-01-18T02:03:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3307211" lon="19.6248399">
+      <ele>404</ele>
+      <time>2022-01-18T02:04:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3311219" lon="19.6243071">
+      <ele>403</ele>
+      <time>2022-01-18T02:05:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

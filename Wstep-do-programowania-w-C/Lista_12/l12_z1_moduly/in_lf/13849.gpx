@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:21Z</time>
+    <bounds maxlat="49.608759" maxlon="18.926648" minlat="49.608598" minlon="18.925394"/>
+  </metadata>
+  <wpt lat="49.608759" lon="18.925394">
+    <ele>567</ele>
+    <name>Wisla, Zameczek</name>
+    <link href="https://mapa-turystyczna.pl/node/9497">
+      <text>Wisla, Zameczek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.608598" lon="18.926648">
+    <ele>553</ele>
+    <name>Wisla, Czarna Wiselka</name>
+    <link href="https://mapa-turystyczna.pl/node/852">
+      <text>Wisla, Czarna Wiselka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, Zameczek - Wisla, Czarna Wiselka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608759,18.925394;49.60863550000313,18.926226;49.608598,18.926648">
+    <text>Wisla, Zameczek - Wisla, Czarna Wiselka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608759" lon="18.925394">
+      <ele>567</ele>
+      <time>2022-01-18T00:13:21Z</time>
+    </trkpt>
+    <trkpt lat="49.60872" lon="18.925488">
+      <ele>564</ele>
+      <time>2022-01-18T00:13:26Z</time>
+    </trkpt>
+    <trkpt lat="49.608687" lon="18.925605">
+      <ele>562</ele>
+      <time>2022-01-18T00:13:32Z</time>
+    </trkpt>
+    <trkpt lat="49.608677" lon="18.92576">
+      <ele>559</ele>
+      <time>2022-01-18T00:13:40Z</time>
+    </trkpt>
+    <trkpt lat="49.608653" lon="18.926008">
+      <ele>556</ele>
+      <time>2022-01-18T00:13:51Z</time>
+    </trkpt>
+    <trkpt lat="49.608618" lon="18.926444">
+      <ele>553</ele>
+      <time>2022-01-18T00:14:12Z</time>
+    </trkpt>
+    <trkpt lat="49.608598" lon="18.926648">
+      <ele>553</ele>
+      <time>2022-01-18T00:14:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

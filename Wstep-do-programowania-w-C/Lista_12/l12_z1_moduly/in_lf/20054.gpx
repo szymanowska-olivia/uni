@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:39Z</time>
+    <bounds maxlat="50.1263992" maxlon="16.6056633" minlat="50.1198558" minlon="16.6042798"/>
+  </metadata>
+  <wpt lat="50.126399" lon="16.60428">
+    <ele>657</ele>
+    <name>Ceske Petrovice, u krizku</name>
+    <link href="https://mapa-turystyczna.pl/node/13514">
+      <text>Ceske Petrovice, u krizku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.119856" lon="16.604633">
+    <ele>645</ele>
+    <name>Ceske Petrovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2000">
+      <text>Ceske Petrovice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceske Petrovice, u krizku - Ceske Petrovice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1263992,16.6042798;50.122442310680576,16.605051750000033;50.1198558,16.6046333">
+    <text>Ceske Petrovice, u krizku - Ceske Petrovice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1263992" lon="16.6042798">
+      <ele>657</ele>
+      <time>2022-01-18T01:59:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1242651" lon="16.6056633">
+      <ele>653</ele>
+      <time>2022-01-18T02:03:02Z</time>
+    </trkpt>
+    <trkpt lat="50.1234535" lon="16.6050839">
+      <ele>653</ele>
+      <time>2022-01-18T02:04:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1214311" lon="16.6050196">
+      <ele>654</ele>
+      <time>2022-01-18T02:07:18Z</time>
+    </trkpt>
+    <trkpt lat="50.1205059" lon="16.6047084">
+      <ele>647</ele>
+      <time>2022-01-18T02:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1198558" lon="16.6046333">
+      <ele>645</ele>
+      <time>2022-01-18T02:09:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

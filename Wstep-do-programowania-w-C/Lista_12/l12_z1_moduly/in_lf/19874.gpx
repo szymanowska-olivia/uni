@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:30Z</time>
+    <bounds maxlat="49.2582786" maxlon="22.4285824" minlat="49.2559974" minlon="22.4273435"/>
+  </metadata>
+  <wpt lat="49.255997" lon="22.427708">
+    <ele>521</ele>
+    <name>Sine Wiry</name>
+    <link href="https://mapa-turystyczna.pl/node/11236">
+      <text>Sine Wiry</text>
+    </link>
+  </wpt>
+  <wpt lat="49.257991" lon="22.428582">
+    <ele>510</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/13414">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sine Wiry - Rozejscie sciezki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2559974,22.4277083;49.25740145009056,22.42748835;49.2579914,22.4285824">
+    <text>Sine Wiry - Rozejscie sciezki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2559974" lon="22.4277083">
+      <ele>521</ele>
+      <time>2022-01-18T01:56:30Z</time>
+    </trkpt>
+    <trkpt lat="49.2565997" lon="22.4277619">
+      <ele>508</ele>
+      <time>2022-01-18T01:57:29Z</time>
+    </trkpt>
+    <trkpt lat="49.2570058" lon="22.4277619">
+      <ele>511</ele>
+      <time>2022-01-18T01:58:09Z</time>
+    </trkpt>
+    <trkpt lat="49.2573069" lon="22.4276332">
+      <ele>510</ele>
+      <time>2022-01-18T01:58:39Z</time>
+    </trkpt>
+    <trkpt lat="49.257496" lon="22.4273435">
+      <ele>507</ele>
+      <time>2022-01-18T01:59:05Z</time>
+    </trkpt>
+    <trkpt lat="49.2577971" lon="22.4273542">
+      <ele>505</ele>
+      <time>2022-01-18T01:59:34Z</time>
+    </trkpt>
+    <trkpt lat="49.2580351" lon="22.4274293">
+      <ele>505</ele>
+      <time>2022-01-18T01:59:58Z</time>
+    </trkpt>
+    <trkpt lat="49.2582296" lon="22.427603">
+      <ele>507</ele>
+      <time>2022-01-18T02:00:19Z</time>
+    </trkpt>
+    <trkpt lat="49.2582786" lon="22.4278283">
+      <ele>508</ele>
+      <time>2022-01-18T02:00:34Z</time>
+    </trkpt>
+    <trkpt lat="49.2582226" lon="22.4280858">
+      <ele>508</ele>
+      <time>2022-01-18T02:00:51Z</time>
+    </trkpt>
+    <trkpt lat="49.2579914" lon="22.4285824">
+      <ele>510</ele>
+      <time>2022-01-18T02:01:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

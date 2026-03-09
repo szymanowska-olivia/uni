@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:11Z</time>
+    <bounds maxlat="51.1088976" maxlon="15.5938697" minlat="51.1086487" minlon="15.592146"/>
+  </metadata>
+  <wpt lat="51.108649" lon="15.592146">
+    <ele>212</ele>
+    <name>Lwowek Slaski, ul. Betleja</name>
+    <link href="https://mapa-turystyczna.pl/node/11840">
+      <text>Lwowek Slaski, ul. Betleja</text>
+    </link>
+  </wpt>
+  <wpt lat="51.108898" lon="15.59387">
+    <ele>209</ele>
+    <name>Lwowek Slaski, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3306">
+      <text>Lwowek Slaski, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Betleja - Lwowek Slaski, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1086487,15.592146;51.108812850077705,15.593165249999998;51.1088976,15.5938697">
+    <text>Lwowek Slaski, ul. Betleja - Lwowek Slaski, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1086487" lon="15.592146">
+      <ele>212</ele>
+      <time>2022-01-18T01:13:11Z</time>
+    </trkpt>
+    <trkpt lat="51.1087281" lon="15.5924608">
+      <ele>212</ele>
+      <time>2022-01-18T01:13:34Z</time>
+    </trkpt>
+    <trkpt lat="51.1088976" lon="15.5938697">
+      <ele>209</ele>
+      <time>2022-01-18T01:15:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:18Z</time>
+    <bounds maxlat="50.8419664" maxlon="15.2338738" minlat="50.8320097" minlon="15.2190519"/>
+  </metadata>
+  <wpt lat="50.841966" lon="15.219052">
+    <ele>932</ele>
+    <name>Nad Cernym potokem</name>
+    <link href="https://mapa-turystyczna.pl/node/8794">
+      <text>Nad Cernym potokem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.83201" lon="15.233874">
+    <ele>975</ele>
+    <name>Cihadla</name>
+    <link href="https://mapa-turystyczna.pl/node/8793">
+      <text>Cihadla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Cernym potokem - Cihadla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8419664,15.2190519;50.83826356019908,15.226519500000006;50.8320097,15.2338738">
+    <text>Nad Cernym potokem - Cihadla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8419664" lon="15.2190519">
+      <ele>932</ele>
+      <time>2022-01-17T23:56:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8416918" lon="15.2195377">
+      <ele>932</ele>
+      <time>2022-01-17T23:57:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8392392" lon="15.2245427">
+      <ele>942</ele>
+      <time>2022-01-18T00:05:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8372879" lon="15.2284963">
+      <ele>957</ele>
+      <time>2022-01-18T00:12:38Z</time>
+    </trkpt>
+    <trkpt lat="50.836966" lon="15.2289737">
+      <ele>959</ele>
+      <time>2022-01-18T00:13:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8349909" lon="15.2305938">
+      <ele>965</ele>
+      <time>2022-01-18T00:18:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8332698" lon="15.2319456">
+      <ele>974</ele>
+      <time>2022-01-18T00:22:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8328768" lon="15.2325411">
+      <ele>975</ele>
+      <time>2022-01-18T00:23:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8320097" lon="15.2338738">
+      <ele>975</ele>
+      <time>2022-01-18T00:26:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

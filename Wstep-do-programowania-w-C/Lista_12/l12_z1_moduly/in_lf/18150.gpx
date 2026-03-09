@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:07Z</time>
+    <bounds maxlat="49.656343" maxlon="18.866753" minlat="49.65434" minlon="18.864509"/>
+  </metadata>
+  <wpt lat="49.656343" lon="18.864616">
+    <ele>457</ele>
+    <name>Wisla, ul. Gornoslaska</name>
+    <link href="https://mapa-turystyczna.pl/node/12336">
+      <text>Wisla, ul. Gornoslaska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.65434" lon="18.866753">
+    <ele>441</ele>
+    <name>Wisla, Partecznik</name>
+    <link href="https://mapa-turystyczna.pl/node/12334">
+      <text>Wisla, Partecznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, ul. Gornoslaska - Wisla, Partecznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.656343,18.864616;49.65538300047493,18.865443500000012;49.65434,18.866753">
+    <text>Wisla, ul. Gornoslaska - Wisla, Partecznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.656343" lon="18.864616">
+      <ele>457</ele>
+      <time>2022-01-18T01:26:07Z</time>
+    </trkpt>
+    <trkpt lat="49.656286" lon="18.864543">
+      <ele>455</ele>
+      <time>2022-01-18T01:26:16Z</time>
+    </trkpt>
+    <trkpt lat="49.65619" lon="18.864509">
+      <ele>454</ele>
+      <time>2022-01-18T01:26:28Z</time>
+    </trkpt>
+    <trkpt lat="49.656087" lon="18.864542">
+      <ele>453</ele>
+      <time>2022-01-18T01:26:40Z</time>
+    </trkpt>
+    <trkpt lat="49.655818" lon="18.864711">
+      <ele>450</ele>
+      <time>2022-01-18T01:27:14Z</time>
+    </trkpt>
+    <trkpt lat="49.655598" lon="18.865059">
+      <ele>450</ele>
+      <time>2022-01-18T01:27:51Z</time>
+    </trkpt>
+    <trkpt lat="49.655168" lon="18.865828">
+      <ele>446</ele>
+      <time>2022-01-18T01:29:07Z</time>
+    </trkpt>
+    <trkpt lat="49.655045" lon="18.866004">
+      <ele>445</ele>
+      <time>2022-01-18T01:29:27Z</time>
+    </trkpt>
+    <trkpt lat="49.65489" lon="18.866181">
+      <ele>444</ele>
+      <time>2022-01-18T01:29:50Z</time>
+    </trkpt>
+    <trkpt lat="49.654619" lon="18.866442">
+      <ele>442</ele>
+      <time>2022-01-18T01:30:27Z</time>
+    </trkpt>
+    <trkpt lat="49.654511" lon="18.866554">
+      <ele>442</ele>
+      <time>2022-01-18T01:30:42Z</time>
+    </trkpt>
+    <trkpt lat="49.65434" lon="18.866753">
+      <ele>441</ele>
+      <time>2022-01-18T01:31:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:01Z</time>
+    <bounds maxlat="50.7159427" maxlon="15.881417" minlat="50.7144723" minlon="15.8772772"/>
+  </metadata>
+  <wpt lat="50.714472" lon="15.877277">
+    <ele>636</ele>
+    <name>Srebrny Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/1378">
+      <text>Srebrny Potok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.715919" lon="15.881433">
+    <ele>615</ele>
+    <name>Schronisko Srebrny Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/1359">
+      <text>Schronisko Srebrny Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Srebrny Potok - Schronisko Srebrny Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7144723,15.8772772;50.71557595143491,15.880327049999998;50.7159189,15.8814331">
+    <text>Srebrny Potok - Schronisko Srebrny Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7144723" lon="15.8772772">
+      <ele>636</ele>
+      <time>2022-01-17T21:08:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7147099" lon="15.8778383">
+      <ele>631</ele>
+      <time>2022-01-17T21:08:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7150054" lon="15.8786729">
+      <ele>624</ele>
+      <time>2022-01-17T21:09:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7152092" lon="15.8792371">
+      <ele>620</ele>
+      <time>2022-01-17T21:10:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7159427" lon="15.881417">
+      <ele>615</ele>
+      <time>2022-01-17T21:13:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

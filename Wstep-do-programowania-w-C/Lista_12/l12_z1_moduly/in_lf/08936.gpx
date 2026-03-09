@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:47:59Z</time>
+    <bounds maxlat="50.8227019" maxlon="15.6480673" minlat="50.8221869" minlon="15.6479698"/>
+  </metadata>
+  <wpt lat="50.822702" lon="15.647975">
+    <ele>542</ele>
+    <name>Przelecz Ludomira Rozyckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/1317">
+      <text>Przelecz Ludomira Rozyckiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.822187" lon="15.648067">
+    <ele>542</ele>
+    <name>Zachelmie</name>
+    <link href="https://mapa-turystyczna.pl/node/6222">
+      <text>Zachelmie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Ludomira Rozyckiego - Zachelmie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8227019,15.6479752;50.82242945008005,15.647972499999998;50.8221869,15.6480673">
+    <text>Przelecz Ludomira Rozyckiego - Zachelmie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8227019" lon="15.6479752">
+      <ele>542</ele>
+      <time>2022-01-17T22:47:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8225159" lon="15.6479698">
+      <ele>541</ele>
+      <time>2022-01-17T22:48:20Z</time>
+    </trkpt>
+    <trkpt lat="50.822343" lon="15.6479752">
+      <ele>541</ele>
+      <time>2022-01-17T22:48:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8221869" lon="15.6480673">
+      <ele>542</ele>
+      <time>2022-01-17T22:48:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

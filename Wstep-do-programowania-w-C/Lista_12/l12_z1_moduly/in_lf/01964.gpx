@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:54Z</time>
+    <bounds maxlat="50.6825523" maxlon="15.6279391" minlat="50.6776462" minlon="15.6262064"/>
+  </metadata>
+  <wpt lat="50.682552" lon="15.626582">
+    <ele>900</ele>
+    <name>U Hribeci Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1415">
+      <text>U Hribeci Boudy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.677646" lon="15.627193">
+    <ele>801</ele>
+    <name>Hribeci Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1137">
+      <text>Hribeci Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Hribeci Boudy - Hribeci Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6825523,15.6265819;50.68010810096915,15.627268549999975;50.6776462,15.6271934">
+    <text>U Hribeci Boudy - Hribeci Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6825523" lon="15.6265819">
+      <ele>900</ele>
+      <time>2022-01-17T21:08:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6815521" lon="15.6262064">
+      <ele>887</ele>
+      <time>2022-01-17T21:10:48Z</time>
+    </trkpt>
+    <trkpt lat="50.681346" lon="15.6262493">
+      <ele>885</ele>
+      <time>2022-01-17T21:11:11Z</time>
+    </trkpt>
+    <trkpt lat="50.681092" lon="15.6263137">
+      <ele>880</ele>
+      <time>2022-01-17T21:11:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6804097" lon="15.6268501">
+      <ele>867</ele>
+      <time>2022-01-17T21:13:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6798065" lon="15.627687">
+      <ele>847</ele>
+      <time>2022-01-17T21:14:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6791672" lon="15.6279391">
+      <ele>832</ele>
+      <time>2022-01-17T21:15:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6782017" lon="15.6277407">
+      <ele>807</ele>
+      <time>2022-01-17T21:17:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6779104" lon="15.6275261">
+      <ele>803</ele>
+      <time>2022-01-17T21:18:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6776462" lon="15.6271934">
+      <ele>801</ele>
+      <time>2022-01-17T21:18:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

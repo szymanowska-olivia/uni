@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:38Z</time>
+    <bounds maxlat="49.8150732" maxlon="22.2332138" minlat="49.8146856" minlon="22.2318542"/>
+  </metadata>
+  <wpt lat="49.814686" lon="22.231854">
+    <ele>257</ele>
+    <name>Dynow, ul. Mickewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/3683">
+      <text>Dynow, ul. Mickewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.815058" lon="22.233214">
+    <ele>257</ele>
+    <name>Dynow</name>
+    <link href="https://mapa-turystyczna.pl/node/13164">
+      <text>Dynow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dynow, ul. Mickewicza - Dynow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8146856,22.2318542;49.815021300027844,22.23241210000001;49.815058,22.2332138">
+    <text>Dynow, ul. Mickewicza - Dynow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8146856" lon="22.2318542">
+      <ele>257</ele>
+      <time>2022-01-18T01:49:38Z</time>
+    </trkpt>
+    <trkpt lat="49.8149694" lon="22.2321653">
+      <ele>259</ele>
+      <time>2022-01-18T01:50:18Z</time>
+    </trkpt>
+    <trkpt lat="49.8150732" lon="22.2326589">
+      <ele>258</ele>
+      <time>2022-01-18T01:50:57Z</time>
+    </trkpt>
+    <trkpt lat="49.815058" lon="22.2332138">
+      <ele>257</ele>
+      <time>2022-01-18T01:51:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

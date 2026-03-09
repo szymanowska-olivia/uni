@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:49Z</time>
+    <bounds maxlat="53.9071019" maxlon="14.3235312" minlat="53.9062771" minlon="14.3223242"/>
+  </metadata>
+  <wpt lat="53.907102" lon="14.322324">
+    <ele>7</ele>
+    <name>Skrzyzowanie przy Dzwonie</name>
+    <link href="https://mapa-turystyczna.pl/node/8626">
+      <text>Skrzyzowanie przy Dzwonie</text>
+    </link>
+  </wpt>
+  <wpt lat="53.906277" lon="14.323531">
+    <ele>11</ele>
+    <name>Wieza baterii Goeben (Dzwon)</name>
+    <link href="https://mapa-turystyczna.pl/node/8627">
+      <text>Wieza baterii Goeben (Dzwon)</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie przy Dzwonie - Wieza baterii Goeben (Dzwon)</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9071019,14.3223242;53.906463300064665,14.322715200000005;53.9062771,14.3235312">
+    <text>Skrzyzowanie przy Dzwonie - Wieza baterii Goeben (Dzwon)</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9071019" lon="14.3223242">
+      <ele>7</ele>
+      <time>2022-01-17T23:51:49Z</time>
+    </trkpt>
+    <trkpt lat="53.9066616" lon="14.3224174">
+      <ele>7</ele>
+      <time>2022-01-17T23:52:53Z</time>
+    </trkpt>
+    <trkpt lat="53.9065368" lon="14.3225033">
+      <ele>7</ele>
+      <time>2022-01-17T23:53:13Z</time>
+    </trkpt>
+    <trkpt lat="53.9063898" lon="14.3229271">
+      <ele>9</ele>
+      <time>2022-01-17T23:53:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9062771" lon="14.3235312">
+      <ele>11</ele>
+      <time>2022-01-17T23:54:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

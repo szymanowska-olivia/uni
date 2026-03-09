@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:08Z</time>
+    <bounds maxlat="52.3050543" maxlon="20.8580589" minlat="52.3048706" minlon="20.8569217"/>
+  </metadata>
+  <wpt lat="52.304871" lon="20.858059">
+    <ele>96</ele>
+    <name>Michalowka, rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/5014">
+      <text>Michalowka, rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305054" lon="20.856922">
+    <ele>97</ele>
+    <name>Michalowka</name>
+    <link href="https://mapa-turystyczna.pl/node/4988">
+      <text>Michalowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Michalowka, rozejscie szlakow czerwony / zolty - Michalowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3048706,20.8580589;52.30497475000436,20.857532;52.3050543,20.8569217">
+    <text>Michalowka, rozejscie szlakow czerwony / zolty - Michalowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3048706" lon="20.8580589">
+      <ele>96</ele>
+      <time>2022-01-17T22:22:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3049551" lon="20.8578029">
+      <ele>96</ele>
+      <time>2022-01-17T22:22:23Z</time>
+    </trkpt>
+    <trkpt lat="52.3049944" lon="20.8572611">
+      <ele>97</ele>
+      <time>2022-01-17T22:22:50Z</time>
+    </trkpt>
+    <trkpt lat="52.3050543" lon="20.8569217">
+      <ele>97</ele>
+      <time>2022-01-17T22:23:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

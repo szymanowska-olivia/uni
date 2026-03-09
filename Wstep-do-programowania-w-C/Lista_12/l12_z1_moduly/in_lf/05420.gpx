@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:24Z</time>
+    <bounds maxlat="50.7005095" maxlon="16.4416466" minlat="50.6978185" minlon="16.4398813"/>
+  </metadata>
+  <wpt lat="50.697818" lon="16.441499">
+    <ele>509</ele>
+    <name>Walim, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2018">
+      <text>Walim, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.70051" lon="16.439881">
+    <ele>506</ele>
+    <name>Walim, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3828">
+      <text>Walim, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walim, skrzyzowanie - Walim, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6978185,16.4414987;50.69906000623775,16.441194800000005;50.7005095,16.4398813">
+    <text>Walim, skrzyzowanie - Walim, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6978185" lon="16.4414987">
+      <ele>509</ele>
+      <time>2022-01-17T21:55:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6982951" lon="16.4416466">
+      <ele>510</ele>
+      <time>2022-01-17T21:56:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6998249" lon="16.440743">
+      <ele>508</ele>
+      <time>2022-01-17T21:58:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6999829" lon="16.4403735">
+      <ele>508</ele>
+      <time>2022-01-17T21:59:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7005095" lon="16.4398813">
+      <ele>506</ele>
+      <time>2022-01-17T22:00:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

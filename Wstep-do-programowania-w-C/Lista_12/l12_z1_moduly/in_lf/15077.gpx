@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:49Z</time>
+    <bounds maxlat="50.6633032" maxlon="16.6425801" minlat="50.6619065" minlon="16.6410166"/>
+  </metadata>
+  <wpt lat="50.663303" lon="16.641017">
+    <ele>446</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13565">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.661907" lon="16.64258">
+    <ele>457</ele>
+    <name>Wrona</name>
+    <link href="https://mapa-turystyczna.pl/node/10277">
+      <text>Wrona</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Wrona</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6633032,16.6410166;50.66278550013001,16.641963199999985;50.6619065,16.6425801">
+    <text>Rozejscie szlakow - Wrona</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6633032" lon="16.6410166">
+      <ele>446</ele>
+      <time>2022-01-18T00:32:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6630991" lon="16.6415185">
+      <ele>449</ele>
+      <time>2022-01-18T00:33:52Z</time>
+    </trkpt>
+    <trkpt lat="50.662896" lon="16.6419578">
+      <ele>451</ele>
+      <time>2022-01-18T00:34:49Z</time>
+    </trkpt>
+    <trkpt lat="50.662675" lon="16.6419686">
+      <ele>451</ele>
+      <time>2022-01-18T00:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6625084" lon="16.6420597">
+      <ele>453</ele>
+      <time>2022-01-18T00:35:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6622296" lon="16.6423548">
+      <ele>456</ele>
+      <time>2022-01-18T00:36:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6619065" lon="16.6425801">
+      <ele>457</ele>
+      <time>2022-01-18T00:37:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

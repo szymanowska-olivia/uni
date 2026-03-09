@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:39:15Z</time>
+    <bounds maxlat="50.4770627" maxlon="16.1768049" minlat="50.4745449" minlon="16.1763811"/>
+  </metadata>
+  <wpt lat="50.477063" lon="16.176381">
+    <ele>367</ele>
+    <name>Hronov, ulice Smetanova</name>
+    <link href="https://mapa-turystyczna.pl/node/5891">
+      <text>Hronov, ulice Smetanova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.474545" lon="16.176805">
+    <ele>365</ele>
+    <name>Hronov, vlakova stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/5892">
+      <text>Hronov, vlakova stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hronov, ulice Smetanova - Hronov, vlakova stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4770627,16.1763811;50.47580381676302,16.176593;50.4745449,16.1768049">
+    <text>Hronov, ulice Smetanova - Hronov, vlakova stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4770627" lon="16.1763811">
+      <ele>367</ele>
+      <time>2022-01-17T22:39:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4745449" lon="16.1768049">
+      <ele>365</ele>
+      <time>2022-01-17T22:44:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

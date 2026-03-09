@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:54:11Z</time>
+    <bounds maxlat="51.5545683" maxlon="22.9170826" minlat="51.5531987" minlon="22.9166278"/>
+  </metadata>
+  <wpt lat="51.554568" lon="22.916628">
+    <ele>161</ele>
+    <name>Ochoza</name>
+    <link href="https://mapa-turystyczna.pl/node/13335">
+      <text>Ochoza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.553199" lon="22.917083">
+    <ele>162</ele>
+    <name>Ochoza, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13336">
+      <text>Ochoza, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ochoza - Ochoza, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5545683,22.9166278;51.5535711015244,22.916976950000024;51.5531987,22.9170826">
+    <text>Ochoza - Ochoza, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5545683" lon="22.9166278">
+      <ele>161</ele>
+      <time>2022-01-18T01:54:11Z</time>
+    </trkpt>
+    <trkpt lat="51.5539435" lon="22.9168713">
+      <ele>161</ele>
+      <time>2022-01-18T01:55:06Z</time>
+    </trkpt>
+    <trkpt lat="51.5531987" lon="22.9170826">
+      <ele>162</ele>
+      <time>2022-01-18T01:56:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:23Z</time>
+    <bounds maxlat="52.6052425" maxlon="21.548742" minlat="52.6047687" minlon="21.5483372"/>
+  </metadata>
+  <wpt lat="52.604769" lon="21.548337">
+    <ele>89</ele>
+    <name>Kamienczyk, Rybaki</name>
+    <link href="https://mapa-turystyczna.pl/node/12158">
+      <text>Kamienczyk, Rybaki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.605243" lon="21.548742">
+    <ele>87</ele>
+    <name>Kamienczyk, rzeka Bug</name>
+    <link href="https://mapa-turystyczna.pl/node/12174">
+      <text>Kamienczyk, rzeka Bug</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienczyk, Rybaki - Kamienczyk, rzeka Bug</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.6047687,21.5483372;52.60492675028519,21.54843150000001;52.6052425,21.548742">
+    <text>Kamienczyk, Rybaki - Kamienczyk, rzeka Bug</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.6047687" lon="21.5483372">
+      <ele>89</ele>
+      <time>2022-01-18T01:21:23Z</time>
+    </trkpt>
+    <trkpt lat="52.6050848" lon="21.5485258">
+      <ele>89</ele>
+      <time>2022-01-18T01:22:00Z</time>
+    </trkpt>
+    <trkpt lat="52.6052425" lon="21.548742">
+      <ele>87</ele>
+      <time>2022-01-18T01:22:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

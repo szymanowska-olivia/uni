@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:04Z</time>
+    <bounds maxlat="49.9370618" maxlon="21.0070074" minlat="49.9346732" minlon="20.9940791"/>
+  </metadata>
+  <wpt lat="49.936657" lon="20.994079">
+    <ele>389</ele>
+    <name>Slona Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3643">
+      <text>Slona Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.934673" lon="21.007007">
+    <ele>362</ele>
+    <name>Buchcickie</name>
+    <link href="https://mapa-turystyczna.pl/node/3645">
+      <text>Buchcickie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slona Gora - Buchcickie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9366568,20.9940791;49.93647345014634,21.000824849999987;49.9346732,21.0070074">
+    <text>Slona Gora - Buchcickie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9366568" lon="20.9940791">
+      <ele>389</ele>
+      <time>2022-01-17T21:52:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9368277" lon="20.9954149">
+      <ele>392</ele>
+      <time>2022-01-17T21:53:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9368864" lon="20.9959393">
+      <ele>391</ele>
+      <time>2022-01-17T21:54:07Z</time>
+    </trkpt>
+    <trkpt lat="49.9370618" lon="20.9969544">
+      <ele>390</ele>
+      <time>2022-01-17T21:55:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9368685" lon="20.9981668">
+      <ele>386</ele>
+      <time>2022-01-17T21:56:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9365922" lon="20.999186">
+      <ele>383</ele>
+      <time>2022-01-17T21:57:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9363547" lon="21.0024637">
+      <ele>363</ele>
+      <time>2022-01-17T22:01:22Z</time>
+    </trkpt>
+    <trkpt lat="49.9358467" lon="21.0037317">
+      <ele>365</ele>
+      <time>2022-01-17T22:02:59Z</time>
+    </trkpt>
+    <trkpt lat="49.9352075" lon="21.0051124">
+      <ele>363</ele>
+      <time>2022-01-17T22:04:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9350616" lon="21.0055241">
+      <ele>365</ele>
+      <time>2022-01-17T22:05:20Z</time>
+    </trkpt>
+    <trkpt lat="49.9346732" lon="21.0070074">
+      <ele>362</ele>
+      <time>2022-01-17T22:07:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

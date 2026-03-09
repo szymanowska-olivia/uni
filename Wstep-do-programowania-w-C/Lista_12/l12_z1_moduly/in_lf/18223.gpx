@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:23Z</time>
+    <bounds maxlat="52.1015853" maxlon="15.1088828" minlat="52.1006566" minlon="15.10753"/>
+  </metadata>
+  <wpt lat="52.100657" lon="15.108883">
+    <ele>61</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12378">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.101585" lon="15.10753">
+    <ele>54</ele>
+    <name>Rozejscie Przy stawach</name>
+    <link href="https://mapa-turystyczna.pl/node/12370">
+      <text>Rozejscie Przy stawach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Rozejscie Przy stawach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1006566,15.1088828;52.10112095241719,15.108206399999986;52.1015853,15.10753">
+    <text>Rozejscie szlakow czerwony / niebieski - Rozejscie Przy stawach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1006566" lon="15.1088828">
+      <ele>61</ele>
+      <time>2022-01-18T01:27:23Z</time>
+    </trkpt>
+    <trkpt lat="52.1015853" lon="15.10753">
+      <ele>54</ele>
+      <time>2022-01-18T01:29:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

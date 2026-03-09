@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:49:37Z</time>
+    <bounds maxlat="49.5630845" maxlon="21.7899227" minlat="49.5624772" minlon="21.7897006"/>
+  </metadata>
+  <wpt lat="49.562477" lon="21.789701">
+    <ele>398</ele>
+    <name>Iwonicz-Zdroj, pl. Wojciecha Oczki</name>
+    <link href="https://mapa-turystyczna.pl/node/10958">
+      <text>Iwonicz-Zdroj, pl. Wojciecha Oczki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.563085" lon="21.789923">
+    <ele>389</ele>
+    <name>Iwonicz-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/453">
+      <text>Iwonicz-Zdroj</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Iwonicz-Zdroj, pl. Wojciecha Oczki - Iwonicz-Zdroj</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5624772,21.7897006;49.56264175027726,21.789806300000023;49.5630845,21.7899227">
+    <text>Iwonicz-Zdroj, pl. Wojciecha Oczki - Iwonicz-Zdroj</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5624772" lon="21.7897006">
+      <ele>398</ele>
+      <time>2022-01-18T00:49:37Z</time>
+    </trkpt>
+    <trkpt lat="49.5628063" lon="21.789912">
+      <ele>392</ele>
+      <time>2022-01-18T00:50:11Z</time>
+    </trkpt>
+    <trkpt lat="49.5630845" lon="21.7899227">
+      <ele>389</ele>
+      <time>2022-01-18T00:50:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

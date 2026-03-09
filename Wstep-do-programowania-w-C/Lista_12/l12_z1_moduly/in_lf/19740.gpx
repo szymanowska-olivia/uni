@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:56Z</time>
+    <bounds maxlat="51.5446724" maxlon="23.5539218" minlat="51.5437249" minlon="23.5477132"/>
+  </metadata>
+  <wpt lat="51.544672" lon="23.547713">
+    <ele>169</ele>
+    <name>Wlodawa, kolumna toskanska</name>
+    <link href="https://mapa-turystyczna.pl/node/12976">
+      <text>Wlodawa, kolumna toskanska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.543725" lon="23.553922">
+    <ele>169</ele>
+    <name>Wlodawa, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/12977">
+      <text>Wlodawa, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wlodawa, kolumna toskanska - Wlodawa, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5446724,23.5477132;51.544019050950745,23.55222949999998;51.5437249,23.5539218">
+    <text>Wlodawa, kolumna toskanska - Wlodawa, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5446724" lon="23.5477132">
+      <ele>169</ele>
+      <time>2022-01-18T01:53:56Z</time>
+    </trkpt>
+    <trkpt lat="51.54444" lon="23.5496736">
+      <ele>171</ele>
+      <time>2022-01-18T01:55:30Z</time>
+    </trkpt>
+    <trkpt lat="51.5443132" lon="23.5505372">
+      <ele>170</ele>
+      <time>2022-01-18T01:56:11Z</time>
+    </trkpt>
+    <trkpt lat="51.5437249" lon="23.5539218">
+      <ele>169</ele>
+      <time>2022-01-18T01:58:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

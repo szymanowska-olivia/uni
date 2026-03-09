@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:37Z</time>
+    <bounds maxlat="49.470278" maxlon="21.218899" minlat="49.468823" minlon="21.217916"/>
+  </metadata>
+  <wpt lat="49.470278" lon="21.217916">
+    <ele>529</ele>
+    <name>Regietow, szlak czerwony</name>
+    <link href="https://mapa-turystyczna.pl/node/8006">
+      <text>Regietow, szlak czerwony</text>
+    </link>
+  </wpt>
+  <wpt lat="49.468823" lon="21.218899">
+    <ele>533</ele>
+    <name>Baza namiotowa w Regetowie</name>
+    <link href="https://mapa-turystyczna.pl/node/432">
+      <text>Baza namiotowa w Regetowie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Regietow, szlak czerwony - Baza namiotowa w Regetowie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.470278,21.217916;49.46977850087923,21.218293000000017;49.468823,21.218899">
+    <text>Regietow, szlak czerwony - Baza namiotowa w Regetowie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.470278" lon="21.217916">
+      <ele>529</ele>
+      <time>2022-01-17T23:33:37Z</time>
+    </trkpt>
+    <trkpt lat="49.470172" lon="21.218046">
+      <ele>529</ele>
+      <time>2022-01-17T23:33:52Z</time>
+    </trkpt>
+    <trkpt lat="49.470072" lon="21.218127">
+      <ele>529</ele>
+      <time>2022-01-17T23:34:05Z</time>
+    </trkpt>
+    <trkpt lat="49.469485" lon="21.218459">
+      <ele>528</ele>
+      <time>2022-01-17T23:35:15Z</time>
+    </trkpt>
+    <trkpt lat="49.469163" lon="21.218698">
+      <ele>529</ele>
+      <time>2022-01-17T23:35:56Z</time>
+    </trkpt>
+    <trkpt lat="49.46894" lon="21.218805">
+      <ele>532</ele>
+      <time>2022-01-17T23:36:22Z</time>
+    </trkpt>
+    <trkpt lat="49.468823" lon="21.218899">
+      <ele>533</ele>
+      <time>2022-01-17T23:36:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:53Z</time>
+    <bounds maxlat="49.611256" maxlon="19.512985" minlat="49.610955" minlon="19.510651"/>
+  </metadata>
+  <wpt lat="49.611212" lon="19.512985">
+    <ele>767</ele>
+    <name>Punkt widokowy na sciezce edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/12359">
+      <text>Punkt widokowy na sciezce edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.610955" lon="19.510651">
+    <ele>806</ele>
+    <name>Lesna klasa</name>
+    <link href="https://mapa-turystyczna.pl/node/12360">
+      <text>Lesna klasa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Punkt widokowy na sciezce edukacyjnej - Lesna klasa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.611212,19.512985;49.611174000006926,19.51161950000002;49.610955,19.510651">
+    <text>Punkt widokowy na sciezce edukacyjnej - Lesna klasa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.611212" lon="19.512985">
+      <ele>767</ele>
+      <time>2022-01-18T01:26:53Z</time>
+    </trkpt>
+    <trkpt lat="49.611235" lon="19.512808">
+      <ele>773</ele>
+      <time>2022-01-18T01:27:16Z</time>
+    </trkpt>
+    <trkpt lat="49.611256" lon="19.512631">
+      <ele>777</ele>
+      <time>2022-01-18T01:27:39Z</time>
+    </trkpt>
+    <trkpt lat="49.611252" lon="19.512419">
+      <ele>781</ele>
+      <time>2022-01-18T01:28:06Z</time>
+    </trkpt>
+    <trkpt lat="49.611245" lon="19.512199">
+      <ele>785</ele>
+      <time>2022-01-18T01:28:33Z</time>
+    </trkpt>
+    <trkpt lat="49.611231" lon="19.511944">
+      <ele>789</ele>
+      <time>2022-01-18T01:29:05Z</time>
+    </trkpt>
+    <trkpt lat="49.6112" lon="19.51177">
+      <ele>792</ele>
+      <time>2022-01-18T01:29:27Z</time>
+    </trkpt>
+    <trkpt lat="49.611148" lon="19.511469">
+      <ele>796</ele>
+      <time>2022-01-18T01:30:05Z</time>
+    </trkpt>
+    <trkpt lat="49.611115" lon="19.511228">
+      <ele>800</ele>
+      <time>2022-01-18T01:30:36Z</time>
+    </trkpt>
+    <trkpt lat="49.611063" lon="19.511011">
+      <ele>803</ele>
+      <time>2022-01-18T01:31:04Z</time>
+    </trkpt>
+    <trkpt lat="49.610979" lon="19.510804">
+      <ele>805</ele>
+      <time>2022-01-18T01:31:34Z</time>
+    </trkpt>
+    <trkpt lat="49.610955" lon="19.510651">
+      <ele>806</ele>
+      <time>2022-01-18T01:31:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

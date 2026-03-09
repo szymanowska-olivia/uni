@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:58Z</time>
+    <bounds maxlat="49.726315" maxlon="18.993815" minlat="49.725249" minlon="18.993485"/>
+  </metadata>
+  <wpt lat="49.725249" lon="18.993485">
+    <ele>713</ele>
+    <name>Chata Wuja Toma</name>
+    <link href="https://mapa-turystyczna.pl/node/4812">
+      <text>Chata Wuja Toma</text>
+    </link>
+  </wpt>
+  <wpt lat="49.726315" lon="18.993787">
+    <ele>718</ele>
+    <name>Odejscie do Chaty Wuja Toma</name>
+    <link href="https://mapa-turystyczna.pl/node/4811">
+      <text>Odejscie do Chaty Wuja Toma</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata Wuja Toma - Odejscie do Chaty Wuja Toma</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.725249,18.993485;49.72569650013979,18.993733499999983;49.726315,18.993787">
+    <text>Chata Wuja Toma - Odejscie do Chaty Wuja Toma</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.725249" lon="18.993485">
+      <ele>713</ele>
+      <time>2022-01-17T22:16:58Z</time>
+    </trkpt>
+    <trkpt lat="49.725477" lon="18.993622">
+      <ele>712</ele>
+      <time>2022-01-17T22:17:25Z</time>
+    </trkpt>
+    <trkpt lat="49.72558" lon="18.993688">
+      <ele>712</ele>
+      <time>2022-01-17T22:17:37Z</time>
+    </trkpt>
+    <trkpt lat="49.725813" lon="18.993779">
+      <ele>713</ele>
+      <time>2022-01-17T22:18:03Z</time>
+    </trkpt>
+    <trkpt lat="49.726008" lon="18.993815">
+      <ele>714</ele>
+      <time>2022-01-17T22:18:24Z</time>
+    </trkpt>
+    <trkpt lat="49.726315" lon="18.993787">
+      <ele>718</ele>
+      <time>2022-01-17T22:18:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

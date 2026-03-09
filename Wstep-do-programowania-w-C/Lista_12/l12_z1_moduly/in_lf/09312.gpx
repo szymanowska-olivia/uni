@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:55:05Z</time>
+    <bounds maxlat="48.8628232" maxlon="19.3043357" minlat="48.862315" minlon="19.3034613"/>
+  </metadata>
+  <wpt lat="48.862823" lon="19.303461">
+    <ele>1095</ele>
+    <name>Hiadelske sedlo, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6470">
+      <text>Hiadelske sedlo, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.862315" lon="19.304336">
+    <ele>1099</ele>
+    <name>Hiadelske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6469">
+      <text>Hiadelske sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hiadelske sedlo, razc. - Hiadelske sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8628232,19.3034613;48.862585050094104,19.303985650000016;48.862315,19.3043357">
+    <text>Hiadelske sedlo, razc. - Hiadelske sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8628232" lon="19.3034613">
+      <ele>1095</ele>
+      <time>2022-01-17T22:55:05Z</time>
+    </trkpt>
+    <trkpt lat="48.8627703" lon="19.303633">
+      <ele>1096</ele>
+      <time>2022-01-17T22:55:24Z</time>
+    </trkpt>
+    <trkpt lat="48.8626821" lon="19.3038046">
+      <ele>1098</ele>
+      <time>2022-01-17T22:55:46Z</time>
+    </trkpt>
+    <trkpt lat="48.862488" lon="19.3041667">
+      <ele>1099</ele>
+      <time>2022-01-17T22:56:33Z</time>
+    </trkpt>
+    <trkpt lat="48.862315" lon="19.3043357">
+      <ele>1099</ele>
+      <time>2022-01-17T22:57:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

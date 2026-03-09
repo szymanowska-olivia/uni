@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:07Z</time>
+    <bounds maxlat="50.4026129" maxlon="16.2652695" minlat="50.401142" minlon="16.2650028"/>
+  </metadata>
+  <wpt lat="50.402613" lon="16.265269">
+    <ele>460</ele>
+    <name>Jarkow, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/4836">
+      <text>Jarkow, rozwidlenie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.401142" lon="16.265003">
+    <ele>475</ele>
+    <name>Jarkow</name>
+    <link href="https://mapa-turystyczna.pl/node/5759">
+      <text>Jarkow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarkow, rozwidlenie - Jarkow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4026129,16.2652695;50.40216155214912,16.265181000000027;50.401142,16.2650028">
+    <text>Jarkow, rozwidlenie - Jarkow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4026129" lon="16.2652695">
+      <ele>460</ele>
+      <time>2022-01-17T22:36:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4017102" lon="16.2650925">
+      <ele>468</ele>
+      <time>2022-01-17T22:39:11Z</time>
+    </trkpt>
+    <trkpt lat="50.401142" lon="16.2650028">
+      <ele>475</ele>
+      <time>2022-01-17T22:41:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:16Z</time>
+    <bounds maxlat="50.0596581" maxlon="16.8432441" minlat="50.0572938" minlon="16.8396496"/>
+  </metadata>
+  <wpt lat="50.057294" lon="16.83965">
+    <ele>863</ele>
+    <name>Pramen Rudolf</name>
+    <link href="https://mapa-turystyczna.pl/node/7769">
+      <text>Pramen Rudolf</text>
+    </link>
+  </wpt>
+  <wpt lat="50.059658" lon="16.843244">
+    <ele>887</ele>
+    <name>Nad pramenem Rudolf</name>
+    <link href="https://mapa-turystyczna.pl/node/7770">
+      <text>Nad pramenem Rudolf</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pramen Rudolf - Nad pramenem Rudolf</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0572938,16.8396496;50.058292354049435,16.841180050000006;50.0596581,16.8432441">
+    <text>Pramen Rudolf - Nad pramenem Rudolf</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0572938" lon="16.8396496">
+      <ele>863</ele>
+      <time>2022-01-17T23:27:16Z</time>
+    </trkpt>
+    <trkpt lat="50.057669" lon="16.8402198">
+      <ele>866</ele>
+      <time>2022-01-17T23:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0589157" lon="16.8421403">
+      <ele>882</ele>
+      <time>2022-01-17T23:34:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0593566" lon="16.8428269">
+      <ele>884</ele>
+      <time>2022-01-17T23:36:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0596581" lon="16.8432441">
+      <ele>887</ele>
+      <time>2022-01-17T23:37:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

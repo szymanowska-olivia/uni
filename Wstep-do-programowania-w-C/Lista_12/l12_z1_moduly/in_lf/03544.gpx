@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:32Z</time>
+    <bounds maxlat="49.1524176" maxlon="22.6445122" minlat="49.1511258" minlon="22.6435143"/>
+  </metadata>
+  <wpt lat="49.151126" lon="22.643514">
+    <ele>785</ele>
+    <name>Schronisko studenckie Koliba</name>
+    <link href="https://mapa-turystyczna.pl/node/389">
+      <text>Schronisko studenckie Koliba</text>
+    </link>
+  </wpt>
+  <wpt lat="49.152418" lon="22.644512">
+    <ele>809</ele>
+    <name>Przyslup Carynski</name>
+    <link href="https://mapa-turystyczna.pl/node/2489">
+      <text>Przyslup Carynski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko studenckie Koliba - Przyslup Carynski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1511258,22.6435143;49.15173030020842,22.64394079999996;49.1524176,22.6445122">
+    <text>Schronisko studenckie Koliba - Przyslup Carynski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1511258" lon="22.6435143">
+      <ele>785</ele>
+      <time>2022-01-17T21:31:32Z</time>
+    </trkpt>
+    <trkpt lat="49.151256" lon="22.6436039">
+      <ele>787</ele>
+      <time>2022-01-17T21:32:01Z</time>
+    </trkpt>
+    <trkpt lat="49.1513864" lon="22.6436933">
+      <ele>789</ele>
+      <time>2022-01-17T21:32:30Z</time>
+    </trkpt>
+    <trkpt lat="49.1515866" lon="22.6438952">
+      <ele>792</ele>
+      <time>2022-01-17T21:33:19Z</time>
+    </trkpt>
+    <trkpt lat="49.151874" lon="22.6439864">
+      <ele>796</ele>
+      <time>2022-01-17T21:34:19Z</time>
+    </trkpt>
+    <trkpt lat="49.1521299" lon="22.6441956">
+      <ele>800</ele>
+      <time>2022-01-17T21:35:18Z</time>
+    </trkpt>
+    <trkpt lat="49.1522758" lon="22.6443994">
+      <ele>804</ele>
+      <time>2022-01-17T21:35:59Z</time>
+    </trkpt>
+    <trkpt lat="49.1524176" lon="22.6445122">
+      <ele>809</ele>
+      <time>2022-01-17T21:36:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

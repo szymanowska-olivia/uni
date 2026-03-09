@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:25Z</time>
+    <bounds maxlat="50.2463404" maxlon="17.056843" minlat="50.2422717" minlon="17.045331"/>
+  </metadata>
+  <wpt lat="50.242272" lon="17.045331">
+    <ele>972</ele>
+    <name>Tri studanky</name>
+    <link href="https://mapa-turystyczna.pl/node/2150">
+      <text>Tri studanky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.245105" lon="17.056843">
+    <ele>1040</ele>
+    <name>Lvi hora</name>
+    <link href="https://mapa-turystyczna.pl/node/2185">
+      <text>Lvi hora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tri studanky - Lvi hora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2422717,17.045331;50.24545190828189,17.050105349999992;50.2451054,17.056843">
+    <text>Tri studanky - Lvi hora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2422717" lon="17.045331">
+      <ele>972</ele>
+      <time>2022-01-17T21:24:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2439184" lon="17.0485818">
+      <ele>996</ele>
+      <time>2022-01-17T21:31:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2445634" lon="17.0493865">
+      <ele>1012</ele>
+      <time>2022-01-17T21:33:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2463404" lon="17.0508242">
+      <ele>1041</ele>
+      <time>2022-01-17T21:38:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2451054" lon="17.056843">
+      <ele>1040</ele>
+      <time>2022-01-17T21:49:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

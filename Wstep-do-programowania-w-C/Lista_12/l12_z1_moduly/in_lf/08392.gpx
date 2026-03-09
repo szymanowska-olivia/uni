@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:58Z</time>
+    <bounds maxlat="50.5652385" maxlon="16.273182" minlat="50.5649114" minlon="16.2730426"/>
+  </metadata>
+  <wpt lat="50.564911" lon="16.273182">
+    <ele>668</ele>
+    <name>Vyhlidka Skalni divadlo</name>
+    <link href="https://mapa-turystyczna.pl/node/5841">
+      <text>Vyhlidka Skalni divadlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.565238" lon="16.273075">
+    <ele>677</ele>
+    <name>Skalni divadlo, odbocka k vyhlidce</name>
+    <link href="https://mapa-turystyczna.pl/node/5842">
+      <text>Skalni divadlo, odbocka k vyhlidce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidka Skalni divadlo - Skalni divadlo, odbocka k vyhlidce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5649114,16.273182;50.56501360011083,16.27311229999999;50.5652385,16.2730747">
+    <text>Vyhlidka Skalni divadlo - Skalni divadlo, odbocka k vyhlidce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5649114" lon="16.273182">
+      <ele>668</ele>
+      <time>2022-01-17T22:37:58Z</time>
+    </trkpt>
+    <trkpt lat="50.5651158" lon="16.2730426">
+      <ele>674</ele>
+      <time>2022-01-17T22:39:15Z</time>
+    </trkpt>
+    <trkpt lat="50.5652385" lon="16.2730747">
+      <ele>677</ele>
+      <time>2022-01-17T22:39:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

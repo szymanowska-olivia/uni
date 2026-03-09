@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:03Z</time>
+    <bounds maxlat="50.6586263" maxlon="19.208774" minlat="50.655097" minlon="19.2024439"/>
+  </metadata>
+  <wpt lat="50.656351" lon="19.208774">
+    <ele>286</ele>
+    <name>Centrum Konferencyjno-Szkoleniowe Poraj</name>
+    <link href="https://mapa-turystyczna.pl/node/4563">
+      <text>Centrum Konferencyjno-Szkoleniowe Poraj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.658626" lon="19.202444">
+    <ele>283</ele>
+    <name>Komorniki</name>
+    <link href="https://mapa-turystyczna.pl/node/4564">
+      <text>Komorniki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Centrum Konferencyjno-Szkoleniowe Poraj - Komorniki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6563511,19.208774;50.65598510839608,19.204801949999997;50.6586263,19.2024439">
+    <text>Centrum Konferencyjno-Szkoleniowe Poraj - Komorniki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6563511" lon="19.208774">
+      <ele>286</ele>
+      <time>2022-01-17T22:09:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6561505" lon="19.208314">
+      <ele>287</ele>
+      <time>2022-01-17T22:09:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6554303" lon="19.2063272">
+      <ele>289</ele>
+      <time>2022-01-17T22:11:51Z</time>
+    </trkpt>
+    <trkpt lat="50.655097" lon="19.2055976">
+      <ele>289</ele>
+      <time>2022-01-17T22:12:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6568732" lon="19.2040063">
+      <ele>288</ele>
+      <time>2022-01-17T22:15:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6586263" lon="19.2024439">
+      <ele>283</ele>
+      <time>2022-01-17T22:19:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

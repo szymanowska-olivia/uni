@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:19:14Z</time>
+    <bounds maxlat="49.5106184" maxlon="18.5427466" minlat="49.509916" minlon="18.5412955"/>
+  </metadata>
+  <wpt lat="49.510618" lon="18.541296">
+    <ele>730</ele>
+    <name>Moravka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7512">
+      <text>Moravka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.509916" lon="18.542747">
+    <ele>730</ele>
+    <name>Moravka, u Surovce</name>
+    <link href="https://mapa-turystyczna.pl/node/7378">
+      <text>Moravka, u Surovce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Moravka, rozc. - Moravka, u Surovce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5106184,18.5412955;49.51019695005469,18.541896350000027;49.509916,18.5427466">
+    <text>Moravka, rozc. - Moravka, u Surovce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5106184" lon="18.5412955">
+      <ele>730</ele>
+      <time>2022-01-17T23:19:14Z</time>
+    </trkpt>
+    <trkpt lat="49.5102701" lon="18.5417569">
+      <ele>725</ele>
+      <time>2022-01-17T23:20:00Z</time>
+    </trkpt>
+    <trkpt lat="49.5101238" lon="18.5420358">
+      <ele>726</ele>
+      <time>2022-01-17T23:20:23Z</time>
+    </trkpt>
+    <trkpt lat="49.509916" lon="18.5427466">
+      <ele>730</ele>
+      <time>2022-01-17T23:21:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

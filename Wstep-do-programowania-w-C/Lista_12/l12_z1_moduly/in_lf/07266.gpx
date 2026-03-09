@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:28Z</time>
+    <bounds maxlat="52.3441491" maxlon="20.4827213" minlat="52.3396132" minlon="20.4778934"/>
+  </metadata>
+  <wpt lat="52.339613" lon="20.477893">
+    <ele>84</ele>
+    <name>Demboskie Gory</name>
+    <link href="https://mapa-turystyczna.pl/node/4931">
+      <text>Demboskie Gory</text>
+    </link>
+  </wpt>
+  <wpt lat="52.344149" lon="20.482721">
+    <ele>83</ele>
+    <name>Posada Cisowe</name>
+    <link href="https://mapa-turystyczna.pl/node/4932">
+      <text>Posada Cisowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Demboskie Gory - Posada Cisowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3396132,20.4778934;52.341989400291666,20.479469149999996;52.3441491,20.4827213">
+    <text>Demboskie Gory - Posada Cisowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3396132" lon="20.4778934">
+      <ele>84</ele>
+      <time>2022-01-17T22:20:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3402294" lon="20.4784459">
+      <ele>85</ele>
+      <time>2022-01-17T22:21:38Z</time>
+    </trkpt>
+    <trkpt lat="52.341501" lon="20.4786551">
+      <ele>86</ele>
+      <time>2022-01-17T22:23:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3418288" lon="20.4789716">
+      <ele>86</ele>
+      <time>2022-01-17T22:24:22Z</time>
+    </trkpt>
+    <trkpt lat="52.34215" lon="20.4799667">
+      <ele>88</ele>
+      <time>2022-01-17T22:25:30Z</time>
+    </trkpt>
+    <trkpt lat="52.342599" lon="20.4819448">
+      <ele>88</ele>
+      <time>2022-01-17T22:27:38Z</time>
+    </trkpt>
+    <trkpt lat="52.342862" lon="20.4823964">
+      <ele>87</ele>
+      <time>2022-01-17T22:28:16Z</time>
+    </trkpt>
+    <trkpt lat="52.3431774" lon="20.4826764">
+      <ele>86</ele>
+      <time>2022-01-17T22:28:52Z</time>
+    </trkpt>
+    <trkpt lat="52.3441491" lon="20.4827213">
+      <ele>83</ele>
+      <time>2022-01-17T22:30:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

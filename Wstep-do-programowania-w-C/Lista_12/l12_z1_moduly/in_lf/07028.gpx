@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:16:34Z</time>
+    <bounds maxlat="50.689321" maxlon="16.515872" minlat="50.6890205" minlon="16.5149401"/>
+  </metadata>
+  <wpt lat="50.689321" lon="16.515872">
+    <ele>592</ele>
+    <name>Stara Jodla, polnoc</name>
+    <link href="https://mapa-turystyczna.pl/node/2044">
+      <text>Stara Jodla, polnoc</text>
+    </link>
+  </wpt>
+  <wpt lat="50.68902" lon="16.51494">
+    <ele>599</ele>
+    <name>Stara Jodla, poludnie</name>
+    <link href="https://mapa-turystyczna.pl/node/4800">
+      <text>Stara Jodla, poludnie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Jodla, polnoc - Stara Jodla, poludnie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.689321,16.515872;50.689166500026104,16.515431999999972;50.6890205,16.5149401">
+    <text>Stara Jodla, polnoc - Stara Jodla, poludnie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.689321" lon="16.515872">
+      <ele>592</ele>
+      <time>2022-01-17T22:16:34Z</time>
+    </trkpt>
+    <trkpt lat="50.689216" lon="16.515594">
+      <ele>594</ele>
+      <time>2022-01-17T22:17:11Z</time>
+    </trkpt>
+    <trkpt lat="50.689117" lon="16.51527">
+      <ele>597</ele>
+      <time>2022-01-17T22:17:52Z</time>
+    </trkpt>
+    <trkpt lat="50.689034" lon="16.514971">
+      <ele>599</ele>
+      <time>2022-01-17T22:18:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6890205" lon="16.5149401">
+      <ele>599</ele>
+      <time>2022-01-17T22:18:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

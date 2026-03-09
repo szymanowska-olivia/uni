@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:56Z</time>
+    <bounds maxlat="54.1024535" maxlon="15.1150266" minlat="54.0989468" minlon="15.0994025"/>
+  </metadata>
+  <wpt lat="54.102454" lon="15.115027">
+    <ele>6</ele>
+    <name>Pogorzelica</name>
+    <link href="https://mapa-turystyczna.pl/node/12641">
+      <text>Pogorzelica</text>
+    </link>
+  </wpt>
+  <wpt lat="54.098947" lon="15.099403">
+    <ele>6</ele>
+    <name>Niechorze, ul. Rzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12642">
+      <text>Niechorze, ul. Rzeczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogorzelica - Niechorze, ul. Rzeczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1024535,15.1150266;54.10150755825646,15.110668999999985;54.0989468,15.0994025">
+    <text>Pogorzelica - Niechorze, ul. Rzeczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1024535" lon="15.1150266">
+      <ele>6</ele>
+      <time>2022-01-18T01:34:56Z</time>
+    </trkpt>
+    <trkpt lat="54.1023351" lon="15.1143965">
+      <ele>9</ele>
+      <time>2022-01-18T01:35:31Z</time>
+    </trkpt>
+    <trkpt lat="54.10068" lon="15.1069415">
+      <ele>7</ele>
+      <time>2022-01-18T01:42:37Z</time>
+    </trkpt>
+    <trkpt lat="54.1005444" lon="15.1062366">
+      <ele>7</ele>
+      <time>2022-01-18T01:43:17Z</time>
+    </trkpt>
+    <trkpt lat="54.100413" lon="15.1055255">
+      <ele>7</ele>
+      <time>2022-01-18T01:43:57Z</time>
+    </trkpt>
+    <trkpt lat="54.1004601" lon="15.1054826">
+      <ele>7</ele>
+      <time>2022-01-18T01:44:02Z</time>
+    </trkpt>
+    <trkpt lat="54.0999436" lon="15.1027927">
+      <ele>9</ele>
+      <time>2022-01-18T01:46:33Z</time>
+    </trkpt>
+    <trkpt lat="54.0996349" lon="15.1014143">
+      <ele>7</ele>
+      <time>2022-01-18T01:47:52Z</time>
+    </trkpt>
+    <trkpt lat="54.0991819" lon="15.1000678">
+      <ele>7</ele>
+      <time>2022-01-18T01:49:14Z</time>
+    </trkpt>
+    <trkpt lat="54.0989468" lon="15.0994025">
+      <ele>6</ele>
+      <time>2022-01-18T01:49:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

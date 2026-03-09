@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:15Z</time>
+    <bounds maxlat="50.0596581" maxlon="16.8432441" minlat="50.0583484" minlon="16.836513"/>
+  </metadata>
+  <wpt lat="50.058379" lon="16.836513">
+    <ele>869</ele>
+    <name>Svata Trojice</name>
+    <link href="https://mapa-turystyczna.pl/node/7766">
+      <text>Svata Trojice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.059658" lon="16.843244">
+    <ele>887</ele>
+    <name>Nad pramenem Rudolf</name>
+    <link href="https://mapa-turystyczna.pl/node/7770">
+      <text>Nad pramenem Rudolf</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svata Trojice - Nad pramenem Rudolf</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0583791,16.836513;50.05879150002657,16.840178900000023;50.0596581,16.8432441">
+    <text>Svata Trojice - Nad pramenem Rudolf</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0583791" lon="16.836513">
+      <ele>869</ele>
+      <time>2022-01-17T23:27:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0583484" lon="16.8372744">
+      <ele>869</ele>
+      <time>2022-01-17T23:28:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0585527" lon="16.8382233">
+      <ele>870</ele>
+      <time>2022-01-17T23:29:40Z</time>
+    </trkpt>
+    <trkpt lat="50.058741" lon="16.8393236">
+      <ele>869</ele>
+      <time>2022-01-17T23:31:14Z</time>
+    </trkpt>
+    <trkpt lat="50.058842" lon="16.8410342">
+      <ele>875</ele>
+      <time>2022-01-17T23:33:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0590579" lon="16.8416789">
+      <ele>880</ele>
+      <time>2022-01-17T23:34:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0594505" lon="16.8420866">
+      <ele>881</ele>
+      <time>2022-01-17T23:35:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0596581" lon="16.8432441">
+      <ele>887</ele>
+      <time>2022-01-17T23:37:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

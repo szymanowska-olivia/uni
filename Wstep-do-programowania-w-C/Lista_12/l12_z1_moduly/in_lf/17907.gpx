@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:55Z</time>
+    <bounds maxlat="52.7661871" maxlon="21.6600045" minlat="52.7640981" minlon="21.6539289"/>
+  </metadata>
+  <wpt lat="52.764098" lon="21.653929">
+    <ele>106</ele>
+    <name>Lipniak-Majorat</name>
+    <link href="https://mapa-turystyczna.pl/node/12183">
+      <text>Lipniak-Majorat</text>
+    </link>
+  </wpt>
+  <wpt lat="52.766187" lon="21.660004">
+    <ele>107</ele>
+    <name>Lipniak-Majorat, poczatek szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12197">
+      <text>Lipniak-Majorat, poczatek szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipniak-Majorat - Lipniak-Majorat, poczatek szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.7640981,21.6539289;52.76459925042132,21.6563789;52.7661871,21.6600045">
+    <text>Lipniak-Majorat - Lipniak-Majorat, poczatek szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.7640981" lon="21.6539289">
+      <ele>106</ele>
+      <time>2022-01-18T01:21:55Z</time>
+    </trkpt>
+    <trkpt lat="52.7644077" lon="21.655365">
+      <ele>107</ele>
+      <time>2022-01-18T01:24:02Z</time>
+    </trkpt>
+    <trkpt lat="52.7647908" lon="21.6573928">
+      <ele>105</ele>
+      <time>2022-01-18T01:26:59Z</time>
+    </trkpt>
+    <trkpt lat="52.764979" lon="21.6582189">
+      <ele>102</ele>
+      <time>2022-01-18T01:28:12Z</time>
+    </trkpt>
+    <trkpt lat="52.7661871" lon="21.6600045">
+      <ele>107</ele>
+      <time>2022-01-18T01:31:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

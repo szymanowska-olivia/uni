@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:21Z</time>
+    <bounds maxlat="52.0642636" maxlon="21.15288" minlat="52.0605622" minlon="21.1413465"/>
+  </metadata>
+  <wpt lat="52.063972" lon="21.15288">
+    <ele>104</ele>
+    <name>Lyczyn</name>
+    <link href="https://mapa-turystyczna.pl/node/11913">
+      <text>Lyczyn</text>
+    </link>
+  </wpt>
+  <wpt lat="52.060562" lon="21.141347">
+    <ele>112</ele>
+    <name>Rezerwat Obory</name>
+    <link href="https://mapa-turystyczna.pl/node/11914">
+      <text>Rezerwat Obory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lyczyn - Rezerwat Obory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0639724,21.15288;52.06248577220735,21.14661804999998;52.0605622,21.1413465">
+    <text>Lyczyn - Rezerwat Obory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0639724" lon="21.15288">
+      <ele>104</ele>
+      <time>2022-01-18T01:15:21Z</time>
+    </trkpt>
+    <trkpt lat="52.0641642" lon="21.1525764">
+      <ele>104</ele>
+      <time>2022-01-18T01:15:50Z</time>
+    </trkpt>
+    <trkpt lat="52.0642372" lon="21.1523371">
+      <ele>105</ele>
+      <time>2022-01-18T01:16:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0642636" lon="21.1520903">
+      <ele>106</ele>
+      <time>2022-01-18T01:16:25Z</time>
+    </trkpt>
+    <trkpt lat="52.0642438" lon="21.1516182">
+      <ele>106</ele>
+      <time>2022-01-18T01:16:57Z</time>
+    </trkpt>
+    <trkpt lat="52.064191" lon="21.151232">
+      <ele>107</ele>
+      <time>2022-01-18T01:17:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0641185" lon="21.1509209">
+      <ele>107</ele>
+      <time>2022-01-18T01:17:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0638942" lon="21.1501377">
+      <ele>106</ele>
+      <time>2022-01-18T01:18:44Z</time>
+    </trkpt>
+    <trkpt lat="52.0610773" lon="21.1430984">
+      <ele>108</ele>
+      <time>2022-01-18T01:28:10Z</time>
+    </trkpt>
+    <trkpt lat="52.0608201" lon="21.142283">
+      <ele>108</ele>
+      <time>2022-01-18T01:29:12Z</time>
+    </trkpt>
+    <trkpt lat="52.0605622" lon="21.1413465">
+      <ele>112</ele>
+      <time>2022-01-18T01:30:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

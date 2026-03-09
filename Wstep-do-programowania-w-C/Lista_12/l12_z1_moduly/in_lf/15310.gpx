@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:01Z</time>
+    <bounds maxlat="51.530859" maxlon="17.2928788" minlat="51.5276853" minlon="17.2923745"/>
+  </metadata>
+  <wpt lat="51.530859" lon="17.292375">
+    <ele>108</ele>
+    <name>Slawoszowice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10447">
+      <text>Slawoszowice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.527685" lon="17.292879">
+    <ele>110</ele>
+    <name>Milicz, zalew rekreacyjny</name>
+    <link href="https://mapa-turystyczna.pl/node/10448">
+      <text>Milicz, zalew rekreacyjny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slawoszowice, rozejscie szlakow - Milicz, zalew rekreacyjny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.530859,17.2923745;51.52928230011382,17.2926389;51.5276853,17.2928788">
+    <text>Slawoszowice, rozejscie szlakow - Milicz, zalew rekreacyjny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.530859" lon="17.2923745">
+      <ele>108</ele>
+      <time>2022-01-18T00:37:01Z</time>
+    </trkpt>
+    <trkpt lat="51.5300015" lon="17.2927891">
+      <ele>108</ele>
+      <time>2022-01-18T00:38:20Z</time>
+    </trkpt>
+    <trkpt lat="51.529908" lon="17.2926228">
+      <ele>107</ele>
+      <time>2022-01-18T00:38:32Z</time>
+    </trkpt>
+    <trkpt lat="51.529868" lon="17.2923868">
+      <ele>107</ele>
+      <time>2022-01-18T00:38:46Z</time>
+    </trkpt>
+    <trkpt lat="51.5295009" lon="17.292596">
+      <ele>107</ele>
+      <time>2022-01-18T00:39:20Z</time>
+    </trkpt>
+    <trkpt lat="51.5293841" lon="17.2926228">
+      <ele>108</ele>
+      <time>2022-01-18T00:39:30Z</time>
+    </trkpt>
+    <trkpt lat="51.5291805" lon="17.292655">
+      <ele>109</ele>
+      <time>2022-01-18T00:39:49Z</time>
+    </trkpt>
+    <trkpt lat="51.5287233" lon="17.2927248">
+      <ele>110</ele>
+      <time>2022-01-18T00:40:29Z</time>
+    </trkpt>
+    <trkpt lat="51.5281159" lon="17.2927945">
+      <ele>111</ele>
+      <time>2022-01-18T00:41:23Z</time>
+    </trkpt>
+    <trkpt lat="51.5276853" lon="17.2928788">
+      <ele>110</ele>
+      <time>2022-01-18T00:42:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

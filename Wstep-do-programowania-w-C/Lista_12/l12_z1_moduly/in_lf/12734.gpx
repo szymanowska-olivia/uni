@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:17Z</time>
+    <bounds maxlat="50.7974638" maxlon="15.0929913" minlat="50.7969315" minlon="15.0928036"/>
+  </metadata>
+  <wpt lat="50.796931" lon="15.092991">
+    <ele>543</ele>
+    <name>U Jezdce</name>
+    <link href="https://mapa-turystyczna.pl/node/8749">
+      <text>U Jezdce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.797464" lon="15.092804">
+    <ele>526</ele>
+    <name>Jezdec</name>
+    <link href="https://mapa-turystyczna.pl/node/8750">
+      <text>Jezdec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Jezdce - Jezdec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7969315,15.0929913;50.7971877000355,15.09295064999999;50.7974638,15.0928036">
+    <text>U Jezdce - Jezdec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7969315" lon="15.0929913">
+      <ele>543</ele>
+      <time>2022-01-17T23:55:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7970443" lon="15.0929535">
+      <ele>541</ele>
+      <time>2022-01-17T23:55:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7971301" lon="15.0929587">
+      <ele>539</ele>
+      <time>2022-01-17T23:55:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7972453" lon="15.0929426">
+      <ele>536</ele>
+      <time>2022-01-17T23:55:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7974638" lon="15.0928036">
+      <ele>526</ele>
+      <time>2022-01-17T23:56:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

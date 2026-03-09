@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:38:00Z</time>
+    <bounds maxlat="50.6724176" maxlon="16.5213843" minlat="50.6721959" minlon="16.5209396"/>
+  </metadata>
+  <wpt lat="50.672417" lon="16.521384">
+    <ele>702</ele>
+    <name>Spiewak</name>
+    <link href="https://mapa-turystyczna.pl/node/6310">
+      <text>Spiewak</text>
+    </link>
+  </wpt>
+  <wpt lat="50.672196" lon="16.52094">
+    <ele>694</ele>
+    <name>Spiewak</name>
+    <link href="https://mapa-turystyczna.pl/node/8149">
+      <text>Spiewak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spiewak - Spiewak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6724169,16.5213843;50.67230710013006,16.5211657;50.6721959,16.5209396">
+    <text>Spiewak - Spiewak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6724169" lon="16.5213843">
+      <ele>702</ele>
+      <time>2022-01-17T23:38:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6724176" lon="16.5213776">
+      <ele>702</ele>
+      <time>2022-01-17T23:38:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6721966" lon="16.5209538">
+      <ele>695</ele>
+      <time>2022-01-17T23:38:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6721959" lon="16.5209396">
+      <ele>694</ele>
+      <time>2022-01-17T23:39:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

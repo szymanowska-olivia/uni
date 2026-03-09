@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:25Z</time>
+    <bounds maxlat="51.7299187" maxlon="15.2802726" minlat="51.7289546" minlon="15.2745207"/>
+  </metadata>
+  <wpt lat="51.729919" lon="15.274521">
+    <ele>87</ele>
+    <name>Gorzupia Dolna</name>
+    <link href="https://mapa-turystyczna.pl/node/12771">
+      <text>Gorzupia Dolna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.729093" lon="15.280273">
+    <ele>98</ele>
+    <name>Gorzupia, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12769">
+      <text>Gorzupia, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorzupia Dolna - Gorzupia, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7299187,15.2745207;51.729532700356025,15.277705049999986;51.7290929,15.2802726">
+    <text>Gorzupia Dolna - Gorzupia, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7299187" lon="15.2745207">
+      <ele>87</ele>
+      <time>2022-01-18T01:38:25Z</time>
+    </trkpt>
+    <trkpt lat="51.7297188" lon="15.2768923">
+      <ele>88</ele>
+      <time>2022-01-18T01:42:14Z</time>
+    </trkpt>
+    <trkpt lat="51.7297121" lon="15.2775039">
+      <ele>88</ele>
+      <time>2022-01-18T01:43:13Z</time>
+    </trkpt>
+    <trkpt lat="51.7293533" lon="15.2779062">
+      <ele>88</ele>
+      <time>2022-01-18T01:44:20Z</time>
+    </trkpt>
+    <trkpt lat="51.7291307" lon="15.2785392">
+      <ele>88</ele>
+      <time>2022-01-18T01:45:30Z</time>
+    </trkpt>
+    <trkpt lat="51.7289645" lon="15.2792902">
+      <ele>89</ele>
+      <time>2022-01-18T01:46:46Z</time>
+    </trkpt>
+    <trkpt lat="51.7289546" lon="15.279655">
+      <ele>91</ele>
+      <time>2022-01-18T01:47:21Z</time>
+    </trkpt>
+    <trkpt lat="51.7290443" lon="15.2800413">
+      <ele>95</ele>
+      <time>2022-01-18T01:48:01Z</time>
+    </trkpt>
+    <trkpt lat="51.7290929" lon="15.2802726">
+      <ele>98</ele>
+      <time>2022-01-18T01:48:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

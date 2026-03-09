@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:12Z</time>
+    <bounds maxlat="50.2824806" maxlon="17.5106943" minlat="50.2813394" minlon="17.5085908"/>
+  </metadata>
+  <wpt lat="50.281853" lon="17.510694">
+    <ele>336</ele>
+    <name>Wieszczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/2627">
+      <text>Wieszczyna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.281339" lon="17.508591">
+    <ele>325</ele>
+    <name>Wieszczyna, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3063">
+      <text>Wieszczyna, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wieszczyna - Wieszczyna, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2818533,17.5106943;50.281910003420116,17.50938770000002;50.2813394,17.5085908">
+    <text>Wieszczyna - Wieszczyna, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2818533" lon="17.5106943">
+      <ele>336</ele>
+      <time>2022-01-17T21:42:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2824549" lon="17.5104287">
+      <ele>335</ele>
+      <time>2022-01-17T21:43:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2824806" lon="17.5101846">
+      <ele>333</ele>
+      <time>2022-01-17T21:43:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2813394" lon="17.5085908">
+      <ele>325</ele>
+      <time>2022-01-17T21:47:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

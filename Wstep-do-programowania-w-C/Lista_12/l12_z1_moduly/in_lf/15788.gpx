@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:30Z</time>
+    <bounds maxlat="54.376152" maxlon="18.5284048" minlat="54.3732741" minlon="18.5226569"/>
+  </metadata>
+  <wpt lat="54.376046" lon="18.522657">
+    <ele>145</ele>
+    <name>Zlota Karczma</name>
+    <link href="https://mapa-turystyczna.pl/node/10783">
+      <text>Zlota Karczma</text>
+    </link>
+  </wpt>
+  <wpt lat="54.373274" lon="18.528405">
+    <ele>165</ele>
+    <name>Pod Gora Matemblewska</name>
+    <link href="https://mapa-turystyczna.pl/node/10785">
+      <text>Pod Gora Matemblewska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlota Karczma - Pod Gora Matemblewska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3760457,18.5226569;54.37527550184283,18.526908150000025;54.3732741,18.5284048">
+    <text>Zlota Karczma - Pod Gora Matemblewska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3760457" lon="18.5226569">
+      <ele>145</ele>
+      <time>2022-01-18T00:45:30Z</time>
+    </trkpt>
+    <trkpt lat="54.3760582" lon="18.5233462">
+      <ele>145</ele>
+      <time>2022-01-18T00:46:17Z</time>
+    </trkpt>
+    <trkpt lat="54.376152" lon="18.5255778">
+      <ele>152</ele>
+      <time>2022-01-18T00:48:51Z</time>
+    </trkpt>
+    <trkpt lat="54.3760739" lon="18.525669">
+      <ele>152</ele>
+      <time>2022-01-18T00:49:02Z</time>
+    </trkpt>
+    <trkpt lat="54.3759239" lon="18.525905">
+      <ele>153</ele>
+      <time>2022-01-18T00:49:26Z</time>
+    </trkpt>
+    <trkpt lat="54.3756645" lon="18.5263556">
+      <ele>155</ele>
+      <time>2022-01-18T00:50:09Z</time>
+    </trkpt>
+    <trkpt lat="54.3748865" lon="18.5274607">
+      <ele>166</ele>
+      <time>2022-01-18T00:52:09Z</time>
+    </trkpt>
+    <trkpt lat="54.3746553" lon="18.527686">
+      <ele>168</ele>
+      <time>2022-01-18T00:52:40Z</time>
+    </trkpt>
+    <trkpt lat="54.3743303" lon="18.5278952">
+      <ele>168</ele>
+      <time>2022-01-18T00:53:21Z</time>
+    </trkpt>
+    <trkpt lat="54.3732741" lon="18.5284048">
+      <ele>165</ele>
+      <time>2022-01-18T00:55:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

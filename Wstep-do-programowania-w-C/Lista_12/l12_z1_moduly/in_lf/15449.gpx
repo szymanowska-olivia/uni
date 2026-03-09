@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:34Z</time>
+    <bounds maxlat="51.4993343" maxlon="17.1699007" minlat="51.4944184" minlon="17.1675201"/>
+  </metadata>
+  <wpt lat="51.499334" lon="17.169633">
+    <ele>103</ele>
+    <name>Sulow</name>
+    <link href="https://mapa-turystyczna.pl/node/10554">
+      <text>Sulow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.494418" lon="17.16752">
+    <ele>100</ele>
+    <name>Sulow, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/10424">
+      <text>Sulow, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulow - Sulow, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4993343,17.1696332;51.49696595030575,17.1698095;51.4944184,17.1675201">
+    <text>Sulow - Sulow, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4993343" lon="17.1696332">
+      <ele>103</ele>
+      <time>2022-01-18T00:39:34Z</time>
+    </trkpt>
+    <trkpt lat="51.4992771" lon="17.1692809">
+      <ele>103</ele>
+      <time>2022-01-18T00:39:57Z</time>
+    </trkpt>
+    <trkpt lat="51.4991634" lon="17.1687849">
+      <ele>103</ele>
+      <time>2022-01-18T00:40:30Z</time>
+    </trkpt>
+    <trkpt lat="51.4988962" lon="17.1687205">
+      <ele>102</ele>
+      <time>2022-01-18T00:40:57Z</time>
+    </trkpt>
+    <trkpt lat="51.4986892" lon="17.168742">
+      <ele>101</ele>
+      <time>2022-01-18T00:41:18Z</time>
+    </trkpt>
+    <trkpt lat="51.498402" lon="17.1688814">
+      <ele>101</ele>
+      <time>2022-01-18T00:41:49Z</time>
+    </trkpt>
+    <trkpt lat="51.4971329" lon="17.1697183">
+      <ele>100</ele>
+      <time>2022-01-18T00:44:07Z</time>
+    </trkpt>
+    <trkpt lat="51.496799" lon="17.1699007">
+      <ele>98</ele>
+      <time>2022-01-18T00:44:43Z</time>
+    </trkpt>
+    <trkpt lat="51.4963047" lon="17.1697826">
+      <ele>98</ele>
+      <time>2022-01-18T00:45:34Z</time>
+    </trkpt>
+    <trkpt lat="51.4959039" lon="17.1695573">
+      <ele>98</ele>
+      <time>2022-01-18T00:46:16Z</time>
+    </trkpt>
+    <trkpt lat="51.495069" lon="17.1685059">
+      <ele>98</ele>
+      <time>2022-01-18T00:48:04Z</time>
+    </trkpt>
+    <trkpt lat="51.4944184" lon="17.1675201">
+      <ele>100</ele>
+      <time>2022-01-18T00:49:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

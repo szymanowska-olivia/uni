@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:17Z</time>
+    <bounds maxlat="50.2441174" maxlon="17.2372162" minlat="50.2439528" minlon="17.2366369"/>
+  </metadata>
+  <wpt lat="50.244117" lon="17.236637">
+    <ele>687</ele>
+    <name>Certovy kameny,  turisticka chata</name>
+    <link href="https://mapa-turystyczna.pl/node/6272">
+      <text>Certovy kameny,  turisticka chata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.243953" lon="17.237216">
+    <ele>689</ele>
+    <name>Certovy kameny, turisticka chata, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6273">
+      <text>Certovy kameny, turisticka chata, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Certovy kameny,  turisticka chata - Certovy kameny, turisticka chata, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2441174,17.2366369;50.24403510007107,17.23692654999997;50.2439528,17.2372162">
+    <text>Certovy kameny,  turisticka chata - Certovy kameny, turisticka chata, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2441174" lon="17.2366369">
+      <ele>687</ele>
+      <time>2022-01-17T22:49:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2439528" lon="17.2372162">
+      <ele>689</ele>
+      <time>2022-01-17T22:50:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

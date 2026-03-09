@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:37Z</time>
+    <bounds maxlat="52.429787" maxlon="20.9755901" minlat="52.4289854" minlon="20.9714349"/>
+  </metadata>
+  <wpt lat="52.429744" lon="20.971435">
+    <ele>77</ele>
+    <name>Michalow-Reginow, ul. Prosta</name>
+    <link href="https://mapa-turystyczna.pl/node/11416">
+      <text>Michalow-Reginow, ul. Prosta</text>
+    </link>
+  </wpt>
+  <wpt lat="52.428985" lon="20.97559">
+    <ele>78</ele>
+    <name>Wieliszew, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11415">
+      <text>Wieliszew, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Michalow-Reginow, ul. Prosta - Wieliszew, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4297443,20.9714349;52.429620200035075,20.973828499999993;52.4289854,20.9755901">
+    <text>Michalow-Reginow, ul. Prosta - Wieliszew, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4297443" lon="20.9714349">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:37Z</time>
+    </trkpt>
+    <trkpt lat="52.429787" lon="20.9726054">
+      <ele>81</ele>
+      <time>2022-01-18T01:02:53Z</time>
+    </trkpt>
+    <trkpt lat="52.4296758" lon="20.9736783">
+      <ele>81</ele>
+      <time>2022-01-18T01:04:03Z</time>
+    </trkpt>
+    <trkpt lat="52.4295646" lon="20.9739787">
+      <ele>81</ele>
+      <time>2022-01-18T01:04:26Z</time>
+    </trkpt>
+    <trkpt lat="52.429087" lon="20.974601">
+      <ele>81</ele>
+      <time>2022-01-18T01:05:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4290085" lon="20.9747619">
+      <ele>80</ele>
+      <time>2022-01-18T01:05:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4289854" lon="20.9755901">
+      <ele>78</ele>
+      <time>2022-01-18T01:06:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

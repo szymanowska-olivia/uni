@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:56Z</time>
+    <bounds maxlat="49.4265922" maxlon="22.591496" minlat="49.4254207" minlon="22.5884321"/>
+  </metadata>
+  <wpt lat="49.425421" lon="22.591496">
+    <ele>527</ele>
+    <name>Ustrzyki Dolne, odejscie na cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11098">
+      <text>Ustrzyki Dolne, odejscie na cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.426592" lon="22.588432">
+    <ele>500</ele>
+    <name>Ustrzyki Dolne, cmentarz zydowski</name>
+    <link href="https://mapa-turystyczna.pl/node/11101">
+      <text>Ustrzyki Dolne, cmentarz zydowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustrzyki Dolne, odejscie na cmentarz - Ustrzyki Dolne, cmentarz zydowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4254207,22.591496;49.42572130001005,22.589433299999982;49.4265922,22.5884321">
+    <text>Ustrzyki Dolne, odejscie na cmentarz - Ustrzyki Dolne, cmentarz zydowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4254207" lon="22.591496">
+      <ele>527</ele>
+      <time>2022-01-18T00:53:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4255852" lon="22.5906188">
+      <ele>529</ele>
+      <time>2022-01-18T00:55:00Z</time>
+    </trkpt>
+    <trkpt lat="49.4256899" lon="22.5897605">
+      <ele>532</ele>
+      <time>2022-01-18T00:56:00Z</time>
+    </trkpt>
+    <trkpt lat="49.4257527" lon="22.5891061">
+      <ele>530</ele>
+      <time>2022-01-18T00:56:47Z</time>
+    </trkpt>
+    <trkpt lat="49.4257666" lon="22.5886662">
+      <ele>529</ele>
+      <time>2022-01-18T00:57:17Z</time>
+    </trkpt>
+    <trkpt lat="49.4258364" lon="22.588516">
+      <ele>526</ele>
+      <time>2022-01-18T00:57:31Z</time>
+    </trkpt>
+    <trkpt lat="49.4261504" lon="22.5885053">
+      <ele>510</ele>
+      <time>2022-01-18T00:58:07Z</time>
+    </trkpt>
+    <trkpt lat="49.4265922" lon="22.5884321">
+      <ele>500</ele>
+      <time>2022-01-18T00:58:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:08Z</time>
+    <bounds maxlat="51.5216321" maxlon="23.0892202" minlat="51.5213917" minlon="23.0890937"/>
+  </metadata>
+  <wpt lat="51.521632" lon="23.08922">
+    <ele>162</ele>
+    <name>Sosnowica, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/13263">
+      <text>Sosnowica, przystanek autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.521392" lon="23.089094">
+    <ele>163</ele>
+    <name>Sosnowica</name>
+    <link href="https://mapa-turystyczna.pl/node/13298">
+      <text>Sosnowica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowica, przystanek autobusowy - Sosnowica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5216321,23.0892202;51.521512350157444,23.089157250000003;51.5213917,23.0890937">
+    <text>Sosnowica, przystanek autobusowy - Sosnowica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5216321" lon="23.0892202">
+      <ele>162</ele>
+      <time>2022-01-18T01:53:08Z</time>
+    </trkpt>
+    <trkpt lat="51.5213926" lon="23.0890943">
+      <ele>163</ele>
+      <time>2022-01-18T01:54:08Z</time>
+    </trkpt>
+    <trkpt lat="51.5213917" lon="23.0890937">
+      <ele>163</ele>
+      <time>2022-01-18T01:54:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

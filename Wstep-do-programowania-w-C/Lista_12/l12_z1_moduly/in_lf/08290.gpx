@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:10Z</time>
+    <bounds maxlat="50.4121446" maxlon="16.245011" minlat="50.4082094" minlon="16.2411673"/>
+  </metadata>
+  <wpt lat="50.412145" lon="16.241263">
+    <ele>456</ele>
+    <name>Nad potokiem Sejrava</name>
+    <link href="https://mapa-turystyczna.pl/node/5760">
+      <text>Nad potokiem Sejrava</text>
+    </link>
+  </wpt>
+  <wpt lat="50.408209" lon="16.245011">
+    <ele>511</ele>
+    <name>Rozdroze nad Jarkowem</name>
+    <link href="https://mapa-turystyczna.pl/node/5761">
+      <text>Rozdroze nad Jarkowem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad potokiem Sejrava - Rozdroze nad Jarkowem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4121446,16.2412626;50.409787600062394,16.241659350000003;50.4082094,16.245011">
+    <text>Nad potokiem Sejrava - Rozdroze nad Jarkowem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4121446" lon="16.2412626">
+      <ele>456</ele>
+      <time>2022-01-17T22:36:10Z</time>
+    </trkpt>
+    <trkpt lat="50.4120337" lon="16.2412959">
+      <ele>458</ele>
+      <time>2022-01-17T22:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4116519" lon="16.2411673">
+      <ele>462</ele>
+      <time>2022-01-17T22:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4114533" lon="16.2416191">
+      <ele>468</ele>
+      <time>2022-01-17T22:38:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4113704" lon="16.2417385">
+      <ele>470</ele>
+      <time>2022-01-17T22:38:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4102961" lon="16.2415306">
+      <ele>473</ele>
+      <time>2022-01-17T22:42:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4098645" lon="16.2416178">
+      <ele>477</ele>
+      <time>2022-01-17T22:43:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4097107" lon="16.2417009">
+      <ele>478</ele>
+      <time>2022-01-17T22:43:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4095722" lon="16.2419893">
+      <ele>481</ele>
+      <time>2022-01-17T22:44:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4091167" lon="16.2430722">
+      <ele>488</ele>
+      <time>2022-01-17T22:46:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4086974" lon="16.2440107">
+      <ele>496</ele>
+      <time>2022-01-17T22:48:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4082094" lon="16.245011">
+      <ele>511</ele>
+      <time>2022-01-17T22:51:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

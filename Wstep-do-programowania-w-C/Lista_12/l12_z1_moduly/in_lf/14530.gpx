@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:56Z</time>
+    <bounds maxlat="50.3345107" maxlon="18.7223222" minlat="50.3288097" minlon="18.7162108"/>
+  </metadata>
+  <wpt lat="50.32881" lon="18.716211">
+    <ele>232</ele>
+    <name>Gliwice, ul. Warminska</name>
+    <link href="https://mapa-turystyczna.pl/node/9580">
+      <text>Gliwice, ul. Warminska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.334511" lon="18.722322">
+    <ele>235</ele>
+    <name>Szalsza</name>
+    <link href="https://mapa-turystyczna.pl/node/9901">
+      <text>Szalsza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gliwice, ul. Warminska - Szalsza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3288097,18.7162108;50.33321131776863,18.720280399999996;50.3345107,18.7223222">
+    <text>Gliwice, ul. Warminska - Szalsza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3288097" lon="18.7162108">
+      <ele>232</ele>
+      <time>2022-01-18T00:23:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3296865" lon="18.7164674">
+      <ele>232</ele>
+      <time>2022-01-18T00:25:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3308029" lon="18.7164782">
+      <ele>228</ele>
+      <time>2022-01-18T00:28:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3308988" lon="18.7165211">
+      <ele>228</ele>
+      <time>2022-01-18T00:28:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3310563" lon="18.716682">
+      <ele>228</ele>
+      <time>2022-01-18T00:28:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3319119" lon="18.7182386">
+      <ele>231</ele>
+      <time>2022-01-18T00:31:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3345107" lon="18.7223222">
+      <ele>235</ele>
+      <time>2022-01-18T00:38:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

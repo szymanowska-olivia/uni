@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:05Z</time>
+    <bounds maxlat="52.3505604" maxlon="20.3089872" minlat="52.3496084" minlon="20.3050053"/>
+  </metadata>
+  <wpt lat="52.349608" lon="20.305005">
+    <ele>76</ele>
+    <name>Wilcze Tulowskie, kolej waskotorowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12428">
+      <text>Wilcze Tulowskie, kolej waskotorowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.35056" lon="20.308987">
+    <ele>81</ele>
+    <name>Rozejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12429">
+      <text>Rozejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wilcze Tulowskie, kolej waskotorowa - Rozejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3496084,20.3050053;52.34991060103301,20.306464349999985;52.3505604,20.3089872">
+    <text>Wilcze Tulowskie, kolej waskotorowa - Rozejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3496084" lon="20.3050053">
+      <ele>76</ele>
+      <time>2022-01-18T01:29:05Z</time>
+    </trkpt>
+    <trkpt lat="52.3502128" lon="20.3079234">
+      <ele>81</ele>
+      <time>2022-01-18T01:32:40Z</time>
+    </trkpt>
+    <trkpt lat="52.3503821" lon="20.308564">
+      <ele>80</ele>
+      <time>2022-01-18T01:33:29Z</time>
+    </trkpt>
+    <trkpt lat="52.3505604" lon="20.3089872">
+      <ele>81</ele>
+      <time>2022-01-18T01:34:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

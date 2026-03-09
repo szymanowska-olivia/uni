@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:10Z</time>
+    <bounds maxlat="50.3866801" maxlon="16.362067" minlat="50.3813643" minlon="16.3605738"/>
+  </metadata>
+  <wpt lat="50.38668" lon="16.360574">
+    <ele>743</ele>
+    <name>Kozia Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/1879">
+      <text>Kozia Hala</text>
+    </link>
+  </wpt>
+  <wpt lat="50.381364" lon="16.361823">
+    <ele>791</ele>
+    <name>Rozdroze nad Kozia Hala</name>
+    <link href="https://mapa-turystyczna.pl/node/4885">
+      <text>Rozdroze nad Kozia Hala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kozia Hala - Rozdroze nad Kozia Hala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3866801,16.3605738;50.38409160015768,16.362058649999973;50.3813643,16.3618235">
+    <text>Kozia Hala - Rozdroze nad Kozia Hala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3866801" lon="16.3605738">
+      <ele>743</ele>
+      <time>2022-01-17T22:19:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3857643" lon="16.3610717">
+      <ele>753</ele>
+      <time>2022-01-17T22:21:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3851289" lon="16.3615052">
+      <ele>765</ele>
+      <time>2022-01-17T22:23:43Z</time>
+    </trkpt>
+    <trkpt lat="50.3844901" lon="16.3619118">
+      <ele>768</ele>
+      <time>2022-01-17T22:25:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3842139" lon="16.3620503">
+      <ele>767</ele>
+      <time>2022-01-17T22:26:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3839693" lon="16.362067">
+      <ele>771</ele>
+      <time>2022-01-17T22:27:03Z</time>
+    </trkpt>
+    <trkpt lat="50.383245" lon="16.3618984">
+      <ele>781</ele>
+      <time>2022-01-17T22:29:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3828285" lon="16.361837">
+      <ele>782</ele>
+      <time>2022-01-17T22:30:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3820793" lon="16.3618517">
+      <ele>786</ele>
+      <time>2022-01-17T22:32:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3813643" lon="16.3618235">
+      <ele>791</ele>
+      <time>2022-01-17T22:34:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

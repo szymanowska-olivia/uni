@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:25Z</time>
+    <bounds maxlat="50.4149958" maxlon="16.1723524" minlat="50.4137926" minlon="16.1705124"/>
+  </metadata>
+  <wpt lat="50.414736" lon="16.170512">
+    <ele>352</ele>
+    <name>Nachod, Dobrosovska</name>
+    <link href="https://mapa-turystyczna.pl/node/5770">
+      <text>Nachod, Dobrosovska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.414996" lon="16.172352">
+    <ele>362</ele>
+    <name>Nachod, nad pivovarem</name>
+    <link href="https://mapa-turystyczna.pl/node/5769">
+      <text>Nachod, nad pivovarem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nachod, Dobrosovska - Nachod, nad pivovarem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.414736,16.1705124;50.41402330056172,16.171808650000024;50.4149958,16.1723524">
+    <text>Nachod, Dobrosovska - Nachod, nad pivovarem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.414736" lon="16.1705124">
+      <ele>352</ele>
+      <time>2022-01-17T22:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4141634" lon="16.1708048">
+      <ele>357</ele>
+      <time>2022-01-17T22:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4139942" lon="16.171065">
+      <ele>356</ele>
+      <time>2022-01-17T22:38:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4137926" lon="16.1716524">
+      <ele>359</ele>
+      <time>2022-01-17T22:38:54Z</time>
+    </trkpt>
+    <trkpt lat="50.414254" lon="16.1719649">
+      <ele>358</ele>
+      <time>2022-01-17T22:39:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4145019" lon="16.1720514">
+      <ele>359</ele>
+      <time>2022-01-17T22:40:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4147864" lon="16.1722394">
+      <ele>360</ele>
+      <time>2022-01-17T22:40:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4149958" lon="16.1723524">
+      <ele>362</ele>
+      <time>2022-01-17T22:41:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

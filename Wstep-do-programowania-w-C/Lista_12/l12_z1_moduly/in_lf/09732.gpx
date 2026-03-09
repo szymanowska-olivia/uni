@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:06Z</time>
+    <bounds maxlat="50.1245299" maxlon="17.1545344" minlat="50.1237011" minlon="17.1539336"/>
+  </metadata>
+  <wpt lat="50.123701" lon="17.153934">
+    <ele>1015</ele>
+    <name>Cervenohorske sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6834">
+      <text>Cervenohorske sedlo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.12453" lon="17.154534">
+    <ele>1008</ele>
+    <name>Cervenohorske sedlo, lavka, bus Jesenik</name>
+    <link href="https://mapa-turystyczna.pl/node/6833">
+      <text>Cervenohorske sedlo, lavka, bus Jesenik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cervenohorske sedlo, rozc. - Cervenohorske sedlo, lavka, bus Jesenik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1237011,17.1539336;50.12416710016452,17.154287700000012;50.1245299,17.1545344">
+    <text>Cervenohorske sedlo, rozc. - Cervenohorske sedlo, lavka, bus Jesenik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1237011" lon="17.1539336">
+      <ele>1015</ele>
+      <time>2022-01-17T23:03:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1240416" lon="17.1541858">
+      <ele>1012</ele>
+      <time>2022-01-17T23:03:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1242926" lon="17.1543896">
+      <ele>1010</ele>
+      <time>2022-01-17T23:04:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1245299" lon="17.1545344">
+      <ele>1008</ele>
+      <time>2022-01-17T23:05:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

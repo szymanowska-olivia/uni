@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:06Z</time>
+    <bounds maxlat="50.2288829" maxlon="17.2919387" minlat="50.2283991" minlon="17.2895354"/>
+  </metadata>
+  <wpt lat="50.228399" lon="17.289535">
+    <ele>810</ele>
+    <name>Rejviz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6267">
+      <text>Rejviz, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.228883" lon="17.291939">
+    <ele>808</ele>
+    <name>Rejviz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6266">
+      <text>Rejviz, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rejviz, rozc. - Rejviz, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2283991,17.2895354;50.22861870016912,17.29072095000002;50.2288829,17.2919387">
+    <text>Rejviz, rozc. - Rejviz, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2283991" lon="17.2895354">
+      <ele>810</ele>
+      <time>2022-01-17T22:49:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2284917" lon="17.2902703">
+      <ele>811</ele>
+      <time>2022-01-17T22:49:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2287457" lon="17.2911716">
+      <ele>811</ele>
+      <time>2022-01-17T22:51:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2288829" lon="17.2919387">
+      <ele>808</ele>
+      <time>2022-01-17T22:52:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

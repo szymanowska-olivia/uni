@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:02:02Z</time>
+    <bounds maxlat="50.0989111" maxlon="16.5661597" minlat="50.0946405" minlon="16.5624315"/>
+  </metadata>
+  <wpt lat="50.098911" lon="16.564497">
+    <ele>483</ele>
+    <name>Kravi skok</name>
+    <link href="https://mapa-turystyczna.pl/node/6791">
+      <text>Kravi skok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.09464" lon="16.56616">
+    <ele>492</ele>
+    <name>Pastviny</name>
+    <link href="https://mapa-turystyczna.pl/node/6789">
+      <text>Pastviny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kravi skok - Pastviny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0989111,16.5644968;50.09708380093548,16.563209300000004;50.0946405,16.5661597">
+    <text>Kravi skok - Pastviny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0989111" lon="16.5644968">
+      <ele>483</ele>
+      <time>2022-01-17T23:02:02Z</time>
+    </trkpt>
+    <trkpt lat="50.0986977" lon="16.5643197">
+      <ele>488</ele>
+      <time>2022-01-17T23:02:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0984568" lon="16.5639442">
+      <ele>490</ele>
+      <time>2022-01-17T23:03:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0981127" lon="16.5632468">
+      <ele>491</ele>
+      <time>2022-01-17T23:04:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0979407" lon="16.5626514">
+      <ele>492</ele>
+      <time>2022-01-17T23:04:45Z</time>
+    </trkpt>
+    <trkpt lat="50.0978133" lon="16.5624315">
+      <ele>492</ele>
+      <time>2022-01-17T23:05:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0977067" lon="16.5624529">
+      <ele>492</ele>
+      <time>2022-01-17T23:05:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0975518" lon="16.5625334">
+      <ele>493</ele>
+      <time>2022-01-17T23:05:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0973832" lon="16.562705">
+      <ele>494</ele>
+      <time>2022-01-17T23:05:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0967844" lon="16.5637136">
+      <ele>496</ele>
+      <time>2022-01-17T23:07:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0962854" lon="16.5645772">
+      <ele>498</ele>
+      <time>2022-01-17T23:08:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0957452" lon="16.5650976">
+      <ele>496</ele>
+      <time>2022-01-17T23:09:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0946405" lon="16.5661597">
+      <ele>492</ele>
+      <time>2022-01-17T23:12:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

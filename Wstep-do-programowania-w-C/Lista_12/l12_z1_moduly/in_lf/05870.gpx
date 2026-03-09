@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:08Z</time>
+    <bounds maxlat="49.692905" maxlon="18.773878" minlat="49.692717" minlon="18.771417"/>
+  </metadata>
+  <wpt lat="49.692905" lon="18.771417">
+    <ele>840</ele>
+    <name>Rozdroze pod Mala Czantoria</name>
+    <link href="https://mapa-turystyczna.pl/node/736">
+      <text>Rozdroze pod Mala Czantoria</text>
+    </link>
+  </wpt>
+  <wpt lat="49.692717" lon="18.773878">
+    <ele>858</ele>
+    <name>Czantoria Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/4051">
+      <text>Czantoria Mala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Mala Czantoria - Czantoria Mala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.692905,18.771417;49.692824000000265,18.772731000000007;49.692717,18.773878">
+    <text>Rozdroze pod Mala Czantoria - Czantoria Mala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.692905" lon="18.771417">
+      <ele>840</ele>
+      <time>2022-01-17T22:02:08Z</time>
+    </trkpt>
+    <trkpt lat="49.692865" lon="18.771613">
+      <ele>845</ele>
+      <time>2022-01-17T22:02:33Z</time>
+    </trkpt>
+    <trkpt lat="49.692842" lon="18.771834">
+      <ele>848</ele>
+      <time>2022-01-17T22:03:00Z</time>
+    </trkpt>
+    <trkpt lat="49.692825" lon="18.772071">
+      <ele>851</ele>
+      <time>2022-01-17T22:03:29Z</time>
+    </trkpt>
+    <trkpt lat="49.692812" lon="18.772379">
+      <ele>854</ele>
+      <time>2022-01-17T22:04:05Z</time>
+    </trkpt>
+    <trkpt lat="49.692829" lon="18.772644">
+      <ele>856</ele>
+      <time>2022-01-17T22:04:37Z</time>
+    </trkpt>
+    <trkpt lat="49.692819" lon="18.772818">
+      <ele>857</ele>
+      <time>2022-01-17T22:04:57Z</time>
+    </trkpt>
+    <trkpt lat="49.692795" lon="18.773116">
+      <ele>858</ele>
+      <time>2022-01-17T22:05:32Z</time>
+    </trkpt>
+    <trkpt lat="49.692832" lon="18.773334">
+      <ele>859</ele>
+      <time>2022-01-17T22:05:59Z</time>
+    </trkpt>
+    <trkpt lat="49.692836" lon="18.773492">
+      <ele>858</ele>
+      <time>2022-01-17T22:06:17Z</time>
+    </trkpt>
+    <trkpt lat="49.692798" lon="18.773676">
+      <ele>858</ele>
+      <time>2022-01-17T22:06:40Z</time>
+    </trkpt>
+    <trkpt lat="49.692717" lon="18.773878">
+      <ele>858</ele>
+      <time>2022-01-17T22:07:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

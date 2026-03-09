@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:43Z</time>
+    <bounds maxlat="50.1274637" maxlon="16.6139175" minlat="50.1263992" minlon="16.6042798"/>
+  </metadata>
+  <wpt lat="50.126399" lon="16.60428">
+    <ele>657</ele>
+    <name>Ceske Petrovice, u krizku</name>
+    <link href="https://mapa-turystyczna.pl/node/13514">
+      <text>Ceske Petrovice, u krizku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.127464" lon="16.613917">
+    <ele>662</ele>
+    <name>Czerwony Strumien</name>
+    <link href="https://mapa-turystyczna.pl/node/13515">
+      <text>Czerwony Strumien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ceske Petrovice, u krizku - Czerwony Strumien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1263992,16.6042798;50.12724135000607,16.607948900000018;50.1274637,16.6139175">
+    <text>Ceske Petrovice, u krizku - Czerwony Strumien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1263992" lon="16.6042798">
+      <ele>657</ele>
+      <time>2022-01-18T01:59:43Z</time>
+    </trkpt>
+    <trkpt lat="50.127011" lon="16.6048965">
+      <ele>657</ele>
+      <time>2022-01-18T02:00:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1272242" lon="16.6054652">
+      <ele>659</ele>
+      <time>2022-01-18T02:01:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1272586" lon="16.6058085">
+      <ele>660</ele>
+      <time>2022-01-18T02:01:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1272104" lon="16.6063664">
+      <ele>661</ele>
+      <time>2022-01-18T02:02:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1272173" lon="16.6069994">
+      <ele>663</ele>
+      <time>2022-01-18T02:02:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1272654" lon="16.6088984">
+      <ele>666</ele>
+      <time>2022-01-18T02:04:48Z</time>
+    </trkpt>
+    <trkpt lat="50.1273893" lon="16.6100786">
+      <ele>662</ele>
+      <time>2022-01-18T02:05:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1273824" lon="16.6132007">
+      <ele>659</ele>
+      <time>2022-01-18T02:09:00Z</time>
+    </trkpt>
+    <trkpt lat="50.1273955" lon="16.6136127">
+      <ele>661</ele>
+      <time>2022-01-18T02:09:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1274637" lon="16.6139175">
+      <ele>662</ele>
+      <time>2022-01-18T02:09:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

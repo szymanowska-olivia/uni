@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:12:38Z</time>
+    <bounds maxlat="50.2347667" maxlon="18.9354933" minlat="50.2341015" minlon="18.9350793"/>
+  </metadata>
+  <wpt lat="50.234102" lon="18.935479">
+    <ele>263</ele>
+    <name>Czarny Staw, rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9469">
+      <text>Czarny Staw, rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.234767" lon="18.935079">
+    <ele>258</ele>
+    <name>Czarny Staw, rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9468">
+      <text>Czarny Staw, rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarny Staw, rozejscie szlakow zolty / czarny - Czarny Staw, rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2341015,18.9354794;50.234387750284654,18.935455750000006;50.2347667,18.9350793">
+    <text>Czarny Staw, rozejscie szlakow zolty / czarny - Czarny Staw, rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2341015" lon="18.9354794">
+      <ele>263</ele>
+      <time>2022-01-18T00:12:38Z</time>
+    </trkpt>
+    <trkpt lat="50.234223" lon="18.9354933">
+      <ele>263</ele>
+      <time>2022-01-18T00:12:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2345525" lon="18.9354182">
+      <ele>260</ele>
+      <time>2022-01-18T00:13:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2347667" lon="18.9350793">
+      <ele>258</ele>
+      <time>2022-01-18T00:13:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

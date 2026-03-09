@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:43Z</time>
+    <bounds maxlat="49.4382596" maxlon="22.0202961" minlat="49.4363453" minlon="22.0173854"/>
+  </metadata>
+  <wpt lat="49.43826" lon="22.020296">
+    <ele>690</ele>
+    <name>Pod Tokarnia</name>
+    <link href="https://mapa-turystyczna.pl/node/502">
+      <text>Pod Tokarnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.436345" lon="22.017385">
+    <ele>722</ele>
+    <name>Przelecz pod Tokarnia</name>
+    <link href="https://mapa-turystyczna.pl/node/4869">
+      <text>Przelecz pod Tokarnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Tokarnia - Przelecz pod Tokarnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4382596,22.0202961;49.436785950050606,22.019661999999983;49.4363453,22.0173854">
+    <text>Pod Tokarnia - Przelecz pod Tokarnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4382596" lon="22.0202961">
+      <ele>690</ele>
+      <time>2022-01-17T22:18:43Z</time>
+    </trkpt>
+    <trkpt lat="49.4376727" lon="22.019815">
+      <ele>695</ele>
+      <time>2022-01-17T22:20:47Z</time>
+    </trkpt>
+    <trkpt lat="49.4374634" lon="22.0197452">
+      <ele>698</ele>
+      <time>2022-01-17T22:21:27Z</time>
+    </trkpt>
+    <trkpt lat="49.4370936" lon="22.0196969">
+      <ele>705</ele>
+      <time>2022-01-17T22:22:37Z</time>
+    </trkpt>
+    <trkpt lat="49.4368564" lon="22.0196755">
+      <ele>709</ele>
+      <time>2022-01-17T22:23:21Z</time>
+    </trkpt>
+    <trkpt lat="49.4367155" lon="22.0196485">
+      <ele>711</ele>
+      <time>2022-01-17T22:23:48Z</time>
+    </trkpt>
+    <trkpt lat="49.4365773" lon="22.0195467">
+      <ele>712</ele>
+      <time>2022-01-17T22:24:16Z</time>
+    </trkpt>
+    <trkpt lat="49.4365076" lon="22.0193643">
+      <ele>713</ele>
+      <time>2022-01-17T22:24:42Z</time>
+    </trkpt>
+    <trkpt lat="49.4364764" lon="22.0187527">
+      <ele>717</ele>
+      <time>2022-01-17T22:25:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4363453" lon="22.0173854">
+      <ele>722</ele>
+      <time>2022-01-17T22:28:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

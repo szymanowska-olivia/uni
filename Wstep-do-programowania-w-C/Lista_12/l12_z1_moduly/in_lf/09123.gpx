@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:25Z</time>
+    <bounds maxlat="50.2194207" maxlon="17.3875272" minlat="50.2142409" minlon="17.3835039"/>
+  </metadata>
+  <wpt lat="50.219421" lon="17.383504">
+    <ele>975</ele>
+    <name>Pricny vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/6349">
+      <text>Pricny vrch</text>
+    </link>
+  </wpt>
+  <wpt lat="50.214241" lon="17.387527">
+    <ele>910</ele>
+    <name>Hornicke skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/6350">
+      <text>Hornicke skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pricny vrch - Hornicke skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2194207,17.3835039;50.21697675065791,17.385376100000006;50.2142409,17.3875272">
+    <text>Pricny vrch - Hornicke skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2194207" lon="17.3835039">
+      <ele>975</ele>
+      <time>2022-01-17T22:51:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2191976" lon="17.3839545">
+      <ele>976</ele>
+      <time>2022-01-17T22:52:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2190706" lon="17.3839277">
+      <ele>976</ele>
+      <time>2022-01-17T22:52:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2188681" lon="17.3841047">
+      <ele>977</ele>
+      <time>2022-01-17T22:52:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2185695" lon="17.3839545">
+      <ele>978</ele>
+      <time>2022-01-17T22:53:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2172273" lon="17.3851562">
+      <ele>959</ele>
+      <time>2022-01-17T22:55:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2167262" lon="17.385596">
+      <ele>951</ele>
+      <time>2022-01-17T22:56:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2160534" lon="17.3858911">
+      <ele>938</ele>
+      <time>2022-01-17T22:57:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2152261" lon="17.3863524">
+      <ele>925</ele>
+      <time>2022-01-17T22:59:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2142409" lon="17.3875272">
+      <ele>910</ele>
+      <time>2022-01-17T23:01:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

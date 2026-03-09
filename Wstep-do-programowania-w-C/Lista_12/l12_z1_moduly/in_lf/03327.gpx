@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:15Z</time>
+    <bounds maxlat="50.6702859" maxlon="16.1394095" minlat="50.6702043" minlon="16.1365342"/>
+  </metadata>
+  <wpt lat="50.670204" lon="16.139409">
+    <ele>563</ele>
+    <name>Rajska Dolina</name>
+    <link href="https://mapa-turystyczna.pl/node/2375">
+      <text>Rajska Dolina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670231" lon="16.136534">
+    <ele>558</ele>
+    <name>Laczna</name>
+    <link href="https://mapa-turystyczna.pl/node/2376">
+      <text>Laczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rajska Dolina - Laczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6702043,16.1394095;50.67024510001774,16.13863705;50.6702315,16.1365342">
+    <text>Rajska Dolina - Laczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6702043" lon="16.1394095">
+      <ele>563</ele>
+      <time>2022-01-17T21:28:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6702859" lon="16.1378646">
+      <ele>562</ele>
+      <time>2022-01-17T21:29:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6702315" lon="16.1365342">
+      <ele>558</ele>
+      <time>2022-01-17T21:31:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

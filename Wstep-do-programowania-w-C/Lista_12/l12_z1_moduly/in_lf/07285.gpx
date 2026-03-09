@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:43Z</time>
+    <bounds maxlat="52.3823777" maxlon="20.557673" minlat="52.3816376" minlon="20.5538535"/>
+  </metadata>
+  <wpt lat="52.38224" lon="20.553853">
+    <ele>80</ele>
+    <name>Leoncin, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4957">
+      <text>Leoncin, las</text>
+    </link>
+  </wpt>
+  <wpt lat="52.381638" lon="20.557673">
+    <ele>82</ele>
+    <name>Leoncinska Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/4958">
+      <text>Leoncinska Droga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Leoncin, las - Leoncinska Droga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3822401,20.5538535;52.38201525074478,20.556403099999994;52.3816376,20.557673">
+    <text>Leoncin, las - Leoncinska Droga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3822401" lon="20.5538535">
+      <ele>80</ele>
+      <time>2022-01-17T22:20:43Z</time>
+    </trkpt>
+    <trkpt lat="52.3822532" lon="20.553875">
+      <ele>80</ele>
+      <time>2022-01-17T22:20:45Z</time>
+    </trkpt>
+    <trkpt lat="52.3822732" lon="20.5547653">
+      <ele>82</ele>
+      <time>2022-01-17T22:21:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3823777" lon="20.5554307">
+      <ele>85</ele>
+      <time>2022-01-17T22:22:38Z</time>
+    </trkpt>
+    <trkpt lat="52.3822717" lon="20.5558681">
+      <ele>85</ele>
+      <time>2022-01-17T22:23:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3817588" lon="20.5569381">
+      <ele>82</ele>
+      <time>2022-01-17T22:24:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3816376" lon="20.557673">
+      <ele>82</ele>
+      <time>2022-01-17T22:25:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

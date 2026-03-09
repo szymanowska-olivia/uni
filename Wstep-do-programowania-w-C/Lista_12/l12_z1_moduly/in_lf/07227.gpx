@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:44Z</time>
+    <bounds maxlat="50.5048295" maxlon="16.4576697" minlat="50.4934256" minlon="16.4543626"/>
+  </metadata>
+  <wpt lat="50.493426" lon="16.45767">
+    <ele>359</ele>
+    <name>Wambierzyce, ul. Lukowa</name>
+    <link href="https://mapa-turystyczna.pl/node/1804">
+      <text>Wambierzyce, ul. Lukowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.504829" lon="16.455245">
+    <ele>347</ele>
+    <name>Ratno Dolne</name>
+    <link href="https://mapa-turystyczna.pl/node/4903">
+      <text>Ratno Dolne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wambierzyce, ul. Lukowa - Ratno Dolne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4934256,16.4576697;50.497775773834704,16.454786349999996;50.5048295,16.455245">
+    <text>Wambierzyce, ul. Lukowa - Ratno Dolne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4934256" lon="16.4576697">
+      <ele>359</ele>
+      <time>2022-01-17T22:19:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4937251" lon="16.4575383">
+      <ele>359</ele>
+      <time>2022-01-17T22:20:15Z</time>
+    </trkpt>
+    <trkpt lat="50.4944345" lon="16.4568611">
+      <ele>358</ele>
+      <time>2022-01-17T22:21:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4949937" lon="16.4562267">
+      <ele>358</ele>
+      <time>2022-01-17T22:22:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4957095" lon="16.4555374">
+      <ele>361</ele>
+      <time>2022-01-17T22:24:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4962752" lon="16.4548266">
+      <ele>358</ele>
+      <time>2022-01-17T22:25:23Z</time>
+    </trkpt>
+    <trkpt lat="50.4992763" lon="16.4547461">
+      <ele>362</ele>
+      <time>2022-01-17T22:30:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5008792" lon="16.4543626">
+      <ele>352</ele>
+      <time>2022-01-17T22:33:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5019877" lon="16.4544712">
+      <ele>351</ele>
+      <time>2022-01-17T22:34:56Z</time>
+    </trkpt>
+    <trkpt lat="50.5038522" lon="16.4549225">
+      <ele>350</ele>
+      <time>2022-01-17T22:38:04Z</time>
+    </trkpt>
+    <trkpt lat="50.5048295" lon="16.455245">
+      <ele>347</ele>
+      <time>2022-01-17T22:39:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

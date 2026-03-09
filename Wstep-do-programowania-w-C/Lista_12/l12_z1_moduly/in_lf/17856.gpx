@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:20:56Z</time>
+    <bounds maxlat="52.597933" maxlon="21.6659655" minlat="52.5976181" minlon="21.6648223"/>
+  </metadata>
+  <wpt lat="52.597933" lon="21.665965">
+    <ele>98</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12148">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.597618" lon="21.664822">
+    <ele>99</ele>
+    <name>Wywloka</name>
+    <link href="https://mapa-turystyczna.pl/node/12147">
+      <text>Wywloka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Wywloka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.597933,21.6659655;52.59777555028295,21.665393900000023;52.5976181,21.6648223">
+    <text>Rozejscie szlakow czerwony / niebieski - Wywloka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.597933" lon="21.6659655">
+      <ele>98</ele>
+      <time>2022-01-18T01:20:56Z</time>
+    </trkpt>
+    <trkpt lat="52.5976181" lon="21.6648223">
+      <ele>99</ele>
+      <time>2022-01-18T01:21:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

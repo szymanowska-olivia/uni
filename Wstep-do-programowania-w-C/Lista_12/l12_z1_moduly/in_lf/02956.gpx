@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:57Z</time>
+    <bounds maxlat="50.3700132" maxlon="16.9920195" minlat="50.3694323" minlon="16.988951"/>
+  </metadata>
+  <wpt lat="50.370013" lon="16.988951">
+    <ele>488</ele>
+    <name>Salkova cesta, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2110">
+      <text>Salkova cesta, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.369507" lon="16.99202">
+    <ele>456</ele>
+    <name>Certovy kazatelny</name>
+    <link href="https://mapa-turystyczna.pl/node/2109">
+      <text>Certovy kazatelny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Salkova cesta, rozc. - Certovy kazatelny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3700132,16.988951;50.3694404000007,16.99057204999996;50.3695067,16.9920195">
+    <text>Salkova cesta, rozc. - Certovy kazatelny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3700132" lon="16.988951">
+      <ele>488</ele>
+      <time>2022-01-17T21:22:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3698634" lon="16.9891461">
+      <ele>482</ele>
+      <time>2022-01-17T21:23:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3696479" lon="16.9895109">
+      <ele>474</ele>
+      <time>2022-01-17T21:24:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3695041" lon="16.9898542">
+      <ele>466</ele>
+      <time>2022-01-17T21:24:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3694485" lon="16.9901955">
+      <ele>462</ele>
+      <time>2022-01-17T21:25:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3694323" lon="16.9909486">
+      <ele>456</ele>
+      <time>2022-01-17T21:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3694836" lon="16.9916728">
+      <ele>457</ele>
+      <time>2022-01-17T21:27:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3695007" lon="16.991764">
+      <ele>457</ele>
+      <time>2022-01-17T21:27:35Z</time>
+    </trkpt>
+    <trkpt lat="50.3695067" lon="16.9920195">
+      <ele>456</ele>
+      <time>2022-01-17T21:27:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

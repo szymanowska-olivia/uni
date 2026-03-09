@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:57Z</time>
+    <bounds maxlat="49.275497" maxlon="19.868932" minlat="49.275474" minlon="19.86881"/>
+  </metadata>
+  <wpt lat="49.275474" lon="19.868932">
+    <ele>927</ele>
+    <name>Kiry</name>
+    <link href="https://mapa-turystyczna.pl/node/221">
+      <text>Kiry</text>
+    </link>
+  </wpt>
+  <wpt lat="49.275497" lon="19.86881">
+    <ele>933</ele>
+    <name>Kiry</name>
+    <link href="https://mapa-turystyczna.pl/node/13430">
+      <text>Kiry</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kiry - Kiry</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.275474,19.868932;49.27548550000134,19.868870999999988;49.275497,19.86881">
+    <text>Kiry - Kiry</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.275474" lon="19.868932">
+      <ele>927</ele>
+      <time>2022-01-18T01:56:57Z</time>
+    </trkpt>
+    <trkpt lat="49.275497" lon="19.86881">
+      <ele>933</ele>
+      <time>2022-01-18T01:57:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

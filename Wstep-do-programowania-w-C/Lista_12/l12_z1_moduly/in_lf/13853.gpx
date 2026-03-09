@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:24Z</time>
+    <bounds maxlat="50.4809474" maxlon="16.3026138" minlat="50.4777847" minlon="16.2962544"/>
+  </metadata>
+  <wpt lat="50.477785" lon="16.302614">
+    <ele>774</ele>
+    <name>Zielona Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/9499">
+      <text>Zielona Droga</text>
+    </link>
+  </wpt>
+  <wpt lat="50.480947" lon="16.296254">
+    <ele>746</ele>
+    <name>Nad Cvicnou skalou</name>
+    <link href="https://mapa-turystyczna.pl/node/5739">
+      <text>Nad Cvicnou skalou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zielona Droga - Nad Cvicnou skalou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4777847,16.3026138;50.47918810102909,16.299570949999982;50.4809474,16.2962544">
+    <text>Zielona Droga - Nad Cvicnou skalou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4777847" lon="16.3026138">
+      <ele>774</ele>
+      <time>2022-01-18T00:13:24Z</time>
+    </trkpt>
+    <trkpt lat="50.4778724" lon="16.3024537">
+      <ele>772</ele>
+      <time>2022-01-18T00:13:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4779403" lon="16.3022669">
+      <ele>771</ele>
+      <time>2022-01-18T00:13:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4781176" lon="16.3017283">
+      <ele>770</ele>
+      <time>2022-01-18T00:14:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4783275" lon="16.3010931">
+      <ele>768</ele>
+      <time>2022-01-18T00:15:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4788762" lon="16.3001141">
+      <ele>764</ele>
+      <time>2022-01-18T00:17:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4795" lon="16.2990278">
+      <ele>759</ele>
+      <time>2022-01-18T00:18:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4800206" lon="16.2980219">
+      <ele>756</ele>
+      <time>2022-01-18T00:20:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4804802" lon="16.2969895">
+      <ele>753</ele>
+      <time>2022-01-18T00:22:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4807377" lon="16.2964492">
+      <ele>750</ele>
+      <time>2022-01-18T00:22:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4809474" lon="16.2962544">
+      <ele>746</ele>
+      <time>2022-01-18T00:23:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

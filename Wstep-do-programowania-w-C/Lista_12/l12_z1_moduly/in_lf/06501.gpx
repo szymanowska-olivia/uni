@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:13Z</time>
+    <bounds maxlat="50.7390014" maxlon="19.2093158" minlat="50.7355588" minlon="19.2059684"/>
+  </metadata>
+  <wpt lat="50.735559" lon="19.209316">
+    <ele>270</ele>
+    <name>Czestochowa, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4541">
+      <text>Czestochowa, las</text>
+    </link>
+  </wpt>
+  <wpt lat="50.739001" lon="19.205968">
+    <ele>268</ele>
+    <name>Czestochowa, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4542">
+      <text>Czestochowa, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czestochowa, las - Czestochowa, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7355588,19.2093158;50.73724785216047,19.207642749999994;50.7390014,19.2059684">
+    <text>Czestochowa, las - Czestochowa, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7355588" lon="19.2093158">
+      <ele>270</ele>
+      <time>2022-01-17T22:08:13Z</time>
+    </trkpt>
+    <trkpt lat="50.736798" lon="19.2080887">
+      <ele>270</ele>
+      <time>2022-01-17T22:10:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7376977" lon="19.2071968">
+      <ele>268</ele>
+      <time>2022-01-17T22:11:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7390014" lon="19.2059684">
+      <ele>268</ele>
+      <time>2022-01-17T22:13:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

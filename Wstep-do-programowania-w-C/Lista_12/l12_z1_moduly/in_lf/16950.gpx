@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:36Z</time>
+    <bounds maxlat="52.0759188" maxlon="21.2898566" minlat="52.0742992" minlon="21.2855345"/>
+  </metadata>
+  <wpt lat="52.074299" lon="21.289857">
+    <ele>103</ele>
+    <name>Rezerwat Na Torfach</name>
+    <link href="https://mapa-turystyczna.pl/node/11520">
+      <text>Rezerwat Na Torfach</text>
+    </link>
+  </wpt>
+  <wpt lat="52.075919" lon="21.285535">
+    <ele>95</ele>
+    <name>Osrodek edukacyjny "Baza Torfy"</name>
+    <link href="https://mapa-turystyczna.pl/node/11594">
+      <text>Osrodek edukacyjny "Baza Torfy"</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Na Torfach - Osrodek edukacyjny &quot;Baza Torfy&quot;</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0742992,21.2898566;52.07548070007007,21.28782814999998;52.0759188,21.2855345">
+    <text>Rezerwat Na Torfach - Osrodek edukacyjny &quot;Baza Torfy&quot;</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0742992" lon="21.2898566">
+      <ele>103</ele>
+      <time>2022-01-18T01:05:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0746696" lon="21.2893087">
+      <ele>103</ele>
+      <time>2022-01-18T01:06:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0754016" lon="21.2880427">
+      <ele>101</ele>
+      <time>2022-01-18T01:08:03Z</time>
+    </trkpt>
+    <trkpt lat="52.0755598" lon="21.2876136">
+      <ele>101</ele>
+      <time>2022-01-18T01:08:32Z</time>
+    </trkpt>
+    <trkpt lat="52.0756719" lon="21.2871093">
+      <ele>100</ele>
+      <time>2022-01-18T01:09:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0759188" lon="21.2855345">
+      <ele>95</ele>
+      <time>2022-01-18T01:10:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

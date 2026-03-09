@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:26Z</time>
+    <bounds maxlat="50.7796627" maxlon="15.084314" minlat="50.7777322" minlon="15.081334"/>
+  </metadata>
+  <wpt lat="50.779663" lon="15.084314">
+    <ele>452</ele>
+    <name>Liberec, Lidove sady, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8837">
+      <text>Liberec, Lidove sady, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.777732" lon="15.081334">
+    <ele>418</ele>
+    <name>Liberec, Lidove sady, MHD</name>
+    <link href="https://mapa-turystyczna.pl/node/8838">
+      <text>Liberec, Lidove sady, MHD</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Liberec, Lidove sady, rozc. - Liberec, Lidove sady, MHD</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7796627,15.084314;50.778624650643096,15.082616350000002;50.7777322,15.081334">
+    <text>Liberec, Lidove sady, rozc. - Liberec, Lidove sady, MHD</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7796627" lon="15.084314">
+      <ele>452</ele>
+      <time>2022-01-17T23:57:26Z</time>
+    </trkpt>
+    <trkpt lat="50.7794398" lon="15.0839923">
+      <ele>448</ele>
+      <time>2022-01-17T23:57:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7792871" lon="15.0836758">
+      <ele>444</ele>
+      <time>2022-01-17T23:58:25Z</time>
+    </trkpt>
+    <trkpt lat="50.779165" lon="15.0831876">
+      <ele>438</ele>
+      <time>2022-01-17T23:59:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7788699" lon="15.0827317">
+      <ele>432</ele>
+      <time>2022-01-17T23:59:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7783794" lon="15.082501">
+      <ele>426</ele>
+      <time>2022-01-18T00:00:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7781488" lon="15.0822864">
+      <ele>425</ele>
+      <time>2022-01-18T00:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.777891" lon="15.0819699">
+      <ele>422</ele>
+      <time>2022-01-18T00:01:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7777322" lon="15.081334">
+      <ele>418</ele>
+      <time>2022-01-18T00:02:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

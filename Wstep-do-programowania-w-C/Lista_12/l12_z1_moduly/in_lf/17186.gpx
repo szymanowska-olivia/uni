@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:17Z</time>
+    <bounds maxlat="50.8787251" maxlon="16.7357188" minlat="50.8780646" minlon="16.7291924"/>
+  </metadata>
+  <wpt lat="50.878408" lon="16.729192">
+    <ele>360</ele>
+    <name>Zrodlo Joanny</name>
+    <link href="https://mapa-turystyczna.pl/node/11695">
+      <text>Zrodlo Joanny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.878065" lon="16.735719">
+    <ele>327</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11710">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodlo Joanny - Rozejscie sciezek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8784081,16.7291924;50.878518700089636,16.732533899999993;50.8780646,16.7357188">
+    <text>Zrodlo Joanny - Rozejscie sciezek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8784081" lon="16.7291924">
+      <ele>360</ele>
+      <time>2022-01-18T01:09:17Z</time>
+    </trkpt>
+    <trkpt lat="50.878407" lon="16.7296693">
+      <ele>359</ele>
+      <time>2022-01-18T01:09:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8784814" lon="16.7302487">
+      <ele>356</ele>
+      <time>2022-01-18T01:10:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8786168" lon="16.7307851">
+      <ele>349</ele>
+      <time>2022-01-18T01:10:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8787116" lon="16.7312894">
+      <ele>345</ele>
+      <time>2022-01-18T01:10:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8787251" lon="16.731579">
+      <ele>343</ele>
+      <time>2022-01-18T01:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8786101" lon="16.7321906">
+      <ele>341</ele>
+      <time>2022-01-18T01:11:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8784273" lon="16.7328772">
+      <ele>340</ele>
+      <time>2022-01-18T01:12:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8782987" lon="16.7340306">
+      <ele>335</ele>
+      <time>2022-01-18T01:13:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8782784" lon="16.7347119">
+      <ele>331</ele>
+      <time>2022-01-18T01:13:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8781985" lon="16.7351832">
+      <ele>329</ele>
+      <time>2022-01-18T01:13:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8780646" lon="16.7357188">
+      <ele>327</ele>
+      <time>2022-01-18T01:14:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

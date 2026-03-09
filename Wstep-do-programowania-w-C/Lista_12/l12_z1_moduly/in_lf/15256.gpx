@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:58Z</time>
+    <bounds maxlat="50.1893479" maxlon="19.8360354" minlat="50.1892215" minlon="19.8357616"/>
+  </metadata>
+  <wpt lat="50.189347" lon="19.836035">
+    <ele>319</ele>
+    <name>Pradnik Czajowski, odejscie sciezki gminnej</name>
+    <link href="https://mapa-turystyczna.pl/node/10399">
+      <text>Pradnik Czajowski, odejscie sciezki gminnej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.189222" lon="19.835762">
+    <ele>311</ele>
+    <name>Pradnik Czajowski</name>
+    <link href="https://mapa-turystyczna.pl/node/4593">
+      <text>Pradnik Czajowski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pradnik Czajowski, odejscie sciezki gminnej - Pradnik Czajowski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1893467,19.8360354;50.189273700028544,19.835821650000003;50.1892215,19.8357616">
+    <text>Pradnik Czajowski, odejscie sciezki gminnej - Pradnik Czajowski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1893467" lon="19.8360354">
+      <ele>319</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1893479" lon="19.8360339">
+      <ele>319</ele>
+      <time>2022-01-18T00:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.1893259" lon="19.8358817">
+      <ele>315</ele>
+      <time>2022-01-18T00:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1892215" lon="19.8357616">
+      <ele>311</ele>
+      <time>2022-01-18T00:36:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

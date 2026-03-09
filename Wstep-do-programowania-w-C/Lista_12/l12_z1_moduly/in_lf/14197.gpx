@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:16Z</time>
+    <bounds maxlat="50.4641648" maxlon="18.9079612" minlat="50.463873" minlon="18.907932"/>
+  </metadata>
+  <wpt lat="50.463873" lon="18.907932">
+    <ele>308</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9689">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.464165" lon="18.907961">
+    <ele>303</ele>
+    <name>Zalew Naklo-Chechlo, pole namiotowe</name>
+    <link href="https://mapa-turystyczna.pl/node/9491">
+      <text>Zalew Naklo-Chechlo, pole namiotowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Zalew Naklo-Chechlo, pole namiotowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.463873,18.907932;50.46401890022506,18.907946600000027;50.4641648,18.9079612">
+    <text>Rozejscie szlakow zolty / czarny - Zalew Naklo-Chechlo, pole namiotowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.463873" lon="18.907932">
+      <ele>308</ele>
+      <time>2022-01-18T00:18:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4641648" lon="18.9079612">
+      <ele>303</ele>
+      <time>2022-01-18T00:19:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:57Z</time>
+    <bounds maxlat="53.9399241" maxlon="14.4640247" minlat="53.9396368" minlon="14.4638316"/>
+  </metadata>
+  <wpt lat="53.939637" lon="14.464025">
+    <ele>55</ele>
+    <name>Kawcza Gora, odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/8538">
+      <text>Kawcza Gora, odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="53.939924" lon="14.463832">
+    <ele>50</ele>
+    <name>Kawcza Gora, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/8537">
+      <text>Kawcza Gora, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kawcza Gora, odejscie na punkt widokowy - Kawcza Gora, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9396368,14.4640247;53.939780450247305,14.463928150000003;53.9399241,14.4638316">
+    <text>Kawcza Gora, odejscie na punkt widokowy - Kawcza Gora, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9396368" lon="14.4640247">
+      <ele>55</ele>
+      <time>2022-01-17T23:49:57Z</time>
+    </trkpt>
+    <trkpt lat="53.9399241" lon="14.4638316">
+      <ele>50</ele>
+      <time>2022-01-17T23:50:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

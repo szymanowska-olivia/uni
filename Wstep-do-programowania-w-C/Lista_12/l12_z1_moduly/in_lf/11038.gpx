@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:18Z</time>
+    <bounds maxlat="50.0638441" maxlon="16.8495456" minlat="50.0616745" minlon="16.8474401"/>
+  </metadata>
+  <wpt lat="50.061675" lon="16.84744">
+    <ele>865</ele>
+    <name>U Severomoravske chaty</name>
+    <link href="https://mapa-turystyczna.pl/node/7772">
+      <text>U Severomoravske chaty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.063844" lon="16.849546">
+    <ele>849</ele>
+    <name>Severomoravska chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7771">
+      <text>Severomoravska chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Severomoravske chaty - Severomoravska chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0616745,16.8474401;50.06272735059713,16.848687549999998;50.0638441,16.8495456">
+    <text>U Severomoravske chaty - Severomoravska chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0616745" lon="16.8474401">
+      <ele>865</ele>
+      <time>2022-01-17T23:27:18Z</time>
+    </trkpt>
+    <trkpt lat="50.061968" lon="16.8478802">
+      <ele>862</ele>
+      <time>2022-01-17T23:28:05Z</time>
+    </trkpt>
+    <trkpt lat="50.062488" lon="16.848422">
+      <ele>856</ele>
+      <time>2022-01-17T23:29:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0629667" lon="16.8489531">
+      <ele>856</ele>
+      <time>2022-01-17T23:30:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0635452" lon="16.8493823">
+      <ele>850</ele>
+      <time>2022-01-17T23:31:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0638441" lon="16.8495456">
+      <ele>849</ele>
+      <time>2022-01-17T23:32:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

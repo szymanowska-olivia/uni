@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:02Z</time>
+    <bounds maxlat="52.1062285" maxlon="21.233497" minlat="52.1058302" minlon="21.2326487"/>
+  </metadata>
+  <wpt lat="52.10583" lon="21.233497">
+    <ele>94</ele>
+    <name>Swidry Wielkie</name>
+    <link href="https://mapa-turystyczna.pl/node/11570">
+      <text>Swidry Wielkie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.106229" lon="21.232649">
+    <ele>94</ele>
+    <name>Otwock, ul. Kraszewskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12913">
+      <text>Otwock, ul. Kraszewskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swidry Wielkie - Otwock, ul. Kraszewskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1058302,21.233497;52.106098450189634,21.232919349999975;52.1062285,21.2326487">
+    <text>Swidry Wielkie - Otwock, ul. Kraszewskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1058302" lon="21.233497">
+      <ele>94</ele>
+      <time>2022-01-18T01:42:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1058795" lon="21.2332812">
+      <ele>94</ele>
+      <time>2022-01-18T01:42:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1059684" lon="21.23319">
+      <ele>94</ele>
+      <time>2022-01-18T01:42:24Z</time>
+    </trkpt>
+    <trkpt lat="52.1062285" lon="21.2326487">
+      <ele>94</ele>
+      <time>2022-01-18T01:43:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

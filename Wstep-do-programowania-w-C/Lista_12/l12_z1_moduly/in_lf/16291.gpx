@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:21Z</time>
+    <bounds maxlat="49.3060725" maxlon="22.2448021" minlat="49.3054511" minlon="22.243483"/>
+  </metadata>
+  <wpt lat="49.306072" lon="22.244802">
+    <ele>527</ele>
+    <name>Zrodlo Rabskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11108">
+      <text>Zrodlo Rabskie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.305451" lon="22.243483">
+    <ele>526</ele>
+    <name>Trawers Kamiennej Gory</name>
+    <link href="https://mapa-turystyczna.pl/node/11118">
+      <text>Trawers Kamiennej Gory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodlo Rabskie - Trawers Kamiennej Gory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3060725,22.2448021;49.30576180097962,22.244142550000007;49.3054511,22.243483">
+    <text>Zrodlo Rabskie - Trawers Kamiennej Gory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3060725" lon="22.2448021">
+      <ele>527</ele>
+      <time>2022-01-18T00:54:21Z</time>
+    </trkpt>
+    <trkpt lat="49.3054511" lon="22.243483">
+      <ele>526</ele>
+      <time>2022-01-18T00:56:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

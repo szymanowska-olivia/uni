@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:36Z</time>
+    <bounds maxlat="52.1147719" maxlon="21.2681033" minlat="52.1136992" minlon="21.2658824"/>
+  </metadata>
+  <wpt lat="52.113699" lon="21.265882">
+    <ele>100</ele>
+    <name>Otwock, ul. Goldflama</name>
+    <link href="https://mapa-turystyczna.pl/node/12926">
+      <text>Otwock, ul. Goldflama</text>
+    </link>
+  </wpt>
+  <wpt lat="52.114772" lon="21.268103">
+    <ele>97</ele>
+    <name>Otwock, ul. Goldflama</name>
+    <link href="https://mapa-turystyczna.pl/node/11557">
+      <text>Otwock, ul. Goldflama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Goldflama - Otwock, ul. Goldflama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1136992,21.2658824;52.114235553226436,21.266992850000005;52.1147719,21.2681033">
+    <text>Otwock, ul. Goldflama - Otwock, ul. Goldflama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1136992" lon="21.2658824">
+      <ele>100</ele>
+      <time>2022-01-18T01:42:36Z</time>
+    </trkpt>
+    <trkpt lat="52.1147719" lon="21.2681033">
+      <ele>97</ele>
+      <time>2022-01-18T01:45:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

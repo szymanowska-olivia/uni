@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:28Z</time>
+    <bounds maxlat="49.384032" maxlon="18.972905" minlat="49.383641" minlon="18.972633"/>
+  </metadata>
+  <wpt lat="49.384032" lon="18.972905">
+    <ele>957</ele>
+    <name>Kycera</name>
+    <link href="https://mapa-turystyczna.pl/node/3978">
+      <text>Kycera</text>
+    </link>
+  </wpt>
+  <wpt lat="49.383641" lon="18.972633">
+    <ele>958</ele>
+    <name>Kycera</name>
+    <link href="https://mapa-turystyczna.pl/node/13509">
+      <text>Kycera</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kycera - Kycera</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.384032,18.972905;49.38383650038892,18.972768999999985;49.383641,18.972633">
+    <text>Kycera - Kycera</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.384032" lon="18.972905">
+      <ele>957</ele>
+      <time>2022-01-18T01:59:28Z</time>
+    </trkpt>
+    <trkpt lat="49.383641" lon="18.972633">
+      <ele>958</ele>
+      <time>2022-01-18T02:00:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

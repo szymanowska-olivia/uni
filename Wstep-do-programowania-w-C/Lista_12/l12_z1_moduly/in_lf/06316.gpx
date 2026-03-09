@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:05:13Z</time>
+    <bounds maxlat="50.1677314" maxlon="19.8570156" minlat="50.1642676" minlon="19.8530781"/>
+  </metadata>
+  <wpt lat="50.164268" lon="19.857016">
+    <ele>283</ele>
+    <name>Wawoz Pod Swierki</name>
+    <link href="https://mapa-turystyczna.pl/node/4387">
+      <text>Wawoz Pod Swierki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.167731" lon="19.853078">
+    <ele>293</ele>
+    <name>Pradnik Korzkiewski</name>
+    <link href="https://mapa-turystyczna.pl/node/4388">
+      <text>Pradnik Korzkiewski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wawoz Pod Swierki - Pradnik Korzkiewski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1642676,19.8570156;50.165977200649145,19.855396200000026;50.1677314,19.8530781">
+    <text>Wawoz Pod Swierki - Pradnik Korzkiewski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1642676" lon="19.8570156">
+      <ele>283</ele>
+      <time>2022-01-17T22:05:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1650322" lon="19.856154">
+      <ele>287</ele>
+      <time>2022-01-17T22:07:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1657281" lon="19.8556785">
+      <ele>291</ele>
+      <time>2022-01-17T22:09:10Z</time>
+    </trkpt>
+    <trkpt lat="50.1662263" lon="19.8551139">
+      <ele>295</ele>
+      <time>2022-01-17T22:10:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1666593" lon="19.8543495">
+      <ele>298</ele>
+      <time>2022-01-17T22:12:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1677314" lon="19.8530781">
+      <ele>293</ele>
+      <time>2022-01-17T22:15:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

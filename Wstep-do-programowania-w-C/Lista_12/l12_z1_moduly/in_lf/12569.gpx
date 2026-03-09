@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:15Z</time>
+    <bounds maxlat="53.844226" maxlon="14.616901" minlat="53.8419561" minlon="14.6118083"/>
+  </metadata>
+  <wpt lat="53.844226" lon="14.616901">
+    <ele>8</ele>
+    <name>Wolin</name>
+    <link href="https://mapa-turystyczna.pl/node/8568">
+      <text>Wolin</text>
+    </link>
+  </wpt>
+  <wpt lat="53.842631" lon="14.611808">
+    <ele>8</ele>
+    <name>Wolin, ul. Slowianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8615">
+      <text>Wolin, ul. Slowianska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolin - Wolin, ul. Slowianska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.844226,14.616901;53.84199570001872,14.615774100000003;53.8426309,14.6118083">
+    <text>Wolin - Wolin, ul. Slowianska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.844226" lon="14.616901">
+      <ele>8</ele>
+      <time>2022-01-17T23:52:15Z</time>
+    </trkpt>
+    <trkpt lat="53.8441871" lon="14.6168084">
+      <ele>8</ele>
+      <time>2022-01-17T23:52:23Z</time>
+    </trkpt>
+    <trkpt lat="53.8441609" lon="14.6166729">
+      <ele>9</ele>
+      <time>2022-01-17T23:52:34Z</time>
+    </trkpt>
+    <trkpt lat="53.8441653" lon="14.6165707">
+      <ele>9</ele>
+      <time>2022-01-17T23:52:41Z</time>
+    </trkpt>
+    <trkpt lat="53.843776" lon="14.6164366">
+      <ele>6</ele>
+      <time>2022-01-17T23:53:30Z</time>
+    </trkpt>
+    <trkpt lat="53.8429658" lon="14.6161737">
+      <ele>9</ele>
+      <time>2022-01-17T23:55:11Z</time>
+    </trkpt>
+    <trkpt lat="53.8420353" lon="14.6158036">
+      <ele>6</ele>
+      <time>2022-01-17T23:57:08Z</time>
+    </trkpt>
+    <trkpt lat="53.8419561" lon="14.6157446">
+      <ele>6</ele>
+      <time>2022-01-17T23:57:18Z</time>
+    </trkpt>
+    <trkpt lat="53.8420687" lon="14.6146239">
+      <ele>5</ele>
+      <time>2022-01-17T23:58:40Z</time>
+    </trkpt>
+    <trkpt lat="53.8426309" lon="14.6118083">
+      <ele>8</ele>
+      <time>2022-01-18T00:02:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

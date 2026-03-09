@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:21Z</time>
+    <bounds maxlat="51.5160559" maxlon="17.3421572" minlat="51.5135442" minlon="17.3384052"/>
+  </metadata>
+  <wpt lat="51.513544" lon="17.338405">
+    <ele>124</ele>
+    <name>Niesulowice</name>
+    <link href="https://mapa-turystyczna.pl/node/10547">
+      <text>Niesulowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.516056" lon="17.342157">
+    <ele>125</ele>
+    <name>Niesulowice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10549">
+      <text>Niesulowice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niesulowice - Niesulowice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5135442,17.3384052;51.51449740260759,17.339467999999997;51.5160559,17.3421572">
+    <text>Niesulowice - Niesulowice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5135442" lon="17.3384052">
+      <ele>124</ele>
+      <time>2022-01-18T00:39:21Z</time>
+    </trkpt>
+    <trkpt lat="51.5138565" lon="17.3384488">
+      <ele>123</ele>
+      <time>2022-01-18T00:39:48Z</time>
+    </trkpt>
+    <trkpt lat="51.51401" lon="17.3386526">
+      <ele>122</ele>
+      <time>2022-01-18T00:40:04Z</time>
+    </trkpt>
+    <trkpt lat="51.5149848" lon="17.3402834">
+      <ele>123</ele>
+      <time>2022-01-18T00:42:04Z</time>
+    </trkpt>
+    <trkpt lat="51.5151851" lon="17.3406804">
+      <ele>123</ele>
+      <time>2022-01-18T00:42:31Z</time>
+    </trkpt>
+    <trkpt lat="51.5153187" lon="17.341131">
+      <ele>125</ele>
+      <time>2022-01-18T00:42:57Z</time>
+    </trkpt>
+    <trkpt lat="51.5154655" lon="17.3414743">
+      <ele>126</ele>
+      <time>2022-01-18T00:43:19Z</time>
+    </trkpt>
+    <trkpt lat="51.5156658" lon="17.3417425">
+      <ele>127</ele>
+      <time>2022-01-18T00:43:41Z</time>
+    </trkpt>
+    <trkpt lat="51.5160559" lon="17.3421572">
+      <ele>125</ele>
+      <time>2022-01-18T00:44:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

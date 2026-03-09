@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:53Z</time>
+    <bounds maxlat="50.905066" maxlon="16.7408493" minlat="50.904403" minlon="16.7398327"/>
+  </metadata>
+  <wpt lat="50.905066" lon="16.739833">
+    <ele>168</ele>
+    <name>Sobotka, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2743">
+      <text>Sobotka, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.904403" lon="16.740849">
+    <ele>169</ele>
+    <name>Sobotka, tartak</name>
+    <link href="https://mapa-turystyczna.pl/node/2744">
+      <text>Sobotka, tartak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotka, stacja kolejowa - Sobotka, tartak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.905066,16.7398327;50.904734501180236,16.74034099999999;50.904403,16.7408493">
+    <text>Sobotka, stacja kolejowa - Sobotka, tartak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.905066" lon="16.7398327">
+      <ele>168</ele>
+      <time>2022-01-17T21:35:53Z</time>
+    </trkpt>
+    <trkpt lat="50.904403" lon="16.7408493">
+      <ele>169</ele>
+      <time>2022-01-17T21:37:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

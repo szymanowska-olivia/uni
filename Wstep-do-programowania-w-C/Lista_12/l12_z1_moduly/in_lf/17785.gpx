@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:19:38Z</time>
+    <bounds maxlat="52.1042245" maxlon="20.8893847" minlat="52.1011667" minlon="20.8867008"/>
+  </metadata>
+  <wpt lat="52.101167" lon="20.889385">
+    <ele>124</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11482">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.104225" lon="20.887177">
+    <ele>111</ele>
+    <name>Sekocin-Las</name>
+    <link href="https://mapa-turystyczna.pl/node/12091">
+      <text>Sekocin-Las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Sekocin-Las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1011667,20.8893847;52.102297150058845,20.886846499999994;52.1042245,20.8871774">
+    <text>Rozejscie szlakow czerwony / czarny - Sekocin-Las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1011667" lon="20.8893847">
+      <ele>124</ele>
+      <time>2022-01-18T01:19:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1013218" lon="20.8892927">
+      <ele>125</ele>
+      <time>2022-01-18T01:19:50Z</time>
+    </trkpt>
+    <trkpt lat="52.10148" lon="20.8891961">
+      <ele>126</ele>
+      <time>2022-01-18T01:20:03Z</time>
+    </trkpt>
+    <trkpt lat="52.1015986" lon="20.8889922">
+      <ele>127</ele>
+      <time>2022-01-18T01:20:16Z</time>
+    </trkpt>
+    <trkpt lat="52.1016974" lon="20.8887026">
+      <ele>129</ele>
+      <time>2022-01-18T01:20:31Z</time>
+    </trkpt>
+    <trkpt lat="52.1021258" lon="20.887104">
+      <ele>120</ele>
+      <time>2022-01-18T01:21:52Z</time>
+    </trkpt>
+    <trkpt lat="52.1022247" lon="20.8869323">
+      <ele>118</ele>
+      <time>2022-01-18T01:22:03Z</time>
+    </trkpt>
+    <trkpt lat="52.1023696" lon="20.8867607">
+      <ele>116</ele>
+      <time>2022-01-18T01:22:16Z</time>
+    </trkpt>
+    <trkpt lat="52.1025476" lon="20.8867008">
+      <ele>115</ele>
+      <time>2022-01-18T01:22:30Z</time>
+    </trkpt>
+    <trkpt lat="52.1027123" lon="20.886733">
+      <ele>115</ele>
+      <time>2022-01-18T01:22:43Z</time>
+    </trkpt>
+    <trkpt lat="52.1035493" lon="20.8869154">
+      <ele>113</ele>
+      <time>2022-01-18T01:23:46Z</time>
+    </trkpt>
+    <trkpt lat="52.1042245" lon="20.8871774">
+      <ele>111</ele>
+      <time>2022-01-18T01:24:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

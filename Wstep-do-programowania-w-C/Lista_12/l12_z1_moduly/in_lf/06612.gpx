@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:00Z</time>
+    <bounds maxlat="50.8383002" maxlon="15.5133746" minlat="50.8382967" minlon="15.5130667"/>
+  </metadata>
+  <wpt lat="50.838297" lon="15.513067">
+    <ele>769</ele>
+    <name>Rozdroze pod Wysokim Kamieniem</name>
+    <link href="https://mapa-turystyczna.pl/node/2241">
+      <text>Rozdroze pod Wysokim Kamieniem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.8383" lon="15.513375">
+    <ele>775</ele>
+    <name>Szklarska Poreba, osiedle Podgorze</name>
+    <link href="https://mapa-turystyczna.pl/node/4594">
+      <text>Szklarska Poreba, osiedle Podgorze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Wysokim Kamieniem - Szklarska Poreba, osiedle Podgorze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8382967,15.5130667;50.83829845000002,15.513220649999981;50.8383002,15.5133746">
+    <text>Rozdroze pod Wysokim Kamieniem - Szklarska Poreba, osiedle Podgorze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8382967" lon="15.5130667">
+      <ele>769</ele>
+      <time>2022-01-17T22:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8383002" lon="15.5133746">
+      <ele>775</ele>
+      <time>2022-01-17T22:11:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:49Z</time>
+    <bounds maxlat="50.0139923" maxlon="16.8466172" minlat="50.0131403" minlon="16.8447093"/>
+  </metadata>
+  <wpt lat="50.013958" lon="16.844709">
+    <ele>572</ele>
+    <name>Janousov</name>
+    <link href="https://mapa-turystyczna.pl/node/7911">
+      <text>Janousov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.01314" lon="16.846617">
+    <ele>563</ele>
+    <name>Janousov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7912">
+      <text>Janousov, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janousov - Janousov, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0139581,16.8447093;50.01376405050982,16.8461733;50.0131403,16.8466172">
+    <text>Janousov - Janousov, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0139581" lon="16.8447093">
+      <ele>572</ele>
+      <time>2022-01-17T23:30:49Z</time>
+    </trkpt>
+    <trkpt lat="50.0139923" lon="16.8449323">
+      <ele>572</ele>
+      <time>2022-01-17T23:31:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0139579" lon="16.8450825">
+      <ele>571</ele>
+      <time>2022-01-17T23:31:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0139268" lon="16.8451683">
+      <ele>570</ele>
+      <time>2022-01-17T23:31:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0139268" lon="16.8454419">
+      <ele>568</ele>
+      <time>2022-01-17T23:31:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0139372" lon="16.8458442">
+      <ele>568</ele>
+      <time>2022-01-17T23:32:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0139854" lon="16.8460642">
+      <ele>569</ele>
+      <time>2022-01-17T23:32:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0135427" lon="16.8462824">
+      <ele>566</ele>
+      <time>2022-01-17T23:33:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0133753" lon="16.8464719">
+      <ele>565</ele>
+      <time>2022-01-17T23:33:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0131403" lon="16.8466172">
+      <ele>563</ele>
+      <time>2022-01-17T23:33:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

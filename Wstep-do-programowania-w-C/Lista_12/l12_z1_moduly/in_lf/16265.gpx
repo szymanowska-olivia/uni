@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:52Z</time>
+    <bounds maxlat="49.4192035" maxlon="22.5997428" minlat="49.4157381" minlon="22.595516"/>
+  </metadata>
+  <wpt lat="49.419204" lon="22.595516">
+    <ele>655</ele>
+    <name>Gromadzyn</name>
+    <link href="https://mapa-turystyczna.pl/node/8514">
+      <text>Gromadzyn</text>
+    </link>
+  </wpt>
+  <wpt lat="49.415738" lon="22.599743">
+    <ele>634</ele>
+    <name>Rownia</name>
+    <link href="https://mapa-turystyczna.pl/node/11099">
+      <text>Rownia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gromadzyn - Rownia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4192035,22.595516;49.41740675068473,22.598088350000037;49.4157381,22.5997428">
+    <text>Gromadzyn - Rownia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4192035" lon="22.595516">
+      <ele>655</ele>
+      <time>2022-01-18T00:53:52Z</time>
+    </trkpt>
+    <trkpt lat="49.418514" lon="22.5965387">
+      <ele>652</ele>
+      <time>2022-01-18T00:54:56Z</time>
+    </trkpt>
+    <trkpt lat="49.4180343" lon="22.5972891">
+      <ele>649</ele>
+      <time>2022-01-18T00:55:42Z</time>
+    </trkpt>
+    <trkpt lat="49.417666" lon="22.5977987">
+      <ele>646</ele>
+      <time>2022-01-18T00:56:16Z</time>
+    </trkpt>
+    <trkpt lat="49.4171475" lon="22.598378">
+      <ele>644</ele>
+      <time>2022-01-18T00:56:59Z</time>
+    </trkpt>
+    <trkpt lat="49.4166914" lon="22.5987434">
+      <ele>643</ele>
+      <time>2022-01-18T00:57:33Z</time>
+    </trkpt>
+    <trkpt lat="49.4164196" lon="22.5989038">
+      <ele>638</ele>
+      <time>2022-01-18T00:57:53Z</time>
+    </trkpt>
+    <trkpt lat="49.4157381" lon="22.5997428">
+      <ele>634</ele>
+      <time>2022-01-18T00:58:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:48Z</time>
+    <bounds maxlat="50.8482605" maxlon="16.6974861" minlat="50.8472884" minlon="16.6972071"/>
+  </metadata>
+  <wpt lat="50.848261" lon="16.697207">
+    <ele>404</ele>
+    <name>Tapadla, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2700">
+      <text>Tapadla, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.847288" lon="16.697486">
+    <ele>391</ele>
+    <name>Przelecz Tapadla, Szlak Bolka</name>
+    <link href="https://mapa-turystyczna.pl/node/2740">
+      <text>Przelecz Tapadla, Szlak Bolka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tapadla, skrzyzowanie - Przelecz Tapadla, Szlak Bolka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8482605,16.6972071;50.847619501175004,16.697439800000012;50.8472884,16.6974861">
+    <text>Tapadla, skrzyzowanie - Przelecz Tapadla, Szlak Bolka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8482605" lon="16.6972071">
+      <ele>404</ele>
+      <time>2022-01-17T21:35:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8479506" lon="16.6973935">
+      <ele>399</ele>
+      <time>2022-01-17T21:36:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8472884" lon="16.6974861">
+      <ele>391</ele>
+      <time>2022-01-17T21:37:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

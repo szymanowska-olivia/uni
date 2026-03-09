@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:27Z</time>
+    <bounds maxlat="50.2020564" maxlon="17.1204329" minlat="50.1989179" minlon="17.1119624"/>
+  </metadata>
+  <wpt lat="50.201153" lon="17.111962">
+    <ele>812</ele>
+    <name>U Jelenky</name>
+    <link href="https://mapa-turystyczna.pl/node/6427">
+      <text>U Jelenky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.198918" lon="17.120342">
+    <ele>911</ele>
+    <name>Pod Strmym</name>
+    <link href="https://mapa-turystyczna.pl/node/6432">
+      <text>Pod Strmym</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Jelenky - Pod Strmym</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2011533,17.1119624;50.20063140445812,17.117576300000028;50.1989179,17.1203417">
+    <text>U Jelenky - Pod Strmym</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2011533" lon="17.1119624">
+      <ele>812</ele>
+      <time>2022-01-17T22:53:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2015276" lon="17.1128261">
+      <ele>819</ele>
+      <time>2022-01-17T22:55:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2018641" lon="17.1135932">
+      <ele>837</ele>
+      <time>2022-01-17T22:57:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2020564" lon="17.1145213">
+      <ele>846</ele>
+      <time>2022-01-17T22:58:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2018194" lon="17.1157497">
+      <ele>861</ele>
+      <time>2022-01-17T23:01:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2012838" lon="17.1167153">
+      <ele>875</ele>
+      <time>2022-01-17T23:03:31Z</time>
+    </trkpt>
+    <trkpt lat="50.199979" lon="17.1184373">
+      <ele>897</ele>
+      <time>2022-01-17T23:08:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1998038" lon="17.1190381">
+      <ele>897</ele>
+      <time>2022-01-17T23:09:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1994158" lon="17.1201754">
+      <ele>907</ele>
+      <time>2022-01-17T23:11:53Z</time>
+    </trkpt>
+    <trkpt lat="50.1993677" lon="17.1202558">
+      <ele>907</ele>
+      <time>2022-01-17T23:12:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1991205" lon="17.1204329">
+      <ele>910</ele>
+      <time>2022-01-17T23:12:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1989934" lon="17.1203578">
+      <ele>911</ele>
+      <time>2022-01-17T23:13:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1989179" lon="17.1203417">
+      <ele>911</ele>
+      <time>2022-01-17T23:13:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

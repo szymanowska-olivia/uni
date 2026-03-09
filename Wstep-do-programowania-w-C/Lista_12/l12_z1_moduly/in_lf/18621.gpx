@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:11Z</time>
+    <bounds maxlat="54.1811171" maxlon="15.5650991" minlat="54.1797762" minlon="15.5637166"/>
+  </metadata>
+  <wpt lat="54.179776" lon="15.563717">
+    <ele>3</ele>
+    <name>Kolobrzeg, most</name>
+    <link href="https://mapa-turystyczna.pl/node/12608">
+      <text>Kolobrzeg, most</text>
+    </link>
+  </wpt>
+  <wpt lat="54.181117" lon="15.565099">
+    <ele>2</ele>
+    <name>Kolobrzeg, Park Teatralny</name>
+    <link href="https://mapa-turystyczna.pl/node/12592">
+      <text>Kolobrzeg, Park Teatralny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolobrzeg, most - Kolobrzeg, Park Teatralny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1797762,15.5637166;54.18044665543496,15.564407850000016;54.1811171,15.5650991">
+    <text>Kolobrzeg, most - Kolobrzeg, Park Teatralny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1797762" lon="15.5637166">
+      <ele>3</ele>
+      <time>2022-01-18T01:34:11Z</time>
+    </trkpt>
+    <trkpt lat="54.1811171" lon="15.5650991">
+      <ele>2</ele>
+      <time>2022-01-18T01:37:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

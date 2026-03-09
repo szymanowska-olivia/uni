@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:51Z</time>
+    <bounds maxlat="50.7992423" maxlon="21.2919648" minlat="50.799126" minlon="21.2905491"/>
+  </metadata>
+  <wpt lat="50.799242" lon="21.290549">
+    <ele>331</ele>
+    <name>Goloszyce</name>
+    <link href="https://mapa-turystyczna.pl/node/3153">
+      <text>Goloszyce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.799126" lon="21.291965">
+    <ele>328</ele>
+    <name>Goloszyce, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/12553">
+      <text>Goloszyce, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Goloszyce - Goloszyce, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7992423,21.2905491;50.7991841500362,21.29125694999999;50.799126,21.2919648">
+    <text>Goloszyce - Goloszyce, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7992423" lon="21.2905491">
+      <ele>331</ele>
+      <time>2022-01-18T01:32:51Z</time>
+    </trkpt>
+    <trkpt lat="50.799126" lon="21.2919648">
+      <ele>328</ele>
+      <time>2022-01-18T01:34:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

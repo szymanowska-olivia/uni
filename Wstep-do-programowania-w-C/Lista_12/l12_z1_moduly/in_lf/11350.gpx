@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:05Z</time>
+    <bounds maxlat="50.6711863" maxlon="15.7307053" minlat="50.6708041" minlon="15.7281387"/>
+  </metadata>
+  <wpt lat="50.671186" lon="15.728139">
+    <ele>1106</ele>
+    <name>Bouda na Lucinach</name>
+    <link href="https://mapa-turystyczna.pl/node/7992">
+      <text>Bouda na Lucinach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.670804" lon="15.730705">
+    <ele>1123</ele>
+    <name>Prazska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1308">
+      <text>Prazska bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bouda na Lucinach - Prazska bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6711863,15.7281387;50.670953250003734,15.729492549999993;50.6708041,15.7307053">
+    <text>Bouda na Lucinach - Prazska bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6711863" lon="15.7281387">
+      <ele>1106</ele>
+      <time>2022-01-17T23:33:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6711795" lon="15.7283664">
+      <ele>1108</ele>
+      <time>2022-01-17T23:33:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6711434" lon="15.7289434">
+      <ele>1112</ele>
+      <time>2022-01-17T23:34:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6711072" lon="15.7291021">
+      <ele>1113</ele>
+      <time>2022-01-17T23:34:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6710486" lon="15.7291942">
+      <ele>1114</ele>
+      <time>2022-01-17T23:35:08Z</time>
+    </trkpt>
+    <trkpt lat="50.670972" lon="15.7293889">
+      <ele>1116</ele>
+      <time>2022-01-17T23:35:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6709345" lon="15.7295962">
+      <ele>1118</ele>
+      <time>2022-01-17T23:35:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6709276" lon="15.7301071">
+      <ele>1121</ele>
+      <time>2022-01-17T23:36:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6708796" lon="15.7304746">
+      <ele>1122</ele>
+      <time>2022-01-17T23:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6708041" lon="15.7307053">
+      <ele>1123</ele>
+      <time>2022-01-17T23:38:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

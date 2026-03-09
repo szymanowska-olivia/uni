@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:21Z</time>
+    <bounds maxlat="50.2158015" maxlon="19.3103351" minlat="50.2146266" minlon="19.3045246"/>
+  </metadata>
+  <wpt lat="50.214627" lon="19.304525">
+    <ele>293</ele>
+    <name>Zrodlo Siarczanej</name>
+    <link href="https://mapa-turystyczna.pl/node/9167">
+      <text>Zrodlo Siarczanej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.215801" lon="19.310335">
+    <ele>288</ele>
+    <name>Skrzyzowanie na zoltym szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/12268">
+      <text>Skrzyzowanie na zoltym szlaku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodlo Siarczanej - Skrzyzowanie na zoltym szlaku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2146266,19.3045246;50.21559530044562,19.308039999999984;50.2158015,19.3103351">
+    <text>Zrodlo Siarczanej - Skrzyzowanie na zoltym szlaku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2146266" lon="19.3045246">
+      <ele>293</ele>
+      <time>2022-01-18T01:25:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2153891" lon="19.3057449">
+      <ele>291</ele>
+      <time>2022-01-18T01:26:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2158015" lon="19.3103351">
+      <ele>288</ele>
+      <time>2022-01-18T01:30:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

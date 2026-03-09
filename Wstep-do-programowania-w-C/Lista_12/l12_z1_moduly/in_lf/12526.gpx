@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:27Z</time>
+    <bounds maxlat="53.9180582" maxlon="14.7047657" minlat="53.9069986" minlon="14.6754682"/>
+  </metadata>
+  <wpt lat="53.918058" lon="14.704766">
+    <ele>2</ele>
+    <name>Kukulowo</name>
+    <link href="https://mapa-turystyczna.pl/node/8613">
+      <text>Kukulowo</text>
+    </link>
+  </wpt>
+  <wpt lat="53.906999" lon="14.675468">
+    <ele>-1</ele>
+    <name>Sibin</name>
+    <link href="https://mapa-turystyczna.pl/node/8558">
+      <text>Sibin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kukulowo - Sibin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9180582,14.7047657;53.91131041216797,14.688188950000027;53.9069986,14.6754682">
+    <text>Kukulowo - Sibin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9180582" lon="14.7047657">
+      <ele>2</ele>
+      <time>2022-01-17T23:51:27Z</time>
+    </trkpt>
+    <trkpt lat="53.9178828" lon="14.7043057">
+      <ele>1</ele>
+      <time>2022-01-17T23:51:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9177312" lon="14.7040697">
+      <ele>2</ele>
+      <time>2022-01-17T23:52:19Z</time>
+    </trkpt>
+    <trkpt lat="53.9169476" lon="14.7034367">
+      <ele>3</ele>
+      <time>2022-01-17T23:53:45Z</time>
+    </trkpt>
+    <trkpt lat="53.9166443" lon="14.7032865">
+      <ele>2</ele>
+      <time>2022-01-17T23:54:16Z</time>
+    </trkpt>
+    <trkpt lat="53.9162811" lon="14.7031902">
+      <ele>-1</ele>
+      <time>2022-01-17T23:54:53Z</time>
+    </trkpt>
+    <trkpt lat="53.9160473" lon="14.7030722">
+      <ele>-2</ele>
+      <time>2022-01-17T23:55:17Z</time>
+    </trkpt>
+    <trkpt lat="53.9157313" lon="14.7027181">
+      <ele>-4</ele>
+      <time>2022-01-17T23:55:54Z</time>
+    </trkpt>
+    <trkpt lat="53.915447" lon="14.7022031">
+      <ele>-3</ele>
+      <time>2022-01-17T23:56:35Z</time>
+    </trkpt>
+    <trkpt lat="53.9135891" lon="14.6977185">
+      <ele>-1</ele>
+      <time>2022-01-18T00:01:54Z</time>
+    </trkpt>
+    <trkpt lat="53.9090316" lon="14.6786594">
+      <ele>0</ele>
+      <time>2022-01-18T00:21:52Z</time>
+    </trkpt>
+    <trkpt lat="53.9086398" lon="14.6778011">
+      <ele>0</ele>
+      <time>2022-01-18T00:22:55Z</time>
+    </trkpt>
+    <trkpt lat="53.9076232" lon="14.6765307">
+      <ele>-1</ele>
+      <time>2022-01-18T00:25:00Z</time>
+    </trkpt>
+    <trkpt lat="53.9074652" lon="14.6762732">
+      <ele>-2</ele>
+      <time>2022-01-18T00:25:21Z</time>
+    </trkpt>
+    <trkpt lat="53.9069986" lon="14.6754682">
+      <ele>-1</ele>
+      <time>2022-01-18T00:26:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

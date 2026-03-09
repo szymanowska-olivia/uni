@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:48Z</time>
+    <bounds maxlat="50.7345607" maxlon="19.288636" minlat="50.733176" minlon="19.2868853"/>
+  </metadata>
+  <wpt lat="50.733176" lon="19.288636">
+    <ele>314</ele>
+    <name>Skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/8686">
+      <text>Skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.734561" lon="19.286885">
+    <ele>308</ele>
+    <name>Pod Gora Knieja</name>
+    <link href="https://mapa-turystyczna.pl/node/4534">
+      <text>Pod Gora Knieja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / zolty - Pod Gora Knieja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.733176,19.288636;50.73389855076815,19.287738199999982;50.7345607,19.2868853">
+    <text>Skrzyzowanie szlakow czerwony / zolty - Pod Gora Knieja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.733176" lon="19.288636">
+      <ele>314</ele>
+      <time>2022-01-17T23:53:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7336303" lon="19.2880976">
+      <ele>313</ele>
+      <time>2022-01-17T23:54:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7341668" lon="19.2873788">
+      <ele>310</ele>
+      <time>2022-01-17T23:55:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7345607" lon="19.2868853">
+      <ele>308</ele>
+      <time>2022-01-17T23:56:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

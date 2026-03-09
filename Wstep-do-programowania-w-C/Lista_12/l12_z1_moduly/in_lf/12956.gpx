@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:59:35Z</time>
+    <bounds maxlat="50.0477554" maxlon="18.096634" minlat="50.0326973" minlon="18.0919085"/>
+  </metadata>
+  <wpt lat="50.032697" lon="18.092674">
+    <ele>223</ele>
+    <name>Pietraszyn</name>
+    <link href="https://mapa-turystyczna.pl/node/8922">
+      <text>Pietraszyn</text>
+    </link>
+  </wpt>
+  <wpt lat="50.047755" lon="18.096634">
+    <ele>235</ele>
+    <name>Samborowice, droga wojewodzka</name>
+    <link href="https://mapa-turystyczna.pl/node/8923">
+      <text>Samborowice, droga wojewodzka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pietraszyn - Samborowice, droga wojewodzka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0326973,18.0926739;50.04079245502257,18.094271249999974;50.0477554,18.096634">
+    <text>Pietraszyn - Samborowice, droga wojewodzka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0326973" lon="18.0926739">
+      <ele>223</ele>
+      <time>2022-01-17T23:59:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0330428" lon="18.0928795">
+      <ele>225</ele>
+      <time>2022-01-18T00:00:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0331462" lon="18.0929224">
+      <ele>226</ele>
+      <time>2022-01-18T00:00:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0332668" lon="18.0929385">
+      <ele>228</ele>
+      <time>2022-01-18T00:00:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0333323" lon="18.092917">
+      <ele>228</ele>
+      <time>2022-01-18T00:00:51Z</time>
+    </trkpt>
+    <trkpt lat="50.0334167" lon="18.0928071">
+      <ele>229</ele>
+      <time>2022-01-18T00:01:04Z</time>
+    </trkpt>
+    <trkpt lat="50.033508" lon="18.0926756">
+      <ele>229</ele>
+      <time>2022-01-18T00:01:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0336682" lon="18.0923135">
+      <ele>229</ele>
+      <time>2022-01-18T00:01:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0338285" lon="18.0919085">
+      <ele>228</ele>
+      <time>2022-01-18T00:02:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0477554" lon="18.096634">
+      <ele>235</ele>
+      <time>2022-01-18T00:29:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

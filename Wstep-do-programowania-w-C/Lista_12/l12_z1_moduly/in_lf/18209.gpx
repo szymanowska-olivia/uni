@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:07Z</time>
+    <bounds maxlat="49.590953" maxlon="19.565889" minlat="49.590557" minlon="19.565587"/>
+  </metadata>
+  <wpt lat="49.590953" lon="19.565889">
+    <ele>1050</ele>
+    <name>Mokry Stawek</name>
+    <link href="https://mapa-turystyczna.pl/node/12366">
+      <text>Mokry Stawek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.590557" lon="19.565722">
+    <ele>1066</ele>
+    <name>Mokry Stawek, rozejscie</name>
+    <link href="https://mapa-turystyczna.pl/node/12365">
+      <text>Mokry Stawek, rozejscie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mokry Stawek - Mokry Stawek, rozejscie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.590953,19.565889;49.59078250000473,19.565596999999993;49.590557,19.565722">
+    <text>Mokry Stawek - Mokry Stawek, rozejscie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.590953" lon="19.565889">
+      <ele>1050</ele>
+      <time>2022-01-18T01:27:07Z</time>
+    </trkpt>
+    <trkpt lat="49.590932" lon="19.565804">
+      <ele>1051</ele>
+      <time>2022-01-18T01:27:26Z</time>
+    </trkpt>
+    <trkpt lat="49.59092" lon="19.565744">
+      <ele>1052</ele>
+      <time>2022-01-18T01:27:40Z</time>
+    </trkpt>
+    <trkpt lat="49.590905" lon="19.565652">
+      <ele>1054</ele>
+      <time>2022-01-18T01:28:00Z</time>
+    </trkpt>
+    <trkpt lat="49.590804" lon="19.565587">
+      <ele>1058</ele>
+      <time>2022-01-18T01:28:38Z</time>
+    </trkpt>
+    <trkpt lat="49.590761" lon="19.565607">
+      <ele>1059</ele>
+      <time>2022-01-18T01:28:53Z</time>
+    </trkpt>
+    <trkpt lat="49.590677" lon="19.565684">
+      <ele>1062</ele>
+      <time>2022-01-18T01:29:25Z</time>
+    </trkpt>
+    <trkpt lat="49.590557" lon="19.565722">
+      <ele>1066</ele>
+      <time>2022-01-18T01:30:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

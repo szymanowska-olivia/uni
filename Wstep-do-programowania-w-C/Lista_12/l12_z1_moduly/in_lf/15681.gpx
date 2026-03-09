@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:43:28Z</time>
+    <bounds maxlat="49.8539544" maxlon="17.0545535" minlat="49.8536568" minlon="17.0528851"/>
+  </metadata>
+  <wpt lat="49.853657" lon="17.052885">
+    <ele>579</ele>
+    <name>Bradlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10710">
+      <text>Bradlo, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.853954" lon="17.054554">
+    <ele>585</ele>
+    <name>Bradlo</name>
+    <link href="https://mapa-turystyczna.pl/node/10711">
+      <text>Bradlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bradlo, rozc. - Bradlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.853657,17.0528851;49.85368445000792,17.053771049999973;49.8539544,17.0545535">
+    <text>Bradlo, rozc. - Bradlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.853657" lon="17.0528851">
+      <ele>579</ele>
+      <time>2022-01-18T00:43:28Z</time>
+    </trkpt>
+    <trkpt lat="49.8536568" lon="17.0535511">
+      <ele>583</ele>
+      <time>2022-01-18T00:44:35Z</time>
+    </trkpt>
+    <trkpt lat="49.8537121" lon="17.053991">
+      <ele>584</ele>
+      <time>2022-01-18T00:45:19Z</time>
+    </trkpt>
+    <trkpt lat="49.8537882" lon="17.05427">
+      <ele>584</ele>
+      <time>2022-01-18T00:45:50Z</time>
+    </trkpt>
+    <trkpt lat="49.8539544" lon="17.0545535">
+      <ele>585</ele>
+      <time>2022-01-18T00:46:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

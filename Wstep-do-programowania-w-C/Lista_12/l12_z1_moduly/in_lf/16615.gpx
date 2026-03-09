@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:43Z</time>
+    <bounds maxlat="49.2114726" maxlon="22.3368676" minlat="49.2096993" minlon="22.3341854"/>
+  </metadata>
+  <wpt lat="49.211473" lon="22.336868">
+    <ele>587</ele>
+    <name>Poczatek sciezki spacerowej "Jeleni Skok"</name>
+    <link href="https://mapa-turystyczna.pl/node/11340">
+      <text>Poczatek sciezki spacerowej "Jeleni Skok"</text>
+    </link>
+  </wpt>
+  <wpt lat="49.209699" lon="22.334185">
+    <ele>607</ele>
+    <name>Rozejscie sciezek spacerowych</name>
+    <link href="https://mapa-turystyczna.pl/node/11339">
+      <text>Rozejscie sciezek spacerowych</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Poczatek sciezki spacerowej &quot;Jeleni Skok&quot; - Rozejscie sciezek spacerowych</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2114726,22.3368676;49.21039265071748,22.334983150000003;49.2096993,22.3341854">
+    <text>Poczatek sciezki spacerowej &quot;Jeleni Skok&quot; - Rozejscie sciezek spacerowych</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2114726" lon="22.3368676">
+      <ele>587</ele>
+      <time>2022-01-18T00:59:43Z</time>
+    </trkpt>
+    <trkpt lat="49.2111426" lon="22.3362331">
+      <ele>589</ele>
+      <time>2022-01-18T01:00:46Z</time>
+    </trkpt>
+    <trkpt lat="49.210659" lon="22.3353962">
+      <ele>597</ele>
+      <time>2022-01-18T01:02:13Z</time>
+    </trkpt>
+    <trkpt lat="49.2101263" lon="22.3345701">
+      <ele>604</ele>
+      <time>2022-01-18T01:03:44Z</time>
+    </trkpt>
+    <trkpt lat="49.2096993" lon="22.3341854">
+      <ele>607</ele>
+      <time>2022-01-18T01:04:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

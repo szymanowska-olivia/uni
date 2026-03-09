@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:56Z</time>
+    <bounds maxlat="51.801202" maxlon="15.707986" minlat="51.8004815" minlon="15.7033263"/>
+  </metadata>
+  <wpt lat="51.801202" lon="15.707986">
+    <ele>66</ele>
+    <name>Nowa Sol, ul. Towarowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11218">
+      <text>Nowa Sol, ul. Towarowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.800481" lon="15.703326">
+    <ele>67</ele>
+    <name>Nowa Sol, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12789">
+      <text>Nowa Sol, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Sol, ul. Towarowa - Nowa Sol, ul. Wojska Polskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.801202,15.707986;51.80084175143926,15.705656150000022;51.8004815,15.7033263">
+    <text>Nowa Sol, ul. Towarowa - Nowa Sol, ul. Wojska Polskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.801202" lon="15.707986">
+      <ele>66</ele>
+      <time>2022-01-18T01:38:56Z</time>
+    </trkpt>
+    <trkpt lat="51.8004815" lon="15.7033263">
+      <ele>67</ele>
+      <time>2022-01-18T01:43:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:22Z</time>
+    <bounds maxlat="49.776999" maxlon="19.130227" minlat="49.776784" minlon="19.129878"/>
+  </metadata>
+  <wpt lat="49.776999" lon="19.129878">
+    <ele>908</ele>
+    <name>Magurka Wilkowicka</name>
+    <link href="https://mapa-turystyczna.pl/node/13506">
+      <text>Magurka Wilkowicka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.776784" lon="19.130227">
+    <ele>909</ele>
+    <name>Schronisko PTTK Na Magurce</name>
+    <link href="https://mapa-turystyczna.pl/node/1061">
+      <text>Schronisko PTTK Na Magurce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Magurka Wilkowicka - Schronisko PTTK Na Magurce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.776999,19.129878;49.77689150011925,19.130052500000012;49.776784,19.130227">
+    <text>Magurka Wilkowicka - Schronisko PTTK Na Magurce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.776999" lon="19.129878">
+      <ele>908</ele>
+      <time>2022-01-18T01:59:22Z</time>
+    </trkpt>
+    <trkpt lat="49.776784" lon="19.130227">
+      <ele>909</ele>
+      <time>2022-01-18T02:00:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

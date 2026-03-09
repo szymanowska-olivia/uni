@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:22:22Z</time>
+    <bounds maxlat="49.4455014" maxlon="18.4607475" minlat="49.4440949" minlon="18.4589678"/>
+  </metadata>
+  <wpt lat="49.445501" lon="18.460748">
+    <ele>537</ele>
+    <name>Vychoziste lyzarskych stop</name>
+    <link href="https://mapa-turystyczna.pl/node/7540">
+      <text>Vychoziste lyzarskych stop</text>
+    </link>
+  </wpt>
+  <wpt lat="49.444095" lon="18.458968">
+    <ele>536</ele>
+    <name>Bila, potok</name>
+    <link href="https://mapa-turystyczna.pl/node/7541">
+      <text>Bila, potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vychoziste lyzarskych stop - Bila, potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4455014,18.4607475;49.44484740013723,18.460087599999966;49.4440949,18.4589678">
+    <text>Vychoziste lyzarskych stop - Bila, potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4455014" lon="18.4607475">
+      <ele>537</ele>
+      <time>2022-01-17T23:22:22Z</time>
+    </trkpt>
+    <trkpt lat="49.4451988" lon="18.4604511">
+      <ele>535</ele>
+      <time>2022-01-17T23:22:57Z</time>
+    </trkpt>
+    <trkpt lat="49.4449634" lon="18.4602284">
+      <ele>534</ele>
+      <time>2022-01-17T23:23:24Z</time>
+    </trkpt>
+    <trkpt lat="49.4447314" lon="18.4599468">
+      <ele>537</ele>
+      <time>2022-01-17T23:23:53Z</time>
+    </trkpt>
+    <trkpt lat="49.4445065" lon="18.4596518">
+      <ele>537</ele>
+      <time>2022-01-17T23:24:22Z</time>
+    </trkpt>
+    <trkpt lat="49.4443478" lon="18.4594157">
+      <ele>536</ele>
+      <time>2022-01-17T23:24:44Z</time>
+    </trkpt>
+    <trkpt lat="49.444156" lon="18.4591126">
+      <ele>535</ele>
+      <time>2022-01-17T23:25:11Z</time>
+    </trkpt>
+    <trkpt lat="49.4440949" lon="18.4589678">
+      <ele>536</ele>
+      <time>2022-01-17T23:25:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:03Z</time>
+    <bounds maxlat="49.439797" maxlon="21.248259" minlat="49.439362" minlon="21.247058"/>
+  </metadata>
+  <wpt lat="49.439362" lon="21.247058">
+    <ele>652</ele>
+    <name>Przelecz Regetowska, wiata</name>
+    <link href="https://mapa-turystyczna.pl/node/4913">
+      <text>Przelecz Regetowska, wiata</text>
+    </link>
+  </wpt>
+  <wpt lat="49.439797" lon="21.248259">
+    <ele>646</ele>
+    <name>Przelecz Regetowska</name>
+    <link href="https://mapa-turystyczna.pl/node/523">
+      <text>Przelecz Regetowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Regetowska, wiata - Przelecz Regetowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.439362,21.247058;49.43958800003199,21.247786499999993;49.439797,21.248259">
+    <text>Przelecz Regetowska, wiata - Przelecz Regetowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.439362" lon="21.247058">
+      <ele>652</ele>
+      <time>2022-01-17T22:20:03Z</time>
+    </trkpt>
+    <trkpt lat="49.439459" lon="21.247368">
+      <ele>651</ele>
+      <time>2022-01-17T22:20:33Z</time>
+    </trkpt>
+    <trkpt lat="49.439532" lon="21.247599">
+      <ele>650</ele>
+      <time>2022-01-17T22:20:55Z</time>
+    </trkpt>
+    <trkpt lat="49.439644" lon="21.247974">
+      <ele>648</ele>
+      <time>2022-01-17T22:21:31Z</time>
+    </trkpt>
+    <trkpt lat="49.439797" lon="21.248259">
+      <ele>646</ele>
+      <time>2022-01-17T22:22:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

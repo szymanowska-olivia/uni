@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:21Z</time>
+    <bounds maxlat="52.3068031" maxlon="20.6120359" minlat="52.305666" minlon="20.6113516"/>
+  </metadata>
+  <wpt lat="52.306803" lon="20.611352">
+    <ele>80</ele>
+    <name>Roztoka, polana</name>
+    <link href="https://mapa-turystyczna.pl/node/12405">
+      <text>Roztoka, polana</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305666" lon="20.612036">
+    <ele>85</ele>
+    <name>Rozejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12407">
+      <text>Rozejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Roztoka, polana - Rozejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3068031,20.6113516;52.30647490121651,20.61158685000001;52.305666,20.6120359">
+    <text>Roztoka, polana - Rozejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3068031" lon="20.6113516">
+      <ele>80</ele>
+      <time>2022-01-18T01:28:21Z</time>
+    </trkpt>
+    <trkpt lat="52.3061467" lon="20.6118221">
+      <ele>83</ele>
+      <time>2022-01-18T01:30:07Z</time>
+    </trkpt>
+    <trkpt lat="52.305666" lon="20.6120359">
+      <ele>85</ele>
+      <time>2022-01-18T01:31:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

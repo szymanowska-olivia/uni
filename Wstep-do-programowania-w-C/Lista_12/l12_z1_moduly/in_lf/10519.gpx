@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:29Z</time>
+    <bounds maxlat="49.5827408" maxlon="18.4790602" minlat="49.5817965" minlon="18.4788778"/>
+  </metadata>
+  <wpt lat="49.582741" lon="18.478972">
+    <ele>491</ele>
+    <name>Krasna, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7488">
+      <text>Krasna, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.581797" lon="18.47906">
+    <ele>495</ele>
+    <name>Krasna</name>
+    <link href="https://mapa-turystyczna.pl/node/7487">
+      <text>Krasna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krasna, rozc. - Krasna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5827408,18.4789717;49.582219951837445,18.478973049999965;49.5817965,18.4790602">
+    <text>Krasna, rozc. - Krasna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5827408" lon="18.4789717">
+      <ele>491</ele>
+      <time>2022-01-17T23:17:29Z</time>
+    </trkpt>
+    <trkpt lat="49.5827286" lon="18.4788778">
+      <ele>491</ele>
+      <time>2022-01-17T23:17:36Z</time>
+    </trkpt>
+    <trkpt lat="49.5826434" lon="18.4788859">
+      <ele>492</ele>
+      <time>2022-01-17T23:17:47Z</time>
+    </trkpt>
+    <trkpt lat="49.5817965" lon="18.4790602">
+      <ele>495</ele>
+      <time>2022-01-17T23:19:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

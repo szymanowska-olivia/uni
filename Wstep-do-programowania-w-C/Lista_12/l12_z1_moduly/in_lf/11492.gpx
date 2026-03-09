@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:31Z</time>
+    <bounds maxlat="50.8173408" maxlon="16.1687047" minlat="50.8161986" minlon="16.1678401"/>
+  </metadata>
+  <wpt lat="50.816204" lon="16.16784">
+    <ele>650</ele>
+    <name>Skrzyzowanie szlakow czerwony / zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/8066">
+      <text>Skrzyzowanie szlakow czerwony / zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.817341" lon="16.168705">
+    <ele>643</ele>
+    <name>Przy Czeresni</name>
+    <link href="https://mapa-turystyczna.pl/node/2563">
+      <text>Przy Czeresni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / zielony / zolty - Przy Czeresni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8162037,16.1678401;50.816757800399635,16.168543649999982;50.8173408,16.1687047">
+    <text>Skrzyzowanie szlakow czerwony / zielony / zolty - Przy Czeresni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8162037" lon="16.1678401">
+      <ele>650</ele>
+      <time>2022-01-17T23:35:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8161986" lon="16.1678624">
+      <ele>650</ele>
+      <time>2022-01-17T23:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8162732" lon="16.1682486">
+      <ele>645</ele>
+      <time>2022-01-17T23:35:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8163376" lon="16.1684471">
+      <ele>644</ele>
+      <time>2022-01-17T23:36:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8164647" lon="16.1685678">
+      <ele>643</ele>
+      <time>2022-01-17T23:36:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8165646" lon="16.1685812">
+      <ele>644</ele>
+      <time>2022-01-17T23:36:25Z</time>
+    </trkpt>
+    <trkpt lat="50.816951" lon="16.1685061">
+      <ele>643</ele>
+      <time>2022-01-17T23:36:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8173408" lon="16.1687047">
+      <ele>643</ele>
+      <time>2022-01-17T23:37:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

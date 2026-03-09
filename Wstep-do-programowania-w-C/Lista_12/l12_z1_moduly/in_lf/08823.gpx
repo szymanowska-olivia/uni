@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:52Z</time>
+    <bounds maxlat="50.4108012" maxlon="16.1027974" minlat="50.4100457" minlon="16.1003888"/>
+  </metadata>
+  <wpt lat="50.410801" lon="16.100389">
+    <ele>343</ele>
+    <name>Starkoc, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6141">
+      <text>Starkoc, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.410046" lon="16.102749">
+    <ele>334</ele>
+    <name>Starkoc</name>
+    <link href="https://mapa-turystyczna.pl/node/6142">
+      <text>Starkoc</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Starkoc, zeleznicni stanice - Starkoc</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4108012,16.1003888;50.41063375002419,16.101944450000012;50.4100457,16.1027491">
+    <text>Starkoc, zeleznicni stanice - Starkoc</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4108012" lon="16.1003888">
+      <ele>343</ele>
+      <time>2022-01-17T22:45:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4106816" lon="16.1013436">
+      <ele>342</ele>
+      <time>2022-01-17T22:46:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4105859" lon="16.1025453">
+      <ele>342</ele>
+      <time>2022-01-17T22:47:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4104953" lon="16.102725">
+      <ele>341</ele>
+      <time>2022-01-17T22:48:11Z</time>
+    </trkpt>
+    <trkpt lat="50.4103021" lon="16.1027974">
+      <ele>337</ele>
+      <time>2022-01-17T22:48:29Z</time>
+    </trkpt>
+    <trkpt lat="50.4100457" lon="16.1027491">
+      <ele>334</ele>
+      <time>2022-01-17T22:48:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

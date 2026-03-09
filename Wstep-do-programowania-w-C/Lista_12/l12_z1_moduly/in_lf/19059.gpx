@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:48Z</time>
+    <bounds maxlat="49.723326" maxlon="20.158261" minlat="49.722599" minlon="20.155973"/>
+  </metadata>
+  <wpt lat="49.722599" lon="20.155973">
+    <ele>572</ele>
+    <name>Kasina Wielka, poczatek szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/12902">
+      <text>Kasina Wielka, poczatek szlaku zoltego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.723326" lon="20.158261">
+    <ele>573</ele>
+    <name>Kasina Wielka, tory</name>
+    <link href="https://mapa-turystyczna.pl/node/3995">
+      <text>Kasina Wielka, tory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kasina Wielka, poczatek szlaku zoltego - Kasina Wielka, tory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.722599,20.155973;49.72291100014584,20.1567585;49.723326,20.158261">
+    <text>Kasina Wielka, poczatek szlaku zoltego - Kasina Wielka, tory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.722599" lon="20.155973">
+      <ele>572</ele>
+      <time>2022-01-18T01:41:48Z</time>
+    </trkpt>
+    <trkpt lat="49.722792" lon="20.156446">
+      <ele>571</ele>
+      <time>2022-01-18T01:42:27Z</time>
+    </trkpt>
+    <trkpt lat="49.72303" lon="20.157071">
+      <ele>571</ele>
+      <time>2022-01-18T01:43:18Z</time>
+    </trkpt>
+    <trkpt lat="49.723208" lon="20.157732">
+      <ele>573</ele>
+      <time>2022-01-18T01:44:09Z</time>
+    </trkpt>
+    <trkpt lat="49.723326" lon="20.158261">
+      <ele>573</ele>
+      <time>2022-01-18T01:44:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

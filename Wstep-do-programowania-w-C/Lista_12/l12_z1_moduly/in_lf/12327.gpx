@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:48:35Z</time>
+    <bounds maxlat="51.0324345" maxlon="19.8750221" minlat="51.0308017" minlon="19.8741209"/>
+  </metadata>
+  <wpt lat="51.032435" lon="19.875022">
+    <ele>209</ele>
+    <name>Stanica harcerska Bialy Brzeg</name>
+    <link href="https://mapa-turystyczna.pl/node/8482">
+      <text>Stanica harcerska Bialy Brzeg</text>
+    </link>
+  </wpt>
+  <wpt lat="51.030802" lon="19.874121">
+    <ele>208</ele>
+    <name>Mlynska Struga</name>
+    <link href="https://mapa-turystyczna.pl/node/8483">
+      <text>Mlynska Struga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stanica harcerska Bialy Brzeg - Mlynska Struga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0324345,19.8750221;51.03134415082572,19.87447059999999;51.0308017,19.8741209">
+    <text>Stanica harcerska Bialy Brzeg - Mlynska Struga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0324345" lon="19.8750221">
+      <ele>209</ele>
+      <time>2022-01-17T23:48:35Z</time>
+    </trkpt>
+    <trkpt lat="51.0316208" lon="19.8745779">
+      <ele>207</ele>
+      <time>2022-01-17T23:50:04Z</time>
+    </trkpt>
+    <trkpt lat="51.0310675" lon="19.8743633">
+      <ele>206</ele>
+      <time>2022-01-17T23:51:03Z</time>
+    </trkpt>
+    <trkpt lat="51.0308017" lon="19.8741209">
+      <ele>208</ele>
+      <time>2022-01-17T23:51:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:10Z</time>
+    <bounds maxlat="50.0642486" maxlon="18.2779555" minlat="50.0635511" minlon="18.2769676"/>
+  </metadata>
+  <wpt lat="50.063551" lon="18.276968">
+    <ele>285</ele>
+    <name>Las Widok</name>
+    <link href="https://mapa-turystyczna.pl/node/9556">
+      <text>Las Widok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.064249" lon="18.277956">
+    <ele>277</ele>
+    <name>Pogwizdow, ul. Gajowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9651">
+      <text>Pogwizdow, ul. Gajowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Widok - Pogwizdow, ul. Gajowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0635511,18.2769676;50.063739250369004,18.277236050000017;50.0642486,18.2779555">
+    <text>Las Widok - Pogwizdow, ul. Gajowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0635511" lon="18.2769676">
+      <ele>285</ele>
+      <time>2022-01-18T00:17:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0639274" lon="18.2775045">
+      <ele>285</ele>
+      <time>2022-01-18T00:18:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0642486" lon="18.2779555">
+      <ele>277</ele>
+      <time>2022-01-18T00:19:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

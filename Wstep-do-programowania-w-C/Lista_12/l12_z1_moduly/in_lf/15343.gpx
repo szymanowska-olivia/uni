@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:39Z</time>
+    <bounds maxlat="51.6961635" maxlon="17.4364708" minlat="51.6961077" minlon="17.4346361"/>
+  </metadata>
+  <wpt lat="51.696108" lon="17.436471">
+    <ele>134</ele>
+    <name>Krotoszyn</name>
+    <link href="https://mapa-turystyczna.pl/node/10474">
+      <text>Krotoszyn</text>
+    </link>
+  </wpt>
+  <wpt lat="51.696151" lon="17.434636">
+    <ele>131</ele>
+    <name>Krotoszyn, Maly Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/10475">
+      <text>Krotoszyn, Maly Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krotoszyn - Krotoszyn, Maly Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6961077,17.4364708;51.69613560000858,17.435874500000004;51.696151,17.4346361">
+    <text>Krotoszyn - Krotoszyn, Maly Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6961077" lon="17.4364708">
+      <ele>134</ele>
+      <time>2022-01-18T00:37:39Z</time>
+    </trkpt>
+    <trkpt lat="51.6961635" lon="17.4352782">
+      <ele>133</ele>
+      <time>2022-01-18T00:38:57Z</time>
+    </trkpt>
+    <trkpt lat="51.6961635" lon="17.4348115">
+      <ele>131</ele>
+      <time>2022-01-18T00:39:27Z</time>
+    </trkpt>
+    <trkpt lat="51.696151" lon="17.4346361">
+      <ele>131</ele>
+      <time>2022-01-18T00:39:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

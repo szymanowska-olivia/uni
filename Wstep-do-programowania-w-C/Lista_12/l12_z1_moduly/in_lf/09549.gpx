@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:59:36Z</time>
+    <bounds maxlat="48.7836251" maxlon="19.1590217" minlat="48.7828651" minlon="19.1559935"/>
+  </metadata>
+  <wpt lat="48.783625" lon="19.155994">
+    <ele>703</ele>
+    <name>Netopieria jaskyna</name>
+    <link href="https://mapa-turystyczna.pl/node/6713">
+      <text>Netopieria jaskyna</text>
+    </link>
+  </wpt>
+  <wpt lat="48.782865" lon="19.159022">
+    <ele>738</ele>
+    <name>Hradok, luka</name>
+    <link href="https://mapa-turystyczna.pl/node/6486">
+      <text>Hradok, luka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Netopieria jaskyna - Hradok, luka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.7836251,19.1559935;48.783245101438595,19.157507600000034;48.7828651,19.1590217">
+    <text>Netopieria jaskyna - Hradok, luka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.7836251" lon="19.1559935">
+      <ele>703</ele>
+      <time>2022-01-17T22:59:36Z</time>
+    </trkpt>
+    <trkpt lat="48.7828651" lon="19.1590217">
+      <ele>738</ele>
+      <time>2022-01-17T23:04:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

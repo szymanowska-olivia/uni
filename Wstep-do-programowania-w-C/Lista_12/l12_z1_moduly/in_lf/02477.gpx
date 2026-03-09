@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:56Z</time>
+    <bounds maxlat="50.4934256" maxlon="16.4576697" minlat="50.4900198" minlon="16.4558566"/>
+  </metadata>
+  <wpt lat="50.493426" lon="16.45767">
+    <ele>359</ele>
+    <name>Wambierzyce, ul. Lukowa</name>
+    <link href="https://mapa-turystyczna.pl/node/1804">
+      <text>Wambierzyce, ul. Lukowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.49002" lon="16.455857">
+    <ele>365</ele>
+    <name>Wambierzyce</name>
+    <link href="https://mapa-turystyczna.pl/node/1787">
+      <text>Wambierzyce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wambierzyce, ul. Lukowa - Wambierzyce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4934256,16.4576697;50.4915188031851,16.456826149999983;50.4900198,16.4558566">
+    <text>Wambierzyce, ul. Lukowa - Wambierzyce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4934256" lon="16.4576697">
+      <ele>359</ele>
+      <time>2022-01-17T21:16:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4920674" lon="16.4570582">
+      <ele>359</ele>
+      <time>2022-01-17T21:18:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4909702" lon="16.4565941">
+      <ele>361</ele>
+      <time>2022-01-17T21:20:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4902953" lon="16.4561583">
+      <ele>363</ele>
+      <time>2022-01-17T21:21:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4900914" lon="16.4560979">
+      <ele>363</ele>
+      <time>2022-01-17T21:21:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4900198" lon="16.4558566">
+      <ele>365</ele>
+      <time>2022-01-17T21:21:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

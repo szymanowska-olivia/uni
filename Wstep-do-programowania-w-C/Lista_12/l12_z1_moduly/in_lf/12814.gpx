@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:48Z</time>
+    <bounds maxlat="50.8294422" maxlon="15.2182768" minlat="50.8258215" minlon="15.2117567"/>
+  </metadata>
+  <wpt lat="50.825822" lon="15.211757">
+    <ele>1079</ele>
+    <name>Cerna hora kristianovska</name>
+    <link href="https://mapa-turystyczna.pl/node/8812">
+      <text>Cerna hora kristianovska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.829442" lon="15.218277">
+    <ele>1048</ele>
+    <name>Snezne vezicky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8813">
+      <text>Snezne vezicky, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerna hora kristianovska - Snezne vezicky, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8258215,15.2117567;50.827366375560956,15.21453945000002;50.8294422,15.2182768">
+    <text>Cerna hora kristianovska - Snezne vezicky, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8258215" lon="15.2117567">
+      <ele>1079</ele>
+      <time>2022-01-17T23:56:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8289112" lon="15.2173222">
+      <ele>1047</ele>
+      <time>2022-01-18T00:05:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8293415" lon="15.2181644">
+      <ele>1048</ele>
+      <time>2022-01-18T00:06:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8294422" lon="15.2182768">
+      <ele>1048</ele>
+      <time>2022-01-18T00:06:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

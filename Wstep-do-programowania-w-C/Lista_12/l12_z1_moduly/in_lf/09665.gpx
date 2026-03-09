@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:53Z</time>
+    <bounds maxlat="50.037345" maxlon="16.5024573" minlat="50.0360116" minlon="16.4998823"/>
+  </metadata>
+  <wpt lat="50.036012" lon="16.499882">
+    <ele>373</ele>
+    <name>Letohrad</name>
+    <link href="https://mapa-turystyczna.pl/node/6781">
+      <text>Letohrad</text>
+    </link>
+  </wpt>
+  <wpt lat="50.037345" lon="16.502457">
+    <ele>361</ele>
+    <name>Letohrad, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6782">
+      <text>Letohrad, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Letohrad - Letohrad, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0360116,16.4998823;50.036480202286654,16.50045899999999;50.037345,16.5024573">
+    <text>Letohrad - Letohrad, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0360116" lon="16.4998823">
+      <ele>373</ele>
+      <time>2022-01-17T23:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0369488" lon="16.5010357">
+      <ele>362</ele>
+      <time>2022-01-17T23:04:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0371176" lon="16.5015775">
+      <ele>362</ele>
+      <time>2022-01-17T23:05:30Z</time>
+    </trkpt>
+    <trkpt lat="50.037345" lon="16.5024573">
+      <ele>361</ele>
+      <time>2022-01-17T23:06:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

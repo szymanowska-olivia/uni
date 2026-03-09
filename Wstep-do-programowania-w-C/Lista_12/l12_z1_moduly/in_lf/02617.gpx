@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:21Z</time>
+    <bounds maxlat="50.3731916" maxlon="16.3127285" minlat="50.3725655" minlon="16.3099819"/>
+  </metadata>
+  <wpt lat="50.373192" lon="16.309982">
+    <ele>606</ele>
+    <name>Olesnice v Orlickych horach</name>
+    <link href="https://mapa-turystyczna.pl/node/1873">
+      <text>Olesnice v Orlickych horach</text>
+    </link>
+  </wpt>
+  <wpt lat="50.372566" lon="16.312728">
+    <ele>605</ele>
+    <name>Olesnice v Orlickych horach, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/1872">
+      <text>Olesnice v Orlickych horach, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Olesnice v Orlickych horach - Olesnice v Orlickych horach, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3731916,16.3099819;50.37277895048016,16.311911099999985;50.3725655,16.3127285">
+    <text>Olesnice v Orlickych horach - Olesnice v Orlickych horach, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3731916" lon="16.3099819">
+      <ele>606</ele>
+      <time>2022-01-17T21:18:21Z</time>
+    </trkpt>
+    <trkpt lat="50.3729924" lon="16.3110937">
+      <ele>604</ele>
+      <time>2022-01-17T21:19:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3725655" lon="16.3127285">
+      <ele>605</ele>
+      <time>2022-01-17T21:21:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

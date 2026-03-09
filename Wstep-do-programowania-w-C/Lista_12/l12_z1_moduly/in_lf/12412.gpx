@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:49:56Z</time>
+    <bounds maxlat="53.9366895" maxlon="14.4578342" minlat="53.9363278" minlon="14.4572473"/>
+  </metadata>
+  <wpt lat="53.936328" lon="14.457247">
+    <ele>10</ele>
+    <name>Miedzyzdroje, Promenada Gwiazd</name>
+    <link href="https://mapa-turystyczna.pl/node/8534">
+      <text>Miedzyzdroje, Promenada Gwiazd</text>
+    </link>
+  </wpt>
+  <wpt lat="53.936689" lon="14.457834">
+    <ele>8</ele>
+    <name>Miedzyzdroje, dawna remiza</name>
+    <link href="https://mapa-turystyczna.pl/node/8535">
+      <text>Miedzyzdroje, dawna remiza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje, Promenada Gwiazd - Miedzyzdroje, dawna remiza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9363278,14.4572473;53.93650865039194,14.457540749999964;53.9366895,14.4578342">
+    <text>Miedzyzdroje, Promenada Gwiazd - Miedzyzdroje, dawna remiza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9363278" lon="14.4572473">
+      <ele>10</ele>
+      <time>2022-01-17T23:49:56Z</time>
+    </trkpt>
+    <trkpt lat="53.9366895" lon="14.4578342">
+      <ele>8</ele>
+      <time>2022-01-17T23:50:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

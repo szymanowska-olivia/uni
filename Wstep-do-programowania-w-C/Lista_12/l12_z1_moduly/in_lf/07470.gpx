@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:23:46Z</time>
+    <bounds maxlat="49.146201" maxlon="19.092321" minlat="49.143353" minlon="19.090676"/>
+  </metadata>
+  <wpt lat="49.146201" lon="19.092321">
+    <ele>431</ele>
+    <name>Sutovo, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5085">
+      <text>Sutovo, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.143353" lon="19.090676">
+    <ele>446</ele>
+    <name>Sutovo, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/5084">
+      <text>Sutovo, vlak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sutovo, razc. - Sutovo, vlak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.146201,19.092321;49.14422700770754,19.091197;49.143353,19.090676">
+    <text>Sutovo, razc. - Sutovo, vlak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.146201" lon="19.092321">
+      <ele>431</ele>
+      <time>2022-01-17T22:23:46Z</time>
+    </trkpt>
+    <trkpt lat="49.145101" lon="19.091718">
+      <ele>443</ele>
+      <time>2022-01-17T22:25:41Z</time>
+    </trkpt>
+    <trkpt lat="49.143353" lon="19.090676">
+      <ele>446</ele>
+      <time>2022-01-17T22:28:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:45:24Z</time>
+    <bounds maxlat="52.4717035" maxlon="15.1801848" minlat="52.4715532" minlon="15.1786127"/>
+  </metadata>
+  <wpt lat="52.471569" lon="15.180185">
+    <ele>71</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13020">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.471637" lon="15.178613">
+    <ele>72</ele>
+    <name>Gorski Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/13027">
+      <text>Gorski Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Gorski Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4715687,15.1801848;52.47164635001603,15.179361649999986;52.4716374,15.1786127">
+    <text>Rozejscie szlakow - Gorski Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4715687" lon="15.1801848">
+      <ele>71</ele>
+      <time>2022-01-18T01:45:24Z</time>
+    </trkpt>
+    <trkpt lat="52.4715532" lon="15.1797425">
+      <ele>72</ele>
+      <time>2022-01-18T01:45:56Z</time>
+    </trkpt>
+    <trkpt lat="52.4716088" lon="15.1794636">
+      <ele>72</ele>
+      <time>2022-01-18T01:46:18Z</time>
+    </trkpt>
+    <trkpt lat="52.4716839" lon="15.1792597">
+      <ele>70</ele>
+      <time>2022-01-18T01:46:35Z</time>
+    </trkpt>
+    <trkpt lat="52.4717035" lon="15.1790559">
+      <ele>70</ele>
+      <time>2022-01-18T01:46:51Z</time>
+    </trkpt>
+    <trkpt lat="52.4716374" lon="15.1786127">
+      <ele>72</ele>
+      <time>2022-01-18T01:47:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

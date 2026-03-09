@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:25Z</time>
+    <bounds maxlat="50.3185159" maxlon="18.4524958" minlat="50.298969" minlon="18.4298458"/>
+  </metadata>
+  <wpt lat="50.298969" lon="18.452496">
+    <ele>244</ele>
+    <name>Droga Sierakowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9660">
+      <text>Droga Sierakowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.318516" lon="18.429956">
+    <ele>231</ele>
+    <name>Lacza, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9661">
+      <text>Lacza, pomnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Sierakowska - Lacza, pomnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.298969,18.4524958;50.30945040821502,18.440769800000005;50.3185159,18.4299562">
+    <text>Droga Sierakowska - Lacza, pomnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.298969" lon="18.4524958">
+      <ele>244</ele>
+      <time>2022-01-18T00:17:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3066205" lon="18.4444927">
+      <ele>240</ele>
+      <time>2022-01-18T00:32:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3074017" lon="18.4437846">
+      <ele>241</ele>
+      <time>2022-01-18T00:33:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3085665" lon="18.4422182">
+      <ele>239</ele>
+      <time>2022-01-18T00:36:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3103343" lon="18.4393214">
+      <ele>238</ele>
+      <time>2022-01-18T00:40:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3117813" lon="18.4373882">
+      <ele>237</ele>
+      <time>2022-01-18T00:43:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3174197" lon="18.430157">
+      <ele>230</ele>
+      <time>2022-01-18T00:55:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3177554" lon="18.4298673">
+      <ele>231</ele>
+      <time>2022-01-18T00:56:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3181665" lon="18.4298458">
+      <ele>231</ele>
+      <time>2022-01-18T00:56:50Z</time>
+    </trkpt>
+    <trkpt lat="50.3183103" lon="18.429878">
+      <ele>231</ele>
+      <time>2022-01-18T00:57:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3185159" lon="18.4299562">
+      <ele>231</ele>
+      <time>2022-01-18T00:57:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

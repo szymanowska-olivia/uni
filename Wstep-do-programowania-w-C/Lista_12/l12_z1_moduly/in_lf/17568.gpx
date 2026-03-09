@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:36Z</time>
+    <bounds maxlat="52.0297919" maxlon="21.0545092" minlat="52.0281153" minlon="21.0530428"/>
+  </metadata>
+  <wpt lat="52.029792" lon="21.054041">
+    <ele>107</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11923">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.028115" lon="21.053043">
+    <ele>106</ele>
+    <name>Zalesie Gorne, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11924">
+      <text>Zalesie Gorne, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zolty / czarny - Zalesie Gorne, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0297919,21.0540406;52.02857355107555,21.054504950000013;52.0281153,21.0530428">
+    <text>Skrzyzowanie szlakow zolty / czarny - Zalesie Gorne, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0297919" lon="21.0540406">
+      <ele>107</ele>
+      <time>2022-01-18T01:15:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0294219" lon="21.0543805">
+      <ele>107</ele>
+      <time>2022-01-18T01:16:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0288837" lon="21.0545007">
+      <ele>106</ele>
+      <time>2022-01-18T01:17:31Z</time>
+    </trkpt>
+    <trkpt lat="52.0282634" lon="21.0545092">
+      <ele>105</ele>
+      <time>2022-01-18T01:18:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0282764" lon="21.0541413">
+      <ele>103</ele>
+      <time>2022-01-18T01:19:13Z</time>
+    </trkpt>
+    <trkpt lat="52.0282436" lon="21.053726">
+      <ele>101</ele>
+      <time>2022-01-18T01:19:43Z</time>
+    </trkpt>
+    <trkpt lat="52.0281153" lon="21.0530428">
+      <ele>106</ele>
+      <time>2022-01-18T01:20:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

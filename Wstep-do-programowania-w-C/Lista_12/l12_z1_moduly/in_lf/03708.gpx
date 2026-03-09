@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:33:30Z</time>
+    <bounds maxlat="50.8228039" maxlon="16.3910275" minlat="50.8185779" minlon="16.3879001"/>
+  </metadata>
+  <wpt lat="50.822804" lon="16.3879">
+    <ele>319</ele>
+    <name>Pod Sowina</name>
+    <link href="https://mapa-turystyczna.pl/node/2584">
+      <text>Pod Sowina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.818578" lon="16.391027">
+    <ele>306</ele>
+    <name>Witoszow Gorny</name>
+    <link href="https://mapa-turystyczna.pl/node/2578">
+      <text>Witoszow Gorny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sowina - Witoszow Gorny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8228039,16.3879001;50.82070025049198,16.390318150000006;50.8185779,16.3910275">
+    <text>Pod Sowina - Witoszow Gorny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8228039" lon="16.3879001">
+      <ele>319</ele>
+      <time>2022-01-17T21:33:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8222511" lon="16.3888556">
+      <ele>322</ele>
+      <time>2022-01-17T21:35:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8209146" lon="16.3901559">
+      <ele>322</ele>
+      <time>2022-01-17T21:38:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8204859" lon="16.3904804">
+      <ele>320</ele>
+      <time>2022-01-17T21:39:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8199691" lon="16.3907101">
+      <ele>317</ele>
+      <time>2022-01-17T21:40:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8195234" lon="16.390693">
+      <ele>312</ele>
+      <time>2022-01-17T21:41:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8191743" lon="16.3906802">
+      <ele>309</ele>
+      <time>2022-01-17T21:42:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8187846" lon="16.3909659">
+      <ele>307</ele>
+      <time>2022-01-17T21:43:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8185779" lon="16.3910275">
+      <ele>306</ele>
+      <time>2022-01-17T21:43:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

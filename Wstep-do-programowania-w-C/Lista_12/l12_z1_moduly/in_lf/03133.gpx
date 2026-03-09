@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:32Z</time>
+    <bounds maxlat="49.197121" maxlon="19.748988" minlat="49.196475" minlon="19.748123"/>
+  </metadata>
+  <wpt lat="49.196475" lon="19.748988">
+    <ele>2075</ele>
+    <name>Placlivo, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/1511">
+      <text>Placlivo, razcestie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.197121" lon="19.748123">
+    <ele>2125</ele>
+    <name>Placlivy Rohac</name>
+    <link href="https://mapa-turystyczna.pl/node/2231">
+      <text>Placlivy Rohac</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Placlivo, razcestie - Placlivy Rohac</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.196475,19.748988;49.1968810000131,19.748551999999986;49.197121,19.748123">
+    <text>Placlivo, razcestie - Placlivy Rohac</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.196475" lon="19.748988">
+      <ele>2075</ele>
+      <time>2022-01-17T21:25:32Z</time>
+    </trkpt>
+    <trkpt lat="49.196552" lon="19.748926">
+      <ele>2082</ele>
+      <time>2022-01-17T21:26:02Z</time>
+    </trkpt>
+    <trkpt lat="49.196678" lon="19.748753">
+      <ele>2094</ele>
+      <time>2022-01-17T21:26:58Z</time>
+    </trkpt>
+    <trkpt lat="49.19672" lon="19.748716">
+      <ele>2097</ele>
+      <time>2022-01-17T21:27:13Z</time>
+    </trkpt>
+    <trkpt lat="49.196753" lon="19.74859">
+      <ele>2101</ele>
+      <time>2022-01-17T21:27:40Z</time>
+    </trkpt>
+    <trkpt lat="49.196781" lon="19.748578">
+      <ele>2103</ele>
+      <time>2022-01-17T21:27:49Z</time>
+    </trkpt>
+    <trkpt lat="49.196845" lon="19.748577">
+      <ele>2107</ele>
+      <time>2022-01-17T21:28:10Z</time>
+    </trkpt>
+    <trkpt lat="49.196917" lon="19.748527">
+      <ele>2112</ele>
+      <time>2022-01-17T21:28:35Z</time>
+    </trkpt>
+    <trkpt lat="49.197023" lon="19.74852">
+      <ele>2114</ele>
+      <time>2022-01-17T21:29:05Z</time>
+    </trkpt>
+    <trkpt lat="49.197116" lon="19.748375">
+      <ele>2119</ele>
+      <time>2022-01-17T21:29:44Z</time>
+    </trkpt>
+    <trkpt lat="49.197121" lon="19.748123">
+      <ele>2125</ele>
+      <time>2022-01-17T21:30:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

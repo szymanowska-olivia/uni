@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:13:16Z</time>
+    <bounds maxlat="49.620004" maxlon="19.848098" minlat="49.619359" minlon="19.845532"/>
+  </metadata>
+  <wpt lat="49.619856" lon="19.845532">
+    <ele>599</ele>
+    <name>Wysoka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7222">
+      <text>Wysoka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.619359" lon="19.848098">
+    <ele>582</ele>
+    <name>Wysoka</name>
+    <link href="https://mapa-turystyczna.pl/node/989">
+      <text>Wysoka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wysoka, rozejscie szlakow - Wysoka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.619856,19.845532;49.61992250001293,19.846868499999996;49.619359,19.848098">
+    <text>Wysoka, rozejscie szlakow - Wysoka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.619856" lon="19.845532">
+      <ele>599</ele>
+      <time>2022-01-17T23:13:16Z</time>
+    </trkpt>
+    <trkpt lat="49.619939" lon="19.845765">
+      <ele>597</ele>
+      <time>2022-01-17T23:13:32Z</time>
+    </trkpt>
+    <trkpt lat="49.620001" lon="19.846024">
+      <ele>595</ele>
+      <time>2022-01-17T23:13:50Z</time>
+    </trkpt>
+    <trkpt lat="49.620004" lon="19.84632">
+      <ele>594</ele>
+      <time>2022-01-17T23:14:08Z</time>
+    </trkpt>
+    <trkpt lat="49.619958" lon="19.846728">
+      <ele>591</ele>
+      <time>2022-01-17T23:14:33Z</time>
+    </trkpt>
+    <trkpt lat="49.619887" lon="19.847009">
+      <ele>588</ele>
+      <time>2022-01-17T23:14:52Z</time>
+    </trkpt>
+    <trkpt lat="49.619748" lon="19.847313">
+      <ele>586</ele>
+      <time>2022-01-17T23:15:15Z</time>
+    </trkpt>
+    <trkpt lat="49.619728" lon="19.847353">
+      <ele>585</ele>
+      <time>2022-01-17T23:15:18Z</time>
+    </trkpt>
+    <trkpt lat="49.619497" lon="19.847819">
+      <ele>584</ele>
+      <time>2022-01-17T23:15:54Z</time>
+    </trkpt>
+    <trkpt lat="49.619359" lon="19.848098">
+      <ele>582</ele>
+      <time>2022-01-17T23:16:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

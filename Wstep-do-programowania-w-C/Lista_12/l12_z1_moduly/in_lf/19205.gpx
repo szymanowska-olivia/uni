@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:03Z</time>
+    <bounds maxlat="51.4949441" maxlon="23.5493653" minlat="51.4917553" minlon="23.5449582"/>
+  </metadata>
+  <wpt lat="51.491755" lon="23.549365">
+    <ele>163</ele>
+    <name>Okuninka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12974">
+      <text>Okuninka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.494944" lon="23.544958">
+    <ele>161</ele>
+    <name>Okuninka</name>
+    <link href="https://mapa-turystyczna.pl/node/12975">
+      <text>Okuninka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okuninka, rozejscie szlakow - Okuninka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4917553,23.5493653;51.49318055027018,23.54650685000003;51.4949441,23.5449582">
+    <text>Okuninka, rozejscie szlakow - Okuninka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4917553" lon="23.5493653">
+      <ele>163</ele>
+      <time>2022-01-18T01:44:03Z</time>
+    </trkpt>
+    <trkpt lat="51.4930236" lon="23.546708">
+      <ele>159</ele>
+      <time>2022-01-18T01:46:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4933375" lon="23.5463057">
+      <ele>159</ele>
+      <time>2022-01-18T01:46:56Z</time>
+    </trkpt>
+    <trkpt lat="51.4948823" lon="23.5451267">
+      <ele>161</ele>
+      <time>2022-01-18T01:48:55Z</time>
+    </trkpt>
+    <trkpt lat="51.4949441" lon="23.5449582">
+      <ele>161</ele>
+      <time>2022-01-18T01:49:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

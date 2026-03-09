@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:55:40Z</time>
+    <bounds maxlat="49.763931" maxlon="19.001011" minlat="49.761492" minlon="18.998962"/>
+  </metadata>
+  <wpt lat="49.763931" lon="19.001011">
+    <ele>859</ele>
+    <name>Pod Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/793">
+      <text>Pod Szyndzielnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.761492" lon="18.998962">
+    <ele>927</ele>
+    <name>Pod Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/4031">
+      <text>Pod Szyndzielnia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Szyndzielnia - Pod Szyndzielnia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.763931,19.001011;49.76256050034349,18.99975049999999;49.761492,18.998962">
+    <text>Pod Szyndzielnia - Pod Szyndzielnia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.763931" lon="19.001011">
+      <ele>859</ele>
+      <time>2022-01-17T20:55:40Z</time>
+    </trkpt>
+    <trkpt lat="49.763734" lon="19.000791">
+      <ele>866</ele>
+      <time>2022-01-17T20:56:32Z</time>
+    </trkpt>
+    <trkpt lat="49.763583" lon="19.000613">
+      <ele>872</ele>
+      <time>2022-01-17T20:57:13Z</time>
+    </trkpt>
+    <trkpt lat="49.763282" lon="19.000317">
+      <ele>884</ele>
+      <time>2022-01-17T20:58:30Z</time>
+    </trkpt>
+    <trkpt lat="49.763148" lon="19.000194">
+      <ele>888</ele>
+      <time>2022-01-17T20:59:04Z</time>
+    </trkpt>
+    <trkpt lat="49.762743" lon="18.999973">
+      <ele>900</ele>
+      <time>2022-01-17T21:00:36Z</time>
+    </trkpt>
+    <trkpt lat="49.762378" lon="18.999528">
+      <ele>902</ele>
+      <time>2022-01-17T21:02:13Z</time>
+    </trkpt>
+    <trkpt lat="49.762224" lon="18.999385">
+      <ele>904</ele>
+      <time>2022-01-17T21:02:51Z</time>
+    </trkpt>
+    <trkpt lat="49.761671" lon="18.999019">
+      <ele>925</ele>
+      <time>2022-01-17T21:05:02Z</time>
+    </trkpt>
+    <trkpt lat="49.761492" lon="18.998962">
+      <ele>927</ele>
+      <time>2022-01-17T21:05:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

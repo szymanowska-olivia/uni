@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:12Z</time>
+    <bounds maxlat="52.1186763" maxlon="20.7363707" minlat="52.1159555" minlon="20.7345683"/>
+  </metadata>
+  <wpt lat="52.115955" lon="20.735803">
+    <ele>112</ele>
+    <name>Rezerwat im. Boleslawa Hryniewieckiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11492">
+      <text>Rezerwat im. Boleslawa Hryniewieckiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.118676" lon="20.73465">
+    <ele>110</ele>
+    <name>Podkowa Lesna, ul. Bukowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11493">
+      <text>Podkowa Lesna, ul. Bukowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat im. Boleslawa Hryniewieckiego - Podkowa Lesna, ul. Bukowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1159555,20.7358033;52.11778170014913,20.735469500000026;52.1186763,20.73465">
+    <text>Rezerwat im. Boleslawa Hryniewieckiego - Podkowa Lesna, ul. Bukowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1159555" lon="20.7358033">
+      <ele>112</ele>
+      <time>2022-01-18T01:03:12Z</time>
+    </trkpt>
+    <trkpt lat="52.1176664" lon="20.7363707">
+      <ele>115</ele>
+      <time>2022-01-18T01:05:35Z</time>
+    </trkpt>
+    <trkpt lat="52.117897" lon="20.7345683">
+      <ele>113</ele>
+      <time>2022-01-18T01:07:08Z</time>
+    </trkpt>
+    <trkpt lat="52.1183713" lon="20.7346273">
+      <ele>112</ele>
+      <time>2022-01-18T01:07:47Z</time>
+    </trkpt>
+    <trkpt lat="52.1185854" lon="20.7346165">
+      <ele>111</ele>
+      <time>2022-01-18T01:08:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1186763" lon="20.73465">
+      <ele>110</ele>
+      <time>2022-01-18T01:08:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:53Z</time>
+    <bounds maxlat="48.9551498" maxlon="20.4423112" minlat="48.9543326" minlon="20.441013"/>
+  </metadata>
+  <wpt lat="48.95515" lon="20.441013">
+    <ele>515</ele>
+    <name>Trsteny potok</name>
+    <link href="https://mapa-turystyczna.pl/node/6989">
+      <text>Trsteny potok</text>
+    </link>
+  </wpt>
+  <wpt lat="48.954333" lon="20.442311">
+    <ele>513</ele>
+    <name>Letanovsky mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/7015">
+      <text>Letanovsky mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trsteny potok - Letanovsky mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9551498,20.441013;48.954801100019424,20.441660750000015;48.9543326,20.4423112">
+    <text>Trsteny potok - Letanovsky mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9551498" lon="20.441013">
+      <ele>515</ele>
+      <time>2022-01-17T23:06:53Z</time>
+    </trkpt>
+    <trkpt lat="48.9551463" lon="20.4410613">
+      <ele>515</ele>
+      <time>2022-01-17T23:06:56Z</time>
+    </trkpt>
+    <trkpt lat="48.9550265" lon="20.4413027">
+      <ele>515</ele>
+      <time>2022-01-17T23:07:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9548451" lon="20.4415736">
+      <ele>513</ele>
+      <time>2022-01-17T23:07:42Z</time>
+    </trkpt>
+    <trkpt lat="48.9547571" lon="20.4417479">
+      <ele>512</ele>
+      <time>2022-01-17T23:07:56Z</time>
+    </trkpt>
+    <trkpt lat="48.9545633" lon="20.4420242">
+      <ele>512</ele>
+      <time>2022-01-17T23:08:23Z</time>
+    </trkpt>
+    <trkpt lat="48.9545175" lon="20.4421234">
+      <ele>512</ele>
+      <time>2022-01-17T23:08:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9543326" lon="20.4423112">
+      <ele>513</ele>
+      <time>2022-01-17T23:08:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

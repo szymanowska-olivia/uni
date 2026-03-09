@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:49:37Z</time>
+    <bounds maxlat="49.8373112" maxlon="19.9485273" minlat="49.8342492" minlon="19.9375994"/>
+  </metadata>
+  <wpt lat="49.834461" lon="19.937599">
+    <ele>307</ele>
+    <name>Myslenice, rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/7318">
+      <text>Myslenice, rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.834249" lon="19.948527">
+    <ele>292</ele>
+    <name>Myslenice, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3508">
+      <text>Myslenice, dworzec autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myslenice, rynek - Myslenice, dworzec autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.834461,19.9375994;49.83597050463459,19.942403700000018;49.8342492,19.9485273">
+    <text>Myslenice, rynek - Myslenice, dworzec autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.834461" lon="19.9375994">
+      <ele>307</ele>
+      <time>2022-01-17T21:49:37Z</time>
+    </trkpt>
+    <trkpt lat="49.8348824" lon="19.9388874">
+      <ele>302</ele>
+      <time>2022-01-17T21:51:02Z</time>
+    </trkpt>
+    <trkpt lat="49.8351869" lon="19.9395311">
+      <ele>301</ele>
+      <time>2022-01-17T21:51:50Z</time>
+    </trkpt>
+    <trkpt lat="49.835301" lon="19.9397939">
+      <ele>300</ele>
+      <time>2022-01-17T21:52:08Z</time>
+    </trkpt>
+    <trkpt lat="49.83664" lon="19.9450135">
+      <ele>297</ele>
+      <time>2022-01-17T21:57:40Z</time>
+    </trkpt>
+    <trkpt lat="49.8373112" lon="19.9466443">
+      <ele>294</ele>
+      <time>2022-01-17T21:59:35Z</time>
+    </trkpt>
+    <trkpt lat="49.8365328" lon="19.9472666">
+      <ele>292</ele>
+      <time>2022-01-17T22:00:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8342492" lon="19.9485273">
+      <ele>292</ele>
+      <time>2022-01-17T22:04:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:12Z</time>
+    <bounds maxlat="52.3976996" maxlon="20.9198545" minlat="52.3965358" minlon="20.9178589"/>
+  </metadata>
+  <wpt lat="52.397117" lon="20.919854">
+    <ele>76</ele>
+    <name>Legionowo, ul. Krolowej Jadwigi</name>
+    <link href="https://mapa-turystyczna.pl/node/11401">
+      <text>Legionowo, ul. Krolowej Jadwigi</text>
+    </link>
+  </wpt>
+  <wpt lat="52.3977" lon="20.917859">
+    <ele>76</ele>
+    <name>Legionowo, Park Zdrowia</name>
+    <link href="https://mapa-turystyczna.pl/node/11402">
+      <text>Legionowo, Park Zdrowia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legionowo, ul. Krolowej Jadwigi - Legionowo, Park Zdrowia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.397117,20.9198545;52.39712755370785,20.918308050000014;52.3976996,20.9178589">
+    <text>Legionowo, ul. Krolowej Jadwigi - Legionowo, Park Zdrowia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.397117" lon="20.9198545">
+      <ele>76</ele>
+      <time>2022-01-18T01:01:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3966013" lon="20.91924">
+      <ele>78</ele>
+      <time>2022-01-18T01:02:38Z</time>
+    </trkpt>
+    <trkpt lat="52.3965358" lon="20.9190576">
+      <ele>77</ele>
+      <time>2022-01-18T01:02:56Z</time>
+    </trkpt>
+    <trkpt lat="52.3965555" lon="20.9187572">
+      <ele>77</ele>
+      <time>2022-01-18T01:03:21Z</time>
+    </trkpt>
+    <trkpt lat="52.3976996" lon="20.9178589">
+      <ele>76</ele>
+      <time>2022-01-18T01:06:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:44Z</time>
+    <bounds maxlat="52.2874563" maxlon="20.454003" minlat="52.2868724" minlon="20.4474235"/>
+  </metadata>
+  <wpt lat="52.287456" lon="20.447423">
+    <ele>74</ele>
+    <name>Granica</name>
+    <link href="https://mapa-turystyczna.pl/node/4966">
+      <text>Granica</text>
+    </link>
+  </wpt>
+  <wpt lat="52.286872" lon="20.454003">
+    <ele>76</ele>
+    <name>Granica, Osrodek Dydaktyczno-Muzealny</name>
+    <link href="https://mapa-turystyczna.pl/node/12418">
+      <text>Granica, Osrodek Dydaktyczno-Muzealny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Granica - Granica, Osrodek Dydaktyczno-Muzealny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2874563,20.4474235;52.28716435096196,20.45071325000002;52.2868724,20.454003">
+    <text>Granica - Granica, Osrodek Dydaktyczno-Muzealny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2874563" lon="20.4474235">
+      <ele>74</ele>
+      <time>2022-01-18T01:28:44Z</time>
+    </trkpt>
+    <trkpt lat="52.2868724" lon="20.454003">
+      <ele>76</ele>
+      <time>2022-01-18T01:33:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

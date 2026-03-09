@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:04Z</time>
+    <bounds maxlat="50.1978843" maxlon="16.8699789" minlat="50.1938086" minlon="16.8632681"/>
+  </metadata>
+  <wpt lat="50.193809" lon="16.868749">
+    <ele>1173</ele>
+    <name>Pod Ludmilou</name>
+    <link href="https://mapa-turystyczna.pl/node/3373">
+      <text>Pod Ludmilou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.197774" lon="16.863268">
+    <ele>1223</ele>
+    <name>Stribrnicka, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/1719">
+      <text>Stribrnicka, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ludmilou - Stribrnicka, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1938086,16.868749;50.19733230059223,16.868568049999993;50.1977744,16.8632681">
+    <text>Pod Ludmilou - Stribrnicka, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1938086" lon="16.868749">
+      <ele>1173</ele>
+      <time>2022-01-17T21:47:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1949069" lon="16.869818">
+      <ele>1176</ele>
+      <time>2022-01-17T21:50:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1956178" lon="16.8699789">
+      <ele>1186</ele>
+      <time>2022-01-17T21:52:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1959234" lon="16.8699092">
+      <ele>1191</ele>
+      <time>2022-01-17T21:53:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1967717" lon="16.869539">
+      <ele>1203</ele>
+      <time>2022-01-17T21:55:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1970945" lon="16.8690777">
+      <ele>1208</ele>
+      <time>2022-01-17T21:56:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1975701" lon="16.8680584">
+      <ele>1212</ele>
+      <time>2022-01-17T21:58:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1978671" lon="16.8669748">
+      <ele>1216</ele>
+      <time>2022-01-17T22:00:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1977658" lon="16.8654835">
+      <ele>1228</ele>
+      <time>2022-01-17T22:03:17Z</time>
+    </trkpt>
+    <trkpt lat="50.1978843" lon="16.8648291">
+      <ele>1228</ele>
+      <time>2022-01-17T22:04:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1977744" lon="16.8632681">
+      <ele>1223</ele>
+      <time>2022-01-17T22:07:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

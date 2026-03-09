@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:43Z</time>
+    <bounds maxlat="49.8445158" maxlon="19.51042" minlat="49.8433918" minlon="19.5101175"/>
+  </metadata>
+  <wpt lat="49.843392" lon="19.51042">
+    <ele>271</ele>
+    <name>Czartak</name>
+    <link href="https://mapa-turystyczna.pl/node/3843">
+      <text>Czartak</text>
+    </link>
+  </wpt>
+  <wpt lat="49.844516" lon="19.510117">
+    <ele>273</ele>
+    <name>Czartak, przystanek</name>
+    <link href="https://mapa-turystyczna.pl/node/4647">
+      <text>Czartak, przystanek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czartak - Czartak, przystanek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8433918,19.51042;49.84382825019854,19.510243199999973;49.8445158,19.5101175">
+    <text>Czartak - Czartak, przystanek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8433918" lon="19.51042">
+      <ele>271</ele>
+      <time>2022-01-17T22:11:43Z</time>
+    </trkpt>
+    <trkpt lat="49.8436897" lon="19.5102807">
+      <ele>272</ele>
+      <time>2022-01-17T22:12:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8439668" lon="19.5102057">
+      <ele>273</ele>
+      <time>2022-01-17T22:12:45Z</time>
+    </trkpt>
+    <trkpt lat="49.8445158" lon="19.5101175">
+      <ele>273</ele>
+      <time>2022-01-17T22:13:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

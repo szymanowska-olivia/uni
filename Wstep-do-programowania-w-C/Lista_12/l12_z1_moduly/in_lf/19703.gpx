@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:13Z</time>
+    <bounds maxlat="51.5240802" maxlon="23.1045702" minlat="51.5223393" minlon="23.093633"/>
+  </metadata>
+  <wpt lat="51.52408" lon="23.093633">
+    <ele>165</ele>
+    <name>Sosnowica, ul. Mickiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/13299">
+      <text>Sosnowica, ul. Mickiewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.522339" lon="23.10457">
+    <ele>169</ele>
+    <name>Sosnowica, Aleja Grabowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13300">
+      <text>Sosnowica, Aleja Grabowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowica, ul. Mickiewicza - Sosnowica, Aleja Grabowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5240802,23.093633;51.52276730201135,23.10181140000001;51.5223393,23.1045702">
+    <text>Sosnowica, ul. Mickiewicza - Sosnowica, Aleja Grabowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5240802" lon="23.093633">
+      <ele>165</ele>
+      <time>2022-01-18T01:53:13Z</time>
+    </trkpt>
+    <trkpt lat="51.5236247" lon="23.0962519">
+      <ele>170</ele>
+      <time>2022-01-18T01:56:50Z</time>
+    </trkpt>
+    <trkpt lat="51.5231953" lon="23.0990526">
+      <ele>166</ele>
+      <time>2022-01-18T02:00:40Z</time>
+    </trkpt>
+    <trkpt lat="51.5223393" lon="23.1045702">
+      <ele>169</ele>
+      <time>2022-01-18T02:08:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

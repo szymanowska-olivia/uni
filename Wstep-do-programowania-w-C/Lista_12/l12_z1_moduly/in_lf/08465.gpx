@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:39:12Z</time>
+    <bounds maxlat="50.4628658" maxlon="16.1670775" minlat="50.4611028" minlon="16.1665964"/>
+  </metadata>
+  <wpt lat="50.462866" lon="16.166596">
+    <ele>489</ele>
+    <name>Studenky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5889">
+      <text>Studenky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.461103" lon="16.167059">
+    <ele>498</ele>
+    <name>Rozhledna Na Signalu</name>
+    <link href="https://mapa-turystyczna.pl/node/5890">
+      <text>Rozhledna Na Signalu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studenky, rozc. - Rozhledna Na Signalu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4628658,16.1665964;50.461839050314765,16.167030400000034;50.4611028,16.1670591">
+    <text>Studenky, rozc. - Rozhledna Na Signalu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4628658" lon="16.1665964">
+      <ele>489</ele>
+      <time>2022-01-17T22:39:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4624285" lon="16.1667925">
+      <ele>492</ele>
+      <time>2022-01-17T22:40:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4620116" lon="16.1669833">
+      <ele>495</ele>
+      <time>2022-01-17T22:41:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4616665" lon="16.1670775">
+      <ele>497</ele>
+      <time>2022-01-17T22:42:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4611028" lon="16.1670591">
+      <ele>498</ele>
+      <time>2022-01-17T22:44:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

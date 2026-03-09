@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:47Z</time>
+    <bounds maxlat="52.3199643" maxlon="20.8765125" minlat="52.3196025" minlon="20.8735663"/>
+  </metadata>
+  <wpt lat="52.319964" lon="20.873566">
+    <ele>84</ele>
+    <name>Dabrowa, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12448">
+      <text>Dabrowa, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.319603" lon="20.876513">
+    <ele>86</ele>
+    <name>Dabrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4981">
+      <text>Dabrowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dabrowa, parking - Dabrowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3199643,20.8735663;52.31977795034782,20.87504534999998;52.3196025,20.8765125">
+    <text>Dabrowa, parking - Dabrowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3199643" lon="20.8735663">
+      <ele>84</ele>
+      <time>2022-01-18T01:29:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3199534" lon="20.8735782">
+      <ele>84</ele>
+      <time>2022-01-18T01:29:48Z</time>
+    </trkpt>
+    <trkpt lat="52.3196025" lon="20.8765125">
+      <ele>86</ele>
+      <time>2022-01-18T01:32:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

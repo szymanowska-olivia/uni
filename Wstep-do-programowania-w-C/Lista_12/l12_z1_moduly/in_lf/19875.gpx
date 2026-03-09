@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:31Z</time>
+    <bounds maxlat="49.2579914" maxlon="22.4288348" minlat="49.2563476" minlon="22.4285824"/>
+  </metadata>
+  <wpt lat="49.257991" lon="22.428582">
+    <ele>510</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/13414">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.256348" lon="22.428803">
+    <ele>531</ele>
+    <name>Sine Wiry</name>
+    <link href="https://mapa-turystyczna.pl/node/11237">
+      <text>Sine Wiry</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Sine Wiry</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2579914,22.4285824;49.257534452066494,22.428711400000036;49.2563476,22.4288026">
+    <text>Rozejscie sciezki - Sine Wiry</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2579914" lon="22.4285824">
+      <ele>510</ele>
+      <time>2022-01-18T01:56:31Z</time>
+    </trkpt>
+    <trkpt lat="49.2579861" lon="22.428588">
+      <ele>510</ele>
+      <time>2022-01-18T01:56:32Z</time>
+    </trkpt>
+    <trkpt lat="49.2570828" lon="22.4288348">
+      <ele>520</ele>
+      <time>2022-01-18T01:59:18Z</time>
+    </trkpt>
+    <trkpt lat="49.2563476" lon="22.4288026">
+      <ele>531</ele>
+      <time>2022-01-18T02:01:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

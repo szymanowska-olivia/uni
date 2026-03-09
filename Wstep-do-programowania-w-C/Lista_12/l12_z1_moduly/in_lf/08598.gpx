@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:36Z</time>
+    <bounds maxlat="50.405574" maxlon="16.1763972" minlat="50.4023379" minlon="16.169984"/>
+  </metadata>
+  <wpt lat="50.405574" lon="16.170217">
+    <ele>436</ele>
+    <name>Nachod, Rozkos</name>
+    <link href="https://mapa-turystyczna.pl/node/5980">
+      <text>Nachod, Rozkos</text>
+    </link>
+  </wpt>
+  <wpt lat="50.40261" lon="16.176397">
+    <ele>506</ele>
+    <name>Vyhlidka, hotel odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5981">
+      <text>Vyhlidka, hotel odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nachod, Rozkos - Vyhlidka, hotel odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.405574,16.1702174;50.40351410743349,16.17234619999998;50.4026097,16.1763972">
+    <text>Nachod, Rozkos - Vyhlidka, hotel odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.405574" lon="16.1702174">
+      <ele>436</ele>
+      <time>2022-01-17T22:41:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4055107" lon="16.1701436">
+      <ele>436</ele>
+      <time>2022-01-17T22:41:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4054954" lon="16.169984">
+      <ele>435</ele>
+      <time>2022-01-17T22:42:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4049073" lon="16.1707015">
+      <ele>441</ele>
+      <time>2022-01-17T22:43:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4043535" lon="16.1718971">
+      <ele>454</ele>
+      <time>2022-01-17T22:46:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4026747" lon="16.1727953">
+      <ele>491</ele>
+      <time>2022-01-17T22:50:42Z</time>
+    </trkpt>
+    <trkpt lat="50.402455" lon="16.1737924">
+      <ele>497</ele>
+      <time>2022-01-17T22:52:22Z</time>
+    </trkpt>
+    <trkpt lat="50.4023379" lon="16.174489">
+      <ele>497</ele>
+      <time>2022-01-17T22:53:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4024892" lon="16.1757542">
+      <ele>500</ele>
+      <time>2022-01-17T22:55:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4025238" lon="16.1760999">
+      <ele>501</ele>
+      <time>2022-01-17T22:56:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4026097" lon="16.1763972">
+      <ele>506</ele>
+      <time>2022-01-17T22:56:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

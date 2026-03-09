@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:50Z</time>
+    <bounds maxlat="50.7209102" maxlon="16.4923291" minlat="50.7199386" minlon="16.4915981"/>
+  </metadata>
+  <wpt lat="50.72091" lon="16.491598">
+    <ele>574</ele>
+    <name>Kroacka Studzienka</name>
+    <link href="https://mapa-turystyczna.pl/node/13576">
+      <text>Kroacka Studzienka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.719939" lon="16.492329">
+    <ele>594</ele>
+    <name>Nad Kroacka Studzienka</name>
+    <link href="https://mapa-turystyczna.pl/node/4792">
+      <text>Nad Kroacka Studzienka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kroacka Studzienka - Nad Kroacka Studzienka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7209102,16.4915981;50.72043300009308,16.49204335;50.7199386,16.4923291">
+    <text>Kroacka Studzienka - Nad Kroacka Studzienka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7209102" lon="16.4915981">
+      <ele>574</ele>
+      <time>2022-01-18T02:01:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7206657" lon="16.4919199">
+      <ele>577</ele>
+      <time>2022-01-18T02:03:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7205264" lon="16.4919897">
+      <ele>580</ele>
+      <time>2022-01-18T02:03:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7203396" lon="16.492097">
+      <ele>585</ele>
+      <time>2022-01-18T02:04:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7201155" lon="16.4922364">
+      <ele>591</ele>
+      <time>2022-01-18T02:05:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7199386" lon="16.4923291">
+      <ele>594</ele>
+      <time>2022-01-18T02:06:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

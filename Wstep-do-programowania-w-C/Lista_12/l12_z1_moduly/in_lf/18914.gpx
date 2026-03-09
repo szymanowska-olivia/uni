@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:28Z</time>
+    <bounds maxlat="50.311834" maxlon="19.3362488" minlat="50.3061743" minlon="19.3240351"/>
+  </metadata>
+  <wpt lat="50.311834" lon="19.336249">
+    <ele>300</ele>
+    <name>Zakawie</name>
+    <link href="https://mapa-turystyczna.pl/node/12812">
+      <text>Zakawie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.306546" lon="19.324035">
+    <ele>288</ele>
+    <name>Wywierzyska w Strzemieszycach Wielkich</name>
+    <link href="https://mapa-turystyczna.pl/node/12806">
+      <text>Wywierzyska w Strzemieszycach Wielkich</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zakawie - Wywierzyska w Strzemieszycach Wielkich</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.311834,19.3362488;50.306186300000284,19.3330918;50.3065462,19.3240351">
+    <text>Zakawie - Wywierzyska w Strzemieszycach Wielkich</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.311834" lon="19.3362488">
+      <ele>300</ele>
+      <time>2022-01-18T01:39:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3097305" lon="19.3351684">
+      <ele>301</ele>
+      <time>2022-01-18T01:43:05Z</time>
+    </trkpt>
+    <trkpt lat="50.309179" lon="19.3348197">
+      <ele>299</ele>
+      <time>2022-01-18T01:44:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3088261" lon="19.3346212">
+      <ele>298</ele>
+      <time>2022-01-18T01:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3083088" lon="19.3344603">
+      <ele>297</ele>
+      <time>2022-01-18T01:45:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3061812" lon="19.3334003">
+      <ele>290</ele>
+      <time>2022-01-18T01:49:10Z</time>
+    </trkpt>
+    <trkpt lat="50.3061914" lon="19.3327833">
+      <ele>291</ele>
+      <time>2022-01-18T01:49:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3061743" lon="19.3326117">
+      <ele>291</ele>
+      <time>2022-01-18T01:49:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3062051" lon="19.3241895">
+      <ele>288</ele>
+      <time>2022-01-18T01:58:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3062428" lon="19.3240715">
+      <ele>288</ele>
+      <time>2022-01-18T01:58:54Z</time>
+    </trkpt>
+    <trkpt lat="50.3064518" lon="19.3241735">
+      <ele>289</ele>
+      <time>2022-01-18T01:59:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3065462" lon="19.3240351">
+      <ele>288</ele>
+      <time>2022-01-18T01:59:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

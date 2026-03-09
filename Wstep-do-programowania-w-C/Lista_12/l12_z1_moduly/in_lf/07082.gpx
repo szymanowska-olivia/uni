@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:27Z</time>
+    <bounds maxlat="50.7007468" maxlon="15.7376518" minlat="50.6969951" minlon="15.7351036"/>
+  </metadata>
+  <wpt lat="50.700747" lon="15.735104">
+    <ele>806</ele>
+    <name>Pec pod Snezkou, Slunecna</name>
+    <link href="https://mapa-turystyczna.pl/node/1256">
+      <text>Pec pod Snezkou, Slunecna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.696995" lon="15.737652">
+    <ele>776</ele>
+    <name>Pec pod Snezkou, parkoviste autobusu</name>
+    <link href="https://mapa-turystyczna.pl/node/4826">
+      <text>Pec pod Snezkou, parkoviste autobusu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pec pod Snezkou, Slunecna - Pec pod Snezkou, parkoviste autobusu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7007468,15.7351036;50.698533856790036,15.736482800000031;50.6969951,15.7376518">
+    <text>Pec pod Snezkou, Slunecna - Pec pod Snezkou, parkoviste autobusu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7007468" lon="15.7351036">
+      <ele>806</ele>
+      <time>2022-01-17T22:17:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7000869" lon="15.7354767">
+      <ele>801</ele>
+      <time>2022-01-17T22:18:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6995089" lon="15.7358751">
+      <ele>793</ele>
+      <time>2022-01-17T22:19:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6993319" lon="15.7360912">
+      <ele>788</ele>
+      <time>2022-01-17T22:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6977358" lon="15.7368744">
+      <ele>777</ele>
+      <time>2022-01-17T22:21:22Z</time>
+    </trkpt>
+    <trkpt lat="50.6969951" lon="15.7376518">
+      <ele>776</ele>
+      <time>2022-01-17T22:22:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

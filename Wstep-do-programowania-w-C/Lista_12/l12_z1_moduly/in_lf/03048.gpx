@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:17Z</time>
+    <bounds maxlat="50.2427657" maxlon="17.1412951" minlat="50.237736" minlon="17.1381877"/>
+  </metadata>
+  <wpt lat="50.242766" lon="17.141129">
+    <ele>592</ele>
+    <name>Na pomezi</name>
+    <link href="https://mapa-turystyczna.pl/node/2144">
+      <text>Na pomezi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.237736" lon="17.139273">
+    <ele>651</ele>
+    <name>Sedlo Smrcnik</name>
+    <link href="https://mapa-turystyczna.pl/node/2181">
+      <text>Sedlo Smrcnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na pomezi - Sedlo Smrcnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2427657,17.1411288;50.24093730035089,17.13833690000002;50.237736,17.1392727">
+    <text>Na pomezi - Sedlo Smrcnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2427657" lon="17.1411288">
+      <ele>592</ele>
+      <time>2022-01-17T21:24:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2418566" lon="17.1412951">
+      <ele>602</ele>
+      <time>2022-01-17T21:26:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2413251" lon="17.1409854">
+      <ele>599</ele>
+      <time>2022-01-17T21:28:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2410955" lon="17.1405684">
+      <ele>602</ele>
+      <time>2022-01-17T21:29:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2410893" lon="17.1400779">
+      <ele>612</ele>
+      <time>2022-01-17T21:30:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2412277" lon="17.1395687">
+      <ele>619</ele>
+      <time>2022-01-17T21:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2411202" lon="17.1384861">
+      <ele>623</ele>
+      <time>2022-01-17T21:33:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2407544" lon="17.1381877">
+      <ele>630</ele>
+      <time>2022-01-17T21:34:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2400914" lon="17.1382347">
+      <ele>636</ele>
+      <time>2022-01-17T21:36:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2396479" lon="17.1382602">
+      <ele>641</ele>
+      <time>2022-01-17T21:38:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2383832" lon="17.138981">
+      <ele>649</ele>
+      <time>2022-01-17T21:42:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2379978" lon="17.1394165">
+      <ele>642</ele>
+      <time>2022-01-17T21:43:26Z</time>
+    </trkpt>
+    <trkpt lat="50.237736" lon="17.1392727">
+      <ele>651</ele>
+      <time>2022-01-17T21:44:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

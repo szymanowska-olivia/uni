@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:49Z</time>
+    <bounds maxlat="50.6574499" maxlon="19.4120992" minlat="50.6550713" minlon="19.3978121"/>
+  </metadata>
+  <wpt lat="50.65745" lon="19.397812">
+    <ele>362</ele>
+    <name>Czatachowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12696">
+      <text>Czatachowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.655071" lon="19.412099">
+    <ele>408</ele>
+    <name>Czatachowa, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/12697">
+      <text>Czatachowa, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czatachowa - Czatachowa, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6574499,19.3978121;50.65586605672376,19.40745745;50.6550713,19.4120992">
+    <text>Czatachowa - Czatachowa, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6574499" lon="19.3978121">
+      <ele>362</ele>
+      <time>2022-01-18T01:36:49Z</time>
+    </trkpt>
+    <trkpt lat="50.6566608" lon="19.4028157">
+      <ele>377</ele>
+      <time>2022-01-18T01:43:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6550713" lon="19.4120992">
+      <ele>408</ele>
+      <time>2022-01-18T01:56:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:19Z</time>
+    <bounds maxlat="50.8435077" maxlon="15.2190519" minlat="50.8419664" minlon="15.2102865"/>
+  </metadata>
+  <wpt lat="50.843508" lon="15.210287">
+    <ele>943</ele>
+    <name>Na Zdarku</name>
+    <link href="https://mapa-turystyczna.pl/node/8795">
+      <text>Na Zdarku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.841966" lon="15.219052">
+    <ele>932</ele>
+    <name>Nad Cernym potokem</name>
+    <link href="https://mapa-turystyczna.pl/node/8794">
+      <text>Nad Cernym potokem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Zdarku - Nad Cernym potokem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8435077,15.2102865;50.843003702722136,15.213421899999998;50.8419664,15.2190519">
+    <text>Na Zdarku - Nad Cernym potokem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8435077" lon="15.2102865">
+      <ele>943</ele>
+      <time>2022-01-17T23:56:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8424997" lon="15.2165573">
+      <ele>927</ele>
+      <time>2022-01-18T00:03:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8421508" lon="15.2186226">
+      <ele>930</ele>
+      <time>2022-01-18T00:05:45Z</time>
+    </trkpt>
+    <trkpt lat="50.8419664" lon="15.2190519">
+      <ele>932</ele>
+      <time>2022-01-18T00:06:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

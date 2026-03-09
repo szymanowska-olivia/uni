@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:04Z</time>
+    <bounds maxlat="52.622341" maxlon="21.1689562" minlat="52.6220805" minlon="21.1685914"/>
+  </metadata>
+  <wpt lat="52.622341" lon="21.168956">
+    <ele>92</ele>
+    <name>Rozejscie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12201">
+      <text>Rozejscie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.622081" lon="21.168591">
+    <ele>92</ele>
+    <name>Kepa Zatorska, gajowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12202">
+      <text>Kepa Zatorska, gajowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow niebieski / zolty - Kepa Zatorska, gajowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.622341,21.1689562;52.62221075019379,21.168773799999983;52.6220805,21.1685914">
+    <text>Rozejscie szlakow niebieski / zolty - Kepa Zatorska, gajowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.622341" lon="21.1689562">
+      <ele>92</ele>
+      <time>2022-01-18T01:22:04Z</time>
+    </trkpt>
+    <trkpt lat="52.6220805" lon="21.1685914">
+      <ele>92</ele>
+      <time>2022-01-18T01:23:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

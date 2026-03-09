@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:19Z</time>
+    <bounds maxlat="51.3383822" maxlon="16.8207644" minlat="51.3378862" minlon="16.8156736"/>
+  </metadata>
+  <wpt lat="51.337886" lon="16.815674">
+    <ele>165</ele>
+    <name>Bagno</name>
+    <link href="https://mapa-turystyczna.pl/node/10414">
+      <text>Bagno</text>
+    </link>
+  </wpt>
+  <wpt lat="51.338382" lon="16.820764">
+    <ele>179</ele>
+    <name>Bagno, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/10415">
+      <text>Bagno, kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bagno - Bagno, kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3378862,16.8156736;51.33815070000993,16.817772200000004;51.3383822,16.8207644">
+    <text>Bagno - Bagno, kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3378862" lon="16.8156736">
+      <ele>165</ele>
+      <time>2022-01-18T00:36:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3379831" lon="16.8160342">
+      <ele>165</ele>
+      <time>2022-01-18T00:36:42Z</time>
+    </trkpt>
+    <trkpt lat="51.3380518" lon="16.8164633">
+      <ele>166</ele>
+      <time>2022-01-18T00:37:07Z</time>
+    </trkpt>
+    <trkpt lat="51.3381205" lon="16.8169568">
+      <ele>168</ele>
+      <time>2022-01-18T00:37:37Z</time>
+    </trkpt>
+    <trkpt lat="51.3381809" lon="16.8185876">
+      <ele>170</ele>
+      <time>2022-01-18T00:39:11Z</time>
+    </trkpt>
+    <trkpt lat="51.3382747" lon="16.8197463">
+      <ele>174</ele>
+      <time>2022-01-18T00:40:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3383822" lon="16.8207644">
+      <ele>179</ele>
+      <time>2022-01-18T00:41:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

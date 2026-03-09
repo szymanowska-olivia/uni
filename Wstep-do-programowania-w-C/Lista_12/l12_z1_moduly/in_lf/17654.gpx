@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:14Z</time>
+    <bounds maxlat="52.0615171" maxlon="20.3377076" minlat="52.0513132" minlon="20.3217323"/>
+  </metadata>
+  <wpt lat="52.054201" lon="20.337708">
+    <ele>105</ele>
+    <name>Uroczysko Ulaski</name>
+    <link href="https://mapa-turystyczna.pl/node/11979">
+      <text>Uroczysko Ulaski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.061517" lon="20.321732">
+    <ele>105</ele>
+    <name>Stary Hipolitow</name>
+    <link href="https://mapa-turystyczna.pl/node/11980">
+      <text>Stary Hipolitow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Uroczysko Ulaski - Stary Hipolitow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0542012,20.3377076;52.0535358592623,20.327904049999972;52.0615171,20.3217323">
+    <text>Uroczysko Ulaski - Stary Hipolitow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0542012" lon="20.3377076">
+      <ele>105</ele>
+      <time>2022-01-18T01:17:14Z</time>
+    </trkpt>
+    <trkpt lat="52.0532658" lon="20.3350869">
+      <ele>114</ele>
+      <time>2022-01-18T01:20:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0520816" lon="20.3318736">
+      <ele>113</ele>
+      <time>2022-01-18T01:24:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0513132" lon="20.3289444">
+      <ele>108</ele>
+      <time>2022-01-18T01:27:46Z</time>
+    </trkpt>
+    <trkpt lat="52.0526261" lon="20.3283382">
+      <ele>109</ele>
+      <time>2022-01-18T01:30:07Z</time>
+    </trkpt>
+    <trkpt lat="52.0544456" lon="20.3274699">
+      <ele>110</ele>
+      <time>2022-01-18T01:33:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0561859" lon="20.3265586">
+      <ele>110</ele>
+      <time>2022-01-18T01:36:31Z</time>
+    </trkpt>
+    <trkpt lat="52.0584356" lon="20.3256359">
+      <ele>105</ele>
+      <time>2022-01-18T01:40:31Z</time>
+    </trkpt>
+    <trkpt lat="52.0588314" lon="20.3252068">
+      <ele>105</ele>
+      <time>2022-01-18T01:41:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0615171" lon="20.3217323">
+      <ele>105</ele>
+      <time>2022-01-18T01:47:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:51:02Z</time>
+    <bounds maxlat="50.5770813" maxlon="16.5029025" minlat="50.5743418" minlon="16.4982872"/>
+  </metadata>
+  <wpt lat="50.577081" lon="16.502903">
+    <ele>419</ele>
+    <name>Nowa Ruda, MOK</name>
+    <link href="https://mapa-turystyczna.pl/node/2067">
+      <text>Nowa Ruda, MOK</text>
+    </link>
+  </wpt>
+  <wpt lat="50.574342" lon="16.498287">
+    <ele>467</ele>
+    <name>Krzyz Patniczy</name>
+    <link href="https://mapa-turystyczna.pl/node/13212">
+      <text>Krzyz Patniczy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Ruda, MOK - Krzyz Patniczy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5770813,16.5029025;50.576495350012294,16.499045500000022;50.5743418,16.4982872">
+    <text>Nowa Ruda, MOK - Krzyz Patniczy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5770813" lon="16.5029025">
+      <ele>419</ele>
+      <time>2022-01-18T01:51:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5765192" lon="16.5006441">
+      <ele>428</ele>
+      <time>2022-01-18T01:55:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5764647" lon="16.5000433">
+      <ele>432</ele>
+      <time>2022-01-18T01:56:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5764613" lon="16.4995873">
+      <ele>435</ele>
+      <time>2022-01-18T01:57:31Z</time>
+    </trkpt>
+    <trkpt lat="50.5765294" lon="16.4985037">
+      <ele>435</ele>
+      <time>2022-01-18T01:59:33Z</time>
+    </trkpt>
+    <trkpt lat="50.5761325" lon="16.4985198">
+      <ele>442</ele>
+      <time>2022-01-18T02:00:43Z</time>
+    </trkpt>
+    <trkpt lat="50.5759809" lon="16.4984608">
+      <ele>445</ele>
+      <time>2022-01-18T02:01:11Z</time>
+    </trkpt>
+    <trkpt lat="50.5755395" lon="16.4983258">
+      <ele>448</ele>
+      <time>2022-01-18T02:02:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5752144" lon="16.4982945">
+      <ele>454</ele>
+      <time>2022-01-18T02:03:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5743418" lon="16.4982872">
+      <ele>467</ele>
+      <time>2022-01-18T02:06:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

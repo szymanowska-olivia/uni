@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:22Z</time>
+    <bounds maxlat="51.3479601" maxlon="17.6256726" minlat="51.3479333" minlon="17.6252005"/>
+  </metadata>
+  <wpt lat="51.34796" lon="17.6252">
+    <ele>199</ele>
+    <name>Dojscie do cmentarza</name>
+    <link href="https://mapa-turystyczna.pl/node/13447">
+      <text>Dojscie do cmentarza</text>
+    </link>
+  </wpt>
+  <wpt lat="51.347933" lon="17.625673">
+    <ele>197</ele>
+    <name>Cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/13448">
+      <text>Cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dojscie do cmentarza - Cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3479601,17.6252005;51.347946700001955,17.625436550000025;51.3479333,17.6256726">
+    <text>Dojscie do cmentarza - Cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3479601" lon="17.6252005">
+      <ele>199</ele>
+      <time>2022-01-18T01:57:22Z</time>
+    </trkpt>
+    <trkpt lat="51.3479333" lon="17.6256726">
+      <ele>197</ele>
+      <time>2022-01-18T01:58:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:35Z</time>
+    <bounds maxlat="49.9937007" maxlon="17.0643491" minlat="49.9925143" minlon="17.0624501"/>
+  </metadata>
+  <wpt lat="49.993701" lon="17.06245">
+    <ele>617</ele>
+    <name>Anenska studanka</name>
+    <link href="https://mapa-turystyczna.pl/node/7904">
+      <text>Anenska studanka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.992514" lon="17.064349">
+    <ele>663</ele>
+    <name>Nad Anenskou studankou</name>
+    <link href="https://mapa-turystyczna.pl/node/7905">
+      <text>Nad Anenskou studankou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Anenska studanka - Nad Anenskou studankou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9937007,17.0624501;49.99317305085197,17.063249400000004;49.9925143,17.0643491">
+    <text>Anenska studanka - Nad Anenskou studankou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9937007" lon="17.0624501">
+      <ele>617</ele>
+      <time>2022-01-17T23:30:35Z</time>
+    </trkpt>
+    <trkpt lat="49.9934593" lon="17.0627612">
+      <ele>630</ele>
+      <time>2022-01-17T23:31:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9928868" lon="17.0637376">
+      <ele>658</ele>
+      <time>2022-01-17T23:34:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9925143" lon="17.0643491">
+      <ele>663</ele>
+      <time>2022-01-17T23:35:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

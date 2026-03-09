@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:22:32Z</time>
+    <bounds maxlat="49.9505902" maxlon="18.5705184" minlat="49.9485725" minlon="18.5692711"/>
+  </metadata>
+  <wpt lat="49.948572" lon="18.570518">
+    <ele>257</ele>
+    <name>Jastrzebie-Zdroj, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/9538">
+      <text>Jastrzebie-Zdroj, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.95059" lon="18.569271">
+    <ele>257</ele>
+    <name>Jastrzebie Zdroj, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9864">
+      <text>Jastrzebie Zdroj, pomnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jastrzebie-Zdroj, ul. Kosciuszki - Jastrzebie Zdroj, pomnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9485725,18.5705184;49.94981375091481,18.56965625000001;49.9505902,18.5692711">
+    <text>Jastrzebie-Zdroj, ul. Kosciuszki - Jastrzebie Zdroj, pomnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9485725" lon="18.5705184">
+      <ele>257</ele>
+      <time>2022-01-18T00:22:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9495169" lon="18.5698762">
+      <ele>255</ele>
+      <time>2022-01-18T00:24:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9501106" lon="18.5694363">
+      <ele>256</ele>
+      <time>2022-01-18T00:26:24Z</time>
+    </trkpt>
+    <trkpt lat="49.9504661" lon="18.5692807">
+      <ele>256</ele>
+      <time>2022-01-18T00:27:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9505902" lon="18.5692711">
+      <ele>257</ele>
+      <time>2022-01-18T00:27:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

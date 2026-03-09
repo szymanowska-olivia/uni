@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:31Z</time>
+    <bounds maxlat="50.1960368" maxlon="17.0626045" minlat="50.1933444" minlon="17.0572186"/>
+  </metadata>
+  <wpt lat="50.196037" lon="17.057219">
+    <ele>782</ele>
+    <name>Vetrolam</name>
+    <link href="https://mapa-turystyczna.pl/node/2187">
+      <text>Vetrolam</text>
+    </link>
+  </wpt>
+  <wpt lat="50.193344" lon="17.062604">
+    <ele>762</ele>
+    <name>Ramzova</name>
+    <link href="https://mapa-turystyczna.pl/node/2157">
+      <text>Ramzova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vetrolam - Ramzova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1960368,17.0572186;50.19442955104539,17.059820300000013;50.1933444,17.0626045">
+    <text>Vetrolam - Ramzova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1960368" lon="17.0572186">
+      <ele>782</ele>
+      <time>2022-01-17T21:24:31Z</time>
+    </trkpt>
+    <trkpt lat="50.1947455" lon="17.059257">
+      <ele>770</ele>
+      <time>2022-01-17T21:26:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1941136" lon="17.0603836">
+      <ele>763</ele>
+      <time>2022-01-17T21:27:40Z</time>
+    </trkpt>
+    <trkpt lat="50.1938046" lon="17.061494">
+      <ele>764</ele>
+      <time>2022-01-17T21:28:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1936672" lon="17.0618749">
+      <ele>763</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.1934062" lon="17.0622718">
+      <ele>762</ele>
+      <time>2022-01-17T21:29:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1933444" lon="17.0626045">
+      <ele>762</ele>
+      <time>2022-01-17T21:29:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

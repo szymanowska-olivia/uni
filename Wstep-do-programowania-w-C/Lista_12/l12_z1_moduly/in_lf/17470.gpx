@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:53Z</time>
+    <bounds maxlat="52.2634261" maxlon="16.7664346" minlat="52.2588647" minlon="16.7581225"/>
+  </metadata>
+  <wpt lat="52.258865" lon="16.766435">
+    <ele>79</ele>
+    <name>Gorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11860">
+      <text>Gorka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.263426" lon="16.758122">
+    <ele>81</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11643">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2588647,16.7664346;52.26008681683913,16.764120549999973;52.2634261,16.7581225">
+    <text>Gorka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2588647" lon="16.7664346">
+      <ele>79</ele>
+      <time>2022-01-18T01:13:53Z</time>
+    </trkpt>
+    <trkpt lat="52.2613089" lon="16.7618065">
+      <ele>72</ele>
+      <time>2022-01-18T01:22:04Z</time>
+    </trkpt>
+    <trkpt lat="52.2619787" lon="16.7604868">
+      <ele>82</ele>
+      <time>2022-01-18T01:24:22Z</time>
+    </trkpt>
+    <trkpt lat="52.262307" lon="16.7597573">
+      <ele>84</ele>
+      <time>2022-01-18T01:25:35Z</time>
+    </trkpt>
+    <trkpt lat="52.2626419" lon="16.7591672">
+      <ele>83</ele>
+      <time>2022-01-18T01:26:39Z</time>
+    </trkpt>
+    <trkpt lat="52.2629374" lon="16.7586629">
+      <ele>80</ele>
+      <time>2022-01-18T01:27:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2634261" lon="16.7581225">
+      <ele>81</ele>
+      <time>2022-01-18T01:28:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

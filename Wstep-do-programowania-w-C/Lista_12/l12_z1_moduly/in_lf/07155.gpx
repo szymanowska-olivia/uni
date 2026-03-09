@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:45Z</time>
+    <bounds maxlat="50.7468837" maxlon="15.7889498" minlat="50.7456807" minlon="15.7864791"/>
+  </metadata>
+  <wpt lat="50.745681" lon="15.786479">
+    <ele>1160</ele>
+    <name>Sowia Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/1373">
+      <text>Sowia Przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.746884" lon="15.78895">
+    <ele>1164</ele>
+    <name>Sowia Przelecz, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4870">
+      <text>Sowia Przelecz, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sowia Przelecz - Sowia Przelecz, odejscie szlaku niebieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7456807,15.7864791;50.74600395111589,15.787157250000007;50.7468837,15.7889498">
+    <text>Sowia Przelecz - Sowia Przelecz, odejscie szlaku niebieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7456807" lon="15.7864791">
+      <ele>1160</ele>
+      <time>2022-01-17T22:18:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7463272" lon="15.7878354">
+      <ele>1157</ele>
+      <time>2022-01-17T22:21:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7465818" lon="15.7884148">
+      <ele>1160</ele>
+      <time>2022-01-17T22:22:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7468837" lon="15.7889498">
+      <ele>1164</ele>
+      <time>2022-01-17T22:23:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

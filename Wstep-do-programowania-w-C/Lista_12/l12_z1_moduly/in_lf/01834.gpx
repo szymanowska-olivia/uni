@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:50Z</time>
+    <bounds maxlat="50.8188023" maxlon="15.5024117" minlat="50.8141159" minlon="15.4961855"/>
+  </metadata>
+  <wpt lat="50.818802" lon="15.502412">
+    <ele>755</ele>
+    <name>Rozdroze pod Kamienczykiem</name>
+    <link href="https://mapa-turystyczna.pl/node/1334">
+      <text>Rozdroze pod Kamienczykiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.814116" lon="15.496185">
+    <ele>843</ele>
+    <name>Schronisko Kamienczyk</name>
+    <link href="https://mapa-turystyczna.pl/node/1351">
+      <text>Schronisko Kamienczyk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze pod Kamienczykiem - Schronisko Kamienczyk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8188023,15.5024117;50.81614680527451,15.499130049999987;50.8141159,15.4961855">
+    <text>Rozdroze pod Kamienczykiem - Schronisko Kamienczyk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8188023" lon="15.5024117">
+      <ele>755</ele>
+      <time>2022-01-17T21:06:50Z</time>
+    </trkpt>
+    <trkpt lat="50.8168487" lon="15.5000728">
+      <ele>781</ele>
+      <time>2022-01-17T21:14:44Z</time>
+    </trkpt>
+    <trkpt lat="50.8154449" lon="15.4981873">
+      <ele>809</ele>
+      <time>2022-01-17T21:20:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8143257" lon="15.496881">
+      <ele>838</ele>
+      <time>2022-01-17T21:25:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8142208" lon="15.496662">
+      <ele>840</ele>
+      <time>2022-01-17T21:25:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8141159" lon="15.4961855">
+      <ele>843</ele>
+      <time>2022-01-17T21:26:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

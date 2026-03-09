@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:22:36Z</time>
+    <bounds maxlat="49.4030939" maxlon="18.3848745" minlat="49.4022119" minlon="18.3837426"/>
+  </metadata>
+  <wpt lat="49.403094" lon="18.383743">
+    <ele>850</ele>
+    <name>Trestik, turisticka chata, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/7631">
+      <text>Trestik, turisticka chata, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="49.402212" lon="18.384874">
+    <ele>850</ele>
+    <name>Trestik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7551">
+      <text>Trestik, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trestik, turisticka chata, bus - Trestik, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4030939,18.3837426;49.40254005022411,18.384454700000024;49.4022119,18.3848745">
+    <text>Trestik, turisticka chata, bus - Trestik, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4030939" lon="18.3837426">
+      <ele>850</ele>
+      <time>2022-01-17T23:22:36Z</time>
+    </trkpt>
+    <trkpt lat="49.4030078" lon="18.3838204">
+      <ele>850</ele>
+      <time>2022-01-17T23:22:46Z</time>
+    </trkpt>
+    <trkpt lat="49.4026884" lon="18.384271">
+      <ele>847</ele>
+      <time>2022-01-17T23:23:32Z</time>
+    </trkpt>
+    <trkpt lat="49.4023917" lon="18.3846384">
+      <ele>847</ele>
+      <time>2022-01-17T23:24:11Z</time>
+    </trkpt>
+    <trkpt lat="49.4022119" lon="18.3848745">
+      <ele>850</ele>
+      <time>2022-01-17T23:24:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

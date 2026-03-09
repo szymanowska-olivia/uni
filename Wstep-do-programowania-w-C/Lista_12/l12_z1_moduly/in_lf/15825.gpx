@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:14Z</time>
+    <bounds maxlat="54.4404894" maxlon="18.536607" minlat="54.440374" minlon="18.5362154"/>
+  </metadata>
+  <wpt lat="54.440489" lon="18.536607">
+    <ele>123</ele>
+    <name>Mala Gwiazda</name>
+    <link href="https://mapa-turystyczna.pl/node/10812">
+      <text>Mala Gwiazda</text>
+    </link>
+  </wpt>
+  <wpt lat="54.440374" lon="18.536215">
+    <ele>123</ele>
+    <name>Skrzyzowanie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10825">
+      <text>Skrzyzowanie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Gwiazda - Skrzyzowanie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.4404894,18.536607;54.44043170004064,18.53641119999998;54.440374,18.5362154">
+    <text>Mala Gwiazda - Skrzyzowanie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.4404894" lon="18.536607">
+      <ele>123</ele>
+      <time>2022-01-18T00:46:14Z</time>
+    </trkpt>
+    <trkpt lat="54.440374" lon="18.5362154">
+      <ele>123</ele>
+      <time>2022-01-18T00:47:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

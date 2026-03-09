@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:08Z</time>
+    <bounds maxlat="53.9727471" maxlon="14.7692194" minlat="53.971194" minlon="14.7679523"/>
+  </metadata>
+  <wpt lat="53.972747" lon="14.767952">
+    <ele>10</ele>
+    <name>Kamien Pomorski, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/8605">
+      <text>Kamien Pomorski, ul. Slowackiego</text>
+    </link>
+  </wpt>
+  <wpt lat="53.971194" lon="14.769219">
+    <ele>16</ele>
+    <name>Kamien Pomorski, ul. Jagielly</name>
+    <link href="https://mapa-turystyczna.pl/node/8606">
+      <text>Kamien Pomorski, ul. Jagielly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Slowackiego - Kamien Pomorski, ul. Jagielly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9727471,14.7679523;53.97171525326008,14.768815300000018;53.971194,14.7692194">
+    <text>Kamien Pomorski, ul. Slowackiego - Kamien Pomorski, ul. Jagielly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9727471" lon="14.7679523">
+      <ele>10</ele>
+      <time>2022-01-17T23:52:08Z</time>
+    </trkpt>
+    <trkpt lat="53.9722365" lon="14.7684112">
+      <ele>13</ele>
+      <time>2022-01-17T23:53:08Z</time>
+    </trkpt>
+    <trkpt lat="53.971194" lon="14.7692194">
+      <ele>16</ele>
+      <time>2022-01-17T23:55:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

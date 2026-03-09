@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:53Z</time>
+    <bounds maxlat="50.7424783" maxlon="15.6086339" minlat="50.7409361" minlon="15.605135"/>
+  </metadata>
+  <wpt lat="50.742478" lon="15.608531">
+    <ele>782</ele>
+    <name>U Divci lavky</name>
+    <link href="https://mapa-turystyczna.pl/node/1413">
+      <text>U Divci lavky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.740936" lon="15.605135">
+    <ele>785</ele>
+    <name>Ropik Pod Divci strani</name>
+    <link href="https://mapa-turystyczna.pl/node/1329">
+      <text>Ropik Pod Divci strani</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Divci lavky - Ropik Pod Divci strani</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7424783,15.6085307;50.741510500724026,15.606860299999997;50.7409361,15.605135">
+    <text>U Divci lavky - Ropik Pod Divci strani</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7424783" lon="15.6085307">
+      <ele>782</ele>
+      <time>2022-01-17T21:08:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7423892" lon="15.6086339">
+      <ele>782</ele>
+      <time>2022-01-17T21:09:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7422696" lon="15.6085441">
+      <ele>782</ele>
+      <time>2022-01-17T21:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7420269" lon="15.6081552">
+      <ele>781</ele>
+      <time>2022-01-17T21:09:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7417709" lon="15.6076013">
+      <ele>779</ele>
+      <time>2022-01-17T21:10:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7412501" lon="15.6061193">
+      <ele>765</ele>
+      <time>2022-01-17T21:12:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7411794" lon="15.6058377">
+      <ele>770</ele>
+      <time>2022-01-17T21:12:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7409361" lon="15.605135">
+      <ele>785</ele>
+      <time>2022-01-17T21:13:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

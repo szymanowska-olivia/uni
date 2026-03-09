@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:35Z</time>
+    <bounds maxlat="50.1684345" maxlon="18.5796272" minlat="50.1376952" minlon="18.5708191"/>
+  </metadata>
+  <wpt lat="50.137695" lon="18.575407">
+    <ele>274</ele>
+    <name>Kamien, ul. Jodlowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9633">
+      <text>Kamien, ul. Jodlowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.168434" lon="18.579627">
+    <ele>273</ele>
+    <name>Lasoki Pierwsze</name>
+    <link href="https://mapa-turystyczna.pl/node/9583">
+      <text>Lasoki Pierwsze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien, ul. Jodlowa - Lasoki Pierwsze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1376952,18.5754068;50.158308113011614,18.574863850000032;50.1684345,18.5796272">
+    <text>Kamien, ul. Jodlowa - Lasoki Pierwsze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1376952" lon="18.5754068">
+      <ele>274</ele>
+      <time>2022-01-18T00:16:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1391046" lon="18.5763962">
+      <ele>281</ele>
+      <time>2022-01-18T00:19:12Z</time>
+    </trkpt>
+    <trkpt lat="50.151654" lon="18.5708191">
+      <ele>287</ele>
+      <time>2022-01-18T00:41:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1649613" lon="18.5789086">
+      <ele>279</ele>
+      <time>2022-01-18T01:05:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1660197" lon="18.5791125">
+      <ele>277</ele>
+      <time>2022-01-18T01:07:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1666794" lon="18.5789194">
+      <ele>277</ele>
+      <time>2022-01-18T01:08:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1669062" lon="18.5788228">
+      <ele>278</ele>
+      <time>2022-01-18T01:08:51Z</time>
+    </trkpt>
+    <trkpt lat="50.168157" lon="18.5795309">
+      <ele>276</ele>
+      <time>2022-01-18T01:11:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1684345" lon="18.5796272">
+      <ele>273</ele>
+      <time>2022-01-18T01:11:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

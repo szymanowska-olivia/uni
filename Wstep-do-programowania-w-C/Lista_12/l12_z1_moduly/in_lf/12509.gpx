@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:13Z</time>
+    <bounds maxlat="53.9734801" maxlon="14.7696582" minlat="53.9727471" minlon="14.7679523"/>
+  </metadata>
+  <wpt lat="53.97348" lon="14.769439">
+    <ele>10</ele>
+    <name>Kamien Pomorski, ul. Marianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8604">
+      <text>Kamien Pomorski, ul. Marianska</text>
+    </link>
+  </wpt>
+  <wpt lat="53.972747" lon="14.767952">
+    <ele>10</ele>
+    <name>Kamien Pomorski, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/8605">
+      <text>Kamien Pomorski, ul. Slowackiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Marianska - Kamien Pomorski, ul. Slowackiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9734801,14.7694387;53.97312305022145,14.769234400000002;53.9727471,14.7679523">
+    <text>Kamien Pomorski, ul. Marianska - Kamien Pomorski, ul. Slowackiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9734801" lon="14.7694387">
+      <ele>10</ele>
+      <time>2022-01-17T23:51:13Z</time>
+    </trkpt>
+    <trkpt lat="53.9732589" lon="14.7696582">
+      <ele>13</ele>
+      <time>2022-01-17T23:51:46Z</time>
+    </trkpt>
+    <trkpt lat="53.9729872" lon="14.7688106">
+      <ele>11</ele>
+      <time>2022-01-17T23:53:00Z</time>
+    </trkpt>
+    <trkpt lat="53.9727471" lon="14.7679523">
+      <ele>10</ele>
+      <time>2022-01-17T23:54:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

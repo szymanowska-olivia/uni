@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:50Z</time>
+    <bounds maxlat="52.3384071" maxlon="20.8356142" minlat="52.3281075" minlon="20.8277071"/>
+  </metadata>
+  <wpt lat="52.338407" lon="20.835614">
+    <ele>86</ele>
+    <name>Lomianki, kamien Zboinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/4944">
+      <text>Lomianki, kamien Zboinskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.328108" lon="20.827707">
+    <ele>88</ele>
+    <name>Kamien Witolda Plapisa</name>
+    <link href="https://mapa-turystyczna.pl/node/4977">
+      <text>Kamien Witolda Plapisa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lomianki, kamien Zboinskiego - Kamien Witolda Plapisa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3384071,20.8356142;52.33272985266069,20.831789399999984;52.3281075,20.8277071">
+    <text>Lomianki, kamien Zboinskiego - Kamien Witolda Plapisa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3384071" lon="20.8356142">
+      <ele>86</ele>
+      <time>2022-01-17T22:21:50Z</time>
+    </trkpt>
+    <trkpt lat="52.3364011" lon="20.8348686">
+      <ele>90</ele>
+      <time>2022-01-17T22:25:24Z</time>
+    </trkpt>
+    <trkpt lat="52.333215" lon="20.8318913">
+      <ele>87</ele>
+      <time>2022-01-17T22:31:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3322447" lon="20.8316875">
+      <ele>86</ele>
+      <time>2022-01-17T22:33:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3306974" lon="20.8304107">
+      <ele>88</ele>
+      <time>2022-01-17T22:36:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3284379" lon="20.8282975">
+      <ele>90</ele>
+      <time>2022-01-17T22:40:59Z</time>
+    </trkpt>
+    <trkpt lat="52.3281075" lon="20.8277071">
+      <ele>88</ele>
+      <time>2022-01-17T22:41:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

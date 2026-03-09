@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:57Z</time>
+    <bounds maxlat="49.229726" maxlon="19.859817" minlat="49.228966" minlon="19.858774"/>
+  </metadata>
+  <wpt lat="49.228966" lon="19.858774">
+    <ele>1108</ele>
+    <name>Schronisko PTTK na Hali Ornak</name>
+    <link href="https://mapa-turystyczna.pl/node/3240">
+      <text>Schronisko PTTK na Hali Ornak</text>
+    </link>
+  </wpt>
+  <wpt lat="49.229726" lon="19.859817">
+    <ele>1116</ele>
+    <name>Tomanowa Dolina</name>
+    <link href="https://mapa-turystyczna.pl/node/286">
+      <text>Tomanowa Dolina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK na Hali Ornak - Tomanowa Dolina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.228966,19.858774;49.22925950012583,19.85960099999997;49.229726,19.859817">
+    <text>Schronisko PTTK na Hali Ornak - Tomanowa Dolina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.228966" lon="19.858774">
+      <ele>1108</ele>
+      <time>2022-01-17T21:44:57Z</time>
+    </trkpt>
+    <trkpt lat="49.228997" lon="19.858805">
+      <ele>1108</ele>
+      <time>2022-01-17T21:45:03Z</time>
+    </trkpt>
+    <trkpt lat="49.229047" lon="19.859001">
+      <ele>1111</ele>
+      <time>2022-01-17T21:45:23Z</time>
+    </trkpt>
+    <trkpt lat="49.229059" lon="19.859148">
+      <ele>1113</ele>
+      <time>2022-01-17T21:45:38Z</time>
+    </trkpt>
+    <trkpt lat="49.229026" lon="19.859356">
+      <ele>1118</ele>
+      <time>2022-01-17T21:46:00Z</time>
+    </trkpt>
+    <trkpt lat="49.229148" lon="19.859525">
+      <ele>1118</ele>
+      <time>2022-01-17T21:46:25Z</time>
+    </trkpt>
+    <trkpt lat="49.229371" lon="19.859677">
+      <ele>1118</ele>
+      <time>2022-01-17T21:47:02Z</time>
+    </trkpt>
+    <trkpt lat="49.229589" lon="19.859772">
+      <ele>1117</ele>
+      <time>2022-01-17T21:47:36Z</time>
+    </trkpt>
+    <trkpt lat="49.229726" lon="19.859817">
+      <ele>1116</ele>
+      <time>2022-01-17T21:47:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:09Z</time>
+    <bounds maxlat="50.5145148" maxlon="16.3175683" minlat="50.5143692" minlon="16.3171542"/>
+  </metadata>
+  <wpt lat="50.514515" lon="16.317154">
+    <ele>758</ele>
+    <name>Bozanovsky Spicak, vyhlidkove misto</name>
+    <link href="https://mapa-turystyczna.pl/node/5751">
+      <text>Bozanovsky Spicak, vyhlidkove misto</text>
+    </link>
+  </wpt>
+  <wpt lat="50.514369" lon="16.317568">
+    <ele>751</ele>
+    <name>Bozanovsky Spicak</name>
+    <link href="https://mapa-turystyczna.pl/node/13150">
+      <text>Bozanovsky Spicak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bozanovsky Spicak, vyhlidkove misto - Bozanovsky Spicak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5145148,16.3171542;50.514409000016784,16.31742184999999;50.5143692,16.3175683">
+    <text>Bozanovsky Spicak, vyhlidkove misto - Bozanovsky Spicak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5145148" lon="16.3171542">
+      <ele>758</ele>
+      <time>2022-01-18T01:49:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5144488" lon="16.3172754">
+      <ele>757</ele>
+      <time>2022-01-18T01:49:29Z</time>
+    </trkpt>
+    <trkpt lat="50.5143692" lon="16.3175683">
+      <ele>751</ele>
+      <time>2022-01-18T01:50:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

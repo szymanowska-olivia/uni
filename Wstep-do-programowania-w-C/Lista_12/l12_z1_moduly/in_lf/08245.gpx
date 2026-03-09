@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:21Z</time>
+    <bounds maxlat="50.9788413" maxlon="15.822351" minlat="50.9785638" minlon="15.8199184"/>
+  </metadata>
+  <wpt lat="50.978841" lon="15.822351">
+    <ele>642</ele>
+    <name>Pod Panska Wysoczka</name>
+    <link href="https://mapa-turystyczna.pl/node/3276">
+      <text>Pod Panska Wysoczka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.978564" lon="15.819918">
+    <ele>663</ele>
+    <name>Skrzyzowanie pod Okolem</name>
+    <link href="https://mapa-turystyczna.pl/node/5732">
+      <text>Skrzyzowanie pod Okolem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Panska Wysoczka - Skrzyzowanie pod Okolem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9788413,15.822351;50.9787025502073,15.821134700000004;50.9785638,15.8199184">
+    <text>Pod Panska Wysoczka - Skrzyzowanie pod Okolem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9788413" lon="15.822351">
+      <ele>642</ele>
+      <time>2022-01-17T22:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.9785638" lon="15.8199184">
+      <ele>663</ele>
+      <time>2022-01-17T22:40:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

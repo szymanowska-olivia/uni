@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:04Z</time>
+    <bounds maxlat="49.8089586" maxlon="19.2045953" minlat="49.8081692" minlon="19.201296"/>
+  </metadata>
+  <wpt lat="49.808959" lon="19.204595">
+    <ele>316</ele>
+    <name>Zarnowka Mala, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3879">
+      <text>Zarnowka Mala, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.808185" lon="19.201296">
+    <ele>320</ele>
+    <name>Zarnowka Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/1082">
+      <text>Zarnowka Mala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zarnowka Mala, rozejscie szlakow - Zarnowka Mala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8089586,19.2045953;49.8086228011648,19.203529000000028;49.8081854,19.201296">
+    <text>Zarnowka Mala, rozejscie szlakow - Zarnowka Mala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8089586" lon="19.2045953">
+      <ele>316</ele>
+      <time>2022-01-17T21:57:04Z</time>
+    </trkpt>
+    <trkpt lat="49.808287" lon="19.2024627">
+      <ele>316</ele>
+      <time>2022-01-17T22:00:24Z</time>
+    </trkpt>
+    <trkpt lat="49.8081877" lon="19.2018847">
+      <ele>318</ele>
+      <time>2022-01-17T22:01:14Z</time>
+    </trkpt>
+    <trkpt lat="49.8081692" lon="19.2015689">
+      <ele>319</ele>
+      <time>2022-01-17T22:01:41Z</time>
+    </trkpt>
+    <trkpt lat="49.8081854" lon="19.201296">
+      <ele>320</ele>
+      <time>2022-01-17T22:02:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

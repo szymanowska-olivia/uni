@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:46Z</time>
+    <bounds maxlat="49.240524" maxlon="19.86439" minlat="49.239461" minlon="19.863816"/>
+  </metadata>
+  <wpt lat="49.240524" lon="19.86439">
+    <ele>1044</ele>
+    <name>Dolina Koscieliska, wyjscie z Mylnej Jaskini</name>
+    <link href="https://mapa-turystyczna.pl/node/3965">
+      <text>Dolina Koscieliska, wyjscie z Mylnej Jaskini</text>
+    </link>
+  </wpt>
+  <wpt lat="49.239461" lon="19.863816">
+    <ele>1056</ele>
+    <name>Dolina Koscieliska, szlak do Mylnej Jaskini</name>
+    <link href="https://mapa-turystyczna.pl/node/194">
+      <text>Dolina Koscieliska, szlak do Mylnej Jaskini</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Koscieliska, wyjscie z Mylnej Jaskini - Dolina Koscieliska, szlak do Mylnej Jaskini</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.240524,19.86439;49.239987500098245,19.864046999999967;49.239461,19.863816">
+    <text>Dolina Koscieliska, wyjscie z Mylnej Jaskini - Dolina Koscieliska, szlak do Mylnej Jaskini</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.240524" lon="19.86439">
+      <ele>1044</ele>
+      <time>2022-01-17T21:59:46Z</time>
+    </trkpt>
+    <trkpt lat="49.240396" lon="19.864347">
+      <ele>1050</ele>
+      <time>2022-01-17T22:00:01Z</time>
+    </trkpt>
+    <trkpt lat="49.240269" lon="19.864286">
+      <ele>1056</ele>
+      <time>2022-01-17T22:00:15Z</time>
+    </trkpt>
+    <trkpt lat="49.240086" lon="19.864126">
+      <ele>1061</ele>
+      <time>2022-01-17T22:00:37Z</time>
+    </trkpt>
+    <trkpt lat="49.239889" lon="19.863968">
+      <ele>1060</ele>
+      <time>2022-01-17T22:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.239833" lon="19.863958">
+      <ele>1059</ele>
+      <time>2022-01-17T22:01:06Z</time>
+    </trkpt>
+    <trkpt lat="49.239766" lon="19.863941">
+      <ele>1057</ele>
+      <time>2022-01-17T22:01:13Z</time>
+    </trkpt>
+    <trkpt lat="49.239612" lon="19.863894">
+      <ele>1056</ele>
+      <time>2022-01-17T22:01:30Z</time>
+    </trkpt>
+    <trkpt lat="49.239461" lon="19.863816">
+      <ele>1056</ele>
+      <time>2022-01-17T22:01:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

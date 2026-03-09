@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:41Z</time>
+    <bounds maxlat="50.8439049" maxlon="16.2955239" minlat="50.8432186" minlon="16.2943851"/>
+  </metadata>
+  <wpt lat="50.843219" lon="16.294385">
+    <ele>406</ele>
+    <name>Zamek Ksiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/8503">
+      <text>Zamek Ksiaz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.843905" lon="16.295524">
+    <ele>395</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11884">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Ksiaz - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8432186,16.2943851;50.843436550015674,16.295245250000026;50.8439049,16.2955239">
+    <text>Zamek Ksiaz - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8432186" lon="16.2943851">
+      <ele>406</ele>
+      <time>2022-01-18T01:14:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8432661" lon="16.2944627">
+      <ele>406</ele>
+      <time>2022-01-18T01:14:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8433135" lon="16.2945941">
+      <ele>406</ele>
+      <time>2022-01-18T01:14:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8433325" lon="16.2947403">
+      <ele>405</ele>
+      <time>2022-01-18T01:15:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8433391" lon="16.2948697">
+      <ele>405</ele>
+      <time>2022-01-18T01:15:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8433983" lon="16.2951601">
+      <ele>404</ele>
+      <time>2022-01-18T01:15:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8434748" lon="16.2953304">
+      <ele>403</ele>
+      <time>2022-01-18T01:15:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8435879" lon="16.2953586">
+      <ele>402</ele>
+      <time>2022-01-18T01:16:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8437265" lon="16.29537">
+      <ele>399</ele>
+      <time>2022-01-18T01:16:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8438323" lon="16.295427">
+      <ele>397</ele>
+      <time>2022-01-18T01:16:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8439049" lon="16.2955239">
+      <ele>395</ele>
+      <time>2022-01-18T01:16:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

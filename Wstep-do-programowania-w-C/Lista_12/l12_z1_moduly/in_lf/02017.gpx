@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:47Z</time>
+    <bounds maxlat="50.7755439" maxlon="15.5362344" minlat="50.7709737" minlon="15.5356658"/>
+  </metadata>
+  <wpt lat="50.775544" lon="15.536234">
+    <ele>1387</ele>
+    <name>Zrodla Laby</name>
+    <link href="https://mapa-turystyczna.pl/node/1450">
+      <text>Zrodla Laby</text>
+    </link>
+  </wpt>
+  <wpt lat="50.770974" lon="15.535666">
+    <ele>1370</ele>
+    <name>Labska louka</name>
+    <link href="https://mapa-turystyczna.pl/node/1195">
+      <text>Labska louka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrodla Laby - Labska louka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7755439,15.5362344;50.7732809067002,15.536014450000017;50.7709737,15.5356658">
+    <text>Zrodla Laby - Labska louka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7755439" lon="15.5362344">
+      <ele>1387</ele>
+      <time>2022-01-17T21:09:47Z</time>
+    </trkpt>
+    <trkpt lat="50.774634" lon="15.5360949">
+      <ele>1387</ele>
+      <time>2022-01-17T21:11:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7740726" lon="15.5360949">
+      <ele>1384</ele>
+      <time>2022-01-17T21:13:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7724892" lon="15.535934">
+      <ele>1378</ele>
+      <time>2022-01-17T21:16:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7709737" lon="15.5356658">
+      <ele>1370</ele>
+      <time>2022-01-17T21:19:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

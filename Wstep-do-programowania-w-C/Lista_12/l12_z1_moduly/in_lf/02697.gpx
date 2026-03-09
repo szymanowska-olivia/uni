@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:38Z</time>
+    <bounds maxlat="50.2918206" maxlon="16.390518" minlat="50.2866658" minlon="16.3878679"/>
+  </metadata>
+  <wpt lat="50.286666" lon="16.387868">
+    <ele>877</ele>
+    <name>Luisino udoli</name>
+    <link href="https://mapa-turystyczna.pl/node/1891">
+      <text>Luisino udoli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.291821" lon="16.390518">
+    <ele>932</ele>
+    <name>Pod Marusou</name>
+    <link href="https://mapa-turystyczna.pl/node/1890">
+      <text>Pod Marusou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Luisino udoli - Pod Marusou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2866658,16.3878679;50.28924326979977,16.38919294999999;50.2918206,16.390518">
+    <text>Luisino udoli - Pod Marusou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2866658" lon="16.3878679">
+      <ele>877</ele>
+      <time>2022-01-17T21:19:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2918206" lon="16.390518">
+      <ele>932</ele>
+      <time>2022-01-17T21:34:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

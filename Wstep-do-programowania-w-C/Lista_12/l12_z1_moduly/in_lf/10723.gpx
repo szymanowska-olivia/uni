@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:19Z</time>
+    <bounds maxlat="50.11568" maxlon="16.6298541" minlat="50.1153743" minlon="16.6297762"/>
+  </metadata>
+  <wpt lat="50.115374" lon="16.629776">
+    <ele>707</ele>
+    <name>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/7537">
+      <text>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="50.11568" lon="16.629854">
+    <ele>703</ele>
+    <name>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky</name>
+    <link href="https://mapa-turystyczna.pl/node/1982">
+      <text>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky, parking - Przejscie graniczne Kamienczyk / Mladkov-Petrovicky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1153743,16.6297762;50.11555165017205,16.629842049999993;50.11568,16.6298541">
+    <text>Przejscie graniczne Kamienczyk / Mladkov-Petrovicky, parking - Przejscie graniczne Kamienczyk / Mladkov-Petrovicky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1153743" lon="16.6297762">
+      <ele>707</ele>
+      <time>2022-01-17T23:21:19Z</time>
+    </trkpt>
+    <trkpt lat="50.1154233" lon="16.62983">
+      <ele>706</ele>
+      <time>2022-01-17T23:21:30Z</time>
+    </trkpt>
+    <trkpt lat="50.11568" lon="16.6298541">
+      <ele>703</ele>
+      <time>2022-01-17T23:22:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

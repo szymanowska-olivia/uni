@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:43Z</time>
+    <bounds maxlat="51.0192217" maxlon="16.0224974" minlat="51.0148413" minlon="16.0204911"/>
+  </metadata>
+  <wpt lat="51.014841" lon="16.022497">
+    <ele>391</ele>
+    <name>Las Swiniec</name>
+    <link href="https://mapa-turystyczna.pl/node/3296">
+      <text>Las Swiniec</text>
+    </link>
+  </wpt>
+  <wpt lat="51.019222" lon="16.020491">
+    <ele>375</ele>
+    <name>Muchow</name>
+    <link href="https://mapa-turystyczna.pl/node/3297">
+      <text>Muchow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Swiniec - Muchow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0148413,16.0224974;51.016734655467125,16.02164984999997;51.0192217,16.0204911">
+    <text>Las Swiniec - Muchow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0148413" lon="16.0224974">
+      <ele>391</ele>
+      <time>2022-01-17T21:45:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0151114" lon="16.0222614">
+      <ele>391</ele>
+      <time>2022-01-17T21:46:23Z</time>
+    </trkpt>
+    <trkpt lat="51.0160226" lon="16.0218215">
+      <ele>389</ele>
+      <time>2022-01-17T21:48:27Z</time>
+    </trkpt>
+    <trkpt lat="51.0174467" lon="16.0214782">
+      <ele>382</ele>
+      <time>2022-01-17T21:51:34Z</time>
+    </trkpt>
+    <trkpt lat="51.0179782" lon="16.021446">
+      <ele>382</ele>
+      <time>2022-01-17T21:52:43Z</time>
+    </trkpt>
+    <trkpt lat="51.0184894" lon="16.0211778">
+      <ele>379</ele>
+      <time>2022-01-17T21:53:53Z</time>
+    </trkpt>
+    <trkpt lat="51.0192217" lon="16.0204911">
+      <ele>375</ele>
+      <time>2022-01-17T21:55:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:15:39Z</time>
+    <bounds maxlat="49.615631" maxlon="18.790266" minlat="49.61377" minlon="18.78967"/>
+  </metadata>
+  <wpt lat="49.615631" lon="18.78967">
+    <ele>736</ele>
+    <name>Filipka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/4768">
+      <text>Filipka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.61377" lon="18.790215">
+    <ele>762</ele>
+    <name>Filipka</name>
+    <link href="https://mapa-turystyczna.pl/node/741">
+      <text>Filipka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Filipka, rozc. - Filipka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.615631,18.78967;49.614619000157745,18.79025150000002;49.61377,18.790215">
+    <text>Filipka, rozc. - Filipka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.615631" lon="18.78967">
+      <ele>736</ele>
+      <time>2022-01-17T22:15:39Z</time>
+    </trkpt>
+    <trkpt lat="49.615242" lon="18.790064">
+      <ele>742</ele>
+      <time>2022-01-17T22:16:50Z</time>
+    </trkpt>
+    <trkpt lat="49.615126" lon="18.790149">
+      <ele>746</ele>
+      <time>2022-01-17T22:17:10Z</time>
+    </trkpt>
+    <trkpt lat="49.61502" lon="18.790188">
+      <ele>750</ele>
+      <time>2022-01-17T22:17:27Z</time>
+    </trkpt>
+    <trkpt lat="49.614918" lon="18.790223">
+      <ele>752</ele>
+      <time>2022-01-17T22:17:44Z</time>
+    </trkpt>
+    <trkpt lat="49.614811" lon="18.790247">
+      <ele>754</ele>
+      <time>2022-01-17T22:18:00Z</time>
+    </trkpt>
+    <trkpt lat="49.614743" lon="18.790259">
+      <ele>756</ele>
+      <time>2022-01-17T22:18:11Z</time>
+    </trkpt>
+    <trkpt lat="49.614495" lon="18.790244">
+      <ele>759</ele>
+      <time>2022-01-17T22:18:49Z</time>
+    </trkpt>
+    <trkpt lat="49.614332" lon="18.790242">
+      <ele>760</ele>
+      <time>2022-01-17T22:19:13Z</time>
+    </trkpt>
+    <trkpt lat="49.614048" lon="18.790266">
+      <ele>762</ele>
+      <time>2022-01-17T22:19:56Z</time>
+    </trkpt>
+    <trkpt lat="49.613816" lon="18.790237">
+      <ele>762</ele>
+      <time>2022-01-17T22:20:32Z</time>
+    </trkpt>
+    <trkpt lat="49.61377" lon="18.790215">
+      <ele>762</ele>
+      <time>2022-01-17T22:20:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:13Z</time>
+    <bounds maxlat="50.7705433" maxlon="15.5467487" minlat="50.7690767" minlon="15.546121"/>
+  </metadata>
+  <wpt lat="50.769077" lon="15.546121">
+    <ele>1300</ele>
+    <name>Labska bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1194">
+      <text>Labska bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.770543" lon="15.546749">
+    <ele>1295</ele>
+    <name>Pod Labskou boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1277">
+      <text>Pod Labskou boudou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Labska bouda - Pod Labskou boudou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7690767,15.546121;50.769660203639084,15.546413349999995;50.7705433,15.5467487">
+    <text>Labska bouda - Pod Labskou boudou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7690767" lon="15.546121">
+      <ele>1300</ele>
+      <time>2022-01-17T21:03:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7702437" lon="15.5467057">
+      <ele>1297</ele>
+      <time>2022-01-17T21:05:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7705433" lon="15.5467487">
+      <ele>1295</ele>
+      <time>2022-01-17T21:06:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

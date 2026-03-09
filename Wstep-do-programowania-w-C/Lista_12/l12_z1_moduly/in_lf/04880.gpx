@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:47:43Z</time>
+    <bounds maxlat="51.1100587" maxlon="15.5938697" minlat="51.1088976" minlon="15.592416"/>
+  </metadata>
+  <wpt lat="51.108898" lon="15.59387">
+    <ele>209</ele>
+    <name>Lwowek Slaski, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3306">
+      <text>Lwowek Slaski, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.110012" lon="15.592416">
+    <ele>208</ele>
+    <name>Lwowek Slaski, ul. Rzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/3403">
+      <text>Lwowek Slaski, ul. Rzeczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Dworcowa - Lwowek Slaski, ul. Rzeczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1088976,15.5938697;51.10945500336132,15.593290349999997;51.1100124,15.592416">
+    <text>Lwowek Slaski, ul. Dworcowa - Lwowek Slaski, ul. Rzeczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1088976" lon="15.5938697">
+      <ele>209</ele>
+      <time>2022-01-17T21:47:43Z</time>
+    </trkpt>
+    <trkpt lat="51.1100124" lon="15.592711">
+      <ele>208</ele>
+      <time>2022-01-17T21:50:18Z</time>
+    </trkpt>
+    <trkpt lat="51.1100587" lon="15.592622">
+      <ele>208</ele>
+      <time>2022-01-17T21:50:26Z</time>
+    </trkpt>
+    <trkpt lat="51.1100587" lon="15.5925254">
+      <ele>208</ele>
+      <time>2022-01-17T21:50:33Z</time>
+    </trkpt>
+    <trkpt lat="51.1100124" lon="15.592416">
+      <ele>208</ele>
+      <time>2022-01-17T21:50:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

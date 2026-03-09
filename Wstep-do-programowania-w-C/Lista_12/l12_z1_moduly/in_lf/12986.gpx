@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:08Z</time>
+    <bounds maxlat="50.8083519" maxlon="15.9004581" minlat="50.8062466" minlon="15.8932149"/>
+  </metadata>
+  <wpt lat="50.808352" lon="15.900458">
+    <ele>944</ele>
+    <name>Skalnik</name>
+    <link href="https://mapa-turystyczna.pl/node/8950">
+      <text>Skalnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.806301" lon="15.893215">
+    <ele>924</ele>
+    <name>Pod Ostra Mala</name>
+    <link href="https://mapa-turystyczna.pl/node/2988">
+      <text>Pod Ostra Mala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalnik - Pod Ostra Mala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8083519,15.9004581;50.80728390017755,15.897501100000001;50.8063009,15.8932149">
+    <text>Skalnik - Pod Ostra Mala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8083519" lon="15.9004581">
+      <ele>944</ele>
+      <time>2022-01-18T00:00:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8077178" lon="15.8995449">
+      <ele>941</ele>
+      <time>2022-01-18T00:01:46Z</time>
+    </trkpt>
+    <trkpt lat="50.8074127" lon="15.8987296">
+      <ele>938</ele>
+      <time>2022-01-18T00:02:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8071551" lon="15.8962726">
+      <ele>931</ele>
+      <time>2022-01-18T00:05:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8065754" lon="15.8952453">
+      <ele>932</ele>
+      <time>2022-01-18T00:07:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8063296" lon="15.8946137">
+      <ele>929</ele>
+      <time>2022-01-18T00:08:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8062466" lon="15.8938963">
+      <ele>927</ele>
+      <time>2022-01-18T00:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8063009" lon="15.8932149">
+      <ele>924</ele>
+      <time>2022-01-18T00:10:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

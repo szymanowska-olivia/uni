@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:28:43Z</time>
+    <bounds maxlat="50.7063447" maxlon="16.0025149" minlat="50.7013113" minlon="15.9987934"/>
+  </metadata>
+  <wpt lat="50.706345" lon="16.002241">
+    <ele>493</ele>
+    <name>Lubawka</name>
+    <link href="https://mapa-turystyczna.pl/node/2403">
+      <text>Lubawka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.70132" lon="16.002515">
+    <ele>505</ele>
+    <name>Lubawka, Straz Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/2404">
+      <text>Lubawka, Straz Graniczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubawka - Lubawka, Straz Graniczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7063447,16.0022414;50.702897151884976,15.999070350000002;50.7013199,16.0025149">
+    <text>Lubawka - Lubawka, Straz Graniczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7063447" lon="16.0022414">
+      <ele>493</ele>
+      <time>2022-01-17T21:28:43Z</time>
+    </trkpt>
+    <trkpt lat="50.705959" lon="16.0018967">
+      <ele>493</ele>
+      <time>2022-01-17T21:29:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7048447" lon="16.0005342">
+      <ele>494</ele>
+      <time>2022-01-17T21:32:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7043946" lon="16.000101">
+      <ele>493</ele>
+      <time>2022-01-17T21:33:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7033176" lon="15.9993473">
+      <ele>493</ele>
+      <time>2022-01-17T21:36:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7024767" lon="15.9987934">
+      <ele>495</ele>
+      <time>2022-01-17T21:38:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7024312" lon="15.9989495">
+      <ele>496</ele>
+      <time>2022-01-17T21:38:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7015713" lon="16.0008789">
+      <ele>504</ele>
+      <time>2022-01-17T21:41:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7014493" lon="16.001385">
+      <ele>504</ele>
+      <time>2022-01-17T21:42:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7013113" lon="16.0023473">
+      <ele>505</ele>
+      <time>2022-01-17T21:43:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7013199" lon="16.0025149">
+      <ele>505</ele>
+      <time>2022-01-17T21:43:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

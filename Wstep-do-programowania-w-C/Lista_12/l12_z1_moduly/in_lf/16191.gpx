@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:37Z</time>
+    <bounds maxlat="50.8639667" maxlon="15.7064188" minlat="50.8637457" minlon="15.7056344"/>
+  </metadata>
+  <wpt lat="50.863967" lon="15.705634">
+    <ele>417</ele>
+    <name>Rozdroze Panorama</name>
+    <link href="https://mapa-turystyczna.pl/node/11042">
+      <text>Rozdroze Panorama</text>
+    </link>
+  </wpt>
+  <wpt lat="50.863746" lon="15.706419">
+    <ele>412</ele>
+    <name>Panorama</name>
+    <link href="https://mapa-turystyczna.pl/node/11056">
+      <text>Panorama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze Panorama - Panorama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8639667,15.7056344;50.86381110001066,15.706131500000025;50.8637457,15.7064188">
+    <text>Rozdroze Panorama - Panorama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8639667" lon="15.7056344">
+      <ele>417</ele>
+      <time>2022-01-18T00:52:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8638426" lon="15.7060159">
+      <ele>415</ele>
+      <time>2022-01-18T00:53:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8637796" lon="15.7062471">
+      <ele>414</ele>
+      <time>2022-01-18T00:53:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8637457" lon="15.7064188">
+      <ele>412</ele>
+      <time>2022-01-18T00:53:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

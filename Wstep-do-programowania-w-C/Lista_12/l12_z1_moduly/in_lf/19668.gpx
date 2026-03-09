@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:32Z</time>
+    <bounds maxlat="51.4653208" maxlon="23.1562671" minlat="51.4476032" minlon="23.1531462"/>
+  </metadata>
+  <wpt lat="51.465321" lon="23.156267">
+    <ele>167</ele>
+    <name>Lipniak</name>
+    <link href="https://mapa-turystyczna.pl/node/12864">
+      <text>Lipniak</text>
+    </link>
+  </wpt>
+  <wpt lat="51.447603" lon="23.153423">
+    <ele>169</ele>
+    <name>Kolonia Wola Wereszczynska</name>
+    <link href="https://mapa-turystyczna.pl/node/13270">
+      <text>Kolonia Wola Wereszczynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipniak - Kolonia Wola Wereszczynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4653208,23.1562671;51.458217579462406,23.1544757;51.4476032,23.1534235">
+    <text>Lipniak - Kolonia Wola Wereszczynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4653208" lon="23.1562671">
+      <ele>167</ele>
+      <time>2022-01-18T01:52:32Z</time>
+    </trkpt>
+    <trkpt lat="51.4609108" lon="23.1546437">
+      <ele>169</ele>
+      <time>2022-01-18T02:00:07Z</time>
+    </trkpt>
+    <trkpt lat="51.4555242" lon="23.1543077">
+      <ele>173</ele>
+      <time>2022-01-18T02:09:09Z</time>
+    </trkpt>
+    <trkpt lat="51.4533546" lon="23.1538181">
+      <ele>177</ele>
+      <time>2022-01-18T02:12:50Z</time>
+    </trkpt>
+    <trkpt lat="51.4506616" lon="23.1531462">
+      <ele>176</ele>
+      <time>2022-01-18T02:17:24Z</time>
+    </trkpt>
+    <trkpt lat="51.4495298" lon="23.1532574">
+      <ele>168</ele>
+      <time>2022-01-18T02:19:18Z</time>
+    </trkpt>
+    <trkpt lat="51.4476032" lon="23.1534235">
+      <ele>169</ele>
+      <time>2022-01-18T02:22:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

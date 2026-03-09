@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:02Z</time>
+    <bounds maxlat="50.2654581" maxlon="17.3962498" minlat="50.2635686" minlon="17.3956704"/>
+  </metadata>
+  <wpt lat="50.265458" lon="17.39567">
+    <ele>404</ele>
+    <name>Zlate Hory, Kostelni</name>
+    <link href="https://mapa-turystyczna.pl/node/2676">
+      <text>Zlate Hory, Kostelni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.263569" lon="17.39625">
+    <ele>409</ele>
+    <name>Zlate Hory</name>
+    <link href="https://mapa-turystyczna.pl/node/2641">
+      <text>Zlate Hory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory, Kostelni - Zlate Hory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2654581,17.3956704;50.26420560425976,17.39604595000002;50.2635686,17.3962498">
+    <text>Zlate Hory, Kostelni - Zlate Hory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2654581" lon="17.3956704">
+      <ele>404</ele>
+      <time>2022-01-17T21:35:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2648426" lon="17.3958421">
+      <ele>409</ele>
+      <time>2022-01-17T21:36:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2635686" lon="17.3962498">
+      <ele>409</ele>
+      <time>2022-01-17T21:40:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

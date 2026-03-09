@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:13Z</time>
+    <bounds maxlat="50.1296748" maxlon="17.3351437" minlat="50.1283852" minlon="17.3216093"/>
+  </metadata>
+  <wpt lat="50.129572" lon="17.321609">
+    <ele>623</ele>
+    <name>Bily Potok, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6877">
+      <text>Bily Potok, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.128622" lon="17.335144">
+    <ele>624</ele>
+    <name>Hute</name>
+    <link href="https://mapa-turystyczna.pl/node/6809">
+      <text>Hute</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily Potok, rozc. - Hute</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1295716,17.3216093;50.12918815170568,17.32908725;50.1286225,17.3351437">
+    <text>Bily Potok, rozc. - Hute</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1295716" lon="17.3216093">
+      <ele>623</ele>
+      <time>2022-01-17T23:04:13Z</time>
+    </trkpt>
+    <trkpt lat="50.12952" lon="17.3221028">
+      <ele>624</ele>
+      <time>2022-01-17T23:04:45Z</time>
+    </trkpt>
+    <trkpt lat="50.1295441" lon="17.3223495">
+      <ele>626</ele>
+      <time>2022-01-17T23:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1294719" lon="17.3244095">
+      <ele>635</ele>
+      <time>2022-01-17T23:07:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1296748" lon="17.3267698">
+      <ele>623</ele>
+      <time>2022-01-17T23:09:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1295922" lon="17.3279393">
+      <ele>622</ele>
+      <time>2022-01-17T23:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.1287841" lon="17.3302352">
+      <ele>618</ele>
+      <time>2022-01-17T23:13:50Z</time>
+    </trkpt>
+    <trkpt lat="50.128509" lon="17.332601">
+      <ele>614</ele>
+      <time>2022-01-17T23:16:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1283852" lon="17.334044">
+      <ele>613</ele>
+      <time>2022-01-17T23:17:57Z</time>
+    </trkpt>
+    <trkpt lat="50.128478" lon="17.3345751">
+      <ele>616</ele>
+      <time>2022-01-17T23:18:33Z</time>
+    </trkpt>
+    <trkpt lat="50.1285709" lon="17.3350418">
+      <ele>621</ele>
+      <time>2022-01-17T23:19:04Z</time>
+    </trkpt>
+    <trkpt lat="50.1286225" lon="17.3351437">
+      <ele>624</ele>
+      <time>2022-01-17T23:19:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

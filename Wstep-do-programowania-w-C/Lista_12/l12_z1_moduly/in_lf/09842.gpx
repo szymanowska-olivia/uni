@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:14Z</time>
+    <bounds maxlat="50.0222996" maxlon="17.0745671" minlat="50.019556" minlon="17.0721531"/>
+  </metadata>
+  <wpt lat="50.019556" lon="17.072153">
+    <ele>409</ele>
+    <name>Sobotin, Diakonie rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6919">
+      <text>Sobotin, Diakonie rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.0223" lon="17.074567">
+    <ele>419</ele>
+    <name>Sobotin, lavka pres Mertu</name>
+    <link href="https://mapa-turystyczna.pl/node/6922">
+      <text>Sobotin, lavka pres Mertu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotin, Diakonie rozc. - Sobotin, lavka pres Mertu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.019556,17.0721531;50.02048145434662,17.07321255000002;50.0222996,17.0745671">
+    <text>Sobotin, Diakonie rozc. - Sobotin, lavka pres Mertu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.019556" lon="17.0721531">
+      <ele>409</ele>
+      <time>2022-01-17T23:05:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0196663" lon="17.0725018">
+      <ele>411</ele>
+      <time>2022-01-17T23:05:37Z</time>
+    </trkpt>
+    <trkpt lat="50.0196904" lon="17.0726466">
+      <ele>412</ele>
+      <time>2022-01-17T23:05:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0197594" lon="17.0726466">
+      <ele>411</ele>
+      <time>2022-01-17T23:05:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0198352" lon="17.0727056">
+      <ele>411</ele>
+      <time>2022-01-17T23:06:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0211277" lon="17.0737195">
+      <ele>415</ele>
+      <time>2022-01-17T23:08:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0215" lon="17.0739877">
+      <ele>414</ele>
+      <time>2022-01-17T23:08:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0222996" lon="17.0745671">
+      <ele>419</ele>
+      <time>2022-01-17T23:10:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

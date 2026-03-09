@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:40Z</time>
+    <bounds maxlat="52.3050904" maxlon="20.7191687" minlat="52.3039686" minlon="20.7150972"/>
+  </metadata>
+  <wpt lat="52.30509" lon="20.715097">
+    <ele>84</ele>
+    <name>Zaborow Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/4971">
+      <text>Zaborow Lesny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.303969" lon="20.719169">
+    <ele>79</ele>
+    <name>Zaborow Lesny, skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/5001">
+      <text>Zaborow Lesny, skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zaborow Lesny - Zaborow Lesny, skrzyzowanie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3050904,20.7150972;52.30452950355282,20.71713295;52.3039686,20.7191687">
+    <text>Zaborow Lesny - Zaborow Lesny, skrzyzowanie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3050904" lon="20.7150972">
+      <ele>84</ele>
+      <time>2022-01-17T22:21:40Z</time>
+    </trkpt>
+    <trkpt lat="52.3039686" lon="20.7191687">
+      <ele>79</ele>
+      <time>2022-01-17T22:26:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

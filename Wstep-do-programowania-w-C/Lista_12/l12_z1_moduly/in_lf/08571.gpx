@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:07Z</time>
+    <bounds maxlat="49.834052" maxlon="19.9389688" minlat="49.8332295" minlon="19.937911"/>
+  </metadata>
+  <wpt lat="49.83323" lon="19.938969">
+    <ele>300</ele>
+    <name>Myslenice, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/5964">
+      <text>Myslenice, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.834052" lon="19.937911">
+    <ele>304</ele>
+    <name>Myslenice</name>
+    <link href="https://mapa-turystyczna.pl/node/1678">
+      <text>Myslenice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myslenice, ul. Kosciuszki - Myslenice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8332295,19.9389688;49.83367990143151,19.938255349999988;49.834052,19.937911">
+    <text>Myslenice, ul. Kosciuszki - Myslenice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8332295" lon="19.9389688">
+      <ele>300</ele>
+      <time>2022-01-17T22:41:07Z</time>
+    </trkpt>
+    <trkpt lat="49.833249" lon="19.9387285">
+      <ele>301</ele>
+      <time>2022-01-17T22:41:24Z</time>
+    </trkpt>
+    <trkpt lat="49.8333078" lon="19.9385997">
+      <ele>301</ele>
+      <time>2022-01-17T22:41:35Z</time>
+    </trkpt>
+    <trkpt lat="49.834052" lon="19.937911">
+      <ele>304</ele>
+      <time>2022-01-17T22:43:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

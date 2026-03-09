@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:34Z</time>
+    <bounds maxlat="50.482355" maxlon="16.3449991" minlat="50.4820068" minlon="16.3447738"/>
+  </metadata>
+  <wpt lat="50.482355" lon="16.344774">
+    <ele>895</ele>
+    <name>Szczeliniec Wielki, rozejscie do tarasow</name>
+    <link href="https://mapa-turystyczna.pl/node/11655">
+      <text>Szczeliniec Wielki, rozejscie do tarasow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.482007" lon="16.344999">
+    <ele>884</ele>
+    <name>Szczeliniec Wielki, tarasy poludniowe</name>
+    <link href="https://mapa-turystyczna.pl/node/11656">
+      <text>Szczeliniec Wielki, tarasy poludniowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczeliniec Wielki, rozejscie do tarasow - Szczeliniec Wielki, tarasy poludniowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.482355,16.3447738;50.4822474500422,16.344942749999984;50.4820068,16.3449991">
+    <text>Szczeliniec Wielki, rozejscie do tarasow - Szczeliniec Wielki, tarasy poludniowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.482355" lon="16.3447738">
+      <ele>895</ele>
+      <time>2022-01-18T01:07:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4823106" lon="16.3449186">
+      <ele>894</ele>
+      <time>2022-01-18T01:07:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4821843" lon="16.3449669">
+      <ele>890</ele>
+      <time>2022-01-18T01:08:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4820068" lon="16.3449991">
+      <ele>884</ele>
+      <time>2022-01-18T01:08:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

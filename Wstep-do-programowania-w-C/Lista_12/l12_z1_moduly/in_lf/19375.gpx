@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:15Z</time>
+    <bounds maxlat="49.133467" maxlon="19.419816" minlat="49.133376" minlon="19.419799"/>
+  </metadata>
+  <wpt lat="49.133376" lon="19.419799">
+    <ele>584</ele>
+    <name>Zablatne, chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7247">
+      <text>Zablatne, chata</text>
+    </link>
+  </wpt>
+  <wpt lat="49.133467" lon="19.419816">
+    <ele>585</ele>
+    <name>Kalameny, jazierko</name>
+    <link href="https://mapa-turystyczna.pl/node/13095">
+      <text>Kalameny, jazierko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zablatne, chata - Kalameny, jazierko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.133376,19.419799;49.133421500020894,19.419807500000026;49.133467,19.419816">
+    <text>Zablatne, chata - Kalameny, jazierko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.133376" lon="19.419799">
+      <ele>584</ele>
+      <time>2022-01-18T01:47:15Z</time>
+    </trkpt>
+    <trkpt lat="49.133467" lon="19.419816">
+      <ele>585</ele>
+      <time>2022-01-18T01:48:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

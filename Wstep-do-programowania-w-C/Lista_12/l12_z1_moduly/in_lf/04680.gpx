@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:45:20Z</time>
+    <bounds maxlat="50.9043995" maxlon="16.0044783" minlat="50.9027656" minlon="15.9989691"/>
+  </metadata>
+  <wpt lat="50.902766" lon="16.004478">
+    <ele>488</ele>
+    <name>Plonina</name>
+    <link href="https://mapa-turystyczna.pl/node/3257">
+      <text>Plonina</text>
+    </link>
+  </wpt>
+  <wpt lat="50.904399" lon="15.998969">
+    <ele>477</ele>
+    <name>Plonina, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3259">
+      <text>Plonina, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Plonina - Plonina, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9027656,16.0044783;50.903588500461076,16.000854649999994;50.9043995,15.9989691">
+    <text>Plonina - Plonina, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9027656" lon="16.0044783">
+      <ele>488</ele>
+      <time>2022-01-17T21:45:20Z</time>
+    </trkpt>
+    <trkpt lat="50.9030531" lon="16.0032499">
+      <ele>485</ele>
+      <time>2022-01-17T21:46:23Z</time>
+    </trkpt>
+    <trkpt lat="50.9033813" lon="16.0016727">
+      <ele>474</ele>
+      <time>2022-01-17T21:47:44Z</time>
+    </trkpt>
+    <trkpt lat="50.9037957" lon="16.0000366">
+      <ele>471</ele>
+      <time>2022-01-17T21:49:10Z</time>
+    </trkpt>
+    <trkpt lat="50.9039331" lon="15.9997348">
+      <ele>471</ele>
+      <time>2022-01-17T21:49:28Z</time>
+    </trkpt>
+    <trkpt lat="50.9042329" lon="15.9993687">
+      <ele>474</ele>
+      <time>2022-01-17T21:49:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9043995" lon="15.9989691">
+      <ele>477</ele>
+      <time>2022-01-17T21:50:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

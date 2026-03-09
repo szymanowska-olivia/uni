@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:06:18Z</time>
+    <bounds maxlat="49.295956" maxlon="18.833142" minlat="49.294411" minlon="18.829912"/>
+  </metadata>
+  <wpt lat="49.295956" lon="18.829912">
+    <ele>592</ele>
+    <name>Pod Polanou</name>
+    <link href="https://mapa-turystyczna.pl/node/9230">
+      <text>Pod Polanou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.294411" lon="18.833142">
+    <ele>609</ele>
+    <name>Pod Polanou, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9231">
+      <text>Pod Polanou, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Polanou - Pod Polanou, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.295956,18.829912;49.29500000006658,18.83144499999999;49.294411,18.833142">
+    <text>Pod Polanou - Pod Polanou, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.295956" lon="18.829912">
+      <ele>592</ele>
+      <time>2022-01-18T00:06:18Z</time>
+    </trkpt>
+    <trkpt lat="49.295822" lon="18.830042">
+      <ele>593</ele>
+      <time>2022-01-18T00:06:36Z</time>
+    </trkpt>
+    <trkpt lat="49.295081" lon="18.831252">
+      <ele>604</ele>
+      <time>2022-01-18T00:08:39Z</time>
+    </trkpt>
+    <trkpt lat="49.294919" lon="18.831638">
+      <ele>606</ele>
+      <time>2022-01-18T00:09:13Z</time>
+    </trkpt>
+    <trkpt lat="49.294692" lon="18.832205">
+      <ele>608</ele>
+      <time>2022-01-18T00:10:02Z</time>
+    </trkpt>
+    <trkpt lat="49.294411" lon="18.833142">
+      <ele>609</ele>
+      <time>2022-01-18T00:11:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

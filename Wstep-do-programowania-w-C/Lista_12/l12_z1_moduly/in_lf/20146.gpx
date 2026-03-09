@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:21Z</time>
+    <bounds maxlat="50.8123278" maxlon="19.1288441" minlat="50.8117584" minlon="19.1003375"/>
+  </metadata>
+  <wpt lat="50.811938" lon="19.128844">
+    <ele>249</ele>
+    <name>Czestochowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4549">
+      <text>Czestochowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.812328" lon="19.100337">
+    <ele>280</ele>
+    <name>Czestochowa, Jasna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/13561">
+      <text>Czestochowa, Jasna Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czestochowa - Czestochowa, Jasna Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8119381,19.1288441;50.81191430026019,19.11996050000001;50.8123278,19.1003375">
+    <text>Czestochowa - Czestochowa, Jasna Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8119381" lon="19.1288441">
+      <ele>249</ele>
+      <time>2022-01-18T02:01:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8119956" lon="19.128211">
+      <ele>250</ele>
+      <time>2022-01-18T02:02:08Z</time>
+    </trkpt>
+    <trkpt lat="50.8118668" lon="19.1280072">
+      <ele>250</ele>
+      <time>2022-01-18T02:02:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8118397" lon="19.1277604">
+      <ele>250</ele>
+      <time>2022-01-18T02:02:47Z</time>
+    </trkpt>
+    <trkpt lat="50.8117584" lon="19.1275565">
+      <ele>251</ele>
+      <time>2022-01-18T02:03:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8120702" lon="19.1123645">
+      <ele>258</ele>
+      <time>2022-01-18T02:21:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8122397" lon="19.1041999">
+      <ele>264</ele>
+      <time>2022-01-18T02:31:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8123278" lon="19.1003375">
+      <ele>280</ele>
+      <time>2022-01-18T02:36:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

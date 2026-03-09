@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:26Z</time>
+    <bounds maxlat="49.587523" maxlon="21.331141" minlat="49.586901" minlon="21.328432"/>
+  </metadata>
+  <wpt lat="49.587523" lon="21.331141">
+    <ele>820</ele>
+    <name>Rezerwat Kornuty</name>
+    <link href="https://mapa-turystyczna.pl/node/12986">
+      <text>Rezerwat Kornuty</text>
+    </link>
+  </wpt>
+  <wpt lat="49.586905" lon="21.328432">
+    <ele>801</ele>
+    <name>Rezerwat Kornuty, wychodnie skalne</name>
+    <link href="https://mapa-turystyczna.pl/node/12987">
+      <text>Rezerwat Kornuty, wychodnie skalne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Kornuty - Rezerwat Kornuty, wychodnie skalne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.587523,21.331141;49.58705600001115,21.32993299999998;49.586905,21.328432">
+    <text>Rezerwat Kornuty - Rezerwat Kornuty, wychodnie skalne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.587523" lon="21.331141">
+      <ele>820</ele>
+      <time>2022-01-18T01:44:26Z</time>
+    </trkpt>
+    <trkpt lat="49.587409" lon="21.331015">
+      <ele>820</ele>
+      <time>2022-01-18T01:44:39Z</time>
+    </trkpt>
+    <trkpt lat="49.587357" lon="21.330818">
+      <ele>819</ele>
+      <time>2022-01-18T01:44:52Z</time>
+    </trkpt>
+    <trkpt lat="49.587236" lon="21.330521">
+      <ele>819</ele>
+      <time>2022-01-18T01:45:13Z</time>
+    </trkpt>
+    <trkpt lat="49.587157" lon="21.330295">
+      <ele>820</ele>
+      <time>2022-01-18T01:45:28Z</time>
+    </trkpt>
+    <trkpt lat="49.587089" lon="21.330048">
+      <ele>821</ele>
+      <time>2022-01-18T01:45:44Z</time>
+    </trkpt>
+    <trkpt lat="49.587023" lon="21.329818">
+      <ele>820</ele>
+      <time>2022-01-18T01:45:59Z</time>
+    </trkpt>
+    <trkpt lat="49.587032" lon="21.329527">
+      <ele>819</ele>
+      <time>2022-01-18T01:46:17Z</time>
+    </trkpt>
+    <trkpt lat="49.586982" lon="21.329169">
+      <ele>815</ele>
+      <time>2022-01-18T01:46:39Z</time>
+    </trkpt>
+    <trkpt lat="49.586901" lon="21.328881">
+      <ele>809</ele>
+      <time>2022-01-18T01:46:58Z</time>
+    </trkpt>
+    <trkpt lat="49.586905" lon="21.328432">
+      <ele>801</ele>
+      <time>2022-01-18T01:47:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:35:25Z</time>
+    <bounds maxlat="50.319268" maxlon="17.573702" minlat="50.3167778" minlon="17.5732648"/>
+  </metadata>
+  <wpt lat="50.316778" lon="17.573678">
+    <ele>264</ele>
+    <name>Prudnik, Staszica</name>
+    <link href="https://mapa-turystyczna.pl/node/2682">
+      <text>Prudnik, Staszica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.319268" lon="17.573651">
+    <ele>270</ele>
+    <name>Prudnik, park miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/2611">
+      <text>Prudnik, park miejski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prudnik, Staszica - Prudnik, park miejski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3167778,17.5736779;50.31802935004871,17.573687949999982;50.319268,17.5736511">
+    <text>Prudnik, Staszica - Prudnik, park miejski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3167778" lon="17.5736779">
+      <ele>264</ele>
+      <time>2022-01-17T21:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.3169971" lon="17.5735196">
+      <ele>267</ele>
+      <time>2022-01-17T21:35:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3172026" lon="17.5732648">
+      <ele>272</ele>
+      <time>2022-01-17T21:36:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3179613" lon="17.573702">
+      <ele>270</ele>
+      <time>2022-01-17T21:37:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3180974" lon="17.5736739">
+      <ele>270</ele>
+      <time>2022-01-17T21:38:11Z</time>
+    </trkpt>
+    <trkpt lat="50.3184081" lon="17.5735864">
+      <ele>271</ele>
+      <time>2022-01-17T21:38:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3188169" lon="17.5735694">
+      <ele>271</ele>
+      <time>2022-01-17T21:39:33Z</time>
+    </trkpt>
+    <trkpt lat="50.3189996" lon="17.5735632">
+      <ele>271</ele>
+      <time>2022-01-17T21:39:54Z</time>
+    </trkpt>
+    <trkpt lat="50.319268" lon="17.5736511">
+      <ele>270</ele>
+      <time>2022-01-17T21:40:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

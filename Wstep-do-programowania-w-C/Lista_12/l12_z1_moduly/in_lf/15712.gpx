@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:04Z</time>
+    <bounds maxlat="49.9805686" maxlon="17.158078" minlat="49.9800511" minlon="17.1531388"/>
+  </metadata>
+  <wpt lat="49.980432" lon="17.153139">
+    <ele>860</ele>
+    <name>U pramene Oskavy</name>
+    <link href="https://mapa-turystyczna.pl/node/10735">
+      <text>U pramene Oskavy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.980554" lon="17.158078">
+    <ele>879</ele>
+    <name>Sedlo Skritek</name>
+    <link href="https://mapa-turystyczna.pl/node/7894">
+      <text>Sedlo Skritek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U pramene Oskavy - Sedlo Skritek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9804324,17.1531388;49.980302950401914,17.15558624999998;49.980554,17.158078">
+    <text>U pramene Oskavy - Sedlo Skritek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9804324" lon="17.1531388">
+      <ele>860</ele>
+      <time>2022-01-18T00:44:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9805617" lon="17.1534834">
+      <ele>860</ele>
+      <time>2022-01-18T00:44:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9805686" lon="17.1539554">
+      <ele>860</ele>
+      <time>2022-01-18T00:45:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9804996" lon="17.1546421">
+      <ele>862</ele>
+      <time>2022-01-18T00:46:57Z</time>
+    </trkpt>
+    <trkpt lat="49.9801063" lon="17.1565304">
+      <ele>871</ele>
+      <time>2022-01-18T00:50:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9800511" lon="17.1569488">
+      <ele>873</ele>
+      <time>2022-01-18T00:51:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9800994" lon="17.1573243">
+      <ele>875</ele>
+      <time>2022-01-18T00:52:07Z</time>
+    </trkpt>
+    <trkpt lat="49.980299" lon="17.1577992">
+      <ele>877</ele>
+      <time>2022-01-18T00:53:10Z</time>
+    </trkpt>
+    <trkpt lat="49.980554" lon="17.158078">
+      <ele>879</ele>
+      <time>2022-01-18T00:54:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

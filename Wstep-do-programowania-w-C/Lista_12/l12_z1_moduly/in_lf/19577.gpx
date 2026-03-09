@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:55Z</time>
+    <bounds maxlat="50.572125" maxlon="16.498159" minlat="50.5680017" minlon="16.4972515"/>
+  </metadata>
+  <wpt lat="50.572125" lon="16.497252">
+    <ele>530</ele>
+    <name>Kaplice Dzumowe</name>
+    <link href="https://mapa-turystyczna.pl/node/13208">
+      <text>Kaplice Dzumowe</text>
+    </link>
+  </wpt>
+  <wpt lat="50.568002" lon="16.498159">
+    <ele>612</ele>
+    <name>Przelecz pod Krepcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2066">
+      <text>Przelecz pod Krepcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaplice Dzumowe - Przelecz pod Krepcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.572125,16.4972515;50.569631662763065,16.497852849999983;50.5680017,16.498159">
+    <text>Kaplice Dzumowe - Przelecz pod Krepcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.572125" lon="16.4972515">
+      <ele>530</ele>
+      <time>2022-01-18T01:50:55Z</time>
+    </trkpt>
+    <trkpt lat="50.5717671" lon="16.497423">
+      <ele>538</ele>
+      <time>2022-01-18T01:52:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5707283" lon="16.4976138">
+      <ele>566</ele>
+      <time>2022-01-18T01:56:04Z</time>
+    </trkpt>
+    <trkpt lat="50.568535" lon="16.4980919">
+      <ele>615</ele>
+      <time>2022-01-18T02:04:02Z</time>
+    </trkpt>
+    <trkpt lat="50.5683059" lon="16.4981254">
+      <ele>614</ele>
+      <time>2022-01-18T02:04:50Z</time>
+    </trkpt>
+    <trkpt lat="50.5680017" lon="16.498159">
+      <ele>612</ele>
+      <time>2022-01-18T02:05:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

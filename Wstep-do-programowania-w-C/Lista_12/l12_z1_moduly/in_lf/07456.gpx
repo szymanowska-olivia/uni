@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:23:29Z</time>
+    <bounds maxlat="49.24443" maxlon="19.089161" minlat="49.243168" minlon="19.08654"/>
+  </metadata>
+  <wpt lat="49.243168" lon="19.08654">
+    <ele>938</ele>
+    <name>Pod Palenicou</name>
+    <link href="https://mapa-turystyczna.pl/node/5058">
+      <text>Pod Palenicou</text>
+    </link>
+  </wpt>
+  <wpt lat="49.24443" lon="19.089161">
+    <ele>952</ele>
+    <name>Pod Tesnou Riznou</name>
+    <link href="https://mapa-turystyczna.pl/node/5057">
+      <text>Pod Tesnou Riznou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Palenicou - Pod Tesnou Riznou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.243168,19.08654;49.24401850003587,19.087563500000005;49.24443,19.089161">
+    <text>Pod Palenicou - Pod Tesnou Riznou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.243168" lon="19.08654">
+      <ele>938</ele>
+      <time>2022-01-17T22:23:29Z</time>
+    </trkpt>
+    <trkpt lat="49.243417" lon="19.086799">
+      <ele>939</ele>
+      <time>2022-01-17T22:24:08Z</time>
+    </trkpt>
+    <trkpt lat="49.243579" lon="19.08689">
+      <ele>939</ele>
+      <time>2022-01-17T22:24:31Z</time>
+    </trkpt>
+    <trkpt lat="49.243676" lon="19.087029">
+      <ele>941</ele>
+      <time>2022-01-17T22:24:48Z</time>
+    </trkpt>
+    <trkpt lat="49.243782" lon="19.087004">
+      <ele>943</ele>
+      <time>2022-01-17T22:25:02Z</time>
+    </trkpt>
+    <trkpt lat="49.243901" lon="19.087205">
+      <ele>944</ele>
+      <time>2022-01-17T22:25:25Z</time>
+    </trkpt>
+    <trkpt lat="49.243959" lon="19.087412">
+      <ele>945</ele>
+      <time>2022-01-17T22:25:45Z</time>
+    </trkpt>
+    <trkpt lat="49.244078" lon="19.087715">
+      <ele>944</ele>
+      <time>2022-01-17T22:26:15Z</time>
+    </trkpt>
+    <trkpt lat="49.244208" lon="19.088002">
+      <ele>945</ele>
+      <time>2022-01-17T22:26:44Z</time>
+    </trkpt>
+    <trkpt lat="49.244306" lon="19.088327">
+      <ele>950</ele>
+      <time>2022-01-17T22:27:15Z</time>
+    </trkpt>
+    <trkpt lat="49.2444" lon="19.088705">
+      <ele>953</ele>
+      <time>2022-01-17T22:27:50Z</time>
+    </trkpt>
+    <trkpt lat="49.244423" lon="19.08893">
+      <ele>953</ele>
+      <time>2022-01-17T22:28:09Z</time>
+    </trkpt>
+    <trkpt lat="49.24443" lon="19.089161">
+      <ele>952</ele>
+      <time>2022-01-17T22:28:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

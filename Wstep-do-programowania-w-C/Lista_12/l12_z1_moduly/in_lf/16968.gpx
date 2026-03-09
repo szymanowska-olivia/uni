@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:05:55Z</time>
+    <bounds maxlat="49.777329" maxlon="18.852741" minlat="49.776199" minlon="18.850961"/>
+  </metadata>
+  <wpt lat="49.777329" lon="18.852741">
+    <ele>368</ele>
+    <name>Gorki Wielkie, ul. Spacerowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11606">
+      <text>Gorki Wielkie, ul. Spacerowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.776199" lon="18.850961">
+    <ele>365</ele>
+    <name>Gorki Wielkie, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11605">
+      <text>Gorki Wielkie, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gorki Wielkie, ul. Spacerowa - Gorki Wielkie, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.777329,18.852741;49.77686300224066,18.85200700000002;49.776199,18.850961">
+    <text>Gorki Wielkie, ul. Spacerowa - Gorki Wielkie, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.777329" lon="18.852741">
+      <ele>368</ele>
+      <time>2022-01-18T01:05:55Z</time>
+    </trkpt>
+    <trkpt lat="49.776397" lon="18.851273">
+      <ele>366</ele>
+      <time>2022-01-18T01:08:23Z</time>
+    </trkpt>
+    <trkpt lat="49.776199" lon="18.850961">
+      <ele>365</ele>
+      <time>2022-01-18T01:08:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

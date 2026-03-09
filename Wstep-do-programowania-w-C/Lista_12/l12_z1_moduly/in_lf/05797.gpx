@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:03Z</time>
+    <bounds maxlat="50.4753214" maxlon="16.4658745" minlat="50.471283" minlon="16.4599335"/>
+  </metadata>
+  <wpt lat="50.471283" lon="16.465875">
+    <ele>521</ele>
+    <name>Golec</name>
+    <link href="https://mapa-turystyczna.pl/node/4017">
+      <text>Golec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.475321" lon="16.459934">
+    <ele>468</ele>
+    <name>Rozwidlenie pod Golcem</name>
+    <link href="https://mapa-turystyczna.pl/node/4013">
+      <text>Rozwidlenie pod Golcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Golec - Rozwidlenie pod Golcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.471283,16.4658745;50.47301185033983,16.462253650000015;50.4753214,16.4599335">
+    <text>Golec - Rozwidlenie pod Golcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.471283" lon="16.4658745">
+      <ele>521</ele>
+      <time>2022-01-17T22:01:03Z</time>
+    </trkpt>
+    <trkpt lat="50.4716598" lon="16.4649117">
+      <ele>513</ele>
+      <time>2022-01-17T22:02:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4720713" lon="16.4641392">
+      <ele>503</ele>
+      <time>2022-01-17T22:03:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4724349" lon="16.4635947">
+      <ele>493</ele>
+      <time>2022-01-17T22:04:20Z</time>
+    </trkpt>
+    <trkpt lat="50.4728326" lon="16.462428">
+      <ele>487</ele>
+      <time>2022-01-17T22:05:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4731911" lon="16.4620793">
+      <ele>482</ele>
+      <time>2022-01-17T22:06:33Z</time>
+    </trkpt>
+    <trkpt lat="50.4738398" lon="16.461575">
+      <ele>472</ele>
+      <time>2022-01-17T22:07:49Z</time>
+    </trkpt>
+    <trkpt lat="50.4742939" lon="16.461162">
+      <ele>472</ele>
+      <time>2022-01-17T22:08:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4746302" lon="16.4610064">
+      <ele>473</ele>
+      <time>2022-01-17T22:09:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4753214" lon="16.4599335">
+      <ele>468</ele>
+      <time>2022-01-17T22:11:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

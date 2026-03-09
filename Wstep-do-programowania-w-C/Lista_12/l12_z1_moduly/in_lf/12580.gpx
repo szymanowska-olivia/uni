@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:28Z</time>
+    <bounds maxlat="49.300395" maxlon="20.846096" minlat="49.299657" minlon="20.845931"/>
+  </metadata>
+  <wpt lat="49.300395" lon="20.845931">
+    <ele>830</ele>
+    <name>Orlovska Magura, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8638">
+      <text>Orlovska Magura, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.299657" lon="20.846088">
+    <ele>831</ele>
+    <name>Orlovska Magura</name>
+    <link href="https://mapa-turystyczna.pl/node/8637">
+      <text>Orlovska Magura</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orlovska Magura, razc. - Orlovska Magura</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.300395,20.845931;49.3000025002915,20.846060999999967;49.299657,20.846088">
+    <text>Orlovska Magura, razc. - Orlovska Magura</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.300395" lon="20.845931">
+      <ele>830</ele>
+      <time>2022-01-17T23:52:28Z</time>
+    </trkpt>
+    <trkpt lat="49.300172" lon="20.846026">
+      <ele>832</ele>
+      <time>2022-01-17T23:53:05Z</time>
+    </trkpt>
+    <trkpt lat="49.299833" lon="20.846096">
+      <ele>832</ele>
+      <time>2022-01-17T23:54:00Z</time>
+    </trkpt>
+    <trkpt lat="49.299657" lon="20.846088">
+      <ele>831</ele>
+      <time>2022-01-17T23:54:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

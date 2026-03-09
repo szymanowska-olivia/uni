@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:06Z</time>
+    <bounds maxlat="50.3387399" maxlon="16.3859876" minlat="50.3373273" minlon="16.3838688"/>
+  </metadata>
+  <wpt lat="50.33874" lon="16.383869">
+    <ele>881</ele>
+    <name>Zieleniec, Schronisko PTTK Orlica</name>
+    <link href="https://mapa-turystyczna.pl/node/1865">
+      <text>Zieleniec, Schronisko PTTK Orlica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.337327" lon="16.385988">
+    <ele>866</ele>
+    <name>Zieleniec</name>
+    <link href="https://mapa-turystyczna.pl/node/9372">
+      <text>Zieleniec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zieleniec, Schronisko PTTK Orlica - Zieleniec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3387399,16.3838688;50.33765845115422,16.38542209999998;50.3373273,16.3859876">
+    <text>Zieleniec, Schronisko PTTK Orlica - Zieleniec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3387399" lon="16.3838688">
+      <ele>881</ele>
+      <time>2022-01-18T00:36:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3384347" lon="16.3842558">
+      <ele>880</ele>
+      <time>2022-01-18T00:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3379896" lon="16.3848566">
+      <ele>878</ele>
+      <time>2022-01-18T00:37:36Z</time>
+    </trkpt>
+    <trkpt lat="50.3373273" lon="16.3859876">
+      <ele>866</ele>
+      <time>2022-01-18T00:39:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:39Z</time>
+    <bounds maxlat="49.610546" maxlon="19.516966" minlat="49.60925" minlon="19.516527"/>
+  </metadata>
+  <wpt lat="49.610546" lon="19.516841">
+    <ele>700</ele>
+    <name>Zawoja, Barancowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12352">
+      <text>Zawoja, Barancowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.60925" lon="19.516966">
+    <ele>703</ele>
+    <name>Polanka Odkrywcow</name>
+    <link href="https://mapa-turystyczna.pl/node/12351">
+      <text>Polanka Odkrywcow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawoja, Barancowa - Polanka Odkrywcow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.610546,19.516841;49.60988550007323,19.516538000000025;49.60925,19.516966">
+    <text>Zawoja, Barancowa - Polanka Odkrywcow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.610546" lon="19.516841">
+      <ele>700</ele>
+      <time>2022-01-18T01:26:39Z</time>
+    </trkpt>
+    <trkpt lat="49.610412" lon="19.516726">
+      <ele>701</ele>
+      <time>2022-01-18T01:26:59Z</time>
+    </trkpt>
+    <trkpt lat="49.61013" lon="19.516563">
+      <ele>703</ele>
+      <time>2022-01-18T01:27:37Z</time>
+    </trkpt>
+    <trkpt lat="49.60997" lon="19.516527">
+      <ele>705</ele>
+      <time>2022-01-18T01:27:58Z</time>
+    </trkpt>
+    <trkpt lat="49.609801" lon="19.516549">
+      <ele>705</ele>
+      <time>2022-01-18T01:28:20Z</time>
+    </trkpt>
+    <trkpt lat="49.609365" lon="19.516883">
+      <ele>703</ele>
+      <time>2022-01-18T01:29:23Z</time>
+    </trkpt>
+    <trkpt lat="49.60925" lon="19.516966">
+      <ele>703</ele>
+      <time>2022-01-18T01:29:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:07Z</time>
+    <bounds maxlat="50.857563" maxlon="16.6928776" minlat="50.8572716" minlon="16.690243"/>
+  </metadata>
+  <wpt lat="50.857272" lon="16.692878">
+    <ele>535</ele>
+    <name>Rozejscie sciezek</name>
+    <link href="https://mapa-turystyczna.pl/node/11709">
+      <text>Rozejscie sciezek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.857563" lon="16.690243">
+    <ele>534</ele>
+    <name>Skalna</name>
+    <link href="https://mapa-turystyczna.pl/node/8320">
+      <text>Skalna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezek - Skalna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8572716,16.6928776;50.857393050054284,16.69175934999999;50.857563,16.690243">
+    <text>Rozejscie sciezek - Skalna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8572716" lon="16.6928776">
+      <ele>535</ele>
+      <time>2022-01-18T01:09:07Z</time>
+    </trkpt>
+    <trkpt lat="50.8573219" lon="16.6924782">
+      <ele>536</ele>
+      <time>2022-01-18T01:09:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8574642" lon="16.6910405">
+      <ele>537</ele>
+      <time>2022-01-18T01:11:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8575251" lon="16.690783">
+      <ele>537</ele>
+      <time>2022-01-18T01:11:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8575556" lon="16.6905363">
+      <ele>536</ele>
+      <time>2022-01-18T01:11:47Z</time>
+    </trkpt>
+    <trkpt lat="50.857563" lon="16.690243">
+      <ele>534</ele>
+      <time>2022-01-18T01:12:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

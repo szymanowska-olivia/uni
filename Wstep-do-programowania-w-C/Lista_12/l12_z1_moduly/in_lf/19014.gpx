@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:06Z</time>
+    <bounds maxlat="51.2882225" maxlon="16.3639871" minlat="51.2760741" minlon="16.3537039"/>
+  </metadata>
+  <wpt lat="51.288223" lon="16.353704">
+    <ele>100</ele>
+    <name>Lisowice</name>
+    <link href="https://mapa-turystyczna.pl/node/10029">
+      <text>Lisowice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.276074" lon="16.363576">
+    <ele>102</ele>
+    <name>Prochowice, ul. Kochanowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12879">
+      <text>Prochowice, ul. Kochanowskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lisowice - Prochowice, ul. Kochanowskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2882225,16.3537039;51.283034061971634,16.359469299999997;51.2760741,16.3635764">
+    <text>Lisowice - Prochowice, ul. Kochanowskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2882225" lon="16.3537039">
+      <ele>100</ele>
+      <time>2022-01-18T01:41:06Z</time>
+    </trkpt>
+    <trkpt lat="51.2877317" lon="16.3543793">
+      <ele>102</ele>
+      <time>2022-01-18T01:42:14Z</time>
+    </trkpt>
+    <trkpt lat="51.2874969" lon="16.3546046">
+      <ele>102</ele>
+      <time>2022-01-18T01:42:43Z</time>
+    </trkpt>
+    <trkpt lat="51.2866648" lon="16.355184">
+      <ele>103</ele>
+      <time>2022-01-18T01:44:19Z</time>
+    </trkpt>
+    <trkpt lat="51.2862411" lon="16.3555738">
+      <ele>101</ele>
+      <time>2022-01-18T01:45:10Z</time>
+    </trkpt>
+    <trkpt lat="51.2798268" lon="16.3633648">
+      <ele>101</ele>
+      <time>2022-01-18T01:59:20Z</time>
+    </trkpt>
+    <trkpt lat="51.2795584" lon="16.3636384">
+      <ele>100</ele>
+      <time>2022-01-18T01:59:53Z</time>
+    </trkpt>
+    <trkpt lat="51.279347" lon="16.3638101">
+      <ele>100</ele>
+      <time>2022-01-18T02:00:18Z</time>
+    </trkpt>
+    <trkpt lat="51.2791792" lon="16.3638691">
+      <ele>99</ele>
+      <time>2022-01-18T02:00:36Z</time>
+    </trkpt>
+    <trkpt lat="51.2783772" lon="16.3639871">
+      <ele>101</ele>
+      <time>2022-01-18T02:02:01Z</time>
+    </trkpt>
+    <trkpt lat="51.2779946" lon="16.3639817">
+      <ele>102</ele>
+      <time>2022-01-18T02:02:42Z</time>
+    </trkpt>
+    <trkpt lat="51.2763705" lon="16.3635901">
+      <ele>102</ele>
+      <time>2022-01-18T02:05:35Z</time>
+    </trkpt>
+    <trkpt lat="51.2760741" lon="16.3635764">
+      <ele>102</ele>
+      <time>2022-01-18T02:06:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:12Z</time>
+    <bounds maxlat="50.4522135" maxlon="16.1117989" minlat="50.4516875" minlon="16.1068153"/>
+  </metadata>
+  <wpt lat="50.451687" lon="16.106815">
+    <ele>425</ele>
+    <name>Spinka, hraz</name>
+    <link href="https://mapa-turystyczna.pl/node/6154">
+      <text>Spinka, hraz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.452213" lon="16.111799">
+    <ele>425</ele>
+    <name>Spinka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6152">
+      <text>Spinka, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spinka, hraz - Spinka, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4516875,16.1068153;50.45206660017807,16.110031299999974;50.4522135,16.1117989">
+    <text>Spinka, hraz - Spinka, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4516875" lon="16.1068153">
+      <ele>425</ele>
+      <time>2022-01-17T22:46:12Z</time>
+    </trkpt>
+    <trkpt lat="50.451708" lon="16.1073035">
+      <ele>423</ele>
+      <time>2022-01-17T22:46:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4519368" lon="16.109063">
+      <ele>423</ele>
+      <time>2022-01-17T22:48:27Z</time>
+    </trkpt>
+    <trkpt lat="50.4521964" lon="16.1109996">
+      <ele>423</ele>
+      <time>2022-01-17T22:50:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4522135" lon="16.1117989">
+      <ele>425</ele>
+      <time>2022-01-17T22:51:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:20:04Z</time>
+    <bounds maxlat="50.2195889" maxlon="16.5090609" minlat="50.2172823" minlon="16.5049624"/>
+  </metadata>
+  <wpt lat="50.219589" lon="16.504962">
+    <ele>947</ele>
+    <name>U Anenskeho vrchu</name>
+    <link href="https://mapa-turystyczna.pl/node/1971">
+      <text>U Anenskeho vrchu</text>
+    </link>
+  </wpt>
+  <wpt lat="50.217282" lon="16.509061">
+    <ele>962</ele>
+    <name>Turisticke rozcesti Anensky vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/1972">
+      <text>Turisticke rozcesti Anensky vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Anenskeho vrchu - Turisticke rozcesti Anensky vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2195889,16.5049624;50.218535106936095,16.50772244999997;50.2172823,16.5090609">
+    <text>U Anenskeho vrchu - Turisticke rozcesti Anensky vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2195889" lon="16.5049624">
+      <ele>947</ele>
+      <time>2022-01-17T21:20:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2194447" lon="16.5052629">
+      <ele>948</ele>
+      <time>2022-01-17T21:20:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2195065" lon="16.5060997">
+      <ele>952</ele>
+      <time>2022-01-17T21:22:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2193486" lon="16.5065879">
+      <ele>954</ele>
+      <time>2022-01-17T21:23:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2177216" lon="16.508857">
+      <ele>961</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2172823" lon="16.5090609">
+      <ele>962</ele>
+      <time>2022-01-17T21:30:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

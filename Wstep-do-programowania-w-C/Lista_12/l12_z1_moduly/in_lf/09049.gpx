@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:03Z</time>
+    <bounds maxlat="50.2389849" maxlon="17.3660803" minlat="50.2374787" minlon="17.3644549"/>
+  </metadata>
+  <wpt lat="50.238985" lon="17.364455">
+    <ele>645</ele>
+    <name>Zlodejske louky</name>
+    <link href="https://mapa-turystyczna.pl/node/6297">
+      <text>Zlodejske louky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.237479" lon="17.36608">
+    <ele>658</ele>
+    <name>Zlodejske louky, rozc</name>
+    <link href="https://mapa-turystyczna.pl/node/6299">
+      <text>Zlodejske louky, rozc</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlodejske louky - Zlodejske louky, rozc</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2389849,17.3644549;50.23817690027867,17.365471400000008;50.2374787,17.3660803">
+    <text>Zlodejske louky - Zlodejske louky, rozc</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2389849" lon="17.3644549">
+      <ele>645</ele>
+      <time>2022-01-17T22:50:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2386006" lon="17.3645353">
+      <ele>651</ele>
+      <time>2022-01-17T22:51:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2383399" lon="17.3651415">
+      <ele>655</ele>
+      <time>2022-01-17T22:52:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2380139" lon="17.3658013">
+      <ele>654</ele>
+      <time>2022-01-17T22:53:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2374787" lon="17.3660803">
+      <ele>658</ele>
+      <time>2022-01-17T22:55:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

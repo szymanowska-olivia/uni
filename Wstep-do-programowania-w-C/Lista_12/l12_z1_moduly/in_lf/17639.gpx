@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:59Z</time>
+    <bounds maxlat="52.1315439" maxlon="20.7816395" minlat="52.123752" minlon="20.7744211"/>
+  </metadata>
+  <wpt lat="52.123752" lon="20.780889">
+    <ele>110</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11487">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.131544" lon="20.774421">
+    <ele>101</ele>
+    <name>Kanie, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11967">
+      <text>Kanie, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Kanie, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.123752,20.780889;52.12670880000881,20.77738544999998;52.1315439,20.7744211">
+    <text>Rozejscie szlakow czerwony / czarny - Kanie, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.123752" lon="20.780889">
+      <ele>110</ele>
+      <time>2022-01-18T01:16:59Z</time>
+    </trkpt>
+    <trkpt lat="52.1238386" lon="20.7807275">
+      <ele>110</ele>
+      <time>2022-01-18T01:17:14Z</time>
+    </trkpt>
+    <trkpt lat="52.1258147" lon="20.7816395">
+      <ele>110</ele>
+      <time>2022-01-18T01:21:08Z</time>
+    </trkpt>
+    <trkpt lat="52.1260123" lon="20.7812318">
+      <ele>109</ele>
+      <time>2022-01-18T01:21:44Z</time>
+    </trkpt>
+    <trkpt lat="52.1261901" lon="20.7808563">
+      <ele>108</ele>
+      <time>2022-01-18T01:22:17Z</time>
+    </trkpt>
+    <trkpt lat="52.1263482" lon="20.780631">
+      <ele>106</ele>
+      <time>2022-01-18T01:22:41Z</time>
+    </trkpt>
+    <trkpt lat="52.1265787" lon="20.7803306">
+      <ele>104</ele>
+      <time>2022-01-18T01:23:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1266216" lon="20.7791772">
+      <ele>105</ele>
+      <time>2022-01-18T01:24:36Z</time>
+    </trkpt>
+    <trkpt lat="52.1266808" lon="20.7778736">
+      <ele>106</ele>
+      <time>2022-01-18T01:26:07Z</time>
+    </trkpt>
+    <trkpt lat="52.1267368" lon="20.7768973">
+      <ele>106</ele>
+      <time>2022-01-18T01:27:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1276643" lon="20.7765883">
+      <ele>102</ele>
+      <time>2022-01-18T01:29:03Z</time>
+    </trkpt>
+    <trkpt lat="52.1304492" lon="20.7756858">
+      <ele>101</ele>
+      <time>2022-01-18T01:34:26Z</time>
+    </trkpt>
+    <trkpt lat="52.1315439" lon="20.7744211">
+      <ele>101</ele>
+      <time>2022-01-18T01:36:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:58:33Z</time>
+    <bounds maxlat="49.758259" maxlon="18.942361" minlat="49.758021" minlon="18.939797"/>
+  </metadata>
+  <wpt lat="49.758125" lon="18.939797">
+    <ele>759</ele>
+    <name>Odejscie do chaty drwali</name>
+    <link href="https://mapa-turystyczna.pl/node/13482">
+      <text>Odejscie do chaty drwali</text>
+    </link>
+  </wpt>
+  <wpt lat="49.758021" lon="18.942361">
+    <ele>783</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13471">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do chaty drwali - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.758125,18.939797;49.75819800000174,18.941091;49.758021,18.942361">
+    <text>Odejscie do chaty drwali - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.758125" lon="18.939797">
+      <ele>759</ele>
+      <time>2022-01-18T01:58:33Z</time>
+    </trkpt>
+    <trkpt lat="49.758146" lon="18.939957">
+      <ele>761</ele>
+      <time>2022-01-18T01:58:51Z</time>
+    </trkpt>
+    <trkpt lat="49.758166" lon="18.940031">
+      <ele>762</ele>
+      <time>2022-01-18T01:59:01Z</time>
+    </trkpt>
+    <trkpt lat="49.758242" lon="18.940189">
+      <ele>765</ele>
+      <time>2022-01-18T01:59:23Z</time>
+    </trkpt>
+    <trkpt lat="49.758259" lon="18.940322">
+      <ele>766</ele>
+      <time>2022-01-18T01:59:38Z</time>
+    </trkpt>
+    <trkpt lat="49.758204" lon="18.94072">
+      <ele>768</ele>
+      <time>2022-01-18T02:00:24Z</time>
+    </trkpt>
+    <trkpt lat="49.758211" lon="18.940941">
+      <ele>771</ele>
+      <time>2022-01-18T02:00:49Z</time>
+    </trkpt>
+    <trkpt lat="49.758185" lon="18.941241">
+      <ele>774</ele>
+      <time>2022-01-18T02:01:23Z</time>
+    </trkpt>
+    <trkpt lat="49.758067" lon="18.941782">
+      <ele>779</ele>
+      <time>2022-01-18T02:02:28Z</time>
+    </trkpt>
+    <trkpt lat="49.758049" lon="18.942029">
+      <ele>781</ele>
+      <time>2022-01-18T02:02:55Z</time>
+    </trkpt>
+    <trkpt lat="49.758021" lon="18.942361">
+      <ele>783</ele>
+      <time>2022-01-18T02:03:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:37Z</time>
+    <bounds maxlat="49.5712492" maxlon="18.6737484" minlat="49.5707703" minlon="18.6736545"/>
+  </metadata>
+  <wpt lat="49.571249" lon="18.673748">
+    <ele>976</ele>
+    <name>Kaple svaty Anny</name>
+    <link href="https://mapa-turystyczna.pl/node/7522">
+      <text>Kaple svaty Anny</text>
+    </link>
+  </wpt>
+  <wpt lat="49.57077" lon="18.673655">
+    <ele>984</ele>
+    <name>Kozubova, kaple, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7519">
+      <text>Kozubova, kaple, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kaple svaty Anny - Kozubova, kaple, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5712492,18.6737484;49.57100975058731,18.673701449999992;49.5707703,18.6736545">
+    <text>Kaple svaty Anny - Kozubova, kaple, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5712492" lon="18.6737484">
+      <ele>976</ele>
+      <time>2022-01-17T23:20:37Z</time>
+    </trkpt>
+    <trkpt lat="49.5707703" lon="18.6736545">
+      <ele>984</ele>
+      <time>2022-01-17T23:22:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

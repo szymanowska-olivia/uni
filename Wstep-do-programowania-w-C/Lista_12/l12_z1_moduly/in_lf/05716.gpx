@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:02Z</time>
+    <bounds maxlat="49.416536" maxlon="19.051215" minlat="49.415534" minlon="19.050065"/>
+  </metadata>
+  <wpt lat="49.415534" lon="19.050065">
+    <ele>1013</ele>
+    <name>Przelecz Przegibek</name>
+    <link href="https://mapa-turystyczna.pl/node/638">
+      <text>Przelecz Przegibek</text>
+    </link>
+  </wpt>
+  <wpt lat="49.416536" lon="19.051215">
+    <ele>1023</ele>
+    <name>Nad Przelecza Przegibek</name>
+    <link href="https://mapa-turystyczna.pl/node/3975">
+      <text>Nad Przelecza Przegibek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Przegibek - Nad Przelecza Przegibek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.415534,19.050065;49.41608350002703,19.050610999999975;49.416536,19.051215">
+    <text>Przelecz Przegibek - Nad Przelecza Przegibek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.415534" lon="19.050065">
+      <ele>1013</ele>
+      <time>2022-01-17T22:00:02Z</time>
+    </trkpt>
+    <trkpt lat="49.415592" lon="19.050194">
+      <ele>1017</ele>
+      <time>2022-01-17T22:00:17Z</time>
+    </trkpt>
+    <trkpt lat="49.415725" lon="19.050355">
+      <ele>1022</ele>
+      <time>2022-01-17T22:00:41Z</time>
+    </trkpt>
+    <trkpt lat="49.41587" lon="19.050446">
+      <ele>1024</ele>
+      <time>2022-01-17T22:01:03Z</time>
+    </trkpt>
+    <trkpt lat="49.416032" lon="19.050564">
+      <ele>1026</ele>
+      <time>2022-01-17T22:01:28Z</time>
+    </trkpt>
+    <trkpt lat="49.416135" lon="19.050658">
+      <ele>1026</ele>
+      <time>2022-01-17T22:01:45Z</time>
+    </trkpt>
+    <trkpt lat="49.416369" lon="19.050852">
+      <ele>1025</ele>
+      <time>2022-01-17T22:02:22Z</time>
+    </trkpt>
+    <trkpt lat="49.416536" lon="19.051215">
+      <ele>1023</ele>
+      <time>2022-01-17T22:03:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

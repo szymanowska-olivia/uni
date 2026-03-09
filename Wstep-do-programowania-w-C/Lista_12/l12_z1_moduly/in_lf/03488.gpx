@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:30:38Z</time>
+    <bounds maxlat="49.201747" maxlon="20.070957" minlat="49.201411" minlon="20.070752"/>
+  </metadata>
+  <wpt lat="49.201747" lon="20.070752">
+    <ele>1402</ele>
+    <name>Odejscie na Szpiglasowa Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/2462">
+      <text>Odejscie na Szpiglasowa Przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.201411" lon="20.07081">
+    <ele>1406</ele>
+    <name>Schronisko PTTK przy Morskim Oku</name>
+    <link href="https://mapa-turystyczna.pl/node/278">
+      <text>Schronisko PTTK przy Morskim Oku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na Szpiglasowa Przelecz - Schronisko PTTK przy Morskim Oku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.201747,20.070752;49.2016635000705,20.070854500000024;49.201411,20.07081">
+    <text>Odejscie na Szpiglasowa Przelecz - Schronisko PTTK przy Morskim Oku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.201747" lon="20.070752">
+      <ele>1402</ele>
+      <time>2022-01-17T21:30:38Z</time>
+    </trkpt>
+    <trkpt lat="49.20158" lon="20.070957">
+      <ele>1404</ele>
+      <time>2022-01-17T21:31:09Z</time>
+    </trkpt>
+    <trkpt lat="49.201518" lon="20.07094">
+      <ele>1405</ele>
+      <time>2022-01-17T21:31:18Z</time>
+    </trkpt>
+    <trkpt lat="49.201464" lon="20.070908">
+      <ele>1405</ele>
+      <time>2022-01-17T21:31:26Z</time>
+    </trkpt>
+    <trkpt lat="49.201411" lon="20.07081">
+      <ele>1406</ele>
+      <time>2022-01-17T21:31:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

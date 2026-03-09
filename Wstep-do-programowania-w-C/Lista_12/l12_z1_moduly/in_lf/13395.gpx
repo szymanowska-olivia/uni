@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:06:42Z</time>
+    <bounds maxlat="50.0756161" maxlon="19.442131" minlat="50.074284" minlon="19.4381189"/>
+  </metadata>
+  <wpt lat="50.075616" lon="19.438119">
+    <ele>269</ele>
+    <name>Wygielzow</name>
+    <link href="https://mapa-turystyczna.pl/node/4366">
+      <text>Wygielzow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.074284" lon="19.442131">
+    <ele>279</ele>
+    <name>Wygielzow, ul. Podzamcze</name>
+    <link href="https://mapa-turystyczna.pl/node/9244">
+      <text>Wygielzow, ul. Podzamcze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wygielzow - Wygielzow, ul. Podzamcze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0756161,19.4381189;50.07506900267094,19.439838849999994;50.074284,19.442131">
+    <text>Wygielzow - Wygielzow, ul. Podzamcze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0756161" lon="19.4381189">
+      <ele>269</ele>
+      <time>2022-01-18T00:06:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0755751" lon="19.4383288">
+      <ele>270</ele>
+      <time>2022-01-18T00:06:57Z</time>
+    </trkpt>
+    <trkpt lat="50.0745629" lon="19.4413489">
+      <ele>275</ele>
+      <time>2022-01-18T00:10:43Z</time>
+    </trkpt>
+    <trkpt lat="50.074284" lon="19.442131">
+      <ele>279</ele>
+      <time>2022-01-18T00:11:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

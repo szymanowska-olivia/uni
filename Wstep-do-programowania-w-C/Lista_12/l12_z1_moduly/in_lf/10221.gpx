@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:33Z</time>
+    <bounds maxlat="50.0523409" maxlon="16.6893643" minlat="50.0519689" minlon="16.6875833"/>
+  </metadata>
+  <wpt lat="50.052341" lon="16.687583">
+    <ele>972</ele>
+    <name>Suchy vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7196">
+      <text>Suchy vrch, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.052096" lon="16.689364">
+    <ele>978</ele>
+    <name>Kramarova Chata</name>
+    <link href="https://mapa-turystyczna.pl/node/7195">
+      <text>Kramarova Chata</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Suchy vrch, rozc. - Kramarova Chata</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0523409,16.6875833;50.05216525032146,16.68803125;50.0520964,16.6893643">
+    <text>Suchy vrch, rozc. - Kramarova Chata</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0523409" lon="16.6875833">
+      <ele>972</ele>
+      <time>2022-01-17T23:12:33Z</time>
+    </trkpt>
+    <trkpt lat="50.0519896" lon="16.6884792">
+      <ele>972</ele>
+      <time>2022-01-17T23:14:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0519689" lon="16.688962">
+      <ele>974</ele>
+      <time>2022-01-17T23:14:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0520344" lon="16.6891015">
+      <ele>976</ele>
+      <time>2022-01-17T23:15:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0520964" lon="16.6893643">
+      <ele>978</ele>
+      <time>2022-01-17T23:15:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

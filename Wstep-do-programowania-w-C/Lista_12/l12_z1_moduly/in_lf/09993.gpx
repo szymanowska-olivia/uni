@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:09Z</time>
+    <bounds maxlat="48.9374988" maxlon="20.4280365" minlat="48.9370759" minlon="20.4271674"/>
+  </metadata>
+  <wpt lat="48.937499" lon="20.428037">
+    <ele>556</ele>
+    <name>Kysel, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/6987">
+      <text>Kysel, ustie</text>
+    </link>
+  </wpt>
+  <wpt lat="48.937076" lon="20.427167">
+    <ele>570</ele>
+    <name>Kysel, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/7036">
+      <text>Kysel, ustie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kysel, ustie - Kysel, ustie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9374988,20.4280365;48.93721335018926,20.427510749999982;48.9370759,20.4271674">
+    <text>Kysel, ustie - Kysel, ustie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9374988" lon="20.4280365">
+      <ele>556</ele>
+      <time>2022-01-17T23:08:09Z</time>
+    </trkpt>
+    <trkpt lat="48.9373508" lon="20.4278541">
+      <ele>565</ele>
+      <time>2022-01-17T23:09:00Z</time>
+    </trkpt>
+    <trkpt lat="48.9370759" lon="20.4271674">
+      <ele>570</ele>
+      <time>2022-01-17T23:11:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

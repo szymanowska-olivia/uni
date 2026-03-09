@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:22:15Z</time>
+    <bounds maxlat="50.2722404" maxlon="16.9652724" minlat="50.2719784" minlon="16.9643857"/>
+  </metadata>
+  <wpt lat="50.271978" lon="16.964386">
+    <ele>1080</ele>
+    <name>Pod Czernica</name>
+    <link href="https://mapa-turystyczna.pl/node/5017">
+      <text>Pod Czernica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.27224" lon="16.965272">
+    <ele>1083</ele>
+    <name>Czernica</name>
+    <link href="https://mapa-turystyczna.pl/node/2130">
+      <text>Czernica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Czernica - Czernica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2719784,16.9643857;50.27210940018021,16.964829049999995;50.2722404,16.9652724">
+    <text>Pod Czernica - Czernica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2719784" lon="16.9643857">
+      <ele>1080</ele>
+      <time>2022-01-17T22:22:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2722404" lon="16.9652724">
+      <ele>1083</ele>
+      <time>2022-01-17T22:23:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

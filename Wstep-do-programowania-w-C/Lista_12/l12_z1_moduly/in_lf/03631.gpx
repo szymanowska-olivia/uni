@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:56Z</time>
+    <bounds maxlat="50.7433704" maxlon="16.2879369" minlat="50.7424912" minlon="16.2825161"/>
+  </metadata>
+  <wpt lat="50.74337" lon="16.282516">
+    <ele>508</ele>
+    <name>Walbrzych, dworzec PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/2528">
+      <text>Walbrzych, dworzec PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="50.742491" lon="16.287848">
+    <ele>480</ele>
+    <name>Walbrzych, ul. Niepodleglosci</name>
+    <link href="https://mapa-turystyczna.pl/node/2534">
+      <text>Walbrzych, ul. Niepodleglosci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Walbrzych, dworzec PKP - Walbrzych, ul. Niepodleglosci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7433704,16.2825161;50.74312555039101,16.2850042;50.7424912,16.2878484">
+    <text>Walbrzych, dworzec PKP - Walbrzych, ul. Niepodleglosci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7433704" lon="16.2825161">
+      <ele>508</ele>
+      <time>2022-01-17T21:32:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7433169" lon="16.2838512">
+      <ele>507</ele>
+      <time>2022-01-17T21:34:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7429342" lon="16.2861572">
+      <ele>496</ele>
+      <time>2022-01-17T21:36:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7427186" lon="16.2879369">
+      <ele>481</ele>
+      <time>2022-01-17T21:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7424912" lon="16.2878484">
+      <ele>480</ele>
+      <time>2022-01-17T21:37:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

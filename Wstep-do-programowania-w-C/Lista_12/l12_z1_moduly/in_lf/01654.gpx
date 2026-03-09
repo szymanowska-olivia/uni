@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:04:00Z</time>
+    <bounds maxlat="50.7196404" maxlon="15.4659713" minlat="50.7190939" minlon="15.4593301"/>
+  </metadata>
+  <wpt lat="50.719259" lon="15.465971">
+    <ele>696</ele>
+    <name>Na Vrsich</name>
+    <link href="https://mapa-turystyczna.pl/node/1221">
+      <text>Na Vrsich</text>
+    </link>
+  </wpt>
+  <wpt lat="50.719433" lon="15.45933">
+    <ele>692</ele>
+    <name>Nad Hornou Vsou</name>
+    <link href="https://mapa-turystyczna.pl/node/1228">
+      <text>Nad Hornou Vsou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Vrsich - Nad Hornou Vsou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7192592,15.4659713;50.719516350001925,15.462614450000016;50.7194331,15.4593301">
+    <text>Na Vrsich - Nad Hornou Vsou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7192592" lon="15.4659713">
+      <ele>696</ele>
+      <time>2022-01-17T21:04:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7191018" lon="15.4656306">
+      <ele>693</ele>
+      <time>2022-01-17T21:04:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7190939" lon="15.4653544">
+      <ele>691</ele>
+      <time>2022-01-17T21:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7191187" lon="15.4649735">
+      <ele>690</ele>
+      <time>2022-01-17T21:05:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7194295" lon="15.4640562">
+      <ele>691</ele>
+      <time>2022-01-17T21:07:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7195297" lon="15.4630959">
+      <ele>695</ele>
+      <time>2022-01-17T21:08:28Z</time>
+    </trkpt>
+    <trkpt lat="50.719503" lon="15.462133">
+      <ele>699</ele>
+      <time>2022-01-17T21:09:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7195307" lon="15.4613095">
+      <ele>694</ele>
+      <time>2022-01-17T21:11:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7196404" lon="15.4605424">
+      <ele>690</ele>
+      <time>2022-01-17T21:12:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7195474" lon="15.4597592">
+      <ele>689</ele>
+      <time>2022-01-17T21:13:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7194331" lon="15.4593301">
+      <ele>692</ele>
+      <time>2022-01-17T21:14:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

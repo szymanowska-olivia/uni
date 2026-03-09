@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:32Z</time>
+    <bounds maxlat="50.5905389" maxlon="16.3318205" minlat="50.5878109" minlon="16.3297713"/>
+  </metadata>
+  <wpt lat="50.590539" lon="16.33182">
+    <ele>421</ele>
+    <name>Broumov, Pionyrska</name>
+    <link href="https://mapa-turystyczna.pl/node/2355">
+      <text>Broumov, Pionyrska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.587811" lon="16.329771">
+    <ele>415</ele>
+    <name>Braumov</name>
+    <link href="https://mapa-turystyczna.pl/node/5774">
+      <text>Braumov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Broumov, Pionyrska - Braumov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5905389,16.3318205;50.58920725295898,16.33112579999997;50.5878109,16.3297713">
+    <text>Broumov, Pionyrska - Braumov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5905389" lon="16.3318205">
+      <ele>421</ele>
+      <time>2022-01-17T22:36:32Z</time>
+    </trkpt>
+    <trkpt lat="50.5897351" lon="16.3315952">
+      <ele>421</ele>
+      <time>2022-01-17T22:37:52Z</time>
+    </trkpt>
+    <trkpt lat="50.5886794" lon="16.3306564">
+      <ele>418</ele>
+      <time>2022-01-17T22:39:51Z</time>
+    </trkpt>
+    <trkpt lat="50.5878109" lon="16.3297713">
+      <ele>415</ele>
+      <time>2022-01-17T22:41:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

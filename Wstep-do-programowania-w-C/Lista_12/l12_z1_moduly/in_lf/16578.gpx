@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:59:05Z</time>
+    <bounds maxlat="49.1647806" maxlon="22.622023" minlat="49.1641681" minlon="22.6194052"/>
+  </metadata>
+  <wpt lat="49.164781" lon="22.622023">
+    <ele>687</ele>
+    <name>Carynskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11319">
+      <text>Carynskie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.164268" lon="22.619405">
+    <ele>684</ele>
+    <name>Carynskie, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11320">
+      <text>Carynskie, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Carynskie - Carynskie, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1647806,22.622023;49.16419965001005,22.620919000000004;49.1642685,22.6194052">
+    <text>Carynskie - Carynskie, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1647806" lon="22.622023">
+      <ele>687</ele>
+      <time>2022-01-18T00:59:05Z</time>
+    </trkpt>
+    <trkpt lat="49.1647293" lon="22.621611">
+      <ele>681</ele>
+      <time>2022-01-18T00:59:46Z</time>
+    </trkpt>
+    <trkpt lat="49.1645048" lon="22.6214501">
+      <ele>676</ele>
+      <time>2022-01-18T01:00:23Z</time>
+    </trkpt>
+    <trkpt lat="49.1644417" lon="22.6212248">
+      <ele>674</ele>
+      <time>2022-01-18T01:00:46Z</time>
+    </trkpt>
+    <trkpt lat="49.1642312" lon="22.6210102">
+      <ele>673</ele>
+      <time>2022-01-18T01:01:24Z</time>
+    </trkpt>
+    <trkpt lat="49.1641681" lon="22.6208278">
+      <ele>673</ele>
+      <time>2022-01-18T01:01:43Z</time>
+    </trkpt>
+    <trkpt lat="49.1642803" lon="22.6205488">
+      <ele>674</ele>
+      <time>2022-01-18T01:02:15Z</time>
+    </trkpt>
+    <trkpt lat="49.1642663" lon="22.6199695">
+      <ele>679</ele>
+      <time>2022-01-18T01:03:11Z</time>
+    </trkpt>
+    <trkpt lat="49.1642685" lon="22.6194052">
+      <ele>684</ele>
+      <time>2022-01-18T01:04:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

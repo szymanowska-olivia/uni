@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:05Z</time>
+    <bounds maxlat="50.8267559" maxlon="15.2380205" minlat="50.8187717" minlon="15.2356272"/>
+  </metadata>
+  <wpt lat="50.826756" lon="15.23802">
+    <ele>956</ele>
+    <name>Parizkuv kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/8792">
+      <text>Parizkuv kriz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.818772" lon="15.235627">
+    <ele>880</ele>
+    <name>Pod Cihadlem</name>
+    <link href="https://mapa-turystyczna.pl/node/8865">
+      <text>Pod Cihadlem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Parizkuv kriz - Pod Cihadlem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8267559,15.2380205;50.823524077746455,15.236400749999998;50.8187717,15.2356272">
+    <text>Parizkuv kriz - Pod Cihadlem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8267559" lon="15.2380205">
+      <ele>956</ele>
+      <time>2022-01-17T23:58:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8263502" lon="15.2374173">
+      <ele>952</ele>
+      <time>2022-01-17T23:59:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8259029" lon="15.2369131">
+      <ele>947</ele>
+      <time>2022-01-18T00:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8255099" lon="15.2366663">
+      <ele>943</ele>
+      <time>2022-01-18T00:00:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8251337" lon="15.2365697">
+      <ele>940</ele>
+      <time>2022-01-18T00:01:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8219144" lon="15.2362318">
+      <ele>907</ele>
+      <time>2022-01-18T00:07:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8215348" lon="15.236221">
+      <ele>903</ele>
+      <time>2022-01-18T00:07:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8204368" lon="15.2364303">
+      <ele>893</ele>
+      <time>2022-01-18T00:09:58Z</time>
+    </trkpt>
+    <trkpt lat="50.8199725" lon="15.2362908">
+      <ele>890</ele>
+      <time>2022-01-18T00:10:48Z</time>
+    </trkpt>
+    <trkpt lat="50.8187717" lon="15.2356272">
+      <ele>880</ele>
+      <time>2022-01-18T00:13:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:19:10Z</time>
+    <bounds maxlat="50.5316806" maxlon="19.0216534" minlat="50.5314716" minlon="19.0209389"/>
+  </metadata>
+  <wpt lat="50.531472" lon="19.020939">
+    <ele>294</ele>
+    <name>Kolonia Woznicka, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9723">
+      <text>Kolonia Woznicka, krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.531681" lon="19.021653">
+    <ele>291</ele>
+    <name>Kolonia Woznicka</name>
+    <link href="https://mapa-turystyczna.pl/node/9721">
+      <text>Kolonia Woznicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolonia Woznicka, krzyz - Kolonia Woznicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5314716,19.0209389;50.53159965000769,19.02134925000003;50.5316806,19.0216534">
+    <text>Kolonia Woznicka, krzyz - Kolonia Woznicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5314716" lon="19.0209389">
+      <ele>294</ele>
+      <time>2022-01-18T00:19:10Z</time>
+    </trkpt>
+    <trkpt lat="50.5314853" lon="19.0209979">
+      <ele>294</ele>
+      <time>2022-01-18T00:19:15Z</time>
+    </trkpt>
+    <trkpt lat="50.5315727" lon="19.0212479">
+      <ele>293</ele>
+      <time>2022-01-18T00:19:36Z</time>
+    </trkpt>
+    <trkpt lat="50.5316266" lon="19.0214506">
+      <ele>292</ele>
+      <time>2022-01-18T00:19:53Z</time>
+    </trkpt>
+    <trkpt lat="50.5316806" lon="19.0216534">
+      <ele>291</ele>
+      <time>2022-01-18T00:20:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

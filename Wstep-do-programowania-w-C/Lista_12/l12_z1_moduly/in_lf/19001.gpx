@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:40:50Z</time>
+    <bounds maxlat="51.4885576" maxlon="23.1672354" minlat="51.4863345" minlon="23.1659109"/>
+  </metadata>
+  <wpt lat="51.488558" lon="23.166446">
+    <ele>171</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12867">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.486334" lon="23.167235">
+    <ele>171</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12851">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Rozejscie sciezki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4885576,23.166446;51.487373551375384,23.16624605000002;51.4863345,23.1672354">
+    <text>Rozejscie szlakow - Rozejscie sciezki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4885576" lon="23.166446">
+      <ele>171</ele>
+      <time>2022-01-18T01:40:50Z</time>
+    </trkpt>
+    <trkpt lat="51.4879618" lon="23.165933">
+      <ele>179</ele>
+      <time>2022-01-18T01:42:10Z</time>
+    </trkpt>
+    <trkpt lat="51.4877277" lon="23.1659109">
+      <ele>179</ele>
+      <time>2022-01-18T01:42:38Z</time>
+    </trkpt>
+    <trkpt lat="51.4870194" lon="23.1665812">
+      <ele>175</ele>
+      <time>2022-01-18T01:44:16Z</time>
+    </trkpt>
+    <trkpt lat="51.4863345" lon="23.1672354">
+      <ele>171</ele>
+      <time>2022-01-18T01:45:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

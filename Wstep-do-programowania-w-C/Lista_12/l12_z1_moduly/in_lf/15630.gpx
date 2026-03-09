@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:28Z</time>
+    <bounds maxlat="49.9766289" maxlon="17.0202281" minlat="49.9748626" minlon="17.0136406"/>
+  </metadata>
+  <wpt lat="49.976629" lon="17.013641">
+    <ele>333</ele>
+    <name>Vikyrovice, zst.</name>
+    <link href="https://mapa-turystyczna.pl/node/10670">
+      <text>Vikyrovice, zst.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.974863" lon="17.020228">
+    <ele>355</ele>
+    <name>Cerna pole</name>
+    <link href="https://mapa-turystyczna.pl/node/10671">
+      <text>Cerna pole</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vikyrovice, zst. - Cerna pole</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9766289,17.0136406;49.97574575810456,17.016934349999975;49.9748626,17.0202281">
+    <text>Vikyrovice, zst. - Cerna pole</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9766289" lon="17.0136406">
+      <ele>333</ele>
+      <time>2022-01-18T00:42:28Z</time>
+    </trkpt>
+    <trkpt lat="49.9748626" lon="17.0202281">
+      <ele>355</ele>
+      <time>2022-01-18T00:52:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

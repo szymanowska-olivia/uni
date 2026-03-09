@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:46Z</time>
+    <bounds maxlat="50.5116903" maxlon="16.2312376" minlat="50.5099641" minlon="16.2296391"/>
+  </metadata>
+  <wpt lat="50.509964" lon="16.229639">
+    <ele>485</ele>
+    <name>Bezdekov nad Metuji</name>
+    <link href="https://mapa-turystyczna.pl/node/5986">
+      <text>Bezdekov nad Metuji</text>
+    </link>
+  </wpt>
+  <wpt lat="50.51169" lon="16.231195">
+    <ele>490</ele>
+    <name>Bezdekov nad Metuji, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5984">
+      <text>Bezdekov nad Metuji, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bezdekov nad Metuji - Bezdekov nad Metuji, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5099641,16.2296391;50.510660500152,16.230980149999972;50.5116903,16.2311947">
+    <text>Bezdekov nad Metuji - Bezdekov nad Metuji, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5099641" lon="16.2296391">
+      <ele>485</ele>
+      <time>2022-01-17T22:41:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5100852" lon="16.2301058">
+      <ele>486</ele>
+      <time>2022-01-17T22:42:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5103471" lon="16.2305376">
+      <ele>485</ele>
+      <time>2022-01-17T22:43:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5105407" lon="16.2309533">
+      <ele>487</ele>
+      <time>2022-01-17T22:44:06Z</time>
+    </trkpt>
+    <trkpt lat="50.5107803" lon="16.231007">
+      <ele>488</ele>
+      <time>2022-01-17T22:44:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5113133" lon="16.2312376">
+      <ele>490</ele>
+      <time>2022-01-17T22:45:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5116903" lon="16.2311947">
+      <ele>490</ele>
+      <time>2022-01-17T22:46:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

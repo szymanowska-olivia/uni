@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:01Z</time>
+    <bounds maxlat="50.6287279" maxlon="16.1789185" minlat="50.6273431" minlon="16.1747772"/>
+  </metadata>
+  <wpt lat="50.627343" lon="16.174777">
+    <ele>609</ele>
+    <name>Pamatnik na Bukove Hore</name>
+    <link href="https://mapa-turystyczna.pl/node/5923">
+      <text>Pamatnik na Bukove Hore</text>
+    </link>
+  </wpt>
+  <wpt lat="50.628728" lon="16.178919">
+    <ele>614</ele>
+    <name>Bukova hora</name>
+    <link href="https://mapa-turystyczna.pl/node/2906">
+      <text>Bukova hora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pamatnik na Bukove Hore - Bukova hora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6273431,16.1747772;50.6278118523367,16.175839349999993;50.6287279,16.1789185">
+    <text>Pamatnik na Bukove Hore - Bukova hora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6273431" lon="16.1747772">
+      <ele>609</ele>
+      <time>2022-01-17T22:40:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6282806" lon="16.1769015">
+      <ele>615</ele>
+      <time>2022-01-17T22:42:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6287279" lon="16.1789185">
+      <ele>614</ele>
+      <time>2022-01-17T22:45:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

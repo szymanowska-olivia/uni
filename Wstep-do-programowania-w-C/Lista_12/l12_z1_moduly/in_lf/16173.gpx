@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:16Z</time>
+    <bounds maxlat="50.8547744" maxlon="15.7039553" minlat="50.8541411" minlon="15.702684"/>
+  </metadata>
+  <wpt lat="50.854774" lon="15.703955">
+    <ele>399</ele>
+    <name>Rozdroze Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/11045">
+      <text>Rozdroze Polana</text>
+    </link>
+  </wpt>
+  <wpt lat="50.854141" lon="15.702684">
+    <ele>396</ele>
+    <name>Rozdroze pod Chmielnikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/11046">
+      <text>Rozdroze pod Chmielnikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze Polana - Rozdroze pod Chmielnikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8547744,15.7039553;50.85440875003982,15.703253850000015;50.8541411,15.702684">
+    <text>Rozdroze Polana - Rozdroze pod Chmielnikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8547744" lon="15.7039553">
+      <ele>399</ele>
+      <time>2022-01-18T00:52:16Z</time>
+    </trkpt>
+    <trkpt lat="50.8546154" lon="15.70375">
+      <ele>400</ele>
+      <time>2022-01-18T00:52:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8544697" lon="15.7034282">
+      <ele>399</ele>
+      <time>2022-01-18T00:53:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8543478" lon="15.7030795">
+      <ele>398</ele>
+      <time>2022-01-18T00:53:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8541411" lon="15.702684">
+      <ele>396</ele>
+      <time>2022-01-18T00:54:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

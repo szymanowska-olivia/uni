@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:47Z</time>
+    <bounds maxlat="50.6569333" maxlon="16.5267205" minlat="50.6561709" minlon="16.5264253"/>
+  </metadata>
+  <wpt lat="50.656933" lon="16.526425">
+    <ele>810</ele>
+    <name>Pod Przelecza Jugowska</name>
+    <link href="https://mapa-turystyczna.pl/node/4004">
+      <text>Pod Przelecza Jugowska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.656171" lon="16.52672">
+    <ele>801</ele>
+    <name>Przelecz Jugowska</name>
+    <link href="https://mapa-turystyczna.pl/node/2034">
+      <text>Przelecz Jugowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Przelecza Jugowska - Przelecz Jugowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6569333,16.5264253;50.65637750045438,16.52665885000003;50.6561709,16.5267205">
+    <text>Pod Przelecza Jugowska - Przelecz Jugowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6569333" lon="16.5264253">
+      <ele>810</ele>
+      <time>2022-01-17T22:00:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6565841" lon="16.5265972">
+      <ele>807</ele>
+      <time>2022-01-17T22:01:15Z</time>
+    </trkpt>
+    <trkpt lat="50.6561709" lon="16.5267205">
+      <ele>801</ele>
+      <time>2022-01-17T22:01:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

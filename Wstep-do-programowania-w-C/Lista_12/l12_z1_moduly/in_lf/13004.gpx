@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:26Z</time>
+    <bounds maxlat="50.2447932" maxlon="19.784494" minlat="50.2440617" minlon="19.7818338"/>
+  </metadata>
+  <wpt lat="50.244068" lon="19.781834">
+    <ele>424</ele>
+    <name>Pieskowa Skala, wejscie do zamku</name>
+    <link href="https://mapa-turystyczna.pl/node/8958">
+      <text>Pieskowa Skala, wejscie do zamku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244793" lon="19.784494">
+    <ele>448</ele>
+    <name>Pieskowa Skala, rozwidlenie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4552">
+      <text>Pieskowa Skala, rozwidlenie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pieskowa Skala, wejscie do zamku - Pieskowa Skala, rozwidlenie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2440681,19.7818338;50.24435585015194,19.783277500000004;50.2447932,19.784494">
+    <text>Pieskowa Skala, wejscie do zamku - Pieskowa Skala, rozwidlenie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2440681" lon="19.7818338">
+      <ele>424</ele>
+      <time>2022-01-18T00:00:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2440617" lon="19.782595">
+      <ele>429</ele>
+      <time>2022-01-18T00:01:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2440827" lon="19.782882">
+      <ele>431</ele>
+      <time>2022-01-18T00:02:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2442355" lon="19.7831221">
+      <ele>436</ele>
+      <time>2022-01-18T00:02:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2444762" lon="19.7834329">
+      <ele>441</ele>
+      <time>2022-01-18T00:03:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2445965" lon="19.7838029">
+      <ele>444</ele>
+      <time>2022-01-18T00:04:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2446139" lon="19.7840656">
+      <ele>445</ele>
+      <time>2022-01-18T00:04:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2447932" lon="19.784494">
+      <ele>448</ele>
+      <time>2022-01-18T00:05:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

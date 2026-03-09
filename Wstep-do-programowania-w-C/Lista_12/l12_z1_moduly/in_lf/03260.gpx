@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:20Z</time>
+    <bounds maxlat="50.813521" maxlon="15.4285812" minlat="50.8063111" minlon="15.425502"/>
+  </metadata>
+  <wpt lat="50.813521" lon="15.428581">
+    <ele>875</ele>
+    <name>Polana Jakuszycka</name>
+    <link href="https://mapa-turystyczna.pl/node/2318">
+      <text>Polana Jakuszycka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.806311" lon="15.425502">
+    <ele>853</ele>
+    <name>Harrachov CZ / PL</name>
+    <link href="https://mapa-turystyczna.pl/node/1127">
+      <text>Harrachov CZ / PL</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polana Jakuszycka - Harrachov CZ / PL</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.813521,15.4285812;50.81005710198926,15.427287049999995;50.8063111,15.425502">
+    <text>Polana Jakuszycka - Harrachov CZ / PL</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.813521" lon="15.4285812">
+      <ele>875</ele>
+      <time>2022-01-17T21:27:20Z</time>
+    </trkpt>
+    <trkpt lat="50.812025" lon="15.4280689">
+      <ele>874</ele>
+      <time>2022-01-17T21:29:23Z</time>
+    </trkpt>
+    <trkpt lat="50.8104882" lon="15.4275137">
+      <ele>868</ele>
+      <time>2022-01-17T21:31:29Z</time>
+    </trkpt>
+    <trkpt lat="50.809626" lon="15.4270604">
+      <ele>866</ele>
+      <time>2022-01-17T21:32:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8088994" lon="15.4267734">
+      <ele>863</ele>
+      <time>2022-01-17T21:33:42Z</time>
+    </trkpt>
+    <trkpt lat="50.8076497" lon="15.4263067">
+      <ele>857</ele>
+      <time>2022-01-17T21:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.8066416" lon="15.4257274">
+      <ele>856</ele>
+      <time>2022-01-17T21:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8063111" lon="15.425502">
+      <ele>853</ele>
+      <time>2022-01-17T21:37:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

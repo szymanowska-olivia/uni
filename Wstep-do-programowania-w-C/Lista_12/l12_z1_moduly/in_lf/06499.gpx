@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:08:11Z</time>
+    <bounds maxlat="50.7355588" maxlon="19.2510831" minlat="50.6928353" minlon="19.2093158"/>
+  </metadata>
+  <wpt lat="50.692835" lon="19.251083">
+    <ele>343</ele>
+    <name>Choron, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/4540">
+      <text>Choron, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.735559" lon="19.209316">
+    <ele>270</ele>
+    <name>Czestochowa, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4541">
+      <text>Czestochowa, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Choron, kosciol - Czestochowa, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6928353,19.2510831;50.71213085520986,19.230414500000002;50.7355588,19.2093158">
+    <text>Choron, kosciol - Czestochowa, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6928353" lon="19.2510831">
+      <ele>343</ele>
+      <time>2022-01-17T22:08:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6965681" lon="19.2460164">
+      <ele>323</ele>
+      <time>2022-01-17T22:16:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7004866" lon="19.2413695">
+      <ele>308</ele>
+      <time>2022-01-17T22:24:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7030301" lon="19.2384023">
+      <ele>301</ele>
+      <time>2022-01-17T22:30:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7041602" lon="19.2374951">
+      <ele>302</ele>
+      <time>2022-01-17T22:32:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7083161" lon="19.233753">
+      <ele>287</ele>
+      <time>2022-01-17T22:40:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7159453" lon="19.227076">
+      <ele>282</ele>
+      <time>2022-01-17T22:54:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7164161" lon="19.2261366">
+      <ele>278</ele>
+      <time>2022-01-17T22:56:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7168461" lon="19.2261198">
+      <ele>279</ele>
+      <time>2022-01-17T22:56:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7263189" lon="19.2174388">
+      <ele>278</ele>
+      <time>2022-01-17T23:15:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7350714" lon="19.2095057">
+      <ele>271</ele>
+      <time>2022-01-17T23:32:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7355588" lon="19.2093158">
+      <ele>270</ele>
+      <time>2022-01-17T23:33:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

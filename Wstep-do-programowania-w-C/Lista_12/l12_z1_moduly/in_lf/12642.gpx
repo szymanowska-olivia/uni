@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:31Z</time>
+    <bounds maxlat="50.8188596" maxlon="15.3451538" minlat="50.818605" minlon="15.3445652"/>
+  </metadata>
+  <wpt lat="50.81886" lon="15.344565">
+    <ele>862</ele>
+    <name>Jizerka, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8679">
+      <text>Jizerka, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.818605" lon="15.345154">
+    <ele>861</ele>
+    <name>Jizerka</name>
+    <link href="https://mapa-turystyczna.pl/node/2286">
+      <text>Jizerka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jizerka, rozc. - Jizerka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8188596,15.3445652;50.818732300173515,15.344859500000014;50.818605,15.3451538">
+    <text>Jizerka, rozc. - Jizerka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8188596" lon="15.3445652">
+      <ele>862</ele>
+      <time>2022-01-17T23:53:31Z</time>
+    </trkpt>
+    <trkpt lat="50.818605" lon="15.3451538">
+      <ele>861</ele>
+      <time>2022-01-17T23:54:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

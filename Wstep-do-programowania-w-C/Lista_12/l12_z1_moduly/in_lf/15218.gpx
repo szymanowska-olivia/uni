@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:35:20Z</time>
+    <bounds maxlat="51.1971126" maxlon="16.7465721" minlat="51.1934611" minlon="16.7381286"/>
+  </metadata>
+  <wpt lat="51.197113" lon="16.746572">
+    <ele>108</ele>
+    <name>Miekinia, ul. Swierkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10320">
+      <text>Miekinia, ul. Swierkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.193815" lon="16.738129">
+    <ele>108</ele>
+    <name>Miekinia, ul. Sportowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10319">
+      <text>Miekinia, ul. Sportowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miekinia, ul. Swierkowa - Miekinia, ul. Sportowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1971126,16.7465721;51.19361320025104,16.743676150000002;51.1938147,16.7381286">
+    <text>Miekinia, ul. Swierkowa - Miekinia, ul. Sportowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1971126" lon="16.7465721">
+      <ele>108</ele>
+      <time>2022-01-18T00:35:20Z</time>
+    </trkpt>
+    <trkpt lat="51.1943688" lon="16.7462275">
+      <ele>113</ele>
+      <time>2022-01-18T00:40:03Z</time>
+    </trkpt>
+    <trkpt lat="51.1940931" lon="16.7462811">
+      <ele>112</ele>
+      <time>2022-01-18T00:40:32Z</time>
+    </trkpt>
+    <trkpt lat="51.1934611" lon="16.746206">
+      <ele>114</ele>
+      <time>2022-01-18T00:41:37Z</time>
+    </trkpt>
+    <trkpt lat="51.1937653" lon="16.7411463">
+      <ele>107</ele>
+      <time>2022-01-18T00:47:05Z</time>
+    </trkpt>
+    <trkpt lat="51.193725" lon="16.7400949">
+      <ele>107</ele>
+      <time>2022-01-18T00:48:13Z</time>
+    </trkpt>
+    <trkpt lat="51.1937384" lon="16.7396765">
+      <ele>107</ele>
+      <time>2022-01-18T00:48:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1938147" lon="16.7381286">
+      <ele>108</ele>
+      <time>2022-01-18T00:50:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

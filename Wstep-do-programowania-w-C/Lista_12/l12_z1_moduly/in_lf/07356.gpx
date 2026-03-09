@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:47Z</time>
+    <bounds maxlat="52.3042244" maxlon="20.874179" minlat="52.3003963" minlon="20.872736"/>
+  </metadata>
+  <wpt lat="52.304224" lon="20.874179">
+    <ele>95</ele>
+    <name>Polana Turystyczna Opalen</name>
+    <link href="https://mapa-turystyczna.pl/node/4990">
+      <text>Polana Turystyczna Opalen</text>
+    </link>
+  </wpt>
+  <wpt lat="52.300396" lon="20.872736">
+    <ele>104</ele>
+    <name>Opalen</name>
+    <link href="https://mapa-turystyczna.pl/node/4991">
+      <text>Opalen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polana Turystyczna Opalen - Opalen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3042244,20.874179;52.30231039136886,20.873457500000015;52.3003963,20.872736">
+    <text>Polana Turystyczna Opalen - Opalen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3042244" lon="20.874179">
+      <ele>95</ele>
+      <time>2022-01-17T22:21:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3003963" lon="20.872736">
+      <ele>104</ele>
+      <time>2022-01-17T22:26:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:42Z</time>
+    <bounds maxlat="50.1982411" maxlon="16.9844296" minlat="50.1956948" minlon="16.9820801"/>
+  </metadata>
+  <wpt lat="50.195695" lon="16.98443">
+    <ele>858</ele>
+    <name>Pod Dalimilovou rozhl.</name>
+    <link href="https://mapa-turystyczna.pl/node/13542">
+      <text>Pod Dalimilovou rozhl.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.198241" lon="16.98208">
+    <ele>891</ele>
+    <name>Vetrov, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/13539">
+      <text>Vetrov, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Dalimilovou rozhl. - Vetrov, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1956948,16.9844296;50.19721050109129,16.983945649999974;50.1982411,16.9820801">
+    <text>Pod Dalimilovou rozhl. - Vetrov, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1956948" lon="16.9844296">
+      <ele>858</ele>
+      <time>2022-01-18T02:00:42Z</time>
+    </trkpt>
+    <trkpt lat="50.1960635" lon="16.9842246">
+      <ele>868</ele>
+      <time>2022-01-18T02:01:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1968877" lon="16.9840315">
+      <ele>876</ele>
+      <time>2022-01-18T02:04:29Z</time>
+    </trkpt>
+    <trkpt lat="50.1975333" lon="16.9838598">
+      <ele>885</ele>
+      <time>2022-01-18T02:06:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1977806" lon="16.9835594">
+      <ele>889</ele>
+      <time>2022-01-18T02:07:28Z</time>
+    </trkpt>
+    <trkpt lat="50.1978767" lon="16.9831088">
+      <ele>891</ele>
+      <time>2022-01-18T02:08:24Z</time>
+    </trkpt>
+    <trkpt lat="50.1979866" lon="16.9827011">
+      <ele>891</ele>
+      <time>2022-01-18T02:09:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1982411" lon="16.9820801">
+      <ele>891</ele>
+      <time>2022-01-18T02:10:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:39Z</time>
+    <bounds maxlat="49.8530617" maxlon="19.6526366" minlat="49.8526946" minlon="19.6521801"/>
+  </metadata>
+  <wpt lat="49.853062" lon="19.65218">
+    <ele>527</ele>
+    <name>Zar</name>
+    <link href="https://mapa-turystyczna.pl/node/8007">
+      <text>Zar</text>
+    </link>
+  </wpt>
+  <wpt lat="49.852695" lon="19.652637">
+    <ele>507</ele>
+    <name>Ruiny zamku Skrzynskich</name>
+    <link href="https://mapa-turystyczna.pl/node/1687">
+      <text>Ruiny zamku Skrzynskich</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zar - Ruiny zamku Skrzynskich</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8530617,19.6521801;49.85294435003262,19.652440649999974;49.8526946,19.6526366">
+    <text>Zar - Ruiny zamku Skrzynskich</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8530617" lon="19.6521801">
+      <ele>527</ele>
+      <time>2022-01-17T23:33:39Z</time>
+    </trkpt>
+    <trkpt lat="49.8530005" lon="19.6523634">
+      <ele>522</ele>
+      <time>2022-01-17T23:33:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8528882" lon="19.6525179">
+      <ele>516</ele>
+      <time>2022-01-17T23:34:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8526946" lon="19.6526366">
+      <ele>507</ele>
+      <time>2022-01-17T23:34:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

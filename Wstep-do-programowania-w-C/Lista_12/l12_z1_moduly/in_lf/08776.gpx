@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:57Z</time>
+    <bounds maxlat="50.2945332" maxlon="17.1525979" minlat="50.2941236" minlon="17.1514311"/>
+  </metadata>
+  <wpt lat="50.294533" lon="17.151431">
+    <ele>417</ele>
+    <name>Hradisko, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6103">
+      <text>Hradisko, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.294124" lon="17.152598">
+    <ele>412</ele>
+    <name>Hradisko, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6104">
+      <text>Hradisko, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hradisko, rozc. - Hradisko, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2945332,17.1514311;50.29438900005662,17.152116149999994;50.2941236,17.1525979">
+    <text>Hradisko, rozc. - Hradisko, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2945332" lon="17.1514311">
+      <ele>417</ele>
+      <time>2022-01-17T22:44:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2945172" lon="17.1516183">
+      <ele>418</ele>
+      <time>2022-01-17T22:45:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2944624" lon="17.1518812">
+      <ele>419</ele>
+      <time>2022-01-17T22:45:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2943156" lon="17.1523511">
+      <ele>416</ele>
+      <time>2022-01-17T22:46:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2941236" lon="17.1525979">
+      <ele>412</ele>
+      <time>2022-01-17T22:46:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:13Z</time>
+    <bounds maxlat="50.6241606" maxlon="15.8184953" minlat="50.6237653" minlon="15.817552"/>
+  </metadata>
+  <wpt lat="50.623776" lon="15.817552">
+    <ele>512</ele>
+    <name>Svoboda nad Upou, ulice 5. kvetna</name>
+    <link href="https://mapa-turystyczna.pl/node/1387">
+      <text>Svoboda nad Upou, ulice 5. kvetna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.624161" lon="15.818446">
+    <ele>518</ele>
+    <name>Svoboda nad Upou</name>
+    <link href="https://mapa-turystyczna.pl/node/1385">
+      <text>Svoboda nad Upou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svoboda nad Upou, ulice 5. kvetna - Svoboda nad Upou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6237765,15.817552;50.623772100000494,15.818318249999983;50.6241606,15.8184456">
+    <text>Svoboda nad Upou, ulice 5. kvetna - Svoboda nad Upou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6237765" lon="15.817552">
+      <ele>512</ele>
+      <time>2022-01-17T21:08:13Z</time>
+    </trkpt>
+    <trkpt lat="50.6237653" lon="15.8181412">
+      <ele>513</ele>
+      <time>2022-01-17T21:08:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6237789" lon="15.8184953">
+      <ele>516</ele>
+      <time>2022-01-17T21:09:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6241606" lon="15.8184456">
+      <ele>518</ele>
+      <time>2022-01-17T21:10:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:56Z</time>
+    <bounds maxlat="51.2999637" maxlon="16.9120394" minlat="51.2995146" minlon="16.9098745"/>
+  </metadata>
+  <wpt lat="51.299515" lon="16.909875">
+    <ele>172</ele>
+    <name>Oborniki Slaskie, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/10565">
+      <text>Oborniki Slaskie, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.299954" lon="16.912039">
+    <ele>174</ele>
+    <name>Oborniki Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/10532">
+      <text>Oborniki Slaskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oborniki Slaskie, ul. Kosciuszki - Oborniki Slaskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2995146,16.9098745;51.29973915054924,16.910846650000018;51.2999536,16.9120394">
+    <text>Oborniki Slaskie, ul. Kosciuszki - Oborniki Slaskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2995146" lon="16.9098745">
+      <ele>172</ele>
+      <time>2022-01-18T00:39:56Z</time>
+    </trkpt>
+    <trkpt lat="51.2999637" lon="16.9118188">
+      <ele>173</ele>
+      <time>2022-01-18T00:42:39Z</time>
+    </trkpt>
+    <trkpt lat="51.2999536" lon="16.9120394">
+      <ele>174</ele>
+      <time>2022-01-18T00:42:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:58Z</time>
+    <bounds maxlat="49.764895" maxlon="19.409025" minlat="49.763684" minlon="19.405597"/>
+  </metadata>
+  <wpt lat="49.763684" lon="19.405597">
+    <ele>891</ele>
+    <name>Rozejscie szlakow pod Smrekowica</name>
+    <link href="https://mapa-turystyczna.pl/node/3937">
+      <text>Rozejscie szlakow pod Smrekowica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.764895" lon="19.409025">
+    <ele>873</ele>
+    <name>Skrzyzowanie pod Smrekowica</name>
+    <link href="https://mapa-turystyczna.pl/node/1063">
+      <text>Skrzyzowanie pod Smrekowica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow pod Smrekowica - Skrzyzowanie pod Smrekowica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.763684,19.405597;49.764022500014505,19.40744500000001;49.764895,19.409025">
+    <text>Rozejscie szlakow pod Smrekowica - Skrzyzowanie pod Smrekowica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.763684" lon="19.405597">
+      <ele>891</ele>
+      <time>2022-01-17T21:58:58Z</time>
+    </trkpt>
+    <trkpt lat="49.763716" lon="19.405817">
+      <ele>889</ele>
+      <time>2022-01-17T21:59:15Z</time>
+    </trkpt>
+    <trkpt lat="49.763814" lon="19.406411">
+      <ele>890</ele>
+      <time>2022-01-17T22:00:00Z</time>
+    </trkpt>
+    <trkpt lat="49.763985" lon="19.407217">
+      <ele>888</ele>
+      <time>2022-01-17T22:01:02Z</time>
+    </trkpt>
+    <trkpt lat="49.76406" lon="19.407673">
+      <ele>885</ele>
+      <time>2022-01-17T22:01:37Z</time>
+    </trkpt>
+    <trkpt lat="49.764103" lon="19.407832">
+      <ele>884</ele>
+      <time>2022-01-17T22:01:49Z</time>
+    </trkpt>
+    <trkpt lat="49.76441" lon="19.408522">
+      <ele>880</ele>
+      <time>2022-01-17T22:02:51Z</time>
+    </trkpt>
+    <trkpt lat="49.764506" lon="19.408649">
+      <ele>879</ele>
+      <time>2022-01-17T22:03:05Z</time>
+    </trkpt>
+    <trkpt lat="49.764895" lon="19.409025">
+      <ele>873</ele>
+      <time>2022-01-17T22:03:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

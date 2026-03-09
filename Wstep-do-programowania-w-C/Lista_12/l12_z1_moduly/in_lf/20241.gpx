@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:10Z</time>
+    <bounds maxlat="50.438026" maxlon="19.672813" minlat="50.436544" minlon="19.66748"/>
+  </metadata>
+  <wpt lat="50.437742" lon="19.66748">
+    <ele>443</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13619">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.436544" lon="19.672813">
+    <ele>438</ele>
+    <name>Podlesie</name>
+    <link href="https://mapa-turystyczna.pl/node/4577">
+      <text>Podlesie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Podlesie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.437742,19.66748;50.43747950026204,19.670355500000003;50.436544,19.672813">
+    <text>Rozejscie szlakow - Podlesie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.437742" lon="19.66748">
+      <ele>443</ele>
+      <time>2022-01-18T02:03:10Z</time>
+    </trkpt>
+    <trkpt lat="50.437879" lon="19.668177">
+      <ele>444</ele>
+      <time>2022-01-18T02:03:46Z</time>
+    </trkpt>
+    <trkpt lat="50.438026" lon="19.669039">
+      <ele>438</ele>
+      <time>2022-01-18T02:04:30Z</time>
+    </trkpt>
+    <trkpt lat="50.437838" lon="19.6694">
+      <ele>438</ele>
+      <time>2022-01-18T02:04:53Z</time>
+    </trkpt>
+    <trkpt lat="50.437637" lon="19.66998">
+      <ele>440</ele>
+      <time>2022-01-18T02:05:26Z</time>
+    </trkpt>
+    <trkpt lat="50.437322" lon="19.670731">
+      <ele>445</ele>
+      <time>2022-01-18T02:06:10Z</time>
+    </trkpt>
+    <trkpt lat="50.436923" lon="19.671814">
+      <ele>445</ele>
+      <time>2022-01-18T02:07:12Z</time>
+    </trkpt>
+    <trkpt lat="50.436772" lon="19.672254">
+      <ele>442</ele>
+      <time>2022-01-18T02:07:37Z</time>
+    </trkpt>
+    <trkpt lat="50.436544" lon="19.672813">
+      <ele>438</ele>
+      <time>2022-01-18T02:08:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:42:53Z</time>
+    <bounds maxlat="49.9652146" maxlon="16.9945727" minlat="49.963655" minlon="16.9865744"/>
+  </metadata>
+  <wpt lat="49.963655" lon="16.986574">
+    <ele>318</ele>
+    <name>Sumperk, Jesenicka</name>
+    <link href="https://mapa-turystyczna.pl/node/10686">
+      <text>Sumperk, Jesenicka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.965215" lon="16.994573">
+    <ele>322</ele>
+    <name>Sumperk, Jesenicka, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/10685">
+      <text>Sumperk, Jesenicka, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sumperk, Jesenicka - Sumperk, Jesenicka, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.963655,16.9865744;49.96476850206709,16.9919178;49.9652146,16.9945727">
+    <text>Sumperk, Jesenicka - Sumperk, Jesenicka, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.963655" lon="16.9865744">
+      <ele>318</ele>
+      <time>2022-01-18T00:42:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9638531" lon="16.9874175">
+      <ele>319</ele>
+      <time>2022-01-18T00:43:57Z</time>
+    </trkpt>
+    <trkpt lat="49.9643224" lon="16.9892629">
+      <ele>320</ele>
+      <time>2022-01-18T00:46:20Z</time>
+    </trkpt>
+    <trkpt lat="49.9652146" lon="16.9945727">
+      <ele>322</ele>
+      <time>2022-01-18T00:52:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

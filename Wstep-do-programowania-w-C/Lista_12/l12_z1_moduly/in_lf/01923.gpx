@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:14Z</time>
+    <bounds maxlat="50.825418" maxlon="15.5275172" minlat="50.8234891" minlon="15.5252373"/>
+  </metadata>
+  <wpt lat="50.825418" lon="15.525237">
+    <ele>628</ele>
+    <name>Szklarska Poreba, ul. 1 maja</name>
+    <link href="https://mapa-turystyczna.pl/node/1390">
+      <text>Szklarska Poreba, ul. 1 maja</text>
+    </link>
+  </wpt>
+  <wpt lat="50.823489" lon="15.527517">
+    <ele>644</ele>
+    <name>Szklarska Poreba, Kilinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/1391">
+      <text>Szklarska Poreba, Kilinskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szklarska Poreba, ul. 1 maja - Szklarska Poreba, Kilinskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.825418,15.5252373;50.82429885182003,15.526565050000025;50.8234891,15.5275172">
+    <text>Szklarska Poreba, ul. 1 maja - Szklarska Poreba, Kilinskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.825418" lon="15.5252373">
+      <ele>628</ele>
+      <time>2022-01-17T21:08:14Z</time>
+    </trkpt>
+    <trkpt lat="50.8250951" lon="15.5255377">
+      <ele>629</ele>
+      <time>2022-01-17T21:09:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8247111" lon="15.5260903">
+      <ele>633</ele>
+      <time>2022-01-17T21:10:05Z</time>
+    </trkpt>
+    <trkpt lat="50.8238866" lon="15.5270398">
+      <ele>641</ele>
+      <time>2022-01-17T21:12:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8234891" lon="15.5275172">
+      <ele>644</ele>
+      <time>2022-01-17T21:13:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

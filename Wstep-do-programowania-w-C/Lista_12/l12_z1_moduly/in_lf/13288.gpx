@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:52Z</time>
+    <bounds maxlat="50.2073507" maxlon="19.2938064" minlat="50.2052584" minlon="19.2873053"/>
+  </metadata>
+  <wpt lat="50.205407" lon="19.287305">
+    <ele>310</ele>
+    <name>Jaworzno, ul. Szpitalna</name>
+    <link href="https://mapa-turystyczna.pl/node/9159">
+      <text>Jaworzno, ul. Szpitalna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.207351" lon="19.293193">
+    <ele>300</ele>
+    <name>Jaworzno, Obwodnica Polnocna</name>
+    <link href="https://mapa-turystyczna.pl/node/9162">
+      <text>Jaworzno, Obwodnica Polnocna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzno, ul. Szpitalna - Jaworzno, Obwodnica Polnocna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2054068,19.2873053;50.205344300027775,19.292436800000015;50.2073507,19.2931928">
+    <text>Jaworzno, ul. Szpitalna - Jaworzno, Obwodnica Polnocna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2054068" lon="19.2873053">
+      <ele>310</ele>
+      <time>2022-01-18T00:04:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2053683" lon="19.2878985">
+      <ele>308</ele>
+      <time>2022-01-18T00:05:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2052859" lon="19.2893576">
+      <ele>304</ele>
+      <time>2022-01-18T00:07:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2052584" lon="19.2902266">
+      <ele>300</ele>
+      <time>2022-01-18T00:07:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2052928" lon="19.2914283">
+      <ele>296</ele>
+      <time>2022-01-18T00:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2053958" lon="19.2934453">
+      <ele>292</ele>
+      <time>2022-01-18T00:11:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2054644" lon="19.2936599">
+      <ele>292</ele>
+      <time>2022-01-18T00:11:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2056557" lon="19.2938064">
+      <ele>293</ele>
+      <time>2022-01-18T00:11:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2061661" lon="19.2937564">
+      <ele>295</ele>
+      <time>2022-01-18T00:12:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2067773" lon="19.2934882">
+      <ele>297</ele>
+      <time>2022-01-18T00:13:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2073507" lon="19.2931928">
+      <ele>300</ele>
+      <time>2022-01-18T00:14:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

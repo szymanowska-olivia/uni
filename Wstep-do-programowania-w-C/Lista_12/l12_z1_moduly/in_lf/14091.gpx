@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:41Z</time>
+    <bounds maxlat="50.1580742" maxlon="18.4927063" minlat="50.1564654" minlon="18.4870199"/>
+  </metadata>
+  <wpt lat="50.158074" lon="18.492706">
+    <ele>219</ele>
+    <name>Buglowiec, kolej piaskowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9636">
+      <text>Buglowiec, kolej piaskowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.156465" lon="18.48702">
+    <ele>214</ele>
+    <name>Stodoly, ul. Jaworowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9637">
+      <text>Stodoly, ul. Jaworowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Buglowiec, kolej piaskowa - Stodoly, ul. Jaworowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1580742,18.4927063;50.15737975352847,18.49014315;50.1564654,18.4870199">
+    <text>Buglowiec, kolej piaskowa - Stodoly, ul. Jaworowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1580742" lon="18.4927063">
+      <ele>219</ele>
+      <time>2022-01-18T00:16:41Z</time>
+    </trkpt>
+    <trkpt lat="50.1579606" lon="18.4922889">
+      <ele>217</ele>
+      <time>2022-01-18T00:17:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1567989" lon="18.4879974">
+      <ele>224</ele>
+      <time>2022-01-18T00:20:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1564654" lon="18.4870199">
+      <ele>214</ele>
+      <time>2022-01-18T00:21:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

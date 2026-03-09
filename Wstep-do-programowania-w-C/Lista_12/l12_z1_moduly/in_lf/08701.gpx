@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:35Z</time>
+    <bounds maxlat="50.6119829" maxlon="16.1135423" minlat="50.6116799" minlon="16.1132741"/>
+  </metadata>
+  <wpt lat="50.61168" lon="16.113274">
+    <ele>552</ele>
+    <name>Vyhlidka Velke panorama</name>
+    <link href="https://mapa-turystyczna.pl/node/6055">
+      <text>Vyhlidka Velke panorama</text>
+    </link>
+  </wpt>
+  <wpt lat="50.611983" lon="16.113542">
+    <ele>550</ele>
+    <name>Vyhlidka Velke panorama, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6054">
+      <text>Vyhlidka Velke panorama, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vyhlidka Velke panorama - Vyhlidka Velke panorama, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6116799,16.1132741;50.611810900027756,16.113368000000037;50.6119829,16.1135423">
+    <text>Vyhlidka Velke panorama - Vyhlidka Velke panorama, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6116799" lon="16.1132741">
+      <ele>552</ele>
+      <time>2022-01-17T22:43:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6117598" lon="16.1132741">
+      <ele>553</ele>
+      <time>2022-01-17T22:43:48Z</time>
+    </trkpt>
+    <trkpt lat="50.611862" lon="16.1134619">
+      <ele>551</ele>
+      <time>2022-01-17T22:44:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6119829" lon="16.1135423">
+      <ele>550</ele>
+      <time>2022-01-17T22:44:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

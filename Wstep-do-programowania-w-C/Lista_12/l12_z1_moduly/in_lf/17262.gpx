@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:31Z</time>
+    <bounds maxlat="51.0166788" maxlon="20.9707975" minlat="51.0148752" minlon="20.9692517"/>
+  </metadata>
+  <wpt lat="51.016679" lon="20.969252">
+    <ele>284</ele>
+    <name>Potok Lubianka</name>
+    <link href="https://mapa-turystyczna.pl/node/11749">
+      <text>Potok Lubianka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.014875" lon="20.970797">
+    <ele>290</ele>
+    <name>Rezerwat Wykus</name>
+    <link href="https://mapa-turystyczna.pl/node/3174">
+      <text>Rezerwat Wykus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Potok Lubianka - Rezerwat Wykus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0166788,20.9692517;51.01589320017447,20.97044890000002;51.0148752,20.9707975">
+    <text>Potok Lubianka - Rezerwat Wykus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0166788" lon="20.9692517">
+      <ele>284</ele>
+      <time>2022-01-18T01:10:31Z</time>
+    </trkpt>
+    <trkpt lat="51.0164005" lon="20.9696817">
+      <ele>287</ele>
+      <time>2022-01-18T01:11:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0161306" lon="20.9700251">
+      <ele>287</ele>
+      <time>2022-01-18T01:12:13Z</time>
+    </trkpt>
+    <trkpt lat="51.0160204" lon="20.9703471">
+      <ele>287</ele>
+      <time>2022-01-18T01:12:45Z</time>
+    </trkpt>
+    <trkpt lat="51.015766" lon="20.9705507">
+      <ele>288</ele>
+      <time>2022-01-18T01:13:25Z</time>
+    </trkpt>
+    <trkpt lat="51.0155433" lon="20.9706152">
+      <ele>289</ele>
+      <time>2022-01-18T01:13:57Z</time>
+    </trkpt>
+    <trkpt lat="51.0152059" lon="20.9706902">
+      <ele>289</ele>
+      <time>2022-01-18T01:14:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0148752" lon="20.9707975">
+      <ele>290</ele>
+      <time>2022-01-18T01:15:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

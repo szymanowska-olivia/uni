@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:18Z</time>
+    <bounds maxlat="50.2122065" maxlon="19.2982183" minlat="50.2110533" minlon="19.2977358"/>
+  </metadata>
+  <wpt lat="50.211053" lon="19.298218">
+    <ele>291</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12311">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.212207" lon="19.297916">
+    <ele>289</ele>
+    <name>Odejscie do zrodla Siarczanej</name>
+    <link href="https://mapa-turystyczna.pl/node/9166">
+      <text>Odejscie do zrodla Siarczanej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / czarny - Odejscie do zrodla Siarczanej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2110533,19.2982183;50.21141220054615,19.29799870000002;50.2122065,19.2979156">
+    <text>Rozejscie szlakow zielony / czarny - Odejscie do zrodla Siarczanej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2110533" lon="19.2982183">
+      <ele>291</ele>
+      <time>2022-01-18T01:25:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2111839" lon="19.298106">
+      <ele>292</ele>
+      <time>2022-01-18T01:25:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2116405" lon="19.2978914">
+      <ele>292</ele>
+      <time>2022-01-18T01:26:18Z</time>
+    </trkpt>
+    <trkpt lat="50.211716" lon="19.2977841">
+      <ele>291</ele>
+      <time>2022-01-18T01:26:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2117778" lon="19.2977358">
+      <ele>291</ele>
+      <time>2022-01-18T01:26:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2118877" lon="19.2977358">
+      <ele>290</ele>
+      <time>2022-01-18T01:26:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2120009" lon="19.2978002">
+      <ele>289</ele>
+      <time>2022-01-18T01:26:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2122065" lon="19.2979156">
+      <ele>289</ele>
+      <time>2022-01-18T01:27:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

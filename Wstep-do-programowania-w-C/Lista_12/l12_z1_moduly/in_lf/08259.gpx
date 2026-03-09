@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:36Z</time>
+    <bounds maxlat="50.4946082" maxlon="16.3154697" minlat="50.494429" minlon="16.3144523"/>
+  </metadata>
+  <wpt lat="50.494608" lon="16.314452">
+    <ele>706</ele>
+    <name>Nad Pasterkovem</name>
+    <link href="https://mapa-turystyczna.pl/node/5740">
+      <text>Nad Pasterkovem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.494429" lon="16.31547">
+    <ele>711</ele>
+    <name>Pod Pasterska Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/1813">
+      <text>Pod Pasterska Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Pasterkovem - Pod Pasterska Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4946082,16.3144523;50.49453670000628,16.314966650000006;50.494429,16.3154697">
+    <text>Nad Pasterkovem - Pod Pasterska Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4946082" lon="16.3144523">
+      <ele>706</ele>
+      <time>2022-01-17T22:35:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4945611" lon="16.3148417">
+      <ele>708</ele>
+      <time>2022-01-17T22:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4945123" lon="16.3150916">
+      <ele>709</ele>
+      <time>2022-01-17T22:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.494429" lon="16.3154697">
+      <ele>711</ele>
+      <time>2022-01-17T22:37:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

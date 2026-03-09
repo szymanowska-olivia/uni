@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:03Z</time>
+    <bounds maxlat="50.2427351" maxlon="18.2998374" minlat="50.2420145" minlon="18.2986289"/>
+  </metadata>
+  <wpt lat="50.242015" lon="18.298629">
+    <ele>188</ele>
+    <name>Dziergowice, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9778">
+      <text>Dziergowice, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.242735" lon="18.299837">
+    <ele>191</ele>
+    <name>Dziergowice, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9947">
+      <text>Dziergowice, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dziergowice, ul. Dworcowa - Dziergowice, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2420145,18.2986289;50.24248460033385,18.299384050000018;50.2427351,18.2998374">
+    <text>Dziergowice, ul. Dworcowa - Dziergowice, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2420145" lon="18.2986289">
+      <ele>188</ele>
+      <time>2022-01-18T00:25:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2423062" lon="18.2991078">
+      <ele>190</ele>
+      <time>2022-01-18T00:25:51Z</time>
+    </trkpt>
+    <trkpt lat="50.242663" lon="18.2996603">
+      <ele>191</ele>
+      <time>2022-01-18T00:26:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2427351" lon="18.2998374">
+      <ele>191</ele>
+      <time>2022-01-18T00:27:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

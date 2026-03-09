@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:24Z</time>
+    <bounds maxlat="48.9054771" maxlon="19.7362062" minlat="48.9051982" minlon="19.7357171"/>
+  </metadata>
+  <wpt lat="48.905477" lon="19.735717">
+    <ele>1235</ele>
+    <name>Cetrovica, motorest, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/13184">
+      <text>Cetrovica, motorest, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.905198" lon="19.736206">
+    <ele>1233</ele>
+    <name>Cetrovica, motorest</name>
+    <link href="https://mapa-turystyczna.pl/node/6577">
+      <text>Cetrovica, motorest</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cetrovica, motorest, razc. - Cetrovica, motorest</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9054771,19.7357171;48.905364150038906,19.735855299999976;48.9051982,19.7362062">
+    <text>Cetrovica, motorest, razc. - Cetrovica, motorest</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9054771" lon="19.7357171">
+      <ele>1235</ele>
+      <time>2022-01-18T01:50:24Z</time>
+    </trkpt>
+    <trkpt lat="48.9054759" lon="19.7357205">
+      <ele>1235</ele>
+      <time>2022-01-18T01:50:24Z</time>
+    </trkpt>
+    <trkpt lat="48.9054265" lon="19.7357419">
+      <ele>1233</ele>
+      <time>2022-01-18T01:50:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9053018" lon="19.7359687">
+      <ele>1232</ele>
+      <time>2022-01-18T01:50:57Z</time>
+    </trkpt>
+    <trkpt lat="48.9052464" lon="19.736184">
+      <ele>1233</ele>
+      <time>2022-01-18T01:51:17Z</time>
+    </trkpt>
+    <trkpt lat="48.9051982" lon="19.7362062">
+      <ele>1233</ele>
+      <time>2022-01-18T01:51:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

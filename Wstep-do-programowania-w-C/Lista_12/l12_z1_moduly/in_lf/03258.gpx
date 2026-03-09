@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:17Z</time>
+    <bounds maxlat="50.8174313" maxlon="15.4329962" minlat="50.8171116" minlon="15.4315585"/>
+  </metadata>
+  <wpt lat="50.817415" lon="15.431558">
+    <ele>893</ele>
+    <name>Jakuszyce</name>
+    <link href="https://mapa-turystyczna.pl/node/2317">
+      <text>Jakuszyce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.817112" lon="15.432996">
+    <ele>885</ele>
+    <name>Przelecz Szklarska</name>
+    <link href="https://mapa-turystyczna.pl/node/1320">
+      <text>Przelecz Szklarska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jakuszyce - Przelecz Szklarska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8174154,15.4315585;50.817401350009604,15.432210950000007;50.8171116,15.4329962">
+    <text>Jakuszyce - Przelecz Szklarska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8174154" lon="15.4315585">
+      <ele>893</ele>
+      <time>2022-01-17T21:27:17Z</time>
+    </trkpt>
+    <trkpt lat="50.8174313" lon="15.4320547">
+      <ele>889</ele>
+      <time>2022-01-17T21:27:55Z</time>
+    </trkpt>
+    <trkpt lat="50.8173714" lon="15.4323672">
+      <ele>887</ele>
+      <time>2022-01-17T21:28:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8171975" lon="15.4327708">
+      <ele>886</ele>
+      <time>2022-01-17T21:28:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8171116" lon="15.4329962">
+      <ele>885</ele>
+      <time>2022-01-17T21:29:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

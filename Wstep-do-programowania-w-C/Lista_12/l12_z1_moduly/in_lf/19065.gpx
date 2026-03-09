@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:54Z</time>
+    <bounds maxlat="52.12686" maxlon="21.2496094" minlat="52.1237178" minlon="21.2475671"/>
+  </metadata>
+  <wpt lat="52.123718" lon="21.249609">
+    <ele>95</ele>
+    <name>Swider, ul. Sowinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12905">
+      <text>Swider, ul. Sowinskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.12686" lon="21.24911">
+    <ele>94</ele>
+    <name>Rezerwat Swider, ul. Bagatela</name>
+    <link href="https://mapa-turystyczna.pl/node/12906">
+      <text>Rezerwat Swider, ul. Bagatela</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swider, ul. Sowinskiego - Rezerwat Swider, ul. Bagatela</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1237178,21.2496094;52.12573465162405,21.24786655000002;52.12686,21.2491102">
+    <text>Swider, ul. Sowinskiego - Rezerwat Swider, ul. Bagatela</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1237178" lon="21.2496094">
+      <ele>95</ele>
+      <time>2022-01-18T01:41:54Z</time>
+    </trkpt>
+    <trkpt lat="52.124834" lon="21.2485113">
+      <ele>94</ele>
+      <time>2022-01-18T01:43:33Z</time>
+    </trkpt>
+    <trkpt lat="52.1253083" lon="21.2481089">
+      <ele>94</ele>
+      <time>2022-01-18T01:44:13Z</time>
+    </trkpt>
+    <trkpt lat="52.1253542" lon="21.248166">
+      <ele>95</ele>
+      <time>2022-01-18T01:44:18Z</time>
+    </trkpt>
+    <trkpt lat="52.1261151" lon="21.2475671">
+      <ele>93</ele>
+      <time>2022-01-18T01:45:21Z</time>
+    </trkpt>
+    <trkpt lat="52.1261812" lon="21.247659">
+      <ele>93</ele>
+      <time>2022-01-18T01:45:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1262865" lon="21.2480346">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:47Z</time>
+    </trkpt>
+    <trkpt lat="52.1264578" lon="21.2484637">
+      <ele>94</ele>
+      <time>2022-01-18T01:46:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1265928" lon="21.248689">
+      <ele>94</ele>
+      <time>2022-01-18T01:46:26Z</time>
+    </trkpt>
+    <trkpt lat="52.1268267" lon="21.2490162">
+      <ele>94</ele>
+      <time>2022-01-18T01:46:49Z</time>
+    </trkpt>
+    <trkpt lat="52.12686" lon="21.2491102">
+      <ele>94</ele>
+      <time>2022-01-18T01:46:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

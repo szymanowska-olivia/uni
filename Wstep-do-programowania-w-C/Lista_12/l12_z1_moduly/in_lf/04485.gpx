@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:43:20Z</time>
+    <bounds maxlat="50.3366" maxlon="17.1528876" minlat="50.3349973" minlon="17.1479899"/>
+  </metadata>
+  <wpt lat="50.335316" lon="17.14799">
+    <ele>399</ele>
+    <name>Smolny vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/3106">
+      <text>Smolny vrch</text>
+    </link>
+  </wpt>
+  <wpt lat="50.3366" lon="17.152888">
+    <ele>347</ele>
+    <name>Smolny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3107">
+      <text>Smolny, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smolny vrch - Smolny, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.335316,17.1479899;50.3354536001421,17.150563399999974;50.3366,17.1528876">
+    <text>Smolny vrch - Smolny, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.335316" lon="17.1479899">
+      <ele>399</ele>
+      <time>2022-01-17T21:43:20Z</time>
+    </trkpt>
+    <trkpt lat="50.3351182" lon="17.1482546">
+      <ele>400</ele>
+      <time>2022-01-17T21:43:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3350194" lon="17.1486283">
+      <ele>399</ele>
+      <time>2022-01-17T21:44:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3349973" lon="17.1489278">
+      <ele>397</ele>
+      <time>2022-01-17T21:44:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3350711" lon="17.1494151">
+      <ele>390</ele>
+      <time>2022-01-17T21:44:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3353374" lon="17.1502511">
+      <ele>379</ele>
+      <time>2022-01-17T21:45:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3355698" lon="17.1508757">
+      <ele>372</ele>
+      <time>2022-01-17T21:46:06Z</time>
+    </trkpt>
+    <trkpt lat="50.3358296" lon="17.1513393">
+      <ele>366</ele>
+      <time>2022-01-17T21:46:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3360727" lon="17.1517436">
+      <ele>365</ele>
+      <time>2022-01-17T21:47:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3363329" lon="17.1520373">
+      <ele>361</ele>
+      <time>2022-01-17T21:47:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3364973" lon="17.1524209">
+      <ele>355</ele>
+      <time>2022-01-17T21:47:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3366" lon="17.1528876">
+      <ele>347</ele>
+      <time>2022-01-17T21:48:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

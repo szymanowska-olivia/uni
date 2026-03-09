@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:57Z</time>
+    <bounds maxlat="50.3903323" maxlon="19.4236623" minlat="50.3879316" minlon="19.4209476"/>
+  </metadata>
+  <wpt lat="50.390332" lon="19.420948">
+    <ele>352</ele>
+    <name>Niegowonice</name>
+    <link href="https://mapa-turystyczna.pl/node/9715">
+      <text>Niegowonice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.387932" lon="19.423662">
+    <ele>346</ele>
+    <name>Niegowonice, ul. Krakowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9716">
+      <text>Niegowonice, ul. Krakowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niegowonice - Niegowonice, ul. Krakowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3903323,19.4209476;50.3889667033186,19.42245299999997;50.3879316,19.4236623">
+    <text>Niegowonice - Niegowonice, ul. Krakowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3903323" lon="19.4209476">
+      <ele>352</ele>
+      <time>2022-01-18T00:18:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3900818" lon="19.4210774">
+      <ele>349</ele>
+      <time>2022-01-18T00:19:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3899005" lon="19.4212169">
+      <ele>348</ele>
+      <time>2022-01-18T00:19:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3895277" lon="19.4216514">
+      <ele>346</ele>
+      <time>2022-01-18T00:20:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3884057" lon="19.4232546">
+      <ele>346</ele>
+      <time>2022-01-18T00:23:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3883304" lon="19.4233619">
+      <ele>346</ele>
+      <time>2022-01-18T00:23:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3880705" lon="19.4235765">
+      <ele>346</ele>
+      <time>2022-01-18T00:23:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3879316" lon="19.4236623">
+      <ele>346</ele>
+      <time>2022-01-18T00:23:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

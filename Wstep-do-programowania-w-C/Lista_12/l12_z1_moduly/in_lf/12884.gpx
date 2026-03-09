@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:09Z</time>
+    <bounds maxlat="50.7804818" maxlon="15.2390454" minlat="50.7800781" minlon="15.2384017"/>
+  </metadata>
+  <wpt lat="50.780078" lon="15.239045">
+    <ele>580</ele>
+    <name>Josefuv Dul, sklarna</name>
+    <link href="https://mapa-turystyczna.pl/node/8867">
+      <text>Josefuv Dul, sklarna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.780482" lon="15.238402">
+    <ele>579</ele>
+    <name>Josefuv Dul, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8868">
+      <text>Josefuv Dul, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Josefuv Dul, sklarna - Josefuv Dul, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7800781,15.2390454;50.78027995043565,15.238723549999982;50.7804818,15.2384017">
+    <text>Josefuv Dul, sklarna - Josefuv Dul, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7800781" lon="15.2390454">
+      <ele>580</ele>
+      <time>2022-01-17T23:58:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7804818" lon="15.2384017">
+      <ele>579</ele>
+      <time>2022-01-17T23:59:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

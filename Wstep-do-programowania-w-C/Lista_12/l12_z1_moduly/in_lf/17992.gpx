@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:30Z</time>
+    <bounds maxlat="52.496156" maxlon="20.7001544" minlat="52.4953198" minlon="20.6999911"/>
+  </metadata>
+  <wpt lat="52.49532" lon="20.700154">
+    <ele>76</ele>
+    <name>Golawice Drugie, rzeka Wkra</name>
+    <link href="https://mapa-turystyczna.pl/node/12245">
+      <text>Golawice Drugie, rzeka Wkra</text>
+    </link>
+  </wpt>
+  <wpt lat="52.496156" lon="20.700012">
+    <ele>84</ele>
+    <name>Golawice Drugie, ul. Mlynska</name>
+    <link href="https://mapa-turystyczna.pl/node/12258">
+      <text>Golawice Drugie, ul. Mlynska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Golawice Drugie, rzeka Wkra - Golawice Drugie, ul. Mlynska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4953198,20.7001544;52.49569075089692,20.700060849999996;52.496156,20.700012">
+    <text>Golawice Drugie, rzeka Wkra - Golawice Drugie, ul. Mlynska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4953198" lon="20.7001544">
+      <ele>76</ele>
+      <time>2022-01-18T01:23:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4954099" lon="20.7001306">
+      <ele>76</ele>
+      <time>2022-01-18T01:23:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4959716" lon="20.6999911">
+      <ele>81</ele>
+      <time>2022-01-18T01:25:04Z</time>
+    </trkpt>
+    <trkpt lat="52.496156" lon="20.700012">
+      <ele>84</ele>
+      <time>2022-01-18T01:25:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

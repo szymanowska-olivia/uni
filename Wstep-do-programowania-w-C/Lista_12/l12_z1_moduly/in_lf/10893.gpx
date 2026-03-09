@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:38Z</time>
+    <bounds maxlat="49.9656423" maxlon="16.7780006" minlat="49.9616705" minlon="16.7657644"/>
+  </metadata>
+  <wpt lat="49.96167" lon="16.765764">
+    <ele>447</ele>
+    <name>Stity, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7668">
+      <text>Stity, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.965101" lon="16.778001">
+    <ele>440</ele>
+    <name>Stity, Pod Petrovem</name>
+    <link href="https://mapa-turystyczna.pl/node/7669">
+      <text>Stity, Pod Petrovem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stity, rozc. - Stity, Pod Petrovem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9616705,16.7657644;49.963283751537546,16.771222649999995;49.9651006,16.7780006">
+    <text>Stity, rozc. - Stity, Pod Petrovem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9616705" lon="16.7657644">
+      <ele>447</ele>
+      <time>2022-01-17T23:24:38Z</time>
+    </trkpt>
+    <trkpt lat="49.9622675" lon="16.7667836">
+      <ele>441</ele>
+      <time>2022-01-17T23:26:03Z</time>
+    </trkpt>
+    <trkpt lat="49.9623399" lon="16.7671162">
+      <ele>440</ele>
+      <time>2022-01-17T23:26:25Z</time>
+    </trkpt>
+    <trkpt lat="49.9623192" lon="16.7685431">
+      <ele>437</ele>
+      <time>2022-01-17T23:27:52Z</time>
+    </trkpt>
+    <trkpt lat="49.9623744" lon="16.768865">
+      <ele>438</ele>
+      <time>2022-01-17T23:28:13Z</time>
+    </trkpt>
+    <trkpt lat="49.962899" lon="16.7702919">
+      <ele>439</ele>
+      <time>2022-01-17T23:29:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9636685" lon="16.7721534">
+      <ele>443</ele>
+      <time>2022-01-17T23:32:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9648176" lon="16.7744708">
+      <ele>441</ele>
+      <time>2022-01-17T23:35:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9651834" lon="16.7752916">
+      <ele>443</ele>
+      <time>2022-01-17T23:36:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9656423" lon="16.7775875">
+      <ele>439</ele>
+      <time>2022-01-17T23:38:40Z</time>
+    </trkpt>
+    <trkpt lat="49.9654525" lon="16.7777914">
+      <ele>439</ele>
+      <time>2022-01-17T23:39:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9651006" lon="16.7780006">
+      <ele>440</ele>
+      <time>2022-01-17T23:39:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

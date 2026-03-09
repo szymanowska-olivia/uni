@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:51:54Z</time>
+    <bounds maxlat="49.580655" maxlon="20.132577" minlat="49.578798" minlon="20.131935"/>
+  </metadata>
+  <wpt lat="49.580655" lon="20.13248">
+    <ele>692</ele>
+    <name>Konina, polana Potasznia</name>
+    <link href="https://mapa-turystyczna.pl/node/11034">
+      <text>Konina, polana Potasznia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.578798" lon="20.131935">
+    <ele>704</ele>
+    <name>Potasznia, rozejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/11035">
+      <text>Potasznia, rozejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Konina, polana Potasznia - Potasznia, rozejscie szlaku spacerowego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.580655,20.13248;49.579702500078454,20.132427999999994;49.578798,20.131935">
+    <text>Konina, polana Potasznia - Potasznia, rozejscie szlaku spacerowego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.580655" lon="20.13248">
+      <ele>692</ele>
+      <time>2022-01-18T00:51:54Z</time>
+    </trkpt>
+    <trkpt lat="49.580318" lon="20.132565">
+      <ele>697</ele>
+      <time>2022-01-18T00:52:47Z</time>
+    </trkpt>
+    <trkpt lat="49.580119" lon="20.132577">
+      <ele>699</ele>
+      <time>2022-01-18T00:53:18Z</time>
+    </trkpt>
+    <trkpt lat="49.579902" lon="20.132543">
+      <ele>700</ele>
+      <time>2022-01-18T00:53:52Z</time>
+    </trkpt>
+    <trkpt lat="49.57979" lon="20.132489">
+      <ele>701</ele>
+      <time>2022-01-18T00:54:10Z</time>
+    </trkpt>
+    <trkpt lat="49.579615" lon="20.132367">
+      <ele>701</ele>
+      <time>2022-01-18T00:54:40Z</time>
+    </trkpt>
+    <trkpt lat="49.57921" lon="20.132131">
+      <ele>703</ele>
+      <time>2022-01-18T00:55:47Z</time>
+    </trkpt>
+    <trkpt lat="49.578798" lon="20.131935">
+      <ele>704</ele>
+      <time>2022-01-18T00:56:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

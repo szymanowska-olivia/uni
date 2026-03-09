@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:12Z</time>
+    <bounds maxlat="50.1657521" maxlon="16.9425488" minlat="50.1636422" minlon="16.9423824"/>
+  </metadata>
+  <wpt lat="50.165752" lon="16.942549">
+    <ele>524</ele>
+    <name>Stare Mesto, polnoc</name>
+    <link href="https://mapa-turystyczna.pl/node/1736">
+      <text>Stare Mesto, polnoc</text>
+    </link>
+  </wpt>
+  <wpt lat="50.163642" lon="16.942382">
+    <ele>516</ele>
+    <name>Stare Mesto</name>
+    <link href="https://mapa-turystyczna.pl/node/1733">
+      <text>Stare Mesto</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stare Mesto, polnoc - Stare Mesto</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1657521,16.9425488;50.1642161034454,16.94238244999999;50.1636422,16.9423824">
+    <text>Stare Mesto, polnoc - Stare Mesto</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1657521" lon="16.9425488">
+      <ele>524</ele>
+      <time>2022-01-17T21:16:12Z</time>
+    </trkpt>
+    <trkpt lat="50.1650539" lon="16.9425058">
+      <ele>524</ele>
+      <time>2022-01-17T21:17:51Z</time>
+    </trkpt>
+    <trkpt lat="50.16479" lon="16.9423825">
+      <ele>522</ele>
+      <time>2022-01-17T21:18:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1636422" lon="16.9423824">
+      <ele>516</ele>
+      <time>2022-01-17T21:21:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

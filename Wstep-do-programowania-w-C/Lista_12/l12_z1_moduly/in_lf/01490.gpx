@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:23Z</time>
+    <bounds maxlat="50.7065792" maxlon="15.8076508" minlat="50.704959" minlon="15.8057856"/>
+  </metadata>
+  <wpt lat="50.706579" lon="15.805786">
+    <ele>773</ele>
+    <name>Dolni Mala Upa</name>
+    <link href="https://mapa-turystyczna.pl/node/1114">
+      <text>Dolni Mala Upa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.704959" lon="15.807651">
+    <ele>810</ele>
+    <name>Nad Krakonosovym udolim</name>
+    <link href="https://mapa-turystyczna.pl/node/1232">
+      <text>Nad Krakonosovym udolim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolni Mala Upa - Nad Krakonosovym udolim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7065792,15.8057856;50.705711050918296,15.807055750000014;50.704959,15.8076508">
+    <text>Dolni Mala Upa - Nad Krakonosovym udolim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7065792" lon="15.8057856">
+      <ele>773</ele>
+      <time>2022-01-17T21:01:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7061965" lon="15.8063382">
+      <ele>773</ele>
+      <time>2022-01-17T21:02:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7061706" lon="15.806526">
+      <ele>774</ele>
+      <time>2022-01-17T21:02:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7060045" lon="15.8068224">
+      <ele>779</ele>
+      <time>2022-01-17T21:03:31Z</time>
+    </trkpt>
+    <trkpt lat="50.7054176" lon="15.8072891">
+      <ele>795</ele>
+      <time>2022-01-17T21:05:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7051102" lon="15.8075558">
+      <ele>806</ele>
+      <time>2022-01-17T21:05:59Z</time>
+    </trkpt>
+    <trkpt lat="50.704959" lon="15.8076508">
+      <ele>810</ele>
+      <time>2022-01-17T21:06:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

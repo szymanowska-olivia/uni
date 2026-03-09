@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:49Z</time>
+    <bounds maxlat="50.7436538" maxlon="15.3445852" minlat="50.7419209" minlon="15.3338778"/>
+  </metadata>
+  <wpt lat="50.741921" lon="15.344585">
+    <ele>789</ele>
+    <name>Prichovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3086">
+      <text>Prichovice, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.743594" lon="15.333878">
+    <ele>688</ele>
+    <name>Svetla</name>
+    <link href="https://mapa-turystyczna.pl/node/3074">
+      <text>Svetla</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prichovice, rozc. - Svetla</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7419209,15.3445852;50.74275210007716,15.34011259999998;50.7435944,15.3338778">
+    <text>Prichovice, rozc. - Svetla</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7419209" lon="15.3445852">
+      <ele>789</ele>
+      <time>2022-01-17T21:42:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7419649" lon="15.3442727">
+      <ele>789</ele>
+      <time>2022-01-17T21:43:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7420751" lon="15.3439448">
+      <ele>787</ele>
+      <time>2022-01-17T21:43:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7425546" lon="15.3430567">
+      <ele>781</ele>
+      <time>2022-01-17T21:44:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7427525" lon="15.3426415">
+      <ele>778</ele>
+      <time>2022-01-17T21:44:51Z</time>
+    </trkpt>
+    <trkpt lat="50.742835" lon="15.3423444">
+      <ele>776</ele>
+      <time>2022-01-17T21:45:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7428371" lon="15.3420612">
+      <ele>774</ele>
+      <time>2022-01-17T21:45:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7426671" lon="15.338164">
+      <ele>736</ele>
+      <time>2022-01-17T21:48:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7426529" lon="15.3370857">
+      <ele>729</ele>
+      <time>2022-01-17T21:49:40Z</time>
+    </trkpt>
+    <trkpt lat="50.742801" lon="15.3364098">
+      <ele>718</ele>
+      <time>2022-01-17T21:50:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7436538" lon="15.334028">
+      <ele>689</ele>
+      <time>2022-01-17T21:52:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7435944" lon="15.3338778">
+      <ele>688</ele>
+      <time>2022-01-17T21:52:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

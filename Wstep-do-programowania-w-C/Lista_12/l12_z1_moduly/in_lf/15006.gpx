@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:52Z</time>
+    <bounds maxlat="50.1919944" maxlon="18.9548235" minlat="50.1915111" minlon="18.9529919"/>
+  </metadata>
+  <wpt lat="50.191994" lon="18.952992">
+    <ele>271</ele>
+    <name>Katowice, ul. Sandacza</name>
+    <link href="https://mapa-turystyczna.pl/node/9461">
+      <text>Katowice, ul. Sandacza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.191511" lon="18.954823">
+    <ele>265</ele>
+    <name>Katowice, ul Kanalowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10225">
+      <text>Katowice, ul Kanalowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Katowice, ul. Sandacza - Katowice, ul Kanalowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1919944,18.9529919;50.19169415035086,18.954140999999986;50.1915111,18.9548235">
+    <text>Katowice, ul. Sandacza - Katowice, ul Kanalowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1919944" lon="18.9529919">
+      <ele>271</ele>
+      <time>2022-01-18T00:31:52Z</time>
+    </trkpt>
+    <trkpt lat="50.1918772" lon="18.9534585">
+      <ele>271</ele>
+      <time>2022-01-18T00:32:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1915111" lon="18.9548235">
+      <ele>265</ele>
+      <time>2022-01-18T00:33:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

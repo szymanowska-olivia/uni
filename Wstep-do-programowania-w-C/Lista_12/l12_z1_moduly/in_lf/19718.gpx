@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:30Z</time>
+    <bounds maxlat="51.377186" maxlon="23.2883823" minlat="51.3763748" minlon="23.2803786"/>
+  </metadata>
+  <wpt lat="51.376375" lon="23.280379">
+    <ele>179</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13312">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.377095" lon="23.288382">
+    <ele>178</ele>
+    <name>Pikulawka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13313">
+      <text>Pikulawka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pikulawka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3763748,23.2803786;51.37712365004246,23.284252500000008;51.3770947,23.2883823">
+    <text>Rozejscie szlakow - Pikulawka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3763748" lon="23.2803786">
+      <ele>179</ele>
+      <time>2022-01-18T01:53:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3764552" lon="23.2809658">
+      <ele>179</ele>
+      <time>2022-01-18T01:54:14Z</time>
+    </trkpt>
+    <trkpt lat="51.3767164" lon="23.2819314">
+      <ele>179</ele>
+      <time>2022-01-18T01:55:31Z</time>
+    </trkpt>
+    <trkpt lat="51.3770613" lon="23.283766">
+      <ele>179</ele>
+      <time>2022-01-18T01:57:51Z</time>
+    </trkpt>
+    <trkpt lat="51.377186" lon="23.284739">
+      <ele>179</ele>
+      <time>2022-01-18T01:59:03Z</time>
+    </trkpt>
+    <trkpt lat="51.3770947" lon="23.2883823">
+      <ele>178</ele>
+      <time>2022-01-18T02:03:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

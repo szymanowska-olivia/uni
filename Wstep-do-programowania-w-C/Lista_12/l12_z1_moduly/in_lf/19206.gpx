@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:04Z</time>
+    <bounds maxlat="51.547721" maxlon="23.5477132" minlat="51.5446724" minlon="23.5443043"/>
+  </metadata>
+  <wpt lat="51.547721" lon="23.544865">
+    <ele>173</ele>
+    <name>Wlodawa, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12957">
+      <text>Wlodawa, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.544672" lon="23.547713">
+    <ele>169</ele>
+    <name>Wlodawa, kolumna toskanska</name>
+    <link href="https://mapa-turystyczna.pl/node/12976">
+      <text>Wlodawa, kolumna toskanska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wlodawa, dworzec autobusowy - Wlodawa, kolumna toskanska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.547721,23.5448649;51.5457387046029,23.545827799999998;51.5446724,23.5477132">
+    <text>Wlodawa, dworzec autobusowy - Wlodawa, kolumna toskanska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.547721" lon="23.5448649">
+      <ele>173</ele>
+      <time>2022-01-18T01:44:04Z</time>
+    </trkpt>
+    <trkpt lat="51.5472963" lon="23.5443978">
+      <ele>174</ele>
+      <time>2022-01-18T01:44:42Z</time>
+    </trkpt>
+    <trkpt lat="51.5471132" lon="23.5443043">
+      <ele>174</ele>
+      <time>2022-01-18T01:44:57Z</time>
+    </trkpt>
+    <trkpt lat="51.5468363" lon="23.544374">
+      <ele>174</ele>
+      <time>2022-01-18T01:45:17Z</time>
+    </trkpt>
+    <trkpt lat="51.5467229" lon="23.5444031">
+      <ele>174</ele>
+      <time>2022-01-18T01:45:26Z</time>
+    </trkpt>
+    <trkpt lat="51.5465027" lon="23.5446875">
+      <ele>173</ele>
+      <time>2022-01-18T01:45:47Z</time>
+    </trkpt>
+    <trkpt lat="51.5463859" lon="23.544712">
+      <ele>173</ele>
+      <time>2022-01-18T01:45:56Z</time>
+    </trkpt>
+    <trkpt lat="51.5450915" lon="23.5469436">
+      <ele>170</ele>
+      <time>2022-01-18T01:48:17Z</time>
+    </trkpt>
+    <trkpt lat="51.5446724" lon="23.5477132">
+      <ele>169</ele>
+      <time>2022-01-18T01:49:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

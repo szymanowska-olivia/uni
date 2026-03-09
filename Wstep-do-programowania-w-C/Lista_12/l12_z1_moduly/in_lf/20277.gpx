@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:45Z</time>
+    <bounds maxlat="50.425452" maxlon="19.665325" minlat="50.423989" minlon="19.665028"/>
+  </metadata>
+  <wpt lat="50.423989" lon="19.665028">
+    <ele>398</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/4445">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.425452" lon="19.665108">
+    <ele>399</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13635">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / niebieski - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.423989,19.665028;50.42463350011311,19.665246999999987;50.425452,19.665108">
+    <text>Rozejscie szlakow czerwony / niebieski - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.423989" lon="19.665028">
+      <ele>398</ele>
+      <time>2022-01-18T02:03:45Z</time>
+    </trkpt>
+    <trkpt lat="50.42413" lon="19.665095">
+      <ele>396</ele>
+      <time>2022-01-18T02:04:03Z</time>
+    </trkpt>
+    <trkpt lat="50.424322" lon="19.66511">
+      <ele>395</ele>
+      <time>2022-01-18T02:04:26Z</time>
+    </trkpt>
+    <trkpt lat="50.42453" lon="19.665206">
+      <ele>395</ele>
+      <time>2022-01-18T02:04:52Z</time>
+    </trkpt>
+    <trkpt lat="50.424737" lon="19.665288">
+      <ele>395</ele>
+      <time>2022-01-18T02:05:17Z</time>
+    </trkpt>
+    <trkpt lat="50.424875" lon="19.665325">
+      <ele>396</ele>
+      <time>2022-01-18T02:05:34Z</time>
+    </trkpt>
+    <trkpt lat="50.425046" lon="19.665289">
+      <ele>396</ele>
+      <time>2022-01-18T02:05:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4253" lon="19.66518">
+      <ele>398</ele>
+      <time>2022-01-18T02:06:26Z</time>
+    </trkpt>
+    <trkpt lat="50.425452" lon="19.665108">
+      <ele>399</ele>
+      <time>2022-01-18T02:06:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

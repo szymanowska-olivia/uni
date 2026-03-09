@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:45Z</time>
+    <bounds maxlat="51.2743733" maxlon="16.3640451" minlat="51.274064" minlon="16.3638837"/>
+  </metadata>
+  <wpt lat="51.274064" lon="16.364045">
+    <ele>101</ele>
+    <name>Prochowice, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/10023">
+      <text>Prochowice, Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="51.274373" lon="16.363884">
+    <ele>101</ele>
+    <name>Prochowice</name>
+    <link href="https://mapa-turystyczna.pl/node/10018">
+      <text>Prochowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prochowice, Rynek - Prochowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.274064,16.3640451;51.27421865026026,16.363964399999983;51.2743733,16.3638837">
+    <text>Prochowice, Rynek - Prochowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.274064" lon="16.3640451">
+      <ele>101</ele>
+      <time>2022-01-18T00:26:45Z</time>
+    </trkpt>
+    <trkpt lat="51.2743733" lon="16.3638837">
+      <ele>101</ele>
+      <time>2022-01-18T00:27:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

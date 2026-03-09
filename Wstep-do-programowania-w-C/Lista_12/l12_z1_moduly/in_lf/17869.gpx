@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:21:12Z</time>
+    <bounds maxlat="52.689334" maxlon="21.4987803" minlat="52.6818482" minlon="21.4931262"/>
+  </metadata>
+  <wpt lat="52.689334" lon="21.49878">
+    <ele>113</ele>
+    <name>Dalekie, ul. Modrzewiowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12163">
+      <text>Dalekie, ul. Modrzewiowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.681848" lon="21.493126">
+    <ele>109</ele>
+    <name>Dalekie, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12164">
+      <text>Dalekie, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dalekie, ul. Modrzewiowa - Dalekie, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.689334,21.4987803;52.68545830087468,21.495940550000014;52.6818482,21.4931262">
+    <text>Dalekie, ul. Modrzewiowa - Dalekie, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.689334" lon="21.4987803">
+      <ele>113</ele>
+      <time>2022-01-18T01:21:12Z</time>
+    </trkpt>
+    <trkpt lat="52.6864436" lon="21.4966272">
+      <ele>108</ele>
+      <time>2022-01-18T01:26:58Z</time>
+    </trkpt>
+    <trkpt lat="52.6857347" lon="21.4962302">
+      <ele>109</ele>
+      <time>2022-01-18T01:28:19Z</time>
+    </trkpt>
+    <trkpt lat="52.6851819" lon="21.4956509">
+      <ele>109</ele>
+      <time>2022-01-18T01:29:30Z</time>
+    </trkpt>
+    <trkpt lat="52.6838226" lon="21.4946423">
+      <ele>110</ele>
+      <time>2022-01-18T01:32:13Z</time>
+    </trkpt>
+    <trkpt lat="52.6831007" lon="21.4938377">
+      <ele>110</ele>
+      <time>2022-01-18T01:33:48Z</time>
+    </trkpt>
+    <trkpt lat="52.6818482" lon="21.4931262">
+      <ele>109</ele>
+      <time>2022-01-18T01:36:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

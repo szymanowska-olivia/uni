@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:26Z</time>
+    <bounds maxlat="49.219573" maxlon="19.054067" minlat="49.219388" minlon="19.053908"/>
+  </metadata>
+  <wpt lat="49.219573" lon="19.053908">
+    <ele>971</ele>
+    <name>Chata na Gruni</name>
+    <link href="https://mapa-turystyczna.pl/node/13508">
+      <text>Chata na Gruni</text>
+    </link>
+  </wpt>
+  <wpt lat="49.219388" lon="19.054067">
+    <ele>970</ele>
+    <name>Chata na Gruni</name>
+    <link href="https://mapa-turystyczna.pl/node/5078">
+      <text>Chata na Gruni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chata na Gruni - Chata na Gruni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.219573,19.053908;49.2194385000258,19.05402950000001;49.219388,19.054067">
+    <text>Chata na Gruni - Chata na Gruni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.219573" lon="19.053908">
+      <ele>971</ele>
+      <time>2022-01-18T01:59:26Z</time>
+    </trkpt>
+    <trkpt lat="49.219489" lon="19.053992">
+      <ele>971</ele>
+      <time>2022-01-18T01:59:54Z</time>
+    </trkpt>
+    <trkpt lat="49.219388" lon="19.054067">
+      <ele>970</ele>
+      <time>2022-01-18T02:00:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

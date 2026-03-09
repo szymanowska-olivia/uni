@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:57Z</time>
+    <bounds maxlat="54.0989468" maxlon="15.0994025" minlat="54.0987492" minlon="15.0988626"/>
+  </metadata>
+  <wpt lat="54.098947" lon="15.099403">
+    <ele>6</ele>
+    <name>Niechorze, ul. Rzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12642">
+      <text>Niechorze, ul. Rzeczna</text>
+    </link>
+  </wpt>
+  <wpt lat="54.098749" lon="15.098863">
+    <ele>5</ele>
+    <name>Niechorze, ul. Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12643">
+      <text>Niechorze, ul. Graniczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niechorze, ul. Rzeczna - Niechorze, ul. Graniczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0989468,15.0994025;54.0988772000584,15.09919870000001;54.0987492,15.0988626">
+    <text>Niechorze, ul. Rzeczna - Niechorze, ul. Graniczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0989468" lon="15.0994025">
+      <ele>6</ele>
+      <time>2022-01-18T01:34:57Z</time>
+    </trkpt>
+    <trkpt lat="54.0988076" lon="15.0989949">
+      <ele>5</ele>
+      <time>2022-01-18T01:35:41Z</time>
+    </trkpt>
+    <trkpt lat="54.0987492" lon="15.0988626">
+      <ele>5</ele>
+      <time>2022-01-18T01:35:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

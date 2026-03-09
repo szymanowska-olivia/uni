@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:46:29Z</time>
+    <bounds maxlat="54.3809135" maxlon="18.5228527" minlat="54.3790202" minlon="18.5215491"/>
+  </metadata>
+  <wpt lat="54.380913" lon="18.521549">
+    <ele>152</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10835">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.37902" lon="18.522821">
+    <ele>151</ele>
+    <name>Trawiasta Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/10833">
+      <text>Trawiasta Droga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zolty / czarny - Trawiasta Droga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3809135,18.5215491;54.38010125398171,18.52218745;54.3790202,18.5228205">
+    <text>Skrzyzowanie szlakow zolty / czarny - Trawiasta Droga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3809135" lon="18.5215491">
+      <ele>152</ele>
+      <time>2022-01-18T00:46:29Z</time>
+    </trkpt>
+    <trkpt lat="54.3808042" lon="18.5216618">
+      <ele>152</ele>
+      <time>2022-01-18T00:46:48Z</time>
+    </trkpt>
+    <trkpt lat="54.380673" lon="18.5217261">
+      <ele>151</ele>
+      <time>2022-01-18T00:47:07Z</time>
+    </trkpt>
+    <trkpt lat="54.3795295" lon="18.5226488">
+      <ele>151</ele>
+      <time>2022-01-18T00:50:12Z</time>
+    </trkpt>
+    <trkpt lat="54.3792733" lon="18.5228151">
+      <ele>151</ele>
+      <time>2022-01-18T00:50:52Z</time>
+    </trkpt>
+    <trkpt lat="54.3791671" lon="18.5228527">
+      <ele>151</ele>
+      <time>2022-01-18T00:51:07Z</time>
+    </trkpt>
+    <trkpt lat="54.3790202" lon="18.5228205">
+      <ele>151</ele>
+      <time>2022-01-18T00:51:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

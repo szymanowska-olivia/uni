@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:06Z</time>
+    <bounds maxlat="50.0920699" maxlon="18.5467569" minlat="50.0894277" minlon="18.5443528"/>
+  </metadata>
+  <wpt lat="50.09207" lon="18.544353">
+    <ele>239</ele>
+    <name>Rybnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9352">
+      <text>Rybnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.089428" lon="18.546757">
+    <ele>246</ele>
+    <name>Rybnik, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9351">
+      <text>Rybnik, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik - Rybnik, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0920699,18.5443528;50.091126452634036,18.54521439999998;50.0894277,18.5467569">
+    <text>Rybnik - Rybnik, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0920699" lon="18.5443528">
+      <ele>239</ele>
+      <time>2022-01-18T00:09:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0919903" lon="18.544517">
+      <ele>240</ele>
+      <time>2022-01-18T00:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0916289" lon="18.5449569">
+      <ele>244</ele>
+      <time>2022-01-18T00:10:03Z</time>
+    </trkpt>
+    <trkpt lat="50.090624" lon="18.5454719">
+      <ele>245</ele>
+      <time>2022-01-18T00:11:45Z</time>
+    </trkpt>
+    <trkpt lat="50.0904623" lon="18.5456007">
+      <ele>245</ele>
+      <time>2022-01-18T00:12:03Z</time>
+    </trkpt>
+    <trkpt lat="50.0894277" lon="18.5467569">
+      <ele>246</ele>
+      <time>2022-01-18T00:14:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:16:45Z</time>
+    <bounds maxlat="50.786535" maxlon="16.3054758" minlat="50.7843657" minlon="16.3026609"/>
+  </metadata>
+  <wpt lat="50.784366" lon="16.30392">
+    <ele>585</ele>
+    <name>Pod Lisim Kamieniem</name>
+    <link href="https://mapa-turystyczna.pl/node/2555">
+      <text>Pod Lisim Kamieniem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.786535" lon="16.302661">
+    <ele>582</ele>
+    <name>Ptasia Kopa, byle schronisko</name>
+    <link href="https://mapa-turystyczna.pl/node/7352">
+      <text>Ptasia Kopa, byle schronisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Lisim Kamieniem - Ptasia Kopa, byle schronisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7843657,16.3039202;50.785182400039005,16.30480795;50.786535,16.3026609">
+    <text>Pod Lisim Kamieniem - Ptasia Kopa, byle schronisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7843657" lon="16.3039202">
+      <ele>585</ele>
+      <time>2022-01-17T23:16:45Z</time>
+    </trkpt>
+    <trkpt lat="50.785122" lon="16.3054758">
+      <ele>575</ele>
+      <time>2022-01-17T23:18:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7852428" lon="16.3041401">
+      <ele>579</ele>
+      <time>2022-01-17T23:19:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7853513" lon="16.3036036">
+      <ele>581</ele>
+      <time>2022-01-17T23:19:57Z</time>
+    </trkpt>
+    <trkpt lat="50.785582" lon="16.3032389">
+      <ele>581</ele>
+      <time>2022-01-17T23:20:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7858702" lon="16.3030779">
+      <ele>582</ele>
+      <time>2022-01-17T23:20:47Z</time>
+    </trkpt>
+    <trkpt lat="50.786189" lon="16.30296">
+      <ele>583</ele>
+      <time>2022-01-17T23:21:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7863932" lon="16.3028955">
+      <ele>582</ele>
+      <time>2022-01-17T23:21:29Z</time>
+    </trkpt>
+    <trkpt lat="50.786535" lon="16.3026609">
+      <ele>582</ele>
+      <time>2022-01-17T23:21:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:36Z</time>
+    <bounds maxlat="52.348001" maxlon="20.5781115" minlat="52.3467839" minlon="20.5779451"/>
+  </metadata>
+  <wpt lat="52.346784" lon="20.578015">
+    <ele>81</ele>
+    <name>Stara Dabrowa, Osrodek Szkolenia Wolontariuszy</name>
+    <link href="https://mapa-turystyczna.pl/node/4951">
+      <text>Stara Dabrowa, Osrodek Szkolenia Wolontariuszy</text>
+    </link>
+  </wpt>
+  <wpt lat="52.348001" lon="20.578098">
+    <ele>81</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12416">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Dabrowa, Osrodek Szkolenia Wolontariuszy - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3467839,20.5780149;52.34729345018,20.577985350000024;52.348001,20.5780978">
+    <text>Stara Dabrowa, Osrodek Szkolenia Wolontariuszy - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3467839" lon="20.5780149">
+      <ele>81</ele>
+      <time>2022-01-18T01:28:36Z</time>
+    </trkpt>
+    <trkpt lat="52.3471673" lon="20.5779451">
+      <ele>78</ele>
+      <time>2022-01-18T01:29:14Z</time>
+    </trkpt>
+    <trkpt lat="52.3474196" lon="20.5780256">
+      <ele>79</ele>
+      <time>2022-01-18T01:29:39Z</time>
+    </trkpt>
+    <trkpt lat="52.3478785" lon="20.5781115">
+      <ele>81</ele>
+      <time>2022-01-18T01:30:24Z</time>
+    </trkpt>
+    <trkpt lat="52.348001" lon="20.5780978">
+      <ele>81</ele>
+      <time>2022-01-18T01:30:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

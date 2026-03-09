@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:40Z</time>
+    <bounds maxlat="51.696151" maxlon="17.4346624" minlat="51.6950537" minlon="17.4341802"/>
+  </metadata>
+  <wpt lat="51.696151" lon="17.434636">
+    <ele>131</ele>
+    <name>Krotoszyn, Maly Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/10475">
+      <text>Krotoszyn, Maly Rynek</text>
+    </link>
+  </wpt>
+  <wpt lat="51.695054" lon="17.43418">
+    <ele>133</ele>
+    <name>Krotoszyn, Park Jana Pawla II</name>
+    <link href="https://mapa-turystyczna.pl/node/10476">
+      <text>Krotoszyn, Park Jana Pawla II</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krotoszyn, Maly Rynek - Krotoszyn, Park Jana Pawla II</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.696151,17.4346361;51.69544055165336,17.434418600000008;51.6950537,17.4341802">
+    <text>Krotoszyn, Maly Rynek - Krotoszyn, Park Jana Pawla II</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.696151" lon="17.4346361">
+      <ele>131</ele>
+      <time>2022-01-18T00:37:40Z</time>
+    </trkpt>
+    <trkpt lat="51.6959271" lon="17.4346624">
+      <ele>131</ele>
+      <time>2022-01-18T00:38:03Z</time>
+    </trkpt>
+    <trkpt lat="51.6958274" lon="17.434657">
+      <ele>132</ele>
+      <time>2022-01-18T00:38:14Z</time>
+    </trkpt>
+    <trkpt lat="51.6950537" lon="17.4341802">
+      <ele>133</ele>
+      <time>2022-01-18T00:39:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

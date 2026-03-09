@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:27Z</time>
+    <bounds maxlat="50.8485094" maxlon="16.2491173" minlat="50.8480335" minlon="16.2483287"/>
+  </metadata>
+  <wpt lat="50.848033" lon="16.249117">
+    <ele>372</ele>
+    <name>Ruiny zamku Cisy</name>
+    <link href="https://mapa-turystyczna.pl/node/2564">
+      <text>Ruiny zamku Cisy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.848509" lon="16.248329">
+    <ele>373</ele>
+    <name>Zamek Cisy</name>
+    <link href="https://mapa-turystyczna.pl/node/11876">
+      <text>Zamek Cisy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruiny zamku Cisy - Zamek Cisy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8480335,16.2491173;50.84837860018339,16.248511399999995;50.8485094,16.2483287">
+    <text>Ruiny zamku Cisy - Zamek Cisy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8480335" lon="16.2491173">
+      <ele>372</ele>
+      <time>2022-01-18T01:14:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8482478" lon="16.2486941">
+      <ele>373</ele>
+      <time>2022-01-18T01:14:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8485094" lon="16.2483287">
+      <ele>373</ele>
+      <time>2022-01-18T01:15:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:01:32Z</time>
+    <bounds maxlat="49.348631" maxlon="20.108225" minlat="49.34855" minlon="20.107747"/>
+  </metadata>
+  <wpt lat="49.348631" lon="20.108225">
+    <ele>867</ele>
+    <name>Wierch Rusinski</name>
+    <link href="https://mapa-turystyczna.pl/node/8996">
+      <text>Wierch Rusinski</text>
+    </link>
+  </wpt>
+  <wpt lat="49.348561" lon="20.107747">
+    <ele>865</ele>
+    <name>Wierch Rusinski</name>
+    <link href="https://mapa-turystyczna.pl/node/8995">
+      <text>Wierch Rusinski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wierch Rusinski - Wierch Rusinski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.348631,20.108225;49.348569500003855,20.10798000000002;49.348561,20.107747">
+    <text>Wierch Rusinski - Wierch Rusinski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.348631" lon="20.108225">
+      <ele>867</ele>
+      <time>2022-01-18T00:01:32Z</time>
+    </trkpt>
+    <trkpt lat="49.348589" lon="20.108074">
+      <ele>866</ele>
+      <time>2022-01-18T00:01:52Z</time>
+    </trkpt>
+    <trkpt lat="49.34855" lon="20.107886">
+      <ele>865</ele>
+      <time>2022-01-18T00:02:15Z</time>
+    </trkpt>
+    <trkpt lat="49.348561" lon="20.107747">
+      <ele>865</ele>
+      <time>2022-01-18T00:02:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

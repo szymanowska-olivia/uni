@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:43Z</time>
+    <bounds maxlat="49.626487" maxlon="21.287412" minlat="49.624765" minlon="21.283114"/>
+  </metadata>
+  <wpt lat="49.626487" lon="21.283114">
+    <ele>394</ele>
+    <name>Wapienne</name>
+    <link href="https://mapa-turystyczna.pl/node/547">
+      <text>Wapienne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.624765" lon="21.287412">
+    <ele>402</ele>
+    <name>Wapienne, Nizny Koniec</name>
+    <link href="https://mapa-turystyczna.pl/node/12388">
+      <text>Wapienne, Nizny Koniec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wapienne - Wapienne, Nizny Koniec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.626487,21.283114;49.62562100057647,21.285264999999978;49.624765,21.287412">
+    <text>Wapienne - Wapienne, Nizny Koniec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.626487" lon="21.283114">
+      <ele>394</ele>
+      <time>2022-01-18T01:27:43Z</time>
+    </trkpt>
+    <trkpt lat="49.626422" lon="21.283273">
+      <ele>395</ele>
+      <time>2022-01-18T01:27:54Z</time>
+    </trkpt>
+    <trkpt lat="49.62629" lon="21.283595">
+      <ele>396</ele>
+      <time>2022-01-18T01:28:17Z</time>
+    </trkpt>
+    <trkpt lat="49.625858" lon="21.284655">
+      <ele>397</ele>
+      <time>2022-01-18T01:29:31Z</time>
+    </trkpt>
+    <trkpt lat="49.625384" lon="21.285875">
+      <ele>399</ele>
+      <time>2022-01-18T01:30:56Z</time>
+    </trkpt>
+    <trkpt lat="49.625051" lon="21.286702">
+      <ele>400</ele>
+      <time>2022-01-18T01:31:53Z</time>
+    </trkpt>
+    <trkpt lat="49.624914" lon="21.287043">
+      <ele>401</ele>
+      <time>2022-01-18T01:32:17Z</time>
+    </trkpt>
+    <trkpt lat="49.624765" lon="21.287412">
+      <ele>402</ele>
+      <time>2022-01-18T01:32:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

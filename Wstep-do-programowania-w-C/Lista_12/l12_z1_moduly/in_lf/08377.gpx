@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:41Z</time>
+    <bounds maxlat="50.4746043" maxlon="16.264302" minlat="50.4740178" minlon="16.2597473"/>
+  </metadata>
+  <wpt lat="50.474604" lon="16.259747">
+    <ele>518</ele>
+    <name>Pstrazna, skansen</name>
+    <link href="https://mapa-turystyczna.pl/node/5829">
+      <text>Pstrazna, skansen</text>
+    </link>
+  </wpt>
+  <wpt lat="50.474018" lon="16.264302">
+    <ele>542</ele>
+    <name>Pstrazna, rozwidlenie</name>
+    <link href="https://mapa-turystyczna.pl/node/5827">
+      <text>Pstrazna, rozwidlenie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pstrazna, skansen - Pstrazna, rozwidlenie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4746043,16.2597473;50.47432330021086,16.2625316;50.4740178,16.264302">
+    <text>Pstrazna, skansen - Pstrazna, rozwidlenie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4746043" lon="16.2597473">
+      <ele>518</ele>
+      <time>2022-01-17T22:37:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4745105" lon="16.2606228">
+      <ele>521</ele>
+      <time>2022-01-17T22:38:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4744645" lon="16.2619918">
+      <ele>531</ele>
+      <time>2022-01-17T22:40:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4741821" lon="16.2630714">
+      <ele>536</ele>
+      <time>2022-01-17T22:41:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4740178" lon="16.264302">
+      <ele>542</ele>
+      <time>2022-01-17T22:42:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

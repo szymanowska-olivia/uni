@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:09Z</time>
+    <bounds maxlat="50.1969955" maxlon="19.7286612" minlat="50.1967476" minlon="19.7281798"/>
+  </metadata>
+  <wpt lat="50.196995" lon="19.72818">
+    <ele>379</ele>
+    <name>Jerzmanowice, ul. Centralna</name>
+    <link href="https://mapa-turystyczna.pl/node/11867">
+      <text>Jerzmanowice, ul. Centralna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.196748" lon="19.728661">
+    <ele>382</ele>
+    <name>Jerzmanowice, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/4402">
+      <text>Jerzmanowice, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jerzmanowice, ul. Centralna - Jerzmanowice, odejscie szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1969955,19.7281798;50.1968715501609,19.728420500000006;50.1967476,19.7286612">
+    <text>Jerzmanowice, ul. Centralna - Jerzmanowice, odejscie szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1969955" lon="19.7281798">
+      <ele>379</ele>
+      <time>2022-01-18T01:14:09Z</time>
+    </trkpt>
+    <trkpt lat="50.1967476" lon="19.7286612">
+      <ele>382</ele>
+      <time>2022-01-18T01:15:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

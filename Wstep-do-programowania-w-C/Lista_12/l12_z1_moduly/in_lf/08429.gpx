@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:38Z</time>
+    <bounds maxlat="50.2413586" maxlon="16.749078" minlat="50.2409095" minlon="16.7486626"/>
+  </metadata>
+  <wpt lat="50.24091" lon="16.748663">
+    <ele>779</ele>
+    <name>Schronisko Na Iglicznej</name>
+    <link href="https://mapa-turystyczna.pl/node/1751">
+      <text>Schronisko Na Iglicznej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.241359" lon="16.749078">
+    <ele>776</ele>
+    <name>Pod Igliczna</name>
+    <link href="https://mapa-turystyczna.pl/node/5866">
+      <text>Pod Igliczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko Na Iglicznej - Pod Igliczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2409095,16.7486626;50.24124080014555,16.748897699999983;50.2413586,16.749078">
+    <text>Schronisko Na Iglicznej - Pod Igliczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2409095" lon="16.7486626">
+      <ele>779</ele>
+      <time>2022-01-17T22:38:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2409511" lon="16.7487007">
+      <ele>779</ele>
+      <time>2022-01-17T22:38:43Z</time>
+    </trkpt>
+    <trkpt lat="50.241123" lon="16.7487174">
+      <ele>780</ele>
+      <time>2022-01-17T22:39:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2413586" lon="16.749078">
+      <ele>776</ele>
+      <time>2022-01-17T22:39:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:38:09Z</time>
+    <bounds maxlat="50.7310227" maxlon="17.091642" minlat="50.7303776" minlon="17.091229"/>
+  </metadata>
+  <wpt lat="50.730378" lon="17.091642">
+    <ele>238</ele>
+    <name>Skrzyzowanie pod Debem</name>
+    <link href="https://mapa-turystyczna.pl/node/2886">
+      <text>Skrzyzowanie pod Debem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.731023" lon="17.091229">
+    <ele>238</ele>
+    <name>Skrzyzowanie pod Debem</name>
+    <link href="https://mapa-turystyczna.pl/node/2878">
+      <text>Skrzyzowanie pod Debem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Debem - Skrzyzowanie pod Debem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7303776,17.091642;50.73070015111047,17.0914355;50.7310227,17.091229">
+    <text>Skrzyzowanie pod Debem - Skrzyzowanie pod Debem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7303776" lon="17.091642">
+      <ele>238</ele>
+      <time>2022-01-17T21:38:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7310227" lon="17.091229">
+      <ele>238</ele>
+      <time>2022-01-17T21:39:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

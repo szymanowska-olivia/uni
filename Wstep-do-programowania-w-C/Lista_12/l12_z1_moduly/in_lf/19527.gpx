@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:00Z</time>
+    <bounds maxlat="49.8590479" maxlon="20.5310762" minlat="49.8583217" minlon="20.5276859"/>
+  </metadata>
+  <wpt lat="49.858322" lon="20.531076">
+    <ele>273</ele>
+    <name>Lipnica Murowana, Przedmiescie</name>
+    <link href="https://mapa-turystyczna.pl/node/13174">
+      <text>Lipnica Murowana, Przedmiescie</text>
+    </link>
+  </wpt>
+  <wpt lat="49.859048" lon="20.527686">
+    <ele>280</ele>
+    <name>Lipnica Murowana</name>
+    <link href="https://mapa-turystyczna.pl/node/3485">
+      <text>Lipnica Murowana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lipnica Murowana, Przedmiescie - Lipnica Murowana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8583217,20.5310762;49.858638001035274,20.52947659999998;49.8590479,20.5276859">
+    <text>Lipnica Murowana, Przedmiescie - Lipnica Murowana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8583217" lon="20.5310762">
+      <ele>273</ele>
+      <time>2022-01-18T01:50:00Z</time>
+    </trkpt>
+    <trkpt lat="49.8589543" lon="20.527877">
+      <ele>279</ele>
+      <time>2022-01-18T01:54:39Z</time>
+    </trkpt>
+    <trkpt lat="49.8590288" lon="20.5277654">
+      <ele>280</ele>
+      <time>2022-01-18T01:54:53Z</time>
+    </trkpt>
+    <trkpt lat="49.8590479" lon="20.5276859">
+      <ele>280</ele>
+      <time>2022-01-18T01:55:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:02Z</time>
+    <bounds maxlat="50.2320186" maxlon="17.2074939" minlat="50.2298575" minlon="17.2044182"/>
+  </metadata>
+  <wpt lat="50.229858" lon="17.204418">
+    <ele>437</ele>
+    <name>Jesenik</name>
+    <link href="https://mapa-turystyczna.pl/node/6206">
+      <text>Jesenik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.232019" lon="17.207494">
+    <ele>434</ele>
+    <name>Jesenik, Josefa Hory</name>
+    <link href="https://mapa-turystyczna.pl/node/13524">
+      <text>Jesenik, Josefa Hory</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jesenik - Jesenik, Josefa Hory</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2298575,17.2044182;50.23067630157689,17.205947900000016;50.2320186,17.2074939">
+    <text>Jesenik - Jesenik, Josefa Hory</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2298575" lon="17.2044182">
+      <ele>437</ele>
+      <time>2022-01-18T02:00:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2302885" lon="17.2061303">
+      <ele>436</ele>
+      <time>2022-01-18T02:01:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2310641" lon="17.2057655">
+      <ele>434</ele>
+      <time>2022-01-18T02:02:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2313386" lon="17.2060927">
+      <ele>434</ele>
+      <time>2022-01-18T02:03:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2314258" lon="17.2063708">
+      <ele>434</ele>
+      <time>2022-01-18T02:03:38Z</time>
+    </trkpt>
+    <trkpt lat="50.231618" lon="17.207036">
+      <ele>433</ele>
+      <time>2022-01-18T02:04:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2316763" lon="17.2072184">
+      <ele>433</ele>
+      <time>2022-01-18T02:04:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2320186" lon="17.2074939">
+      <ele>434</ele>
+      <time>2022-01-18T02:05:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

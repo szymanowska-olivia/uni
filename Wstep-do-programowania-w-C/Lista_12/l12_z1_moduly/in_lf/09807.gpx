@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:32Z</time>
+    <bounds maxlat="50.0712505" maxlon="17.1566159" minlat="50.0703622" minlon="17.1508974"/>
+  </metadata>
+  <wpt lat="50.070765" lon="17.150897">
+    <ele>1300</ele>
+    <name>Mravenecnik, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6888">
+      <text>Mravenecnik, sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.07125" lon="17.156616">
+    <ele>1346</ele>
+    <name>Dlouhe Strane, vyhlidka</name>
+    <link href="https://mapa-turystyczna.pl/node/6891">
+      <text>Dlouhe Strane, vyhlidka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mravenecnik, sedlo - Dlouhe Strane, vyhlidka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0707651,17.1508974;50.0705309000654,17.15405435000001;50.0712505,17.1566159">
+    <text>Mravenecnik, sedlo - Dlouhe Strane, vyhlidka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0707651" lon="17.1508974">
+      <ele>1300</ele>
+      <time>2022-01-17T23:04:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0703622" lon="17.1537137">
+      <ele>1319</ele>
+      <time>2022-01-17T23:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0704517" lon="17.1538103">
+      <ele>1320</ele>
+      <time>2022-01-17T23:09:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0706101" lon="17.1542984">
+      <ele>1322</ele>
+      <time>2022-01-17T23:10:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0706514" lon="17.1545291">
+      <ele>1323</ele>
+      <time>2022-01-17T23:10:47Z</time>
+    </trkpt>
+    <trkpt lat="50.070741" lon="17.1547437">
+      <ele>1325</ele>
+      <time>2022-01-17T23:11:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0710026" lon="17.155838">
+      <ele>1338</ele>
+      <time>2022-01-17T23:13:07Z</time>
+    </trkpt>
+    <trkpt lat="50.0710853" lon="17.1561867">
+      <ele>1342</ele>
+      <time>2022-01-17T23:13:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0712505" lon="17.1566159">
+      <ele>1346</ele>
+      <time>2022-01-17T23:14:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:26Z</time>
+    <bounds maxlat="50.2844516" maxlon="17.4260706" minlat="50.2837934" minlon="17.4236834"/>
+  </metadata>
+  <wpt lat="50.283793" lon="17.423683">
+    <ele>359</ele>
+    <name>Jarnoltowek, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/2647">
+      <text>Jarnoltowek, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.284452" lon="17.426071">
+    <ele>358</ele>
+    <name>Jarnoltowek</name>
+    <link href="https://mapa-turystyczna.pl/node/2648">
+      <text>Jarnoltowek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jarnoltowek, odejscie szlaku zielonego - Jarnoltowek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2837934,17.4236834;50.28412250113781,17.42487700000002;50.2844516,17.4260706">
+    <text>Jarnoltowek, odejscie szlaku zielonego - Jarnoltowek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2837934" lon="17.4236834">
+      <ele>359</ele>
+      <time>2022-01-17T21:34:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2844516" lon="17.4260706">
+      <ele>358</ele>
+      <time>2022-01-17T21:37:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:42Z</time>
+    <bounds maxlat="49.1837307" maxlon="22.4919748" minlat="49.1807699" minlon="22.4886366"/>
+  </metadata>
+  <wpt lat="49.183731" lon="22.488637">
+    <ele>1088</ele>
+    <name>Pod Przelecza Orlowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/2495">
+      <text>Pod Przelecza Orlowicza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.18077" lon="22.491975">
+    <ele>1095</ele>
+    <name>Przelecz M. Orlowicza</name>
+    <link href="https://mapa-turystyczna.pl/node/373">
+      <text>Przelecz M. Orlowicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Przelecza Orlowicza - Przelecz M. Orlowicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1837307,22.4886366;49.18233650056225,22.49075980000001;49.1807699,22.4919748">
+    <text>Pod Przelecza Orlowicza - Przelecz M. Orlowicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1837307" lon="22.4886366">
+      <ele>1088</ele>
+      <time>2022-01-17T21:31:42Z</time>
+    </trkpt>
+    <trkpt lat="49.1835593" lon="22.4889332">
+      <ele>1088</ele>
+      <time>2022-01-17T21:32:03Z</time>
+    </trkpt>
+    <trkpt lat="49.1834541" lon="22.4892121">
+      <ele>1087</ele>
+      <time>2022-01-17T21:32:19Z</time>
+    </trkpt>
+    <trkpt lat="49.1833489" lon="22.4893838">
+      <ele>1088</ele>
+      <time>2022-01-17T21:32:32Z</time>
+    </trkpt>
+    <trkpt lat="49.1831701" lon="22.4895501">
+      <ele>1091</ele>
+      <time>2022-01-17T21:32:49Z</time>
+    </trkpt>
+    <trkpt lat="49.1825724" lon="22.4904299">
+      <ele>1089</ele>
+      <time>2022-01-17T21:33:55Z</time>
+    </trkpt>
+    <trkpt lat="49.1821006" lon="22.4910897">
+      <ele>1091</ele>
+      <time>2022-01-17T21:34:46Z</time>
+    </trkpt>
+    <trkpt lat="49.1817991" lon="22.4913686">
+      <ele>1092</ele>
+      <time>2022-01-17T21:35:14Z</time>
+    </trkpt>
+    <trkpt lat="49.1816103" lon="22.4915189">
+      <ele>1092</ele>
+      <time>2022-01-17T21:35:31Z</time>
+    </trkpt>
+    <trkpt lat="49.1811346" lon="22.4918461">
+      <ele>1094</ele>
+      <time>2022-01-17T21:36:12Z</time>
+    </trkpt>
+    <trkpt lat="49.1807699" lon="22.4919748">
+      <ele>1095</ele>
+      <time>2022-01-17T21:36:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

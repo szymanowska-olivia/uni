@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:19Z</time>
+    <bounds maxlat="50.2435788" maxlon="16.3955309" minlat="50.2388496" minlon="16.3801646"/>
+  </metadata>
+  <wpt lat="50.23885" lon="16.395531">
+    <ele>748</ele>
+    <name>Nad Zdobnici, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5690">
+      <text>Nad Zdobnici, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.241785" lon="16.380165">
+    <ele>671</ele>
+    <name>Nad Kacerovem</name>
+    <link href="https://mapa-turystyczna.pl/node/1924">
+      <text>Nad Kacerovem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Zdobnici, rozc. - Nad Kacerovem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2388496,16.3955309;50.2426147553935,16.3884071;50.2417845,16.3801646">
+    <text>Nad Zdobnici, rozc. - Nad Kacerovem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2388496" lon="16.3955309">
+      <ele>748</ele>
+      <time>2022-01-17T21:19:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2391942" lon="16.3942999">
+      <ele>747</ele>
+      <time>2022-01-17T21:20:44Z</time>
+    </trkpt>
+    <trkpt lat="50.2397603" lon="16.3937849">
+      <ele>749</ele>
+      <time>2022-01-17T21:21:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2410366" lon="16.3919986">
+      <ele>740</ele>
+      <time>2022-01-17T21:24:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2416628" lon="16.3908586">
+      <ele>738</ele>
+      <time>2022-01-17T21:26:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2418977" lon="16.389944">
+      <ele>729</ele>
+      <time>2022-01-17T21:27:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2433318" lon="16.3868702">
+      <ele>718</ele>
+      <time>2022-01-17T21:31:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2435788" lon="16.3858402">
+      <ele>713</ele>
+      <time>2022-01-17T21:32:30Z</time>
+    </trkpt>
+    <trkpt lat="50.243493" lon="16.3851857">
+      <ele>710</ele>
+      <time>2022-01-17T21:33:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2425239" lon="16.3826483">
+      <ele>688</ele>
+      <time>2022-01-17T21:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.241884" lon="16.3810551">
+      <ele>675</ele>
+      <time>2022-01-17T21:38:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2417845" lon="16.3801646">
+      <ele>671</ele>
+      <time>2022-01-17T21:39:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

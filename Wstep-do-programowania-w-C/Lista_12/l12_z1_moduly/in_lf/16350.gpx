@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:20Z</time>
+    <bounds maxlat="51.9174702" maxlon="15.4602982" minlat="51.9171548" minlon="15.4597521"/>
+  </metadata>
+  <wpt lat="51.91747" lon="15.460298">
+    <ele>204</ele>
+    <name>Rozejscie pod Gora Wilkanowska</name>
+    <link href="https://mapa-turystyczna.pl/node/11161">
+      <text>Rozejscie pod Gora Wilkanowska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.917155" lon="15.459752">
+    <ele>207</ele>
+    <name>Rozejscie szlakow niebieski / zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11142">
+      <text>Rozejscie szlakow niebieski / zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie pod Gora Wilkanowska - Rozejscie szlakow niebieski / zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9174702,15.4602982;51.91726040012419,15.4599333;51.9171548,15.4597521">
+    <text>Rozejscie pod Gora Wilkanowska - Rozejscie szlakow niebieski / zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9174702" lon="15.4602982">
+      <ele>204</ele>
+      <time>2022-01-18T00:55:20Z</time>
+    </trkpt>
+    <trkpt lat="51.917366" lon="15.4601145">
+      <ele>205</ele>
+      <time>2022-01-18T00:55:40Z</time>
+    </trkpt>
+    <trkpt lat="51.9171548" lon="15.4597521">
+      <ele>207</ele>
+      <time>2022-01-18T00:56:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

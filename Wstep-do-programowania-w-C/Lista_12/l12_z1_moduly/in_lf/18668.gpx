@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:07Z</time>
+    <bounds maxlat="54.0948564" maxlon="15.0786463" minlat="54.0945811" minlon="15.0749392"/>
+  </metadata>
+  <wpt lat="54.09457" lon="15.078646">
+    <ele>2</ele>
+    <name>Niechorze</name>
+    <link href="https://mapa-turystyczna.pl/node/12566">
+      <text>Niechorze</text>
+    </link>
+  </wpt>
+  <wpt lat="54.094581" lon="15.074939">
+    <ele>2</ele>
+    <name>Niechorze, ul. Kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12647">
+      <text>Niechorze, ul. Kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Niechorze - Niechorze, ul. Kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0945703,15.0786463;54.09471965022541,15.077585350000001;54.0945811,15.0749392">
+    <text>Niechorze - Niechorze, ul. Kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0945829" lon="15.0786463">
+      <ele>2</ele>
+      <time>2022-01-18T01:35:07Z</time>
+    </trkpt>
+    <trkpt lat="54.0948564" lon="15.0765244">
+      <ele>1</ele>
+      <time>2022-01-18T01:37:57Z</time>
+    </trkpt>
+    <trkpt lat="54.0948136" lon="15.0761565">
+      <ele>2</ele>
+      <time>2022-01-18T01:38:27Z</time>
+    </trkpt>
+    <trkpt lat="54.0945811" lon="15.0749392">
+      <ele>2</ele>
+      <time>2022-01-18T01:40:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

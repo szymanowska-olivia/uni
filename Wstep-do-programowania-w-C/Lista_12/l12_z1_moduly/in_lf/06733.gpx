@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:11:49Z</time>
+    <bounds maxlat="50.7212529" maxlon="17.2099328" minlat="50.7093532" minlon="17.189042"/>
+  </metadata>
+  <wpt lat="50.709353" lon="17.189042">
+    <ele>192</ele>
+    <name>Struzyna</name>
+    <link href="https://mapa-turystyczna.pl/node/4649">
+      <text>Struzyna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.721253" lon="17.209933">
+    <ele>179</ele>
+    <name>Wawrzyszow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4650">
+      <text>Wawrzyszow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Struzyna - Wawrzyszow, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7093532,17.189042;50.71412570470314,17.20189505000001;50.7212529,17.2099328">
+    <text>Struzyna - Wawrzyszow, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7093532" lon="17.189042">
+      <ele>192</ele>
+      <time>2022-01-17T22:11:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7103849" lon="17.1912262">
+      <ele>190</ele>
+      <time>2022-01-17T22:14:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7125991" lon="17.1963523">
+      <ele>188</ele>
+      <time>2022-01-17T22:20:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7134617" lon="17.1995162">
+      <ele>187</ele>
+      <time>2022-01-17T22:24:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7147897" lon="17.2042739">
+      <ele>185</ele>
+      <time>2022-01-17T22:29:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7152983" lon="17.2058603">
+      <ele>184</ele>
+      <time>2022-01-17T22:31:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7157797" lon="17.2066742">
+      <ele>185</ele>
+      <time>2022-01-17T22:32:29Z</time>
+    </trkpt>
+    <trkpt lat="50.718856" lon="17.2086468">
+      <ele>190</ele>
+      <time>2022-01-17T22:37:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7212529" lon="17.2099328">
+      <ele>179</ele>
+      <time>2022-01-17T22:41:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

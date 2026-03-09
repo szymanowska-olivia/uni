@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:26:17Z</time>
+    <bounds maxlat="50.6846323" maxlon="16.278282" minlat="50.6837373" minlon="16.2737983"/>
+  </metadata>
+  <wpt lat="50.684632" lon="16.278282">
+    <ele>797</ele>
+    <name>Przelecz Trzech Dolin</name>
+    <link href="https://mapa-turystyczna.pl/node/7727">
+      <text>Przelecz Trzech Dolin</text>
+    </link>
+  </wpt>
+  <wpt lat="50.683746" lon="16.273798">
+    <ele>771</ele>
+    <name>Sokolowiec, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/7729">
+      <text>Sokolowiec, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Trzech Dolin - Sokolowiec, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6846323,16.278282;50.68384060000413,16.276643100000005;50.6837459,16.2737983">
+    <text>Przelecz Trzech Dolin - Sokolowiec, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6846323" lon="16.278282">
+      <ele>797</ele>
+      <time>2022-01-17T23:26:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6843074" lon="16.2780529">
+      <ele>797</ele>
+      <time>2022-01-17T23:26:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6842048" lon="16.2779872">
+      <ele>796</ele>
+      <time>2022-01-17T23:27:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6840777" lon="16.277778">
+      <ele>794</ele>
+      <time>2022-01-17T23:27:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6839641" lon="16.2775473">
+      <ele>790</ele>
+      <time>2022-01-17T23:27:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6838603" lon="16.2772121">
+      <ele>786</ele>
+      <time>2022-01-17T23:27:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6838209" lon="16.2760741">
+      <ele>780</ele>
+      <time>2022-01-17T23:29:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6838494" lon="16.2747967">
+      <ele>774</ele>
+      <time>2022-01-17T23:30:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6837882" lon="16.2743327">
+      <ele>773</ele>
+      <time>2022-01-17T23:30:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6837373" lon="16.2740618">
+      <ele>772</ele>
+      <time>2022-01-17T23:31:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6837459" lon="16.2737983">
+      <ele>771</ele>
+      <time>2022-01-17T23:31:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

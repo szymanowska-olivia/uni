@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:17Z</time>
+    <bounds maxlat="50.7278798" maxlon="16.9129371" minlat="50.7266967" minlon="16.9123989"/>
+  </metadata>
+  <wpt lat="50.72788" lon="16.912399">
+    <ele>246</ele>
+    <name>Zelowice, skrzyzowanie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/7108">
+      <text>Zelowice, skrzyzowanie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.726697" lon="16.912937">
+    <ele>240</ele>
+    <name>Zelowice</name>
+    <link href="https://mapa-turystyczna.pl/node/2872">
+      <text>Zelowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zelowice, skrzyzowanie szlakow zielony / zolty - Zelowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7278798,16.9123989;50.72707360151602,16.912811050000002;50.7266967,16.9129371">
+    <text>Zelowice, skrzyzowanie szlakow zielony / zolty - Zelowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7278798" lon="16.9123989">
+      <ele>246</ele>
+      <time>2022-01-17T23:10:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7278784" lon="16.9124007">
+      <ele>246</ele>
+      <time>2022-01-17T23:10:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7274505" lon="16.912685">
+      <ele>244</ele>
+      <time>2022-01-17T23:11:02Z</time>
+    </trkpt>
+    <trkpt lat="50.7266967" lon="16.9129371">
+      <ele>240</ele>
+      <time>2022-01-17T23:12:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

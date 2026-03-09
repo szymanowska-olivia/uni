@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:11Z</time>
+    <bounds maxlat="50.8588855" maxlon="15.7081767" minlat="50.8567405" minlon="15.7024487"/>
+  </metadata>
+  <wpt lat="50.856741" lon="15.708177">
+    <ele>402</ele>
+    <name>Cieplice, ul. Krosnienska</name>
+    <link href="https://mapa-turystyczna.pl/node/11041">
+      <text>Cieplice, ul. Krosnienska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.858885" lon="15.702449">
+    <ele>381</ele>
+    <name>Cieplice, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/11040">
+      <text>Cieplice, cmentarz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieplice, ul. Krosnienska - Cieplice, cmentarz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8567405,15.7081767;50.85769990029226,15.705775499999985;50.8588855,15.7024487">
+    <text>Cieplice, ul. Krosnienska - Cieplice, cmentarz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8567405" lon="15.7081767">
+      <ele>402</ele>
+      <time>2022-01-18T00:52:11Z</time>
+    </trkpt>
+    <trkpt lat="50.8567576" lon="15.7079279">
+      <ele>402</ele>
+      <time>2022-01-18T00:52:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8575348" lon="15.7062677">
+      <ele>405</ele>
+      <time>2022-01-18T00:55:35Z</time>
+    </trkpt>
+    <trkpt lat="50.857865" lon="15.7052833">
+      <ele>400</ele>
+      <time>2022-01-18T00:57:13Z</time>
+    </trkpt>
+    <trkpt lat="50.858295" lon="15.7044518">
+      <ele>387</ele>
+      <time>2022-01-18T00:58:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8587183" lon="15.7036954">
+      <ele>386</ele>
+      <time>2022-01-18T01:00:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8588097" lon="15.7032287">
+      <ele>383</ele>
+      <time>2022-01-18T01:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8588131" lon="15.7028478">
+      <ele>382</ele>
+      <time>2022-01-18T01:01:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8588855" lon="15.7024487">
+      <ele>381</ele>
+      <time>2022-01-18T01:02:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

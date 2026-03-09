@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:01Z</time>
+    <bounds maxlat="50.6458302" maxlon="15.7337415" minlat="50.6455435" minlon="15.7302547"/>
+  </metadata>
+  <wpt lat="50.645637" lon="15.730255">
+    <ele>1007</ele>
+    <name>Zrcadlovky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/3908">
+      <text>Zrcadlovky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.645544" lon="15.733742">
+    <ele>1012</ele>
+    <name>Zrcadlovky</name>
+    <link href="https://mapa-turystyczna.pl/node/1449">
+      <text>Zrcadlovky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zrcadlovky, rozc. - Zrcadlovky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6456372,15.7302547;50.64581945000123,15.732250200000024;50.6455435,15.7337415">
+    <text>Zrcadlovky, rozc. - Zrcadlovky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6456372" lon="15.7302547">
+      <ele>1007</ele>
+      <time>2022-01-17T21:58:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6457072" lon="15.7307911">
+      <ele>1007</ele>
+      <time>2022-01-17T21:58:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6457823" lon="15.7314348">
+      <ele>1007</ele>
+      <time>2022-01-17T21:59:41Z</time>
+    </trkpt>
+    <trkpt lat="50.6458302" lon="15.7320142">
+      <ele>1011</ele>
+      <time>2022-01-17T22:00:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6458087" lon="15.7324862">
+      <ele>1015</ele>
+      <time>2022-01-17T22:01:10Z</time>
+    </trkpt>
+    <trkpt lat="50.645726" lon="15.7329905">
+      <ele>1016</ele>
+      <time>2022-01-17T22:01:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6455435" lon="15.7337415">
+      <ele>1012</ele>
+      <time>2022-01-17T22:03:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

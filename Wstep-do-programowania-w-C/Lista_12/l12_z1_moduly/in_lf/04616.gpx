@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:44:37Z</time>
+    <bounds maxlat="51.1437299" maxlon="20.8567393" minlat="51.1321983" minlon="20.836451"/>
+  </metadata>
+  <wpt lat="51.14373" lon="20.836451">
+    <ele>322</ele>
+    <name>Pogorzale, Wyprawy</name>
+    <link href="https://mapa-turystyczna.pl/node/3223">
+      <text>Pogorzale, Wyprawy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.132198" lon="20.856739">
+    <ele>309</ele>
+    <name>Pogorzale</name>
+    <link href="https://mapa-turystyczna.pl/node/3224">
+      <text>Pogorzale</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pogorzale, Wyprawy - Pogorzale</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1437299,20.836451;51.134022836044934,20.847775350000006;51.1321983,20.8567393">
+    <text>Pogorzale, Wyprawy - Pogorzale</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1437299" lon="20.836451">
+      <ele>322</ele>
+      <time>2022-01-17T21:44:37Z</time>
+    </trkpt>
+    <trkpt lat="51.1358473" lon="20.8388114">
+      <ele>337</ele>
+      <time>2022-01-17T21:58:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1321983" lon="20.8567393">
+      <ele>309</ele>
+      <time>2022-01-17T22:19:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

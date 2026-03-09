@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:09:14Z</time>
+    <bounds maxlat="50.7828173" maxlon="15.5111826" minlat="50.7736718" minlon="15.5061722"/>
+  </metadata>
+  <wpt lat="50.782817" lon="15.511183">
+    <ele>1251</ele>
+    <name>Vosecka bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1429">
+      <text>Vosecka bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.773672" lon="15.506172">
+    <ele>1128</ele>
+    <name>Pod Voseckou boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/1216">
+      <text>Pod Voseckou boudou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vosecka bouda - Pod Voseckou boudou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7828173,15.5111826;50.7784404054674,15.509144050000012;50.7736718,15.5061722">
+    <text>Vosecka bouda - Pod Voseckou boudou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7828173" lon="15.5111826">
+      <ele>1251</ele>
+      <time>2022-01-17T21:09:14Z</time>
+    </trkpt>
+    <trkpt lat="50.7815706" lon="15.5109036">
+      <ele>1230</ele>
+      <time>2022-01-17T21:11:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7806645" lon="15.5105817">
+      <ele>1216</ele>
+      <time>2022-01-17T21:12:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7791555" lon="15.5095947">
+      <ele>1196</ele>
+      <time>2022-01-17T21:15:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7777253" lon="15.5086934">
+      <ele>1178</ele>
+      <time>2022-01-17T21:17:29Z</time>
+    </trkpt>
+    <trkpt lat="50.7762773" lon="15.5075133">
+      <ele>1159</ele>
+      <time>2022-01-17T21:19:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7751668" lon="15.5066979">
+      <ele>1144</ele>
+      <time>2022-01-17T21:21:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7745832" lon="15.506376">
+      <ele>1137</ele>
+      <time>2022-01-17T21:22:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7736718" lon="15.5061722">
+      <ele>1128</ele>
+      <time>2022-01-17T21:24:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

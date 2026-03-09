@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:24Z</time>
+    <bounds maxlat="50.6667146" maxlon="16.1863964" minlat="50.6644622" minlon="16.183951"/>
+  </metadata>
+  <wpt lat="50.666396" lon="16.186396">
+    <ele>501</ele>
+    <name>Mieroszow</name>
+    <link href="https://mapa-turystyczna.pl/node/2370">
+      <text>Mieroszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.664462" lon="16.183951">
+    <ele>500</ele>
+    <name>Mieroszow, ul. Slowackiego</name>
+    <link href="https://mapa-turystyczna.pl/node/13412">
+      <text>Mieroszow, ul. Slowackiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mieroszow - Mieroszow, ul. Slowackiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6663963,16.1863964;50.665882451096266,16.185126800000017;50.6644622,16.183951">
+    <text>Mieroszow - Mieroszow, ul. Slowackiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6663963" lon="16.1863964">
+      <ele>501</ele>
+      <time>2022-01-18T01:56:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6665656" lon="16.1863225">
+      <ele>502</ele>
+      <time>2022-01-18T01:56:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6667146" lon="16.1854976">
+      <ele>505</ele>
+      <time>2022-01-18T01:57:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6662033" lon="16.1852586">
+      <ele>504</ele>
+      <time>2022-01-18T01:58:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6655616" lon="16.184995">
+      <ele>502</ele>
+      <time>2022-01-18T01:59:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6651926" lon="16.1848113">
+      <ele>502</ele>
+      <time>2022-01-18T01:59:59Z</time>
+    </trkpt>
+    <trkpt lat="50.6644622" lon="16.183951">
+      <ele>500</ele>
+      <time>2022-01-18T02:01:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

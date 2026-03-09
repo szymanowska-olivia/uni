@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:50:32Z</time>
+    <bounds maxlat="51.1216547" maxlon="15.2889615" minlat="51.1211084" minlon="15.287784"/>
+  </metadata>
+  <wpt lat="51.121108" lon="15.287784">
+    <ele>220</ele>
+    <name>Luban</name>
+    <link href="https://mapa-turystyczna.pl/node/3550">
+      <text>Luban</text>
+    </link>
+  </wpt>
+  <wpt lat="51.121655" lon="15.288961">
+    <ele>217</ele>
+    <name>Luban, ul. Podwale</name>
+    <link href="https://mapa-turystyczna.pl/node/3561">
+      <text>Luban, ul. Podwale</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Luban - Luban, ul. Podwale</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1211084,15.287784;51.121381550807534,15.288372749999981;51.1216547,15.2889615">
+    <text>Luban - Luban, ul. Podwale</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1211084" lon="15.287784">
+      <ele>220</ele>
+      <time>2022-01-17T21:50:32Z</time>
+    </trkpt>
+    <trkpt lat="51.1216547" lon="15.2889615">
+      <ele>217</ele>
+      <time>2022-01-17T21:52:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

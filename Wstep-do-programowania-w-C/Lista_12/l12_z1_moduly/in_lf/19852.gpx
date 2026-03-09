@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:56:04Z</time>
+    <bounds maxlat="50.9455241" maxlon="15.9278801" minlat="50.9454125" minlon="15.9251815"/>
+  </metadata>
+  <wpt lat="50.945413" lon="15.925182">
+    <ele>342</ele>
+    <name>Wojcieszow</name>
+    <link href="https://mapa-turystyczna.pl/node/3284">
+      <text>Wojcieszow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.945422" lon="15.92788">
+    <ele>359</ele>
+    <name>Wojcieszow, ul. Kochanowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/13402">
+      <text>Wojcieszow, ul. Kochanowskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wojcieszow - Wojcieszow, ul. Kochanowskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9454125,15.9251815;50.94546830003351,15.926122949999998;50.9454215,15.9278801">
+    <text>Wojcieszow - Wojcieszow, ul. Kochanowskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9454125" lon="15.9251815">
+      <ele>342</ele>
+      <time>2022-01-18T01:56:04Z</time>
+    </trkpt>
+    <trkpt lat="50.9455241" lon="15.9270644">
+      <ele>353</ele>
+      <time>2022-01-18T01:59:32Z</time>
+    </trkpt>
+    <trkpt lat="50.9454227" lon="15.9278396">
+      <ele>359</ele>
+      <time>2022-01-18T02:01:00Z</time>
+    </trkpt>
+    <trkpt lat="50.9454215" lon="15.9278801">
+      <ele>359</ele>
+      <time>2022-01-18T02:01:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:27Z</time>
+    <bounds maxlat="50.8764678" maxlon="15.3514158" minlat="50.8720223" minlon="15.3440921"/>
+  </metadata>
+  <wpt lat="50.876468" lon="15.344092">
+    <ele>964</ele>
+    <name>Polana Izerska, wiata</name>
+    <link href="https://mapa-turystyczna.pl/node/4809">
+      <text>Polana Izerska, wiata</text>
+    </link>
+  </wpt>
+  <wpt lat="50.872022" lon="15.351416">
+    <ele>968</ele>
+    <name>Odejscie Bialej Drogi</name>
+    <link href="https://mapa-turystyczna.pl/node/9148">
+      <text>Odejscie Bialej Drogi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polana Izerska, wiata - Odejscie Bialej Drogi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8764678,15.3440921;50.87332665006092,15.346489499999988;50.8720223,15.3514158">
+    <text>Polana Izerska, wiata - Odejscie Bialej Drogi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8764678" lon="15.3440921">
+      <ele>964</ele>
+      <time>2022-01-18T00:04:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8753721" lon="15.3451538">
+      <ele>970</ele>
+      <time>2022-01-18T00:07:09Z</time>
+    </trkpt>
+    <trkpt lat="50.8751318" lon="15.3452826">
+      <ele>971</ele>
+      <time>2022-01-18T00:07:41Z</time>
+    </trkpt>
+    <trkpt lat="50.874079" lon="15.3451645">
+      <ele>973</ele>
+      <time>2022-01-18T00:09:54Z</time>
+    </trkpt>
+    <trkpt lat="50.873402" lon="15.3462213">
+      <ele>974</ele>
+      <time>2022-01-18T00:11:53Z</time>
+    </trkpt>
+    <trkpt lat="50.8732513" lon="15.3467577">
+      <ele>975</ele>
+      <time>2022-01-18T00:12:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8725218" lon="15.3486085">
+      <ele>974</ele>
+      <time>2022-01-18T00:15:33Z</time>
+    </trkpt>
+    <trkpt lat="50.8724914" lon="15.3494346">
+      <ele>974</ele>
+      <time>2022-01-18T00:16:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8721833" lon="15.3508401">
+      <ele>971</ele>
+      <time>2022-01-18T00:18:37Z</time>
+    </trkpt>
+    <trkpt lat="50.8720223" lon="15.3514158">
+      <ele>968</ele>
+      <time>2022-01-18T00:19:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

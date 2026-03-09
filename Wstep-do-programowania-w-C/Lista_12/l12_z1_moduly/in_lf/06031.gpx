@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:51Z</time>
+    <bounds maxlat="50.4803403" maxlon="16.2871349" minlat="50.4793805" minlon="16.2867889"/>
+  </metadata>
+  <wpt lat="50.48034" lon="16.287135">
+    <ele>838</ele>
+    <name>Bledne Skaly, wejscie</name>
+    <link href="https://mapa-turystyczna.pl/node/4133">
+      <text>Bledne Skaly, wejscie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.47938" lon="16.286789">
+    <ele>838</ele>
+    <name>Bledne Skaly, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/1847">
+      <text>Bledne Skaly, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bledne Skaly, wejscie - Bledne Skaly, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4803403,16.2871349;50.47984990004346,16.287096499999976;50.4793805,16.2867889">
+    <text>Bledne Skaly, wejscie - Bledne Skaly, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4803403" lon="16.2871349">
+      <ele>838</ele>
+      <time>2022-01-17T22:04:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4799944" lon="16.2870343">
+      <ele>841</ele>
+      <time>2022-01-17T22:05:32Z</time>
+    </trkpt>
+    <trkpt lat="50.479914" lon="16.2870901">
+      <ele>841</ele>
+      <time>2022-01-17T22:05:42Z</time>
+    </trkpt>
+    <trkpt lat="50.4797858" lon="16.2871029">
+      <ele>842</ele>
+      <time>2022-01-17T22:05:57Z</time>
+    </trkpt>
+    <trkpt lat="50.4796728" lon="16.2869676">
+      <ele>841</ele>
+      <time>2022-01-17T22:06:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4795014" lon="16.2869116">
+      <ele>840</ele>
+      <time>2022-01-17T22:06:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4793805" lon="16.2867889">
+      <ele>838</ele>
+      <time>2022-01-17T22:06:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

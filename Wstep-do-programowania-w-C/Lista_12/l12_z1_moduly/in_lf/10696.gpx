@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:20:49Z</time>
+    <bounds maxlat="49.614218" maxlon="18.640772" minlat="49.612258" minlon="18.637785"/>
+  </metadata>
+  <wpt lat="49.612258" lon="18.637785">
+    <ele>502</ele>
+    <name>Tyra, pila</name>
+    <link href="https://mapa-turystyczna.pl/node/7438">
+      <text>Tyra, pila</text>
+    </link>
+  </wpt>
+  <wpt lat="49.614218" lon="18.640772">
+    <ele>488</ele>
+    <name>Tyra, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7526">
+      <text>Tyra, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tyra, pila - Tyra, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.612258,18.637785;49.6127830009986,18.638949999999983;49.614218,18.640772">
+    <text>Tyra, pila - Tyra, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.612258" lon="18.637785">
+      <ele>502</ele>
+      <time>2022-01-17T23:20:49Z</time>
+    </trkpt>
+    <trkpt lat="49.61228" lon="18.637833">
+      <ele>502</ele>
+      <time>2022-01-17T23:20:53Z</time>
+    </trkpt>
+    <trkpt lat="49.612409" lon="18.638108">
+      <ele>501</ele>
+      <time>2022-01-17T23:21:16Z</time>
+    </trkpt>
+    <trkpt lat="49.612471" lon="18.638238">
+      <ele>500</ele>
+      <time>2022-01-17T23:21:27Z</time>
+    </trkpt>
+    <trkpt lat="49.613095" lon="18.639662">
+      <ele>494</ele>
+      <time>2022-01-17T23:23:25Z</time>
+    </trkpt>
+    <trkpt lat="49.613369" lon="18.640155">
+      <ele>495</ele>
+      <time>2022-01-17T23:24:09Z</time>
+    </trkpt>
+    <trkpt lat="49.613517" lon="18.640325">
+      <ele>492</ele>
+      <time>2022-01-17T23:24:29Z</time>
+    </trkpt>
+    <trkpt lat="49.61388" lon="18.640581">
+      <ele>486</ele>
+      <time>2022-01-17T23:25:11Z</time>
+    </trkpt>
+    <trkpt lat="49.614218" lon="18.640772">
+      <ele>488</ele>
+      <time>2022-01-17T23:25:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

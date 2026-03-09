@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:32Z</time>
+    <bounds maxlat="50.3118827" maxlon="16.3755512" minlat="50.2997951" minlon="16.3735127"/>
+  </metadata>
+  <wpt lat="50.311883" lon="16.374811">
+    <ele>767</ele>
+    <name>Nad Zakoutim</name>
+    <link href="https://mapa-turystyczna.pl/node/1898">
+      <text>Nad Zakoutim</text>
+    </link>
+  </wpt>
+  <wpt lat="50.299795" lon="16.373513">
+    <ele>689</ele>
+    <name>Destne, Zakouti</name>
+    <link href="https://mapa-turystyczna.pl/node/1885">
+      <text>Destne, Zakouti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Zakoutim - Destne, Zakouti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3118827,16.3748109;50.30528421964891,16.375229349999994;50.2997951,16.3735127">
+    <text>Nad Zakoutim - Destne, Zakouti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3118827" lon="16.3748109">
+      <ele>767</ele>
+      <time>2022-01-17T21:18:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3115007" lon="16.3747949">
+      <ele>764</ele>
+      <time>2022-01-17T21:19:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3103925" lon="16.3746607">
+      <ele>760</ele>
+      <time>2022-01-17T21:20:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3091591" lon="16.3750631">
+      <ele>747</ele>
+      <time>2022-01-17T21:23:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3066513" lon="16.3755512">
+      <ele>731</ele>
+      <time>2022-01-17T21:27:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3039171" lon="16.3749075">
+      <ele>710</ele>
+      <time>2022-01-17T21:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3027453" lon="16.3747787">
+      <ele>708</ele>
+      <time>2022-01-17T21:33:32Z</time>
+    </trkpt>
+    <trkpt lat="50.3021217" lon="16.3745856">
+      <ele>705</ele>
+      <time>2022-01-17T21:34:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3000769" lon="16.3737595">
+      <ele>692</ele>
+      <time>2022-01-17T21:38:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2997951" lon="16.3735127">
+      <ele>689</ele>
+      <time>2022-01-17T21:38:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

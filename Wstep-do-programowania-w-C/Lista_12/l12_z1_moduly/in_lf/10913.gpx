@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:02Z</time>
+    <bounds maxlat="50.1630649" maxlon="16.2744641" minlat="50.1623157" minlon="16.2740725"/>
+  </metadata>
+  <wpt lat="50.162316" lon="16.274072">
+    <ele>322</ele>
+    <name>Rychnov nad Kneznou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7683">
+      <text>Rychnov nad Kneznou, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.163065" lon="16.274464">
+    <ele>324</ele>
+    <name>Rychnov nad Kneznou</name>
+    <link href="https://mapa-turystyczna.pl/node/7671">
+      <text>Rychnov nad Kneznou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rychnov nad Kneznou, rozc. - Rychnov nad Kneznou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1623157,16.2740725;50.16276765092426,16.27435145;50.1630649,16.2744641">
+    <text>Rychnov nad Kneznou, rozc. - Rychnov nad Kneznou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1623157" lon="16.2740725">
+      <ele>322</ele>
+      <time>2022-01-17T23:25:02Z</time>
+    </trkpt>
+    <trkpt lat="50.1624704" lon="16.2742388">
+      <ele>323</ele>
+      <time>2022-01-17T23:25:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1630649" lon="16.2744641">
+      <ele>324</ele>
+      <time>2022-01-17T23:27:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

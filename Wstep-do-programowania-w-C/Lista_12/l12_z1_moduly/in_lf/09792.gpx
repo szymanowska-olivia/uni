@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:16Z</time>
+    <bounds maxlat="50.0892475" maxlon="16.7113853" minlat="50.0890376" minlon="16.7086118"/>
+  </metadata>
+  <wpt lat="50.089038" lon="16.708612">
+    <ele>535</ele>
+    <name>Dolni Borikovice, odbocka k CZ/PL</name>
+    <link href="https://mapa-turystyczna.pl/node/6879">
+      <text>Dolni Borikovice, odbocka k CZ/PL</text>
+    </link>
+  </wpt>
+  <wpt lat="50.089247" lon="16.711385">
+    <ele>539</ele>
+    <name>Dolni Borikovice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6880">
+      <text>Dolni Borikovice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolni Borikovice, odbocka k CZ/PL - Dolni Borikovice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0890376,16.7086118;50.08914255011493,16.709998549999998;50.0892475,16.7113853">
+    <text>Dolni Borikovice, odbocka k CZ/PL - Dolni Borikovice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0890376" lon="16.7086118">
+      <ele>535</ele>
+      <time>2022-01-17T23:04:16Z</time>
+    </trkpt>
+    <trkpt lat="50.0892475" lon="16.7113853">
+      <ele>539</ele>
+      <time>2022-01-17T23:07:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

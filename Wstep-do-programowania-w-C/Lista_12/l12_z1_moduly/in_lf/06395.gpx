@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:25Z</time>
+    <bounds maxlat="50.5276184" maxlon="19.5080655" minlat="50.5267557" minlon="19.4985491"/>
+  </metadata>
+  <wpt lat="50.526756" lon="19.508066">
+    <ele>394</ele>
+    <name>Zawiercie, Skarzyce</name>
+    <link href="https://mapa-turystyczna.pl/node/4455">
+      <text>Zawiercie, Skarzyce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.527618" lon="19.498549">
+    <ele>390</ele>
+    <name>Zawiercie, Skarzyce, ul. Andrzeja Kmicica</name>
+    <link href="https://mapa-turystyczna.pl/node/4462">
+      <text>Zawiercie, Skarzyce, ul. Andrzeja Kmicica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawiercie, Skarzyce - Zawiercie, Skarzyce, ul. Andrzeja Kmicica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5267557,19.5080655;50.527187051971616,19.503307299999996;50.5276184,19.4985491">
+    <text>Zawiercie, Skarzyce - Zawiercie, Skarzyce, ul. Andrzeja Kmicica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5267557" lon="19.5080655">
+      <ele>394</ele>
+      <time>2022-01-17T22:06:25Z</time>
+    </trkpt>
+    <trkpt lat="50.5276184" lon="19.4985491">
+      <ele>390</ele>
+      <time>2022-01-17T22:16:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

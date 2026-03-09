@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:59Z</time>
+    <bounds maxlat="50.4280373" maxlon="18.8598771" minlat="50.4270168" minlon="18.8594547"/>
+  </metadata>
+  <wpt lat="50.428037" lon="18.859455">
+    <ele>294</ele>
+    <name>Tarnowskie Gory, ul. Parkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12523">
+      <text>Tarnowskie Gory, ul. Parkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.427017" lon="18.859877">
+    <ele>295</ele>
+    <name>Park Kunszt</name>
+    <link href="https://mapa-turystyczna.pl/node/12524">
+      <text>Park Kunszt</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, ul. Parkowa - Park Kunszt</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4280373,18.8594547;50.42742780031091,18.859514799999996;50.4270168,18.8598771">
+    <text>Tarnowskie Gory, ul. Parkowa - Park Kunszt</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4280373" lon="18.8594547">
+      <ele>294</ele>
+      <time>2022-01-18T01:31:59Z</time>
+    </trkpt>
+    <trkpt lat="50.4275994" lon="18.8595254">
+      <ele>294</ele>
+      <time>2022-01-18T01:32:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4272562" lon="18.8595042">
+      <ele>292</ele>
+      <time>2022-01-18T01:33:22Z</time>
+    </trkpt>
+    <trkpt lat="50.427208" lon="18.859533">
+      <ele>292</ele>
+      <time>2022-01-18T01:33:28Z</time>
+    </trkpt>
+    <trkpt lat="50.4271462" lon="18.8596162">
+      <ele>293</ele>
+      <time>2022-01-18T01:33:36Z</time>
+    </trkpt>
+    <trkpt lat="50.4270845" lon="18.8597245">
+      <ele>294</ele>
+      <time>2022-01-18T01:33:46Z</time>
+    </trkpt>
+    <trkpt lat="50.4270168" lon="18.8598771">
+      <ele>295</ele>
+      <time>2022-01-18T01:33:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

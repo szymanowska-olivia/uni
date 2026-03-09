@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:28Z</time>
+    <bounds maxlat="52.4198913" maxlon="21.0319916" minlat="52.4183144" minlon="21.0274211"/>
+  </metadata>
+  <wpt lat="52.418314" lon="21.027421">
+    <ele>86</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11409">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.419891" lon="21.031992">
+    <ele>82</ele>
+    <name>Nieporet, Plac Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/11410">
+      <text>Nieporet, Plac Wolnosci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Nieporet, Plac Wolnosci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4183144,21.0274211;52.4190979008563,21.02908775000002;52.4198913,21.0319916">
+    <text>Rozejscie szlakow zolty / czarny - Nieporet, Plac Wolnosci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4183144" lon="21.0274211">
+      <ele>86</ele>
+      <time>2022-01-18T01:01:28Z</time>
+    </trkpt>
+    <trkpt lat="52.4186072" lon="21.0277359">
+      <ele>85</ele>
+      <time>2022-01-18T01:02:00Z</time>
+    </trkpt>
+    <trkpt lat="52.4188231" lon="21.0282509">
+      <ele>83</ele>
+      <time>2022-01-18T01:02:35Z</time>
+    </trkpt>
+    <trkpt lat="52.4193727" lon="21.0299246">
+      <ele>85</ele>
+      <time>2022-01-18T01:04:22Z</time>
+    </trkpt>
+    <trkpt lat="52.419632" lon="21.0309045">
+      <ele>84</ele>
+      <time>2022-01-18T01:05:22Z</time>
+    </trkpt>
+    <trkpt lat="52.4198913" lon="21.0319916">
+      <ele>82</ele>
+      <time>2022-01-18T01:06:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:32:19Z</time>
+    <bounds maxlat="52.2751682" maxlon="16.8135624" minlat="52.2741322" minlon="16.8134064"/>
+  </metadata>
+  <wpt lat="52.274132" lon="16.813544">
+    <ele>103</ele>
+    <name>Glaz Lesnikow</name>
+    <link href="https://mapa-turystyczna.pl/node/10250">
+      <text>Glaz Lesnikow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.275168" lon="16.813562">
+    <ele>96</ele>
+    <name>Glaz Lesnikow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10251">
+      <text>Glaz Lesnikow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Glaz Lesnikow - Glaz Lesnikow, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2741322,16.8135437;52.27461705067463,16.813476149999982;52.2751682,16.8135624">
+    <text>Glaz Lesnikow - Glaz Lesnikow, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2741322" lon="16.8135437">
+      <ele>103</ele>
+      <time>2022-01-18T00:32:19Z</time>
+    </trkpt>
+    <trkpt lat="52.2741361" lon="16.8135513">
+      <ele>103</ele>
+      <time>2022-01-18T00:32:20Z</time>
+    </trkpt>
+    <trkpt lat="52.2743725" lon="16.8135459">
+      <ele>102</ele>
+      <time>2022-01-18T00:32:46Z</time>
+    </trkpt>
+    <trkpt lat="52.2748616" lon="16.8134064">
+      <ele>99</ele>
+      <time>2022-01-18T00:33:42Z</time>
+    </trkpt>
+    <trkpt lat="52.2750224" lon="16.8134279">
+      <ele>97</ele>
+      <time>2022-01-18T00:34:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2751682" lon="16.8135624">
+      <ele>96</ele>
+      <time>2022-01-18T00:34:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

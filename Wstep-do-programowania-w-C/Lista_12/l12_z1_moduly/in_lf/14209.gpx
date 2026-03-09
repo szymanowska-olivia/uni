@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:18:26Z</time>
+    <bounds maxlat="50.422136" maxlon="18.8163244" minlat="50.4217687" minlon="18.8152244"/>
+  </metadata>
+  <wpt lat="50.422136" lon="18.815224">
+    <ele>287</ele>
+    <name>Repty, krzyz</name>
+    <link href="https://mapa-turystyczna.pl/node/9695">
+      <text>Repty, krzyz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.421769" lon="18.816324">
+    <ele>285</ele>
+    <name>Repty, ul. Brzozowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9694">
+      <text>Repty, ul. Brzozowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Repty, krzyz - Repty, ul. Brzozowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.422136,18.8152244;50.421898200177026,18.815973299999996;50.4217687,18.8163244">
+    <text>Repty, krzyz - Repty, ul. Brzozowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.422136" lon="18.8152244">
+      <ele>287</ele>
+      <time>2022-01-18T00:18:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4220892" lon="18.8154452">
+      <ele>286</ele>
+      <time>2022-01-18T00:18:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4220277" lon="18.8156222">
+      <ele>286</ele>
+      <time>2022-01-18T00:18:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4217687" lon="18.8163244">
+      <ele>285</ele>
+      <time>2022-01-18T00:19:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

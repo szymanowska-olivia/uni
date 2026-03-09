@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:57Z</time>
+    <bounds maxlat="52.2398233" maxlon="21.1574121" minlat="52.2365282" minlon="21.1560929"/>
+  </metadata>
+  <wpt lat="52.239823" lon="21.156093">
+    <ele>89</ele>
+    <name>Marysin Wawerski</name>
+    <link href="https://mapa-turystyczna.pl/node/11528">
+      <text>Marysin Wawerski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.236528" lon="21.157412">
+    <ele>95</ele>
+    <name>Rezerwat im. Krola Jana Sobieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11525">
+      <text>Rezerwat im. Krola Jana Sobieskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Marysin Wawerski - Rezerwat im. Krola Jana Sobieskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2398233,21.1560929;52.237436459293136,21.157053149999996;52.2365282,21.1574121">
+    <text>Marysin Wawerski - Rezerwat im. Krola Jana Sobieskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2398233" lon="21.1560929">
+      <ele>89</ele>
+      <time>2022-01-18T01:03:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2396717" lon="21.156182">
+      <ele>89</ele>
+      <time>2022-01-18T01:04:11Z</time>
+    </trkpt>
+    <trkpt lat="52.2389392" lon="21.156481">
+      <ele>90</ele>
+      <time>2022-01-18T01:05:18Z</time>
+    </trkpt>
+    <trkpt lat="52.2383447" lon="21.1566942">
+      <ele>93</ele>
+      <time>2022-01-18T01:06:12Z</time>
+    </trkpt>
+    <trkpt lat="52.2365282" lon="21.1574121">
+      <ele>95</ele>
+      <time>2022-01-18T01:08:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

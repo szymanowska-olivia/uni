@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:46Z</time>
+    <bounds maxlat="50.1444281" maxlon="18.5484164" minlat="50.1443617" minlon="18.5440295"/>
+  </metadata>
+  <wpt lat="50.144428" lon="18.54403">
+    <ele>253</ele>
+    <name>Golejow, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/9640">
+      <text>Golejow, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.144364" lon="18.548416">
+    <ele>244</ele>
+    <name>Golejow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/9641">
+      <text>Golejow, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Golejow, kosciol - Golejow, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1444281,18.5440295;50.14437430000165,18.54627514999998;50.144364,18.5484164">
+    <text>Golejow, kosciol - Golejow, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1444281" lon="18.5440295">
+      <ele>253</ele>
+      <time>2022-01-18T00:16:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1443617" lon="18.545472">
+      <ele>243</ele>
+      <time>2022-01-18T00:18:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1443869" lon="18.5470783">
+      <ele>242</ele>
+      <time>2022-01-18T00:20:15Z</time>
+    </trkpt>
+    <trkpt lat="50.1443892" lon="18.5479244">
+      <ele>243</ele>
+      <time>2022-01-18T00:21:12Z</time>
+    </trkpt>
+    <trkpt lat="50.144364" lon="18.5484164">
+      <ele>244</ele>
+      <time>2022-01-18T00:21:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

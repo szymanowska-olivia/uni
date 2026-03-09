@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:24:34Z</time>
+    <bounds maxlat="50.7302385" maxlon="17.0383465" minlat="50.7299837" minlon="17.0373164"/>
+  </metadata>
+  <wpt lat="50.730238" lon="17.037316">
+    <ele>190</ele>
+    <name>Bialy Kosciol, ul. Akacjowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12287">
+      <text>Bialy Kosciol, ul. Akacjowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.729984" lon="17.038346">
+    <ele>191</ele>
+    <name>Bialy Kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/2877">
+      <text>Bialy Kosciol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bialy Kosciol, ul. Akacjowa - Bialy Kosciol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7302385,17.0373164;50.73006350006797,17.038048799999988;50.7299837,17.0383465">
+    <text>Bialy Kosciol, ul. Akacjowa - Bialy Kosciol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7302385" lon="17.0373164">
+      <ele>190</ele>
+      <time>2022-01-18T01:24:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7301433" lon="17.0377511">
+      <ele>192</ele>
+      <time>2022-01-18T01:24:59Z</time>
+    </trkpt>
+    <trkpt lat="50.7299837" lon="17.0383465">
+      <ele>191</ele>
+      <time>2022-01-18T01:25:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

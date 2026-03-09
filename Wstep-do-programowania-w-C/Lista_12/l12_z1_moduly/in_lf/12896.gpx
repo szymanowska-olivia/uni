@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:58:23Z</time>
+    <bounds maxlat="50.7498219" maxlon="15.2442958" minlat="50.7469606" minlon="15.2433732"/>
+  </metadata>
+  <wpt lat="50.749822" lon="15.243373">
+    <ele>683</ele>
+    <name>Zahori, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8874">
+      <text>Zahori, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.746961" lon="15.244296">
+    <ele>658</ele>
+    <name>Zahori</name>
+    <link href="https://mapa-turystyczna.pl/node/8875">
+      <text>Zahori</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zahori, rozc. - Zahori</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7498219,15.2433732;50.7483591511698,15.243628300000006;50.7469606,15.2442958">
+    <text>Zahori, rozc. - Zahori</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7498219" lon="15.2433732">
+      <ele>683</ele>
+      <time>2022-01-17T23:58:23Z</time>
+    </trkpt>
+    <trkpt lat="50.749111" lon="15.2434476">
+      <ele>671</ele>
+      <time>2022-01-17T23:59:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7486901" lon="15.2435978">
+      <ele>668</ele>
+      <time>2022-01-18T00:00:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7480282" lon="15.2436588">
+      <ele>663</ele>
+      <time>2022-01-18T00:01:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7472509" lon="15.2440343">
+      <ele>660</ele>
+      <time>2022-01-18T00:02:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7470303" lon="15.2441898">
+      <ele>659</ele>
+      <time>2022-01-18T00:03:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7469606" lon="15.2442958">
+      <ele>658</ele>
+      <time>2022-01-18T00:03:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:50Z</time>
+    <bounds maxlat="50.6643018" maxlon="16.4728242" minlat="50.6621119" minlon="16.4658719"/>
+  </metadata>
+  <wpt lat="50.662112" lon="16.465872">
+    <ele>754</ele>
+    <name>Przelecz Sokola</name>
+    <link href="https://mapa-turystyczna.pl/node/2030">
+      <text>Przelecz Sokola</text>
+    </link>
+  </wpt>
+  <wpt lat="50.664302" lon="16.472824">
+    <ele>875</ele>
+    <name>Schronisko Orzel</name>
+    <link href="https://mapa-turystyczna.pl/node/2036">
+      <text>Schronisko Orzel</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Sokola - Schronisko Orzel</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6621119,16.4658719;50.66310315054459,16.470358599999997;50.6643018,16.4728242">
+    <text>Przelecz Sokola - Schronisko Orzel</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6621119" lon="16.4658719">
+      <ele>754</ele>
+      <time>2022-01-17T21:21:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6626081" lon="16.4680942">
+      <ele>786</ele>
+      <time>2022-01-17T21:27:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6627645" lon="16.4691241">
+      <ele>803</ele>
+      <time>2022-01-17T21:30:26Z</time>
+    </trkpt>
+    <trkpt lat="50.662877" lon="16.4694634">
+      <ele>812</ele>
+      <time>2022-01-17T21:31:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6633293" lon="16.4712538">
+      <ele>841</ele>
+      <time>2022-01-17T21:36:17Z</time>
+    </trkpt>
+    <trkpt lat="50.6643018" lon="16.4728242">
+      <ele>875</ele>
+      <time>2022-01-17T21:41:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

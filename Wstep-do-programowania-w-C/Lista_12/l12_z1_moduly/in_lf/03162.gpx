@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:25:57Z</time>
+    <bounds maxlat="50.9139857" maxlon="15.3758383" minlat="50.9083641" minlon="15.3678131"/>
+  </metadata>
+  <wpt lat="50.913986" lon="15.367813">
+    <ele>721</ele>
+    <name>Pod Sepia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2256">
+      <text>Pod Sepia Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="50.908364" lon="15.375828">
+    <ele>771</ele>
+    <name>Pod Sepia Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/2255">
+      <text>Pod Sepia Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Sepia Gora - Pod Sepia Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9139857,15.3678131;50.9111783503584,15.372496249999998;50.9083641,15.3758276">
+    <text>Pod Sepia Gora - Pod Sepia Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9139857" lon="15.3678131">
+      <ele>721</ele>
+      <time>2022-01-17T21:25:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9134005" lon="15.3679687">
+      <ele>726</ele>
+      <time>2022-01-17T21:27:26Z</time>
+    </trkpt>
+    <trkpt lat="50.9129778" lon="15.3685534">
+      <ele>726</ele>
+      <time>2022-01-17T21:28:50Z</time>
+    </trkpt>
+    <trkpt lat="50.911361" lon="15.3718364">
+      <ele>746</ele>
+      <time>2022-01-17T21:35:23Z</time>
+    </trkpt>
+    <trkpt lat="50.9109957" lon="15.3731561">
+      <ele>755</ele>
+      <time>2022-01-17T21:37:39Z</time>
+    </trkpt>
+    <trkpt lat="50.9106642" lon="15.3740358">
+      <ele>754</ele>
+      <time>2022-01-17T21:39:15Z</time>
+    </trkpt>
+    <trkpt lat="50.9097036" lon="15.375452">
+      <ele>764</ele>
+      <time>2022-01-17T21:42:32Z</time>
+    </trkpt>
+    <trkpt lat="50.9088783" lon="15.3758383">
+      <ele>768</ele>
+      <time>2022-01-17T21:44:40Z</time>
+    </trkpt>
+    <trkpt lat="50.9083641" lon="15.3758276">
+      <ele>771</ele>
+      <time>2022-01-17T21:45:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

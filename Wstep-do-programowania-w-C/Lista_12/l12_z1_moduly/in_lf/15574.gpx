@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:41:28Z</time>
+    <bounds maxlat="52.9924461" maxlon="16.9208949" minlat="52.9911319" minlon="16.9136791"/>
+  </metadata>
+  <wpt lat="52.991132" lon="16.913792">
+    <ele>71</ele>
+    <name>Chodziez</name>
+    <link href="https://mapa-turystyczna.pl/node/10621">
+      <text>Chodziez</text>
+    </link>
+  </wpt>
+  <wpt lat="52.992446" lon="16.920895">
+    <ele>63</ele>
+    <name>Chodziez, ul. Staszica</name>
+    <link href="https://mapa-turystyczna.pl/node/10622">
+      <text>Chodziez, ul. Staszica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chodziez - Chodziez, ul. Staszica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.9911319,16.9137924;52.99233570005576,16.91830590000001;52.9924461,16.9208949">
+    <text>Chodziez - Chodziez, ul. Staszica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.9911319" lon="16.9137924">
+      <ele>71</ele>
+      <time>2022-01-18T00:41:28Z</time>
+    </trkpt>
+    <trkpt lat="52.9912847" lon="16.9136791">
+      <ele>70</ele>
+      <time>2022-01-18T00:41:49Z</time>
+    </trkpt>
+    <trkpt lat="52.9915042" lon="16.9145374">
+      <ele>70</ele>
+      <time>2022-01-18T00:42:59Z</time>
+    </trkpt>
+    <trkpt lat="52.991769" lon="16.9152509">
+      <ele>69</ele>
+      <time>2022-01-18T00:44:01Z</time>
+    </trkpt>
+    <trkpt lat="52.991924" lon="16.9154762">
+      <ele>69</ele>
+      <time>2022-01-18T00:44:27Z</time>
+    </trkpt>
+    <trkpt lat="52.992192" lon="16.9159912">
+      <ele>69</ele>
+      <time>2022-01-18T00:45:18Z</time>
+    </trkpt>
+    <trkpt lat="52.9922663" lon="16.9162111">
+      <ele>69</ele>
+      <time>2022-01-18T00:45:37Z</time>
+    </trkpt>
+    <trkpt lat="52.9924051" lon="16.9204007">
+      <ele>64</ele>
+      <time>2022-01-18T00:50:51Z</time>
+    </trkpt>
+    <trkpt lat="52.9924461" lon="16.9208949">
+      <ele>63</ele>
+      <time>2022-01-18T00:51:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

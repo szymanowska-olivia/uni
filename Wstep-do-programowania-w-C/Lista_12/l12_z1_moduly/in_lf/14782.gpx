@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:27:58Z</time>
+    <bounds maxlat="51.3662939" maxlon="16.5845722" minlat="51.3619253" minlon="16.5808878"/>
+  </metadata>
+  <wpt lat="51.361925" lon="16.584572">
+    <ele>99</ele>
+    <name>Wrzosy</name>
+    <link href="https://mapa-turystyczna.pl/node/10063">
+      <text>Wrzosy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.366294" lon="16.580888">
+    <ele>103</ele>
+    <name>Studzianki</name>
+    <link href="https://mapa-turystyczna.pl/node/10087">
+      <text>Studzianki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wrzosy - Studzianki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3619253,16.5845722;51.363653701025626,16.582168800000016;51.3662939,16.5808878">
+    <text>Wrzosy - Studzianki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3619253" lon="16.5845722">
+      <ele>99</ele>
+      <time>2022-01-18T00:27:58Z</time>
+    </trkpt>
+    <trkpt lat="51.3620198" lon="16.5843723">
+      <ele>99</ele>
+      <time>2022-01-18T00:28:16Z</time>
+    </trkpt>
+    <trkpt lat="51.3621806" lon="16.5837071">
+      <ele>100</ele>
+      <time>2022-01-18T00:29:08Z</time>
+    </trkpt>
+    <trkpt lat="51.3622543" lon="16.5834925">
+      <ele>100</ele>
+      <time>2022-01-18T00:29:26Z</time>
+    </trkpt>
+    <trkpt lat="51.3624955" lon="16.5831277">
+      <ele>101</ele>
+      <time>2022-01-18T00:30:04Z</time>
+    </trkpt>
+    <trkpt lat="51.3628008" lon="16.5828025">
+      <ele>103</ele>
+      <time>2022-01-18T00:30:47Z</time>
+    </trkpt>
+    <trkpt lat="51.3633472" lon="16.5823485">
+      <ele>102</ele>
+      <time>2022-01-18T00:31:59Z</time>
+    </trkpt>
+    <trkpt lat="51.3639602" lon="16.5819891">
+      <ele>107</ele>
+      <time>2022-01-18T00:33:15Z</time>
+    </trkpt>
+    <trkpt lat="51.3645731" lon="16.5817155">
+      <ele>107</ele>
+      <time>2022-01-18T00:34:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3650196" lon="16.5815975">
+      <ele>109</ele>
+      <time>2022-01-18T00:35:21Z</time>
+    </trkpt>
+    <trkpt lat="51.3662939" lon="16.5808878">
+      <ele>103</ele>
+      <time>2022-01-18T00:37:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

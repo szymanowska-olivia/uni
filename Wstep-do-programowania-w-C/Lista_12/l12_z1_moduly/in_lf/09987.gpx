@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:02Z</time>
+    <bounds maxlat="48.8905433" maxlon="20.3447109" minlat="48.889919" minlon="20.3436166"/>
+  </metadata>
+  <wpt lat="48.890543" lon="20.343617">
+    <ele>1129</ele>
+    <name>Pod Havranovou</name>
+    <link href="https://mapa-turystyczna.pl/node/7032">
+      <text>Pod Havranovou</text>
+    </link>
+  </wpt>
+  <wpt lat="48.889919" lon="20.344454">
+    <ele>1153</ele>
+    <name>Havrania skala</name>
+    <link href="https://mapa-turystyczna.pl/node/6942">
+      <text>Havrania skala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Havranovou - Havrania skala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8905433,20.3436166;48.89041280017029,20.3441316;48.889919,20.3444535">
+    <text>Pod Havranovou - Havrania skala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8905433" lon="20.3436166">
+      <ele>1129</ele>
+      <time>2022-01-17T23:08:02Z</time>
+    </trkpt>
+    <trkpt lat="48.8902823" lon="20.3446466">
+      <ele>1140</ele>
+      <time>2022-01-17T23:10:51Z</time>
+    </trkpt>
+    <trkpt lat="48.8899261" lon="20.3447109">
+      <ele>1140</ele>
+      <time>2022-01-17T23:12:14Z</time>
+    </trkpt>
+    <trkpt lat="48.889919" lon="20.3444535">
+      <ele>1153</ele>
+      <time>2022-01-17T23:13:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

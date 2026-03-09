@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:01Z</time>
+    <bounds maxlat="50.3673074" maxlon="19.510501" minlat="50.366807" minlon="19.5073038"/>
+  </metadata>
+  <wpt lat="50.367283" lon="19.510501">
+    <ele>316</ele>
+    <name>Chechlo</name>
+    <link href="https://mapa-turystyczna.pl/node/4437">
+      <text>Chechlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.366807" lon="19.507304">
+    <ele>318</ele>
+    <name>Chechlo, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4438">
+      <text>Chechlo, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chechlo - Chechlo, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3672826,19.510501;50.36728560000499,19.508926549999988;50.366807,19.5073038">
+    <text>Chechlo - Chechlo, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3672826" lon="19.510501">
+      <ele>316</ele>
+      <time>2022-01-17T22:06:01Z</time>
+    </trkpt>
+    <trkpt lat="50.3673074" lon="19.5092082">
+      <ele>317</ele>
+      <time>2022-01-17T22:07:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3672638" lon="19.5086449">
+      <ele>318</ele>
+      <time>2022-01-17T22:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.366807" lon="19.5073038">
+      <ele>318</ele>
+      <time>2022-01-17T22:11:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

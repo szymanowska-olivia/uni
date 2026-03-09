@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:12Z</time>
+    <bounds maxlat="50.7600014" maxlon="15.7685491" minlat="50.7583457" minlon="15.7611098"/>
+  </metadata>
+  <wpt lat="50.758426" lon="15.76111">
+    <ele>765</ele>
+    <name>Droga Urszuli</name>
+    <link href="https://mapa-turystyczna.pl/node/13251">
+      <text>Droga Urszuli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.760001" lon="15.768549">
+    <ele>726</ele>
+    <name>Karpacz, Szeroki Most</name>
+    <link href="https://mapa-turystyczna.pl/node/3925">
+      <text>Karpacz, Szeroki Most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Urszuli - Karpacz, Szeroki Most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7584256,15.7611098;50.75885305275018,15.76400064999997;50.7600014,15.7685491">
+    <text>Droga Urszuli - Karpacz, Szeroki Most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7584256" lon="15.7611098">
+      <ele>765</ele>
+      <time>2022-01-18T01:52:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7583457" lon="15.7631772">
+      <ele>776</ele>
+      <time>2022-01-18T01:54:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7593604" lon="15.7648241">
+      <ele>752</ele>
+      <time>2022-01-18T01:57:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7599452" lon="15.7666249">
+      <ele>739</ele>
+      <time>2022-01-18T01:59:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7599961" lon="15.7668395">
+      <ele>738</ele>
+      <time>2022-01-18T02:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7599893" lon="15.7671185">
+      <ele>737</ele>
+      <time>2022-01-18T02:00:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7599758" lon="15.7672687">
+      <ele>736</ele>
+      <time>2022-01-18T02:00:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7598706" lon="15.7676764">
+      <ele>738</ele>
+      <time>2022-01-18T02:01:06Z</time>
+    </trkpt>
+    <trkpt lat="50.7598536" lon="15.7679178">
+      <ele>737</ele>
+      <time>2022-01-18T02:01:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7600014" lon="15.7685491">
+      <ele>726</ele>
+      <time>2022-01-18T02:02:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

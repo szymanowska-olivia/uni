@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:24Z</time>
+    <bounds maxlat="49.244986" maxlon="19.71017" minlat="49.244524" minlon="19.708118"/>
+  </metadata>
+  <wpt lat="49.244986" lon="19.708118">
+    <ele>1018</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12688">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.244543" lon="19.71017">
+    <ele>1021</ele>
+    <name>Zverovka, razcestie</name>
+    <link href="https://mapa-turystyczna.pl/node/1496">
+      <text>Zverovka, razcestie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Zverovka, razcestie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.244986,19.708118;49.24462600000909,19.70898550000002;49.244543,19.71017">
+    <text>Rozejscie szlakow - Zverovka, razcestie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.244986" lon="19.708118">
+      <ele>1018</ele>
+      <time>2022-01-18T01:36:24Z</time>
+    </trkpt>
+    <trkpt lat="49.244771" lon="19.708551">
+      <ele>1016</ele>
+      <time>2022-01-18T01:37:37Z</time>
+    </trkpt>
+    <trkpt lat="49.244714" lon="19.708694">
+      <ele>1015</ele>
+      <time>2022-01-18T01:37:59Z</time>
+    </trkpt>
+    <trkpt lat="49.244656" lon="19.708866">
+      <ele>1015</ele>
+      <time>2022-01-18T01:38:25Z</time>
+    </trkpt>
+    <trkpt lat="49.244596" lon="19.709105">
+      <ele>1016</ele>
+      <time>2022-01-18T01:38:59Z</time>
+    </trkpt>
+    <trkpt lat="49.244553" lon="19.70934">
+      <ele>1017</ele>
+      <time>2022-01-18T01:39:32Z</time>
+    </trkpt>
+    <trkpt lat="49.244529" lon="19.709584">
+      <ele>1019</ele>
+      <time>2022-01-18T01:40:05Z</time>
+    </trkpt>
+    <trkpt lat="49.244524" lon="19.70984">
+      <ele>1020</ele>
+      <time>2022-01-18T01:40:40Z</time>
+    </trkpt>
+    <trkpt lat="49.244543" lon="19.71017">
+      <ele>1021</ele>
+      <time>2022-01-18T01:41:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

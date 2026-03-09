@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:06:48Z</time>
+    <bounds maxlat="50.6612601" maxlon="15.8590003" minlat="50.6575983" minlon="15.854457"/>
+  </metadata>
+  <wpt lat="50.66126" lon="15.859">
+    <ele>975</ele>
+    <name>Rychorsky kriz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9246">
+      <text>Rychorsky kriz, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.657598" lon="15.854457">
+    <ele>996</ele>
+    <name>Kutna</name>
+    <link href="https://mapa-turystyczna.pl/node/1190">
+      <text>Kutna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rychorsky kriz, rozc. - Kutna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6612601,15.8590003;50.65913720035342,15.857124499999994;50.6575983,15.854457">
+    <text>Rychorsky kriz, rozc. - Kutna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6612601" lon="15.8590003">
+      <ele>975</ele>
+      <time>2022-01-18T00:06:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6608269" lon="15.8587325">
+      <ele>982</ele>
+      <time>2022-01-18T00:07:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6601689" lon="15.8581692">
+      <ele>988</ele>
+      <time>2022-01-18T00:09:20Z</time>
+    </trkpt>
+    <trkpt lat="50.6594904" lon="15.8577668">
+      <ele>998</ele>
+      <time>2022-01-18T00:10:51Z</time>
+    </trkpt>
+    <trkpt lat="50.6593194" lon="15.8575791">
+      <ele>1001</ele>
+      <time>2022-01-18T00:11:18Z</time>
+    </trkpt>
+    <trkpt lat="50.658955" lon="15.8566699">
+      <ele>1000</ele>
+      <time>2022-01-18T00:12:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6586552" lon="15.8560932">
+      <ele>1000</ele>
+      <time>2022-01-18T00:13:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6582436" lon="15.855251">
+      <ele>996</ele>
+      <time>2022-01-18T00:15:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6579352" lon="15.8548994">
+      <ele>995</ele>
+      <time>2022-01-18T00:15:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6577068" lon="15.8545697">
+      <ele>996</ele>
+      <time>2022-01-18T00:16:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6575983" lon="15.854457">
+      <ele>996</ele>
+      <time>2022-01-18T00:16:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

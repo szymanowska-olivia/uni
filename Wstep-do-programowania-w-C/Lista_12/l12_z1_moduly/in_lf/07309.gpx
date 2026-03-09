@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:09Z</time>
+    <bounds maxlat="52.3249929" maxlon="20.8534884" minlat="52.3123093" minlon="20.8459166"/>
+  </metadata>
+  <wpt lat="52.324993" lon="20.853188">
+    <ele>88</ele>
+    <name>Kamien Ulanow Jazlowieckich</name>
+    <link href="https://mapa-turystyczna.pl/node/4985">
+      <text>Kamien Ulanow Jazlowieckich</text>
+    </link>
+  </wpt>
+  <wpt lat="52.312309" lon="20.853488">
+    <ele>88</ele>
+    <name>Pod Luzowa Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4978">
+      <text>Pod Luzowa Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Ulanow Jazlowieckich - Pod Luzowa Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3249929,20.853188;52.319780388755255,20.849195600000012;52.3123093,20.8534884">
+    <text>Kamien Ulanow Jazlowieckich - Pod Luzowa Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3249929" lon="20.853188">
+      <ele>88</ele>
+      <time>2022-01-17T22:21:09Z</time>
+    </trkpt>
+    <trkpt lat="52.322583" lon="20.8524746">
+      <ele>91</ele>
+      <time>2022-01-17T22:25:42Z</time>
+    </trkpt>
+    <trkpt lat="52.3169776" lon="20.8459166">
+      <ele>94</ele>
+      <time>2022-01-17T22:38:29Z</time>
+    </trkpt>
+    <trkpt lat="52.3164086" lon="20.8464181">
+      <ele>93</ele>
+      <time>2022-01-17T22:39:41Z</time>
+    </trkpt>
+    <trkpt lat="52.3159809" lon="20.8465761">
+      <ele>94</ele>
+      <time>2022-01-17T22:40:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3156581" lon="20.847249">
+      <ele>92</ele>
+      <time>2022-01-17T22:41:28Z</time>
+    </trkpt>
+    <trkpt lat="52.3149731" lon="20.848745">
+      <ele>94</ele>
+      <time>2022-01-17T22:43:36Z</time>
+    </trkpt>
+    <trkpt lat="52.3146816" lon="20.8499406">
+      <ele>92</ele>
+      <time>2022-01-17T22:45:03Z</time>
+    </trkpt>
+    <trkpt lat="52.3142328" lon="20.8508787">
+      <ele>92</ele>
+      <time>2022-01-17T22:46:24Z</time>
+    </trkpt>
+    <trkpt lat="52.3129357" lon="20.853129">
+      <ele>90</ele>
+      <time>2022-01-17T22:49:55Z</time>
+    </trkpt>
+    <trkpt lat="52.3123093" lon="20.8534884">
+      <ele>88</ele>
+      <time>2022-01-17T22:51:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

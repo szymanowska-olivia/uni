@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:56Z</time>
+    <bounds maxlat="50.3332617" maxlon="16.2750113" minlat="50.3301317" minlon="16.2730908"/>
+  </metadata>
+  <wpt lat="50.330132" lon="16.273091">
+    <ele>598</ele>
+    <name>Na Krahulci, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/5717">
+      <text>Na Krahulci, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.333262" lon="16.274925">
+    <ele>618</ele>
+    <name>Na Krahulci, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5715">
+      <text>Na Krahulci, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Krahulci, bus - Na Krahulci, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3301317,16.2730908;50.33176695309991,16.274501700000002;50.3332617,16.2749255">
+    <text>Na Krahulci, bus - Na Krahulci, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3301317" lon="16.2730908">
+      <ele>598</ele>
+      <time>2022-01-17T22:34:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3312242" lon="16.2739921">
+      <ele>604</ele>
+      <time>2022-01-17T22:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.3323097" lon="16.2750113">
+      <ele>613</ele>
+      <time>2022-01-17T22:42:10Z</time>
+    </trkpt>
+    <trkpt lat="50.332772" lon="16.2750006">
+      <ele>618</ele>
+      <time>2022-01-17T22:43:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3332617" lon="16.2749255">
+      <ele>618</ele>
+      <time>2022-01-17T22:44:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

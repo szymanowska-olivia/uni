@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:43Z</time>
+    <bounds maxlat="50.7624039" maxlon="16.2996442" minlat="50.7620388" minlon="16.299366"/>
+  </metadata>
+  <wpt lat="50.762039" lon="16.299644">
+    <ele>524</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11722">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.762404" lon="16.299366">
+    <ele>525</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11723">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki spacerowej - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7620388,16.2996442;50.762212950122006,16.29947034999997;50.7624039,16.299366">
+    <text>Odejscie sciezki spacerowej - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7620388" lon="16.2996442">
+      <ele>524</ele>
+      <time>2022-01-18T01:09:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7621061" lon="16.299532">
+      <ele>524</ele>
+      <time>2022-01-18T01:09:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7623198" lon="16.2994087">
+      <ele>524</ele>
+      <time>2022-01-18T01:10:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7624039" lon="16.299366">
+      <ele>525</ele>
+      <time>2022-01-18T01:10:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

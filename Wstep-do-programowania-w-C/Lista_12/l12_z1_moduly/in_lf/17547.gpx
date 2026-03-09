@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:11Z</time>
+    <bounds maxlat="52.1316357" maxlon="21.1279621" minlat="52.1312077" minlon="21.1250438"/>
+  </metadata>
+  <wpt lat="52.131636" lon="21.127962">
+    <ele>82</ele>
+    <name>Latoszki</name>
+    <link href="https://mapa-turystyczna.pl/node/11904">
+      <text>Latoszki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.131208" lon="21.125044">
+    <ele>83</ele>
+    <name>Latoszki, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11905">
+      <text>Latoszki, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Latoszki - Latoszki, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1316357,21.1279621;52.13142170051394,21.12650295;52.1312077,21.1250438">
+    <text>Latoszki - Latoszki, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1316357" lon="21.1279621">
+      <ele>82</ele>
+      <time>2022-01-18T01:15:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1312077" lon="21.1250438">
+      <ele>83</ele>
+      <time>2022-01-18T01:18:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

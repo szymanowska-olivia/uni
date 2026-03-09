@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:43Z</time>
+    <bounds maxlat="50.8422686" maxlon="16.296201" minlat="50.8420575" minlon="16.2958735"/>
+  </metadata>
+  <wpt lat="50.842269" lon="16.295873">
+    <ele>401</ele>
+    <name>Zamek Ksiaz, poczatek szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/2596">
+      <text>Zamek Ksiaz, poczatek szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.842058" lon="16.296201">
+    <ele>407</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11885">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Ksiaz, poczatek szlaku czarnego - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8422686,16.2958735;50.84216305011938,16.29603725000001;50.8420575,16.296201">
+    <text>Zamek Ksiaz, poczatek szlaku czarnego - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8422686" lon="16.2958735">
+      <ele>401</ele>
+      <time>2022-01-18T01:14:43Z</time>
+    </trkpt>
+    <trkpt lat="50.8420575" lon="16.296201">
+      <ele>407</ele>
+      <time>2022-01-18T01:15:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

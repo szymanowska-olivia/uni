@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:03Z</time>
+    <bounds maxlat="50.7373933" maxlon="15.3080815" minlat="50.736609" minlon="15.3080546"/>
+  </metadata>
+  <wpt lat="50.737393" lon="15.308055">
+    <ele>458</ele>
+    <name>Tanvald</name>
+    <link href="https://mapa-turystyczna.pl/node/8697">
+      <text>Tanvald</text>
+    </link>
+  </wpt>
+  <wpt lat="50.736609" lon="15.308082">
+    <ele>457</ele>
+    <name>Tanvald, infocentrum</name>
+    <link href="https://mapa-turystyczna.pl/node/8696">
+      <text>Tanvald, infocentrum</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tanvald - Tanvald, infocentrum</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7373933,15.3080546;50.73700115164178,15.308068050000001;50.736609,15.3080815">
+    <text>Tanvald - Tanvald, infocentrum</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7373933" lon="15.3080546">
+      <ele>458</ele>
+      <time>2022-01-17T23:54:03Z</time>
+    </trkpt>
+    <trkpt lat="50.736609" lon="15.3080815">
+      <ele>457</ele>
+      <time>2022-01-17T23:55:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

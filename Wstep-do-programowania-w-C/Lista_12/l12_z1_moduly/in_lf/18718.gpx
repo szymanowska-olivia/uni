@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:00Z</time>
+    <bounds maxlat="51.1104603" maxlon="20.7589136" minlat="51.1097807" minlon="20.7568323"/>
+  </metadata>
+  <wpt lat="51.11046" lon="20.756832">
+    <ele>268</ele>
+    <name>Blizyn</name>
+    <link href="https://mapa-turystyczna.pl/node/3201">
+      <text>Blizyn</text>
+    </link>
+  </wpt>
+  <wpt lat="51.109781" lon="20.758914">
+    <ele>267</ele>
+    <name>Blizyn, tory kolejowe</name>
+    <link href="https://mapa-turystyczna.pl/node/12675">
+      <text>Blizyn, tory kolejowe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Blizyn - Blizyn, tory kolejowe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1104603,20.7568323;51.11003300029455,20.7581616;51.1097807,20.7589136">
+    <text>Blizyn - Blizyn, tory kolejowe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1104603" lon="20.7568323">
+      <ele>268</ele>
+      <time>2022-01-18T01:36:00Z</time>
+    </trkpt>
+    <trkpt lat="51.110198" lon="20.7576493">
+      <ele>268</ele>
+      <time>2022-01-18T01:36:47Z</time>
+    </trkpt>
+    <trkpt lat="51.109868" lon="20.7586739">
+      <ele>267</ele>
+      <time>2022-01-18T01:37:46Z</time>
+    </trkpt>
+    <trkpt lat="51.1097807" lon="20.7589136">
+      <ele>267</ele>
+      <time>2022-01-18T01:38:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:09:19Z</time>
+    <bounds maxlat="50.8104527" maxlon="16.6426671" minlat="50.8102806" minlon="16.6408471"/>
+  </metadata>
+  <wpt lat="50.810453" lon="16.640847">
+    <ele>285</ele>
+    <name>Kielczyn, poczatek sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11712">
+      <text>Kielczyn, poczatek sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.810444" lon="16.642654">
+    <ele>278</ele>
+    <name>Kielczyn</name>
+    <link href="https://mapa-turystyczna.pl/node/8226">
+      <text>Kielczyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kielczyn, poczatek sciezki dydaktycznej - Kielczyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8104527,16.6408471;50.8103653000768,16.64185435000001;50.8104444,16.6426545">
+    <text>Kielczyn, poczatek sciezki dydaktycznej - Kielczyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8104527" lon="16.6408471">
+      <ele>285</ele>
+      <time>2022-01-18T01:09:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8102806" lon="16.6410416">
+      <ele>282</ele>
+      <time>2022-01-18T01:09:39Z</time>
+    </trkpt>
+    <trkpt lat="50.81045" lon="16.6426671">
+      <ele>278</ele>
+      <time>2022-01-18T01:11:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8104444" lon="16.6426545">
+      <ele>278</ele>
+      <time>2022-01-18T01:11:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

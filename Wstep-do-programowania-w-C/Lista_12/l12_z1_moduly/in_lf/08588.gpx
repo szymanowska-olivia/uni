@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:41:25Z</time>
+    <bounds maxlat="50.3428998" maxlon="16.1569619" minlat="50.3403697" minlon="16.1536092"/>
+  </metadata>
+  <wpt lat="50.3429" lon="16.153609">
+    <ele>317</ele>
+    <name>Nove Mesto nad Metuji, pod branou</name>
+    <link href="https://mapa-turystyczna.pl/node/5949">
+      <text>Nove Mesto nad Metuji, pod branou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.34037" lon="16.156962">
+    <ele>294</ele>
+    <name>Sepsky most</name>
+    <link href="https://mapa-turystyczna.pl/node/5975">
+      <text>Sepsky most</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nove Mesto nad Metuji, pod branou - Sepsky most</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3428998,16.1536092;50.341784050138145,16.155321900000015;50.3403697,16.1569619">
+    <text>Nove Mesto nad Metuji, pod branou - Sepsky most</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3428998" lon="16.1536092">
+      <ele>317</ele>
+      <time>2022-01-17T22:41:25Z</time>
+    </trkpt>
+    <trkpt lat="50.342661" lon="16.1541175">
+      <ele>311</ele>
+      <time>2022-01-17T22:42:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3421826" lon="16.1548189">
+      <ele>308</ele>
+      <time>2022-01-17T22:43:00Z</time>
+    </trkpt>
+    <trkpt lat="50.3418986" lon="16.1551256">
+      <ele>306</ele>
+      <time>2022-01-17T22:43:31Z</time>
+    </trkpt>
+    <trkpt lat="50.3416695" lon="16.1555182">
+      <ele>302</ele>
+      <time>2022-01-17T22:44:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3412043" lon="16.1561103">
+      <ele>298</ele>
+      <time>2022-01-17T22:44:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3403697" lon="16.1569619">
+      <ele>294</ele>
+      <time>2022-01-17T22:46:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

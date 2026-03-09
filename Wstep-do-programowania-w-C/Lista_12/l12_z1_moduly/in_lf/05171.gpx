@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:51:58Z</time>
+    <bounds maxlat="49.9094745" maxlon="21.0743898" minlat="49.9079199" minlon="21.069122"/>
+  </metadata>
+  <wpt lat="49.90792" lon="21.07439">
+    <ele>314</ele>
+    <name>Tuchow, Dzial</name>
+    <link href="https://mapa-turystyczna.pl/node/3636">
+      <text>Tuchow, Dzial</text>
+    </link>
+  </wpt>
+  <wpt lat="49.909475" lon="21.069122">
+    <ele>307</ele>
+    <name>Tuchow, cmentarz wojenny</name>
+    <link href="https://mapa-turystyczna.pl/node/3638">
+      <text>Tuchow, cmentarz wojenny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tuchow, Dzial - Tuchow, cmentarz wojenny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9079199,21.0743898;49.90828175016262,21.072197099999997;49.9094745,21.069122">
+    <text>Tuchow, Dzial - Tuchow, cmentarz wojenny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9079199" lon="21.0743898">
+      <ele>314</ele>
+      <time>2022-01-17T21:51:58Z</time>
+    </trkpt>
+    <trkpt lat="49.9081565" lon="21.0734859">
+      <ele>313</ele>
+      <time>2022-01-17T21:52:46Z</time>
+    </trkpt>
+    <trkpt lat="49.908407" lon="21.0709083">
+      <ele>308</ele>
+      <time>2022-01-17T21:54:54Z</time>
+    </trkpt>
+    <trkpt lat="49.9084895" lon="21.0709143">
+      <ele>307</ele>
+      <time>2022-01-17T21:55:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9085996" lon="21.0707916">
+      <ele>306</ele>
+      <time>2022-01-17T21:55:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9088475" lon="21.0702512">
+      <ele>302</ele>
+      <time>2022-01-17T21:55:43Z</time>
+    </trkpt>
+    <trkpt lat="49.9088984" lon="21.0700245">
+      <ele>303</ele>
+      <time>2022-01-17T21:55:55Z</time>
+    </trkpt>
+    <trkpt lat="49.909069" lon="21.0697181">
+      <ele>305</ele>
+      <time>2022-01-17T21:56:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9093132" lon="21.0694468">
+      <ele>306</ele>
+      <time>2022-01-17T21:56:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9094146" lon="21.0693112">
+      <ele>306</ele>
+      <time>2022-01-17T21:56:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9094745" lon="21.069122">
+      <ele>307</ele>
+      <time>2022-01-17T21:56:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

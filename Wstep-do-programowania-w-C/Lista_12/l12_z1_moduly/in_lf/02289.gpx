@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:14:21Z</time>
+    <bounds maxlat="49.7715517" maxlon="19.8813003" minlat="49.7674656" minlon="19.8736828"/>
+  </metadata>
+  <wpt lat="49.767466" lon="19.873683">
+    <ele>739</ele>
+    <name>Pod Gorylka</name>
+    <link href="https://mapa-turystyczna.pl/node/1655">
+      <text>Pod Gorylka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.771547" lon="19.8813">
+    <ele>751</ele>
+    <name>Koton Zachodni</name>
+    <link href="https://mapa-turystyczna.pl/node/1654">
+      <text>Koton Zachodni</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Gorylka - Koton Zachodni</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7674656,19.8736828;49.77006135025153,19.876657799999986;49.771547,19.8813003">
+    <text>Pod Gorylka - Koton Zachodni</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7674656" lon="19.8736828">
+      <ele>739</ele>
+      <time>2022-01-17T21:14:21Z</time>
+    </trkpt>
+    <trkpt lat="49.7680806" lon="19.874002">
+      <ele>738</ele>
+      <time>2022-01-17T21:15:47Z</time>
+    </trkpt>
+    <trkpt lat="49.7685834" lon="19.8745848">
+      <ele>738</ele>
+      <time>2022-01-17T21:17:10Z</time>
+    </trkpt>
+    <trkpt lat="49.7689407" lon="19.8747276">
+      <ele>739</ele>
+      <time>2022-01-17T21:17:59Z</time>
+    </trkpt>
+    <trkpt lat="49.7697524" lon="19.8759735">
+      <ele>740</ele>
+      <time>2022-01-17T21:20:31Z</time>
+    </trkpt>
+    <trkpt lat="49.7699052" lon="19.8763832">
+      <ele>738</ele>
+      <time>2022-01-17T21:21:11Z</time>
+    </trkpt>
+    <trkpt lat="49.7702175" lon="19.8769324">
+      <ele>740</ele>
+      <time>2022-01-17T21:22:14Z</time>
+    </trkpt>
+    <trkpt lat="49.7711329" lon="19.8786369">
+      <ele>749</ele>
+      <time>2022-01-17T21:25:24Z</time>
+    </trkpt>
+    <trkpt lat="49.7714768" lon="19.879982">
+      <ele>752</ele>
+      <time>2022-01-17T21:27:28Z</time>
+    </trkpt>
+    <trkpt lat="49.7715517" lon="19.8809979">
+      <ele>752</ele>
+      <time>2022-01-17T21:28:55Z</time>
+    </trkpt>
+    <trkpt lat="49.771547" lon="19.8813003">
+      <ele>751</ele>
+      <time>2022-01-17T21:29:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

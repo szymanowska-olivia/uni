@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:33Z</time>
+    <bounds maxlat="49.5294316" maxlon="18.0722576" minlat="49.5268323" minlon="18.0695057"/>
+  </metadata>
+  <wpt lat="49.529432" lon="18.069506">
+    <ele>403</ele>
+    <name>Morkov, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7573">
+      <text>Morkov, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.526832" lon="18.072258">
+    <ele>427</ele>
+    <name>Pod Hustynem</name>
+    <link href="https://mapa-turystyczna.pl/node/7574">
+      <text>Pod Hustynem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Morkov, zeleznicni stanice - Pod Hustynem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5294316,18.0695057;49.52797740114849,18.07145565000001;49.5268323,18.0722576">
+    <text>Morkov, zeleznicni stanice - Pod Hustynem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5294316" lon="18.0695057">
+      <ele>403</ele>
+      <time>2022-01-17T23:21:33Z</time>
+    </trkpt>
+    <trkpt lat="49.5290054" lon="18.0701146">
+      <ele>406</ele>
+      <time>2022-01-17T23:23:21Z</time>
+    </trkpt>
+    <trkpt lat="49.5288923" lon="18.070254">
+      <ele>407</ele>
+      <time>2022-01-17T23:23:48Z</time>
+    </trkpt>
+    <trkpt lat="49.5287948" lon="18.0703694">
+      <ele>407</ele>
+      <time>2022-01-17T23:24:11Z</time>
+    </trkpt>
+    <trkpt lat="49.528699" lon="18.0705008">
+      <ele>408</ele>
+      <time>2022-01-17T23:24:34Z</time>
+    </trkpt>
+    <trkpt lat="49.5286103" lon="18.0706537">
+      <ele>409</ele>
+      <time>2022-01-17T23:24:59Z</time>
+    </trkpt>
+    <trkpt lat="49.5284344" lon="18.0710721">
+      <ele>412</ele>
+      <time>2022-01-17T23:25:59Z</time>
+    </trkpt>
+    <trkpt lat="49.5284048" lon="18.0711418">
+      <ele>412</ele>
+      <time>2022-01-17T23:26:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5283125" lon="18.0712759">
+      <ele>414</ele>
+      <time>2022-01-17T23:26:33Z</time>
+    </trkpt>
+    <trkpt lat="49.5276423" lon="18.0716354">
+      <ele>420</ele>
+      <time>2022-01-17T23:28:45Z</time>
+    </trkpt>
+    <trkpt lat="49.5272523" lon="18.0719519">
+      <ele>423</ele>
+      <time>2022-01-17T23:30:07Z</time>
+    </trkpt>
+    <trkpt lat="49.5268323" lon="18.0722576">
+      <ele>427</ele>
+      <time>2022-01-17T23:31:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

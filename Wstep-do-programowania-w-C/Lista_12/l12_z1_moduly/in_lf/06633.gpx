@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:10:17Z</time>
+    <bounds maxlat="49.753218" maxlon="19.041852" minlat="49.752878" minlon="19.038247"/>
+  </metadata>
+  <wpt lat="49.753218" lon="19.041852">
+    <ele>624</ele>
+    <name>Bystra Krakowska, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4603">
+      <text>Bystra Krakowska, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.753106" lon="19.038247">
+    <ele>689</ele>
+    <name>Bystra Krakowska</name>
+    <link href="https://mapa-turystyczna.pl/node/727">
+      <text>Bystra Krakowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bystra Krakowska, skrzyzowanie szlakow - Bystra Krakowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.753218,19.041852;49.75288950000137,19.03977750000001;49.753106,19.038247">
+    <text>Bystra Krakowska, skrzyzowanie szlakow - Bystra Krakowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.753218" lon="19.041852">
+      <ele>624</ele>
+      <time>2022-01-17T22:10:17Z</time>
+    </trkpt>
+    <trkpt lat="49.753116" lon="19.041265">
+      <ele>638</ele>
+      <time>2022-01-17T22:11:56Z</time>
+    </trkpt>
+    <trkpt lat="49.753062" lon="19.040916">
+      <ele>644</ele>
+      <time>2022-01-17T22:12:54Z</time>
+    </trkpt>
+    <trkpt lat="49.753017" lon="19.040621">
+      <ele>649</ele>
+      <time>2022-01-17T22:13:43Z</time>
+    </trkpt>
+    <trkpt lat="49.752946" lon="19.04032">
+      <ele>654</ele>
+      <time>2022-01-17T22:14:34Z</time>
+    </trkpt>
+    <trkpt lat="49.752901" lon="19.040074">
+      <ele>658</ele>
+      <time>2022-01-17T22:15:15Z</time>
+    </trkpt>
+    <trkpt lat="49.752878" lon="19.039481">
+      <ele>668</ele>
+      <time>2022-01-17T22:16:49Z</time>
+    </trkpt>
+    <trkpt lat="49.752897" lon="19.039124">
+      <ele>674</ele>
+      <time>2022-01-17T22:17:46Z</time>
+    </trkpt>
+    <trkpt lat="49.752921" lon="19.03888">
+      <ele>679</ele>
+      <time>2022-01-17T22:18:26Z</time>
+    </trkpt>
+    <trkpt lat="49.753106" lon="19.038247">
+      <ele>689</ele>
+      <time>2022-01-17T22:20:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

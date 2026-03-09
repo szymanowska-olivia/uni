@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:14Z</time>
+    <bounds maxlat="50.4617198" maxlon="16.4181453" minlat="50.4613132" minlon="16.4177859"/>
+  </metadata>
+  <wpt lat="50.461313" lon="16.417786">
+    <ele>712</ele>
+    <name>Odejscie do skaly Zolw</name>
+    <link href="https://mapa-turystyczna.pl/node/12943">
+      <text>Odejscie do skaly Zolw</text>
+    </link>
+  </wpt>
+  <wpt lat="50.46172" lon="16.418145">
+    <ele>707</ele>
+    <name>Skala Zolw</name>
+    <link href="https://mapa-turystyczna.pl/node/12944">
+      <text>Skala Zolw</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do skaly Zolw - Skala Zolw</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4613132,16.4177859;50.461544000046885,16.41804875;50.4617198,16.4181453">
+    <text>Odejscie do skaly Zolw - Skala Zolw</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4613132" lon="16.4177859">
+      <ele>712</ele>
+      <time>2022-01-18T01:43:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4614774" lon="16.417979">
+      <ele>710</ele>
+      <time>2022-01-18T01:43:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4616106" lon="16.4181185">
+      <ele>709</ele>
+      <time>2022-01-18T01:44:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4617198" lon="16.4181453">
+      <ele>707</ele>
+      <time>2022-01-18T01:44:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

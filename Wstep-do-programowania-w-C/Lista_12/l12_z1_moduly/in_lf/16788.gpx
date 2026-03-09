@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:58Z</time>
+    <bounds maxlat="52.0981892" maxlon="20.9152684" minlat="52.0865692" minlon="20.9090301"/>
+  </metadata>
+  <wpt lat="52.086569" lon="20.911187">
+    <ele>128</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11479">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.098189" lon="20.910114">
+    <ele>124</ele>
+    <name>Magdalenka</name>
+    <link href="https://mapa-turystyczna.pl/node/11480">
+      <text>Magdalenka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Magdalenka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0865692,20.9111871;52.092992205679764,20.91290324999998;52.0981892,20.9101142">
+    <text>Rozejscie szlakow czerwony / czarny - Magdalenka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0865692" lon="20.9111871">
+      <ele>128</ele>
+      <time>2022-01-18T01:02:58Z</time>
+    </trkpt>
+    <trkpt lat="52.0886211" lon="20.9129831">
+      <ele>127</ele>
+      <time>2022-01-18T01:07:05Z</time>
+    </trkpt>
+    <trkpt lat="52.0919105" lon="20.9152684">
+      <ele>121</ele>
+      <time>2022-01-18T01:13:24Z</time>
+    </trkpt>
+    <trkpt lat="52.0921418" lon="20.9143731">
+      <ele>123</ele>
+      <time>2022-01-18T01:14:27Z</time>
+    </trkpt>
+    <trkpt lat="52.0922803" lon="20.9141156">
+      <ele>122</ele>
+      <time>2022-01-18T01:14:49Z</time>
+    </trkpt>
+    <trkpt lat="52.0937041" lon="20.9116909">
+      <ele>123</ele>
+      <time>2022-01-18T01:18:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0949367" lon="20.9090301">
+      <ele>126</ele>
+      <time>2022-01-18T01:22:05Z</time>
+    </trkpt>
+    <trkpt lat="52.0950751" lon="20.9090409">
+      <ele>125</ele>
+      <time>2022-01-18T01:22:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0968745" lon="20.9097383">
+      <ele>127</ele>
+      <time>2022-01-18T01:25:36Z</time>
+    </trkpt>
+    <trkpt lat="52.0970788" lon="20.9097061">
+      <ele>127</ele>
+      <time>2022-01-18T01:25:57Z</time>
+    </trkpt>
+    <trkpt lat="52.0981892" lon="20.9101142">
+      <ele>124</ele>
+      <time>2022-01-18T01:27:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

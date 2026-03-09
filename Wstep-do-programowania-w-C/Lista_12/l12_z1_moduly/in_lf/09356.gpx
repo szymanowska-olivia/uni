@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:55:57Z</time>
+    <bounds maxlat="48.9433444" maxlon="19.5912813" minlat="48.942985" minlon="19.5906642"/>
+  </metadata>
+  <wpt lat="48.943344" lon="19.590664">
+    <ele>1993</ele>
+    <name>Chopok, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6631">
+      <text>Chopok, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.942985" lon="19.591163">
+    <ele>1980</ele>
+    <name>Kamenna chata pod Chopkom</name>
+    <link href="https://mapa-turystyczna.pl/node/6697">
+      <text>Kamenna chata pod Chopkom</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chopok, razc. - Kamenna chata pod Chopkom</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9433444,19.5906642;48.94326160006869,19.590909650000004;48.942985,19.5911631">
+    <text>Chopok, razc. - Kamenna chata pod Chopkom</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9433444" lon="19.5906642">
+      <ele>1993</ele>
+      <time>2022-01-17T22:55:57Z</time>
+    </trkpt>
+    <trkpt lat="48.9431788" lon="19.5911551">
+      <ele>1985</ele>
+      <time>2022-01-17T22:56:32Z</time>
+    </trkpt>
+    <trkpt lat="48.9431095" lon="19.5912813">
+      <ele>1983</ele>
+      <time>2022-01-17T22:56:42Z</time>
+    </trkpt>
+    <trkpt lat="48.9430466" lon="19.5912476">
+      <ele>1982</ele>
+      <time>2022-01-17T22:56:49Z</time>
+    </trkpt>
+    <trkpt lat="48.942985" lon="19.5911631">
+      <ele>1980</ele>
+      <time>2022-01-17T22:56:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

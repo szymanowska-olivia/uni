@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:51Z</time>
+    <bounds maxlat="50.268288" maxlon="16.3251499" minlat="50.265026" minlon="16.3197076"/>
+  </metadata>
+  <wpt lat="50.265026" lon="16.319708">
+    <ele>612</ele>
+    <name>Myto</name>
+    <link href="https://mapa-turystyczna.pl/node/1930">
+      <text>Myto</text>
+    </link>
+  </wpt>
+  <wpt lat="50.268229" lon="16.32515">
+    <ele>579</ele>
+    <name>Nad Antoniinym udoli</name>
+    <link href="https://mapa-turystyczna.pl/node/1929">
+      <text>Nad Antoniinym udoli</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myto - Nad Antoniinym udoli</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.265026,16.3197076;50.26752880017254,16.321064350000015;50.2682287,16.3251499">
+    <text>Myto - Nad Antoniinym udoli</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.265026" lon="16.3197076">
+      <ele>612</ele>
+      <time>2022-01-17T21:18:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2651683" lon="16.3201267">
+      <ele>613</ele>
+      <time>2022-01-17T21:19:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2658456" lon="16.320814">
+      <ele>612</ele>
+      <time>2022-01-17T21:20:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2668014" lon="16.3207071">
+      <ele>605</ele>
+      <time>2022-01-17T21:22:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2674006" lon="16.3208791">
+      <ele>601</ele>
+      <time>2022-01-17T21:23:31Z</time>
+    </trkpt>
+    <trkpt lat="50.267657" lon="16.3212496">
+      <ele>600</ele>
+      <time>2022-01-17T21:24:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2676776" lon="16.3225002">
+      <ele>598</ele>
+      <time>2022-01-17T21:25:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2679188" lon="16.3229476">
+      <ele>598</ele>
+      <time>2022-01-17T21:26:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2680823" lon="16.3231439">
+      <ele>598</ele>
+      <time>2022-01-17T21:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.268288" lon="16.3241203">
+      <ele>594</ele>
+      <time>2022-01-17T21:27:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2682287" lon="16.3251499">
+      <ele>579</ele>
+      <time>2022-01-17T21:28:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

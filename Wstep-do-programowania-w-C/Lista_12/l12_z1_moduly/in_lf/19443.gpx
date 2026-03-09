@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:29Z</time>
+    <bounds maxlat="51.39965" maxlon="16.204547" minlat="51.3980228" minlon="16.2032791"/>
+  </metadata>
+  <wpt lat="51.398023" lon="16.204179">
+    <ele>129</ele>
+    <name>Lubin, Baszta Glogowska</name>
+    <link href="https://mapa-turystyczna.pl/node/10026">
+      <text>Lubin, Baszta Glogowska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.39965" lon="16.204547">
+    <ele>128</ele>
+    <name>Lubin, ul. Armii Krajowej</name>
+    <link href="https://mapa-turystyczna.pl/node/13128">
+      <text>Lubin, ul. Armii Krajowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, Baszta Glogowska - Lubin, ul. Armii Krajowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3980228,16.2041791;51.398878851481555,16.203633149999984;51.39965,16.204547">
+    <text>Lubin, Baszta Glogowska - Lubin, ul. Armii Krajowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3980228" lon="16.2041791">
+      <ele>129</ele>
+      <time>2022-01-18T01:48:29Z</time>
+    </trkpt>
+    <trkpt lat="51.39833" lon="16.203719">
+      <ele>128</ele>
+      <time>2022-01-18T01:49:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3984572" lon="16.2035151">
+      <ele>127</ele>
+      <time>2022-01-18T01:49:53Z</time>
+    </trkpt>
+    <trkpt lat="51.3985107" lon="16.2032791">
+      <ele>127</ele>
+      <time>2022-01-18T01:50:15Z</time>
+    </trkpt>
+    <trkpt lat="51.399247" lon="16.2039872">
+      <ele>131</ele>
+      <time>2022-01-18T01:52:15Z</time>
+    </trkpt>
+    <trkpt lat="51.39965" lon="16.204547">
+      <ele>128</ele>
+      <time>2022-01-18T01:53:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

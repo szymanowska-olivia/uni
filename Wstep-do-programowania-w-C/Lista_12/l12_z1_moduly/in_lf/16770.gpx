@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:38Z</time>
+    <bounds maxlat="52.0594757" maxlon="21.2493406" minlat="52.047062" minlon="21.2465154"/>
+  </metadata>
+  <wpt lat="52.059476" lon="21.249341">
+    <ele>91</ele>
+    <name>Otwock Maly</name>
+    <link href="https://mapa-turystyczna.pl/node/11460">
+      <text>Otwock Maly</text>
+    </link>
+  </wpt>
+  <wpt lat="52.047062" lon="21.246515">
+    <ele>89</ele>
+    <name>Otwock Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/11461">
+      <text>Otwock Wielki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock Maly - Otwock Wielki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0594757,21.2493406;52.053710609175994,21.24817280000002;52.047062,21.2465154">
+    <text>Otwock Maly - Otwock Wielki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0594757" lon="21.2493406">
+      <ele>91</ele>
+      <time>2022-01-18T01:02:38Z</time>
+    </trkpt>
+    <trkpt lat="52.0593626" lon="21.249184">
+      <ele>91</ele>
+      <time>2022-01-18T01:02:52Z</time>
+    </trkpt>
+    <trkpt lat="52.059257" lon="21.2491035">
+      <ele>92</ele>
+      <time>2022-01-18T01:03:03Z</time>
+    </trkpt>
+    <trkpt lat="52.0591152" lon="21.2490257">
+      <ele>92</ele>
+      <time>2022-01-18T01:03:18Z</time>
+    </trkpt>
+    <trkpt lat="52.0590129" lon="21.2489909">
+      <ele>92</ele>
+      <time>2022-01-18T01:03:28Z</time>
+    </trkpt>
+    <trkpt lat="52.0566777" lon="21.2486154">
+      <ele>93</ele>
+      <time>2022-01-18T01:07:11Z</time>
+    </trkpt>
+    <trkpt lat="52.0553385" lon="21.2484169">
+      <ele>95</ele>
+      <time>2022-01-18T01:09:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0546161" lon="21.2483257">
+      <ele>92</ele>
+      <time>2022-01-18T01:10:29Z</time>
+    </trkpt>
+    <trkpt lat="52.0528051" lon="21.2480199">
+      <ele>91</ele>
+      <time>2022-01-18T01:13:23Z</time>
+    </trkpt>
+    <trkpt lat="52.0519771" lon="21.2478965">
+      <ele>89</ele>
+      <time>2022-01-18T01:14:42Z</time>
+    </trkpt>
+    <trkpt lat="52.0508357" lon="21.2476444">
+      <ele>90</ele>
+      <time>2022-01-18T01:16:32Z</time>
+    </trkpt>
+    <trkpt lat="52.0495056" lon="21.2472282">
+      <ele>90</ele>
+      <time>2022-01-18T01:18:41Z</time>
+    </trkpt>
+    <trkpt lat="52.047062" lon="21.2465154">
+      <ele>89</ele>
+      <time>2022-01-18T01:22:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

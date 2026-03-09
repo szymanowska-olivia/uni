@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:54Z</time>
+    <bounds maxlat="49.7872697" maxlon="19.2579641" minlat="49.7859273" minlon="19.25677"/>
+  </metadata>
+  <wpt lat="49.785927" lon="19.257964">
+    <ele>729</ele>
+    <name>Pod Wielkim Cisownikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/3935">
+      <text>Pod Wielkim Cisownikiem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.78727" lon="19.25677">
+    <ele>693</ele>
+    <name>Przelecz Isepnicka</name>
+    <link href="https://mapa-turystyczna.pl/node/1043">
+      <text>Przelecz Isepnicka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wielkim Cisownikiem - Przelecz Isepnicka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7859273,19.2579641;49.7868441518692,19.25727679999998;49.7872697,19.25677">
+    <text>Pod Wielkim Cisownikiem - Przelecz Isepnicka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7859273" lon="19.2579641">
+      <ele>729</ele>
+      <time>2022-01-17T21:58:54Z</time>
+    </trkpt>
+    <trkpt lat="49.7861734" lon="19.2579174">
+      <ele>722</ele>
+      <time>2022-01-17T21:59:22Z</time>
+    </trkpt>
+    <trkpt lat="49.7864186" lon="19.2577836">
+      <ele>713</ele>
+      <time>2022-01-17T21:59:53Z</time>
+    </trkpt>
+    <trkpt lat="49.7872697" lon="19.25677">
+      <ele>693</ele>
+      <time>2022-01-17T22:01:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

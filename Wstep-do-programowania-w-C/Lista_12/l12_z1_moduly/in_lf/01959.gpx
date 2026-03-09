@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:52Z</time>
+    <bounds maxlat="50.7866494" maxlon="15.5142725" minlat="50.7828173" minlon="15.5111826"/>
+  </metadata>
+  <wpt lat="50.786649" lon="15.514273">
+    <ele>1290</ele>
+    <name>Svinske kameny CZ / PL</name>
+    <link href="https://mapa-turystyczna.pl/node/1213">
+      <text>Svinske kameny CZ / PL</text>
+    </link>
+  </wpt>
+  <wpt lat="50.782817" lon="15.511183">
+    <ele>1251</ele>
+    <name>Vosecka bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1429">
+      <text>Vosecka bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Svinske kameny CZ / PL - Vosecka bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7866494,15.5142725;50.785063065816985,15.513526750000008;50.7828173,15.5111826">
+    <text>Svinske kameny CZ / PL - Vosecka bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7866494" lon="15.5142725">
+      <ele>1290</ele>
+      <time>2022-01-17T21:08:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7862792" lon="15.5140471">
+      <ele>1289</ele>
+      <time>2022-01-17T21:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7838469" lon="15.5130064">
+      <ele>1277</ele>
+      <time>2022-01-17T21:12:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7837304" lon="15.5128562">
+      <ele>1275</ele>
+      <time>2022-01-17T21:12:17Z</time>
+    </trkpt>
+    <trkpt lat="50.7832074" lon="15.5117941">
+      <ele>1258</ele>
+      <time>2022-01-17T21:13:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7830056" lon="15.511381">
+      <ele>1253</ele>
+      <time>2022-01-17T21:13:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7828173" lon="15.5111826">
+      <ele>1251</ele>
+      <time>2022-01-17T21:13:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

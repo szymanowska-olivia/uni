@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:45Z</time>
+    <bounds maxlat="52.4411468" maxlon="20.6790746" minlat="52.4399452" minlon="20.6782855"/>
+  </metadata>
+  <wpt lat="52.441147" lon="20.678286">
+    <ele>109</ele>
+    <name>Pomnik Obroncow Modlina</name>
+    <link href="https://mapa-turystyczna.pl/node/12230">
+      <text>Pomnik Obroncow Modlina</text>
+    </link>
+  </wpt>
+  <wpt lat="52.439945" lon="20.678631">
+    <ele>104</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12224">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pomnik Obroncow Modlina - Rozejscie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4411468,20.6782855;52.440756650273876,20.67890290000002;52.4399452,20.6786309">
+    <text>Pomnik Obroncow Modlina - Rozejscie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4411468" lon="20.6782855">
+      <ele>109</ele>
+      <time>2022-01-18T01:22:45Z</time>
+    </trkpt>
+    <trkpt lat="52.4411409" lon="20.6784738">
+      <ele>110</ele>
+      <time>2022-01-18T01:22:59Z</time>
+    </trkpt>
+    <trkpt lat="52.4411114" lon="20.6785918">
+      <ele>111</ele>
+      <time>2022-01-18T01:23:08Z</time>
+    </trkpt>
+    <trkpt lat="52.4410624" lon="20.6786884">
+      <ele>111</ele>
+      <time>2022-01-18T01:23:17Z</time>
+    </trkpt>
+    <trkpt lat="52.4410035" lon="20.6787688">
+      <ele>112</ele>
+      <time>2022-01-18T01:23:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4409348" lon="20.6788064">
+      <ele>112</ele>
+      <time>2022-01-18T01:23:34Z</time>
+    </trkpt>
+    <trkpt lat="52.440912" lon="20.6788707">
+      <ele>112</ele>
+      <time>2022-01-18T01:23:40Z</time>
+    </trkpt>
+    <trkpt lat="52.4406013" lon="20.6789351">
+      <ele>110</ele>
+      <time>2022-01-18T01:24:17Z</time>
+    </trkpt>
+    <trkpt lat="52.4404967" lon="20.6790746">
+      <ele>109</ele>
+      <time>2022-01-18T01:24:32Z</time>
+    </trkpt>
+    <trkpt lat="52.4399452" lon="20.6786309">
+      <ele>104</ele>
+      <time>2022-01-18T01:25:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

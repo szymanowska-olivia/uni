@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:18:54Z</time>
+    <bounds maxlat="50.4266405" maxlon="16.2838626" minlat="50.425916" minlon="16.281352"/>
+  </metadata>
+  <wpt lat="50.42664" lon="16.283863">
+    <ele>426</ele>
+    <name>Danczow</name>
+    <link href="https://mapa-turystyczna.pl/node/1842">
+      <text>Danczow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.425916" lon="16.281352">
+    <ele>425</ele>
+    <name>Danczow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4875">
+      <text>Danczow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Danczow - Danczow, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4266405,16.2838626;50.42632590024978,16.282428150000005;50.425916,16.281352">
+    <text>Danczow - Danczow, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4266405" lon="16.2838626">
+      <ele>426</ele>
+      <time>2022-01-17T22:18:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4264797" lon="16.2829324">
+      <ele>425</ele>
+      <time>2022-01-17T22:19:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4261721" lon="16.2819239">
+      <ele>425</ele>
+      <time>2022-01-17T22:21:09Z</time>
+    </trkpt>
+    <trkpt lat="50.425916" lon="16.281352">
+      <ele>425</ele>
+      <time>2022-01-17T22:21:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

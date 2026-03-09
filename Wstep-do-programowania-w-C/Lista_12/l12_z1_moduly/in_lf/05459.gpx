@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:56:05Z</time>
+    <bounds maxlat="49.614201" maxlon="19.504218" minlat="49.611912" minlon="19.501626"/>
+  </metadata>
+  <wpt lat="49.614201" lon="19.504218">
+    <ele>695</ele>
+    <name>Zawoja, Czatoza</name>
+    <link href="https://mapa-turystyczna.pl/node/694">
+      <text>Zawoja, Czatoza</text>
+    </link>
+  </wpt>
+  <wpt lat="49.611912" lon="19.501626">
+    <ele>696</ele>
+    <name>Zawoja, Czatoza, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/3848">
+      <text>Zawoja, Czatoza, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawoja, Czatoza - Zawoja, Czatoza, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.614201,19.504218;49.61300900085683,19.50260850000001;49.611912,19.501626">
+    <text>Zawoja, Czatoza - Zawoja, Czatoza, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.614201" lon="19.504218">
+      <ele>695</ele>
+      <time>2022-01-17T21:56:05Z</time>
+    </trkpt>
+    <trkpt lat="49.614024" lon="19.503718">
+      <ele>694</ele>
+      <time>2022-01-17T21:56:43Z</time>
+    </trkpt>
+    <trkpt lat="49.613823" lon="19.503455">
+      <ele>693</ele>
+      <time>2022-01-17T21:57:11Z</time>
+    </trkpt>
+    <trkpt lat="49.613553" lon="19.503098">
+      <ele>692</ele>
+      <time>2022-01-17T21:57:48Z</time>
+    </trkpt>
+    <trkpt lat="49.613298" lon="19.502837">
+      <ele>696</ele>
+      <time>2022-01-17T21:58:19Z</time>
+    </trkpt>
+    <trkpt lat="49.61272" lon="19.50238">
+      <ele>697</ele>
+      <time>2022-01-17T21:59:27Z</time>
+    </trkpt>
+    <trkpt lat="49.612621" lon="19.502254">
+      <ele>696</ele>
+      <time>2022-01-17T21:59:40Z</time>
+    </trkpt>
+    <trkpt lat="49.612084" lon="19.501778">
+      <ele>696</ele>
+      <time>2022-01-17T22:00:44Z</time>
+    </trkpt>
+    <trkpt lat="49.611912" lon="19.501626">
+      <ele>696</ele>
+      <time>2022-01-17T22:01:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

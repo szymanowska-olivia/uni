@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:22Z</time>
+    <bounds maxlat="49.8411411" maxlon="19.801805" minlat="49.8407858" minlon="19.801465"/>
+  </metadata>
+  <wpt lat="49.841141" lon="19.801805">
+    <ele>287</ele>
+    <name>Sulkowice</name>
+    <link href="https://mapa-turystyczna.pl/node/1682">
+      <text>Sulkowice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.840786" lon="19.801465">
+    <ele>289</ele>
+    <name>Sulkowice, Urzad Miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/12534">
+      <text>Sulkowice, Urzad Miejski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulkowice - Sulkowice, Urzad Miejski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8411411,19.801805;49.84093635014733,19.80166885000001;49.8407858,19.801465">
+    <text>Sulkowice - Sulkowice, Urzad Miejski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8411411" lon="19.801805">
+      <ele>287</ele>
+      <time>2022-01-18T01:32:22Z</time>
+    </trkpt>
+    <trkpt lat="49.8410557" lon="19.8017815">
+      <ele>287</ele>
+      <time>2022-01-18T01:32:34Z</time>
+    </trkpt>
+    <trkpt lat="49.840817" lon="19.8015562">
+      <ele>289</ele>
+      <time>2022-01-18T01:33:13Z</time>
+    </trkpt>
+    <trkpt lat="49.8407858" lon="19.801465">
+      <ele>289</ele>
+      <time>2022-01-18T01:33:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

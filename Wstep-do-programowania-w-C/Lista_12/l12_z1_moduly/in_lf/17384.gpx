@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:32Z</time>
+    <bounds maxlat="49.650567" maxlon="20.322935" minlat="49.649842" minlon="20.320732"/>
+  </metadata>
+  <wpt lat="49.650567" lon="20.322935">
+    <ele>681</ele>
+    <name>Sciezka historyczna, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11817">
+      <text>Sciezka historyczna, lacznik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.649842" lon="20.320732">
+    <ele>680</ele>
+    <name>Sciezka historyczna, lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/11818">
+      <text>Sciezka historyczna, lacznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sciezka historyczna, lacznik - Sciezka historyczna, lacznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.650567,20.322935;49.650238000128866,20.321724500000027;49.649842,20.320732">
+    <text>Sciezka historyczna, lacznik - Sciezka historyczna, lacznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.650567" lon="20.322935">
+      <ele>681</ele>
+      <time>2022-01-18T01:12:32Z</time>
+    </trkpt>
+    <trkpt lat="49.650459" lon="20.322508">
+      <ele>682</ele>
+      <time>2022-01-18T01:13:05Z</time>
+    </trkpt>
+    <trkpt lat="49.65035" lon="20.322078">
+      <ele>682</ele>
+      <time>2022-01-18T01:13:39Z</time>
+    </trkpt>
+    <trkpt lat="49.650126" lon="20.321371">
+      <ele>680</ele>
+      <time>2022-01-18T01:14:36Z</time>
+    </trkpt>
+    <trkpt lat="49.649842" lon="20.320732">
+      <ele>680</ele>
+      <time>2022-01-18T01:15:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

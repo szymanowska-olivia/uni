@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:44:14Z</time>
+    <bounds maxlat="50.6718443" maxlon="17.1051059" minlat="50.664584" minlon="17.098605"/>
+  </metadata>
+  <wpt lat="50.671844" lon="17.105106">
+    <ele>261</ele>
+    <name>Droga do Ostreznej</name>
+    <link href="https://mapa-turystyczna.pl/node/8343">
+      <text>Droga do Ostreznej</text>
+    </link>
+  </wpt>
+  <wpt lat="50.664584" lon="17.098605">
+    <ele>242</ele>
+    <name>Nowina</name>
+    <link href="https://mapa-turystyczna.pl/node/2810">
+      <text>Nowina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga do Ostreznej - Nowina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6718443,17.1051059;50.668601004805076,17.10124814999999;50.664584,17.098605">
+    <text>Droga do Ostreznej - Nowina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6718443" lon="17.1051059">
+      <ele>261</ele>
+      <time>2022-01-17T23:44:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6718141" lon="17.1047848">
+      <ele>262</ele>
+      <time>2022-01-17T23:44:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6716084" lon="17.1039426">
+      <ele>260</ele>
+      <time>2022-01-17T23:45:34Z</time>
+    </trkpt>
+    <trkpt lat="50.6714944" lon="17.1035827">
+      <ele>258</ele>
+      <time>2022-01-17T23:46:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6712447" lon="17.1031594">
+      <ele>256</ele>
+      <time>2022-01-17T23:46:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6711238" lon="17.1028692">
+      <ele>256</ele>
+      <time>2022-01-17T23:47:01Z</time>
+    </trkpt>
+    <trkpt lat="50.6692727" lon="17.1016091">
+      <ele>248</ele>
+      <time>2022-01-17T23:50:28Z</time>
+    </trkpt>
+    <trkpt lat="50.6679293" lon="17.1008872">
+      <ele>244</ele>
+      <time>2022-01-17T23:52:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6654545" lon="17.0996028">
+      <ele>240</ele>
+      <time>2022-01-17T23:57:21Z</time>
+    </trkpt>
+    <trkpt lat="50.66518" lon="17.099412">
+      <ele>241</ele>
+      <time>2022-01-17T23:57:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6648118" lon="17.0990503">
+      <ele>242</ele>
+      <time>2022-01-17T23:58:37Z</time>
+    </trkpt>
+    <trkpt lat="50.664584" lon="17.098605">
+      <ele>242</ele>
+      <time>2022-01-17T23:59:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

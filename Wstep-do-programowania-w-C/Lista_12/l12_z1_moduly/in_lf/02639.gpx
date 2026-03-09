@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:39Z</time>
+    <bounds maxlat="50.2991389" maxlon="16.3363373" minlat="50.2984895" minlon="16.3269281"/>
+  </metadata>
+  <wpt lat="50.298904" lon="16.336337">
+    <ele>726</ele>
+    <name>Kukacka</name>
+    <link href="https://mapa-turystyczna.pl/node/1886">
+      <text>Kukacka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.29849" lon="16.326928">
+    <ele>722</ele>
+    <name>Kout</name>
+    <link href="https://mapa-turystyczna.pl/node/1892">
+      <text>Kout</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kukacka - Kout</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2989041,16.3363373;50.29907110004265,16.331814100000006;50.2984895,16.3269281">
+    <text>Kukacka - Kout</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2989041" lon="16.3363373">
+      <ele>726</ele>
+      <time>2022-01-17T21:18:39Z</time>
+    </trkpt>
+    <trkpt lat="50.298939" lon="16.3357432">
+      <ele>730</ele>
+      <time>2022-01-17T21:19:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2989328" lon="16.334677">
+      <ele>730</ele>
+      <time>2022-01-17T21:20:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2991389" lon="16.3335478">
+      <ele>729</ele>
+      <time>2022-01-17T21:21:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2991348" lon="16.3322114">
+      <ele>727</ele>
+      <time>2022-01-17T21:22:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2990074" lon="16.3314168">
+      <ele>723</ele>
+      <time>2022-01-17T21:23:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2990609" lon="16.330364">
+      <ele>723</ele>
+      <time>2022-01-17T21:24:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2989883" lon="16.3291349">
+      <ele>726</ele>
+      <time>2022-01-17T21:26:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2987169" lon="16.3280238">
+      <ele>722</ele>
+      <time>2022-01-17T21:27:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2984895" lon="16.3269281">
+      <ele>722</ele>
+      <time>2022-01-17T21:28:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

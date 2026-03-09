@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:11:45Z</time>
+    <bounds maxlat="51.0362771" maxlon="15.8710278" minlat="51.0359499" minlon="15.8701749"/>
+  </metadata>
+  <wpt lat="51.036277" lon="15.871028">
+    <ele>366</ele>
+    <name>Wielislawka, grodzisko</name>
+    <link href="https://mapa-turystyczna.pl/node/11792">
+      <text>Wielislawka, grodzisko</text>
+    </link>
+  </wpt>
+  <wpt lat="51.03595" lon="15.870175">
+    <ele>346</ele>
+    <name>Wielislawka, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11793">
+      <text>Wielislawka, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wielislawka, grodzisko - Wielislawka, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0362771,15.8710278;51.03609020001922,15.870602699999997;51.0359499,15.8701749">
+    <text>Wielislawka, grodzisko - Wielislawka, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0362771" lon="15.8710278">
+      <ele>366</ele>
+      <time>2022-01-18T01:11:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0362302" lon="15.8707905">
+      <ele>362</ele>
+      <time>2022-01-18T01:11:59Z</time>
+    </trkpt>
+    <trkpt lat="51.0361324" lon="15.8706617">
+      <ele>360</ele>
+      <time>2022-01-18T01:12:11Z</time>
+    </trkpt>
+    <trkpt lat="51.036048" lon="15.8705437">
+      <ele>357</ele>
+      <time>2022-01-18T01:12:21Z</time>
+    </trkpt>
+    <trkpt lat="51.035984" lon="15.8703506">
+      <ele>351</ele>
+      <time>2022-01-18T01:12:34Z</time>
+    </trkpt>
+    <trkpt lat="51.0359499" lon="15.8701749">
+      <ele>346</ele>
+      <time>2022-01-18T01:12:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

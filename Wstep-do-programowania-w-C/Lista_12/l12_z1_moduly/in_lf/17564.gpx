@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:15:31Z</time>
+    <bounds maxlat="52.0317798" maxlon="21.0494945" minlat="52.0277195" minlon="21.0414421"/>
+  </metadata>
+  <wpt lat="52.03178" lon="21.049495">
+    <ele>109</ele>
+    <name>Zalesie Gorne, przystan</name>
+    <link href="https://mapa-turystyczna.pl/node/11921">
+      <text>Zalesie Gorne, przystan</text>
+    </link>
+  </wpt>
+  <wpt lat="52.02772" lon="21.041442">
+    <ele>113</ele>
+    <name>Zalesie Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/11470">
+      <text>Zalesie Gorne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zalesie Gorne, przystan - Zalesie Gorne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0317798,21.0494945;52.02918776676393,21.044193600000003;52.0277195,21.0414421">
+    <text>Zalesie Gorne, przystan - Zalesie Gorne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0317798" lon="21.0494945">
+      <ele>109</ele>
+      <time>2022-01-18T01:15:31Z</time>
+    </trkpt>
+    <trkpt lat="52.0304122" lon="21.04679">
+      <ele>116</ele>
+      <time>2022-01-18T01:18:51Z</time>
+    </trkpt>
+    <trkpt lat="52.0279633" lon="21.0415972">
+      <ele>114</ele>
+      <time>2022-01-18T01:25:06Z</time>
+    </trkpt>
+    <trkpt lat="52.027851" lon="21.0414578">
+      <ele>113</ele>
+      <time>2022-01-18T01:25:19Z</time>
+    </trkpt>
+    <trkpt lat="52.0277195" lon="21.0414421">
+      <ele>113</ele>
+      <time>2022-01-18T01:25:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

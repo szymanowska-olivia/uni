@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:09Z</time>
+    <bounds maxlat="50.0617936" maxlon="16.8277852" minlat="50.0567545" minlon="16.8130326"/>
+  </metadata>
+  <wpt lat="50.056754" lon="16.813033">
+    <ele>1003</ele>
+    <name>Jerab</name>
+    <link href="https://mapa-turystyczna.pl/node/7763">
+      <text>Jerab</text>
+    </link>
+  </wpt>
+  <wpt lat="50.060744" lon="16.827785">
+    <ele>928</ele>
+    <name>Pod Jerabem</name>
+    <link href="https://mapa-turystyczna.pl/node/7765">
+      <text>Pod Jerabem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jerab - Pod Jerabem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0567545,16.8130326;50.05988980183583,16.818593299999996;50.0607443,16.8277852">
+    <text>Jerab - Pod Jerabem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0567545" lon="16.8130326">
+      <ele>1003</ele>
+      <time>2022-01-17T23:27:09Z</time>
+    </trkpt>
+    <trkpt lat="50.0568624" lon="16.8132074">
+      <ele>1004</ele>
+      <time>2022-01-17T23:27:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0574927" lon="16.8131108">
+      <ele>1003</ele>
+      <time>2022-01-17T23:28:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0583646" lon="16.81394">
+      <ele>998</ele>
+      <time>2022-01-17T23:30:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0594701" lon="16.8173195">
+      <ele>992</ele>
+      <time>2022-01-17T23:34:19Z</time>
+    </trkpt>
+    <trkpt lat="50.0603095" lon="16.8198671">
+      <ele>987</ele>
+      <time>2022-01-17T23:37:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0609225" lon="16.8214175">
+      <ele>970</ele>
+      <time>2022-01-17T23:39:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0612256" lon="16.8220934">
+      <ele>966</ele>
+      <time>2022-01-17T23:40:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0617936" lon="16.8232963">
+      <ele>962</ele>
+      <time>2022-01-17T23:41:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0617456" lon="16.8238958">
+      <ele>963</ele>
+      <time>2022-01-17T23:42:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0613186" lon="16.8256071">
+      <ele>953</ele>
+      <time>2022-01-17T23:44:34Z</time>
+    </trkpt>
+    <trkpt lat="50.0607443" lon="16.8277852">
+      <ele>928</ele>
+      <time>2022-01-17T23:47:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:11Z</time>
+    <bounds maxlat="51.3075836" maxlon="17.0596411" minlat="51.3071362" minlon="17.058628"/>
+  </metadata>
+  <wpt lat="51.307584" lon="17.058628">
+    <ele>192</ele>
+    <name>Trzebnica, ul. Waska</name>
+    <link href="https://mapa-turystyczna.pl/node/10539">
+      <text>Trzebnica, ul. Waska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.307136" lon="17.059641">
+    <ele>186</ele>
+    <name>Trzebnica, ul. Obroncow Pokoju</name>
+    <link href="https://mapa-turystyczna.pl/node/10543">
+      <text>Trzebnica, ul. Obroncow Pokoju</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebnica, ul. Waska - Trzebnica, ul. Obroncow Pokoju</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3075836,17.058628;51.30728285010647,17.05920054999997;51.3071362,17.0596411">
+    <text>Trzebnica, ul. Waska - Trzebnica, ul. Obroncow Pokoju</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3075836" lon="17.058628">
+      <ele>192</ele>
+      <time>2022-01-18T00:39:11Z</time>
+    </trkpt>
+    <trkpt lat="51.3073817" lon="17.0589695">
+      <ele>190</ele>
+      <time>2022-01-18T00:39:33Z</time>
+    </trkpt>
+    <trkpt lat="51.307184" lon="17.0594316">
+      <ele>187</ele>
+      <time>2022-01-18T00:40:00Z</time>
+    </trkpt>
+    <trkpt lat="51.3071362" lon="17.0596411">
+      <ele>186</ele>
+      <time>2022-01-18T00:40:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

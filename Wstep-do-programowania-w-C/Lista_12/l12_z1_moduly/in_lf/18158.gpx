@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:15Z</time>
+    <bounds maxlat="49.645716" maxlon="18.866413" minlat="49.644209" minlon="18.863689"/>
+  </metadata>
+  <wpt lat="49.645716" lon="18.866413">
+    <ele>450</ele>
+    <name>Wisla, ul. Sosnowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12341">
+      <text>Wisla, ul. Sosnowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.644209" lon="18.863689">
+    <ele>459</ele>
+    <name>Wisla, wiadukt kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3051">
+      <text>Wisla, wiadukt kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, ul. Sosnowa - Wisla, wiadukt kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.645716,18.866413;49.64489650019984,18.86556399999999;49.644209,18.863689">
+    <text>Wisla, ul. Sosnowa - Wisla, wiadukt kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.645716" lon="18.866413">
+      <ele>450</ele>
+      <time>2022-01-18T01:26:15Z</time>
+    </trkpt>
+    <trkpt lat="49.64569" lon="18.866396">
+      <ele>451</ele>
+      <time>2022-01-18T01:26:19Z</time>
+    </trkpt>
+    <trkpt lat="49.645223" lon="18.866092">
+      <ele>456</ele>
+      <time>2022-01-18T01:27:22Z</time>
+    </trkpt>
+    <trkpt lat="49.645036" lon="18.865825">
+      <ele>457</ele>
+      <time>2022-01-18T01:27:53Z</time>
+    </trkpt>
+    <trkpt lat="49.644757" lon="18.865303">
+      <ele>458</ele>
+      <time>2022-01-18T01:28:47Z</time>
+    </trkpt>
+    <trkpt lat="49.644667" lon="18.865129">
+      <ele>458</ele>
+      <time>2022-01-18T01:29:05Z</time>
+    </trkpt>
+    <trkpt lat="49.644577" lon="18.864671">
+      <ele>458</ele>
+      <time>2022-01-18T01:29:44Z</time>
+    </trkpt>
+    <trkpt lat="49.6445" lon="18.864368">
+      <ele>459</ele>
+      <time>2022-01-18T01:30:10Z</time>
+    </trkpt>
+    <trkpt lat="49.644209" lon="18.863689">
+      <ele>459</ele>
+      <time>2022-01-18T01:31:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:48:03Z</time>
+    <bounds maxlat="50.9664207" maxlon="20.6049909" minlat="50.9615227" minlon="20.5846131"/>
+  </metadata>
+  <wpt lat="50.961523" lon="20.604991">
+    <ele>322</ele>
+    <name>Tumlin, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8465">
+      <text>Tumlin, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.965103" lon="20.584613">
+    <ele>341</ele>
+    <name>Tumlin-Wegle</name>
+    <link href="https://mapa-turystyczna.pl/node/3123">
+      <text>Tumlin-Wegle</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tumlin, stacja kolejowa - Tumlin-Wegle</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9615227,20.6049909;50.964059111578344,20.59594810000002;50.9651031,20.5846131">
+    <text>Tumlin, stacja kolejowa - Tumlin-Wegle</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9615227" lon="20.6049909">
+      <ele>322</ele>
+      <time>2022-01-17T23:48:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9616637" lon="20.6044936">
+      <ele>322</ele>
+      <time>2022-01-17T23:48:46Z</time>
+    </trkpt>
+    <trkpt lat="50.9630219" lon="20.5996656">
+      <ele>341</ele>
+      <time>2022-01-17T23:55:38Z</time>
+    </trkpt>
+    <trkpt lat="50.9650963" lon="20.5922306">
+      <ele>347</ele>
+      <time>2022-01-18T00:06:12Z</time>
+    </trkpt>
+    <trkpt lat="50.9662247" lon="20.587998">
+      <ele>356</ele>
+      <time>2022-01-18T00:12:11Z</time>
+    </trkpt>
+    <trkpt lat="50.9664207" lon="20.5872202">
+      <ele>355</ele>
+      <time>2022-01-18T00:13:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9663869" lon="20.586665">
+      <ele>353</ele>
+      <time>2022-01-18T00:14:00Z</time>
+    </trkpt>
+    <trkpt lat="50.9660423" lon="20.5855733">
+      <ele>348</ele>
+      <time>2022-01-18T00:15:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9657247" lon="20.5852568">
+      <ele>347</ele>
+      <time>2022-01-18T00:16:21Z</time>
+    </trkpt>
+    <trkpt lat="50.9655186" lon="20.5852005">
+      <ele>347</ele>
+      <time>2022-01-18T00:16:47Z</time>
+    </trkpt>
+    <trkpt lat="50.9654882" lon="20.5849189">
+      <ele>345</ele>
+      <time>2022-01-18T00:17:10Z</time>
+    </trkpt>
+    <trkpt lat="50.9651031" lon="20.5846131">
+      <ele>341</ele>
+      <time>2022-01-18T00:18:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:53:14Z</time>
+    <bounds maxlat="50.6276358" maxlon="19.4768321" minlat="50.6273497" minlon="19.4766945"/>
+  </metadata>
+  <wpt lat="50.627636" lon="19.476832">
+    <ele>407</ele>
+    <name>Wielka Gora, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/6424">
+      <text>Wielka Gora, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.62735" lon="19.476695">
+    <ele>409</ele>
+    <name>Wielka Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4482">
+      <text>Wielka Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wielka Gora, rozejscie szlakow - Wielka Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6276358,19.4768321;50.62742625006231,19.476724000000004;50.6273497,19.4766945">
+    <text>Wielka Gora, rozejscie szlakow - Wielka Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6276358" lon="19.4768321">
+      <ele>407</ele>
+      <time>2022-01-17T22:53:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6275028" lon="19.4767535">
+      <ele>408</ele>
+      <time>2022-01-17T22:53:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6273497" lon="19.4766945">
+      <ele>409</ele>
+      <time>2022-01-17T22:54:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

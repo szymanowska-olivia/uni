@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:53Z</time>
+    <bounds maxlat="52.2875648" maxlon="20.5866588" minlat="52.2831426" minlon="20.5848598"/>
+  </metadata>
+  <wpt lat="52.283143" lon="20.586659">
+    <ele>102</ele>
+    <name>Rozejscie pod Biala Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12451">
+      <text>Rozejscie pod Biala Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.287565" lon="20.585206">
+    <ele>96</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12452">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie pod Biala Gora - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2831426,20.5866588;52.285106701028546,20.584918850000005;52.2875648,20.5852055">
+    <text>Rozejscie pod Biala Gora - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2831426" lon="20.5866588">
+      <ele>102</ele>
+      <time>2022-01-18T01:29:53Z</time>
+    </trkpt>
+    <trkpt lat="52.2840927" lon="20.5851334">
+      <ele>104</ele>
+      <time>2022-01-18T01:32:37Z</time>
+    </trkpt>
+    <trkpt lat="52.2844373" lon="20.5849242">
+      <ele>103</ele>
+      <time>2022-01-18T01:33:23Z</time>
+    </trkpt>
+    <trkpt lat="52.2848048" lon="20.5849779">
+      <ele>100</ele>
+      <time>2022-01-18T01:34:08Z</time>
+    </trkpt>
+    <trkpt lat="52.2854086" lon="20.5848598">
+      <ele>95</ele>
+      <time>2022-01-18T01:35:23Z</time>
+    </trkpt>
+    <trkpt lat="52.2863275" lon="20.5850315">
+      <ele>97</ele>
+      <time>2022-01-18T01:37:17Z</time>
+    </trkpt>
+    <trkpt lat="52.2867606" lon="20.5852032">
+      <ele>98</ele>
+      <time>2022-01-18T01:38:12Z</time>
+    </trkpt>
+    <trkpt lat="52.2872135" lon="20.5850959">
+      <ele>98</ele>
+      <time>2022-01-18T01:39:09Z</time>
+    </trkpt>
+    <trkpt lat="52.2875648" lon="20.5852055">
+      <ele>96</ele>
+      <time>2022-01-18T01:39:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:49:50Z</time>
+    <bounds maxlat="51.3584252" maxlon="17.3914859" minlat="51.357159" minlon="17.3877691"/>
+  </metadata>
+  <wpt lat="51.357562" lon="17.387769">
+    <ele>181</ele>
+    <name>Odejscie do grodziska</name>
+    <link href="https://mapa-turystyczna.pl/node/13169">
+      <text>Odejscie do grodziska</text>
+    </link>
+  </wpt>
+  <wpt lat="51.357159" lon="17.391486">
+    <ele>181</ele>
+    <name>Grodzisko</name>
+    <link href="https://mapa-turystyczna.pl/node/13170">
+      <text>Grodzisko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie do grodziska - Grodzisko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3575616,17.3877691;51.35799340203515,17.38884965;51.357159,17.3914859">
+    <text>Odejscie do grodziska - Grodzisko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3575616" lon="17.3877691">
+      <ele>181</ele>
+      <time>2022-01-18T01:49:50Z</time>
+    </trkpt>
+    <trkpt lat="51.3584252" lon="17.3899302">
+      <ele>180</ele>
+      <time>2022-01-18T01:52:20Z</time>
+    </trkpt>
+    <trkpt lat="51.357159" lon="17.3914859">
+      <ele>181</ele>
+      <time>2022-01-18T01:54:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

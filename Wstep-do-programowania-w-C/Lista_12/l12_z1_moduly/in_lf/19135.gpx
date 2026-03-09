@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:53Z</time>
+    <bounds maxlat="52.0995263" maxlon="21.2733492" minlat="52.0982886" minlon="21.2713744"/>
+  </metadata>
+  <wpt lat="52.099526" lon="21.271374">
+    <ele>98</ele>
+    <name>Otwock, Park Miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/12938">
+      <text>Otwock, Park Miejski</text>
+    </link>
+  </wpt>
+  <wpt lat="52.098289" lon="21.273046">
+    <ele>97</ele>
+    <name>Otwock, Nukleonik</name>
+    <link href="https://mapa-turystyczna.pl/node/12939">
+      <text>Otwock, Nukleonik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, Park Miejski - Otwock, Nukleonik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0995263,21.2713744;52.09903535007919,21.272528400000024;52.0982886,21.2730461">
+    <text>Otwock, Park Miejski - Otwock, Nukleonik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0995263" lon="21.2713744">
+      <ele>98</ele>
+      <time>2022-01-18T01:42:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0994555" lon="21.2716647">
+      <ele>98</ele>
+      <time>2022-01-18T01:43:20Z</time>
+    </trkpt>
+    <trkpt lat="52.0993787" lon="21.2719732">
+      <ele>97</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="52.0992017" lon="21.2718579">
+      <ele>98</ele>
+      <time>2022-01-18T01:44:17Z</time>
+    </trkpt>
+    <trkpt lat="52.0991194" lon="21.2721475">
+      <ele>97</ele>
+      <time>2022-01-18T01:44:45Z</time>
+    </trkpt>
+    <trkpt lat="52.0989513" lon="21.2729093">
+      <ele>97</ele>
+      <time>2022-01-18T01:45:56Z</time>
+    </trkpt>
+    <trkpt lat="52.0987404" lon="21.2731507">
+      <ele>97</ele>
+      <time>2022-01-18T01:46:33Z</time>
+    </trkpt>
+    <trkpt lat="52.0986613" lon="21.2733492">
+      <ele>97</ele>
+      <time>2022-01-18T01:46:53Z</time>
+    </trkpt>
+    <trkpt lat="52.0982886" lon="21.2730461">
+      <ele>97</ele>
+      <time>2022-01-18T01:47:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

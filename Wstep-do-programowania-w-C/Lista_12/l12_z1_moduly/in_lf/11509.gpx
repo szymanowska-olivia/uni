@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:43Z</time>
+    <bounds maxlat="50.7633301" maxlon="16.1708477" minlat="50.7612801" minlon="16.1669826"/>
+  </metadata>
+  <wpt lat="50.762206" lon="16.166983">
+    <ele>517</ele>
+    <name>Boguszow-Gorce Zachod, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/2411">
+      <text>Boguszow-Gorce Zachod, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.76333" lon="16.170848">
+    <ele>512</ele>
+    <name>Boguszow-Gorce Zachod</name>
+    <link href="https://mapa-turystyczna.pl/node/8075">
+      <text>Boguszow-Gorce Zachod</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Boguszow-Gorce Zachod, dworzec kolejowy - Boguszow-Gorce Zachod</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7622065,16.1669826;50.76143960027185,16.1694047;50.7633301,16.1708477">
+    <text>Boguszow-Gorce Zachod, dworzec kolejowy - Boguszow-Gorce Zachod</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7622065" lon="16.1669826">
+      <ele>517</ele>
+      <time>2022-01-17T23:35:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7612801" lon="16.1692142">
+      <ele>505</ele>
+      <time>2022-01-17T23:37:50Z</time>
+    </trkpt>
+    <trkpt lat="50.7615991" lon="16.1695952">
+      <ele>508</ele>
+      <time>2022-01-17T23:38:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7619487" lon="16.169858">
+      <ele>508</ele>
+      <time>2022-01-17T23:38:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7625679" lon="16.1701584">
+      <ele>508</ele>
+      <time>2022-01-17T23:39:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7633301" lon="16.1708477">
+      <ele>512</ele>
+      <time>2022-01-17T23:40:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

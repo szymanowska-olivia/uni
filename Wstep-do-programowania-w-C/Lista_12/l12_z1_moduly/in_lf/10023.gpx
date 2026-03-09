@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:42Z</time>
+    <bounds maxlat="49.999433" maxlon="17.1550119" minlat="49.9990916" minlon="17.154116"/>
+  </metadata>
+  <wpt lat="49.999092" lon="17.154116">
+    <ele>872</ele>
+    <name>Na Skritku, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7053">
+      <text>Na Skritku, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.999433" lon="17.155012">
+    <ele>868</ele>
+    <name>Skritek, motorest</name>
+    <link href="https://mapa-turystyczna.pl/node/7052">
+      <text>Skritek, motorest</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Skritku, rozc. - Skritek, motorest</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9990916,17.154116;49.99917955008045,17.154445949999996;49.999433,17.1550119">
+    <text>Na Skritku, rozc. - Skritek, motorest</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9990916" lon="17.154116">
+      <ele>872</ele>
+      <time>2022-01-17T23:08:42Z</time>
+    </trkpt>
+    <trkpt lat="49.9992675" lon="17.1547759">
+      <ele>868</ele>
+      <time>2022-01-17T23:09:22Z</time>
+    </trkpt>
+    <trkpt lat="49.9993261" lon="17.1548241">
+      <ele>868</ele>
+      <time>2022-01-17T23:09:28Z</time>
+    </trkpt>
+    <trkpt lat="49.999433" lon="17.1550119">
+      <ele>868</ele>
+      <time>2022-01-17T23:09:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

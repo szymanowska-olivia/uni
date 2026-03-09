@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:36Z</time>
+    <bounds maxlat="49.60925" maxlon="19.517691" minlat="49.608184" minlon="19.516966"/>
+  </metadata>
+  <wpt lat="49.60925" lon="19.516966">
+    <ele>703</ele>
+    <name>Polanka Odkrywcow</name>
+    <link href="https://mapa-turystyczna.pl/node/12351">
+      <text>Polanka Odkrywcow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.608184" lon="19.517691">
+    <ele>716</ele>
+    <name>Zawoja, Markowa</name>
+    <link href="https://mapa-turystyczna.pl/node/695">
+      <text>Zawoja, Markowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Polanka Odkrywcow - Zawoja, Markowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.60925,19.516966;49.60880400204029,19.517282999999995;49.608184,19.517691">
+    <text>Polanka Odkrywcow - Zawoja, Markowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.60925" lon="19.516966">
+      <ele>703</ele>
+      <time>2022-01-18T01:26:36Z</time>
+    </trkpt>
+    <trkpt lat="49.608358" lon="19.5176">
+      <ele>714</ele>
+      <time>2022-01-18T01:29:08Z</time>
+    </trkpt>
+    <trkpt lat="49.608184" lon="19.517691">
+      <ele>716</ele>
+      <time>2022-01-18T01:29:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

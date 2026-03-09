@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:49Z</time>
+    <bounds maxlat="51.104472" maxlon="15.5950405" minlat="51.1041069" minlon="15.594736"/>
+  </metadata>
+  <wpt lat="51.104107" lon="15.595037">
+    <ele>214</ele>
+    <name>Lwowek Slaski, ul. Graniczna</name>
+    <link href="https://mapa-turystyczna.pl/node/11830">
+      <text>Lwowek Slaski, ul. Graniczna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.104472" lon="15.594736">
+    <ele>215</ele>
+    <name>Lwowek Slaski, ul. Jaskiewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/11831">
+      <text>Lwowek Slaski, ul. Jaskiewicza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Graniczna - Lwowek Slaski, ul. Jaskiewicza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1041069,15.5950372;51.10432020004431,15.594920750000005;51.104472,15.594736">
+    <text>Lwowek Slaski, ul. Graniczna - Lwowek Slaski, ul. Jaskiewicza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1041069" lon="15.5950372">
+      <ele>214</ele>
+      <time>2022-01-18T01:12:49Z</time>
+    </trkpt>
+    <trkpt lat="51.1041485" lon="15.5950405">
+      <ele>214</ele>
+      <time>2022-01-18T01:12:55Z</time>
+    </trkpt>
+    <trkpt lat="51.1042562" lon="15.5949821">
+      <ele>214</ele>
+      <time>2022-01-18T01:13:11Z</time>
+    </trkpt>
+    <trkpt lat="51.1043842" lon="15.5948594">
+      <ele>215</ele>
+      <time>2022-01-18T01:13:32Z</time>
+    </trkpt>
+    <trkpt lat="51.104472" lon="15.594736">
+      <ele>215</ele>
+      <time>2022-01-18T01:13:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

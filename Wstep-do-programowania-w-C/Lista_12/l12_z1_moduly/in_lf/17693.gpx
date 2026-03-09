@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:58Z</time>
+    <bounds maxlat="51.6882637" maxlon="21.3356635" minlat="51.6856164" minlon="21.3253102"/>
+  </metadata>
+  <wpt lat="51.688264" lon="21.32531">
+    <ele>130</ele>
+    <name>Studzianki Pancerne</name>
+    <link href="https://mapa-turystyczna.pl/node/12009">
+      <text>Studzianki Pancerne</text>
+    </link>
+  </wpt>
+  <wpt lat="51.685616" lon="21.335663">
+    <ele>129</ele>
+    <name>Pomnik Poleglych w Bitwie pod Studziankami</name>
+    <link href="https://mapa-turystyczna.pl/node/12010">
+      <text>Pomnik Poleglych w Bitwie pod Studziankami</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Studzianki Pancerne - Pomnik Poleglych w Bitwie pod Studziankami</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6882637,21.3253102;51.6869400693508,21.330486850000003;51.6856164,21.3356635">
+    <text>Studzianki Pancerne - Pomnik Poleglych w Bitwie pod Studziankami</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6882637" lon="21.3253102">
+      <ele>130</ele>
+      <time>2022-01-18T01:17:58Z</time>
+    </trkpt>
+    <trkpt lat="51.6856164" lon="21.3356635">
+      <ele>129</ele>
+      <time>2022-01-18T01:27:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

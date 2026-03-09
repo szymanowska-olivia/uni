@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:04:04Z</time>
+    <bounds maxlat="51.024599" maxlon="16.11768" minlat="51.024452" minlon="16.117612"/>
+  </metadata>
+  <wpt lat="51.024599" lon="16.117612">
+    <ele>255</ele>
+    <name>Mysliborz</name>
+    <link href="https://mapa-turystyczna.pl/node/2847">
+      <text>Mysliborz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.024452" lon="16.11768">
+    <ele>260</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13644">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mysliborz - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.024599,16.117612;51.02452550005827,16.117646000000004;51.024452,16.11768">
+    <text>Mysliborz - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.024599" lon="16.117612">
+      <ele>255</ele>
+      <time>2022-01-18T02:04:04Z</time>
+    </trkpt>
+    <trkpt lat="51.024452" lon="16.11768">
+      <ele>260</ele>
+      <time>2022-01-18T02:05:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

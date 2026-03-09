@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:36Z</time>
+    <bounds maxlat="50.6572069" maxlon="15.8004535" minlat="50.6571607" minlon="15.799555"/>
+  </metadata>
+  <wpt lat="50.657183" lon="15.799555">
+    <ele>759</ele>
+    <name>Na Prazacce, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9368">
+      <text>Na Prazacce, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.657161" lon="15.800453">
+    <ele>755</ele>
+    <name>Na Prazacce</name>
+    <link href="https://mapa-turystyczna.pl/node/1218">
+      <text>Na Prazacce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Na Prazacce, rozc. - Na Prazacce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6571827,15.799555;50.65718380000567,15.800163799999995;50.6571607,15.8004535">
+    <text>Na Prazacce, rozc. - Na Prazacce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6571827" lon="15.799555">
+      <ele>759</ele>
+      <time>2022-01-18T00:09:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6572069" lon="15.7998741">
+      <ele>758</ele>
+      <time>2022-01-18T00:09:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6571607" lon="15.8004535">
+      <ele>755</ele>
+      <time>2022-01-18T00:10:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

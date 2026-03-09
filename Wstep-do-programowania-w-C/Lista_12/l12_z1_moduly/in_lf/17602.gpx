@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:16Z</time>
+    <bounds maxlat="52.1273136" maxlon="20.9975737" minlat="52.1244075" minlon="20.9916687"/>
+  </metadata>
+  <wpt lat="52.124407" lon="20.997574">
+    <ele>104</ele>
+    <name>Jeziorki Polskie</name>
+    <link href="https://mapa-turystyczna.pl/node/11944">
+      <text>Jeziorki Polskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.127314" lon="20.991669">
+    <ele>105</ele>
+    <name>Warszawa Dawidy, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11945">
+      <text>Warszawa Dawidy, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jeziorki Polskie - Warszawa Dawidy, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1244075,20.9975737;52.12586057369006,20.994621200000005;52.1273136,20.9916687">
+    <text>Jeziorki Polskie - Warszawa Dawidy, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1244075" lon="20.9975737">
+      <ele>104</ele>
+      <time>2022-01-18T01:16:16Z</time>
+    </trkpt>
+    <trkpt lat="52.1273136" lon="20.9916687">
+      <ele>105</ele>
+      <time>2022-01-18T01:26:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

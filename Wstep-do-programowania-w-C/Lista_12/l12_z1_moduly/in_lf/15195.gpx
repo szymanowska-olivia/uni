@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:56Z</time>
+    <bounds maxlat="50.041883" maxlon="18.3389418" minlat="50.0394801" minlon="18.3371278"/>
+  </metadata>
+  <wpt lat="50.03948" lon="18.338942">
+    <ele>275</ele>
+    <name>Lubomia, Swiatlowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/9829">
+      <text>Lubomia, Swiatlowiec</text>
+    </link>
+  </wpt>
+  <wpt lat="50.041883" lon="18.337128">
+    <ele>275</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/10360">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubomia, Swiatlowiec - Rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0394801,18.3389418;50.04066825041391,18.33813379999999;50.041883,18.3371278">
+    <text>Lubomia, Swiatlowiec - Rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0394801" lon="18.3389418">
+      <ele>275</ele>
+      <time>2022-01-18T00:34:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0395275" lon="18.3388933">
+      <ele>276</ele>
+      <time>2022-01-18T00:35:02Z</time>
+    </trkpt>
+    <trkpt lat="50.0398376" lon="18.3386411">
+      <ele>276</ele>
+      <time>2022-01-18T00:35:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0399685" lon="18.3385929">
+      <ele>278</ele>
+      <time>2022-01-18T00:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0400727" lon="18.3384605">
+      <ele>278</ele>
+      <time>2022-01-18T00:36:11Z</time>
+    </trkpt>
+    <trkpt lat="50.0401512" lon="18.3384212">
+      <ele>278</ele>
+      <time>2022-01-18T00:36:21Z</time>
+    </trkpt>
+    <trkpt lat="50.0404689" lon="18.3382352">
+      <ele>278</ele>
+      <time>2022-01-18T00:36:58Z</time>
+    </trkpt>
+    <trkpt lat="50.0408676" lon="18.3380324">
+      <ele>279</ele>
+      <time>2022-01-18T00:37:45Z</time>
+    </trkpt>
+    <trkpt lat="50.0415085" lon="18.3373833">
+      <ele>276</ele>
+      <time>2022-01-18T00:39:10Z</time>
+    </trkpt>
+    <trkpt lat="50.041883" lon="18.3371278">
+      <ele>275</ele>
+      <time>2022-01-18T00:39:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

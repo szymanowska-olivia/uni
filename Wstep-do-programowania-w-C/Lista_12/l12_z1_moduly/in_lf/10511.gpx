@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:19Z</time>
+    <bounds maxlat="49.5385265" maxlon="18.394061" minlat="49.5360948" minlon="18.3929117"/>
+  </metadata>
+  <wpt lat="49.538527" lon="18.392912">
+    <ele>418</ele>
+    <name>Ostravice, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7483">
+      <text>Ostravice, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.536095" lon="18.394032">
+    <ele>422</ele>
+    <name>Ostravice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7485">
+      <text>Ostravice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostravice, zeleznicni stanice - Ostravice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5385265,18.3929117;49.537458650242804,18.393519199999986;49.5360948,18.3940315">
+    <text>Ostravice, zeleznicni stanice - Ostravice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5385265" lon="18.3929117">
+      <ele>418</ele>
+      <time>2022-01-17T23:17:19Z</time>
+    </trkpt>
+    <trkpt lat="49.537718" lon="18.3932698">
+      <ele>419</ele>
+      <time>2022-01-17T23:18:57Z</time>
+    </trkpt>
+    <trkpt lat="49.5376127" lon="18.3934468">
+      <ele>419</ele>
+      <time>2022-01-17T23:19:15Z</time>
+    </trkpt>
+    <trkpt lat="49.5373046" lon="18.3935916">
+      <ele>419</ele>
+      <time>2022-01-17T23:19:53Z</time>
+    </trkpt>
+    <trkpt lat="49.5372515" lon="18.3935957">
+      <ele>419</ele>
+      <time>2022-01-17T23:19:59Z</time>
+    </trkpt>
+    <trkpt lat="49.5370679" lon="18.3936842">
+      <ele>419</ele>
+      <time>2022-01-17T23:20:21Z</time>
+    </trkpt>
+    <trkpt lat="49.5366031" lon="18.3938853">
+      <ele>419</ele>
+      <time>2022-01-17T23:21:18Z</time>
+    </trkpt>
+    <trkpt lat="49.536181" lon="18.394061">
+      <ele>421</ele>
+      <time>2022-01-17T23:22:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5361418" lon="18.3940583">
+      <ele>421</ele>
+      <time>2022-01-17T23:22:13Z</time>
+    </trkpt>
+    <trkpt lat="49.5360948" lon="18.3940315">
+      <ele>422</ele>
+      <time>2022-01-17T23:22:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

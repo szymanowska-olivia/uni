@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:58Z</time>
+    <bounds maxlat="50.3085973" maxlon="17.1023762" minlat="50.3076996" minlon="17.1001232"/>
+  </metadata>
+  <wpt lat="50.308597" lon="17.100123">
+    <ele>367</ele>
+    <name>Zulova</name>
+    <link href="https://mapa-turystyczna.pl/node/2179">
+      <text>Zulova</text>
+    </link>
+  </wpt>
+  <wpt lat="50.307761" lon="17.102376">
+    <ele>360</ele>
+    <name>Zulova, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6106">
+      <text>Zulova, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zulova - Zulova, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3085973,17.1001232;50.30789150008348,17.1010512;50.3077613,17.1023762">
+    <text>Zulova - Zulova, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3085973" lon="17.1001232">
+      <ele>367</ele>
+      <time>2022-01-17T22:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3084876" lon="17.100386">
+      <ele>367</ele>
+      <time>2022-01-17T22:45:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3083472" lon="17.1005577">
+      <ele>367</ele>
+      <time>2022-01-17T22:45:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3081313" lon="17.1007454">
+      <ele>366</ele>
+      <time>2022-01-17T22:45:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3079806" lon="17.1008903">
+      <ele>366</ele>
+      <time>2022-01-17T22:46:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3078024" lon="17.1012121">
+      <ele>365</ele>
+      <time>2022-01-17T22:46:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3076996" lon="17.1014589">
+      <ele>364</ele>
+      <time>2022-01-17T22:46:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3077647" lon="17.1015501">
+      <ele>363</ele>
+      <time>2022-01-17T22:47:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3077442" lon="17.1017271">
+      <ele>362</ele>
+      <time>2022-01-17T22:47:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3077613" lon="17.1023762">
+      <ele>360</ele>
+      <time>2022-01-17T22:47:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

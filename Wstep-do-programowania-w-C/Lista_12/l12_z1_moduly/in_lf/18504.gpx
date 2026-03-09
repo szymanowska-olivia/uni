@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:32:00Z</time>
+    <bounds maxlat="50.4270168" maxlon="18.8603991" minlat="50.4265438" minlon="18.8598771"/>
+  </metadata>
+  <wpt lat="50.427017" lon="18.859877">
+    <ele>295</ele>
+    <name>Park Kunszt</name>
+    <link href="https://mapa-turystyczna.pl/node/12524">
+      <text>Park Kunszt</text>
+    </link>
+  </wpt>
+  <wpt lat="50.426544" lon="18.860311">
+    <ele>299</ele>
+    <name>Park Kunszt, kopiec pamiatkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12525">
+      <text>Park Kunszt, kopiec pamiatkowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Park Kunszt - Park Kunszt, kopiec pamiatkowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4270168,18.8598771;50.42689085002368,18.86024730000001;50.4265438,18.8603113">
+    <text>Park Kunszt - Park Kunszt, kopiec pamiatkowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4270168" lon="18.8598771">
+      <ele>295</ele>
+      <time>2022-01-18T01:32:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4269955" lon="18.860041">
+      <ele>297</ele>
+      <time>2022-01-18T01:32:19Z</time>
+    </trkpt>
+    <trkpt lat="50.4269382" lon="18.8601883">
+      <ele>298</ele>
+      <time>2022-01-18T01:32:39Z</time>
+    </trkpt>
+    <trkpt lat="50.4268435" lon="18.8603063">
+      <ele>299</ele>
+      <time>2022-01-18T01:33:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4267719" lon="18.8603733">
+      <ele>299</ele>
+      <time>2022-01-18T01:33:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4266952" lon="18.8603991">
+      <ele>300</ele>
+      <time>2022-01-18T01:33:30Z</time>
+    </trkpt>
+    <trkpt lat="50.4265852" lon="18.860365">
+      <ele>300</ele>
+      <time>2022-01-18T01:33:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4265438" lon="18.8603113">
+      <ele>299</ele>
+      <time>2022-01-18T01:34:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

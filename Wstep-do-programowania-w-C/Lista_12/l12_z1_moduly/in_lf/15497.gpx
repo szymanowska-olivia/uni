@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:40:16Z</time>
+    <bounds maxlat="50.162955" maxlon="19.3081562" minlat="50.1619489" minlon="19.3078118"/>
+  </metadata>
+  <wpt lat="50.162955" lon="19.307812">
+    <ele>261</ele>
+    <name>Byczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/10580">
+      <text>Byczyna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.161949" lon="19.308156">
+    <ele>264</ele>
+    <name>Byczyna, dom kultury</name>
+    <link href="https://mapa-turystyczna.pl/node/10579">
+      <text>Byczyna, dom kultury</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Byczyna - Byczyna, dom kultury</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.162955,19.3078118;50.162473100219934,19.30809465000003;50.1619489,19.3081562">
+    <text>Byczyna - Byczyna, dom kultury</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.162955" lon="19.3078118">
+      <ele>261</ele>
+      <time>2022-01-18T00:40:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1626181" lon="19.3080617">
+      <ele>262</ele>
+      <time>2022-01-18T00:40:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1623281" lon="19.3081276">
+      <ele>263</ele>
+      <time>2022-01-18T00:41:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1619489" lon="19.3081562">
+      <ele>264</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

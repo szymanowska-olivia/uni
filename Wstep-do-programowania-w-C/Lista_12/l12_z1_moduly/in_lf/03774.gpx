@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:18Z</time>
+    <bounds maxlat="50.272861" maxlon="17.4035615" minlat="50.269086" minlon="17.3942435"/>
+  </metadata>
+  <wpt lat="50.269086" lon="17.394244">
+    <ele>395</ele>
+    <name>Zlate Hory, u hriste</name>
+    <link href="https://mapa-turystyczna.pl/node/2642">
+      <text>Zlate Hory, u hriste</text>
+    </link>
+  </wpt>
+  <wpt lat="50.272861" lon="17.403561">
+    <ele>399</ele>
+    <name>Zlate Hory, przy granicy</name>
+    <link href="https://mapa-turystyczna.pl/node/2644">
+      <text>Zlate Hory, przy granicy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory, u hriste - Zlate Hory, przy granicy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.269086,17.3942435;50.27096275885769,17.399849949999975;50.272861,17.4035615">
+    <text>Zlate Hory, u hriste - Zlate Hory, przy granicy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.269086" lon="17.3942435">
+      <ele>395</ele>
+      <time>2022-01-17T21:34:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2691794" lon="17.3944326">
+      <ele>395</ele>
+      <time>2022-01-17T21:34:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2693153" lon="17.3946237">
+      <ele>394</ele>
+      <time>2022-01-17T21:35:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2693763" lon="17.3948426">
+      <ele>394</ele>
+      <time>2022-01-17T21:35:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2694" lon="17.3951184">
+      <ele>395</ele>
+      <time>2022-01-17T21:35:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2694359" lon="17.395621">
+      <ele>396</ele>
+      <time>2022-01-17T21:36:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2695464" lon="17.3962747">
+      <ele>397</ele>
+      <time>2022-01-17T21:37:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2698313" lon="17.3975242">
+      <ele>393</ele>
+      <time>2022-01-17T21:39:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2700443" lon="17.3980978">
+      <ele>394</ele>
+      <time>2022-01-17T21:39:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2718812" lon="17.4016021">
+      <ele>395</ele>
+      <time>2022-01-17T21:45:59Z</time>
+    </trkpt>
+    <trkpt lat="50.272861" lon="17.4035615">
+      <ele>399</ele>
+      <time>2022-01-17T21:49:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

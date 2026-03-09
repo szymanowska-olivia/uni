@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:34:35Z</time>
+    <bounds maxlat="52.1566778" maxlon="17.1601862" minlat="52.1545398" minlon="17.1557757"/>
+  </metadata>
+  <wpt lat="52.15454" lon="17.155776">
+    <ele>74</ele>
+    <name>Zaniemysl, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/10350">
+      <text>Zaniemysl, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.156678" lon="17.160186">
+    <ele>74</ele>
+    <name>Zaniemysl</name>
+    <link href="https://mapa-turystyczna.pl/node/10261">
+      <text>Zaniemysl</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zaniemysl, ul. Lesna - Zaniemysl</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1545398,17.1557757;52.155992501526114,17.15860570000001;52.1566778,17.1601862">
+    <text>Zaniemysl, ul. Lesna - Zaniemysl</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1545398" lon="17.1557757">
+      <ele>74</ele>
+      <time>2022-01-18T00:34:35Z</time>
+    </trkpt>
+    <trkpt lat="52.1556239" lon="17.1578064">
+      <ele>71</ele>
+      <time>2022-01-18T00:36:58Z</time>
+    </trkpt>
+    <trkpt lat="52.1563611" lon="17.159405">
+      <ele>73</ele>
+      <time>2022-01-18T00:38:45Z</time>
+    </trkpt>
+    <trkpt lat="52.1566778" lon="17.1601862">
+      <ele>74</ele>
+      <time>2022-01-18T00:39:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

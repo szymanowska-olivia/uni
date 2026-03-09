@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:49Z</time>
+    <bounds maxlat="51.8033896" maxlon="21.4761158" minlat="51.7917198" minlon="21.4356913"/>
+  </metadata>
+  <wpt lat="51.79187" lon="21.435691">
+    <ele>105</ele>
+    <name>Tarnow</name>
+    <link href="https://mapa-turystyczna.pl/node/12326">
+      <text>Tarnow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.80339" lon="21.476116">
+    <ele>116</ele>
+    <name>Rozejscie szlakow czerwony / niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/12318">
+      <text>Rozejscie szlakow czerwony / niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnow - Rozejscie szlakow czerwony / niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.7918698,21.4356913;51.79829395789198,21.45471780000002;51.8033896,21.4761158">
+    <text>Tarnow - Rozejscie szlakow czerwony / niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.7918698" lon="21.4356913">
+      <ele>105</ele>
+      <time>2022-01-18T01:25:49Z</time>
+    </trkpt>
+    <trkpt lat="51.7917198" lon="21.4363374">
+      <ele>104</ele>
+      <time>2022-01-18T01:26:35Z</time>
+    </trkpt>
+    <trkpt lat="51.7918459" lon="21.4364018">
+      <ele>104</ele>
+      <time>2022-01-18T01:26:49Z</time>
+    </trkpt>
+    <trkpt lat="51.7950485" lon="21.4413878">
+      <ele>112</ele>
+      <time>2022-01-18T01:34:44Z</time>
+    </trkpt>
+    <trkpt lat="51.7951746" lon="21.4417633">
+      <ele>112</ele>
+      <time>2022-01-18T01:35:13Z</time>
+    </trkpt>
+    <trkpt lat="51.8014131" lon="21.4676723">
+      <ele>119</ele>
+      <time>2022-01-18T02:05:52Z</time>
+    </trkpt>
+    <trkpt lat="51.8033039" lon="21.475676">
+      <ele>116</ele>
+      <time>2022-01-18T02:15:18Z</time>
+    </trkpt>
+    <trkpt lat="51.8033896" lon="21.4761158">
+      <ele>116</ele>
+      <time>2022-01-18T02:15:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:00Z</time>
+    <bounds maxlat="49.9656714" maxlon="16.9360301" minlat="49.9653772" minlon="16.9344423"/>
+  </metadata>
+  <wpt lat="49.965671" lon="16.934442">
+    <ele>500</ele>
+    <name>Cerveny kriz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8017">
+      <text>Cerveny kriz, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.965382" lon="16.93603">
+    <ele>504</ele>
+    <name>Cerveny kriz, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/8016">
+      <text>Cerveny kriz, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerveny kriz, rozc. - Cerveny kriz, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9656714,16.9344423;49.965410000011154,16.935315100000004;49.9653816,16.9360301">
+    <text>Cerveny kriz, rozc. - Cerveny kriz, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9656714" lon="16.9344423">
+      <ele>500</ele>
+      <time>2022-01-17T23:34:00Z</time>
+    </trkpt>
+    <trkpt lat="49.9654428" lon="16.9350227">
+      <ele>506</ele>
+      <time>2022-01-17T23:34:48Z</time>
+    </trkpt>
+    <trkpt lat="49.9653772" lon="16.9356075">
+      <ele>505</ele>
+      <time>2022-01-17T23:35:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9653816" lon="16.9360301">
+      <ele>504</ele>
+      <time>2022-01-17T23:36:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

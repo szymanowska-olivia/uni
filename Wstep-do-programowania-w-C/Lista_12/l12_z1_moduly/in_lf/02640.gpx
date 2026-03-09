@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:40Z</time>
+    <bounds maxlat="50.302478" maxlon="16.3269281" minlat="50.2984895" minlon="16.3247663"/>
+  </metadata>
+  <wpt lat="50.29849" lon="16.326928">
+    <ele>722</ele>
+    <name>Kout</name>
+    <link href="https://mapa-turystyczna.pl/node/1892">
+      <text>Kout</text>
+    </link>
+  </wpt>
+  <wpt lat="50.302478" lon="16.324766">
+    <ele>730</ele>
+    <name>Horni Kouty</name>
+    <link href="https://mapa-turystyczna.pl/node/1893">
+      <text>Horni Kouty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kout - Horni Kouty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2984895,16.3269281;50.30025635167888,16.325429100000004;50.302478,16.3247663">
+    <text>Kout - Horni Kouty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2984895" lon="16.3269281">
+      <ele>722</ele>
+      <time>2022-01-17T21:18:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2986428" lon="16.3265989">
+      <ele>721</ele>
+      <time>2022-01-17T21:19:14Z</time>
+    </trkpt>
+    <trkpt lat="50.298956" lon="16.3260588">
+      <ele>717</ele>
+      <time>2022-01-17T21:20:16Z</time>
+    </trkpt>
+    <trkpt lat="50.2992074" lon="16.3258405">
+      <ele>714</ele>
+      <time>2022-01-17T21:20:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2998567" lon="16.3257292">
+      <ele>716</ele>
+      <time>2022-01-17T21:22:19Z</time>
+    </trkpt>
+    <trkpt lat="50.300656" lon="16.325129">
+      <ele>714</ele>
+      <time>2022-01-17T21:24:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3010029" lon="16.3252263">
+      <ele>719</ele>
+      <time>2022-01-17T21:25:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3019358" lon="16.3254737">
+      <ele>728</ele>
+      <time>2022-01-17T21:27:07Z</time>
+    </trkpt>
+    <trkpt lat="50.302478" lon="16.3247663">
+      <ele>730</ele>
+      <time>2022-01-17T21:28:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:03:55Z</time>
+    <bounds maxlat="50.1978752" maxlon="19.0789368" minlat="50.1949756" minlon="19.0635083"/>
+  </metadata>
+  <wpt lat="50.196767" lon="19.063508">
+    <ele>306</ele>
+    <name>Szklarska Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/9098">
+      <text>Szklarska Droga</text>
+    </link>
+  </wpt>
+  <wpt lat="50.194976" lon="19.078937">
+    <ele>268</ele>
+    <name>Wesola Fala</name>
+    <link href="https://mapa-turystyczna.pl/node/9097">
+      <text>Wesola Fala</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szklarska Droga - Wesola Fala</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1967674,19.0635083;50.19692745270536,19.07182389999998;50.1949756,19.0789368">
+    <text>Szklarska Droga - Wesola Fala</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1967674" lon="19.0635083">
+      <ele>306</ele>
+      <time>2022-01-18T00:03:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1978752" lon="19.0699088">
+      <ele>296</ele>
+      <time>2022-01-18T00:11:35Z</time>
+    </trkpt>
+    <trkpt lat="50.1976348" lon="19.0703701">
+      <ele>295</ele>
+      <time>2022-01-18T00:12:16Z</time>
+    </trkpt>
+    <trkpt lat="50.1974357" lon="19.0710246">
+      <ele>293</ele>
+      <time>2022-01-18T00:13:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1964192" lon="19.0726232">
+      <ele>287</ele>
+      <time>2022-01-18T00:15:42Z</time>
+    </trkpt>
+    <trkpt lat="50.196117" lon="19.0734064">
+      <ele>281</ele>
+      <time>2022-01-18T00:16:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1951486" lon="19.0748655">
+      <ele>282</ele>
+      <time>2022-01-18T00:19:12Z</time>
+    </trkpt>
+    <trkpt lat="50.1951005" lon="19.0753483">
+      <ele>281</ele>
+      <time>2022-01-18T00:19:46Z</time>
+    </trkpt>
+    <trkpt lat="50.1949756" lon="19.0789368">
+      <ele>268</ele>
+      <time>2022-01-18T00:23:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

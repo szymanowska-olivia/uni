@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:42Z</time>
+    <bounds maxlat="50.3367266" maxlon="16.3954639" minlat="50.3281488" minlon="16.38701"/>
+  </metadata>
+  <wpt lat="50.336727" lon="16.38701">
+    <ele>868</ele>
+    <name>Zieleniec, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/7828">
+      <text>Zieleniec, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.328149" lon="16.395464">
+    <ele>854</ele>
+    <name>Pod Hutnicza Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/1996">
+      <text>Pod Hutnicza Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zieleniec, odejscie szlaku zielonego - Pod Hutnicza Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3367266,16.38701;50.33353024302647,16.389270749999994;50.3281488,16.3954639">
+    <text>Zieleniec, odejscie szlaku zielonego - Pod Hutnicza Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3367266" lon="16.38701">
+      <ele>868</ele>
+      <time>2022-01-17T23:28:42Z</time>
+    </trkpt>
+    <trkpt lat="50.335995" lon="16.3882294">
+      <ele>879</ele>
+      <time>2022-01-17T23:30:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3355522" lon="16.3888443">
+      <ele>882</ele>
+      <time>2022-01-17T23:31:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3315082" lon="16.3896972">
+      <ele>863</ele>
+      <time>2022-01-17T23:39:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3310066" lon="16.3899734">
+      <ele>864</ele>
+      <time>2022-01-17T23:40:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3299202" lon="16.3912542">
+      <ele>860</ele>
+      <time>2022-01-17T23:42:41Z</time>
+    </trkpt>
+    <trkpt lat="50.329442" lon="16.3921789">
+      <ele>860</ele>
+      <time>2022-01-17T23:44:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3289187" lon="16.3943149">
+      <ele>854</ele>
+      <time>2022-01-17T23:46:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3281488" lon="16.3954639">
+      <ele>854</ele>
+      <time>2022-01-17T23:48:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

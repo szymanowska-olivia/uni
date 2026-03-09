@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:55:07Z</time>
+    <bounds maxlat="51.9171548" maxlon="15.4597521" minlat="51.9159151" minlon="15.4594707"/>
+  </metadata>
+  <wpt lat="51.917155" lon="15.459752">
+    <ele>207</ele>
+    <name>Rozejscie szlakow niebieski / zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11142">
+      <text>Rozejscie szlakow niebieski / zielony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.915915" lon="15.459539">
+    <ele>215</ele>
+    <name>Rozdroze pod wieza</name>
+    <link href="https://mapa-turystyczna.pl/node/11153">
+      <text>Rozdroze pod wieza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow niebieski / zielony / czarny - Rozdroze pod wieza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.9171548,15.4597521;51.916781951548145,15.459639399999983;51.9159151,15.4595387">
+    <text>Rozejscie szlakow niebieski / zielony / czarny - Rozdroze pod wieza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.9171548" lon="15.4597521">
+      <ele>207</ele>
+      <time>2022-01-18T00:55:07Z</time>
+    </trkpt>
+    <trkpt lat="51.9164091" lon="15.4595267">
+      <ele>210</ele>
+      <time>2022-01-18T00:56:55Z</time>
+    </trkpt>
+    <trkpt lat="51.9161252" lon="15.4594707">
+      <ele>212</ele>
+      <time>2022-01-18T00:57:36Z</time>
+    </trkpt>
+    <trkpt lat="51.9159432" lon="15.4595244">
+      <ele>215</ele>
+      <time>2022-01-18T00:58:03Z</time>
+    </trkpt>
+    <trkpt lat="51.9159151" lon="15.4595387">
+      <ele>215</ele>
+      <time>2022-01-18T00:58:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:01:26Z</time>
+    <bounds maxlat="52.4215009" maxlon="21.0059098" minlat="52.4198521" minlon="21.0051802"/>
+  </metadata>
+  <wpt lat="52.421501" lon="21.00518">
+    <ele>87</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11407">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.419852" lon="21.00591">
+    <ele>88</ele>
+    <name>Rozejscie szlakow czerwony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11408">
+      <text>Rozejscie szlakow czerwony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / czarny - Rozejscie szlakow czerwony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4215009,21.0051802;52.420676507707235,21.00554500000001;52.4198521,21.0059098">
+    <text>Rozejscie szlakow czerwony / czarny - Rozejscie szlakow czerwony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4215009" lon="21.0051802">
+      <ele>87</ele>
+      <time>2022-01-18T01:01:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4198521" lon="21.0059098">
+      <ele>88</ele>
+      <time>2022-01-18T01:04:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

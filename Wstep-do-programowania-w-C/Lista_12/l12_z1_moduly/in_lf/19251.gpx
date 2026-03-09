@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:54Z</time>
+    <bounds maxlat="49.621253" maxlon="19.474962" minlat="49.619781" minlon="19.473991"/>
+  </metadata>
+  <wpt lat="49.619781" lon="19.473991">
+    <ele>1102</ele>
+    <name>Hala Kaminskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/596">
+      <text>Hala Kaminskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.621253" lon="19.474962">
+    <ele>1119</ele>
+    <name>Kolisty Gron</name>
+    <link href="https://mapa-turystyczna.pl/node/13004">
+      <text>Kolisty Gron</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hala Kaminskiego - Kolisty Gron</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.619781,19.473991;49.62027300248386,19.47433550000002;49.621253,19.474962">
+    <text>Hala Kaminskiego - Kolisty Gron</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.619781" lon="19.473991">
+      <ele>1102</ele>
+      <time>2022-01-18T01:44:54Z</time>
+    </trkpt>
+    <trkpt lat="49.620765" lon="19.47468">
+      <ele>1114</ele>
+      <time>2022-01-18T01:48:16Z</time>
+    </trkpt>
+    <trkpt lat="49.620935" lon="19.474777">
+      <ele>1116</ele>
+      <time>2022-01-18T01:48:50Z</time>
+    </trkpt>
+    <trkpt lat="49.621253" lon="19.474962">
+      <ele>1119</ele>
+      <time>2022-01-18T01:49:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

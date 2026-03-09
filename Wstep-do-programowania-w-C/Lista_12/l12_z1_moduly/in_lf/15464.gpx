@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:52Z</time>
+    <bounds maxlat="51.3363596" maxlon="16.6460096" minlat="51.3362691" minlon="16.645124"/>
+  </metadata>
+  <wpt lat="51.336343" lon="16.645124">
+    <ele>111</ele>
+    <name>Wolow, Skwer Sybirakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10397">
+      <text>Wolow, Skwer Sybirakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.336269" lon="16.64601">
+    <ele>111</ele>
+    <name>Wolow, ul. Ciemna</name>
+    <link href="https://mapa-turystyczna.pl/node/10564">
+      <text>Wolow, ul. Ciemna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolow, Skwer Sybirakow - Wolow, ul. Ciemna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3363429,16.645124;51.336351250000746,16.64541660000003;51.3362691,16.6460096">
+    <text>Wolow, Skwer Sybirakow - Wolow, ul. Ciemna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3363429" lon="16.645124">
+      <ele>111</ele>
+      <time>2022-01-18T00:39:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3363596" lon="16.6457092">
+      <ele>111</ele>
+      <time>2022-01-18T00:40:30Z</time>
+    </trkpt>
+    <trkpt lat="51.3363194" lon="16.6458916">
+      <ele>111</ele>
+      <time>2022-01-18T00:40:43Z</time>
+    </trkpt>
+    <trkpt lat="51.3362691" lon="16.6460096">
+      <ele>111</ele>
+      <time>2022-01-18T00:40:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

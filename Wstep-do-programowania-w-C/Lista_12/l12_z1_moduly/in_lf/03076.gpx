@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:45Z</time>
+    <bounds maxlat="50.4072287" maxlon="16.8525821" minlat="50.4061278" minlon="16.8508655"/>
+  </metadata>
+  <wpt lat="50.407229" lon="16.850866">
+    <ele>872</ele>
+    <name>Jawornik Wielki</name>
+    <link href="https://mapa-turystyczna.pl/node/2193">
+      <text>Jawornik Wielki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.406128" lon="16.852582">
+    <ele>860</ele>
+    <name>Pod Jawornikiem Wielkim</name>
+    <link href="https://mapa-turystyczna.pl/node/2194">
+      <text>Pod Jawornikiem Wielkim</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jawornik Wielki - Pod Jawornikiem Wielkim</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4072287,16.8508655;50.4064298500405,16.851458950000005;50.4061278,16.8525821">
+    <text>Jawornik Wielki - Pod Jawornikiem Wielkim</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4072287" lon="16.8508655">
+      <ele>872</ele>
+      <time>2022-01-17T21:24:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4071496" lon="16.8509399">
+      <ele>872</ele>
+      <time>2022-01-17T21:24:54Z</time>
+    </trkpt>
+    <trkpt lat="50.407009" lon="16.8510036">
+      <ele>873</ele>
+      <time>2022-01-17T21:25:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4066573" lon="16.8510185">
+      <ele>874</ele>
+      <time>2022-01-17T21:25:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4064918" lon="16.8511954">
+      <ele>873</ele>
+      <time>2022-01-17T21:26:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4063679" lon="16.8517225">
+      <ele>870</ele>
+      <time>2022-01-17T21:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.4062376" lon="16.8521201">
+      <ele>866</ele>
+      <time>2022-01-17T21:27:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4061793" lon="16.8524369">
+      <ele>862</ele>
+      <time>2022-01-17T21:27:34Z</time>
+    </trkpt>
+    <trkpt lat="50.4061278" lon="16.8525821">
+      <ele>860</ele>
+      <time>2022-01-17T21:27:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

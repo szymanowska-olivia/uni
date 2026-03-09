@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:28Z</time>
+    <bounds maxlat="49.269497" maxlon="19.980522" minlat="49.26817" minlon="19.97953"/>
+  </metadata>
+  <wpt lat="49.269497" lon="19.980522">
+    <ele>1025</ele>
+    <name>Kuznice</name>
+    <link href="https://mapa-turystyczna.pl/node/233">
+      <text>Kuznice</text>
+    </link>
+  </wpt>
+  <wpt lat="49.26817" lon="19.97953">
+    <ele>1032</ele>
+    <name>Kuznice, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/2518">
+      <text>Kuznice, lesniczowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kuznice - Kuznice, lesniczowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.269497,19.980522;49.26884550015711,19.980078499999976;49.26817,19.97953">
+    <text>Kuznice - Kuznice, lesniczowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.269497" lon="19.980522">
+      <ele>1025</ele>
+      <time>2022-01-17T21:32:28Z</time>
+    </trkpt>
+    <trkpt lat="49.269459" lon="19.980497">
+      <ele>1025</ele>
+      <time>2022-01-17T21:32:33Z</time>
+    </trkpt>
+    <trkpt lat="49.26917" lon="19.980304">
+      <ele>1026</ele>
+      <time>2022-01-17T21:33:11Z</time>
+    </trkpt>
+    <trkpt lat="49.269023" lon="19.980196">
+      <ele>1026</ele>
+      <time>2022-01-17T21:33:31Z</time>
+    </trkpt>
+    <trkpt lat="49.268997" lon="19.980179">
+      <ele>1026</ele>
+      <time>2022-01-17T21:33:34Z</time>
+    </trkpt>
+    <trkpt lat="49.26897" lon="19.980161">
+      <ele>1026</ele>
+      <time>2022-01-17T21:33:38Z</time>
+    </trkpt>
+    <trkpt lat="49.268721" lon="19.979996">
+      <ele>1026</ele>
+      <time>2022-01-17T21:34:11Z</time>
+    </trkpt>
+    <trkpt lat="49.268494" lon="19.979839">
+      <ele>1028</ele>
+      <time>2022-01-17T21:34:41Z</time>
+    </trkpt>
+    <trkpt lat="49.268308" lon="19.979694">
+      <ele>1030</ele>
+      <time>2022-01-17T21:35:07Z</time>
+    </trkpt>
+    <trkpt lat="49.268255" lon="19.979633">
+      <ele>1031</ele>
+      <time>2022-01-17T21:35:15Z</time>
+    </trkpt>
+    <trkpt lat="49.26817" lon="19.97953">
+      <ele>1032</ele>
+      <time>2022-01-17T21:35:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

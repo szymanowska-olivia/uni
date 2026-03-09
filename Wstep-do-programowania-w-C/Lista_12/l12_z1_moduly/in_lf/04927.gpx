@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:48:19Z</time>
+    <bounds maxlat="51.0275026" maxlon="15.0621593" minlat="51.0254541" minlon="15.0601583"/>
+  </metadata>
+  <wpt lat="51.027158" lon="15.060158">
+    <ele>231</ele>
+    <name>Zawidow, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3442">
+      <text>Zawidow, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.025454" lon="15.062159">
+    <ele>231</ele>
+    <name>Zawidow</name>
+    <link href="https://mapa-turystyczna.pl/node/3443">
+      <text>Zawidow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zawidow, dworzec autobusowy - Zawidow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.027158,15.0601583;51.0266632004148,15.061485399999981;51.0254541,15.0621593">
+    <text>Zawidow, dworzec autobusowy - Zawidow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.027158" lon="15.0601583">
+      <ele>231</ele>
+      <time>2022-01-17T21:48:19Z</time>
+    </trkpt>
+    <trkpt lat="51.0275026" lon="15.0605307">
+      <ele>232</ele>
+      <time>2022-01-17T21:49:05Z</time>
+    </trkpt>
+    <trkpt lat="51.0268593" lon="15.0613788">
+      <ele>231</ele>
+      <time>2022-01-17T21:50:36Z</time>
+    </trkpt>
+    <trkpt lat="51.0264671" lon="15.061592">
+      <ele>231</ele>
+      <time>2022-01-17T21:51:21Z</time>
+    </trkpt>
+    <trkpt lat="51.0257481" lon="15.0620205">
+      <ele>233</ele>
+      <time>2022-01-17T21:52:45Z</time>
+    </trkpt>
+    <trkpt lat="51.0254541" lon="15.0621593">
+      <ele>231</ele>
+      <time>2022-01-17T21:53:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

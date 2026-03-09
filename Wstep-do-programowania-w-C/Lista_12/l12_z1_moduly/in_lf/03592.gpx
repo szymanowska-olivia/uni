@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:14Z</time>
+    <bounds maxlat="49.0660397" maxlon="22.6862306" minlat="49.0621945" minlon="22.6806424"/>
+  </metadata>
+  <wpt lat="49.06604" lon="22.680642">
+    <ele>724</ele>
+    <name>Wolosate, poczatek/koniec Glownego Szlaku Beskidzkiego</name>
+    <link href="https://mapa-turystyczna.pl/node/2512">
+      <text>Wolosate, poczatek/koniec Glownego Szlaku Beskidzkiego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.062194" lon="22.686231">
+    <ele>737</ele>
+    <name>Wolosate</name>
+    <link href="https://mapa-turystyczna.pl/node/406">
+      <text>Wolosate</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolosate, poczatek/koniec Glownego Szlaku Beskidzkiego - Wolosate</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0660397,22.6806424;49.06376886272158,22.683626200000013;49.0621945,22.6862306">
+    <text>Wolosate, poczatek/koniec Glownego Szlaku Beskidzkiego - Wolosate</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0660397" lon="22.6806424">
+      <ele>724</ele>
+      <time>2022-01-17T21:32:14Z</time>
+    </trkpt>
+    <trkpt lat="49.0653713" lon="22.6813376">
+      <ele>725</ele>
+      <time>2022-01-17T21:33:45Z</time>
+    </trkpt>
+    <trkpt lat="49.0648933" lon="22.6818847">
+      <ele>731</ele>
+      <time>2022-01-17T21:34:52Z</time>
+    </trkpt>
+    <trkpt lat="49.0626444" lon="22.6853677">
+      <ele>739</ele>
+      <time>2022-01-17T21:40:53Z</time>
+    </trkpt>
+    <trkpt lat="49.0621945" lon="22.6862306">
+      <ele>737</ele>
+      <time>2022-01-17T21:42:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

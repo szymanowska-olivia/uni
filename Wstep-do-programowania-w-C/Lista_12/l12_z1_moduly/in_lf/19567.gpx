@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:44Z</time>
+    <bounds maxlat="52.4372472" maxlon="15.4765487" minlat="52.4368726" minlon="15.4731584"/>
+  </metadata>
+  <wpt lat="52.436873" lon="15.476549">
+    <ele>61</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13202">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="52.437187" lon="15.473158">
+    <ele>45</ele>
+    <name>Kursko-Dabie</name>
+    <link href="https://mapa-turystyczna.pl/node/13203">
+      <text>Kursko-Dabie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Kursko-Dabie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4368726,15.4765487;52.437059900398054,15.475388150000002;52.4371865,15.4731584">
+    <text>Rozejscie szlakow - Kursko-Dabie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4368726" lon="15.4765487">
+      <ele>61</ele>
+      <time>2022-01-18T01:50:44Z</time>
+    </trkpt>
+    <trkpt lat="52.4372472" lon="15.4742276">
+      <ele>44</ele>
+      <time>2022-01-18T01:54:12Z</time>
+    </trkpt>
+    <trkpt lat="52.4371865" lon="15.4731584">
+      <ele>45</ele>
+      <time>2022-01-18T01:55:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

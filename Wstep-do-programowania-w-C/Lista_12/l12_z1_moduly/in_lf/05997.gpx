@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:16Z</time>
+    <bounds maxlat="49.395179" maxlon="20.411087" minlat="49.393872" minlon="20.409449"/>
+  </metadata>
+  <wpt lat="49.395179" lon="20.409449">
+    <ele>455</ele>
+    <name>Sromowce Nizne</name>
+    <link href="https://mapa-turystyczna.pl/node/47">
+      <text>Sromowce Nizne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.393872" lon="20.411073">
+    <ele>454</ele>
+    <name>Czerwony Klasztor, kladka</name>
+    <link href="https://mapa-turystyczna.pl/node/4117">
+      <text>Czerwony Klasztor, kladka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sromowce Nizne - Czerwony Klasztor, kladka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.395179,20.409449;49.394511002296774,20.410334499999994;49.393872,20.411073">
+    <text>Sromowce Nizne - Czerwony Klasztor, kladka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.395179" lon="20.409449">
+      <ele>455</ele>
+      <time>2022-01-17T22:04:16Z</time>
+    </trkpt>
+    <trkpt lat="49.395154" lon="20.40949">
+      <ele>455</ele>
+      <time>2022-01-17T22:04:20Z</time>
+    </trkpt>
+    <trkpt lat="49.395056" lon="20.40962">
+      <ele>455</ele>
+      <time>2022-01-17T22:04:33Z</time>
+    </trkpt>
+    <trkpt lat="49.394986" lon="20.409714">
+      <ele>455</ele>
+      <time>2022-01-17T22:04:43Z</time>
+    </trkpt>
+    <trkpt lat="49.394036" lon="20.410955">
+      <ele>454</ele>
+      <time>2022-01-17T22:06:52Z</time>
+    </trkpt>
+    <trkpt lat="49.394013" lon="20.410981">
+      <ele>454</ele>
+      <time>2022-01-17T22:06:55Z</time>
+    </trkpt>
+    <trkpt lat="49.393927" lon="20.411087">
+      <ele>454</ele>
+      <time>2022-01-17T22:07:06Z</time>
+    </trkpt>
+    <trkpt lat="49.393901" lon="20.41102">
+      <ele>454</ele>
+      <time>2022-01-17T22:07:11Z</time>
+    </trkpt>
+    <trkpt lat="49.393872" lon="20.411073">
+      <ele>454</ele>
+      <time>2022-01-17T22:07:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

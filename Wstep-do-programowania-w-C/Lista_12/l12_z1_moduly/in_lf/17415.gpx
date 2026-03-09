@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:54Z</time>
+    <bounds maxlat="51.1100124" maxlon="15.592416" minlat="51.1093472" minlon="15.5910067"/>
+  </metadata>
+  <wpt lat="51.110012" lon="15.592416">
+    <ele>208</ele>
+    <name>Lwowek Slaski, ul. Rzeczna</name>
+    <link href="https://mapa-turystyczna.pl/node/3403">
+      <text>Lwowek Slaski, ul. Rzeczna</text>
+    </link>
+  </wpt>
+  <wpt lat="51.109347" lon="15.591007">
+    <ele>211</ele>
+    <name>Lwowek Slaski, ul. Daszynskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11834">
+      <text>Lwowek Slaski, ul. Daszynskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lwowek Slaski, ul. Rzeczna - Lwowek Slaski, ul. Daszynskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1100124,15.592416;51.10967980119682,15.591711350000006;51.1093472,15.5910067">
+    <text>Lwowek Slaski, ul. Rzeczna - Lwowek Slaski, ul. Daszynskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1100124" lon="15.592416">
+      <ele>208</ele>
+      <time>2022-01-18T01:12:54Z</time>
+    </trkpt>
+    <trkpt lat="51.1093472" lon="15.5910067">
+      <ele>211</ele>
+      <time>2022-01-18T01:14:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:08Z</time>
+    <bounds maxlat="50.7807656" maxlon="16.2241459" minlat="50.7805025" minlon="16.2178597"/>
+  </metadata>
+  <wpt lat="50.780536" lon="16.21786">
+    <ele>676</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8053">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.780766" lon="16.224141">
+    <ele>546</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8052">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow niebieski / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7805357,16.2178597;50.78063140017767,16.22101845;50.7807656,16.2241411">
+    <text>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow niebieski / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7805357" lon="16.2178597">
+      <ele>676</ele>
+      <time>2022-01-17T23:35:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7805025" lon="16.217891">
+      <ele>676</ele>
+      <time>2022-01-17T23:35:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7807603" lon="16.2241459">
+      <ele>546</ele>
+      <time>2022-01-17T23:40:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7807656" lon="16.2241411">
+      <ele>546</ele>
+      <time>2022-01-17T23:40:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

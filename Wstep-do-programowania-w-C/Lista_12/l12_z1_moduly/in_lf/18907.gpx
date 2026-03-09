@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:19Z</time>
+    <bounds maxlat="50.3130521" maxlon="19.2926149" minlat="50.3112296" minlon="19.2876911"/>
+  </metadata>
+  <wpt lat="50.31123" lon="19.287691">
+    <ele>280</ele>
+    <name>Strzemieszyce Wielkie</name>
+    <link href="https://mapa-turystyczna.pl/node/12803">
+      <text>Strzemieszyce Wielkie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.313052" lon="19.291956">
+    <ele>288</ele>
+    <name>Dabrowa Gornicza, ul. Strzemieszycka</name>
+    <link href="https://mapa-turystyczna.pl/node/12804">
+      <text>Dabrowa Gornicza, ul. Strzemieszycka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Strzemieszyce Wielkie - Dabrowa Gornicza, ul. Strzemieszycka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3112296,19.2876911;50.31190490479549,19.29015300000002;50.3130521,19.2919558">
+    <text>Strzemieszyce Wielkie - Dabrowa Gornicza, ul. Strzemieszycka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3112296" lon="19.2876911">
+      <ele>280</ele>
+      <time>2022-01-18T01:39:19Z</time>
+    </trkpt>
+    <trkpt lat="50.3125802" lon="19.2926149">
+      <ele>291</ele>
+      <time>2022-01-18T01:47:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3130521" lon="19.2919558">
+      <ele>288</ele>
+      <time>2022-01-18T01:49:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

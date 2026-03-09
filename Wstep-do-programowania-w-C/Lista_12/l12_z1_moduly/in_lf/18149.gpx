@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:06Z</time>
+    <bounds maxlat="49.657034" maxlon="18.864616" minlat="49.656343" minlon="18.863541"/>
+  </metadata>
+  <wpt lat="49.657034" lon="18.863541">
+    <ele>452</ele>
+    <name>Rozejscie sciezek zielona / zolta</name>
+    <link href="https://mapa-turystyczna.pl/node/12337">
+      <text>Rozejscie sciezek zielona / zolta</text>
+    </link>
+  </wpt>
+  <wpt lat="49.656343" lon="18.864616">
+    <ele>457</ele>
+    <name>Wisla, ul. Gornoslaska</name>
+    <link href="https://mapa-turystyczna.pl/node/12336">
+      <text>Wisla, ul. Gornoslaska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezek zielona / zolta - Wisla, ul. Gornoslaska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.657034,18.863541;49.65675500042341,18.864061499999973;49.656343,18.864616">
+    <text>Rozejscie sciezek zielona / zolta - Wisla, ul. Gornoslaska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.657034" lon="18.863541">
+      <ele>452</ele>
+      <time>2022-01-18T01:26:06Z</time>
+    </trkpt>
+    <trkpt lat="49.656958" lon="18.863811">
+      <ele>455</ele>
+      <time>2022-01-18T01:26:29Z</time>
+    </trkpt>
+    <trkpt lat="49.656552" lon="18.864312">
+      <ele>454</ele>
+      <time>2022-01-18T01:27:31Z</time>
+    </trkpt>
+    <trkpt lat="49.656405" lon="18.864554">
+      <ele>457</ele>
+      <time>2022-01-18T01:27:57Z</time>
+    </trkpt>
+    <trkpt lat="49.656343" lon="18.864616">
+      <ele>457</ele>
+      <time>2022-01-18T01:28:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

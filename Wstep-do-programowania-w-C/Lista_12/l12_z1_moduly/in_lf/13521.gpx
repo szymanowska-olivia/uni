@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:08:50Z</time>
+    <bounds maxlat="50.2223697" maxlon="19.0551508" minlat="50.222115" minlon="19.0540588"/>
+  </metadata>
+  <wpt lat="50.222115" lon="19.054059">
+    <ele>280</ele>
+    <name>Rybaczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/9333">
+      <text>Rybaczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.22237" lon="19.055151">
+    <ele>284</ele>
+    <name>Staw Janina</name>
+    <link href="https://mapa-turystyczna.pl/node/9101">
+      <text>Staw Janina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybaczowka - Staw Janina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.222115,19.0540588;50.22233065000821,19.05466920000002;50.2223697,19.0551508">
+    <text>Rybaczowka - Staw Janina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.222115" lon="19.0540588">
+      <ele>280</ele>
+      <time>2022-01-18T00:08:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2222027" lon="19.0542867">
+      <ele>281</ele>
+      <time>2022-01-18T00:09:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2223027" lon="19.0545359">
+      <ele>282</ele>
+      <time>2022-01-18T00:09:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2223586" lon="19.0548025">
+      <ele>283</ele>
+      <time>2022-01-18T00:10:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2223697" lon="19.0551508">
+      <ele>284</ele>
+      <time>2022-01-18T00:10:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

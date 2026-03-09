@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:42Z</time>
+    <bounds maxlat="50.2521925" maxlon="16.8049731" minlat="50.2476303" minlon="16.8043828"/>
+  </metadata>
+  <wpt lat="50.24763" lon="16.804383">
+    <ele>1132</ele>
+    <name>Przelecz pod Jaworowa Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/1749">
+      <text>Przelecz pod Jaworowa Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.252192" lon="16.804968">
+    <ele>1205</ele>
+    <name>Czarna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/1768">
+      <text>Czarna Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Jaworowa Kopa - Czarna Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2476303,16.8043828;50.24931440756293,16.80462975;50.2521925,16.8049675">
+    <text>Przelecz pod Jaworowa Kopa - Czarna Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2476303" lon="16.8043828">
+      <ele>1132</ele>
+      <time>2022-01-17T21:16:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2484654" lon="16.8045117">
+      <ele>1137</ele>
+      <time>2022-01-17T21:19:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2501634" lon="16.8047478">
+      <ele>1169</ele>
+      <time>2022-01-17T21:25:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2511615" lon="16.8048658">
+      <ele>1193</ele>
+      <time>2022-01-17T21:28:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2517893" lon="16.8049731">
+      <ele>1204</ele>
+      <time>2022-01-17T21:30:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2521925" lon="16.8049675">
+      <ele>1205</ele>
+      <time>2022-01-17T21:31:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

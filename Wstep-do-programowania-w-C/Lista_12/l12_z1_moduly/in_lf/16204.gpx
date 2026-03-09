@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:52:51Z</time>
+    <bounds maxlat="49.1047799" maxlon="22.6481184" minlat="49.1034148" minlon="22.6475644"/>
+  </metadata>
+  <wpt lat="49.10478" lon="22.647564">
+    <ele>656</ele>
+    <name>Ustrzyki Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/399">
+      <text>Ustrzyki Gorne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.103415" lon="22.648118">
+    <ele>650</ele>
+    <name>Poczatek sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11062">
+      <text>Poczatek sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ustrzyki Gorne - Poczatek sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1047799,22.6475644;49.104097354694055,22.647841399999997;49.1034148,22.6481184">
+    <text>Ustrzyki Gorne - Poczatek sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1047799" lon="22.6475644">
+      <ele>656</ele>
+      <time>2022-01-18T00:52:51Z</time>
+    </trkpt>
+    <trkpt lat="49.1034148" lon="22.6481184">
+      <ele>650</ele>
+      <time>2022-01-18T00:54:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:12Z</time>
+    <bounds maxlat="51.4848959" maxlon="16.9162224" minlat="51.4823871" minlon="16.9135506"/>
+  </metadata>
+  <wpt lat="51.484896" lon="16.916222">
+    <ele>91</ele>
+    <name>Zmigrodek, ul. Milicka</name>
+    <link href="https://mapa-turystyczna.pl/node/10409">
+      <text>Zmigrodek, ul. Milicka</text>
+    </link>
+  </wpt>
+  <wpt lat="51.482387" lon="16.913663">
+    <ele>90</ele>
+    <name>Zmigrodek, Zespol Palacowo-Parkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10408">
+      <text>Zmigrodek, Zespol Palacowo-Parkowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zmigrodek, ul. Milicka - Zmigrodek, Zespol Palacowo-Parkowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4848959,16.9162224;51.48424025471348,16.91503134999998;51.4823871,16.9136635">
+    <text>Zmigrodek, ul. Milicka - Zmigrodek, Zespol Palacowo-Parkowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4848959" lon="16.9162224">
+      <ele>91</ele>
+      <time>2022-01-18T00:36:12Z</time>
+    </trkpt>
+    <trkpt lat="51.4835846" lon="16.9138403">
+      <ele>93</ele>
+      <time>2022-01-18T00:39:16Z</time>
+    </trkpt>
+    <trkpt lat="51.483481" lon="16.9136794">
+      <ele>93</ele>
+      <time>2022-01-18T00:39:29Z</time>
+    </trkpt>
+    <trkpt lat="51.4833675" lon="16.9136096">
+      <ele>93</ele>
+      <time>2022-01-18T00:39:40Z</time>
+    </trkpt>
+    <trkpt lat="51.4832105" lon="16.9135506">
+      <ele>92</ele>
+      <time>2022-01-18T00:39:55Z</time>
+    </trkpt>
+    <trkpt lat="51.4823871" lon="16.9136635">
+      <ele>90</ele>
+      <time>2022-01-18T00:41:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

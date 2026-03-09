@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:55Z</time>
+    <bounds maxlat="49.4152" maxlon="20.991889" minlat="49.414848" minlon="20.991461"/>
+  </metadata>
+  <wpt lat="49.4152" lon="20.991461">
+    <ele>864</ele>
+    <name>Pod Huzarami</name>
+    <link href="https://mapa-turystyczna.pl/node/414">
+      <text>Pod Huzarami</text>
+    </link>
+  </wpt>
+  <wpt lat="49.414848" lon="20.991889">
+    <ele>864</ele>
+    <name>Huzary</name>
+    <link href="https://mapa-turystyczna.pl/node/7988">
+      <text>Huzary</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Huzarami - Huzary</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4152,20.991461;49.41498350018704,20.99172499999998;49.414848,20.991889">
+    <text>Pod Huzarami - Huzary</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4152" lon="20.991461">
+      <ele>864</ele>
+      <time>2022-01-17T23:32:55Z</time>
+    </trkpt>
+    <trkpt lat="49.415119" lon="20.991561">
+      <ele>865</ele>
+      <time>2022-01-17T23:33:09Z</time>
+    </trkpt>
+    <trkpt lat="49.414848" lon="20.991889">
+      <ele>864</ele>
+      <time>2022-01-17T23:33:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:05Z</time>
+    <bounds maxlat="52.3057628" maxlon="20.8843963" minlat="52.305448" minlon="20.8813834"/>
+  </metadata>
+  <wpt lat="52.305763" lon="20.881383">
+    <ele>87</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/5005">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="52.305448" lon="20.884396">
+    <ele>86</ele>
+    <name>Wolka Weglowa, ul. Estrady</name>
+    <link href="https://mapa-turystyczna.pl/node/10763">
+      <text>Wolka Weglowa, ul. Estrady</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow zolty / czarny - Wolka Weglowa, ul. Estrady</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3057628,20.8813834;52.305690150052754,20.882536749999996;52.305448,20.8843963">
+    <text>Skrzyzowanie szlakow zolty / czarny - Wolka Weglowa, ul. Estrady</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3057628" lon="20.8813834">
+      <ele>87</ele>
+      <time>2022-01-18T00:45:05Z</time>
+    </trkpt>
+    <trkpt lat="52.3057585" lon="20.8815711">
+      <ele>87</ele>
+      <time>2022-01-18T00:45:16Z</time>
+    </trkpt>
+    <trkpt lat="52.3056218" lon="20.8835024">
+      <ele>85</ele>
+      <time>2022-01-18T00:47:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3055568" lon="20.8836713">
+      <ele>86</ele>
+      <time>2022-01-18T00:47:21Z</time>
+    </trkpt>
+    <trkpt lat="52.3054643" lon="20.8840281">
+      <ele>86</ele>
+      <time>2022-01-18T00:47:43Z</time>
+    </trkpt>
+    <trkpt lat="52.305448" lon="20.8843963">
+      <ele>86</ele>
+      <time>2022-01-18T00:48:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

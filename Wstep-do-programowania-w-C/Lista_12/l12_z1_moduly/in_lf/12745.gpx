@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:30Z</time>
+    <bounds maxlat="50.8261406" maxlon="15.1472928" minlat="50.8239312" minlon="15.1446535"/>
+  </metadata>
+  <wpt lat="50.826141" lon="15.144654">
+    <ele>789</ele>
+    <name>Pod Olivetskou horou</name>
+    <link href="https://mapa-turystyczna.pl/node/8759">
+      <text>Pod Olivetskou horou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.823931" lon="15.147293">
+    <ele>784</ele>
+    <name>Za prehradou, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8760">
+      <text>Za prehradou, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Olivetskou horou - Za prehradou, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8261406,15.1446535;50.82536605642499,15.145840999999978;50.8239312,15.1472928">
+    <text>Pod Olivetskou horou - Za prehradou, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8261406" lon="15.1446535">
+      <ele>789</ele>
+      <time>2022-01-17T23:55:30Z</time>
+    </trkpt>
+    <trkpt lat="50.8245915" lon="15.1470285">
+      <ele>781</ele>
+      <time>2022-01-17T23:59:18Z</time>
+    </trkpt>
+    <trkpt lat="50.8242342" lon="15.1471928">
+      <ele>783</ele>
+      <time>2022-01-17T23:59:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8239312" lon="15.1472928">
+      <ele>784</ele>
+      <time>2022-01-18T00:00:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

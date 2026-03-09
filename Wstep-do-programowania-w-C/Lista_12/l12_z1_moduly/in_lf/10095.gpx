@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:08Z</time>
+    <bounds maxlat="48.8548187" maxlon="20.4070026" minlat="48.8542998" minlon="20.406906"/>
+  </metadata>
+  <wpt lat="48.8543" lon="20.407003">
+    <ele>762</ele>
+    <name>Mlynky, vlak</name>
+    <link href="https://mapa-turystyczna.pl/node/7105">
+      <text>Mlynky, vlak</text>
+    </link>
+  </wpt>
+  <wpt lat="48.854819" lon="20.406906">
+    <ele>756</ele>
+    <name>Mlynky, prostredni Hamor</name>
+    <link href="https://mapa-turystyczna.pl/node/7102">
+      <text>Mlynky, prostredni Hamor</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mlynky, vlak - Mlynky, prostredni Hamor</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8542998,20.4070026;48.854666900230136,20.406946249999987;48.8548187,20.406906">
+    <text>Mlynky, vlak - Mlynky, prostredni Hamor</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8542998" lon="20.4070026">
+      <ele>762</ele>
+      <time>2022-01-17T23:10:08Z</time>
+    </trkpt>
+    <trkpt lat="48.8545151" lon="20.4069865">
+      <ele>759</ele>
+      <time>2022-01-17T23:10:33Z</time>
+    </trkpt>
+    <trkpt lat="48.8548187" lon="20.406906">
+      <ele>756</ele>
+      <time>2022-01-17T23:11:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

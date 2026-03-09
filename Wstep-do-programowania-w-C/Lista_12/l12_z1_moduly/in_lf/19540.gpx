@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:50:15Z</time>
+    <bounds maxlat="50.3535854" maxlon="16.3613459" minlat="50.3532445" minlon="16.3607132"/>
+  </metadata>
+  <wpt lat="50.353245" lon="16.360713">
+    <ele>1084</ele>
+    <name>Orlica</name>
+    <link href="https://mapa-turystyczna.pl/node/2007">
+      <text>Orlica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.353493" lon="16.361346">
+    <ele>1076</ele>
+    <name>Orlica, wieza widokowa</name>
+    <link href="https://mapa-turystyczna.pl/node/13180">
+      <text>Orlica, wieza widokowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Orlica - Orlica, wieza widokowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3532445,16.3607132;50.35349465001362,16.360983800000007;50.3534929,16.3613459">
+    <text>Orlica - Orlica, wieza widokowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3532445" lon="16.3607132">
+      <ele>1084</ele>
+      <time>2022-01-18T01:50:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3533492" lon="16.3607665">
+      <ele>1083</ele>
+      <time>2022-01-18T01:50:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3534587" lon="16.3609221">
+      <ele>1080</ele>
+      <time>2022-01-18T01:50:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3535306" lon="16.3610455">
+      <ele>1079</ele>
+      <time>2022-01-18T01:50:51Z</time>
+    </trkpt>
+    <trkpt lat="50.3535648" lon="16.3611206">
+      <ele>1078</ele>
+      <time>2022-01-18T01:50:57Z</time>
+    </trkpt>
+    <trkpt lat="50.3535854" lon="16.3612011">
+      <ele>1077</ele>
+      <time>2022-01-18T01:51:02Z</time>
+    </trkpt>
+    <trkpt lat="50.3534929" lon="16.3613459">
+      <ele>1076</ele>
+      <time>2022-01-18T01:51:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

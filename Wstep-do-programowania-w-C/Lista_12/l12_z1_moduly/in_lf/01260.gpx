@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:58:15Z</time>
+    <bounds maxlat="49.323396" maxlon="19.956721" minlat="49.321196" minlon="19.952876"/>
+  </metadata>
+  <wpt lat="49.323396" lon="19.952876">
+    <ele>1018</ele>
+    <name>Eliaszowka</name>
+    <link href="https://mapa-turystyczna.pl/node/959">
+      <text>Eliaszowka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.321196" lon="19.956721">
+    <ele>1005</ele>
+    <name>Furmanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/974">
+      <text>Furmanowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Eliaszowka - Furmanowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.323396,19.952876;49.321946000087806,19.954533;49.321196,19.956721">
+    <text>Eliaszowka - Furmanowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.323396" lon="19.952876">
+      <ele>1018</ele>
+      <time>2022-01-17T20:58:15Z</time>
+    </trkpt>
+    <trkpt lat="49.323242" lon="19.952908">
+      <ele>1018</ele>
+      <time>2022-01-17T20:58:28Z</time>
+    </trkpt>
+    <trkpt lat="49.322956" lon="19.953085">
+      <ele>1018</ele>
+      <time>2022-01-17T20:58:55Z</time>
+    </trkpt>
+    <trkpt lat="49.322774" lon="19.953248">
+      <ele>1018</ele>
+      <time>2022-01-17T20:59:13Z</time>
+    </trkpt>
+    <trkpt lat="49.322507" lon="19.95359">
+      <ele>1015</ele>
+      <time>2022-01-17T20:59:43Z</time>
+    </trkpt>
+    <trkpt lat="49.32227" lon="19.953933">
+      <ele>1013</ele>
+      <time>2022-01-17T21:00:11Z</time>
+    </trkpt>
+    <trkpt lat="49.322039" lon="19.954344">
+      <ele>1012</ele>
+      <time>2022-01-17T21:00:41Z</time>
+    </trkpt>
+    <trkpt lat="49.321853" lon="19.954722">
+      <ele>1012</ele>
+      <time>2022-01-17T21:01:08Z</time>
+    </trkpt>
+    <trkpt lat="49.321772" lon="19.95497">
+      <ele>1011</ele>
+      <time>2022-01-17T21:01:24Z</time>
+    </trkpt>
+    <trkpt lat="49.321729" lon="19.955102">
+      <ele>1010</ele>
+      <time>2022-01-17T21:01:32Z</time>
+    </trkpt>
+    <trkpt lat="49.321635" lon="19.955443">
+      <ele>1008</ele>
+      <time>2022-01-17T21:01:53Z</time>
+    </trkpt>
+    <trkpt lat="49.321557" lon="19.955844">
+      <ele>1006</ele>
+      <time>2022-01-17T21:02:16Z</time>
+    </trkpt>
+    <trkpt lat="49.321464" lon="19.956213">
+      <ele>1005</ele>
+      <time>2022-01-17T21:02:38Z</time>
+    </trkpt>
+    <trkpt lat="49.321196" lon="19.956721">
+      <ele>1005</ele>
+      <time>2022-01-17T21:03:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

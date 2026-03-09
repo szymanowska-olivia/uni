@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:39:13Z</time>
+    <bounds maxlat="50.2829913" maxlon="17.5756413" minlat="50.2791375" minlon="17.5591783"/>
+  </metadata>
+  <wpt lat="50.279137" lon="17.559178">
+    <ele>347</ele>
+    <name>Zbylut</name>
+    <link href="https://mapa-turystyczna.pl/node/8183">
+      <text>Zbylut</text>
+    </link>
+  </wpt>
+  <wpt lat="50.282991" lon="17.575641">
+    <ele>284</ele>
+    <name>Rozdroze pod Trzebina</name>
+    <link href="https://mapa-turystyczna.pl/node/2618">
+      <text>Rozdroze pod Trzebina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zbylut - Rozdroze pod Trzebina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2791375,17.5591783;50.28113935530193,17.567936600000014;50.2829913,17.5756413">
+    <text>Zbylut - Rozdroze pod Trzebina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2791375" lon="17.5591783">
+      <ele>347</ele>
+      <time>2022-01-17T23:39:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2797553" lon="17.5614202">
+      <ele>331</ele>
+      <time>2022-01-17T23:42:00Z</time>
+    </trkpt>
+    <trkpt lat="50.280297" lon="17.5650465">
+      <ele>311</ele>
+      <time>2022-01-17T23:46:14Z</time>
+    </trkpt>
+    <trkpt lat="50.2804289" lon="17.56565">
+      <ele>303</ele>
+      <time>2022-01-17T23:46:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2818498" lon="17.5702232">
+      <ele>291</ele>
+      <time>2022-01-17T23:52:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2822029" lon="17.5720096">
+      <ele>289</ele>
+      <time>2022-01-17T23:54:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2829913" lon="17.5756413">
+      <ele>284</ele>
+      <time>2022-01-17T23:59:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

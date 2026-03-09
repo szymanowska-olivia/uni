@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:12Z</time>
+    <bounds maxlat="50.9093553" maxlon="15.3527713" minlat="50.9091083" minlon="15.3514613"/>
+  </metadata>
+  <wpt lat="50.909355" lon="15.351461">
+    <ele>585</ele>
+    <name>Swieradow-Zdroj, ul. Sybirakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8087">
+      <text>Swieradow-Zdroj, ul. Sybirakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.909108" lon="15.352771">
+    <ele>597</ele>
+    <name>Barylka</name>
+    <link href="https://mapa-turystyczna.pl/node/2258">
+      <text>Barylka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Swieradow-Zdroj, ul. Sybirakow - Barylka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9093553,15.3514613;50.909218200129736,15.35235825;50.9091083,15.3527713">
+    <text>Swieradow-Zdroj, ul. Sybirakow - Barylka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9093553" lon="15.3514613">
+      <ele>585</ele>
+      <time>2022-01-17T23:36:12Z</time>
+    </trkpt>
+    <trkpt lat="50.9093281" lon="15.3519452">
+      <ele>589</ele>
+      <time>2022-01-17T23:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.9091083" lon="15.3527713">
+      <ele>597</ele>
+      <time>2022-01-17T23:39:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

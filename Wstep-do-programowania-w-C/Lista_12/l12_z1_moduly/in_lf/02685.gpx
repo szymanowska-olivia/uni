@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:27Z</time>
+    <bounds maxlat="50.2541559" maxlon="16.4076787" minlat="50.2524532" minlon="16.4006114"/>
+  </metadata>
+  <wpt lat="50.254156" lon="16.400611">
+    <ele>766</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13549">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.252453" lon="16.407679">
+    <ele>680</ele>
+    <name>Pod Certovym Dolem</name>
+    <link href="https://mapa-turystyczna.pl/node/1922">
+      <text>Pod Certovym Dolem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Certovym Dolem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2541559,16.4006114;50.253216900911376,16.403807700000026;50.2524532,16.4076787">
+    <text>Rozejscie szlakow - Pod Certovym Dolem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2541559" lon="16.4006114">
+      <ele>766</ele>
+      <time>2022-01-17T21:19:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2539437" lon="16.4009355">
+      <ele>765</ele>
+      <time>2022-01-17T21:20:02Z</time>
+    </trkpt>
+    <trkpt lat="50.253786" lon="16.4014076">
+      <ele>763</ele>
+      <time>2022-01-17T21:20:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2535116" lon="16.4026628">
+      <ele>755</ele>
+      <time>2022-01-17T21:22:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2529222" lon="16.4049526">
+      <ele>737</ele>
+      <time>2022-01-17T21:25:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2531389" lon="16.4055638">
+      <ele>730</ele>
+      <time>2022-01-17T21:26:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2530933" lon="16.4062491">
+      <ele>714</ele>
+      <time>2022-01-17T21:27:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2529516" lon="16.4067252">
+      <ele>700</ele>
+      <time>2022-01-17T21:27:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2524532" lon="16.4076787">
+      <ele>680</ele>
+      <time>2022-01-17T21:29:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

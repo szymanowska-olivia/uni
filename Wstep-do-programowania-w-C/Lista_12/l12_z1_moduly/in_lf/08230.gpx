@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:03Z</time>
+    <bounds maxlat="50.3682306" maxlon="16.202994" minlat="50.3675532" minlon="16.201787"/>
+  </metadata>
+  <wpt lat="50.367553" lon="16.201787">
+    <ele>541</ele>
+    <name>Sendraz</name>
+    <link href="https://mapa-turystyczna.pl/node/5722">
+      <text>Sendraz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.368231" lon="16.202994">
+    <ele>557</ele>
+    <name>Sendraz, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5727">
+      <text>Sendraz, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sendraz - Sendraz, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3675532,16.201787;50.367985950086585,16.20247295000003;50.3682306,16.202994">
+    <text>Sendraz - Sendraz, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3675532" lon="16.201787">
+      <ele>541</ele>
+      <time>2022-01-17T22:35:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3676609" lon="16.2018152">
+      <ele>543</ele>
+      <time>2022-01-17T22:35:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3678953" lon="16.2022993">
+      <ele>550</ele>
+      <time>2022-01-17T22:36:28Z</time>
+    </trkpt>
+    <trkpt lat="50.3680766" lon="16.2026466">
+      <ele>555</ele>
+      <time>2022-01-17T22:37:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3682306" lon="16.202994">
+      <ele>557</ele>
+      <time>2022-01-17T22:38:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

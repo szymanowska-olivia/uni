@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:07Z</time>
+    <bounds maxlat="53.973669" maxlon="14.7716113" minlat="53.973326" minlon="14.7694387"/>
+  </metadata>
+  <wpt lat="53.973326" lon="14.771611">
+    <ele>13</ele>
+    <name>Kamien Pomorski, ul. Gryfitow</name>
+    <link href="https://mapa-turystyczna.pl/node/8603">
+      <text>Kamien Pomorski, ul. Gryfitow</text>
+    </link>
+  </wpt>
+  <wpt lat="53.97348" lon="14.769439">
+    <ele>10</ele>
+    <name>Kamien Pomorski, ul. Marianska</name>
+    <link href="https://mapa-turystyczna.pl/node/8604">
+      <text>Kamien Pomorski, ul. Marianska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien Pomorski, ul. Gryfitow - Kamien Pomorski, ul. Marianska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.973326,14.7716113;53.97351600013408,14.770454999999995;53.9734801,14.7694387">
+    <text>Kamien Pomorski, ul. Gryfitow - Kamien Pomorski, ul. Marianska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.973326" lon="14.7716113">
+      <ele>13</ele>
+      <time>2022-01-17T23:52:07Z</time>
+    </trkpt>
+    <trkpt lat="53.9733629" lon="14.771442">
+      <ele>13</ele>
+      <time>2022-01-17T23:52:19Z</time>
+    </trkpt>
+    <trkpt lat="53.9733598" lon="14.7710022">
+      <ele>13</ele>
+      <time>2022-01-17T23:52:49Z</time>
+    </trkpt>
+    <trkpt lat="53.9733377" lon="14.7707983">
+      <ele>13</ele>
+      <time>2022-01-17T23:53:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9733819" lon="14.7706803">
+      <ele>13</ele>
+      <time>2022-01-17T23:53:13Z</time>
+    </trkpt>
+    <trkpt lat="53.9734103" lon="14.7704604">
+      <ele>13</ele>
+      <time>2022-01-17T23:53:28Z</time>
+    </trkpt>
+    <trkpt lat="53.9736217" lon="14.7704496">
+      <ele>12</ele>
+      <time>2022-01-17T23:53:52Z</time>
+    </trkpt>
+    <trkpt lat="53.9736658" lon="14.7701492">
+      <ele>11</ele>
+      <time>2022-01-17T23:54:13Z</time>
+    </trkpt>
+    <trkpt lat="53.973669" lon="14.7700258">
+      <ele>10</ele>
+      <time>2022-01-17T23:54:22Z</time>
+    </trkpt>
+    <trkpt lat="53.9734801" lon="14.7694387">
+      <ele>10</ele>
+      <time>2022-01-17T23:55:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

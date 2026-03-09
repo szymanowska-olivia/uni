@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:50:32Z</time>
+    <bounds maxlat="49.3575874" maxlon="21.7892361" minlat="49.3551601" minlon="21.7755139"/>
+  </metadata>
+  <wpt lat="49.357587" lon="21.775514">
+    <ele>639</ele>
+    <name>Beskyd</name>
+    <link href="https://mapa-turystyczna.pl/node/477">
+      <text>Beskyd</text>
+    </link>
+  </wpt>
+  <wpt lat="49.355497" lon="21.789236">
+    <ele>697</ele>
+    <name>Kut</name>
+    <link href="https://mapa-turystyczna.pl/node/462">
+      <text>Kut</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Beskyd - Kut</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3575874,21.7755139;49.35599875041749,21.782060100000027;49.3554973,21.7892361">
+    <text>Beskyd - Kut</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3575874" lon="21.7755139">
+      <ele>639</ele>
+      <time>2022-01-17T20:50:32Z</time>
+    </trkpt>
+    <trkpt lat="49.3560616" lon="21.777951">
+      <ele>622</ele>
+      <time>2022-01-17T20:56:03Z</time>
+    </trkpt>
+    <trkpt lat="49.3559009" lon="21.7789809">
+      <ele>623</ele>
+      <time>2022-01-17T20:57:47Z</time>
+    </trkpt>
+    <trkpt lat="49.3558799" lon="21.7796676">
+      <ele>627</ele>
+      <time>2022-01-17T20:58:54Z</time>
+    </trkpt>
+    <trkpt lat="49.3557961" lon="21.7806117">
+      <ele>627</ele>
+      <time>2022-01-17T21:00:27Z</time>
+    </trkpt>
+    <trkpt lat="49.3562014" lon="21.7835085">
+      <ele>648</ele>
+      <time>2022-01-17T21:05:18Z</time>
+    </trkpt>
+    <trkpt lat="49.3562084" lon="21.7843239">
+      <ele>658</ele>
+      <time>2022-01-17T21:06:39Z</time>
+    </trkpt>
+    <trkpt lat="49.3560476" lon="21.7852895">
+      <ele>664</ele>
+      <time>2022-01-17T21:08:17Z</time>
+    </trkpt>
+    <trkpt lat="49.35581" lon="21.7857401">
+      <ele>668</ele>
+      <time>2022-01-17T21:09:13Z</time>
+    </trkpt>
+    <trkpt lat="49.3555095" lon="21.7868666">
+      <ele>676</ele>
+      <time>2022-01-17T21:11:13Z</time>
+    </trkpt>
+    <trkpt lat="49.3551601" lon="21.7875426">
+      <ele>682</ele>
+      <time>2022-01-17T21:12:38Z</time>
+    </trkpt>
+    <trkpt lat="49.3553139" lon="21.7883687">
+      <ele>688</ele>
+      <time>2022-01-17T21:14:02Z</time>
+    </trkpt>
+    <trkpt lat="49.3554973" lon="21.7892361">
+      <ele>697</ele>
+      <time>2022-01-17T21:15:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

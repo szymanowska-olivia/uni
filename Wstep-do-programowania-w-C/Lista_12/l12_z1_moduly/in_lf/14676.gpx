@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:26:18Z</time>
+    <bounds maxlat="51.2115026" maxlon="16.1640646" minlat="51.2110211" minlon="16.1637071"/>
+  </metadata>
+  <wpt lat="51.211021" lon="16.163707">
+    <ele>123</ele>
+    <name>Legnica, Zamek Piastowski</name>
+    <link href="https://mapa-turystyczna.pl/node/9996">
+      <text>Legnica, Zamek Piastowski</text>
+    </link>
+  </wpt>
+  <wpt lat="51.211503" lon="16.164065">
+    <ele>123</ele>
+    <name>Legnica, Brama Glogowska</name>
+    <link href="https://mapa-turystyczna.pl/node/10004">
+      <text>Legnica, Brama Glogowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Legnica, Zamek Piastowski - Legnica, Brama Glogowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2110211,16.1637071;51.21124855054215,16.163884500000012;51.2115026,16.1640646">
+    <text>Legnica, Zamek Piastowski - Legnica, Brama Glogowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2110211" lon="16.1637071">
+      <ele>123</ele>
+      <time>2022-01-18T00:26:18Z</time>
+    </trkpt>
+    <trkpt lat="51.2110251" lon="16.1637128">
+      <ele>123</ele>
+      <time>2022-01-18T00:26:19Z</time>
+    </trkpt>
+    <trkpt lat="51.211472" lon="16.1640562">
+      <ele>122</ele>
+      <time>2022-01-18T00:27:15Z</time>
+    </trkpt>
+    <trkpt lat="51.2115026" lon="16.1640646">
+      <ele>123</ele>
+      <time>2022-01-18T00:27:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

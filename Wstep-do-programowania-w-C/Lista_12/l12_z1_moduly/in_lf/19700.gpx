@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:53:09Z</time>
+    <bounds maxlat="51.5222761" maxlon="23.0890937" minlat="51.5213917" minlon="23.0847011"/>
+  </metadata>
+  <wpt lat="51.521392" lon="23.089094">
+    <ele>163</ele>
+    <name>Sosnowica</name>
+    <link href="https://mapa-turystyczna.pl/node/13298">
+      <text>Sosnowica</text>
+    </link>
+  </wpt>
+  <wpt lat="51.522276" lon="23.084701">
+    <ele>161</ele>
+    <name>Sosnowica, ul. Turystyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/13297">
+      <text>Sosnowica, ul. Turystyczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sosnowica - Sosnowica, ul. Turystyczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5213917,23.0890937;51.52195975109882,23.086313649999973;51.5222761,23.0847011">
+    <text>Sosnowica - Sosnowica, ul. Turystyczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5213917" lon="23.0890937">
+      <ele>163</ele>
+      <time>2022-01-18T01:53:09Z</time>
+    </trkpt>
+    <trkpt lat="51.5216434" lon="23.0879262">
+      <ele>162</ele>
+      <time>2022-01-18T01:54:29Z</time>
+    </trkpt>
+    <trkpt lat="51.5222761" lon="23.0847011">
+      <ele>161</ele>
+      <time>2022-01-18T01:58:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

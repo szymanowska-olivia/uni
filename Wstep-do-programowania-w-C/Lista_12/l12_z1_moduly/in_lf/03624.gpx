@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:50Z</time>
+    <bounds maxlat="49.588549" maxlon="19.518156" minlat="49.587442" minlon="19.516638"/>
+  </metadata>
+  <wpt lat="49.588549" lon="19.518156">
+    <ele>1176</ele>
+    <name>Kolista Polana</name>
+    <link href="https://mapa-turystyczna.pl/node/2526">
+      <text>Kolista Polana</text>
+    </link>
+  </wpt>
+  <wpt lat="49.587442" lon="19.516638">
+    <ele>1188</ele>
+    <name>Schronisko PTTK Markowe Szczawiny</name>
+    <link href="https://mapa-turystyczna.pl/node/656">
+      <text>Schronisko PTTK Markowe Szczawiny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kolista Polana - Schronisko PTTK Markowe Szczawiny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.588549,19.518156;49.58797100001049,19.51747700000002;49.587442,19.516638">
+    <text>Kolista Polana - Schronisko PTTK Markowe Szczawiny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.588549" lon="19.518156">
+      <ele>1176</ele>
+      <time>2022-01-17T21:32:50Z</time>
+    </trkpt>
+    <trkpt lat="49.588363" lon="19.517859">
+      <ele>1179</ele>
+      <time>2022-01-17T21:33:43Z</time>
+    </trkpt>
+    <trkpt lat="49.588283" lon="19.51773">
+      <ele>1181</ele>
+      <time>2022-01-17T21:34:06Z</time>
+    </trkpt>
+    <trkpt lat="49.588139" lon="19.517696">
+      <ele>1183</ele>
+      <time>2022-01-17T21:34:34Z</time>
+    </trkpt>
+    <trkpt lat="49.588003" lon="19.517553">
+      <ele>1183</ele>
+      <time>2022-01-17T21:35:07Z</time>
+    </trkpt>
+    <trkpt lat="49.587939" lon="19.517401">
+      <ele>1183</ele>
+      <time>2022-01-17T21:35:30Z</time>
+    </trkpt>
+    <trkpt lat="49.587831" lon="19.517289">
+      <ele>1183</ele>
+      <time>2022-01-17T21:35:55Z</time>
+    </trkpt>
+    <trkpt lat="49.587701" lon="19.517021">
+      <ele>1183</ele>
+      <time>2022-01-17T21:36:38Z</time>
+    </trkpt>
+    <trkpt lat="49.587673" lon="19.516958">
+      <ele>1183</ele>
+      <time>2022-01-17T21:36:48Z</time>
+    </trkpt>
+    <trkpt lat="49.587597" lon="19.516803">
+      <ele>1185</ele>
+      <time>2022-01-17T21:37:12Z</time>
+    </trkpt>
+    <trkpt lat="49.587535" lon="19.516719">
+      <ele>1186</ele>
+      <time>2022-01-17T21:37:29Z</time>
+    </trkpt>
+    <trkpt lat="49.587442" lon="19.516638">
+      <ele>1188</ele>
+      <time>2022-01-17T21:37:50Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

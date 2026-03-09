@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:22Z</time>
+    <bounds maxlat="49.7912117" maxlon="19.2250389" minlat="49.787149" minlon="19.2166479"/>
+  </metadata>
+  <wpt lat="49.791212" lon="19.216648">
+    <ele>585</ele>
+    <name>Pod Zarem, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/7999">
+      <text>Pod Zarem, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.787164" lon="19.225039">
+    <ele>761</ele>
+    <name>Zar</name>
+    <link href="https://mapa-turystyczna.pl/node/1079">
+      <text>Zar</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Zarem, odejscie szlaku czarnego - Zar</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7912117,19.2166479;49.788024151230395,19.2204945;49.7871637,19.2250389">
+    <text>Pod Zarem, odejscie szlaku czarnego - Zar</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7912117" lon="19.2166479">
+      <ele>585</ele>
+      <time>2022-01-17T23:33:22Z</time>
+    </trkpt>
+    <trkpt lat="49.7898454" lon="19.2180007">
+      <ele>630</ele>
+      <time>2022-01-17T23:40:09Z</time>
+    </trkpt>
+    <trkpt lat="49.7890573" lon="19.2188752">
+      <ele>646</ele>
+      <time>2022-01-17T23:44:09Z</time>
+    </trkpt>
+    <trkpt lat="49.7883694" lon="19.2198287">
+      <ele>676</ele>
+      <time>2022-01-17T23:48:03Z</time>
+    </trkpt>
+    <trkpt lat="49.7876789" lon="19.2211603">
+      <ele>697</ele>
+      <time>2022-01-17T23:52:36Z</time>
+    </trkpt>
+    <trkpt lat="49.787513" lon="19.2219007">
+      <ele>709</ele>
+      <time>2022-01-17T23:54:42Z</time>
+    </trkpt>
+    <trkpt lat="49.7874511" lon="19.2224586">
+      <ele>718</ele>
+      <time>2022-01-17T23:56:14Z</time>
+    </trkpt>
+    <trkpt lat="49.7873697" lon="19.2230809">
+      <ele>726</ele>
+      <time>2022-01-17T23:57:55Z</time>
+    </trkpt>
+    <trkpt lat="49.787149" lon="19.2242289">
+      <ele>747</ele>
+      <time>2022-01-18T00:01:10Z</time>
+    </trkpt>
+    <trkpt lat="49.7871771" lon="19.2247385">
+      <ele>759</ele>
+      <time>2022-01-18T00:02:34Z</time>
+    </trkpt>
+    <trkpt lat="49.7871637" lon="19.2250389">
+      <ele>761</ele>
+      <time>2022-01-18T00:03:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

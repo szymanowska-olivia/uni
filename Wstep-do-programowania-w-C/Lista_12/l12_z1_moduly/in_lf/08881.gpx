@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:46:59Z</time>
+    <bounds maxlat="50.6552153" maxlon="15.9905924" minlat="50.6544804" minlon="15.9880149"/>
+  </metadata>
+  <wpt lat="50.655215" lon="15.988015">
+    <ele>750</ele>
+    <name>Kralovecky Spicak, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/2396">
+      <text>Kralovecky Spicak, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.65448" lon="15.990592">
+    <ele>764</ele>
+    <name>Sedlo U buku</name>
+    <link href="https://mapa-turystyczna.pl/node/6186">
+      <text>Sedlo U buku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kralovecky Spicak, odbocka - Sedlo U buku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6552153,15.9880149;50.65494655020699,15.989141449999984;50.6544804,15.9905924">
+    <text>Kralovecky Spicak, odbocka - Sedlo U buku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6552153" lon="15.9880149">
+      <ele>750</ele>
+      <time>2022-01-17T22:46:59Z</time>
+    </trkpt>
+    <trkpt lat="50.655086" lon="15.9884655">
+      <ele>751</ele>
+      <time>2022-01-17T22:47:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6548071" lon="15.9898174">
+      <ele>756</ele>
+      <time>2022-01-17T22:50:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6546983" lon="15.9901929">
+      <ele>757</ele>
+      <time>2022-01-17T22:51:02Z</time>
+    </trkpt>
+    <trkpt lat="50.6545555" lon="15.9905416">
+      <ele>762</ele>
+      <time>2022-01-17T22:51:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6544804" lon="15.9905924">
+      <ele>764</ele>
+      <time>2022-01-17T22:51:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

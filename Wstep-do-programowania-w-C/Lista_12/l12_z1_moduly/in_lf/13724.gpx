@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:41Z</time>
+    <bounds maxlat="50.293621" maxlon="18.9876485" minlat="50.2922202" minlon="18.9817128"/>
+  </metadata>
+  <wpt lat="50.29222" lon="18.981713">
+    <ele>289</ele>
+    <name>Aleja Klonowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9440">
+      <text>Aleja Klonowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.293228" lon="18.987648">
+    <ele>304</ele>
+    <name>Park Slaski, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/9441">
+      <text>Park Slaski, lesniczowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Aleja Klonowa - Park Slaski, lesniczowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2922202,18.9817128;50.293334900138504,18.98446800000002;50.2932281,18.9876485">
+    <text>Aleja Klonowa - Park Slaski, lesniczowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2922202" lon="18.9817128">
+      <ele>289</ele>
+      <time>2022-01-18T00:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2931447" lon="18.9823035">
+      <ele>287</ele>
+      <time>2022-01-18T00:13:50Z</time>
+    </trkpt>
+    <trkpt lat="50.2932201" lon="18.983886">
+      <ele>295</ele>
+      <time>2022-01-18T00:16:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2934497" lon="18.98505">
+      <ele>297</ele>
+      <time>2022-01-18T00:17:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2935422" lon="18.9853397">
+      <ele>297</ele>
+      <time>2022-01-18T00:18:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2935456" lon="18.9857635">
+      <ele>297</ele>
+      <time>2022-01-18T00:18:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2935799" lon="18.9862195">
+      <ele>297</ele>
+      <time>2022-01-18T00:19:21Z</time>
+    </trkpt>
+    <trkpt lat="50.293621" lon="18.9864233">
+      <ele>297</ele>
+      <time>2022-01-18T00:19:39Z</time>
+    </trkpt>
+    <trkpt lat="50.2935696" lon="18.9871153">
+      <ele>300</ele>
+      <time>2022-01-18T00:20:36Z</time>
+    </trkpt>
+    <trkpt lat="50.2934702" lon="18.987405">
+      <ele>302</ele>
+      <time>2022-01-18T00:21:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2932281" lon="18.9876485">
+      <ele>304</ele>
+      <time>2022-01-18T00:21:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

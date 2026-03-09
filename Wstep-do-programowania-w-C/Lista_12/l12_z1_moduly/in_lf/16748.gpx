@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:02:15Z</time>
+    <bounds maxlat="52.2390536" maxlon="21.1910226" minlat="52.2371593" minlon="21.1806137"/>
+  </metadata>
+  <wpt lat="52.238815" lon="21.180614">
+    <ele>102</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11437">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.237159" lon="21.191023">
+    <ele>108</ele>
+    <name>Kamien Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/11438">
+      <text>Kamien Pilsudskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zolty - Kamien Pilsudskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2388148,21.1806137;52.23883185055399,21.18656890000001;52.2371593,21.1910226">
+    <text>Rozejscie szlakow czerwony / zolty - Kamien Pilsudskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2388148" lon="21.1806137">
+      <ele>102</ele>
+      <time>2022-01-18T01:02:15Z</time>
+    </trkpt>
+    <trkpt lat="52.2390103" lon="21.1835058">
+      <ele>104</ele>
+      <time>2022-01-18T01:04:49Z</time>
+    </trkpt>
+    <trkpt lat="52.2390339" lon="21.1845411">
+      <ele>104</ele>
+      <time>2022-01-18T01:05:44Z</time>
+    </trkpt>
+    <trkpt lat="52.2390536" lon="21.186011">
+      <ele>102</ele>
+      <time>2022-01-18T01:07:02Z</time>
+    </trkpt>
+    <trkpt lat="52.2386101" lon="21.1871268">
+      <ele>107</ele>
+      <time>2022-01-18T01:08:13Z</time>
+    </trkpt>
+    <trkpt lat="52.2382192" lon="21.1882319">
+      <ele>107</ele>
+      <time>2022-01-18T01:09:21Z</time>
+    </trkpt>
+    <trkpt lat="52.2377429" lon="21.1896159">
+      <ele>109</ele>
+      <time>2022-01-18T01:10:45Z</time>
+    </trkpt>
+    <trkpt lat="52.2371593" lon="21.1910226">
+      <ele>108</ele>
+      <time>2022-01-18T01:12:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

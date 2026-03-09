@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:45:07Z</time>
+    <bounds maxlat="52.4402322" maxlon="20.697062" minlat="52.4282148" minlon="20.6940579"/>
+  </metadata>
+  <wpt lat="52.428215" lon="20.694058">
+    <ele>73</ele>
+    <name>Modlin, stocznia</name>
+    <link href="https://mapa-turystyczna.pl/node/4962">
+      <text>Modlin, stocznia</text>
+    </link>
+  </wpt>
+  <wpt lat="52.440232" lon="20.697045">
+    <ele>77</ele>
+    <name>Modlin, rzeka Narew</name>
+    <link href="https://mapa-turystyczna.pl/node/10764">
+      <text>Modlin, rzeka Narew</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, stocznia - Modlin, rzeka Narew</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4282148,20.6940579;52.43350124001852,20.696278799999977;52.4402319,20.6970446">
+    <text>Modlin, stocznia - Modlin, rzeka Narew</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4282148" lon="20.6940579">
+      <ele>73</ele>
+      <time>2022-01-18T00:45:07Z</time>
+    </trkpt>
+    <trkpt lat="52.4309918" lon="20.6969011">
+      <ele>76</ele>
+      <time>2022-01-18T00:51:27Z</time>
+    </trkpt>
+    <trkpt lat="52.4316231" lon="20.697062">
+      <ele>77</ele>
+      <time>2022-01-18T00:52:41Z</time>
+    </trkpt>
+    <trkpt lat="52.4353793" lon="20.6954956">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:10Z</time>
+    </trkpt>
+    <trkpt lat="52.4356611" lon="20.695476">
+      <ele>76</ele>
+      <time>2022-01-18T01:00:43Z</time>
+    </trkpt>
+    <trkpt lat="52.4360023" lon="20.6955225">
+      <ele>77</ele>
+      <time>2022-01-18T01:01:22Z</time>
+    </trkpt>
+    <trkpt lat="52.438751" lon="20.696885">
+      <ele>72</ele>
+      <time>2022-01-18T01:06:55Z</time>
+    </trkpt>
+    <trkpt lat="52.4390459" lon="20.696903">
+      <ele>75</ele>
+      <time>2022-01-18T01:07:30Z</time>
+    </trkpt>
+    <trkpt lat="52.4400492" lon="20.6967606">
+      <ele>77</ele>
+      <time>2022-01-18T01:09:26Z</time>
+    </trkpt>
+    <trkpt lat="52.4400622" lon="20.6970531">
+      <ele>77</ele>
+      <time>2022-01-18T01:09:47Z</time>
+    </trkpt>
+    <trkpt lat="52.4402322" lon="20.6970425">
+      <ele>77</ele>
+      <time>2022-01-18T01:10:07Z</time>
+    </trkpt>
+    <trkpt lat="52.4402319" lon="20.6970446">
+      <ele>77</ele>
+      <time>2022-01-18T01:10:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

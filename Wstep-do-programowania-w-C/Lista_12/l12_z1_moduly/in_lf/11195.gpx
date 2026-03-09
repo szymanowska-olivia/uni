@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:09Z</time>
+    <bounds maxlat="50.0323645" maxlon="17.0396923" minlat="50.032305" minlon="17.0395207"/>
+  </metadata>
+  <wpt lat="50.032364" lon="17.039521">
+    <ele>395</ele>
+    <name>Velke Losiny, parkoviste Lazenska</name>
+    <link href="https://mapa-turystyczna.pl/node/7885">
+      <text>Velke Losiny, parkoviste Lazenska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.032305" lon="17.039692">
+    <ele>396</ele>
+    <name>Velke Losiny, informacni centrum</name>
+    <link href="https://mapa-turystyczna.pl/node/7886">
+      <text>Velke Losiny, informacni centrum</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velke Losiny, parkoviste Lazenska - Velke Losiny, informacni centrum</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0323645,17.0395207;50.032334750009205,17.039606500000016;50.032305,17.0396923">
+    <text>Velke Losiny, parkoviste Lazenska - Velke Losiny, informacni centrum</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0323645" lon="17.0395207">
+      <ele>395</ele>
+      <time>2022-01-17T23:30:09Z</time>
+    </trkpt>
+    <trkpt lat="50.032305" lon="17.0396923">
+      <ele>396</ele>
+      <time>2022-01-17T23:31:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

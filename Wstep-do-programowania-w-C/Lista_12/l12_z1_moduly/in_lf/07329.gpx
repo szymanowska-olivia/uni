@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:24Z</time>
+    <bounds maxlat="52.3762149" maxlon="20.497011" minlat="52.369442" minlon="20.4837298"/>
+  </metadata>
+  <wpt lat="52.376215" lon="20.48373">
+    <ele>68</ele>
+    <name>Nowe Polesie</name>
+    <link href="https://mapa-turystyczna.pl/node/4996">
+      <text>Nowe Polesie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.369442" lon="20.496733">
+    <ele>81</ele>
+    <name>Nowe Polesie, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4956">
+      <text>Nowe Polesie, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowe Polesie - Nowe Polesie, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3762149,20.4837298;52.37423029459252,20.488380750000015;52.369442,20.4967332">
+    <text>Nowe Polesie - Nowe Polesie, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3762149" lon="20.4837298">
+      <ele>68</ele>
+      <time>2022-01-17T22:21:24Z</time>
+    </trkpt>
+    <trkpt lat="52.3722456" lon="20.4930317">
+      <ele>74</ele>
+      <time>2022-01-17T22:34:03Z</time>
+    </trkpt>
+    <trkpt lat="52.3707783" lon="20.4965132">
+      <ele>76</ele>
+      <time>2022-01-17T22:38:46Z</time>
+    </trkpt>
+    <trkpt lat="52.370097" lon="20.4970095">
+      <ele>83</ele>
+      <time>2022-01-17T22:40:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3698996" lon="20.497011">
+      <ele>82</ele>
+      <time>2022-01-17T22:40:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3696769" lon="20.4967964">
+      <ele>82</ele>
+      <time>2022-01-17T22:40:58Z</time>
+    </trkpt>
+    <trkpt lat="52.369442" lon="20.4967332">
+      <ele>81</ele>
+      <time>2022-01-17T22:41:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

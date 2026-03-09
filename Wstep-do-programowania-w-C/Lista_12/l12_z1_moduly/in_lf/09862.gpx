@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:36Z</time>
+    <bounds maxlat="48.8713346" maxlon="20.3417766" minlat="48.8712499" minlon="20.3404999"/>
+  </metadata>
+  <wpt lat="48.871324" lon="20.3405">
+    <ele>795</ele>
+    <name>Stratena, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6945">
+      <text>Stratena, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.87125" lon="20.341777">
+    <ele>805</ele>
+    <name>Stratena</name>
+    <link href="https://mapa-turystyczna.pl/node/6944">
+      <text>Stratena</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stratena, razc. - Stratena</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.871324,20.3404999;48.87132755000013,20.341248199999995;48.8712499,20.3417766">
+    <text>Stratena, razc. - Stratena</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.871324" lon="20.3404999">
+      <ele>795</ele>
+      <time>2022-01-17T23:05:36Z</time>
+    </trkpt>
+    <trkpt lat="48.8713346" lon="20.340752">
+      <ele>795</ele>
+      <time>2022-01-17T23:05:59Z</time>
+    </trkpt>
+    <trkpt lat="48.8713311" lon="20.3411007">
+      <ele>795</ele>
+      <time>2022-01-17T23:06:31Z</time>
+    </trkpt>
+    <trkpt lat="48.871324" lon="20.3413957">
+      <ele>799</ele>
+      <time>2022-01-17T23:06:58Z</time>
+    </trkpt>
+    <trkpt lat="48.8712922" lon="20.3416264">
+      <ele>803</ele>
+      <time>2022-01-17T23:07:21Z</time>
+    </trkpt>
+    <trkpt lat="48.8712499" lon="20.3417766">
+      <ele>805</ele>
+      <time>2022-01-17T23:07:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

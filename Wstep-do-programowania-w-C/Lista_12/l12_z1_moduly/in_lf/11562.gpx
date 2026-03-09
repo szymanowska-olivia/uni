@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:36:27Z</time>
+    <bounds maxlat="49.262276" maxlon="19.893774" minlat="49.262225" minlon="19.893437"/>
+  </metadata>
+  <wpt lat="49.262225" lon="19.893437">
+    <ele>1189</ele>
+    <name>Przyslop Mietusi</name>
+    <link href="https://mapa-turystyczna.pl/node/265">
+      <text>Przyslop Mietusi</text>
+    </link>
+  </wpt>
+  <wpt lat="49.262276" lon="19.893774">
+    <ele>1188</ele>
+    <name>Przyslop Mietusi, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8097">
+      <text>Przyslop Mietusi, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przyslop Mietusi - Przyslop Mietusi, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.262225,19.893437;49.26225050000661,19.893605500000007;49.262276,19.893774">
+    <text>Przyslop Mietusi - Przyslop Mietusi, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.262225" lon="19.893437">
+      <ele>1189</ele>
+      <time>2022-01-17T23:36:27Z</time>
+    </trkpt>
+    <trkpt lat="49.262276" lon="19.893774">
+      <ele>1188</ele>
+      <time>2022-01-17T23:37:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:45Z</time>
+    <bounds maxlat="50.283874" maxlon="17.2512227" minlat="50.2831524" minlon="17.2498977"/>
+  </metadata>
+  <wpt lat="50.283152" lon="17.249898">
+    <ele>446</ele>
+    <name>Spicak - jeskyne</name>
+    <link href="https://mapa-turystyczna.pl/node/6136">
+      <text>Spicak - jeskyne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.283872" lon="17.251223">
+    <ele>449</ele>
+    <name>Spicak, jeskyne rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6137">
+      <text>Spicak, jeskyne rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Spicak - jeskyne - Spicak, jeskyne rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2831524,17.2498977;50.2837051502995,17.25074934999999;50.2838723,17.2512227">
+    <text>Spicak - jeskyne - Spicak, jeskyne rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2831524" lon="17.2498977">
+      <ele>446</ele>
+      <time>2022-01-17T22:45:45Z</time>
+    </trkpt>
+    <trkpt lat="50.2835363" lon="17.250461">
+      <ele>450</ele>
+      <time>2022-01-17T22:46:40Z</time>
+    </trkpt>
+    <trkpt lat="50.283874" lon="17.2510377">
+      <ele>450</ele>
+      <time>2022-01-17T22:47:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2838723" lon="17.2512227">
+      <ele>449</ele>
+      <time>2022-01-17T22:47:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

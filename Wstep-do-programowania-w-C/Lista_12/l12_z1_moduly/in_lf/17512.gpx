@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:14:35Z</time>
+    <bounds maxlat="50.8388108" maxlon="16.2942882" minlat="50.8378105" minlon="16.2933037"/>
+  </metadata>
+  <wpt lat="50.837811" lon="16.294288">
+    <ele>416</ele>
+    <name>Zamek Stary Ksiaz</name>
+    <link href="https://mapa-turystyczna.pl/node/11880">
+      <text>Zamek Stary Ksiaz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.838811" lon="16.293304">
+    <ele>434</ele>
+    <name>Odejscie sciezki spacerowej</name>
+    <link href="https://mapa-turystyczna.pl/node/11881">
+      <text>Odejscie sciezki spacerowej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Stary Ksiaz - Odejscie sciezki spacerowej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8378105,16.2942882;50.838196300373475,16.294057049999996;50.8388108,16.2933037">
+    <text>Zamek Stary Ksiaz - Odejscie sciezki spacerowej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8378105" lon="16.2942882">
+      <ele>416</ele>
+      <time>2022-01-18T01:14:35Z</time>
+    </trkpt>
+    <trkpt lat="50.8380096" lon="16.2942039">
+      <ele>422</ele>
+      <time>2022-01-18T01:15:28Z</time>
+    </trkpt>
+    <trkpt lat="50.838383" lon="16.2939102">
+      <ele>430</ele>
+      <time>2022-01-18T01:17:12Z</time>
+    </trkpt>
+    <trkpt lat="50.8388108" lon="16.2933037">
+      <ele>434</ele>
+      <time>2022-01-18T01:19:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

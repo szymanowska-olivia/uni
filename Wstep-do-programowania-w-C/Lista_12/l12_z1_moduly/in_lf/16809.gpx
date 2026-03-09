@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:21Z</time>
+    <bounds maxlat="52.0612301" maxlon="21.2987077" minlat="52.0609621" minlon="21.2984358"/>
+  </metadata>
+  <wpt lat="52.06123" lon="21.298708">
+    <ele>95</ele>
+    <name>Czarne Jeziorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11499">
+      <text>Czarne Jeziorka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.060962" lon="21.298436">
+    <ele>94</ele>
+    <name>Czarne Jeziorka</name>
+    <link href="https://mapa-turystyczna.pl/node/11458">
+      <text>Czarne Jeziorka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Czarne Jeziorka - Czarne Jeziorka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0612301,21.2987077;52.06109610020101,21.298571750000022;52.0609621,21.2984358">
+    <text>Czarne Jeziorka - Czarne Jeziorka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0612301" lon="21.2987077">
+      <ele>95</ele>
+      <time>2022-01-18T01:03:21Z</time>
+    </trkpt>
+    <trkpt lat="52.0609621" lon="21.2984358">
+      <ele>94</ele>
+      <time>2022-01-18T01:04:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

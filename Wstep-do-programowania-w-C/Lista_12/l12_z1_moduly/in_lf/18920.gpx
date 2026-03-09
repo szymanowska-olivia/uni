@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:39:34Z</time>
+    <bounds maxlat="50.3133544" maxlon="19.3290958" minlat="50.3131436" minlon="19.328745"/>
+  </metadata>
+  <wpt lat="50.313144" lon="19.328745">
+    <ele>325</ele>
+    <name>Rozejscie sciezki</name>
+    <link href="https://mapa-turystyczna.pl/node/12813">
+      <text>Rozejscie sciezki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.313354" lon="19.329096">
+    <ele>323</ele>
+    <name>Slupek gorniczy na Kawiej Gorze</name>
+    <link href="https://mapa-turystyczna.pl/node/12815">
+      <text>Slupek gorniczy na Kawiej Gorze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki - Slupek gorniczy na Kawiej Gorze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3131436,19.328745;50.31331325001783,19.328985850000038;50.3133544,19.3290958">
+    <text>Rozejscie sciezki - Slupek gorniczy na Kawiej Gorze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3131436" lon="19.328745">
+      <ele>325</ele>
+      <time>2022-01-18T01:39:34Z</time>
+    </trkpt>
+    <trkpt lat="50.3132721" lon="19.3288759">
+      <ele>324</ele>
+      <time>2022-01-18T01:40:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3133544" lon="19.3290958">
+      <ele>323</ele>
+      <time>2022-01-18T01:40:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

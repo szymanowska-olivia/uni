@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:40Z</time>
+    <bounds maxlat="50.6117853" maxlon="19.5037434" minlat="50.6107879" minlon="19.4945419"/>
+  </metadata>
+  <wpt lat="50.610965" lon="19.503743">
+    <ele>335</ele>
+    <name>Boolice, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/12695">
+      <text>Boolice, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.611744" lon="19.494542">
+    <ele>353</ele>
+    <name>Bobolice, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/4484">
+      <text>Bobolice, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Boolice, skrzyzowanie - Bobolice, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6109653,19.5037434;50.61098705003769,19.499125750000015;50.6117444,19.4945419">
+    <text>Boolice, skrzyzowanie - Bobolice, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6109653" lon="19.5037434">
+      <ele>335</ele>
+      <time>2022-01-18T01:36:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6109615" lon="19.503715">
+      <ele>335</ele>
+      <time>2022-01-18T01:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.6108083" lon="19.5023847">
+      <ele>336</ele>
+      <time>2022-01-18T01:38:07Z</time>
+    </trkpt>
+    <trkpt lat="50.6107879" lon="19.5019394">
+      <ele>337</ele>
+      <time>2022-01-18T01:38:35Z</time>
+    </trkpt>
+    <trkpt lat="50.6109275" lon="19.5000243">
+      <ele>340</ele>
+      <time>2022-01-18T01:40:36Z</time>
+    </trkpt>
+    <trkpt lat="50.6110466" lon="19.4982272">
+      <ele>344</ele>
+      <time>2022-01-18T01:42:30Z</time>
+    </trkpt>
+    <trkpt lat="50.6111045" lon="19.4973421">
+      <ele>345</ele>
+      <time>2022-01-18T01:43:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6112338" lon="19.4966447">
+      <ele>347</ele>
+      <time>2022-01-18T01:44:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6113632" lon="19.496296">
+      <ele>348</ele>
+      <time>2022-01-18T01:44:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6116117" lon="19.4957328">
+      <ele>350</ele>
+      <time>2022-01-18T01:45:21Z</time>
+    </trkpt>
+    <trkpt lat="50.6117581" lon="19.4953251">
+      <ele>352</ele>
+      <time>2022-01-18T01:45:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6117853" lon="19.4950193">
+      <ele>352</ele>
+      <time>2022-01-18T01:46:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6117444" lon="19.4945419">
+      <ele>353</ele>
+      <time>2022-01-18T01:46:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

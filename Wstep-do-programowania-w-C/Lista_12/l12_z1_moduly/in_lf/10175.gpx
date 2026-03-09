@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:40Z</time>
+    <bounds maxlat="50.0692535" maxlon="16.681264" minlat="50.0671841" minlon="16.6767955"/>
+  </metadata>
+  <wpt lat="50.069254" lon="16.676796">
+    <ele>797</ele>
+    <name>Tvrz Bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/7160">
+      <text>Tvrz Bouda</text>
+    </link>
+  </wpt>
+  <wpt lat="50.067184" lon="16.681264">
+    <ele>823</ele>
+    <name>Nad Boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/7162">
+      <text>Nad Boudou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tvrz Bouda - Nad Boudou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0692535,16.6767955;50.06839100137599,16.678426250000005;50.0671841,16.681264">
+    <text>Tvrz Bouda - Nad Boudou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0692535" lon="16.6767955">
+      <ele>797</ele>
+      <time>2022-01-17T23:11:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0687543" lon="16.6776162">
+      <ele>798</ele>
+      <time>2022-01-17T23:13:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0680277" lon="16.6792363">
+      <ele>811</ele>
+      <time>2022-01-17T23:17:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0679692" lon="16.6796118">
+      <ele>814</ele>
+      <time>2022-01-17T23:17:56Z</time>
+    </trkpt>
+    <trkpt lat="50.0678521" lon="16.6800463">
+      <ele>817</ele>
+      <time>2022-01-17T23:18:47Z</time>
+    </trkpt>
+    <trkpt lat="50.0672599" lon="16.6810334">
+      <ele>822</ele>
+      <time>2022-01-17T23:21:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0671841" lon="16.681264">
+      <ele>823</ele>
+      <time>2022-01-17T23:21:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

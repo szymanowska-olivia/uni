@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:47Z</time>
+    <bounds maxlat="50.2453799" maxlon="17.344467" minlat="50.2445668" minlon="17.343303"/>
+  </metadata>
+  <wpt lat="50.24528" lon="17.343303">
+    <ele>562</ele>
+    <name>Ondrejovicke sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6290">
+      <text>Ondrejovicke sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244567" lon="17.344108">
+    <ele>567</ele>
+    <name>Ondrejovicke sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6291">
+      <text>Ondrejovicke sedlo, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ondrejovicke sedlo - Ondrejovicke sedlo, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2452804,17.343303;50.245273550118675,17.344448249999992;50.2445668,17.3441076">
+    <text>Ondrejovicke sedlo - Ondrejovicke sedlo, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2452804" lon="17.343303">
+      <ele>562</ele>
+      <time>2022-01-17T22:49:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2453456" lon="17.3436463">
+      <ele>562</ele>
+      <time>2022-01-17T22:50:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2453799" lon="17.3444295">
+      <ele>562</ele>
+      <time>2022-01-17T22:51:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2451672" lon="17.344467">
+      <ele>565</ele>
+      <time>2022-01-17T22:51:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2449614" lon="17.344408">
+      <ele>567</ele>
+      <time>2022-01-17T22:51:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2447281" lon="17.344231">
+      <ele>567</ele>
+      <time>2022-01-17T22:52:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2445668" lon="17.3441076">
+      <ele>567</ele>
+      <time>2022-01-17T22:52:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:18:30Z</time>
+    <bounds maxlat="51.3088511" maxlon="21.6537711" minlat="51.2904775" minlon="21.5986892"/>
+  </metadata>
+  <wpt lat="51.308851" lon="21.653771">
+    <ele>156</ele>
+    <name>Barycz</name>
+    <link href="https://mapa-turystyczna.pl/node/12039">
+      <text>Barycz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.304994" lon="21.598689">
+    <ele>159</ele>
+    <name>Sycyna</name>
+    <link href="https://mapa-turystyczna.pl/node/12038">
+      <text>Sycyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Barycz - Sycyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3088511,21.6537711;51.29129265723558,21.6300887;51.3049945,21.5986892">
+    <text>Barycz - Sycyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3088511" lon="21.6537711">
+      <ele>156</ele>
+      <time>2022-01-18T01:18:30Z</time>
+    </trkpt>
+    <trkpt lat="51.2926077" lon="21.633695">
+      <ele>158</ele>
+      <time>2022-01-18T01:54:09Z</time>
+    </trkpt>
+    <trkpt lat="51.2922789" lon="21.6332444">
+      <ele>157</ele>
+      <time>2022-01-18T01:54:54Z</time>
+    </trkpt>
+    <trkpt lat="51.2906922" lon="21.6337006">
+      <ele>158</ele>
+      <time>2022-01-18T01:57:42Z</time>
+    </trkpt>
+    <trkpt lat="51.2904977" lon="21.6334645">
+      <ele>160</ele>
+      <time>2022-01-18T01:58:07Z</time>
+    </trkpt>
+    <trkpt lat="51.2904775" lon="21.63016">
+      <ele>154</ele>
+      <time>2022-01-18T02:01:43Z</time>
+    </trkpt>
+    <trkpt lat="51.2921078" lon="21.6300174">
+      <ele>157</ele>
+      <time>2022-01-18T02:04:33Z</time>
+    </trkpt>
+    <trkpt lat="51.2917657" lon="21.6190342">
+      <ele>163</ele>
+      <time>2022-01-18T02:16:29Z</time>
+    </trkpt>
+    <trkpt lat="51.291853" lon="21.6189737">
+      <ele>163</ele>
+      <time>2022-01-18T02:16:39Z</time>
+    </trkpt>
+    <trkpt lat="51.2951807" lon="21.614135">
+      <ele>158</ele>
+      <time>2022-01-18T02:24:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3049899" lon="21.5990931">
+      <ele>159</ele>
+      <time>2022-01-18T02:48:04Z</time>
+    </trkpt>
+    <trkpt lat="51.3049945" lon="21.5986892">
+      <ele>159</ele>
+      <time>2022-01-18T02:48:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

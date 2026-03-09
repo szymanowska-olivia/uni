@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:08:11Z</time>
+    <bounds maxlat="48.9392712" maxlon="20.4128873" minlat="48.938126" minlon="20.4107308"/>
+  </metadata>
+  <wpt lat="48.939271" lon="20.410731">
+    <ele>758</ele>
+    <name>Kysel, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7037">
+      <text>Kysel, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="48.938126" lon="20.412796">
+    <ele>732</ele>
+    <name>Obrovsky vodopad</name>
+    <link href="https://mapa-turystyczna.pl/node/7011">
+      <text>Obrovsky vodopad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kysel, razc. - Obrovsky vodopad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9392712,20.4107308;48.93862460003381,20.41191639999999;48.938126,20.4127961">
+    <text>Kysel, razc. - Obrovsky vodopad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9392712" lon="20.4107308">
+      <ele>758</ele>
+      <time>2022-01-17T23:08:11Z</time>
+    </trkpt>
+    <trkpt lat="48.9391162" lon="20.411337">
+      <ele>759</ele>
+      <time>2022-01-17T23:08:50Z</time>
+    </trkpt>
+    <trkpt lat="48.9388554" lon="20.4117179">
+      <ele>757</ele>
+      <time>2022-01-17T23:09:22Z</time>
+    </trkpt>
+    <trkpt lat="48.9386827" lon="20.4118681">
+      <ele>752</ele>
+      <time>2022-01-17T23:09:41Z</time>
+    </trkpt>
+    <trkpt lat="48.9385665" lon="20.4119647">
+      <ele>749</ele>
+      <time>2022-01-17T23:09:53Z</time>
+    </trkpt>
+    <trkpt lat="48.9384431" lon="20.4121739">
+      <ele>748</ele>
+      <time>2022-01-17T23:10:10Z</time>
+    </trkpt>
+    <trkpt lat="48.9383339" lon="20.4124796">
+      <ele>741</ele>
+      <time>2022-01-17T23:10:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9382951" lon="20.4126406">
+      <ele>739</ele>
+      <time>2022-01-17T23:10:42Z</time>
+    </trkpt>
+    <trkpt lat="48.9382775" lon="20.4127854">
+      <ele>737</ele>
+      <time>2022-01-17T23:10:51Z</time>
+    </trkpt>
+    <trkpt lat="48.9382669" lon="20.4128873">
+      <ele>735</ele>
+      <time>2022-01-17T23:10:57Z</time>
+    </trkpt>
+    <trkpt lat="48.938126" lon="20.4127961">
+      <ele>732</ele>
+      <time>2022-01-17T23:11:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

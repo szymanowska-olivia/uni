@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:54:35Z</time>
+    <bounds maxlat="49.2851644" maxlon="22.3728732" minlat="49.2843148" minlon="22.3706441"/>
+  </metadata>
+  <wpt lat="49.285164" lon="22.372873">
+    <ele>857</ele>
+    <name>Skrzyzowanie pod Korbania</name>
+    <link href="https://mapa-turystyczna.pl/node/11126">
+      <text>Skrzyzowanie pod Korbania</text>
+    </link>
+  </wpt>
+  <wpt lat="49.284315" lon="22.370644">
+    <ele>894</ele>
+    <name>Korbania</name>
+    <link href="https://mapa-turystyczna.pl/node/11125">
+      <text>Korbania</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie pod Korbania - Korbania</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2851644,22.3728732;49.284435750014985,22.372125449999988;49.2843148,22.3706441">
+    <text>Skrzyzowanie pod Korbania - Korbania</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2851644" lon="22.3728732">
+      <ele>857</ele>
+      <time>2022-01-18T00:54:35Z</time>
+    </trkpt>
+    <trkpt lat="49.2849698" lon="22.3726495">
+      <ele>860</ele>
+      <time>2022-01-18T00:55:13Z</time>
+    </trkpt>
+    <trkpt lat="49.2846772" lon="22.3724902">
+      <ele>864</ele>
+      <time>2022-01-18T00:56:02Z</time>
+    </trkpt>
+    <trkpt lat="49.2844742" lon="22.372222">
+      <ele>867</ele>
+      <time>2022-01-18T00:56:43Z</time>
+    </trkpt>
+    <trkpt lat="49.2843973" lon="22.3720289">
+      <ele>870</ele>
+      <time>2022-01-18T00:57:07Z</time>
+    </trkpt>
+    <trkpt lat="49.2844253" lon="22.371707">
+      <ele>875</ele>
+      <time>2022-01-18T00:57:40Z</time>
+    </trkpt>
+    <trkpt lat="49.2844463" lon="22.3714817">
+      <ele>879</ele>
+      <time>2022-01-18T00:58:04Z</time>
+    </trkpt>
+    <trkpt lat="49.2843763" lon="22.3712457">
+      <ele>884</ele>
+      <time>2022-01-18T00:58:31Z</time>
+    </trkpt>
+    <trkpt lat="49.2843343" lon="22.3710418">
+      <ele>889</ele>
+      <time>2022-01-18T00:58:54Z</time>
+    </trkpt>
+    <trkpt lat="49.2843148" lon="22.3706441">
+      <ele>894</ele>
+      <time>2022-01-18T00:59:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

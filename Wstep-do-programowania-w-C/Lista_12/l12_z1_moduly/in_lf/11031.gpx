@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:10Z</time>
+    <bounds maxlat="50.0870414" maxlon="16.844353" minlat="50.086431" minlon="16.8427437"/>
+  </metadata>
+  <wpt lat="50.087041" lon="16.842744">
+    <ele>513</ele>
+    <name>Mala Morava, prejezd</name>
+    <link href="https://mapa-turystyczna.pl/node/1766">
+      <text>Mala Morava, prejezd</text>
+    </link>
+  </wpt>
+  <wpt lat="50.086431" lon="16.844353">
+    <ele>516</ele>
+    <name>Mala Morava, Vysoky Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/7767">
+      <text>Mala Morava, Vysoky Potok</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Morava, prejezd - Mala Morava, Vysoky Potok</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0870414,16.8427437;50.0865129500003,16.843531749999983;50.086431,16.844353">
+    <text>Mala Morava, prejezd - Mala Morava, Vysoky Potok</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0870414" lon="16.8427437">
+      <ele>513</ele>
+      <time>2022-01-17T23:27:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0866467" lon="16.8429484">
+      <ele>517</ele>
+      <time>2022-01-17T23:28:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0865181" lon="16.8431857">
+      <ele>518</ele>
+      <time>2022-01-17T23:28:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0865078" lon="16.8438778">
+      <ele>515</ele>
+      <time>2022-01-17T23:29:29Z</time>
+    </trkpt>
+    <trkpt lat="50.086431" lon="16.844353">
+      <ele>516</ele>
+      <time>2022-01-17T23:30:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:29Z</time>
+    <bounds maxlat="50.3283886" maxlon="16.3716996" minlat="50.3279707" minlon="16.3707554"/>
+  </metadata>
+  <wpt lat="50.327971" lon="16.370755">
+    <ele>872</ele>
+    <name>Serlissky Mlyn, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1900">
+      <text>Serlissky Mlyn, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.328389" lon="16.3717">
+    <ele>866</ele>
+    <name>Serlissky Mlyn</name>
+    <link href="https://mapa-turystyczna.pl/node/2010">
+      <text>Serlissky Mlyn</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Serlissky Mlyn, rozc. - Serlissky Mlyn</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3279707,16.3707554;50.32817965045938,16.371227500000014;50.3283886,16.3716996">
+    <text>Serlissky Mlyn, rozc. - Serlissky Mlyn</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3279707" lon="16.3707554">
+      <ele>872</ele>
+      <time>2022-01-17T21:21:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3283886" lon="16.3716996">
+      <ele>866</ele>
+      <time>2022-01-17T21:22:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

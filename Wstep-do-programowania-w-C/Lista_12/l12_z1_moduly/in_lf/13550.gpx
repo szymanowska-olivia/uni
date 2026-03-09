@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:08Z</time>
+    <bounds maxlat="50.7482926" maxlon="15.8221628" minlat="50.7481268" minlon="15.8221043"/>
+  </metadata>
+  <wpt lat="50.748293" lon="15.822104">
+    <ele>1067</ele>
+    <name>Przelecz Okraj, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3914">
+      <text>Przelecz Okraj, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.748127" lon="15.822163">
+    <ele>1065</ele>
+    <name>Przelecz Okraj, odejscie szlaku czerwonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9353">
+      <text>Przelecz Okraj, odejscie szlaku czerwonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Okraj, rozejscie szlakow - Przelecz Okraj, odejscie szlaku czerwonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7482926,15.8221043;50.74820970007341,15.822133549999995;50.7481268,15.8221628">
+    <text>Przelecz Okraj, rozejscie szlakow - Przelecz Okraj, odejscie szlaku czerwonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7482926" lon="15.8221043">
+      <ele>1067</ele>
+      <time>2022-01-18T00:09:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7481268" lon="15.8221628">
+      <ele>1065</ele>
+      <time>2022-01-18T00:10:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

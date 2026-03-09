@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:04Z</time>
+    <bounds maxlat="48.944574" maxlon="18.9466846" minlat="48.9413959" minlon="18.9426345"/>
+  </metadata>
+  <wpt lat="48.944574" lon="18.946685">
+    <ele>527</ele>
+    <name>Vapenna dolina, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/5591">
+      <text>Vapenna dolina, ustie</text>
+    </link>
+  </wpt>
+  <wpt lat="48.941396" lon="18.942635">
+    <ele>538</ele>
+    <name>Blatnicky hrad, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5592">
+      <text>Blatnicky hrad, odbocka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vapenna dolina, ustie - Blatnicky hrad, odbocka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.944574,18.9466846;48.94308055213058,18.944662899999976;48.9413959,18.9426345">
+    <text>Vapenna dolina, ustie - Blatnicky hrad, odbocka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.944574" lon="18.9466846">
+      <ele>527</ele>
+      <time>2022-01-17T22:29:04Z</time>
+    </trkpt>
+    <trkpt lat="48.9435417" lon="18.9452094">
+      <ele>527</ele>
+      <time>2022-01-17T22:32:28Z</time>
+    </trkpt>
+    <trkpt lat="48.9426194" lon="18.9441164">
+      <ele>531</ele>
+      <time>2022-01-17T22:35:17Z</time>
+    </trkpt>
+    <trkpt lat="48.9418663" lon="18.9433882">
+      <ele>534</ele>
+      <time>2022-01-17T22:37:25Z</time>
+    </trkpt>
+    <trkpt lat="48.9413959" lon="18.9426345">
+      <ele>538</ele>
+      <time>2022-01-17T22:39:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

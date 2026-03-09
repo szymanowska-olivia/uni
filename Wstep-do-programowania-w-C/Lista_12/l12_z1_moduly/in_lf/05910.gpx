@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:02:47Z</time>
+    <bounds maxlat="50.4048665" maxlon="16.3906092" minlat="50.4042593" minlon="16.3900112"/>
+  </metadata>
+  <wpt lat="50.404275" lon="16.390609">
+    <ele>533</ele>
+    <name>Duszniki-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/1837">
+      <text>Duszniki-Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.404866" lon="16.390011">
+    <ele>536</ele>
+    <name>Duszniki-Zdroj, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/4070">
+      <text>Duszniki-Zdroj, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Duszniki-Zdroj - Duszniki-Zdroj, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4042746,16.3906092;50.40441140024408,16.390415350000012;50.4048665,16.3900112">
+    <text>Duszniki-Zdroj - Duszniki-Zdroj, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4042746" lon="16.3906092">
+      <ele>533</ele>
+      <time>2022-01-17T22:02:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4042593" lon="16.3905407">
+      <ele>533</ele>
+      <time>2022-01-17T22:02:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4045635" lon="16.39029">
+      <ele>536</ele>
+      <time>2022-01-17T22:03:50Z</time>
+    </trkpt>
+    <trkpt lat="50.4048665" lon="16.3900112">
+      <ele>536</ele>
+      <time>2022-01-17T22:04:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

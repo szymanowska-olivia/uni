@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:44:10Z</time>
+    <bounds maxlat="49.407088" maxlon="20.411113" minlat="49.40519" minlon="20.410724"/>
+  </metadata>
+  <wpt lat="49.407088" lon="20.410724">
+    <ele>486</ele>
+    <name>Szopczanski Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/53">
+      <text>Szopczanski Potok</text>
+    </link>
+  </wpt>
+  <wpt lat="49.40519" lon="20.411087">
+    <ele>470</ele>
+    <name>Schronisko PTTK Trzy Korony</name>
+    <link href="https://mapa-turystyczna.pl/node/42">
+      <text>Schronisko PTTK Trzy Korony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szopczanski Potok - Schronisko PTTK Trzy Korony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.407088,20.410724;49.40607500022005,20.411093000000005;49.40519,20.411087">
+    <text>Szopczanski Potok - Schronisko PTTK Trzy Korony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.407088" lon="20.410724">
+      <ele>486</ele>
+      <time>2022-01-17T20:44:10Z</time>
+    </trkpt>
+    <trkpt lat="49.407039" lon="20.410734">
+      <ele>486</ele>
+      <time>2022-01-17T20:44:15Z</time>
+    </trkpt>
+    <trkpt lat="49.4068" lon="20.410906">
+      <ele>484</ele>
+      <time>2022-01-17T20:44:39Z</time>
+    </trkpt>
+    <trkpt lat="49.406611" lon="20.411028">
+      <ele>482</ele>
+      <time>2022-01-17T20:44:58Z</time>
+    </trkpt>
+    <trkpt lat="49.406392" lon="20.411103">
+      <ele>479</ele>
+      <time>2022-01-17T20:45:19Z</time>
+    </trkpt>
+    <trkpt lat="49.406222" lon="20.4111">
+      <ele>479</ele>
+      <time>2022-01-17T20:45:34Z</time>
+    </trkpt>
+    <trkpt lat="49.405928" lon="20.411086">
+      <ele>476</ele>
+      <time>2022-01-17T20:46:02Z</time>
+    </trkpt>
+    <trkpt lat="49.405613" lon="20.411113">
+      <ele>471</ele>
+      <time>2022-01-17T20:46:31Z</time>
+    </trkpt>
+    <trkpt lat="49.40519" lon="20.411087">
+      <ele>470</ele>
+      <time>2022-01-17T20:47:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

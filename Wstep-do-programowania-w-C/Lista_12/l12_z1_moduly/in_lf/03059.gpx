@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:24:28Z</time>
+    <bounds maxlat="50.2047655" maxlon="17.0423377" minlat="50.2038256" minlon="17.0381212"/>
+  </metadata>
+  <wpt lat="50.204766" lon="17.038121">
+    <ele>819</ele>
+    <name>Petrikov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2186">
+      <text>Petrikov, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.203935" lon="17.042338">
+    <ele>786</ele>
+    <name>Petrikov</name>
+    <link href="https://mapa-turystyczna.pl/node/2155">
+      <text>Petrikov</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Petrikov, rozc. - Petrikov</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2047655,17.0381212;50.20423880024331,17.03977455000001;50.2039345,17.0423377">
+    <text>Petrikov, rozc. - Petrikov</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2047655" lon="17.0381212">
+      <ele>819</ele>
+      <time>2022-01-17T21:24:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2043912" lon="17.0393389">
+      <ele>813</ele>
+      <time>2022-01-17T21:25:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2040864" lon="17.0402102">
+      <ele>804</ele>
+      <time>2022-01-17T21:27:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2039363" lon="17.0406238">
+      <ele>800</ele>
+      <time>2022-01-17T21:27:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2038256" lon="17.0420547">
+      <ele>789</ele>
+      <time>2022-01-17T21:29:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2039345" lon="17.0423377">
+      <ele>786</ele>
+      <time>2022-01-17T21:29:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

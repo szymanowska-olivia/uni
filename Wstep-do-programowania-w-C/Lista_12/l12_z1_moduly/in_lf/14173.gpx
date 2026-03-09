@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:53Z</time>
+    <bounds maxlat="50.2537072" maxlon="18.7948032" minlat="50.2524806" minlon="18.7837565"/>
+  </metadata>
+  <wpt lat="50.252481" lon="18.783756">
+    <ele>235</ele>
+    <name>Zabrze, Piasek</name>
+    <link href="https://mapa-turystyczna.pl/node/9677">
+      <text>Zabrze, Piasek</text>
+    </link>
+  </wpt>
+  <wpt lat="50.253707" lon="18.794803">
+    <ele>240</ele>
+    <name>Konczyce, halda</name>
+    <link href="https://mapa-turystyczna.pl/node/9676">
+      <text>Konczyce, halda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabrze, Piasek - Konczyce, halda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2524806,18.7837565;50.2531410500011,18.789026500000023;50.2537072,18.7948032">
+    <text>Zabrze, Piasek - Konczyce, halda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2524806" lon="18.7837565">
+      <ele>235</ele>
+      <time>2022-01-18T00:17:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2531308" lon="18.7882379">
+      <ele>232</ele>
+      <time>2022-01-18T00:24:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2531513" lon="18.7898151">
+      <ele>235</ele>
+      <time>2022-01-18T00:26:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2532474" lon="18.7907914">
+      <ele>237</ele>
+      <time>2022-01-18T00:27:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2534669" lon="18.7919823">
+      <ele>236</ele>
+      <time>2022-01-18T00:29:05Z</time>
+    </trkpt>
+    <trkpt lat="50.253659" lon="18.7938706">
+      <ele>238</ele>
+      <time>2022-01-18T00:31:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2537072" lon="18.7948032">
+      <ele>240</ele>
+      <time>2022-01-18T00:32:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

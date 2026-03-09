@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:47:10Z</time>
+    <bounds maxlat="50.9519173" maxlon="15.9245195" minlat="50.9517004" minlon="15.9220487"/>
+  </metadata>
+  <wpt lat="50.9517" lon="15.922049">
+    <ele>343</ele>
+    <name>Wojcieszow, ul. Chrobrego</name>
+    <link href="https://mapa-turystyczna.pl/node/13087">
+      <text>Wojcieszow, ul. Chrobrego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.951917" lon="15.92452">
+    <ele>350</ele>
+    <name>Wojcieszow, ul. Koscielna</name>
+    <link href="https://mapa-turystyczna.pl/node/13090">
+      <text>Wojcieszow, ul. Koscielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wojcieszow, ul. Chrobrego - Wojcieszow, ul. Koscielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9517004,15.9220487;50.951796500024074,15.92310375000003;50.9519173,15.9245195">
+    <text>Wojcieszow, ul. Chrobrego - Wojcieszow, ul. Koscielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9517004" lon="15.9220487">
+      <ele>343</ele>
+      <time>2022-01-18T01:47:10Z</time>
+    </trkpt>
+    <trkpt lat="50.9517424" lon="15.9221086">
+      <ele>343</ele>
+      <time>2022-01-18T01:47:16Z</time>
+    </trkpt>
+    <trkpt lat="50.9517593" lon="15.9222374">
+      <ele>343</ele>
+      <time>2022-01-18T01:47:26Z</time>
+    </trkpt>
+    <trkpt lat="50.9517492" lon="15.9227524">
+      <ele>343</ele>
+      <time>2022-01-18T01:48:02Z</time>
+    </trkpt>
+    <trkpt lat="50.9518438" lon="15.9234551">
+      <ele>346</ele>
+      <time>2022-01-18T01:48:54Z</time>
+    </trkpt>
+    <trkpt lat="50.9519173" lon="15.9245195">
+      <ele>350</ele>
+      <time>2022-01-18T01:50:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

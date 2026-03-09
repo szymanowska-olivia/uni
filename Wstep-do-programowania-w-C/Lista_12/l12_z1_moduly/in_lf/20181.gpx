@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:01Z</time>
+    <bounds maxlat="50.7026551" maxlon="16.1917212" minlat="50.7025941" minlon="16.1916267"/>
+  </metadata>
+  <wpt lat="50.702655" lon="16.191627">
+    <ele>851</ele>
+    <name>Lesista Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/2366">
+      <text>Lesista Wielka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.702594" lon="16.191721">
+    <ele>859</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13580">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesista Wielka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7026551,16.1916267;50.702624600009926,16.191673950000002;50.7025941,16.1917212">
+    <text>Lesista Wielka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7026551" lon="16.1916267">
+      <ele>851</ele>
+      <time>2022-01-18T02:02:01Z</time>
+    </trkpt>
+    <trkpt lat="50.7025941" lon="16.1917212">
+      <ele>859</ele>
+      <time>2022-01-18T02:03:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

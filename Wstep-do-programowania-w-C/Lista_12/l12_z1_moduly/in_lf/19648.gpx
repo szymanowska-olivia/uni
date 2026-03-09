@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:52:11Z</time>
+    <bounds maxlat="50.7585906" maxlon="15.7611098" minlat="50.7584256" minlon="15.7597553"/>
+  </metadata>
+  <wpt lat="50.758591" lon="15.759755">
+    <ele>769</ele>
+    <name>Droga Urszuli</name>
+    <link href="https://mapa-turystyczna.pl/node/13183">
+      <text>Droga Urszuli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.758426" lon="15.76111">
+    <ele>765</ele>
+    <name>Droga Urszuli</name>
+    <link href="https://mapa-turystyczna.pl/node/13251">
+      <text>Droga Urszuli</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Urszuli - Droga Urszuli</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7585906,15.7597553;50.75851395006277,15.76028609999998;50.7584256,15.7611098">
+    <text>Droga Urszuli - Droga Urszuli</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7585906" lon="15.7597553">
+      <ele>769</ele>
+      <time>2022-01-18T01:52:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7584373" lon="15.7608169">
+      <ele>765</ele>
+      <time>2022-01-18T01:52:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7584256" lon="15.7611098">
+      <ele>765</ele>
+      <time>2022-01-18T01:53:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

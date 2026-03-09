@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:54Z</time>
+    <bounds maxlat="51.3056539" maxlon="20.1144433" minlat="51.2756087" minlon="20.0628591"/>
+  </metadata>
+  <wpt lat="51.305654" lon="20.114443">
+    <ele>192</ele>
+    <name>Paradyz</name>
+    <link href="https://mapa-turystyczna.pl/node/7293">
+      <text>Paradyz</text>
+    </link>
+  </wpt>
+  <wpt lat="51.275609" lon="20.062859">
+    <ele>189</ele>
+    <name>Przylek</name>
+    <link href="https://mapa-turystyczna.pl/node/7294">
+      <text>Przylek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Paradyz - Przylek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3056539,20.1144433;51.29463911566165,20.079875000000023;51.2756087,20.0628591">
+    <text>Paradyz - Przylek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3056539" lon="20.1144433">
+      <ele>192</ele>
+      <time>2022-01-17T23:14:54Z</time>
+    </trkpt>
+    <trkpt lat="51.3043795" lon="20.1135206">
+      <ele>196</ele>
+      <time>2022-01-17T23:17:16Z</time>
+    </trkpt>
+    <trkpt lat="51.3035343" lon="20.1124263">
+      <ele>197</ele>
+      <time>2022-01-17T23:19:07Z</time>
+    </trkpt>
+    <trkpt lat="51.3033197" lon="20.1098514">
+      <ele>196</ele>
+      <time>2022-01-17T23:21:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3030782" lon="20.108521">
+      <ele>197</ele>
+      <time>2022-01-17T23:23:20Z</time>
+    </trkpt>
+    <trkpt lat="51.3024745" lon="20.1059675">
+      <ele>197</ele>
+      <time>2022-01-17T23:26:14Z</time>
+    </trkpt>
+    <trkpt lat="51.3017098" lon="20.1033068">
+      <ele>193</ele>
+      <time>2022-01-17T23:29:20Z</time>
+    </trkpt>
+    <trkpt lat="51.2997913" lon="20.0944877">
+      <ele>195</ele>
+      <time>2022-01-17T23:39:14Z</time>
+    </trkpt>
+    <trkpt lat="51.2993754" lon="20.0922561">
+      <ele>205</ele>
+      <time>2022-01-17T23:41:42Z</time>
+    </trkpt>
+    <trkpt lat="51.2993888" lon="20.0913978">
+      <ele>206</ele>
+      <time>2022-01-17T23:42:37Z</time>
+    </trkpt>
+    <trkpt lat="51.2970945" lon="20.0821924">
+      <ele>207</ele>
+      <time>2022-01-17T23:53:07Z</time>
+    </trkpt>
+    <trkpt lat="51.2921836" lon="20.0775576">
+      <ele>201</ele>
+      <time>2022-01-18T00:02:46Z</time>
+    </trkpt>
+    <trkpt lat="51.2844405" lon="20.070734">
+      <ele>185</ele>
+      <time>2022-01-18T00:17:46Z</time>
+    </trkpt>
+    <trkpt lat="51.2756087" lon="20.0628591">
+      <ele>189</ele>
+      <time>2022-01-18T00:34:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:49Z</time>
+    <bounds maxlat="50.7737332" maxlon="15.740905" minlat="50.7733538" minlon="15.7388646"/>
+  </metadata>
+  <wpt lat="50.773733" lon="15.738865">
+    <ele>710</ele>
+    <name>Karpacz, Bialy Jar</name>
+    <link href="https://mapa-turystyczna.pl/node/1165">
+      <text>Karpacz, Bialy Jar</text>
+    </link>
+  </wpt>
+  <wpt lat="50.773354" lon="15.740905">
+    <ele>725</ele>
+    <name>Karpacz, ul. Gimnazjalna</name>
+    <link href="https://mapa-turystyczna.pl/node/7985">
+      <text>Karpacz, ul. Gimnazjalna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karpacz, Bialy Jar - Karpacz, ul. Gimnazjalna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7737332,15.7388646;50.77365850000311,15.739889699999985;50.7733538,15.740905">
+    <text>Karpacz, Bialy Jar - Karpacz, ul. Gimnazjalna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7737332" lon="15.7388646">
+      <ele>710</ele>
+      <time>2022-01-17T23:32:49Z</time>
+    </trkpt>
+    <trkpt lat="50.7736708" lon="15.7390508">
+      <ele>713</ele>
+      <time>2022-01-17T23:33:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7736844" lon="15.7394961">
+      <ele>716</ele>
+      <time>2022-01-17T23:34:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7736755" lon="15.7397268">
+      <ele>718</ele>
+      <time>2022-01-17T23:34:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7736415" lon="15.7400526">
+      <ele>721</ele>
+      <time>2022-01-17T23:35:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7735759" lon="15.7402793">
+      <ele>723</ele>
+      <time>2022-01-17T23:36:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7735005" lon="15.740547">
+      <ele>725</ele>
+      <time>2022-01-17T23:36:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7734028" lon="15.7407675">
+      <ele>725</ele>
+      <time>2022-01-17T23:37:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7733538" lon="15.740905">
+      <ele>725</ele>
+      <time>2022-01-17T23:37:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

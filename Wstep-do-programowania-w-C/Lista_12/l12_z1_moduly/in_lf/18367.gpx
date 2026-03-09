@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:46Z</time>
+    <bounds maxlat="52.3243459" maxlon="20.8735663" minlat="52.3199643" minlon="20.8598843"/>
+  </metadata>
+  <wpt lat="52.324346" lon="20.859884">
+    <ele>90</ele>
+    <name>Lomiankowska Droga</name>
+    <link href="https://mapa-turystyczna.pl/node/12447">
+      <text>Lomiankowska Droga</text>
+    </link>
+  </wpt>
+  <wpt lat="52.319964" lon="20.873566">
+    <ele>84</ele>
+    <name>Dabrowa, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12448">
+      <text>Dabrowa, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lomiankowska Droga - Dabrowa, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3243459,20.8598843;52.32216580037761,20.868204399999986;52.3199643,20.8735663">
+    <text>Lomiankowska Droga - Dabrowa, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3243459" lon="20.8598843">
+      <ele>90</ele>
+      <time>2022-01-18T01:29:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3233843" lon="20.8624531">
+      <ele>89</ele>
+      <time>2022-01-18T01:32:38Z</time>
+    </trkpt>
+    <trkpt lat="52.3230027" lon="20.8641475">
+      <ele>89</ele>
+      <time>2022-01-18T01:34:21Z</time>
+    </trkpt>
+    <trkpt lat="52.3223486" lon="20.8668378">
+      <ele>91</ele>
+      <time>2022-01-18T01:37:07Z</time>
+    </trkpt>
+    <trkpt lat="52.321983" lon="20.869571">
+      <ele>89</ele>
+      <time>2022-01-18T01:39:47Z</time>
+    </trkpt>
+    <trkpt lat="52.3217051" lon="20.8702831">
+      <ele>89</ele>
+      <time>2022-01-18T01:40:35Z</time>
+    </trkpt>
+    <trkpt lat="52.3211125" lon="20.8709952">
+      <ele>90</ele>
+      <time>2022-01-18T01:41:44Z</time>
+    </trkpt>
+    <trkpt lat="52.3199643" lon="20.8735663">
+      <ele>84</ele>
+      <time>2022-01-18T01:44:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

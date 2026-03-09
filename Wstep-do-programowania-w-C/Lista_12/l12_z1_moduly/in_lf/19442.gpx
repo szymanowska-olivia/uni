@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:28Z</time>
+    <bounds maxlat="51.4020018" maxlon="16.2019593" minlat="51.4008467" minlon="16.201616"/>
+  </metadata>
+  <wpt lat="51.400847" lon="16.201797">
+    <ele>128</ele>
+    <name>Lubin, ul. Marii Sklodowskiej-Curie</name>
+    <link href="https://mapa-turystyczna.pl/node/13129">
+      <text>Lubin, ul. Marii Sklodowskiej-Curie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.402002" lon="16.201698">
+    <ele>127</ele>
+    <name>Lubin, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10129">
+      <text>Lubin, dworzec autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, ul. Marii Sklodowskiej-Curie - Lubin, dworzec autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4008467,16.2017974;51.40166805121776,16.201657250000004;51.4020018,16.2016985">
+    <text>Lubin, ul. Marii Sklodowskiej-Curie - Lubin, dworzec autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4008467" lon="16.2017974">
+      <ele>128</ele>
+      <time>2022-01-18T01:48:28Z</time>
+    </trkpt>
+    <trkpt lat="51.4010197" lon="16.2019593">
+      <ele>127</ele>
+      <time>2022-01-18T01:48:47Z</time>
+    </trkpt>
+    <trkpt lat="51.4010958" lon="16.2018415">
+      <ele>127</ele>
+      <time>2022-01-18T01:48:57Z</time>
+    </trkpt>
+    <trkpt lat="51.4012405" lon="16.2017018">
+      <ele>127</ele>
+      <time>2022-01-18T01:49:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4012974" lon="16.2016964">
+      <ele>127</ele>
+      <time>2022-01-18T01:49:19Z</time>
+    </trkpt>
+    <trkpt lat="51.4013343" lon="16.201616">
+      <ele>127</ele>
+      <time>2022-01-18T01:49:24Z</time>
+    </trkpt>
+    <trkpt lat="51.4020018" lon="16.2016985">
+      <ele>127</ele>
+      <time>2022-01-18T01:50:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

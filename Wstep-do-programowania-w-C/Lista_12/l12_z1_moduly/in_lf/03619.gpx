@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:44Z</time>
+    <bounds maxlat="49.517965" maxlon="19.24022" minlat="49.516211" minlon="19.238331"/>
+  </metadata>
+  <wpt lat="49.516211" lon="19.238331">
+    <ele>896</ele>
+    <name>Las Zlotnice, Bystra</name>
+    <link href="https://mapa-turystyczna.pl/node/2524">
+      <text>Las Zlotnice, Bystra</text>
+    </link>
+  </wpt>
+  <wpt lat="49.517965" lon="19.24022">
+    <ele>943</ele>
+    <name>Las Zlotnice</name>
+    <link href="https://mapa-turystyczna.pl/node/2525">
+      <text>Las Zlotnice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Zlotnice, Bystra - Las Zlotnice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.516211,19.238331;49.51670750196583,19.23902550000001;49.517965,19.24022">
+    <text>Las Zlotnice, Bystra - Las Zlotnice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.516211" lon="19.238331">
+      <ele>897</ele>
+      <time>2022-01-17T21:32:44Z</time>
+    </trkpt>
+    <trkpt lat="49.516269" lon="19.238412">
+      <ele>899</ele>
+      <time>2022-01-17T21:33:06Z</time>
+    </trkpt>
+    <trkpt lat="49.517146" lon="19.239639">
+      <ele>932</ele>
+      <time>2022-01-17T21:38:33Z</time>
+    </trkpt>
+    <trkpt lat="49.51727" lon="19.239871">
+      <ele>936</ele>
+      <time>2022-01-17T21:39:26Z</time>
+    </trkpt>
+    <trkpt lat="49.517394" lon="19.239985">
+      <ele>938</ele>
+      <time>2022-01-17T21:40:05Z</time>
+    </trkpt>
+    <trkpt lat="49.517965" lon="19.24022">
+      <ele>943</ele>
+      <time>2022-01-17T21:42:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

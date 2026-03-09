@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:17Z</time>
+    <bounds maxlat="50.425378" maxlon="18.1906774" minlat="50.4234829" minlon="18.1877226"/>
+  </metadata>
+  <wpt lat="50.425378" lon="18.187723">
+    <ele>213</ele>
+    <name>Lesnica, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9956">
+      <text>Lesnica, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.423483" lon="18.190669">
+    <ele>211</ele>
+    <name>Lesnica, dawna stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9957">
+      <text>Lesnica, dawna stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica, ul. Dworcowa - Lesnica, dawna stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.425378,18.1877226;50.42441110208416,18.189851249999982;50.4234829,18.1906695">
+    <text>Lesnica, ul. Dworcowa - Lesnica, dawna stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.425378" lon="18.1877226">
+      <ele>213</ele>
+      <time>2022-01-18T00:25:17Z</time>
+    </trkpt>
+    <trkpt lat="50.4248554" lon="18.1890251">
+      <ele>213</ele>
+      <time>2022-01-18T00:27:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4239668" lon="18.1906774">
+      <ele>212</ele>
+      <time>2022-01-18T00:29:26Z</time>
+    </trkpt>
+    <trkpt lat="50.4234829" lon="18.1906695">
+      <ele>211</ele>
+      <time>2022-01-18T00:30:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

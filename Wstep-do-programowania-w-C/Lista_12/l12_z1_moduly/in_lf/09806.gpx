@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:31Z</time>
+    <bounds maxlat="50.0716499" maxlon="17.1508974" minlat="50.0707651" minlon="17.1447229"/>
+  </metadata>
+  <wpt lat="50.07165" lon="17.144723">
+    <ele>1337</ele>
+    <name>Mravenecnik</name>
+    <link href="https://mapa-turystyczna.pl/node/6889">
+      <text>Mravenecnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.070765" lon="17.150897">
+    <ele>1300</ele>
+    <name>Mravenecnik, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6888">
+      <text>Mravenecnik, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mravenecnik - Mravenecnik, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0716499,17.1447229;50.071207502040636,17.147810149999987;50.0707651,17.1508974">
+    <text>Mravenecnik - Mravenecnik, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0716499" lon="17.1447229">
+      <ele>1337</ele>
+      <time>2022-01-17T23:04:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0707651" lon="17.1508974">
+      <ele>1300</ele>
+      <time>2022-01-17T23:09:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

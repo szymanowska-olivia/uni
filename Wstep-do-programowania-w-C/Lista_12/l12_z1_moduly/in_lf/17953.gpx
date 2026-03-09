@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:22:48Z</time>
+    <bounds maxlat="52.4378633" maxlon="20.6745003" minlat="52.4376771" minlon="20.6732805"/>
+  </metadata>
+  <wpt lat="52.437829" lon="20.6745">
+    <ele>106</ele>
+    <name>Skrzyzowanie szlakow czerwony / niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12226">
+      <text>Skrzyzowanie szlakow czerwony / niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="52.437677" lon="20.673281">
+    <ele>106</ele>
+    <name>Modlin, ul. Poniatowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12231">
+      <text>Modlin, ul. Poniatowskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow czerwony / niebieski / zolty - Modlin, ul. Poniatowskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4378294,20.6745003;52.437776650085205,20.67386635;52.4376771,20.6732805">
+    <text>Skrzyzowanie szlakow czerwony / niebieski / zolty - Modlin, ul. Poniatowskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4378294" lon="20.6745003">
+      <ele>106</ele>
+      <time>2022-01-18T01:22:48Z</time>
+    </trkpt>
+    <trkpt lat="52.4378633" lon="20.6742633">
+      <ele>106</ele>
+      <time>2022-01-18T01:22:59Z</time>
+    </trkpt>
+    <trkpt lat="52.43769" lon="20.6734694">
+      <ele>106</ele>
+      <time>2022-01-18T01:23:39Z</time>
+    </trkpt>
+    <trkpt lat="52.4376771" lon="20.6732805">
+      <ele>106</ele>
+      <time>2022-01-18T01:23:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

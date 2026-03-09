@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:46Z</time>
+    <bounds maxlat="51.1012368" maxlon="15.5944119" minlat="51.1009914" minlon="15.5940256"/>
+  </metadata>
+  <wpt lat="51.101237" lon="15.594412">
+    <ele>258</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11824">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.100995" lon="15.594026">
+    <ele>248</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11829">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Odejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1012368,15.5944119;51.10108065002581,15.594213299999984;51.1009949,15.5940256">
+    <text>Odejscie na punkt widokowy - Odejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1012368" lon="15.5944119">
+      <ele>258</ele>
+      <time>2022-01-18T01:12:46Z</time>
+    </trkpt>
+    <trkpt lat="51.101207" lon="15.594334">
+      <ele>256</ele>
+      <time>2022-01-18T01:12:56Z</time>
+    </trkpt>
+    <trkpt lat="51.1011295" lon="15.5942643">
+      <ele>254</ele>
+      <time>2022-01-18T01:13:10Z</time>
+    </trkpt>
+    <trkpt lat="51.1010318" lon="15.5941623">
+      <ele>251</ele>
+      <time>2022-01-18T01:13:30Z</time>
+    </trkpt>
+    <trkpt lat="51.1009914" lon="15.5940443">
+      <ele>248</ele>
+      <time>2022-01-18T01:13:44Z</time>
+    </trkpt>
+    <trkpt lat="51.1009949" lon="15.5940256">
+      <ele>248</ele>
+      <time>2022-01-18T01:13:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

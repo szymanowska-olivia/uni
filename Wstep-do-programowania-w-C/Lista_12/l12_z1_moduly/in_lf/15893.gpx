@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:47:29Z</time>
+    <bounds maxlat="54.3349558" maxlon="18.9363608" minlat="54.3334576" minlon="18.9342982"/>
+  </metadata>
+  <wpt lat="54.333458" lon="18.936361">
+    <ele>0</ele>
+    <name>Gdansk, Swibno, prom</name>
+    <link href="https://mapa-turystyczna.pl/node/10884">
+      <text>Gdansk, Swibno, prom</text>
+    </link>
+  </wpt>
+  <wpt lat="54.334956" lon="18.934298">
+    <ele>5</ele>
+    <name>Gdansk, Swibno, przystanek autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10885">
+      <text>Gdansk, Swibno, przystanek autobusowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gdansk, Swibno, prom - Gdansk, Swibno, przystanek autobusowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.3334576,18.9363608;54.334339600742446,18.935097449999976;54.3349558,18.9342982">
+    <text>Gdansk, Swibno, prom - Gdansk, Swibno, przystanek autobusowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.3334576" lon="18.9363608">
+      <ele>0</ele>
+      <time>2022-01-18T00:47:29Z</time>
+    </trkpt>
+    <trkpt lat="54.333639" lon="18.9362562">
+      <ele>0</ele>
+      <time>2022-01-18T00:47:57Z</time>
+    </trkpt>
+    <trkpt lat="54.3337485" lon="18.9361811">
+      <ele>0</ele>
+      <time>2022-01-18T00:48:14Z</time>
+    </trkpt>
+    <trkpt lat="54.3338548" lon="18.9356446">
+      <ele>2</ele>
+      <time>2022-01-18T00:49:03Z</time>
+    </trkpt>
+    <trkpt lat="54.333958" lon="18.9353871">
+      <ele>3</ele>
+      <time>2022-01-18T00:49:29Z</time>
+    </trkpt>
+    <trkpt lat="54.3340925" lon="18.9352423">
+      <ele>4</ele>
+      <time>2022-01-18T00:49:53Z</time>
+    </trkpt>
+    <trkpt lat="54.3345867" lon="18.9349526">
+      <ele>3</ele>
+      <time>2022-01-18T00:51:09Z</time>
+    </trkpt>
+    <trkpt lat="54.3347258" lon="18.9347979">
+      <ele>3</ele>
+      <time>2022-01-18T00:51:34Z</time>
+    </trkpt>
+    <trkpt lat="54.3349026" lon="18.9345101">
+      <ele>4</ele>
+      <time>2022-01-18T00:52:09Z</time>
+    </trkpt>
+    <trkpt lat="54.3349558" lon="18.9342982">
+      <ele>5</ele>
+      <time>2022-01-18T00:52:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

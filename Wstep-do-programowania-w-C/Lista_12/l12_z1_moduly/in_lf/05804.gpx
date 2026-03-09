@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:10Z</time>
+    <bounds maxlat="49.518116" maxlon="18.851534" minlat="49.517345" minlon="18.851008"/>
+  </metadata>
+  <wpt lat="49.518116" lon="18.851534">
+    <ele>579</ele>
+    <name>Nad Trojmezim</name>
+    <link href="https://mapa-turystyczna.pl/node/838">
+      <text>Nad Trojmezim</text>
+    </link>
+  </wpt>
+  <wpt lat="49.517345" lon="18.851008">
+    <ele>558</ele>
+    <name>Trojstyk Polska / Czechy / Slowacja</name>
+    <link href="https://mapa-turystyczna.pl/node/4020">
+      <text>Trojstyk Polska / Czechy / Slowacja</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Trojmezim - Trojstyk Polska / Czechy / Slowacja</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.518116,18.851534;49.51784900072887,18.851402000000004;49.517345,18.851008">
+    <text>Nad Trojmezim - Trojstyk Polska / Czechy / Slowacja</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.518116" lon="18.851534">
+      <ele>579</ele>
+      <time>2022-01-17T22:01:10Z</time>
+    </trkpt>
+    <trkpt lat="49.517582" lon="18.85127">
+      <ele>561</ele>
+      <time>2022-01-17T22:02:29Z</time>
+    </trkpt>
+    <trkpt lat="49.517403" lon="18.851061">
+      <ele>558</ele>
+      <time>2022-01-17T22:03:00Z</time>
+    </trkpt>
+    <trkpt lat="49.517383" lon="18.85101">
+      <ele>558</ele>
+      <time>2022-01-17T22:03:05Z</time>
+    </trkpt>
+    <trkpt lat="49.517366" lon="18.851008">
+      <ele>558</ele>
+      <time>2022-01-17T22:03:07Z</time>
+    </trkpt>
+    <trkpt lat="49.517345" lon="18.851008">
+      <ele>558</ele>
+      <time>2022-01-17T22:03:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

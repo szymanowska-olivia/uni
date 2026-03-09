@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:51Z</time>
+    <bounds maxlat="52.1021924" maxlon="21.271633" minlat="52.1007399" minlon="21.2706487"/>
+  </metadata>
+  <wpt lat="52.102192" lon="21.271633">
+    <ele>99</ele>
+    <name>Otwock, Pensjonat Gurewicza</name>
+    <link href="https://mapa-turystyczna.pl/node/11556">
+      <text>Otwock, Pensjonat Gurewicza</text>
+    </link>
+  </wpt>
+  <wpt lat="52.10074" lon="21.270649">
+    <ele>97</ele>
+    <name>Otwock, Park Miejski</name>
+    <link href="https://mapa-turystyczna.pl/node/12937">
+      <text>Otwock, Park Miejski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, Pensjonat Gurewicza - Otwock, Park Miejski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1021924,21.271633;52.10146615591284,21.271140850000005;52.1007399,21.2706487">
+    <text>Otwock, Pensjonat Gurewicza - Otwock, Park Miejski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1021924" lon="21.271633">
+      <ele>99</ele>
+      <time>2022-01-18T01:42:51Z</time>
+    </trkpt>
+    <trkpt lat="52.1007399" lon="21.2706487">
+      <ele>97</ele>
+      <time>2022-01-18T01:45:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

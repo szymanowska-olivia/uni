@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:47Z</time>
+    <bounds maxlat="50.1723631" maxlon="16.3193965" minlat="50.1719061" minlon="16.3191175"/>
+  </metadata>
+  <wpt lat="50.171906" lon="16.319118">
+    <ele>376</ele>
+    <name>Ivanske jezero, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7675">
+      <text>Ivanske jezero, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.172363" lon="16.319396">
+    <ele>380</ele>
+    <name>Ivanske jezero</name>
+    <link href="https://mapa-turystyczna.pl/node/7674">
+      <text>Ivanske jezero</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ivanske jezero, rozc. - Ivanske jezero</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1719061,16.3191175;50.17213460054636,16.319256999999997;50.1723631,16.3193965">
+    <text>Ivanske jezero, rozc. - Ivanske jezero</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1719061" lon="16.3191175">
+      <ele>376</ele>
+      <time>2022-01-17T23:24:47Z</time>
+    </trkpt>
+    <trkpt lat="50.1723631" lon="16.3193965">
+      <ele>380</ele>
+      <time>2022-01-17T23:25:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

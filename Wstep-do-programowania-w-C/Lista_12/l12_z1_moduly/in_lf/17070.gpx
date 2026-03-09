@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:25Z</time>
+    <bounds maxlat="52.2534388" maxlon="16.8310926" minlat="52.2507296" minlon="16.8258927"/>
+  </metadata>
+  <wpt lat="52.25073" lon="16.825893">
+    <ele>117</ele>
+    <name>Osowa Gora, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11651">
+      <text>Osowa Gora, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="52.253439" lon="16.831093">
+    <ele>120</ele>
+    <name>Pozegowo, ul. Skrzynecka</name>
+    <link href="https://mapa-turystyczna.pl/node/10244">
+      <text>Pozegowo, ul. Skrzynecka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Osowa Gora, parking - Pozegowo, ul. Skrzynecka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2507296,16.8258927;52.25218780038119,16.82807459999999;52.2534388,16.8310926">
+    <text>Osowa Gora, parking - Pozegowo, ul. Skrzynecka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2507296" lon="16.8258927">
+      <ele>117</ele>
+      <time>2022-01-18T01:07:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2508742" lon="16.8262158">
+      <ele>117</ele>
+      <time>2022-01-18T01:08:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2509432" lon="16.8263392">
+      <ele>117</ele>
+      <time>2022-01-18T01:08:14Z</time>
+    </trkpt>
+    <trkpt lat="52.2520039" lon="16.8278949">
+      <ele>120</ele>
+      <time>2022-01-18T01:11:35Z</time>
+    </trkpt>
+    <trkpt lat="52.2523717" lon="16.8282543">
+      <ele>121</ele>
+      <time>2022-01-18T01:12:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2524574" lon="16.828421">
+      <ele>121</ele>
+      <time>2022-01-18T01:12:54Z</time>
+    </trkpt>
+    <trkpt lat="52.2528383" lon="16.8297782">
+      <ele>120</ele>
+      <time>2022-01-18T01:15:03Z</time>
+    </trkpt>
+    <trkpt lat="52.2534388" lon="16.8310926">
+      <ele>120</ele>
+      <time>2022-01-18T01:17:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

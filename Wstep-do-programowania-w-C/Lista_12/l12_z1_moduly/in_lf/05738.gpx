@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:18Z</time>
+    <bounds maxlat="50.6447119" maxlon="16.4080113" minlat="50.641936" minlon="16.4048946"/>
+  </metadata>
+  <wpt lat="50.641936" lon="16.408011">
+    <ele>545</ele>
+    <name>Bartnica, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3990">
+      <text>Bartnica, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.644712" lon="16.404895">
+    <ele>539</ele>
+    <name>Bartnica</name>
+    <link href="https://mapa-turystyczna.pl/node/3989">
+      <text>Bartnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bartnica, stacja kolejowa - Bartnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.641936,16.4080113;50.642971950701934,16.406551549999996;50.6447119,16.4048946">
+    <text>Bartnica, stacja kolejowa - Bartnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.641936" lon="16.4080113">
+      <ele>545</ele>
+      <time>2022-01-17T22:00:18Z</time>
+    </trkpt>
+    <trkpt lat="50.6422023" lon="16.4077437">
+      <ele>544</ele>
+      <time>2022-01-17T22:00:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6423112" lon="16.4076686">
+      <ele>543</ele>
+      <time>2022-01-17T22:00:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6427151" lon="16.4069934">
+      <ele>542</ele>
+      <time>2022-01-17T22:01:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6432288" lon="16.4061097">
+      <ele>540</ele>
+      <time>2022-01-17T22:02:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6438275" lon="16.4054344">
+      <ele>538</ele>
+      <time>2022-01-17T22:03:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6443377" lon="16.4050649">
+      <ele>539</ele>
+      <time>2022-01-17T22:04:44Z</time>
+    </trkpt>
+    <trkpt lat="50.6447119" lon="16.4048946">
+      <ele>539</ele>
+      <time>2022-01-17T22:05:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

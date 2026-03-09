@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:17:06Z</time>
+    <bounds maxlat="49.765831" maxlon="19.001486" minlat="49.765244" minlon="19.001201"/>
+  </metadata>
+  <wpt lat="49.765244" lon="19.001343">
+    <ele>827</ele>
+    <name>Pod Szyndzielnia</name>
+    <link href="https://mapa-turystyczna.pl/node/4816">
+      <text>Pod Szyndzielnia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.765831" lon="19.001486">
+    <ele>812</ele>
+    <name>Nad Przelecza Dylowki</name>
+    <link href="https://mapa-turystyczna.pl/node/798">
+      <text>Nad Przelecza Dylowki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Szyndzielnia - Nad Przelecza Dylowki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.765244,19.001343;49.765552000006444,19.001205999999996;49.765831,19.001486">
+    <text>Pod Szyndzielnia - Nad Przelecza Dylowki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.765244" lon="19.001343">
+      <ele>827</ele>
+      <time>2022-01-17T22:17:06Z</time>
+    </trkpt>
+    <trkpt lat="49.765313" lon="19.001279">
+      <ele>825</ele>
+      <time>2022-01-17T22:17:13Z</time>
+    </trkpt>
+    <trkpt lat="49.765388" lon="19.001239">
+      <ele>823</ele>
+      <time>2022-01-17T22:17:21Z</time>
+    </trkpt>
+    <trkpt lat="49.765465" lon="19.001214">
+      <ele>821</ele>
+      <time>2022-01-17T22:17:28Z</time>
+    </trkpt>
+    <trkpt lat="49.765527" lon="19.001201">
+      <ele>819</ele>
+      <time>2022-01-17T22:17:33Z</time>
+    </trkpt>
+    <trkpt lat="49.765577" lon="19.001211">
+      <ele>818</ele>
+      <time>2022-01-17T22:17:38Z</time>
+    </trkpt>
+    <trkpt lat="49.765629" lon="19.001256">
+      <ele>817</ele>
+      <time>2022-01-17T22:17:43Z</time>
+    </trkpt>
+    <trkpt lat="49.765678" lon="19.001317">
+      <ele>816</ele>
+      <time>2022-01-17T22:17:49Z</time>
+    </trkpt>
+    <trkpt lat="49.765706" lon="19.001371">
+      <ele>815</ele>
+      <time>2022-01-17T22:17:53Z</time>
+    </trkpt>
+    <trkpt lat="49.765776" lon="19.001449">
+      <ele>814</ele>
+      <time>2022-01-17T22:18:01Z</time>
+    </trkpt>
+    <trkpt lat="49.765831" lon="19.001486">
+      <ele>812</ele>
+      <time>2022-01-17T22:18:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

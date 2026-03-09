@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:41Z</time>
+    <bounds maxlat="49.807973" maxlon="19.644724" minlat="49.80753" minlon="19.643608"/>
+  </metadata>
+  <wpt lat="49.807973" lon="19.644724">
+    <ele>603</ele>
+    <name>Chelm</name>
+    <link href="https://mapa-turystyczna.pl/node/7827">
+      <text>Chelm</text>
+    </link>
+  </wpt>
+  <wpt lat="49.80753" lon="19.643608">
+    <ele>612</ele>
+    <name>Chelm, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1633">
+      <text>Chelm, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelm - Chelm, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.807973,19.644724;49.80786300001571,19.644047000000008;49.80753,19.643608">
+    <text>Chelm - Chelm, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.807973" lon="19.644724">
+      <ele>603</ele>
+      <time>2022-01-17T23:28:41Z</time>
+    </trkpt>
+    <trkpt lat="49.807959" lon="19.644322">
+      <ele>604</ele>
+      <time>2022-01-17T23:29:15Z</time>
+    </trkpt>
+    <trkpt lat="49.807902" lon="19.644148">
+      <ele>605</ele>
+      <time>2022-01-17T23:29:32Z</time>
+    </trkpt>
+    <trkpt lat="49.807824" lon="19.643946">
+      <ele>607</ele>
+      <time>2022-01-17T23:29:52Z</time>
+    </trkpt>
+    <trkpt lat="49.807726" lon="19.643788">
+      <ele>609</ele>
+      <time>2022-01-17T23:30:11Z</time>
+    </trkpt>
+    <trkpt lat="49.807627" lon="19.643681">
+      <ele>610</ele>
+      <time>2022-01-17T23:30:27Z</time>
+    </trkpt>
+    <trkpt lat="49.80753" lon="19.643608">
+      <ele>612</ele>
+      <time>2022-01-17T23:30:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

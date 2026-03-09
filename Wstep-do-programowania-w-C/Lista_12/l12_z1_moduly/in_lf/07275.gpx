@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:36Z</time>
+    <bounds maxlat="52.3079145" maxlon="20.5337048" minlat="52.2952391" minlon="20.5305505"/>
+  </metadata>
+  <wpt lat="52.307915" lon="20.530551">
+    <ele>85</ele>
+    <name>Pod Wystepna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/4946">
+      <text>Pod Wystepna Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.295239" lon="20.531924">
+    <ele>89</ele>
+    <name>Zamczysko</name>
+    <link href="https://mapa-turystyczna.pl/node/4935">
+      <text>Zamczysko</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Wystepna Gora - Zamczysko</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3079145,20.5305505;52.30428679862668,20.531580449999996;52.2952391,20.5319238">
+    <text>Pod Wystepna Gora - Zamczysko</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3079145" lon="20.5305505">
+      <ele>85</ele>
+      <time>2022-01-17T22:20:36Z</time>
+    </trkpt>
+    <trkpt lat="52.3006588" lon="20.5326104">
+      <ele>84</ele>
+      <time>2022-01-17T22:34:27Z</time>
+    </trkpt>
+    <trkpt lat="52.300206" lon="20.5336833">
+      <ele>88</ele>
+      <time>2022-01-17T22:35:57Z</time>
+    </trkpt>
+    <trkpt lat="52.2995729" lon="20.5337048">
+      <ele>86</ele>
+      <time>2022-01-17T22:37:08Z</time>
+    </trkpt>
+    <trkpt lat="52.2965793" lon="20.5329216">
+      <ele>89</ele>
+      <time>2022-01-17T22:42:50Z</time>
+    </trkpt>
+    <trkpt lat="52.2952391" lon="20.5319238">
+      <ele>89</ele>
+      <time>2022-01-17T22:45:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

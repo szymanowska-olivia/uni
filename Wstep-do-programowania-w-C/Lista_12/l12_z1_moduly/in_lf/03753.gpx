@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:00Z</time>
+    <bounds maxlat="50.2846229" maxlon="17.5387287" minlat="50.2829845" minlon="17.5350434"/>
+  </metadata>
+  <wpt lat="50.284623" lon="17.538729">
+    <ele>352</ele>
+    <name>Debowiec, Debowy Las</name>
+    <link href="https://mapa-turystyczna.pl/node/2619">
+      <text>Debowiec, Debowy Las</text>
+    </link>
+  </wpt>
+  <wpt lat="50.282984" lon="17.535043">
+    <ele>372</ele>
+    <name>Debowiec</name>
+    <link href="https://mapa-turystyczna.pl/node/2620">
+      <text>Debowiec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Debowiec, Debowy Las - Debowiec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2846229,17.5387287;50.28415115001203,17.53641635000001;50.2829845,17.5350434">
+    <text>Debowiec, Debowy Las - Debowiec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2846229" lon="17.5387287">
+      <ele>352</ele>
+      <time>2022-01-17T21:34:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2845956" lon="17.5377052">
+      <ele>354</ele>
+      <time>2022-01-17T21:35:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2845066" lon="17.5373576">
+      <ele>357</ele>
+      <time>2022-01-17T21:35:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2843834" lon="17.5370808">
+      <ele>359</ele>
+      <time>2022-01-17T21:35:49Z</time>
+    </trkpt>
+    <trkpt lat="50.284185" lon="17.5365005">
+      <ele>361</ele>
+      <time>2022-01-17T21:36:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2841173" lon="17.5363322">
+      <ele>361</ele>
+      <time>2022-01-17T21:36:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2836323" lon="17.5358883">
+      <ele>364</ele>
+      <time>2022-01-17T21:37:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2829845" lon="17.5350434">
+      <ele>372</ele>
+      <time>2022-01-17T21:39:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

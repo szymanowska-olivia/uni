@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:48Z</time>
+    <bounds maxlat="49.27841" maxlon="18.994475" minlat="49.278043" minlon="18.993929"/>
+  </metadata>
+  <wpt lat="49.27841" lon="18.994475">
+    <ele>670</ele>
+    <name>Sedlo Lutiska</name>
+    <link href="https://mapa-turystyczna.pl/node/9206">
+      <text>Sedlo Lutiska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.278043" lon="18.99402">
+    <ele>669</ele>
+    <name>Sedlo Lutiska, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9207">
+      <text>Sedlo Lutiska, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Lutiska - Sedlo Lutiska, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.27841,18.994475;49.278305000041534,18.99413200000002;49.278043,18.99402">
+    <text>Sedlo Lutiska - Sedlo Lutiska, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.27841" lon="18.994475">
+      <ele>670</ele>
+      <time>2022-01-18T00:05:48Z</time>
+    </trkpt>
+    <trkpt lat="49.278369" lon="18.994335">
+      <ele>670</ele>
+      <time>2022-01-18T00:05:58Z</time>
+    </trkpt>
+    <trkpt lat="49.278241" lon="18.993929">
+      <ele>669</ele>
+      <time>2022-01-18T00:06:27Z</time>
+    </trkpt>
+    <trkpt lat="49.278043" lon="18.99402">
+      <ele>669</ele>
+      <time>2022-01-18T00:06:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

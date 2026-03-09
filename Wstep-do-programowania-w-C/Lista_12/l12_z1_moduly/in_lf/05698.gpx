@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:59:45Z</time>
+    <bounds maxlat="49.240853" maxlon="19.864495" minlat="49.240524" minlon="19.86439"/>
+  </metadata>
+  <wpt lat="49.240853" lon="19.864495">
+    <ele>1033</ele>
+    <name>Wawoz Krakow, odejscie szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/299">
+      <text>Wawoz Krakow, odejscie szlaku</text>
+    </link>
+  </wpt>
+  <wpt lat="49.240524" lon="19.86439">
+    <ele>1044</ele>
+    <name>Dolina Koscieliska, wyjscie z Mylnej Jaskini</name>
+    <link href="https://mapa-turystyczna.pl/node/3965">
+      <text>Dolina Koscieliska, wyjscie z Mylnej Jaskini</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wawoz Krakow, odejscie szlaku - Dolina Koscieliska, wyjscie z Mylnej Jaskini</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.240853,19.864495;49.240654000049624,19.864434000000013;49.240524,19.86439">
+    <text>Wawoz Krakow, odejscie szlaku - Dolina Koscieliska, wyjscie z Mylnej Jaskini</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.240853" lon="19.864495">
+      <ele>1033</ele>
+      <time>2022-01-17T21:59:45Z</time>
+    </trkpt>
+    <trkpt lat="49.240814" lon="19.864493">
+      <ele>1034</ele>
+      <time>2022-01-17T21:59:52Z</time>
+    </trkpt>
+    <trkpt lat="49.240724" lon="19.864459">
+      <ele>1037</ele>
+      <time>2022-01-17T22:00:08Z</time>
+    </trkpt>
+    <trkpt lat="49.240584" lon="19.864409">
+      <ele>1041</ele>
+      <time>2022-01-17T22:00:34Z</time>
+    </trkpt>
+    <trkpt lat="49.240524" lon="19.86439">
+      <ele>1044</ele>
+      <time>2022-01-17T22:00:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

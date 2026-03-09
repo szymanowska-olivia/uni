@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:20:28Z</time>
+    <bounds maxlat="52.158433" maxlon="21.8186973" minlat="52.1461838" minlon="21.8050443"/>
+  </metadata>
+  <wpt lat="52.158433" lon="21.818697">
+    <ele>184</ele>
+    <name>Rezerwat Rudka Sanatoryjna</name>
+    <link href="https://mapa-turystyczna.pl/node/12119">
+      <text>Rezerwat Rudka Sanatoryjna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.146184" lon="21.805567">
+    <ele>165</ele>
+    <name>Wola Rafalowska</name>
+    <link href="https://mapa-turystyczna.pl/node/12120">
+      <text>Wola Rafalowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Rudka Sanatoryjna - Wola Rafalowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.158433,21.8186973;52.155945411480964,21.805103500000012;52.1461838,21.8055675">
+    <text>Rezerwat Rudka Sanatoryjna - Wola Rafalowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.158433" lon="21.8186973">
+      <ele>184</ele>
+      <time>2022-01-18T01:20:28Z</time>
+    </trkpt>
+    <trkpt lat="52.1580332" lon="21.8148524">
+      <ele>186</ele>
+      <time>2022-01-18T01:24:11Z</time>
+    </trkpt>
+    <trkpt lat="52.1569564" lon="21.8050443">
+      <ele>178</ele>
+      <time>2022-01-18T01:33:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1549344" lon="21.8051627">
+      <ele>176</ele>
+      <time>2022-01-18T01:36:51Z</time>
+    </trkpt>
+    <trkpt lat="52.1514405" lon="21.8052845">
+      <ele>168</ele>
+      <time>2022-01-18T01:42:17Z</time>
+    </trkpt>
+    <trkpt lat="52.1477666" lon="21.8053538">
+      <ele>167</ele>
+      <time>2022-01-18T01:48:00Z</time>
+    </trkpt>
+    <trkpt lat="52.1461838" lon="21.8055675">
+      <ele>165</ele>
+      <time>2022-01-18T01:50:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

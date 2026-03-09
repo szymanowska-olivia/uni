@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:29Z</time>
+    <bounds maxlat="50.3303542" maxlon="18.4322473" minlat="50.3216779" minlon="18.4316254"/>
+  </metadata>
+  <wpt lat="50.321678" lon="18.43202">
+    <ele>233</ele>
+    <name>Lacza</name>
+    <link href="https://mapa-turystyczna.pl/node/9563">
+      <text>Lacza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.330354" lon="18.431625">
+    <ele>227</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/9663">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lacza - Rozejscie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3216779,18.4320198;50.327491977027876,18.43213465;50.3303542,18.4316254">
+    <text>Lacza - Rozejscie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3216779" lon="18.4320198">
+      <ele>233</ele>
+      <time>2022-01-18T00:17:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3218314" lon="18.4319594">
+      <ele>233</ele>
+      <time>2022-01-18T00:17:45Z</time>
+    </trkpt>
+    <trkpt lat="50.3219958" lon="18.4318843">
+      <ele>234</ele>
+      <time>2022-01-18T00:18:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3225808" lon="18.4319898">
+      <ele>231</ele>
+      <time>2022-01-18T00:19:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3230781" lon="18.43182">
+      <ele>228</ele>
+      <time>2022-01-18T00:19:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3258892" lon="18.432022">
+      <ele>230</ele>
+      <time>2022-01-18T00:24:44Z</time>
+    </trkpt>
+    <trkpt lat="50.3290947" lon="18.4322473">
+      <ele>227</ele>
+      <time>2022-01-18T00:30:14Z</time>
+    </trkpt>
+    <trkpt lat="50.3303542" lon="18.4316254">
+      <ele>227</ele>
+      <time>2022-01-18T00:32:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

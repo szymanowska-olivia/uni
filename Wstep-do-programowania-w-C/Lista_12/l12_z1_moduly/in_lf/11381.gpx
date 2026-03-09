@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:41Z</time>
+    <bounds maxlat="49.435452" maxlon="21.178942" minlat="49.434536" minlon="21.178004"/>
+  </metadata>
+  <wpt lat="49.435452" lon="21.178004">
+    <ele>506</ele>
+    <name>Wysowa-Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/552">
+      <text>Wysowa-Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="49.434536" lon="21.178942">
+    <ele>517</ele>
+    <name>Wysowa, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/8008">
+      <text>Wysowa, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wysowa-Zdroj - Wysowa, odejscie szlaku zielonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.435452,21.178004;49.434821500830935,21.17868699999998;49.434536,21.178942">
+    <text>Wysowa-Zdroj - Wysowa, odejscie szlaku zielonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.435452" lon="21.178004">
+      <ele>506</ele>
+      <time>2022-01-17T23:33:41Z</time>
+    </trkpt>
+    <trkpt lat="49.435325" lon="21.178159">
+      <ele>508</ele>
+      <time>2022-01-17T23:34:07Z</time>
+    </trkpt>
+    <trkpt lat="49.435107" lon="21.178432">
+      <ele>511</ele>
+      <time>2022-01-17T23:34:53Z</time>
+    </trkpt>
+    <trkpt lat="49.434536" lon="21.178942">
+      <ele>517</ele>
+      <time>2022-01-17T23:36:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

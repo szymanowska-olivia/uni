@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:58:22Z</time>
+    <bounds maxlat="49.15" maxlon="19.795608" minlat="49.148537" minlon="19.793852"/>
+  </metadata>
+  <wpt lat="49.148537" lon="19.793852">
+    <ele>950</ele>
+    <name>Uzka dolina, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/1620">
+      <text>Uzka dolina, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.15" lon="19.795608">
+    <ele>984</ele>
+    <name>Nizna luka</name>
+    <link href="https://mapa-turystyczna.pl/node/3919">
+      <text>Nizna luka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Uzka dolina, rozejscie szlakow - Nizna luka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.148537,19.793852;49.14936350003108,19.794595499999968;49.15,19.795608">
+    <text>Uzka dolina, rozejscie szlakow - Nizna luka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.148537" lon="19.793852">
+      <ele>950</ele>
+      <time>2022-01-17T21:58:22Z</time>
+    </trkpt>
+    <trkpt lat="49.148926" lon="19.794157">
+      <ele>956</ele>
+      <time>2022-01-17T21:59:31Z</time>
+    </trkpt>
+    <trkpt lat="49.149026" lon="19.794256">
+      <ele>958</ele>
+      <time>2022-01-17T21:59:50Z</time>
+    </trkpt>
+    <trkpt lat="49.149131" lon="19.794373">
+      <ele>961</ele>
+      <time>2022-01-17T22:00:11Z</time>
+    </trkpt>
+    <trkpt lat="49.149308" lon="19.794533">
+      <ele>965</ele>
+      <time>2022-01-17T22:00:44Z</time>
+    </trkpt>
+    <trkpt lat="49.149419" lon="19.794658">
+      <ele>967</ele>
+      <time>2022-01-17T22:01:05Z</time>
+    </trkpt>
+    <trkpt lat="49.149578" lon="19.794836">
+      <ele>970</ele>
+      <time>2022-01-17T22:01:37Z</time>
+    </trkpt>
+    <trkpt lat="49.149697" lon="19.795036">
+      <ele>973</ele>
+      <time>2022-01-17T22:02:05Z</time>
+    </trkpt>
+    <trkpt lat="49.149784" lon="19.795238">
+      <ele>978</ele>
+      <time>2022-01-17T22:02:30Z</time>
+    </trkpt>
+    <trkpt lat="49.149872" lon="19.795392">
+      <ele>981</ele>
+      <time>2022-01-17T22:02:52Z</time>
+    </trkpt>
+    <trkpt lat="49.15" lon="19.795608">
+      <ele>984</ele>
+      <time>2022-01-17T22:03:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

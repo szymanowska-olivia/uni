@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:23:19Z</time>
+    <bounds maxlat="52.489757" maxlon="20.9235642" minlat="52.486702" minlon="20.9234128"/>
+  </metadata>
+  <wpt lat="52.489757" lon="20.923564">
+    <ele>75</ele>
+    <name>Elektrownia Wodna Debe</name>
+    <link href="https://mapa-turystyczna.pl/node/12254">
+      <text>Elektrownia Wodna Debe</text>
+    </link>
+  </wpt>
+  <wpt lat="52.486702" lon="20.923413">
+    <ele>77</ele>
+    <name>Elektrownia wodna Debe</name>
+    <link href="https://mapa-turystyczna.pl/node/11371">
+      <text>Elektrownia wodna Debe</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Elektrownia Wodna Debe - Elektrownia wodna Debe</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.489757,20.9235642;52.48780591385274,20.923451349999993;52.486702,20.9234128">
+    <text>Elektrownia Wodna Debe - Elektrownia wodna Debe</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.489757" lon="20.9235642">
+      <ele>75</ele>
+      <time>2022-01-18T01:23:19Z</time>
+    </trkpt>
+    <trkpt lat="52.4889098" lon="20.9234899">
+      <ele>74</ele>
+      <time>2022-01-18T01:24:42Z</time>
+    </trkpt>
+    <trkpt lat="52.486702" lon="20.9234128">
+      <ele>77</ele>
+      <time>2022-01-18T01:28:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

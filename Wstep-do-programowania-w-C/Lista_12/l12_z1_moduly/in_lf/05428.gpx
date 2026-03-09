@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:55:34Z</time>
+    <bounds maxlat="49.712673" maxlon="20.099098" minlat="49.712167" minlon="20.096387"/>
+  </metadata>
+  <wpt lat="49.712167" lon="20.096387">
+    <ele>961</ele>
+    <name>Lubogoszcz, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/3832">
+      <text>Lubogoszcz, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.712673" lon="20.099098">
+    <ele>968</ele>
+    <name>Lubogoszcz</name>
+    <link href="https://mapa-turystyczna.pl/node/889">
+      <text>Lubogoszcz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubogoszcz, odejscie szlaku zielonego - Lubogoszcz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.712167,20.096387;49.71252700000545,20.097849500000027;49.712673,20.099098">
+    <text>Lubogoszcz, odejscie szlaku zielonego - Lubogoszcz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.712167" lon="20.096387">
+      <ele>961</ele>
+      <time>2022-01-17T21:55:34Z</time>
+    </trkpt>
+    <trkpt lat="49.712269" lon="20.096717">
+      <ele>961</ele>
+      <time>2022-01-17T21:56:13Z</time>
+    </trkpt>
+    <trkpt lat="49.712371" lon="20.097001">
+      <ele>962</ele>
+      <time>2022-01-17T21:56:47Z</time>
+    </trkpt>
+    <trkpt lat="49.712449" lon="20.097406">
+      <ele>963</ele>
+      <time>2022-01-17T21:57:31Z</time>
+    </trkpt>
+    <trkpt lat="49.712504" lon="20.097639">
+      <ele>963</ele>
+      <time>2022-01-17T21:57:57Z</time>
+    </trkpt>
+    <trkpt lat="49.71255" lon="20.09806">
+      <ele>963</ele>
+      <time>2022-01-17T21:58:42Z</time>
+    </trkpt>
+    <trkpt lat="49.712593" lon="20.098366">
+      <ele>965</ele>
+      <time>2022-01-17T21:59:15Z</time>
+    </trkpt>
+    <trkpt lat="49.712616" lon="20.098664">
+      <ele>967</ele>
+      <time>2022-01-17T21:59:47Z</time>
+    </trkpt>
+    <trkpt lat="49.712649" lon="20.098833">
+      <ele>968</ele>
+      <time>2022-01-17T22:00:06Z</time>
+    </trkpt>
+    <trkpt lat="49.712673" lon="20.099098">
+      <ele>968</ele>
+      <time>2022-01-17T22:00:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

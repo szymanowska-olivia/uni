@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:17Z</time>
+    <bounds maxlat="50.0616763" maxlon="16.8474401" minlat="50.0596581" minlon="16.8432441"/>
+  </metadata>
+  <wpt lat="50.059658" lon="16.843244">
+    <ele>887</ele>
+    <name>Nad pramenem Rudolf</name>
+    <link href="https://mapa-turystyczna.pl/node/7770">
+      <text>Nad pramenem Rudolf</text>
+    </link>
+  </wpt>
+  <wpt lat="50.061675" lon="16.84744">
+    <ele>865</ele>
+    <name>U Severomoravske chaty</name>
+    <link href="https://mapa-turystyczna.pl/node/7772">
+      <text>U Severomoravske chaty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad pramenem Rudolf - U Severomoravske chaty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0596581,16.8432441;50.06056965008909,16.845859049999977;50.0616745,16.8474401">
+    <text>Nad pramenem Rudolf - U Severomoravske chaty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0596581" lon="16.8432441">
+      <ele>887</ele>
+      <time>2022-01-17T23:27:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0597885" lon="16.8434063">
+      <ele>888</ele>
+      <time>2022-01-17T23:27:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0603383" lon="16.8452005">
+      <ele>884</ele>
+      <time>2022-01-17T23:29:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0604772" lon="16.845477">
+      <ele>882</ele>
+      <time>2022-01-17T23:29:39Z</time>
+    </trkpt>
+    <trkpt lat="50.0606621" lon="16.8462411">
+      <ele>878</ele>
+      <time>2022-01-17T23:30:24Z</time>
+    </trkpt>
+    <trkpt lat="50.06122" lon="16.8468956">
+      <ele>873</ele>
+      <time>2022-01-17T23:31:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0616763" lon="16.8472687">
+      <ele>867</ele>
+      <time>2022-01-17T23:32:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0616745" lon="16.8474401">
+      <ele>865</ele>
+      <time>2022-01-17T23:32:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

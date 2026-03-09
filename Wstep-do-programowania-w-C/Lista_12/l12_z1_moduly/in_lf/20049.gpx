@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:59:34Z</time>
+    <bounds maxlat="49.575779" maxlon="19.344236" minlat="49.575548" minlon="19.344197"/>
+  </metadata>
+  <wpt lat="49.575548" lon="19.344197">
+    <ele>601</ele>
+    <name>Korbielow, zajazd</name>
+    <link href="https://mapa-turystyczna.pl/node/13511">
+      <text>Korbielow, zajazd</text>
+    </link>
+  </wpt>
+  <wpt lat="49.575779" lon="19.344236">
+    <ele>601</ele>
+    <name>Korbielow</name>
+    <link href="https://mapa-turystyczna.pl/node/585">
+      <text>Korbielow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Korbielow, zajazd - Korbielow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.575548,19.344197;49.57566350013667,19.344216500000034;49.575779,19.344236">
+    <text>Korbielow, zajazd - Korbielow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.575548" lon="19.344197">
+      <ele>601</ele>
+      <time>2022-01-18T01:59:34Z</time>
+    </trkpt>
+    <trkpt lat="49.575779" lon="19.344236">
+      <ele>601</ele>
+      <time>2022-01-18T02:00:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

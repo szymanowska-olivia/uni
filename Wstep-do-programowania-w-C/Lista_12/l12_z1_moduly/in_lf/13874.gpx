@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:44Z</time>
+    <bounds maxlat="50.496293" maxlon="18.9007194" minlat="50.4949686" minlon="18.9003218"/>
+  </metadata>
+  <wpt lat="50.494969" lon="18.900322">
+    <ele>293</ele>
+    <name>Miasteczko Slaskie, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9384">
+      <text>Miasteczko Slaskie, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.496293" lon="18.900719">
+    <ele>288</ele>
+    <name>Miasteczko Slaskie, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9511">
+      <text>Miasteczko Slaskie, ul. Dworcowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miasteczko Slaskie, stacja kolejowa - Miasteczko Slaskie, ul. Dworcowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4949686,18.9003218;50.49545795253462,18.900370999999996;50.496293,18.9007194">
+    <text>Miasteczko Slaskie, stacja kolejowa - Miasteczko Slaskie, ul. Dworcowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4949686" lon="18.9003218">
+      <ele>293</ele>
+      <time>2022-01-18T00:13:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4959473" lon="18.9004202">
+      <ele>289</ele>
+      <time>2022-01-18T00:15:09Z</time>
+    </trkpt>
+    <trkpt lat="50.4961759" lon="18.9005758">
+      <ele>288</ele>
+      <time>2022-01-18T00:15:31Z</time>
+    </trkpt>
+    <trkpt lat="50.496293" lon="18.9007194">
+      <ele>288</ele>
+      <time>2022-01-18T00:15:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

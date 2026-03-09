@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:23Z</time>
+    <bounds maxlat="49.9673532" maxlon="17.1195013" minlat="49.9663525" minlon="17.1133191"/>
+  </metadata>
+  <wpt lat="49.966623" lon="17.113319">
+    <ele>773</ele>
+    <name>Pod Kamencem</name>
+    <link href="https://mapa-turystyczna.pl/node/7897">
+      <text>Pod Kamencem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.967167" lon="17.119501">
+    <ele>795</ele>
+    <name>Hvezda</name>
+    <link href="https://mapa-turystyczna.pl/node/7896">
+      <text>Hvezda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kamencem - Hvezda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9666234,17.1133191;49.966611350347314,17.11608709999999;49.9671667,17.1195013">
+    <text>Pod Kamencem - Hvezda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9666234" lon="17.1133191">
+      <ele>773</ele>
+      <time>2022-01-17T23:30:23Z</time>
+    </trkpt>
+    <trkpt lat="49.966564" lon="17.1135397">
+      <ele>775</ele>
+      <time>2022-01-17T23:30:45Z</time>
+    </trkpt>
+    <trkpt lat="49.9665433" lon="17.1138186">
+      <ele>777</ele>
+      <time>2022-01-17T23:31:10Z</time>
+    </trkpt>
+    <trkpt lat="49.9664492" lon="17.1141396">
+      <ele>781</ele>
+      <time>2022-01-17T23:31:42Z</time>
+    </trkpt>
+    <trkpt lat="49.9663525" lon="17.1152661">
+      <ele>788</ele>
+      <time>2022-01-17T23:33:24Z</time>
+    </trkpt>
+    <trkpt lat="49.9664285" lon="17.1156738">
+      <ele>792</ele>
+      <time>2022-01-17T23:34:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9667942" lon="17.1165004">
+      <ele>798</ele>
+      <time>2022-01-17T23:35:32Z</time>
+    </trkpt>
+    <trkpt lat="49.967229" lon="17.1178844">
+      <ele>801</ele>
+      <time>2022-01-17T23:37:50Z</time>
+    </trkpt>
+    <trkpt lat="49.9673532" lon="17.1183136">
+      <ele>800</ele>
+      <time>2022-01-17T23:38:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9673532" lon="17.1187535">
+      <ele>798</ele>
+      <time>2022-01-17T23:39:11Z</time>
+    </trkpt>
+    <trkpt lat="49.9671667" lon="17.1195013">
+      <ele>795</ele>
+      <time>2022-01-17T23:40:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:14Z</time>
+    <bounds maxlat="49.42705" maxlon="20.481066" minlat="49.425784" minlon="20.475798"/>
+  </metadata>
+  <wpt lat="49.427009" lon="20.475798">
+    <ele>461</ele>
+    <name>Szczawnica, PKS</name>
+    <link href="https://mapa-turystyczna.pl/node/3818">
+      <text>Szczawnica, PKS</text>
+    </link>
+  </wpt>
+  <wpt lat="49.425784" lon="20.481066">
+    <ele>464</ele>
+    <name>Szczawnica, ul. Glowna</name>
+    <link href="https://mapa-turystyczna.pl/node/3987">
+      <text>Szczawnica, ul. Glowna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczawnica, PKS - Szczawnica, ul. Glowna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.427009,20.475798;49.426649500178925,20.478360999999996;49.425784,20.481066">
+    <text>Szczawnica, PKS - Szczawnica, ul. Glowna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.427009" lon="20.475798">
+      <ele>461</ele>
+      <time>2022-01-17T22:00:14Z</time>
+    </trkpt>
+    <trkpt lat="49.42705" lon="20.47641">
+      <ele>461</ele>
+      <time>2022-01-17T22:00:46Z</time>
+    </trkpt>
+    <trkpt lat="49.427038" lon="20.476829">
+      <ele>462</ele>
+      <time>2022-01-17T22:01:08Z</time>
+    </trkpt>
+    <trkpt lat="49.427003" lon="20.477076">
+      <ele>462</ele>
+      <time>2022-01-17T22:01:22Z</time>
+    </trkpt>
+    <trkpt lat="49.426964" lon="20.477266">
+      <ele>462</ele>
+      <time>2022-01-17T22:01:32Z</time>
+    </trkpt>
+    <trkpt lat="49.426782" lon="20.477889">
+      <ele>462</ele>
+      <time>2022-01-17T22:02:08Z</time>
+    </trkpt>
+    <trkpt lat="49.426517" lon="20.478833">
+      <ele>461</ele>
+      <time>2022-01-17T22:03:02Z</time>
+    </trkpt>
+    <trkpt lat="49.426383" lon="20.479325">
+      <ele>462</ele>
+      <time>2022-01-17T22:03:30Z</time>
+    </trkpt>
+    <trkpt lat="49.426238" lon="20.479813">
+      <ele>459</ele>
+      <time>2022-01-17T22:03:58Z</time>
+    </trkpt>
+    <trkpt lat="49.426167" lon="20.480043">
+      <ele>459</ele>
+      <time>2022-01-17T22:04:12Z</time>
+    </trkpt>
+    <trkpt lat="49.426055" lon="20.480384">
+      <ele>462</ele>
+      <time>2022-01-17T22:04:32Z</time>
+    </trkpt>
+    <trkpt lat="49.425907" lon="20.480758">
+      <ele>464</ele>
+      <time>2022-01-17T22:04:55Z</time>
+    </trkpt>
+    <trkpt lat="49.425784" lon="20.481066">
+      <ele>464</ele>
+      <time>2022-01-17T22:05:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

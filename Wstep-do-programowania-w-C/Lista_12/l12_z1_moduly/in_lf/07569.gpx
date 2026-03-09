@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:36Z</time>
+    <bounds maxlat="50.0486725" maxlon="19.8418853" minlat="50.0480111" minlon="19.8408043"/>
+  </metadata>
+  <wpt lat="50.048011" lon="19.840804">
+    <ele>297</ele>
+    <name>Las Wolski, Polana Bielanska</name>
+    <link href="https://mapa-turystyczna.pl/node/5129">
+      <text>Las Wolski, Polana Bielanska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.048673" lon="19.841727">
+    <ele>293</ele>
+    <name>Las Wolski, Lupany Dol</name>
+    <link href="https://mapa-turystyczna.pl/node/5166">
+      <text>Las Wolski, Lupany Dol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Las Wolski, Polana Bielanska - Las Wolski, Lupany Dol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0480111,19.8408043;50.04811790011883,19.84127370000003;50.0486725,19.841727">
+    <text>Las Wolski, Polana Bielanska - Las Wolski, Lupany Dol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0480111" lon="19.8408043">
+      <ele>297</ele>
+      <time>2022-01-17T22:25:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0482247" lon="19.8417431">
+      <ele>295</ele>
+      <time>2022-01-17T22:26:43Z</time>
+    </trkpt>
+    <trkpt lat="50.0482901" lon="19.8418611">
+      <ele>294</ele>
+      <time>2022-01-17T22:26:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0483581" lon="19.8418839">
+      <ele>294</ele>
+      <time>2022-01-17T22:27:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0484813" lon="19.8418853">
+      <ele>294</ele>
+      <time>2022-01-17T22:27:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0486725" lon="19.841727">
+      <ele>293</ele>
+      <time>2022-01-17T22:27:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

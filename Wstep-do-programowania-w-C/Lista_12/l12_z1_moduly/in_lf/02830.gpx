@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:21:42Z</time>
+    <bounds maxlat="50.3023341" maxlon="16.4000773" minlat="50.3013267" minlon="16.3977921"/>
+  </metadata>
+  <wpt lat="50.301327" lon="16.397792">
+    <ele>1115</ele>
+    <name>Velka Destna</name>
+    <link href="https://mapa-turystyczna.pl/node/2014">
+      <text>Velka Destna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.302334" lon="16.400077">
+    <ele>1103</ele>
+    <name>Pod Velkou Destnou</name>
+    <link href="https://mapa-turystyczna.pl/node/1916">
+      <text>Pod Velkou Destnou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Velka Destna - Pod Velkou Destnou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3013267,16.3977921;50.30181500250643,16.398245399999993;50.3023341,16.4000773">
+    <text>Velka Destna - Pod Velkou Destnou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3013267" lon="16.3977921">
+      <ele>1115</ele>
+      <time>2022-01-17T21:21:42Z</time>
+    </trkpt>
+    <trkpt lat="50.3023033" lon="16.3986987">
+      <ele>1110</ele>
+      <time>2022-01-17T21:23:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3023341" lon="16.4000773">
+      <ele>1103</ele>
+      <time>2022-01-17T21:24:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

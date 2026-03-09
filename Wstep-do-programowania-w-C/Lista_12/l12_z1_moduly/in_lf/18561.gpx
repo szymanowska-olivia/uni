@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:03Z</time>
+    <bounds maxlat="54.0775637" maxlon="14.9926659" minlat="54.0761977" minlon="14.9924889"/>
+  </metadata>
+  <wpt lat="54.076198" lon="14.992666">
+    <ele>11</ele>
+    <name>Trzesacz</name>
+    <link href="https://mapa-turystyczna.pl/node/12562">
+      <text>Trzesacz</text>
+    </link>
+  </wpt>
+  <wpt lat="54.077564" lon="14.992489">
+    <ele>10</ele>
+    <name>Trzesacz, ruiny</name>
+    <link href="https://mapa-turystyczna.pl/node/12563">
+      <text>Trzesacz, ruiny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzesacz - Trzesacz, ruiny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0761977,14.9926659;54.076880705618926,14.992577400000027;54.0775637,14.9924889">
+    <text>Trzesacz - Trzesacz, ruiny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0761977" lon="14.9926659">
+      <ele>11</ele>
+      <time>2022-01-18T01:33:03Z</time>
+    </trkpt>
+    <trkpt lat="54.0775637" lon="14.9924889">
+      <ele>10</ele>
+      <time>2022-01-18T01:35:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

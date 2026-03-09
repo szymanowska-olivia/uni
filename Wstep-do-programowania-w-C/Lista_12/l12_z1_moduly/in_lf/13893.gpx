@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:04Z</time>
+    <bounds maxlat="50.3454932" maxlon="19.0261741" minlat="50.3440896" minlon="19.0014975"/>
+  </metadata>
+  <wpt lat="50.344722" lon="19.001497">
+    <ele>277</ele>
+    <name>Dabrowka Wielka</name>
+    <link href="https://mapa-turystyczna.pl/node/9340">
+      <text>Dabrowka Wielka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.344879" lon="19.026174">
+    <ele>275</ele>
+    <name>Rozalka</name>
+    <link href="https://mapa-turystyczna.pl/node/9521">
+      <text>Rozalka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dabrowka Wielka - Rozalka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3447222,19.0014975;50.344791405185305,19.01454399999999;50.3448788,19.0261741">
+    <text>Dabrowka Wielka - Rozalka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3447222" lon="19.0014975">
+      <ele>277</ele>
+      <time>2022-01-18T00:14:04Z</time>
+    </trkpt>
+    <trkpt lat="50.3446887" lon="19.0020315">
+      <ele>277</ele>
+      <time>2022-01-18T00:14:40Z</time>
+    </trkpt>
+    <trkpt lat="50.3445483" lon="19.00488">
+      <ele>273</ele>
+      <time>2022-01-18T00:17:53Z</time>
+    </trkpt>
+    <trkpt lat="50.3444764" lon="19.0067415">
+      <ele>274</ele>
+      <time>2022-01-18T00:19:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3443977" lon="19.007986">
+      <ele>272</ele>
+      <time>2022-01-18T00:21:23Z</time>
+    </trkpt>
+    <trkpt lat="50.3443155" lon="19.0099655">
+      <ele>273</ele>
+      <time>2022-01-18T00:23:37Z</time>
+    </trkpt>
+    <trkpt lat="50.3440896" lon="19.0142034">
+      <ele>272</ele>
+      <time>2022-01-18T00:28:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3454932" lon="19.0148846">
+      <ele>273</ele>
+      <time>2022-01-18T00:30:59Z</time>
+    </trkpt>
+    <trkpt lat="50.3453494" lon="19.0158985">
+      <ele>274</ele>
+      <time>2022-01-18T00:32:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3450413" lon="19.0177117">
+      <ele>272</ele>
+      <time>2022-01-18T00:34:15Z</time>
+    </trkpt>
+    <trkpt lat="50.3445415" lon="19.0189777">
+      <ele>273</ele>
+      <time>2022-01-18T00:35:56Z</time>
+    </trkpt>
+    <trkpt lat="50.3444799" lon="19.0192727">
+      <ele>272</ele>
+      <time>2022-01-18T00:36:17Z</time>
+    </trkpt>
+    <trkpt lat="50.3448788" lon="19.0261741">
+      <ele>275</ele>
+      <time>2022-01-18T00:44:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

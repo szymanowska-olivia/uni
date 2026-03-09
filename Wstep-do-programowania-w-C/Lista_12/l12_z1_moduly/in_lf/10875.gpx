@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:17Z</time>
+    <bounds maxlat="50.0094249" maxlon="16.7104197" minlat="50.0073598" minlon="16.7081773"/>
+  </metadata>
+  <wpt lat="50.00736" lon="16.708177">
+    <ele>926</ele>
+    <name>Pod Bukovou horou</name>
+    <link href="https://mapa-turystyczna.pl/node/7654">
+      <text>Pod Bukovou horou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.009425" lon="16.71042">
+    <ele>960</ele>
+    <name>Bukova hora</name>
+    <link href="https://mapa-turystyczna.pl/node/7655">
+      <text>Bukova hora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bukovou horou - Bukova hora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0073598,16.7081773;50.008354401324375,16.709175149999975;50.0094249,16.7104197">
+    <text>Pod Bukovou horou - Bukova hora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0073598" lon="16.7081773">
+      <ele>926</ele>
+      <time>2022-01-17T23:24:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0078597" lon="16.7083329">
+      <ele>941</ele>
+      <time>2022-01-17T23:26:18Z</time>
+    </trkpt>
+    <trkpt lat="50.0079976" lon="16.7086387">
+      <ele>945</ele>
+      <time>2022-01-17T23:27:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0087112" lon="16.7097116">
+      <ele>952</ele>
+      <time>2022-01-17T23:31:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0090422" lon="16.7101139">
+      <ele>957</ele>
+      <time>2022-01-17T23:32:37Z</time>
+    </trkpt>
+    <trkpt lat="50.009218" lon="16.7103231">
+      <ele>958</ele>
+      <time>2022-01-17T23:33:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0094249" lon="16.7104197">
+      <ele>960</ele>
+      <time>2022-01-17T23:34:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

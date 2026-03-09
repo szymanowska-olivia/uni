@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:56:06Z</time>
+    <bounds maxlat="50.8508476" maxlon="15.2327071" minlat="50.8500652" minlon="15.231999"/>
+  </metadata>
+  <wpt lat="50.850848" lon="15.232707">
+    <ele>986</ele>
+    <name>Smedavska hora, silnice</name>
+    <link href="https://mapa-turystyczna.pl/node/8785">
+      <text>Smedavska hora, silnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.850065" lon="15.231999">
+    <ele>987</ele>
+    <name>Pramen Bileho potoka</name>
+    <link href="https://mapa-turystyczna.pl/node/8786">
+      <text>Pramen Bileho potoka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Smedavska hora, silnice - Pramen Bileho potoka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8508476,15.2327071;50.8505679008386,15.232504899999997;50.8500652,15.231999">
+    <text>Smedavska hora, silnice - Pramen Bileho potoka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8508476" lon="15.2327071">
+      <ele>986</ele>
+      <time>2022-01-17T23:56:06Z</time>
+    </trkpt>
+    <trkpt lat="50.8502882" lon="15.2323027">
+      <ele>986</ele>
+      <time>2022-01-17T23:57:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8501324" lon="15.2321525">
+      <ele>987</ele>
+      <time>2022-01-17T23:57:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8500652" lon="15.231999">
+      <ele>987</ele>
+      <time>2022-01-17T23:58:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

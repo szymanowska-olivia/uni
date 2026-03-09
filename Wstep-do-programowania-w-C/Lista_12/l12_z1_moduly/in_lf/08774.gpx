@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:55Z</time>
+    <bounds maxlat="50.2312553" maxlon="17.0893836" minlat="50.2305233" minlon="17.0891261"/>
+  </metadata>
+  <wpt lat="50.231255" lon="17.089149">
+    <ele>683</ele>
+    <name>Pod Koprivnym, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6101">
+      <text>Pod Koprivnym, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.230523" lon="17.089126">
+    <ele>663</ele>
+    <name>Pod Koprivnym</name>
+    <link href="https://mapa-turystyczna.pl/node/2143">
+      <text>Pod Koprivnym</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Koprivnym, rozc. - Pod Koprivnym</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2312553,17.0891494;50.230895200248696,17.089329950000003;50.2305233,17.0891261">
+    <text>Pod Koprivnym, rozc. - Pod Koprivnym</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2312553" lon="17.0891494">
+      <ele>683</ele>
+      <time>2022-01-17T22:44:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2310492" lon="17.0892763">
+      <ele>680</ele>
+      <time>2022-01-17T22:45:11Z</time>
+    </trkpt>
+    <trkpt lat="50.2307412" lon="17.0893836">
+      <ele>675</ele>
+      <time>2022-01-17T22:45:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2305233" lon="17.0891261">
+      <ele>663</ele>
+      <time>2022-01-17T22:45:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

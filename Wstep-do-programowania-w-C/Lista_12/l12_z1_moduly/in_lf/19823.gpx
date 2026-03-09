@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:55:29Z</time>
+    <bounds maxlat="50.3332195" maxlon="19.6266505" minlat="50.3311219" minlon="19.6243071"/>
+  </metadata>
+  <wpt lat="50.331122" lon="19.624307">
+    <ele>403</ele>
+    <name>Rezerwat Pazurek, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13377">
+      <text>Rezerwat Pazurek, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.333219" lon="19.626651">
+    <ele>412</ele>
+    <name>Odejscie na Zubowe Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/13380">
+      <text>Odejscie na Zubowe Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rezerwat Pazurek, rozejscie szlakow - Odejscie na Zubowe Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3311219,19.6243071;50.332556050521205,19.62512654999999;50.3332195,19.6266505">
+    <text>Rezerwat Pazurek, rozejscie szlakow - Odejscie na Zubowe Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3311219" lon="19.6243071">
+      <ele>403</ele>
+      <time>2022-01-18T01:55:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3312754" lon="19.6244734">
+      <ele>403</ele>
+      <time>2022-01-18T01:55:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3315339" lon="19.6245284">
+      <ele>404</ele>
+      <time>2022-01-18T01:56:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3323335" lon="19.6249053">
+      <ele>410</ele>
+      <time>2022-01-18T01:57:49Z</time>
+    </trkpt>
+    <trkpt lat="50.3327786" lon="19.6253478">
+      <ele>412</ele>
+      <time>2022-01-18T01:58:46Z</time>
+    </trkpt>
+    <trkpt lat="50.3329601" lon="19.6257797">
+      <ele>412</ele>
+      <time>2022-01-18T01:59:22Z</time>
+    </trkpt>
+    <trkpt lat="50.3331622" lon="19.6265227">
+      <ele>412</ele>
+      <time>2022-01-18T02:00:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3332195" lon="19.6266505">
+      <ele>412</ele>
+      <time>2022-01-18T02:00:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

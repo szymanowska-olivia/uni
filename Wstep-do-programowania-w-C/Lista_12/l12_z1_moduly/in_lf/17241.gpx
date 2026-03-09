@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:11Z</time>
+    <bounds maxlat="49.7768762" maxlon="20.9648529" minlat="49.7755675" minlon="20.9636913"/>
+  </metadata>
+  <wpt lat="49.776876" lon="20.963691">
+    <ele>261</ele>
+    <name>Skamieniale Miasto, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/8368">
+      <text>Skamieniale Miasto, parking</text>
+    </link>
+  </wpt>
+  <wpt lat="49.775568" lon="20.964853">
+    <ele>267</ele>
+    <name>Kladka przy Ratuszu</name>
+    <link href="https://mapa-turystyczna.pl/node/11738">
+      <text>Kladka przy Ratuszu</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skamieniale Miasto, parking - Kladka przy Ratuszu</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7768762,20.9636913;49.77646435175016,20.96397975000001;49.7755675,20.9648529">
+    <text>Skamieniale Miasto, parking - Kladka przy Ratuszu</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7768762" lon="20.9636913">
+      <ele>261</ele>
+      <time>2022-01-18T01:10:11Z</time>
+    </trkpt>
+    <trkpt lat="49.7760525" lon="20.9642682">
+      <ele>263</ele>
+      <time>2022-01-18T01:13:02Z</time>
+    </trkpt>
+    <trkpt lat="49.776049" lon="20.9644345">
+      <ele>269</ele>
+      <time>2022-01-18T01:13:25Z</time>
+    </trkpt>
+    <trkpt lat="49.7759382" lon="20.9645847">
+      <ele>271</ele>
+      <time>2022-01-18T01:13:53Z</time>
+    </trkpt>
+    <trkpt lat="49.7757927" lon="20.9646813">
+      <ele>271</ele>
+      <time>2022-01-18T01:14:23Z</time>
+    </trkpt>
+    <trkpt lat="49.7755675" lon="20.9648529">
+      <ele>267</ele>
+      <time>2022-01-18T01:15:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

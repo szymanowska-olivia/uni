@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:38:18Z</time>
+    <bounds maxlat="49.8451871" maxlon="19.7154855" minlat="49.8450468" minlon="19.7150677"/>
+  </metadata>
+  <wpt lat="49.845047" lon="19.715068">
+    <ele>469</ele>
+    <name>Lanckorona</name>
+    <link href="https://mapa-turystyczna.pl/node/1684">
+      <text>Lanckorona</text>
+    </link>
+  </wpt>
+  <wpt lat="49.845187" lon="19.715485">
+    <ele>470</ele>
+    <name>Lanckorona, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/8156">
+      <text>Lanckorona, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lanckorona - Lanckorona, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8450468,19.7150677;49.8451169500509,19.715276600000003;49.8451871,19.7154855">
+    <text>Lanckorona - Lanckorona, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8450468" lon="19.7150677">
+      <ele>469</ele>
+      <time>2022-01-17T23:38:18Z</time>
+    </trkpt>
+    <trkpt lat="49.8451871" lon="19.7154855">
+      <ele>470</ele>
+      <time>2022-01-17T23:39:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

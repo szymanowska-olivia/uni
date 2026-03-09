@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:42Z</time>
+    <bounds maxlat="50.7287175" maxlon="16.30436" minlat="50.7276135" minlon="16.3039161"/>
+  </metadata>
+  <wpt lat="50.727613" lon="16.30436">
+    <ele>653</ele>
+    <name>Przelecz Kozia</name>
+    <link href="https://mapa-turystyczna.pl/node/2535">
+      <text>Przelecz Kozia</text>
+    </link>
+  </wpt>
+  <wpt lat="50.728718" lon="16.304026">
+    <ele>666</ele>
+    <name>Przelecz Kozia, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7867">
+      <text>Przelecz Kozia, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Kozia - Przelecz Kozia, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7276135,16.30436;50.72800570164166,16.30418699999998;50.7287175,16.3040261">
+    <text>Przelecz Kozia - Przelecz Kozia, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7276135" lon="16.30436">
+      <ele>653</ele>
+      <time>2022-01-17T23:29:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7283979" lon="16.304014">
+      <ele>659</ele>
+      <time>2022-01-17T23:31:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7286475" lon="16.3039161">
+      <ele>664</ele>
+      <time>2022-01-17T23:32:27Z</time>
+    </trkpt>
+    <trkpt lat="50.7287175" lon="16.3040261">
+      <ele>666</ele>
+      <time>2022-01-17T23:32:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

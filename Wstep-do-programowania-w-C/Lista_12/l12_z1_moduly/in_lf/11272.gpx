@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:31:37Z</time>
+    <bounds maxlat="49.9820562" maxlon="16.8865435" minlat="49.9815871" minlon="16.886168"/>
+  </metadata>
+  <wpt lat="49.982056" lon="16.886168">
+    <ele>334</ele>
+    <name>Ruda nad Moravou, Myto</name>
+    <link href="https://mapa-turystyczna.pl/node/7942">
+      <text>Ruda nad Moravou, Myto</text>
+    </link>
+  </wpt>
+  <wpt lat="49.981587" lon="16.886543">
+    <ele>330</ele>
+    <name>Ruda nad Moravou, Myto, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7943">
+      <text>Ruda nad Moravou, Myto, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ruda nad Moravou, Myto - Ruda nad Moravou, Myto, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9820562,16.886168;49.98172345019323,16.886429949999993;49.9815871,16.8865435">
+    <text>Ruda nad Moravou, Myto - Ruda nad Moravou, Myto, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9820562" lon="16.886168">
+      <ele>334</ele>
+      <time>2022-01-17T23:31:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9818598" lon="16.8863164">
+      <ele>330</ele>
+      <time>2022-01-17T23:32:02Z</time>
+    </trkpt>
+    <trkpt lat="49.9815871" lon="16.8865435">
+      <ele>330</ele>
+      <time>2022-01-17T23:32:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

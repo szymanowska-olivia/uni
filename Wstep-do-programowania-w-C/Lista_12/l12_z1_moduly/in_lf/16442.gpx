@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:51Z</time>
+    <bounds maxlat="49.2629672" maxlon="22.3690504" minlat="49.2628341" minlon="22.3685783"/>
+  </metadata>
+  <wpt lat="49.262834" lon="22.36905">
+    <ele>548</ele>
+    <name>Cerkiew w Lopience</name>
+    <link href="https://mapa-turystyczna.pl/node/11227">
+      <text>Cerkiew w Lopience</text>
+    </link>
+  </wpt>
+  <wpt lat="49.262967" lon="22.368578">
+    <ele>549</ele>
+    <name>Rozejscie szlakow niebieski / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/11228">
+      <text>Rozejscie szlakow niebieski / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cerkiew w Lopience - Rozejscie szlakow niebieski / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2628341,22.3690504;49.26292335001505,22.368840299999995;49.2629672,22.3685783">
+    <text>Cerkiew w Lopience - Rozejscie szlakow niebieski / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2628341" lon="22.3690504">
+      <ele>548</ele>
+      <time>2022-01-18T00:56:51Z</time>
+    </trkpt>
+    <trkpt lat="49.2628848" lon="22.3689798">
+      <ele>548</ele>
+      <time>2022-01-18T00:57:03Z</time>
+    </trkpt>
+    <trkpt lat="49.2629619" lon="22.3687008">
+      <ele>549</ele>
+      <time>2022-01-18T00:57:37Z</time>
+    </trkpt>
+    <trkpt lat="49.2629672" lon="22.3685783">
+      <ele>549</ele>
+      <time>2022-01-18T00:57:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

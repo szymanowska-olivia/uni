@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:25Z</time>
+    <bounds maxlat="53.9220931" maxlon="14.7593691" minlat="53.9175564" minlon="14.7379179"/>
+  </metadata>
+  <wpt lat="53.922093" lon="14.759369">
+    <ele>4</ele>
+    <name>Skarchowo</name>
+    <link href="https://mapa-turystyczna.pl/node/8612">
+      <text>Skarchowo</text>
+    </link>
+  </wpt>
+  <wpt lat="53.919815" lon="14.737918">
+    <ele>2</ele>
+    <name>Dusin</name>
+    <link href="https://mapa-turystyczna.pl/node/8557">
+      <text>Dusin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skarchowo - Dusin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9220931,14.7593691;53.91807840276137,14.75068705;53.919815,14.7379179">
+    <text>Skarchowo - Dusin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9220931" lon="14.7593691">
+      <ele>4</ele>
+      <time>2022-01-17T23:51:25Z</time>
+    </trkpt>
+    <trkpt lat="53.9183146" lon="14.7593043">
+      <ele>2</ele>
+      <time>2022-01-17T23:58:01Z</time>
+    </trkpt>
+    <trkpt lat="53.9181504" lon="14.759154">
+      <ele>3</ele>
+      <time>2022-01-17T23:58:21Z</time>
+    </trkpt>
+    <trkpt lat="53.9180113" lon="14.7588536">
+      <ele>4</ele>
+      <time>2022-01-17T23:58:44Z</time>
+    </trkpt>
+    <trkpt lat="53.9179229" lon="14.7583601">
+      <ele>6</ele>
+      <time>2022-01-17T23:59:16Z</time>
+    </trkpt>
+    <trkpt lat="53.9179734" lon="14.7568795">
+      <ele>4</ele>
+      <time>2022-01-18T00:00:48Z</time>
+    </trkpt>
+    <trkpt lat="53.9175564" lon="14.7537896">
+      <ele>-2</ele>
+      <time>2022-01-18T00:04:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9175666" lon="14.7533478">
+      <ele>-1</ele>
+      <time>2022-01-18T00:04:31Z</time>
+    </trkpt>
+    <trkpt lat="53.9175982" lon="14.7528221">
+      <ele>-1</ele>
+      <time>2022-01-18T00:05:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9185586" lon="14.748552">
+      <ele>-2</ele>
+      <time>2022-01-18T00:09:45Z</time>
+    </trkpt>
+    <trkpt lat="53.9187375" lon="14.7481121">
+      <ele>-2</ele>
+      <time>2022-01-18T00:10:18Z</time>
+    </trkpt>
+    <trkpt lat="53.9203108" lon="14.7411384">
+      <ele>1</ele>
+      <time>2022-01-18T00:17:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9202539" lon="14.7404839">
+      <ele>2</ele>
+      <time>2022-01-18T00:18:40Z</time>
+    </trkpt>
+    <trkpt lat="53.919815" lon="14.7379179">
+      <ele>2</ele>
+      <time>2022-01-18T00:21:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:54:49Z</time>
+    <bounds maxlat="50.8721337" maxlon="15.0896435" minlat="50.8717207" minlon="15.0893431"/>
+  </metadata>
+  <wpt lat="50.871721" lon="15.089643">
+    <ele>633</ele>
+    <name>Skalni hrad, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8728">
+      <text>Skalni hrad, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.872134" lon="15.089343">
+    <ele>623</ele>
+    <name>Skalni hrad</name>
+    <link href="https://mapa-turystyczna.pl/node/8729">
+      <text>Skalni hrad</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skalni hrad, rozc. - Skalni hrad</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8717207,15.0896435;50.87198875003346,15.089519200000003;50.8721337,15.0893431">
+    <text>Skalni hrad, rozc. - Skalni hrad</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8717207" lon="15.0896435">
+      <ele>633</ele>
+      <time>2022-01-17T23:54:49Z</time>
+    </trkpt>
+    <trkpt lat="50.8718099" lon="15.0896363">
+      <ele>631</ele>
+      <time>2022-01-17T23:55:00Z</time>
+    </trkpt>
+    <trkpt lat="50.8719329" lon="15.089597">
+      <ele>628</ele>
+      <time>2022-01-17T23:55:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8720446" lon="15.0894414">
+      <ele>627</ele>
+      <time>2022-01-17T23:55:32Z</time>
+    </trkpt>
+    <trkpt lat="50.8721157" lon="15.0894468">
+      <ele>625</ele>
+      <time>2022-01-17T23:55:41Z</time>
+    </trkpt>
+    <trkpt lat="50.8721337" lon="15.0893431">
+      <ele>623</ele>
+      <time>2022-01-17T23:55:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

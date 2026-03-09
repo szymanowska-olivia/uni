@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:49Z</time>
+    <bounds maxlat="49.468436" maxlon="20.553685" minlat="49.466801" minlon="20.551745"/>
+  </metadata>
+  <wpt lat="49.468436" lon="20.551745">
+    <ele>1141</ele>
+    <name>Mala Przehyba</name>
+    <link href="https://mapa-turystyczna.pl/node/3252">
+      <text>Mala Przehyba</text>
+    </link>
+  </wpt>
+  <wpt lat="49.466801" lon="20.553685">
+    <ele>1147</ele>
+    <name>Skrzyzowanie na Przehybie</name>
+    <link href="https://mapa-turystyczna.pl/node/4040">
+      <text>Skrzyzowanie na Przehybie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Przehyba - Skrzyzowanie na Przehybie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.468436,20.551745;49.467714000380155,20.552608500000016;49.466801,20.553685">
+    <text>Mala Przehyba - Skrzyzowanie na Przehybie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.468436" lon="20.551745">
+      <ele>1141</ele>
+      <time>2022-01-17T22:01:49Z</time>
+    </trkpt>
+    <trkpt lat="49.468245" lon="20.551924">
+      <ele>1141</ele>
+      <time>2022-01-17T22:02:21Z</time>
+    </trkpt>
+    <trkpt lat="49.467907" lon="20.552378">
+      <ele>1143</ele>
+      <time>2022-01-17T22:03:26Z</time>
+    </trkpt>
+    <trkpt lat="49.467521" lon="20.552839">
+      <ele>1148</ele>
+      <time>2022-01-17T22:04:37Z</time>
+    </trkpt>
+    <trkpt lat="49.467243" lon="20.553156">
+      <ele>1149</ele>
+      <time>2022-01-17T22:05:27Z</time>
+    </trkpt>
+    <trkpt lat="49.466964" lon="20.553446">
+      <ele>1148</ele>
+      <time>2022-01-17T22:06:16Z</time>
+    </trkpt>
+    <trkpt lat="49.466845" lon="20.553599">
+      <ele>1147</ele>
+      <time>2022-01-17T22:06:39Z</time>
+    </trkpt>
+    <trkpt lat="49.466801" lon="20.553685">
+      <ele>1147</ele>
+      <time>2022-01-17T22:06:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

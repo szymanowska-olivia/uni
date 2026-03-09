@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:06:09Z</time>
+    <bounds maxlat="50.6776462" maxlon="15.6271934" minlat="50.6766856" minlon="15.6242645"/>
+  </metadata>
+  <wpt lat="50.676686" lon="15.624265">
+    <ele>794</ele>
+    <name>Lom Strazne</name>
+    <link href="https://mapa-turystyczna.pl/node/1307">
+      <text>Lom Strazne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.677646" lon="15.627193">
+    <ele>801</ele>
+    <name>Hribeci Boudy</name>
+    <link href="https://mapa-turystyczna.pl/node/1137">
+      <text>Hribeci Boudy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lom Strazne - Hribeci Boudy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6766856,15.6242645;50.677220701928775,15.625895250000017;50.6776462,15.6271934">
+    <text>Lom Strazne - Hribeci Boudy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6766856" lon="15.6242645">
+      <ele>794</ele>
+      <time>2022-01-17T21:06:09Z</time>
+    </trkpt>
+    <trkpt lat="50.6767952" lon="15.6245971">
+      <ele>792</ele>
+      <time>2022-01-17T21:06:43Z</time>
+    </trkpt>
+    <trkpt lat="50.6776462" lon="15.6271934">
+      <ele>801</ele>
+      <time>2022-01-17T21:11:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

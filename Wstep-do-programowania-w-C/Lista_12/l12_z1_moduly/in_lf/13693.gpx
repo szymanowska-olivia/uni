@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:13Z</time>
+    <bounds maxlat="50.5488129" maxlon="16.0541689" minlat="50.5470525" minlon="16.0532679"/>
+  </metadata>
+  <wpt lat="50.547052" lon="16.054169">
+    <ele>689</ele>
+    <name>U Srejberky, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6247">
+      <text>U Srejberky, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.548813" lon="16.053304">
+    <ele>690</ele>
+    <name>Bily kul</name>
+    <link href="https://mapa-turystyczna.pl/node/9426">
+      <text>Bily kul</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Srejberky, rozc. - Bily kul</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5470525,16.0541689;50.548027650975826,16.053680900000032;50.5488129,16.053304">
+    <text>U Srejberky, rozc. - Bily kul</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5470525" lon="16.0541689">
+      <ele>689</ele>
+      <time>2022-01-18T00:11:13Z</time>
+    </trkpt>
+    <trkpt lat="50.5477243" lon="16.0539652">
+      <ele>696</ele>
+      <time>2022-01-18T00:13:02Z</time>
+    </trkpt>
+    <trkpt lat="50.548331" lon="16.0533966">
+      <ele>693</ele>
+      <time>2022-01-18T00:14:54Z</time>
+    </trkpt>
+    <trkpt lat="50.5485423" lon="16.0532679">
+      <ele>691</ele>
+      <time>2022-01-18T00:15:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5486651" lon="16.0532679">
+      <ele>691</ele>
+      <time>2022-01-18T00:15:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5488129" lon="16.053304">
+      <ele>690</ele>
+      <time>2022-01-18T00:16:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

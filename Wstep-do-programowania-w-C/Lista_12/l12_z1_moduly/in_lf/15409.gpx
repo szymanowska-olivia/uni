@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:51Z</time>
+    <bounds maxlat="51.2999536" maxlon="16.9120394" minlat="51.2980086" minlon="16.908602"/>
+  </metadata>
+  <wpt lat="51.298009" lon="16.908602">
+    <ele>169</ele>
+    <name>Oborniki Slaskie, ul. Dworcowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10529">
+      <text>Oborniki Slaskie, ul. Dworcowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.299954" lon="16.912039">
+    <ele>174</ele>
+    <name>Oborniki Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/10532">
+      <text>Oborniki Slaskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oborniki Slaskie, ul. Dworcowa - Oborniki Slaskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2980086,16.908602;51.298855857818765,16.910156299999972;51.2999536,16.9120394">
+    <text>Oborniki Slaskie, ul. Dworcowa - Oborniki Slaskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2980086" lon="16.908602">
+      <ele>169</ele>
+      <time>2022-01-18T00:38:51Z</time>
+    </trkpt>
+    <trkpt lat="51.2997031" lon="16.9117106">
+      <ele>173</ele>
+      <time>2022-01-18T00:43:18Z</time>
+    </trkpt>
+    <trkpt lat="51.2998172" lon="16.9118608">
+      <ele>173</ele>
+      <time>2022-01-18T00:43:33Z</time>
+    </trkpt>
+    <trkpt lat="51.2999536" lon="16.9120394">
+      <ele>174</ele>
+      <time>2022-01-18T00:43:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

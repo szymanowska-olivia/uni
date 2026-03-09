@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:34Z</time>
+    <bounds maxlat="49.219552" maxlon="20.025325" minlat="49.219174" minlon="20.02513"/>
+  </metadata>
+  <wpt lat="49.219552" lon="20.025325">
+    <ele>2137</ele>
+    <name>Kozia Przelecz</name>
+    <link href="https://mapa-turystyczna.pl/node/2520">
+      <text>Kozia Przelecz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.219174" lon="20.025144">
+    <ele>2055</ele>
+    <name>Kozia Przelecz, odejscie szlaku czerwonego</name>
+    <link href="https://mapa-turystyczna.pl/node/231">
+      <text>Kozia Przelecz, odejscie szlaku czerwonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kozia Przelecz - Kozia Przelecz, odejscie szlaku czerwonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.219552,20.025325;49.21922600002736,20.025136999999997;49.219174,20.025144">
+    <text>Kozia Przelecz - Kozia Przelecz, odejscie szlaku czerwonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.219552" lon="20.025325">
+      <ele>2137</ele>
+      <time>2022-01-17T21:32:34Z</time>
+    </trkpt>
+    <trkpt lat="49.219468" lon="20.025265">
+      <ele>2117</ele>
+      <time>2022-01-17T21:34:56Z</time>
+    </trkpt>
+    <trkpt lat="49.219367" lon="20.025185">
+      <ele>2093</ele>
+      <time>2022-01-17T21:37:52Z</time>
+    </trkpt>
+    <trkpt lat="49.219278" lon="20.02513">
+      <ele>2073</ele>
+      <time>2022-01-17T21:40:19Z</time>
+    </trkpt>
+    <trkpt lat="49.219174" lon="20.025144">
+      <ele>2055</ele>
+      <time>2022-01-17T21:42:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

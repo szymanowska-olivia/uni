@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:48:24Z</time>
+    <bounds maxlat="49.420469" maxlon="20.907355" minlat="49.419909" minlon="20.9061"/>
+  </metadata>
+  <wpt lat="49.420469" lon="20.9061">
+    <ele>967</ele>
+    <name>Pod Jaworzyna Krynicka, odejscie do schroniska</name>
+    <link href="https://mapa-turystyczna.pl/node/2483">
+      <text>Pod Jaworzyna Krynicka, odejscie do schroniska</text>
+    </link>
+  </wpt>
+  <wpt lat="49.419909" lon="20.907355">
+    <ele>965</ele>
+    <name>Diabelski Kamien</name>
+    <link href="https://mapa-turystyczna.pl/node/8475">
+      <text>Diabelski Kamien</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Jaworzyna Krynicka, odejscie do schroniska - Diabelski Kamien</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.420469,20.9061;49.420173500064394,20.906944499999998;49.419909,20.907355">
+    <text>Pod Jaworzyna Krynicka, odejscie do schroniska - Diabelski Kamien</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.420469" lon="20.9061">
+      <ele>967</ele>
+      <time>2022-01-17T23:48:24Z</time>
+    </trkpt>
+    <trkpt lat="49.420253" lon="20.906722">
+      <ele>968</ele>
+      <time>2022-01-17T23:49:18Z</time>
+    </trkpt>
+    <trkpt lat="49.420094" lon="20.907167">
+      <ele>966</ele>
+      <time>2022-01-17T23:49:58Z</time>
+    </trkpt>
+    <trkpt lat="49.419909" lon="20.907355">
+      <ele>965</ele>
+      <time>2022-01-17T23:50:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

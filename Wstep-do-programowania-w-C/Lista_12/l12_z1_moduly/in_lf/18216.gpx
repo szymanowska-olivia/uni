@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:15Z</time>
+    <bounds maxlat="52.1085886" maxlon="15.1434446" minlat="52.104006" minlon="15.1233278"/>
+  </metadata>
+  <wpt lat="52.106764" lon="15.123328">
+    <ele>67</ele>
+    <name>Struga, lesniczowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12371">
+      <text>Struga, lesniczowka</text>
+    </link>
+  </wpt>
+  <wpt lat="52.104006" lon="15.143445">
+    <ele>64</ele>
+    <name>Jezioro Ciche</name>
+    <link href="https://mapa-turystyczna.pl/node/12372">
+      <text>Jezioro Ciche</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Struga, lesniczowka - Jezioro Ciche</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1067638,15.1233278;52.107634510207234,15.130385149999972;52.104006,15.1434446">
+    <text>Struga, lesniczowka - Jezioro Ciche</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1067638" lon="15.1233278">
+      <ele>67</ele>
+      <time>2022-01-18T01:27:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1066757" lon="15.1246512">
+      <ele>73</ele>
+      <time>2022-01-18T01:28:34Z</time>
+    </trkpt>
+    <trkpt lat="52.1072516" lon="15.1251274">
+      <ele>73</ele>
+      <time>2022-01-18T01:29:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1078909" lon="15.1254286">
+      <ele>62</ele>
+      <time>2022-01-18T01:30:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1085886" lon="15.125435">
+      <ele>59</ele>
+      <time>2022-01-18T01:31:50Z</time>
+    </trkpt>
+    <trkpt lat="52.1066804" lon="15.1353353">
+      <ele>66</ele>
+      <time>2022-01-18T01:42:08Z</time>
+    </trkpt>
+    <trkpt lat="52.105548" lon="15.1411689">
+      <ele>65</ele>
+      <time>2022-01-18T01:48:12Z</time>
+    </trkpt>
+    <trkpt lat="52.1053347" lon="15.1421408">
+      <ele>68</ele>
+      <time>2022-01-18T01:49:14Z</time>
+    </trkpt>
+    <trkpt lat="52.1050737" lon="15.1433688">
+      <ele>65</ele>
+      <time>2022-01-18T01:50:31Z</time>
+    </trkpt>
+    <trkpt lat="52.1043489" lon="15.143396">
+      <ele>65</ele>
+      <time>2022-01-18T01:51:42Z</time>
+    </trkpt>
+    <trkpt lat="52.104006" lon="15.1434446">
+      <ele>64</ele>
+      <time>2022-01-18T01:52:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

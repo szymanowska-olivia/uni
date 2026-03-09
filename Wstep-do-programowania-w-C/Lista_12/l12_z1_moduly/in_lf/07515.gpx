@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:24:36Z</time>
+    <bounds maxlat="50.0594325" maxlon="19.8481107" minlat="50.0574005" minlon="19.8472121"/>
+  </metadata>
+  <wpt lat="50.059432" lon="19.847494">
+    <ele>354</ele>
+    <name>Kopiec Pilsudskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/5118">
+      <text>Kopiec Pilsudskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.0574" lon="19.847553">
+    <ele>334</ele>
+    <name>Las Wolski, rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/5119">
+      <text>Las Wolski, rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kopiec Pilsudskiego - Las Wolski, rozejscie szlakow czerwony / zielony</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0594325,19.8474938;50.058332150011175,19.848108000000035;50.0574005,19.8475528">
+    <text>Kopiec Pilsudskiego - Las Wolski, rozejscie szlakow czerwony / zielony</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0594325" lon="19.8474938">
+      <ele>354</ele>
+      <time>2022-01-17T22:24:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0588539" lon="19.8473892">
+      <ele>352</ele>
+      <time>2022-01-17T22:25:42Z</time>
+    </trkpt>
+    <trkpt lat="50.0587575" lon="19.8474294">
+      <ele>351</ele>
+      <time>2022-01-17T22:25:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0583649" lon="19.8481107">
+      <ele>347</ele>
+      <time>2022-01-17T22:26:59Z</time>
+    </trkpt>
+    <trkpt lat="50.0582994" lon="19.8481053">
+      <ele>347</ele>
+      <time>2022-01-17T22:27:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0582" lon="19.8480161">
+      <ele>345</ele>
+      <time>2022-01-17T22:27:19Z</time>
+    </trkpt>
+    <trkpt lat="50.058042" lon="19.8472832">
+      <ele>342</ele>
+      <time>2022-01-17T22:28:15Z</time>
+    </trkpt>
+    <trkpt lat="50.0579671" lon="19.8472121">
+      <ele>340</ele>
+      <time>2022-01-17T22:28:25Z</time>
+    </trkpt>
+    <trkpt lat="50.0578861" lon="19.8472255">
+      <ele>339</ele>
+      <time>2022-01-17T22:28:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0577725" lon="19.847306">
+      <ele>337</ele>
+      <time>2022-01-17T22:28:49Z</time>
+    </trkpt>
+    <trkpt lat="50.057466" lon="19.8475742">
+      <ele>334</ele>
+      <time>2022-01-17T22:29:28Z</time>
+    </trkpt>
+    <trkpt lat="50.0574005" lon="19.8475528">
+      <ele>334</ele>
+      <time>2022-01-17T22:29:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

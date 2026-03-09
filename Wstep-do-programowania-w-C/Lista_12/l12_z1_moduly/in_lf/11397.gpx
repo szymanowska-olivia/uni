@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:57Z</time>
+    <bounds maxlat="49.9705919" maxlon="16.9360858" minlat="49.9653816" minlon="16.9336652"/>
+  </metadata>
+  <wpt lat="49.970592" lon="16.933665">
+    <ele>637</ele>
+    <name>Haj, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/7955">
+      <text>Haj, rozhledna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.965382" lon="16.93603">
+    <ele>504</ele>
+    <name>Cerveny kriz, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/8016">
+      <text>Cerveny kriz, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Haj, rozhledna - Cerveny kriz, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9705919,16.9336652;49.968257502172456,16.934915300000018;49.9653816,16.9360301">
+    <text>Haj, rozhledna - Cerveny kriz, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9705919" lon="16.9336652">
+      <ele>637</ele>
+      <time>2022-01-17T23:33:57Z</time>
+    </trkpt>
+    <trkpt lat="49.9698912" lon="16.9338703">
+      <ele>619</ele>
+      <time>2022-01-17T23:35:15Z</time>
+    </trkpt>
+    <trkpt lat="49.969453" lon="16.9342833">
+      <ele>599</ele>
+      <time>2022-01-17T23:36:12Z</time>
+    </trkpt>
+    <trkpt lat="49.9691631" lon="16.9345784">
+      <ele>583</ele>
+      <time>2022-01-17T23:36:52Z</time>
+    </trkpt>
+    <trkpt lat="49.9687148" lon="16.9346729">
+      <ele>576</ele>
+      <time>2022-01-17T23:37:41Z</time>
+    </trkpt>
+    <trkpt lat="49.9678002" lon="16.9351577">
+      <ele>552</ele>
+      <time>2022-01-17T23:39:26Z</time>
+    </trkpt>
+    <trkpt lat="49.9671729" lon="16.9354581">
+      <ele>543</ele>
+      <time>2022-01-17T23:40:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9666756" lon="16.9356439">
+      <ele>533</ele>
+      <time>2022-01-17T23:41:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9663443" lon="16.9357565">
+      <ele>527</ele>
+      <time>2022-01-17T23:42:08Z</time>
+    </trkpt>
+    <trkpt lat="49.965979" lon="16.9359946">
+      <ele>512</ele>
+      <time>2022-01-17T23:42:52Z</time>
+    </trkpt>
+    <trkpt lat="49.9656857" lon="16.9360858">
+      <ele>504</ele>
+      <time>2022-01-17T23:43:24Z</time>
+    </trkpt>
+    <trkpt lat="49.9653816" lon="16.9360301">
+      <ele>504</ele>
+      <time>2022-01-17T23:43:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

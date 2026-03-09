@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:30Z</time>
+    <bounds maxlat="52.2848689" maxlon="20.4521968" minlat="52.2827672" minlon="20.4512003"/>
+  </metadata>
+  <wpt lat="52.284869" lon="20.452197">
+    <ele>74</ele>
+    <name>Rozejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12440">
+      <text>Rozejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.282767" lon="20.4512">
+    <ele>69</ele>
+    <name>Kanal Olszowiecki</name>
+    <link href="https://mapa-turystyczna.pl/node/12441">
+      <text>Kanal Olszowiecki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie sciezki dydaktycznej - Kanal Olszowiecki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2848689,20.4521968;52.28373135028868,20.451628900000003;52.2827672,20.4512003">
+    <text>Rozejscie sciezki dydaktycznej - Kanal Olszowiecki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2848689" lon="20.4521968">
+      <ele>74</ele>
+      <time>2022-01-18T01:29:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2838913" lon="20.4518695">
+      <ele>72</ele>
+      <time>2022-01-18T01:31:36Z</time>
+    </trkpt>
+    <trkpt lat="52.2835714" lon="20.4513883">
+      <ele>69</ele>
+      <time>2022-01-18T01:32:31Z</time>
+    </trkpt>
+    <trkpt lat="52.283398" lon="20.4516422">
+      <ele>69</ele>
+      <time>2022-01-18T01:33:00Z</time>
+    </trkpt>
+    <trkpt lat="52.283215" lon="20.4514057">
+      <ele>69</ele>
+      <time>2022-01-18T01:33:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2828659" lon="20.4513277">
+      <ele>69</ele>
+      <time>2022-01-18T01:34:14Z</time>
+    </trkpt>
+    <trkpt lat="52.2827672" lon="20.4512003">
+      <ele>69</ele>
+      <time>2022-01-18T01:34:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

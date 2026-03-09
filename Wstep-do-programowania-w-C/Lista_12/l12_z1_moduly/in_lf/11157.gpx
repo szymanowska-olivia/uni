@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:29:31Z</time>
+    <bounds maxlat="49.721439" maxlon="18.918268" minlat="49.721392" minlon="18.91733"/>
+  </metadata>
+  <wpt lat="49.721439" lon="18.91733">
+    <ele>412</ele>
+    <name>Brenna, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/7861">
+      <text>Brenna, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="49.721392" lon="18.918268">
+    <ele>412</ele>
+    <name>Brenna, amfiteatr</name>
+    <link href="https://mapa-turystyczna.pl/node/3958">
+      <text>Brenna, amfiteatr</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brenna, odejscie szlaku czarnego - Brenna, amfiteatr</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.721439,18.91733;49.721407000002316,18.917967499999982;49.721392,18.918268">
+    <text>Brenna, odejscie szlaku czarnego - Brenna, amfiteatr</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.721439" lon="18.91733">
+      <ele>412</ele>
+      <time>2022-01-17T23:29:31Z</time>
+    </trkpt>
+    <trkpt lat="49.721422" lon="18.917667">
+      <ele>412</ele>
+      <time>2022-01-17T23:29:53Z</time>
+    </trkpt>
+    <trkpt lat="49.721392" lon="18.918268">
+      <ele>412</ele>
+      <time>2022-01-17T23:30:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

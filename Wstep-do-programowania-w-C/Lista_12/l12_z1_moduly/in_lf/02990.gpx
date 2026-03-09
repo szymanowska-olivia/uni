@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:23:32Z</time>
+    <bounds maxlat="50.2422717" maxlon="17.045331" minlat="50.230036" minlon="17.028358"/>
+  </metadata>
+  <wpt lat="50.242272" lon="17.045331">
+    <ele>972</ele>
+    <name>Tri studanky</name>
+    <link href="https://mapa-turystyczna.pl/node/2150">
+      <text>Tri studanky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.230036" lon="17.028358">
+    <ele>1109</ele>
+    <name>Przelecz Trzech Granic</name>
+    <link href="https://mapa-turystyczna.pl/node/2152">
+      <text>Przelecz Trzech Granic</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tri studanky - Przelecz Trzech Granic</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2422717,17.045331;50.23761121554904,17.036738550000013;50.230036,17.028358">
+    <text>Tri studanky - Przelecz Trzech Granic</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2422717" lon="17.045331">
+      <ele>972</ele>
+      <time>2022-01-17T21:23:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2420423" lon="17.0447583">
+      <ele>977</ele>
+      <time>2022-01-17T21:24:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2410169" lon="17.0407096">
+      <ele>1009</ele>
+      <time>2022-01-17T21:31:03Z</time>
+    </trkpt>
+    <trkpt lat="50.2388288" lon="17.0370752">
+      <ele>1062</ele>
+      <time>2022-01-17T21:38:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2363936" lon="17.0364019">
+      <ele>1086</ele>
+      <time>2022-01-17T21:44:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2357425" lon="17.0359433">
+      <ele>1096</ele>
+      <time>2022-01-17T21:46:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2335542" lon="17.0329097">
+      <ele>1101</ele>
+      <time>2022-01-17T21:52:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2310912" lon="17.0291036">
+      <ele>1103</ele>
+      <time>2022-01-17T22:00:50Z</time>
+    </trkpt>
+    <trkpt lat="50.230036" lon="17.028358">
+      <ele>1109</ele>
+      <time>2022-01-17T22:03:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

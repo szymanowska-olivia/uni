@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:39Z</time>
+    <bounds maxlat="49.57644" maxlon="20.348236" minlat="49.57433" minlon="20.344418"/>
+  </metadata>
+  <wpt lat="49.57644" lon="20.348236">
+    <ele>449</ele>
+    <name>Kamienica, Pierzgi</name>
+    <link href="https://mapa-turystyczna.pl/node/4127">
+      <text>Kamienica, Pierzgi</text>
+    </link>
+  </wpt>
+  <wpt lat="49.574626" lon="20.344418">
+    <ele>448</ele>
+    <name>Kamienica</name>
+    <link href="https://mapa-turystyczna.pl/node/70">
+      <text>Kamienica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamienica, Pierzgi - Kamienica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.57644,20.348236;49.575152500174475,20.34655050000002;49.574626,20.344418">
+    <text>Kamienica, Pierzgi - Kamienica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.57644" lon="20.348236">
+      <ele>449</ele>
+      <time>2022-01-17T22:04:39Z</time>
+    </trkpt>
+    <trkpt lat="49.576332" lon="20.348134">
+      <ele>447</ele>
+      <time>2022-01-17T22:04:50Z</time>
+    </trkpt>
+    <trkpt lat="49.576197" lon="20.347978">
+      <ele>445</ele>
+      <time>2022-01-17T22:05:05Z</time>
+    </trkpt>
+    <trkpt lat="49.575835" lon="20.347496">
+      <ele>443</ele>
+      <time>2022-01-17T22:05:46Z</time>
+    </trkpt>
+    <trkpt lat="49.575283" lon="20.346756">
+      <ele>445</ele>
+      <time>2022-01-17T22:06:49Z</time>
+    </trkpt>
+    <trkpt lat="49.575022" lon="20.346345">
+      <ele>447</ele>
+      <time>2022-01-17T22:07:21Z</time>
+    </trkpt>
+    <trkpt lat="49.574823" lon="20.34596">
+      <ele>446</ele>
+      <time>2022-01-17T22:07:49Z</time>
+    </trkpt>
+    <trkpt lat="49.574507" lon="20.34535">
+      <ele>447</ele>
+      <time>2022-01-17T22:08:33Z</time>
+    </trkpt>
+    <trkpt lat="49.57433" lon="20.344986">
+      <ele>447</ele>
+      <time>2022-01-17T22:08:58Z</time>
+    </trkpt>
+    <trkpt lat="49.574437" lon="20.344782">
+      <ele>447</ele>
+      <time>2022-01-17T22:09:13Z</time>
+    </trkpt>
+    <trkpt lat="49.574513" lon="20.344636">
+      <ele>448</ele>
+      <time>2022-01-17T22:09:23Z</time>
+    </trkpt>
+    <trkpt lat="49.574626" lon="20.344418">
+      <ele>448</ele>
+      <time>2022-01-17T22:09:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

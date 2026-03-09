@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:01:46Z</time>
+    <bounds maxlat="50.7330895" maxlon="15.5751049" minlat="50.7294038" minlon="15.5723946"/>
+  </metadata>
+  <wpt lat="50.733089" lon="15.572396">
+    <ele>1025</ele>
+    <name>Horni Misecky</name>
+    <link href="https://mapa-turystyczna.pl/node/1134">
+      <text>Horni Misecky</text>
+    </link>
+  </wpt>
+  <wpt lat="50.729404" lon="15.575105">
+    <ele>998</ele>
+    <name>Pod Harrachovou skalou</name>
+    <link href="https://mapa-turystyczna.pl/node/1270">
+      <text>Pod Harrachovou skalou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Misecky - Pod Harrachovou skalou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7330895,15.5723959;50.731248152074436,15.573883150000034;50.7294038,15.5751049">
+    <text>Horni Misecky - Pod Harrachovou skalou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7330895" lon="15.5723959">
+      <ele>1025</ele>
+      <time>2022-01-17T21:01:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7329648" lon="15.5723946">
+      <ele>1025</ele>
+      <time>2022-01-17T21:01:55Z</time>
+    </trkpt>
+    <trkpt lat="50.732555" lon="15.5724898">
+      <ele>1022</ele>
+      <time>2022-01-17T21:02:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7323803" lon="15.5725944">
+      <ele>1021</ele>
+      <time>2022-01-17T21:02:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7319978" lon="15.5730195">
+      <ele>1018</ele>
+      <time>2022-01-17T21:03:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7318904" lon="15.5732622">
+      <ele>1016</ele>
+      <time>2022-01-17T21:03:25Z</time>
+    </trkpt>
+    <trkpt lat="50.731689" lon="15.5734902">
+      <ele>1015</ele>
+      <time>2022-01-17T21:03:43Z</time>
+    </trkpt>
+    <trkpt lat="50.7308073" lon="15.5742761">
+      <ele>1004</ele>
+      <time>2022-01-17T21:04:56Z</time>
+    </trkpt>
+    <trkpt lat="50.730195" lon="15.5743714">
+      <ele>1000</ele>
+      <time>2022-01-17T21:05:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7298271" lon="15.5746168">
+      <ele>1001</ele>
+      <time>2022-01-17T21:06:08Z</time>
+    </trkpt>
+    <trkpt lat="50.7294038" lon="15.5751049">
+      <ele>998</ele>
+      <time>2022-01-17T21:06:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

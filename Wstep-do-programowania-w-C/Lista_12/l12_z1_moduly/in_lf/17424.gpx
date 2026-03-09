@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:13:04Z</time>
+    <bounds maxlat="51.1019309" maxlon="15.5944119" minlat="51.1012368" minlon="15.5939089"/>
+  </metadata>
+  <wpt lat="51.101237" lon="15.594412">
+    <ele>258</ele>
+    <name>Odejscie na punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11824">
+      <text>Odejscie na punkt widokowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.101931" lon="15.593909">
+    <ele>242</ele>
+    <name>Punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11838">
+      <text>Punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na punkt widokowy - Punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1012368,15.5944119;51.101548050049075,15.59405555;51.1019309,15.5939089">
+    <text>Odejscie na punkt widokowy - Punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1012368" lon="15.5944119">
+      <ele>258</ele>
+      <time>2022-01-18T01:13:04Z</time>
+    </trkpt>
+    <trkpt lat="51.1012886" lon="15.5943587">
+      <ele>258</ele>
+      <time>2022-01-18T01:13:09Z</time>
+    </trkpt>
+    <trkpt lat="51.101383" lon="15.5942085">
+      <ele>256</ele>
+      <time>2022-01-18T01:13:19Z</time>
+    </trkpt>
+    <trkpt lat="51.1014807" lon="15.5941065">
+      <ele>254</ele>
+      <time>2022-01-18T01:13:28Z</time>
+    </trkpt>
+    <trkpt lat="51.1016154" lon="15.5940046">
+      <ele>250</ele>
+      <time>2022-01-18T01:13:39Z</time>
+    </trkpt>
+    <trkpt lat="51.1019309" lon="15.5939089">
+      <ele>242</ele>
+      <time>2022-01-18T01:14:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

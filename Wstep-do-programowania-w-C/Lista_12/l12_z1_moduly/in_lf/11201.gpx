@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:16Z</time>
+    <bounds maxlat="49.9526392" maxlon="17.149897" minlat="49.952232" minlon="17.1462431"/>
+  </metadata>
+  <wpt lat="49.952639" lon="17.146243">
+    <ele>730</ele>
+    <name>Rabstejn, restaurace, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7891">
+      <text>Rabstejn, restaurace, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.952261" lon="17.149897">
+    <ele>722</ele>
+    <name>Rabstejn, restaurace</name>
+    <link href="https://mapa-turystyczna.pl/node/7889">
+      <text>Rabstejn, restaurace</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rabstejn, restaurace, rozc. - Rabstejn, restaurace</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9526392,17.1462431;49.95225275000446,17.1481035;49.9522612,17.149897">
+    <text>Rabstejn, restaurace, rozc. - Rabstejn, restaurace</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9526392" lon="17.1462431">
+      <ele>730</ele>
+      <time>2022-01-17T23:30:16Z</time>
+    </trkpt>
+    <trkpt lat="49.952339" lon="17.1475402">
+      <ele>724</ele>
+      <time>2022-01-17T23:32:00Z</time>
+    </trkpt>
+    <trkpt lat="49.952232" lon="17.1480016">
+      <ele>719</ele>
+      <time>2022-01-17T23:32:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9522735" lon="17.1482054">
+      <ele>719</ele>
+      <time>2022-01-17T23:32:53Z</time>
+    </trkpt>
+    <trkpt lat="49.9525253" lon="17.1487107">
+      <ele>722</ele>
+      <time>2022-01-17T23:33:42Z</time>
+    </trkpt>
+    <trkpt lat="49.9522612" lon="17.149897">
+      <ele>722</ele>
+      <time>2022-01-17T23:35:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

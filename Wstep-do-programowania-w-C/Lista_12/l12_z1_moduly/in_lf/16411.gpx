@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:56:25Z</time>
+    <bounds maxlat="51.895207" maxlon="15.5076682" minlat="51.8920271" minlon="15.5039084"/>
+  </metadata>
+  <wpt lat="51.892027" lon="15.503908">
+    <ele>114</ele>
+    <name>Skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/11207">
+      <text>Skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="51.895207" lon="15.507668">
+    <ele>120</ele>
+    <name>Rozejscie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/11206">
+      <text>Rozejscie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie - Rozejscie szlakow zielony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8920271,15.5039084;51.89349932411615,15.50569574999999;51.895207,15.5076682">
+    <text>Skrzyzowanie - Rozejscie szlakow zielony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8920271" lon="15.5039084">
+      <ele>114</ele>
+      <time>2022-01-18T00:56:25Z</time>
+    </trkpt>
+    <trkpt lat="51.8949715" lon="15.5074831">
+      <ele>119</ele>
+      <time>2022-01-18T01:01:05Z</time>
+    </trkpt>
+    <trkpt lat="51.8952032" lon="15.5076655">
+      <ele>120</ele>
+      <time>2022-01-18T01:01:25Z</time>
+    </trkpt>
+    <trkpt lat="51.895207" lon="15.5076682">
+      <ele>120</ele>
+      <time>2022-01-18T01:01:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

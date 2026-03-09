@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:04Z</time>
+    <bounds maxlat="50.5489139" maxlon="16.2975486" minlat="50.5479185" minlon="16.2965977"/>
+  </metadata>
+  <wpt lat="50.547919" lon="16.296598">
+    <ele>676</ele>
+    <name>Ovcin, odbocka k vyhlidce</name>
+    <link href="https://mapa-turystyczna.pl/node/5810">
+      <text>Ovcin, odbocka k vyhlidce</text>
+    </link>
+  </wpt>
+  <wpt lat="50.548914" lon="16.297536">
+    <ele>676</ele>
+    <name>Ovcin</name>
+    <link href="https://mapa-turystyczna.pl/node/5811">
+      <text>Ovcin</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ovcin, odbocka k vyhlidce - Ovcin</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5479185,16.2965977;50.548477550159774,16.297400400000004;50.5489139,16.2975365">
+    <text>Ovcin, odbocka k vyhlidce - Ovcin</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5479185" lon="16.2965977">
+      <ele>676</ele>
+      <time>2022-01-17T22:37:04Z</time>
+    </trkpt>
+    <trkpt lat="50.5483548" lon="16.2972522">
+      <ele>679</ele>
+      <time>2022-01-17T22:38:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5486003" lon="16.2975486">
+      <ele>679</ele>
+      <time>2022-01-17T22:39:14Z</time>
+    </trkpt>
+    <trkpt lat="50.5487707" lon="16.2974158">
+      <ele>679</ele>
+      <time>2022-01-17T22:39:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5489139" lon="16.2975365">
+      <ele>676</ele>
+      <time>2022-01-17T22:40:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

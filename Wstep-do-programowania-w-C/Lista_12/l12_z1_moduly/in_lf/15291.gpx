@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:39Z</time>
+    <bounds maxlat="51.5341678" maxlon="17.2731885" minlat="51.5311954" minlon="17.2711859"/>
+  </metadata>
+  <wpt lat="51.531195" lon="17.271186">
+    <ele>111</ele>
+    <name>Milicz, ul. Zamkowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10550">
+      <text>Milicz, ul. Zamkowa</text>
+    </link>
+  </wpt>
+  <wpt lat="51.534168" lon="17.273188">
+    <ele>104</ele>
+    <name>Milicz, most na Baryczy</name>
+    <link href="https://mapa-turystyczna.pl/node/10430">
+      <text>Milicz, most na Baryczy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Milicz, ul. Zamkowa - Milicz, most na Baryczy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5311954,17.2711859;51.53255025019561,17.272736200000004;51.5341678,17.2731885">
+    <text>Milicz, ul. Zamkowa - Milicz, most na Baryczy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5311954" lon="17.2711859">
+      <ele>111</ele>
+      <time>2022-01-18T00:36:39Z</time>
+    </trkpt>
+    <trkpt lat="51.5314223" lon="17.2714219">
+      <ele>110</ele>
+      <time>2022-01-18T00:37:03Z</time>
+    </trkpt>
+    <trkpt lat="51.5316359" lon="17.2716472">
+      <ele>110</ele>
+      <time>2022-01-18T00:37:26Z</time>
+    </trkpt>
+    <trkpt lat="51.5318695" lon="17.2718833">
+      <ele>110</ele>
+      <time>2022-01-18T00:37:50Z</time>
+    </trkpt>
+    <trkpt lat="51.5320297" lon="17.2721944">
+      <ele>110</ele>
+      <time>2022-01-18T00:38:13Z</time>
+    </trkpt>
+    <trkpt lat="51.5322299" lon="17.2724948">
+      <ele>110</ele>
+      <time>2022-01-18T00:38:37Z</time>
+    </trkpt>
+    <trkpt lat="51.5324168" lon="17.2726772">
+      <ele>109</ele>
+      <time>2022-01-18T00:38:56Z</time>
+    </trkpt>
+    <trkpt lat="51.5326837" lon="17.2727952">
+      <ele>108</ele>
+      <time>2022-01-18T00:39:21Z</time>
+    </trkpt>
+    <trkpt lat="51.5330375" lon="17.2726986">
+      <ele>107</ele>
+      <time>2022-01-18T00:39:53Z</time>
+    </trkpt>
+    <trkpt lat="51.5332644" lon="17.2726772">
+      <ele>106</ele>
+      <time>2022-01-18T00:40:13Z</time>
+    </trkpt>
+    <trkpt lat="51.5335514" lon="17.2727416">
+      <ele>104</ele>
+      <time>2022-01-18T00:40:39Z</time>
+    </trkpt>
+    <trkpt lat="51.5341678" lon="17.2731885">
+      <ele>104</ele>
+      <time>2022-01-18T00:41:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

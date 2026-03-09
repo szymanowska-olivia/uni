@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:24:55Z</time>
+    <bounds maxlat="50.1710025" maxlon="16.353879" minlat="50.1680372" minlon="16.349448"/>
+  </metadata>
+  <wpt lat="50.171003" lon="16.349448">
+    <ele>395</ele>
+    <name>Javornice</name>
+    <link href="https://mapa-turystyczna.pl/node/1941">
+      <text>Javornice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.168037" lon="16.353879">
+    <ele>402</ele>
+    <name>Javornice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/1945">
+      <text>Javornice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Javornice - Javornice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1710025,16.349448;50.16930165242114,16.352124800000023;50.1680372,16.353879">
+    <text>Javornice - Javornice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1710025" lon="16.349448">
+      <ele>395</ele>
+      <time>2022-01-17T23:24:55Z</time>
+    </trkpt>
+    <trkpt lat="50.1709578" lon="16.3497108">
+      <ele>397</ele>
+      <time>2022-01-17T23:25:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1706142" lon="16.3502741">
+      <ele>403</ele>
+      <time>2022-01-17T23:26:32Z</time>
+    </trkpt>
+    <trkpt lat="50.1697827" lon="16.3517225">
+      <ele>404</ele>
+      <time>2022-01-17T23:29:30Z</time>
+    </trkpt>
+    <trkpt lat="50.1688206" lon="16.3525271">
+      <ele>400</ele>
+      <time>2022-01-17T23:32:06Z</time>
+    </trkpt>
+    <trkpt lat="50.1685079" lon="16.3528973">
+      <ele>400</ele>
+      <time>2022-01-17T23:33:03Z</time>
+    </trkpt>
+    <trkpt lat="50.168154" lon="16.3536054">
+      <ele>402</ele>
+      <time>2022-01-17T23:34:25Z</time>
+    </trkpt>
+    <trkpt lat="50.1680372" lon="16.353879">
+      <ele>402</ele>
+      <time>2022-01-17T23:34:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

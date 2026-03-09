@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:25:07Z</time>
+    <bounds maxlat="52.4376771" maxlon="20.6732805" minlat="52.4376489" minlon="20.6719943"/>
+  </metadata>
+  <wpt lat="52.437677" lon="20.673281">
+    <ele>106</ele>
+    <name>Modlin, ul. Poniatowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12231">
+      <text>Modlin, ul. Poniatowskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.437661" lon="20.671994">
+    <ele>104</ele>
+    <name>Modlin, ul. 29 Listopada</name>
+    <link href="https://mapa-turystyczna.pl/node/12306">
+      <text>Modlin, ul. 29 Listopada</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modlin, ul. Poniatowskiego - Modlin, ul. 29 Listopada</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.4376771,20.6732805;52.4376587000011,20.67261825000001;52.4376613,20.6719943">
+    <text>Modlin, ul. Poniatowskiego - Modlin, ul. 29 Listopada</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.4376771" lon="20.6732805">
+      <ele>106</ele>
+      <time>2022-01-18T01:25:07Z</time>
+    </trkpt>
+    <trkpt lat="52.4376489" lon="20.6731064">
+      <ele>106</ele>
+      <time>2022-01-18T01:25:15Z</time>
+    </trkpt>
+    <trkpt lat="52.4376685" lon="20.6721301">
+      <ele>105</ele>
+      <time>2022-01-18T01:26:01Z</time>
+    </trkpt>
+    <trkpt lat="52.4376613" lon="20.6719943">
+      <ele>104</ele>
+      <time>2022-01-18T01:26:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

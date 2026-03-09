@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:14:40Z</time>
+    <bounds maxlat="51.1457776" maxlon="20.4482665" minlat="51.1375839" minlon="20.4457151"/>
+  </metadata>
+  <wpt lat="51.137584" lon="20.448266">
+    <ele>259</ele>
+    <name>Rozejscie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/7283">
+      <text>Rozejscie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="51.145778" lon="20.445715">
+    <ele>270</ele>
+    <name>Skrzyzowanie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/7268">
+      <text>Skrzyzowanie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zolty - Skrzyzowanie szlakow zolty / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.1375839,20.4482665;51.14135375389963,20.447798999999982;51.1457776,20.4457151">
+    <text>Rozejscie szlakow czerwony / zolty - Skrzyzowanie szlakow zolty / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.1375839" lon="20.4482665">
+      <ele>259</ele>
+      <time>2022-01-17T23:14:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1375841" lon="20.4482603">
+      <ele>259</ele>
+      <time>2022-01-17T23:14:40Z</time>
+    </trkpt>
+    <trkpt lat="51.1451231" lon="20.4473377">
+      <ele>266</ele>
+      <time>2022-01-17T23:27:36Z</time>
+    </trkpt>
+    <trkpt lat="51.1457491" lon="20.4457498">
+      <ele>270</ele>
+      <time>2022-01-17T23:29:36Z</time>
+    </trkpt>
+    <trkpt lat="51.1457776" lon="20.4457151">
+      <ele>270</ele>
+      <time>2022-01-17T23:29:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

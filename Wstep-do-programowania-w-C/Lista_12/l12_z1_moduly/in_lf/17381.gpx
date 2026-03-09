@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:12:28Z</time>
+    <bounds maxlat="49.660272" maxlon="20.345524" minlat="49.659553" minlon="20.343621"/>
+  </metadata>
+  <wpt lat="49.659553" lon="20.343621">
+    <ele>528</ele>
+    <name>Slopnice Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/11814">
+      <text>Slopnice Gorne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.660272" lon="20.345524">
+    <ele>538</ele>
+    <name>Slopnice Gorne, rozejscie sciezki historycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11815">
+      <text>Slopnice Gorne, rozejscie sciezki historycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Slopnice Gorne - Slopnice Gorne, rozejscie sciezki historycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.659553,20.343621;49.65981450002519,20.344667500000018;49.660272,20.345524">
+    <text>Slopnice Gorne - Slopnice Gorne, rozejscie sciezki historycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.659553" lon="20.343621">
+      <ele>528</ele>
+      <time>2022-01-18T01:12:28Z</time>
+    </trkpt>
+    <trkpt lat="49.65968" lon="20.34411">
+      <ele>528</ele>
+      <time>2022-01-18T01:13:10Z</time>
+    </trkpt>
+    <trkpt lat="49.659765" lon="20.34452">
+      <ele>530</ele>
+      <time>2022-01-18T01:13:45Z</time>
+    </trkpt>
+    <trkpt lat="49.659864" lon="20.344815">
+      <ele>532</ele>
+      <time>2022-01-18T01:14:11Z</time>
+    </trkpt>
+    <trkpt lat="49.660025" lon="20.345132">
+      <ele>534</ele>
+      <time>2022-01-18T01:14:44Z</time>
+    </trkpt>
+    <trkpt lat="49.660174" lon="20.345399">
+      <ele>537</ele>
+      <time>2022-01-18T01:15:12Z</time>
+    </trkpt>
+    <trkpt lat="49.660272" lon="20.345524">
+      <ele>538</ele>
+      <time>2022-01-18T01:15:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

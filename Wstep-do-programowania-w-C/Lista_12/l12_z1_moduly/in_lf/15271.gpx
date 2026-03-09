@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:36:15Z</time>
+    <bounds maxlat="51.4746994" maxlon="16.9028435" minlat="51.4737371" minlon="16.9025967"/>
+  </metadata>
+  <wpt lat="51.474699" lon="16.902843">
+    <ele>90</ele>
+    <name>Zmigrod, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10410">
+      <text>Zmigrod, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.473737" lon="16.902597">
+    <ele>91</ele>
+    <name>Zmigrod, ul. Lipowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10411">
+      <text>Zmigrod, ul. Lipowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zmigrod, dworzec kolejowy - Zmigrod, ul. Lipowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4746994,16.9028435;51.47414535182681,16.90265395000001;51.4737371,16.9025967">
+    <text>Zmigrod, dworzec kolejowy - Zmigrod, ul. Lipowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4746994" lon="16.9028435">
+      <ele>90</ele>
+      <time>2022-01-18T00:36:15Z</time>
+    </trkpt>
+    <trkpt lat="51.4745536" lon="16.9027112">
+      <ele>91</ele>
+      <time>2022-01-18T00:36:35Z</time>
+    </trkpt>
+    <trkpt lat="51.4737371" lon="16.9025967">
+      <ele>91</ele>
+      <time>2022-01-18T00:38:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

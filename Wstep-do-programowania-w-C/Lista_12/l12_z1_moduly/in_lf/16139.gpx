@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:51:39Z</time>
+    <bounds maxlat="49.525857" maxlon="20.12407" minlat="49.523996" minlon="20.123579"/>
+  </metadata>
+  <wpt lat="49.523996" lon="20.124038">
+    <ele>820</ele>
+    <name>Odejscie sciezki edukacyjnej</name>
+    <link href="https://mapa-turystyczna.pl/node/11025">
+      <text>Odejscie sciezki edukacyjnej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.525857" lon="20.123657">
+    <ele>835</ele>
+    <name>Polana Kolasikowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11004">
+      <text>Polana Kolasikowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki edukacyjnej - Polana Kolasikowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.523996,20.124038;49.52495700006064,20.123587999999984;49.525857,20.123657">
+    <text>Odejscie sciezki edukacyjnej - Polana Kolasikowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.523996" lon="20.124038">
+      <ele>820</ele>
+      <time>2022-01-18T00:51:39Z</time>
+    </trkpt>
+    <trkpt lat="49.524171" lon="20.12407">
+      <ele>822</ele>
+      <time>2022-01-18T00:52:06Z</time>
+    </trkpt>
+    <trkpt lat="49.524285" lon="20.12404">
+      <ele>821</ele>
+      <time>2022-01-18T00:52:24Z</time>
+    </trkpt>
+    <trkpt lat="49.52444" lon="20.123934">
+      <ele>818</ele>
+      <time>2022-01-18T00:52:51Z</time>
+    </trkpt>
+    <trkpt lat="49.524736" lon="20.123672">
+      <ele>823</ele>
+      <time>2022-01-18T00:53:44Z</time>
+    </trkpt>
+    <trkpt lat="49.52488" lon="20.123597">
+      <ele>825</ele>
+      <time>2022-01-18T00:54:07Z</time>
+    </trkpt>
+    <trkpt lat="49.525034" lon="20.123579">
+      <ele>827</ele>
+      <time>2022-01-18T00:54:31Z</time>
+    </trkpt>
+    <trkpt lat="49.525452" lon="20.123653">
+      <ele>830</ele>
+      <time>2022-01-18T00:55:36Z</time>
+    </trkpt>
+    <trkpt lat="49.525857" lon="20.123657">
+      <ele>835</ele>
+      <time>2022-01-18T00:56:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:37Z</time>
+    <bounds maxlat="50.132562" maxlon="18.5956131" minlat="50.1319356" minlon="18.5938596"/>
+  </metadata>
+  <wpt lat="50.131936" lon="18.595613">
+    <ele>260</ele>
+    <name>Kamien, osrodek sportowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9634">
+      <text>Kamien, osrodek sportowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.132562" lon="18.59386">
+    <ele>256</ele>
+    <name>Rybnik, Mlyny</name>
+    <link href="https://mapa-turystyczna.pl/node/9554">
+      <text>Rybnik, Mlyny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kamien, osrodek sportowy - Rybnik, Mlyny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1319356,18.5956131;50.13224880102498,18.594736350000005;50.132562,18.5938596">
+    <text>Kamien, osrodek sportowy - Rybnik, Mlyny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1319356" lon="18.5956131">
+      <ele>260</ele>
+      <time>2022-01-18T00:16:37Z</time>
+    </trkpt>
+    <trkpt lat="50.132562" lon="18.5938596">
+      <ele>256</ele>
+      <time>2022-01-18T00:18:37Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

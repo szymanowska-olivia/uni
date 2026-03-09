@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:05:56Z</time>
+    <bounds maxlat="49.245857" maxlon="18.878202" minlat="49.24497" minlon="18.878036"/>
+  </metadata>
+  <wpt lat="49.245857" lon="18.87806">
+    <ele>652</ele>
+    <name>Sedlo Ziarce</name>
+    <link href="https://mapa-turystyczna.pl/node/9212">
+      <text>Sedlo Ziarce</text>
+    </link>
+  </wpt>
+  <wpt lat="49.24497" lon="18.878036">
+    <ele>654</ele>
+    <name>Sedlo Ziarce, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9213">
+      <text>Sedlo Ziarce, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sedlo Ziarce - Sedlo Ziarce, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.245857,18.87806;49.2452520002433,18.878183500000006;49.24497,18.878036">
+    <text>Sedlo Ziarce - Sedlo Ziarce, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.245857" lon="18.87806">
+      <ele>652</ele>
+      <time>2022-01-18T00:05:56Z</time>
+    </trkpt>
+    <trkpt lat="49.24563" lon="18.878165">
+      <ele>653</ele>
+      <time>2022-01-18T00:06:27Z</time>
+    </trkpt>
+    <trkpt lat="49.245407" lon="18.878202">
+      <ele>653</ele>
+      <time>2022-01-18T00:06:56Z</time>
+    </trkpt>
+    <trkpt lat="49.245097" lon="18.878165">
+      <ele>654</ele>
+      <time>2022-01-18T00:07:36Z</time>
+    </trkpt>
+    <trkpt lat="49.24497" lon="18.878036">
+      <ele>654</ele>
+      <time>2022-01-18T00:07:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

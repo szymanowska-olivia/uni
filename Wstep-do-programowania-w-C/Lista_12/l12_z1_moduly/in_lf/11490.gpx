@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:28Z</time>
+    <bounds maxlat="50.8096941" maxlon="16.1759007" minlat="50.8095519" minlon="16.175394"/>
+  </metadata>
+  <wpt lat="50.809552" lon="16.175901">
+    <ele>638</ele>
+    <name>Skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/8065">
+      <text>Skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.809694" lon="16.175394">
+    <ele>640</ele>
+    <name>Lubominskie Siodlo</name>
+    <link href="https://mapa-turystyczna.pl/node/2559">
+      <text>Lubominskie Siodlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zolty - Lubominskie Siodlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8095519,16.1759007;50.809623000054124,16.175647349999974;50.8096941,16.175394">
+    <text>Skrzyzowanie szlakow niebieski / zolty - Lubominskie Siodlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8095519" lon="16.1759007">
+      <ele>638</ele>
+      <time>2022-01-17T23:35:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8096941" lon="16.175394">
+      <ele>640</ele>
+      <time>2022-01-17T23:36:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

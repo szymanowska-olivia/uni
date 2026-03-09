@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:47Z</time>
+    <bounds maxlat="50.3371204" maxlon="16.3781261" minlat="50.3352611" minlon="16.3767306"/>
+  </metadata>
+  <wpt lat="50.33712" lon="16.376731">
+    <ele>987</ele>
+    <name>Bukacka, prirodni rezervace </name>
+    <link href="https://mapa-turystyczna.pl/node/9373">
+      <text>Bukacka, prirodni rezervace </text>
+    </link>
+  </wpt>
+  <wpt lat="50.335261" lon="16.378126">
+    <ele>992</ele>
+    <name>Bukacka</name>
+    <link href="https://mapa-turystyczna.pl/node/1995">
+      <text>Bukacka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bukacka, prirodni rezervace  - Bukacka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3371204,16.3767306;50.336137608085714,16.37745279999999;50.3352611,16.3781261">
+    <text>Bukacka, prirodni rezervace  - Bukacka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3371204" lon="16.3767306">
+      <ele>987</ele>
+      <time>2022-01-18T00:09:47Z</time>
+    </trkpt>
+    <trkpt lat="50.3370141" lon="16.3767795">
+      <ele>987</ele>
+      <time>2022-01-18T00:10:03Z</time>
+    </trkpt>
+    <trkpt lat="50.3352611" lon="16.3781261">
+      <ele>992</ele>
+      <time>2022-01-18T00:14:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

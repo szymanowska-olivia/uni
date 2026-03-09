@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:03Z</time>
+    <bounds maxlat="50.6624256" maxlon="15.6147641" minlat="50.6572651" minlon="15.6084394"/>
+  </metadata>
+  <wpt lat="50.662426" lon="15.614764">
+    <ele>791</ele>
+    <name>Strazne</name>
+    <link href="https://mapa-turystyczna.pl/node/1380">
+      <text>Strazne</text>
+    </link>
+  </wpt>
+  <wpt lat="50.657265" lon="15.608439">
+    <ele>694</ele>
+    <name>Pod Straznym</name>
+    <link href="https://mapa-turystyczna.pl/node/1294">
+      <text>Pod Straznym</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Strazne - Pod Straznym</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6624256,15.6147641;50.659694701232915,15.61231255;50.6572651,15.6084394">
+    <text>Strazne - Pod Straznym</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6624256" lon="15.6147641">
+      <ele>791</ele>
+      <time>2022-01-17T21:08:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6622269" lon="15.6145371">
+      <ele>791</ele>
+      <time>2022-01-17T21:08:25Z</time>
+    </trkpt>
+    <trkpt lat="50.6620758" lon="15.6145462">
+      <ele>791</ele>
+      <time>2022-01-17T21:08:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6619912" lon="15.6144892">
+      <ele>791</ele>
+      <time>2022-01-17T21:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6617472" lon="15.6143001">
+      <ele>789</ele>
+      <time>2022-01-17T21:09:10Z</time>
+    </trkpt>
+    <trkpt lat="50.6611231" lon="15.6140936">
+      <ele>783</ele>
+      <time>2022-01-17T21:10:07Z</time>
+    </trkpt>
+    <trkpt lat="50.660035" lon="15.612967">
+      <ele>762</ele>
+      <time>2022-01-17T21:12:04Z</time>
+    </trkpt>
+    <trkpt lat="50.6593544" lon="15.6116581">
+      <ele>745</ele>
+      <time>2022-01-17T21:13:40Z</time>
+    </trkpt>
+    <trkpt lat="50.6583202" lon="15.6101346">
+      <ele>725</ele>
+      <time>2022-01-17T21:15:46Z</time>
+    </trkpt>
+    <trkpt lat="50.6579286" lon="15.6093085">
+      <ele>709</ele>
+      <time>2022-01-17T21:16:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6573865" lon="15.608654">
+      <ele>697</ele>
+      <time>2022-01-17T21:17:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6572651" lon="15.6084394">
+      <ele>694</ele>
+      <time>2022-01-17T21:18:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

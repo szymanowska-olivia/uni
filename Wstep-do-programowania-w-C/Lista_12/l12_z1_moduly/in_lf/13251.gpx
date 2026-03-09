@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:19Z</time>
+    <bounds maxlat="50.6347777" maxlon="16.6452432" minlat="50.6338826" minlon="16.6432062"/>
+  </metadata>
+  <wpt lat="50.633883" lon="16.645243">
+    <ele>359</ele>
+    <name>Ostroszowice, odejscie szlaku zielonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9144">
+      <text>Ostroszowice, odejscie szlaku zielonego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.634778" lon="16.643206">
+    <ele>360</ele>
+    <name>Ostroszowice</name>
+    <link href="https://mapa-turystyczna.pl/node/2054">
+      <text>Ostroszowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ostroszowice, odejscie szlaku zielonego - Ostroszowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6338826,16.6452432;50.63437875004216,16.64436304999999;50.6347777,16.6432062">
+    <text>Ostroszowice, odejscie szlaku zielonego - Ostroszowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6338826" lon="16.6452432">
+      <ele>359</ele>
+      <time>2022-01-18T00:04:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6343158" lon="16.6444891">
+      <ele>359</ele>
+      <time>2022-01-18T00:05:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6344417" lon="16.644237">
+      <ele>359</ele>
+      <time>2022-01-18T00:05:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6346254" lon="16.6434753">
+      <ele>360</ele>
+      <time>2022-01-18T00:06:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6346901" lon="16.6433143">
+      <ele>360</ele>
+      <time>2022-01-18T00:07:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6347777" lon="16.6432062">
+      <ele>360</ele>
+      <time>2022-01-18T00:07:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

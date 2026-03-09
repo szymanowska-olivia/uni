@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:36:39Z</time>
+    <bounds maxlat="50.5393346" maxlon="16.2929177" minlat="50.5391402" minlon="16.2925047"/>
+  </metadata>
+  <wpt lat="50.539335" lon="16.292505">
+    <ele>631</ele>
+    <name>Nad Slavnym</name>
+    <link href="https://mapa-turystyczna.pl/node/5779">
+      <text>Nad Slavnym</text>
+    </link>
+  </wpt>
+  <wpt lat="50.53914" lon="16.292918">
+    <ele>633</ele>
+    <name>Nad Slavnym, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5780">
+      <text>Nad Slavnym, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Slavnym - Nad Slavnym, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5393346,16.2925047;50.539236100002356,16.29272930000001;50.5391402,16.2929177">
+    <text>Nad Slavnym - Nad Slavnym, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5393346" lon="16.2925047">
+      <ele>631</ele>
+      <time>2022-01-17T22:36:39Z</time>
+    </trkpt>
+    <trkpt lat="50.539251" lon="16.2926468">
+      <ele>631</ele>
+      <time>2022-01-17T22:37:01Z</time>
+    </trkpt>
+    <trkpt lat="50.5392212" lon="16.2928118">
+      <ele>632</ele>
+      <time>2022-01-17T22:37:20Z</time>
+    </trkpt>
+    <trkpt lat="50.5391402" lon="16.2929177">
+      <ele>633</ele>
+      <time>2022-01-17T22:37:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

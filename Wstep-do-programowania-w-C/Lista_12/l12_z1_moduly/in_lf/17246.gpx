@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:10:16Z</time>
+    <bounds maxlat="49.600943" maxlon="21.361993" minlat="49.600811" minlon="21.361306"/>
+  </metadata>
+  <wpt lat="49.600811" lon="21.361306">
+    <ele>435</ele>
+    <name>Klopotnica, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/489">
+      <text>Klopotnica, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.600907" lon="21.361993">
+    <ele>439</ele>
+    <name>Rozejscie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/11742">
+      <text>Rozejscie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klopotnica, rozejscie szlakow - Rozejscie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.600811,21.361306;49.60093350000093,21.361710500000004;49.600907,21.361993">
+    <text>Klopotnica, rozejscie szlakow - Rozejscie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.600811" lon="21.361306">
+      <ele>435</ele>
+      <time>2022-01-18T01:10:16Z</time>
+    </trkpt>
+    <trkpt lat="49.600924" lon="21.361601">
+      <ele>434</ele>
+      <time>2022-01-18T01:10:43Z</time>
+    </trkpt>
+    <trkpt lat="49.600943" lon="21.36182">
+      <ele>436</ele>
+      <time>2022-01-18T01:11:01Z</time>
+    </trkpt>
+    <trkpt lat="49.600907" lon="21.361993">
+      <ele>439</ele>
+      <time>2022-01-18T01:11:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

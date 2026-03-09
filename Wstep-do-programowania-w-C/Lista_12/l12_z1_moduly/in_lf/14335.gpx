@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:20:44Z</time>
+    <bounds maxlat="50.4305458" maxlon="18.1872661" minlat="50.427311" minlon="18.1859388"/>
+  </metadata>
+  <wpt lat="50.427311" lon="18.185939">
+    <ele>211</ele>
+    <name>Lesnica, ul. Kozielska</name>
+    <link href="https://mapa-turystyczna.pl/node/9799">
+      <text>Lesnica, ul. Kozielska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.430546" lon="18.187266">
+    <ele>225</ele>
+    <name>Lesnica</name>
+    <link href="https://mapa-turystyczna.pl/node/9783">
+      <text>Lesnica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica, ul. Kozielska - Lesnica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.427311,18.1859388;50.42902295024411,18.18666160000002;50.4305458,18.1872661">
+    <text>Lesnica, ul. Kozielska - Lesnica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.427311" lon="18.1859388">
+      <ele>211</ele>
+      <time>2022-01-18T00:20:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4274424" lon="18.1859938">
+      <ele>211</ele>
+      <time>2022-01-18T00:20:56Z</time>
+    </trkpt>
+    <trkpt lat="50.4285291" lon="18.186557">
+      <ele>216</ele>
+      <time>2022-01-18T00:22:38Z</time>
+    </trkpt>
+    <trkpt lat="50.4288709" lon="18.186675">
+      <ele>219</ele>
+      <time>2022-01-18T00:23:09Z</time>
+    </trkpt>
+    <trkpt lat="50.429175" lon="18.1866482">
+      <ele>220</ele>
+      <time>2022-01-18T00:23:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4294279" lon="18.1867233">
+      <ele>223</ele>
+      <time>2022-01-18T00:24:00Z</time>
+    </trkpt>
+    <trkpt lat="50.4299825" lon="18.186954">
+      <ele>224</ele>
+      <time>2022-01-18T00:24:51Z</time>
+    </trkpt>
+    <trkpt lat="50.4305458" lon="18.1872661">
+      <ele>225</ele>
+      <time>2022-01-18T00:25:44Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

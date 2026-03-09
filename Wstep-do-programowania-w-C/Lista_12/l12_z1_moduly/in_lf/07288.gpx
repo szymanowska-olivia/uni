@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:20:46Z</time>
+    <bounds maxlat="52.3630218" maxlon="20.4187239" minlat="52.3628122" minlon="20.4065466"/>
+  </metadata>
+  <wpt lat="52.363022" lon="20.406547">
+    <ele>77</ele>
+    <name>Piaski Krolewskie</name>
+    <link href="https://mapa-turystyczna.pl/node/4960">
+      <text>Piaski Krolewskie</text>
+    </link>
+  </wpt>
+  <wpt lat="52.362812" lon="20.418724">
+    <ele>80</ele>
+    <name>Nowiny, las</name>
+    <link href="https://mapa-turystyczna.pl/node/4949">
+      <text>Nowiny, las</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Piaski Krolewskie - Nowiny, las</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3630218,20.4065466;52.36299180001018,20.410090200000006;52.3628122,20.4187239">
+    <text>Piaski Krolewskie - Nowiny, las</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3630218" lon="20.4065466">
+      <ele>77</ele>
+      <time>2022-01-17T22:20:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3629618" lon="20.4136338">
+      <ele>81</ele>
+      <time>2022-01-17T22:29:29Z</time>
+    </trkpt>
+    <trkpt lat="52.3629028" lon="20.4153611">
+      <ele>75</ele>
+      <time>2022-01-17T22:31:37Z</time>
+    </trkpt>
+    <trkpt lat="52.3628373" lon="20.4157474">
+      <ele>74</ele>
+      <time>2022-01-17T22:32:06Z</time>
+    </trkpt>
+    <trkpt lat="52.3628122" lon="20.4187239">
+      <ele>80</ele>
+      <time>2022-01-17T22:35:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

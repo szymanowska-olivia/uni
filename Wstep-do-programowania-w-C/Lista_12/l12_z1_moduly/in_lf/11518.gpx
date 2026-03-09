@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:52Z</time>
+    <bounds maxlat="50.7826825" maxlon="16.2156915" minlat="50.781866" minlon="16.2082779"/>
+  </metadata>
+  <wpt lat="50.781866" lon="16.215691">
+    <ele>693</ele>
+    <name>Skrzyzowanie szlakow niebieski / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8057">
+      <text>Skrzyzowanie szlakow niebieski / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.78212" lon="16.208278">
+    <ele>743</ele>
+    <name>Skrzyzowanie szlakow zielony / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/8058">
+      <text>Skrzyzowanie szlakow zielony / czarny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow zielony / czarny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.781866,16.2156915;50.78265535000789,16.212485149999985;50.7821204,16.2082779">
+    <text>Skrzyzowanie szlakow niebieski / czarny - Skrzyzowanie szlakow zielony / czarny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.781866" lon="16.2156915">
+      <ele>693</ele>
+      <time>2022-01-17T23:35:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7820719" lon="16.2155107">
+      <ele>689</ele>
+      <time>2022-01-17T23:36:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7823162" lon="16.2149528">
+      <ele>691</ele>
+      <time>2022-01-17T23:37:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7826282" lon="16.213558">
+      <ele>702</ele>
+      <time>2022-01-17T23:40:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7826825" lon="16.2114123">
+      <ele>714</ele>
+      <time>2022-01-17T23:44:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7824518" lon="16.2104252">
+      <ele>732</ele>
+      <time>2022-01-17T23:46:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7823976" lon="16.2093952">
+      <ele>737</ele>
+      <time>2022-01-17T23:48:37Z</time>
+    </trkpt>
+    <trkpt lat="50.7821204" lon="16.2082779">
+      <ele>743</ele>
+      <time>2022-01-17T23:50:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

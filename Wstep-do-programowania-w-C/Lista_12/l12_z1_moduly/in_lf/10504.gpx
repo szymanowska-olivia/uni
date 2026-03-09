@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:11Z</time>
+    <bounds maxlat="49.5595769" maxlon="18.4085691" minlat="49.5589436" minlon="18.406489"/>
+  </metadata>
+  <wpt lat="49.558944" lon="18.406489">
+    <ele>742</ele>
+    <name>U Zbuja, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7475">
+      <text>U Zbuja, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.559577" lon="18.408569">
+    <ele>755</ele>
+    <name>Staskov, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7474">
+      <text>Staskov, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Zbuja, rozc. - Staskov, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5589436,18.406489;49.55928985002095,18.407717500000018;49.5595769,18.4085691">
+    <text>U Zbuja, rozc. - Staskov, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5589436" lon="18.406489">
+      <ele>742</ele>
+      <time>2022-01-17T23:17:11Z</time>
+    </trkpt>
+    <trkpt lat="49.5590437" lon="18.4067345">
+      <ele>745</ele>
+      <time>2022-01-17T23:17:48Z</time>
+    </trkpt>
+    <trkpt lat="49.5591307" lon="18.4070215">
+      <ele>749</ele>
+      <time>2022-01-17T23:18:29Z</time>
+    </trkpt>
+    <trkpt lat="49.5592446" lon="18.4074546">
+      <ele>756</ele>
+      <time>2022-01-17T23:19:29Z</time>
+    </trkpt>
+    <trkpt lat="49.5593351" lon="18.4079804">
+      <ele>758</ele>
+      <time>2022-01-17T23:20:38Z</time>
+    </trkpt>
+    <trkpt lat="49.5594412" lon="18.4083867">
+      <ele>756</ele>
+      <time>2022-01-17T23:21:34Z</time>
+    </trkpt>
+    <trkpt lat="49.5594969" lon="18.4085289">
+      <ele>756</ele>
+      <time>2022-01-17T23:21:55Z</time>
+    </trkpt>
+    <trkpt lat="49.5595769" lon="18.4085691">
+      <ele>755</ele>
+      <time>2022-01-17T23:22:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

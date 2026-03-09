@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:39:58Z</time>
+    <bounds maxlat="49.351752" maxlon="20.145626" minlat="49.351162" minlon="20.144741"/>
+  </metadata>
+  <wpt lat="49.351162" lon="20.145626">
+    <ele>804</ele>
+    <name>Bryjow Potok</name>
+    <link href="https://mapa-turystyczna.pl/node/2938">
+      <text>Bryjow Potok</text>
+    </link>
+  </wpt>
+  <wpt lat="49.351752" lon="20.144741">
+    <ele>798</ele>
+    <name>Szlak Wolnosci, kapliczka</name>
+    <link href="https://mapa-turystyczna.pl/node/2924">
+      <text>Szlak Wolnosci, kapliczka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bryjow Potok - Szlak Wolnosci, kapliczka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.351162,20.145626;49.351457000884544,20.145183499999995;49.351752,20.144741">
+    <text>Bryjow Potok - Szlak Wolnosci, kapliczka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.351162" lon="20.145626">
+      <ele>804</ele>
+      <time>2022-01-17T21:39:58Z</time>
+    </trkpt>
+    <trkpt lat="49.351752" lon="20.144741">
+      <ele>798</ele>
+      <time>2022-01-17T21:40:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

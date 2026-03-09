@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:17Z</time>
+    <bounds maxlat="49.046844" maxlon="19.112286" minlat="49.046529" minlon="19.11201"/>
+  </metadata>
+  <wpt lat="49.046844" lon="19.11201">
+    <ele>1366</ele>
+    <name>Klak, razc. </name>
+    <link href="https://mapa-turystyczna.pl/node/5933">
+      <text>Klak, razc. </text>
+    </link>
+  </wpt>
+  <wpt lat="49.046529" lon="19.112286">
+    <ele>1394</ele>
+    <name>Klak</name>
+    <link href="https://mapa-turystyczna.pl/node/5540">
+      <text>Klak</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Klak, razc.  - Klak</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.046844,19.11201;49.04664750001063,19.112248500000003;49.046529,19.112286">
+    <text>Klak, razc.  - Klak</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.046844" lon="19.11201">
+      <ele>1366</ele>
+      <time>2022-01-17T22:40:17Z</time>
+    </trkpt>
+    <trkpt lat="49.046743" lon="19.112151">
+      <ele>1377</ele>
+      <time>2022-01-17T22:42:09Z</time>
+    </trkpt>
+    <trkpt lat="49.04668" lon="19.112224">
+      <ele>1383</ele>
+      <time>2022-01-17T22:43:14Z</time>
+    </trkpt>
+    <trkpt lat="49.046615" lon="19.112273">
+      <ele>1388</ele>
+      <time>2022-01-17T22:44:11Z</time>
+    </trkpt>
+    <trkpt lat="49.046529" lon="19.112286">
+      <ele>1394</ele>
+      <time>2022-01-17T22:45:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:00Z</time>
+    <bounds maxlat="51.2634735" maxlon="16.7256323" minlat="51.2563489" minlon="16.7093666"/>
+  </metadata>
+  <wpt lat="51.263474" lon="16.725632">
+    <ele>111</ele>
+    <name>Brzeg Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/10051">
+      <text>Brzeg Dolny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.256349" lon="16.710237">
+    <ele>106</ele>
+    <name>Brzeg Dolny, Aleje Jerozolimskie</name>
+    <link href="https://mapa-turystyczna.pl/node/10184">
+      <text>Brzeg Dolny, Aleje Jerozolimskie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzeg Dolny - Brzeg Dolny, Aleje Jerozolimskie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2634735,16.7256323;51.26076380510094,16.715777050000014;51.2563489,16.7102373">
+    <text>Brzeg Dolny - Brzeg Dolny, Aleje Jerozolimskie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2634735" lon="16.7256323">
+      <ele>111</ele>
+      <time>2022-01-18T00:31:00Z</time>
+    </trkpt>
+    <trkpt lat="51.2633687" lon="16.7252185">
+      <ele>113</ele>
+      <time>2022-01-18T00:31:29Z</time>
+    </trkpt>
+    <trkpt lat="51.263315" lon="16.7242636">
+      <ele>116</ele>
+      <time>2022-01-18T00:32:31Z</time>
+    </trkpt>
+    <trkpt lat="51.262026" lon="16.7202617">
+      <ele>112</ele>
+      <time>2022-01-18T00:37:22Z</time>
+    </trkpt>
+    <trkpt lat="51.2613446" lon="16.718116">
+      <ele>108</ele>
+      <time>2022-01-18T00:39:58Z</time>
+    </trkpt>
+    <trkpt lat="51.2614486" lon="16.718014">
+      <ele>109</ele>
+      <time>2022-01-18T00:40:10Z</time>
+    </trkpt>
+    <trkpt lat="51.260079" lon="16.7135401">
+      <ele>104</ele>
+      <time>2022-01-18T00:45:33Z</time>
+    </trkpt>
+    <trkpt lat="51.2600522" lon="16.7124136">
+      <ele>104</ele>
+      <time>2022-01-18T00:46:46Z</time>
+    </trkpt>
+    <trkpt lat="51.2597366" lon="16.7093666">
+      <ele>109</ele>
+      <time>2022-01-18T00:50:05Z</time>
+    </trkpt>
+    <trkpt lat="51.2563489" lon="16.7102373">
+      <ele>106</ele>
+      <time>2022-01-18T00:56:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

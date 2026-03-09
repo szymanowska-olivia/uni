@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:00:49Z</time>
+    <bounds maxlat="52.3819369" maxlon="20.9175113" minlat="52.3776996" minlon="20.9069756"/>
+  </metadata>
+  <wpt lat="52.381937" lon="20.906976">
+    <ele>79</ele>
+    <name>Jablonna, stacja paliw</name>
+    <link href="https://mapa-turystyczna.pl/node/11385">
+      <text>Jablonna, stacja paliw</text>
+    </link>
+  </wpt>
+  <wpt lat="52.3777" lon="20.917511">
+    <ele>78</ele>
+    <name>Jablonna</name>
+    <link href="https://mapa-turystyczna.pl/node/11386">
+      <text>Jablonna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jablonna, stacja paliw - Jablonna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3819369,20.9069756;52.379818300827665,20.912243449999988;52.3776996,20.9175113">
+    <text>Jablonna, stacja paliw - Jablonna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3819369" lon="20.9069756">
+      <ele>79</ele>
+      <time>2022-01-18T01:00:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3776996" lon="20.9175113">
+      <ele>78</ele>
+      <time>2022-01-18T01:15:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

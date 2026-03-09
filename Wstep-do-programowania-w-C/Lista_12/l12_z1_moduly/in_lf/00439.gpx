@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:48:43Z</time>
+    <bounds maxlat="49.2593252" maxlon="22.2327393" minlat="49.2540047" minlon="22.2266132"/>
+  </metadata>
+  <wpt lat="49.259325" lon="22.226613">
+    <ele>992</ele>
+    <name>Jaworne</name>
+    <link href="https://mapa-turystyczna.pl/node/340">
+      <text>Jaworne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.254005" lon="22.232739">
+    <ele>928</ele>
+    <name>Przelecz pod Jawornem</name>
+    <link href="https://mapa-turystyczna.pl/node/375">
+      <text>Przelecz pod Jawornem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworne - Przelecz pod Jawornem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2593252,22.2266132;49.25703355028508,22.230341400000018;49.2540047,22.2327393">
+    <text>Jaworne - Przelecz pod Jawornem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2593252" lon="22.2266132">
+      <ele>992</ele>
+      <time>2022-01-17T20:48:43Z</time>
+    </trkpt>
+    <trkpt lat="49.2583263" lon="22.228024">
+      <ele>973</ele>
+      <time>2022-01-17T20:50:37Z</time>
+    </trkpt>
+    <trkpt lat="49.2579283" lon="22.2284156">
+      <ele>969</ele>
+      <time>2022-01-17T20:51:17Z</time>
+    </trkpt>
+    <trkpt lat="49.2572013" lon="22.2298103">
+      <ele>969</ele>
+      <time>2022-01-17T20:52:54Z</time>
+    </trkpt>
+    <trkpt lat="49.2568658" lon="22.2308725">
+      <ele>971</ele>
+      <time>2022-01-17T20:53:59Z</time>
+    </trkpt>
+    <trkpt lat="49.256502" lon="22.2319186">
+      <ele>962</ele>
+      <time>2022-01-17T20:55:04Z</time>
+    </trkpt>
+    <trkpt lat="49.2561522" lon="22.2322136">
+      <ele>955</ele>
+      <time>2022-01-17T20:55:38Z</time>
+    </trkpt>
+    <trkpt lat="49.2559769" lon="22.2323759">
+      <ele>950</ele>
+      <time>2022-01-17T20:55:55Z</time>
+    </trkpt>
+    <trkpt lat="49.2557245" lon="22.2324952">
+      <ele>945</ele>
+      <time>2022-01-17T20:56:17Z</time>
+    </trkpt>
+    <trkpt lat="49.254581" lon="22.2325395">
+      <ele>931</ele>
+      <time>2022-01-17T20:57:54Z</time>
+    </trkpt>
+    <trkpt lat="49.2540047" lon="22.2327393">
+      <ele>928</ele>
+      <time>2022-01-17T20:58:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

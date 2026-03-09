@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:22Z</time>
+    <bounds maxlat="50.281555" maxlon="17.3942435" minlat="50.269086" minlon="17.3894638"/>
+  </metadata>
+  <wpt lat="50.269086" lon="17.394244">
+    <ele>395</ele>
+    <name>Zlate Hory, u hriste</name>
+    <link href="https://mapa-turystyczna.pl/node/2642">
+      <text>Zlate Hory, u hriste</text>
+    </link>
+  </wpt>
+  <wpt lat="50.281555" lon="17.389464">
+    <ele>394</ele>
+    <name>Konradow, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2645">
+      <text>Konradow, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zlate Hory, u hriste - Konradow, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.269086,17.3942435;50.272285857513,17.393059299999987;50.281555,17.3894638">
+    <text>Zlate Hory, u hriste - Konradow, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.269086" lon="17.3942435">
+      <ele>395</ele>
+      <time>2022-01-17T21:34:22Z</time>
+    </trkpt>
+    <trkpt lat="50.2754855" lon="17.3918751">
+      <ele>390</ele>
+      <time>2022-01-17T21:44:36Z</time>
+    </trkpt>
+    <trkpt lat="50.278678" lon="17.3907338">
+      <ele>387</ele>
+      <time>2022-01-17T21:49:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2802948" lon="17.3900988">
+      <ele>392</ele>
+      <time>2022-01-17T21:52:18Z</time>
+    </trkpt>
+    <trkpt lat="50.281555" lon="17.3894638">
+      <ele>394</ele>
+      <time>2022-01-17T21:54:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

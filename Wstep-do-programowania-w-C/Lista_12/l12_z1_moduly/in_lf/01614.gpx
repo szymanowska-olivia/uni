@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:19Z</time>
+    <bounds maxlat="50.7393453" maxlon="15.4340744" minlat="50.7362962" minlon="15.4335541"/>
+  </metadata>
+  <wpt lat="50.739345" lon="15.434074">
+    <ele>737</ele>
+    <name>Lisci Dira</name>
+    <link href="https://mapa-turystyczna.pl/node/1197">
+      <text>Lisci Dira</text>
+    </link>
+  </wpt>
+  <wpt lat="50.736296" lon="15.433554">
+    <ele>700</ele>
+    <name>Pod Lisci Dirou</name>
+    <link href="https://mapa-turystyczna.pl/node/1280">
+      <text>Pod Lisci Dirou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lisci Dira - Pod Lisci Dirou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7393453,15.4340744;50.73805665354646,15.43384505;50.7362962,15.4335541">
+    <text>Lisci Dira - Pod Lisci Dirou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7393453" lon="15.4340744">
+      <ele>737</ele>
+      <time>2022-01-17T21:03:19Z</time>
+    </trkpt>
+    <trkpt lat="50.7390706" lon="15.4340717">
+      <ele>734</ele>
+      <time>2022-01-17T21:03:46Z</time>
+    </trkpt>
+    <trkpt lat="50.738633" lon="15.4340583">
+      <ele>729</ele>
+      <time>2022-01-17T21:04:28Z</time>
+    </trkpt>
+    <trkpt lat="50.7374803" lon="15.4336318">
+      <ele>710</ele>
+      <time>2022-01-17T21:06:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7370714" lon="15.4335608">
+      <ele>704</ele>
+      <time>2022-01-17T21:07:04Z</time>
+    </trkpt>
+    <trkpt lat="50.7367984" lon="15.4336238">
+      <ele>704</ele>
+      <time>2022-01-17T21:07:30Z</time>
+    </trkpt>
+    <trkpt lat="50.7362962" lon="15.4335541">
+      <ele>700</ele>
+      <time>2022-01-17T21:08:19Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

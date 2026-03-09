@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:04:23Z</time>
+    <bounds maxlat="49.613803" maxlon="19.467398" minlat="49.612882" minlon="19.461036"/>
+  </metadata>
+  <wpt lat="49.612882" lon="19.461036">
+    <ele>1169</ele>
+    <name>Medralowa</name>
+    <link href="https://mapa-turystyczna.pl/node/4120">
+      <text>Medralowa</text>
+    </link>
+  </wpt>
+  <wpt lat="49.613803" lon="19.467398">
+    <ele>1150</ele>
+    <name>Modralova</name>
+    <link href="https://mapa-turystyczna.pl/node/4121">
+      <text>Modralova</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Medralowa - Modralova</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.612882,19.461036;49.61339500000296,19.463933500000028;49.613803,19.467398">
+    <text>Medralowa - Modralova</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.612882" lon="19.461036">
+      <ele>1169</ele>
+      <time>2022-01-17T22:04:23Z</time>
+    </trkpt>
+    <trkpt lat="49.61299" lon="19.461384">
+      <ele>1167</ele>
+      <time>2022-01-17T22:04:41Z</time>
+    </trkpt>
+    <trkpt lat="49.613141" lon="19.462149">
+      <ele>1167</ele>
+      <time>2022-01-17T22:05:17Z</time>
+    </trkpt>
+    <trkpt lat="49.61319" lon="19.462436">
+      <ele>1167</ele>
+      <time>2022-01-17T22:05:30Z</time>
+    </trkpt>
+    <trkpt lat="49.613253" lon="19.462801">
+      <ele>1163</ele>
+      <time>2022-01-17T22:05:48Z</time>
+    </trkpt>
+    <trkpt lat="49.613378" lon="19.463645">
+      <ele>1158</ele>
+      <time>2022-01-17T22:06:27Z</time>
+    </trkpt>
+    <trkpt lat="49.613412" lon="19.464222">
+      <ele>1158</ele>
+      <time>2022-01-17T22:06:53Z</time>
+    </trkpt>
+    <trkpt lat="49.613412" lon="19.4645">
+      <ele>1158</ele>
+      <time>2022-01-17T22:07:06Z</time>
+    </trkpt>
+    <trkpt lat="49.613396" lon="19.465319">
+      <ele>1153</ele>
+      <time>2022-01-17T22:07:43Z</time>
+    </trkpt>
+    <trkpt lat="49.613484" lon="19.466279">
+      <ele>1154</ele>
+      <time>2022-01-17T22:08:27Z</time>
+    </trkpt>
+    <trkpt lat="49.613583" lon="19.466684">
+      <ele>1155</ele>
+      <time>2022-01-17T22:08:47Z</time>
+    </trkpt>
+    <trkpt lat="49.613803" lon="19.467398">
+      <ele>1150</ele>
+      <time>2022-01-17T22:09:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

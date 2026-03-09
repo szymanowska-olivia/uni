@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:33Z</time>
+    <bounds maxlat="50.9112814" maxlon="15.2893765" minlat="50.9110582" minlon="15.2882543"/>
+  </metadata>
+  <wpt lat="50.911152" lon="15.288254">
+    <ele>767</ele>
+    <name>Odejscie na Czerniawska Kope</name>
+    <link href="https://mapa-turystyczna.pl/node/13130">
+      <text>Odejscie na Czerniawska Kope</text>
+    </link>
+  </wpt>
+  <wpt lat="50.911281" lon="15.289376">
+    <ele>768</ele>
+    <name>Czerniawska Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/13131">
+      <text>Czerniawska Kopa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie na Czerniawska Kope - Czerniawska Kopa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9111516,15.2882543;50.911132600009914,15.288834699999994;50.9112814,15.2893765">
+    <text>Odejscie na Czerniawska Kope - Czerniawska Kopa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9111516" lon="15.2882543">
+      <ele>767</ele>
+      <time>2022-01-18T01:48:33Z</time>
+    </trkpt>
+    <trkpt lat="50.9111022" lon="15.2883894">
+      <ele>769</ele>
+      <time>2022-01-18T01:48:48Z</time>
+    </trkpt>
+    <trkpt lat="50.911065" lon="15.2885021">
+      <ele>769</ele>
+      <time>2022-01-18T01:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.9110582" lon="15.2886416">
+      <ele>770</ele>
+      <time>2022-01-18T01:49:13Z</time>
+    </trkpt>
+    <trkpt lat="50.9111022" lon="15.2887703">
+      <ele>770</ele>
+      <time>2022-01-18T01:49:27Z</time>
+    </trkpt>
+    <trkpt lat="50.911163" lon="15.2888991">
+      <ele>770</ele>
+      <time>2022-01-18T01:49:42Z</time>
+    </trkpt>
+    <trkpt lat="50.9112239" lon="15.2889849">
+      <ele>770</ele>
+      <time>2022-01-18T01:49:55Z</time>
+    </trkpt>
+    <trkpt lat="50.9112341" lon="15.2891136">
+      <ele>769</ele>
+      <time>2022-01-18T01:50:07Z</time>
+    </trkpt>
+    <trkpt lat="50.9112544" lon="15.2892665">
+      <ele>768</ele>
+      <time>2022-01-18T01:50:22Z</time>
+    </trkpt>
+    <trkpt lat="50.9112814" lon="15.2893765">
+      <ele>768</ele>
+      <time>2022-01-18T01:50:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:15Z</time>
+    <bounds maxlat="50.730627" maxlon="15.4729794" minlat="50.7302986" minlon="15.47194"/>
+  </metadata>
+  <wpt lat="50.730627" lon="15.47194">
+    <ele>602</ele>
+    <name>Horni Rokytnice</name>
+    <link href="https://mapa-turystyczna.pl/node/1135">
+      <text>Horni Rokytnice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.730299" lon="15.472979">
+    <ele>606</ele>
+    <name>Horni Rokytnice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5817">
+      <text>Horni Rokytnice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Horni Rokytnice - Horni Rokytnice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.730627,15.47194;50.73039960010889,15.472680599999999;50.7302986,15.4729794">
+    <text>Horni Rokytnice - Horni Rokytnice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.730627" lon="15.47194">
+      <ele>602</ele>
+      <time>2022-01-17T22:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7305006" lon="15.4723818">
+      <ele>603</ele>
+      <time>2022-01-17T22:38:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7302986" lon="15.4729794">
+      <ele>606</ele>
+      <time>2022-01-17T22:39:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

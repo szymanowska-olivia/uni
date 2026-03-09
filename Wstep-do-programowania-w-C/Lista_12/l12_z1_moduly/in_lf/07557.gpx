@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:25:24Z</time>
+    <bounds maxlat="49.9670053" maxlon="19.6314419" minlat="49.9657113" minlon="19.6287704"/>
+  </metadata>
+  <wpt lat="49.967005" lon="19.62877">
+    <ele>220</ele>
+    <name>Brzeznica, PKP</name>
+    <link href="https://mapa-turystyczna.pl/node/5154">
+      <text>Brzeznica, PKP</text>
+    </link>
+  </wpt>
+  <wpt lat="49.966115" lon="19.631442">
+    <ele>222</ele>
+    <name>Brzeznica</name>
+    <link href="https://mapa-turystyczna.pl/node/3524">
+      <text>Brzeznica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzeznica, PKP - Brzeznica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9670053,19.6287704;49.96603265107267,19.629321600000008;49.9661151,19.6314419">
+    <text>Brzeznica, PKP - Brzeznica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9670053" lon="19.6287704">
+      <ele>220</ele>
+      <time>2022-01-17T22:25:24Z</time>
+    </trkpt>
+    <trkpt lat="49.9669898" lon="19.6288616">
+      <ele>220</ele>
+      <time>2022-01-17T22:25:31Z</time>
+    </trkpt>
+    <trkpt lat="49.9669361" lon="19.628932">
+      <ele>220</ele>
+      <time>2022-01-17T22:25:38Z</time>
+    </trkpt>
+    <trkpt lat="49.9667375" lon="19.6289809">
+      <ele>220</ele>
+      <time>2022-01-17T22:26:00Z</time>
+    </trkpt>
+    <trkpt lat="49.966354" lon="19.6291647">
+      <ele>220</ele>
+      <time>2022-01-17T22:26:44Z</time>
+    </trkpt>
+    <trkpt lat="49.9657113" lon="19.6294785">
+      <ele>221</ele>
+      <time>2022-01-17T22:27:58Z</time>
+    </trkpt>
+    <trkpt lat="49.9659167" lon="19.6305192">
+      <ele>221</ele>
+      <time>2022-01-17T22:29:15Z</time>
+    </trkpt>
+    <trkpt lat="49.9661151" lon="19.6314419">
+      <ele>222</ele>
+      <time>2022-01-17T22:30:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

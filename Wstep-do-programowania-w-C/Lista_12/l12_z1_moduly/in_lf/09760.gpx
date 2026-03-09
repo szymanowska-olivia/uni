@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:38Z</time>
+    <bounds maxlat="50.097631" maxlon="16.6298193" minlat="50.0966709" minlon="16.62696"/>
+  </metadata>
+  <wpt lat="50.097507" lon="16.62696">
+    <ele>510</ele>
+    <name>Mladkov</name>
+    <link href="https://mapa-turystyczna.pl/node/6854">
+      <text>Mladkov</text>
+    </link>
+  </wpt>
+  <wpt lat="50.096722" lon="16.629819">
+    <ele>503</ele>
+    <name>Ticha Orlice, most pro pesi</name>
+    <link href="https://mapa-turystyczna.pl/node/6855">
+      <text>Ticha Orlice, most pro pesi</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mladkov - Ticha Orlice, most pro pesi</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0975071,16.62696;50.09694100018323,16.628019499999994;50.0967225,16.6298193">
+    <text>Mladkov - Ticha Orlice, most pro pesi</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0975071" lon="16.62696">
+      <ele>510</ele>
+      <time>2022-01-17T23:03:38Z</time>
+    </trkpt>
+    <trkpt lat="50.097631" lon="16.6276467">
+      <ele>510</ele>
+      <time>2022-01-17T23:04:34Z</time>
+    </trkpt>
+    <trkpt lat="50.0973798" lon="16.6278398">
+      <ele>510</ele>
+      <time>2022-01-17T23:05:08Z</time>
+    </trkpt>
+    <trkpt lat="50.0970735" lon="16.6279256">
+      <ele>506</ele>
+      <time>2022-01-17T23:05:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0968085" lon="16.6281134">
+      <ele>503</ele>
+      <time>2022-01-17T23:06:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0966709" lon="16.6289502">
+      <ele>501</ele>
+      <time>2022-01-17T23:07:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0967363" lon="16.6294652">
+      <ele>502</ele>
+      <time>2022-01-17T23:08:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0967225" lon="16.6298193">
+      <ele>503</ele>
+      <time>2022-01-17T23:08:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

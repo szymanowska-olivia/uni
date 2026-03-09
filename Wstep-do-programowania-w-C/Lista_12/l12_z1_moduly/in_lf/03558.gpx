@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:31:43Z</time>
+    <bounds maxlat="49.1469087" maxlon="22.3697501" minlat="49.14548" minlon="22.3662114"/>
+  </metadata>
+  <wpt lat="49.146909" lon="22.366211">
+    <ele>1101</ele>
+    <name>Okraglik</name>
+    <link href="https://mapa-turystyczna.pl/node/359">
+      <text>Okraglik</text>
+    </link>
+  </wpt>
+  <wpt lat="49.14548" lon="22.36975">
+    <ele>1065</ele>
+    <name>Pod Okraglikiem</name>
+    <link href="https://mapa-turystyczna.pl/node/2496">
+      <text>Pod Okraglikiem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Okraglik - Pod Okraglikiem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1469087,22.3662114;49.14634810022977,22.367774299999965;49.14548,22.3697501">
+    <text>Okraglik - Pod Okraglikiem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1469087" lon="22.3662114">
+      <ele>1101</ele>
+      <time>2022-01-17T21:31:43Z</time>
+    </trkpt>
+    <trkpt lat="49.1466951" lon="22.3669195">
+      <ele>1091</ele>
+      <time>2022-01-17T21:32:39Z</time>
+    </trkpt>
+    <trkpt lat="49.146499" lon="22.3674605">
+      <ele>1082</ele>
+      <time>2022-01-17T21:33:25Z</time>
+    </trkpt>
+    <trkpt lat="49.1461972" lon="22.3680881">
+      <ele>1077</ele>
+      <time>2022-01-17T21:34:20Z</time>
+    </trkpt>
+    <trkpt lat="49.14548" lon="22.3697501">
+      <ele>1065</ele>
+      <time>2022-01-17T21:36:43Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

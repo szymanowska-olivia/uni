@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:11:00Z</time>
+    <bounds maxlat="50.130264" maxlon="19.1082479" minlat="50.1297643" minlon="19.1082448"/>
+  </metadata>
+  <wpt lat="50.129764" lon="19.108248">
+    <ele>262</ele>
+    <name>Ledziny</name>
+    <link href="https://mapa-turystyczna.pl/node/9112">
+      <text>Ledziny</text>
+    </link>
+  </wpt>
+  <wpt lat="50.130264" lon="19.108245">
+    <ele>262</ele>
+    <name>Ledziny, ul. Lanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/9419">
+      <text>Ledziny, ul. Lanowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ledziny - Ledziny, ul. Lanowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1297643,19.1082479;50.13001415065224,19.108246349999998;50.130264,19.1082448">
+    <text>Ledziny - Ledziny, ul. Lanowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1297643" lon="19.1082479">
+      <ele>262</ele>
+      <time>2022-01-18T00:11:00Z</time>
+    </trkpt>
+    <trkpt lat="50.130264" lon="19.1082448">
+      <ele>262</ele>
+      <time>2022-01-18T00:12:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

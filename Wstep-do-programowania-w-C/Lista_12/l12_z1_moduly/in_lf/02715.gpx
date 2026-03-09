@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:19:53Z</time>
+    <bounds maxlat="50.2759123" maxlon="16.4542794" minlat="50.2417708" minlon="16.4367163"/>
+  </metadata>
+  <wpt lat="50.275912" lon="16.436716">
+    <ele>959</ele>
+    <name>Pod Homoli</name>
+    <link href="https://mapa-turystyczna.pl/node/1918">
+      <text>Pod Homoli</text>
+    </link>
+  </wpt>
+  <wpt lat="50.241771" lon="16.454279">
+    <ele>1004</ele>
+    <name>Peticesti</name>
+    <link href="https://mapa-turystyczna.pl/node/1920">
+      <text>Peticesti</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Homoli - Peticesti</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2759123,16.4367163;50.26245414289159,16.444315049999982;50.2417708,16.4542794">
+    <text>Pod Homoli - Peticesti</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2759123" lon="16.4367163">
+      <ele>959</ele>
+      <time>2022-01-17T21:19:53Z</time>
+    </trkpt>
+    <trkpt lat="50.2717947" lon="16.4390311">
+      <ele>977</ele>
+      <time>2022-01-17T21:28:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2667406" lon="16.4419252">
+      <ele>1009</ele>
+      <time>2022-01-17T21:38:34Z</time>
+    </trkpt>
+    <trkpt lat="50.2581673" lon="16.4467049">
+      <ele>1010</ele>
+      <time>2022-01-17T21:55:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2536468" lon="16.4457607">
+      <ele>1032</ele>
+      <time>2022-01-17T22:04:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2518357" lon="16.4475203">
+      <ele>1032</ele>
+      <time>2022-01-17T22:08:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2489269" lon="16.45046">
+      <ele>1033</ele>
+      <time>2022-01-17T22:15:25Z</time>
+    </trkpt>
+    <trkpt lat="50.2417708" lon="16.4542794">
+      <ele>1004</ele>
+      <time>2022-01-17T22:29:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

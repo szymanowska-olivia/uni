@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:55:39Z</time>
+    <bounds maxlat="50.863965" maxlon="15.1056022" minlat="50.8638706" minlon="15.104776"/>
+  </metadata>
+  <wpt lat="50.863871" lon="15.104776">
+    <ele>497</ele>
+    <name>Oldrichovske sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/8765">
+      <text>Oldrichovske sedlo</text>
+    </link>
+  </wpt>
+  <wpt lat="50.863894" lon="15.105602">
+    <ele>495</ele>
+    <name>Oldrichovske sedlo, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8766">
+      <text>Oldrichovske sedlo, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Oldrichovske sedlo - Oldrichovske sedlo, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8638706,15.104776;50.86392265001925,15.105169800000015;50.8638943,15.1056022">
+    <text>Oldrichovske sedlo - Oldrichovske sedlo, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8638706" lon="15.104776">
+      <ele>497</ele>
+      <time>2022-01-17T23:55:39Z</time>
+    </trkpt>
+    <trkpt lat="50.8638803" lon="15.1049901">
+      <ele>497</ele>
+      <time>2022-01-17T23:55:54Z</time>
+    </trkpt>
+    <trkpt lat="50.863965" lon="15.1053495">
+      <ele>495</ele>
+      <time>2022-01-17T23:56:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8639514" lon="15.1054944">
+      <ele>494</ele>
+      <time>2022-01-17T23:56:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8638943" lon="15.1056022">
+      <ele>495</ele>
+      <time>2022-01-17T23:56:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:44:13Z</time>
+    <bounds maxlat="50.3940232" maxlon="16.1279243" minlat="50.3932981" minlon="16.1267442"/>
+  </metadata>
+  <wpt lat="50.393298" lon="16.126744">
+    <ele>394</ele>
+    <name>Vaclavice</name>
+    <link href="https://mapa-turystyczna.pl/node/6079">
+      <text>Vaclavice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.394023" lon="16.127924">
+    <ele>401</ele>
+    <name>Vaclavice, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6080">
+      <text>Vaclavice, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vaclavice - Vaclavice, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3932981,16.1267442;50.39373410020729,16.127513949999972;50.3940232,16.1279243">
+    <text>Vaclavice - Vaclavice, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3932981" lon="16.1267442">
+      <ele>394</ele>
+      <time>2022-01-17T22:44:13Z</time>
+    </trkpt>
+    <trkpt lat="50.3935939" lon="16.1273557">
+      <ele>398</ele>
+      <time>2022-01-17T22:45:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3938743" lon="16.1276722">
+      <ele>400</ele>
+      <time>2022-01-17T22:45:48Z</time>
+    </trkpt>
+    <trkpt lat="50.3940232" lon="16.1279243">
+      <ele>401</ele>
+      <time>2022-01-17T22:46:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

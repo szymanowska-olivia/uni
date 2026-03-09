@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:08:56Z</time>
+    <bounds maxlat="50.7065432" maxlon="15.663532" minlat="50.6995418" minlon="15.661264"/>
+  </metadata>
+  <wpt lat="50.706543" lon="15.663084">
+    <ele>1275</ele>
+    <name>U Klinovych bud, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5823">
+      <text>U Klinovych bud, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.699542" lon="15.661264">
+    <ele>1272</ele>
+    <name>Zadni Rennerovky</name>
+    <link href="https://mapa-turystyczna.pl/node/1445">
+      <text>Zadni Rennerovky</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Klinovych bud, rozc. - Zadni Rennerovky</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7065432,15.6630843;50.70314692109413,15.663360349999973;50.6995418,15.661264">
+    <text>U Klinovych bud, rozc. - Zadni Rennerovky</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7065432" lon="15.6630843">
+      <ele>1275</ele>
+      <time>2022-01-17T21:08:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7045534" lon="15.663532">
+      <ele>1305</ele>
+      <time>2022-01-17T21:13:03Z</time>
+    </trkpt>
+    <trkpt lat="50.7017404" lon="15.6631887">
+      <ele>1301</ele>
+      <time>2022-01-17T21:18:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7014517" lon="15.6630546">
+      <ele>1296</ele>
+      <time>2022-01-17T21:19:24Z</time>
+    </trkpt>
+    <trkpt lat="50.7006533" lon="15.6623518">
+      <ele>1283</ele>
+      <time>2022-01-17T21:21:16Z</time>
+    </trkpt>
+    <trkpt lat="50.7002844" lon="15.6619233">
+      <ele>1280</ele>
+      <time>2022-01-17T21:22:12Z</time>
+    </trkpt>
+    <trkpt lat="50.6995418" lon="15.661264">
+      <ele>1272</ele>
+      <time>2022-01-17T21:23:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

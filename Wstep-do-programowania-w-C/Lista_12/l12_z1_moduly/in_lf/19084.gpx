@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:07Z</time>
+    <bounds maxlat="52.1227195" maxlon="21.2504572" minlat="52.1213723" minlon="21.2477473"/>
+  </metadata>
+  <wpt lat="52.12272" lon="21.247747">
+    <ele>95</ele>
+    <name>Otwock, ul. Gorna</name>
+    <link href="https://mapa-turystyczna.pl/node/12915">
+      <text>Otwock, ul. Gorna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.121814" lon="21.250457">
+    <ele>94</ele>
+    <name>Swider, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/11569">
+      <text>Swider, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Gorna - Swider, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1227195,21.2477473;52.12204590509038,21.248414499999996;52.1218138,21.2504572">
+    <text>Otwock, ul. Gorna - Swider, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1227195" lon="21.2477473">
+      <ele>95</ele>
+      <time>2022-01-18T01:42:07Z</time>
+    </trkpt>
+    <trkpt lat="52.1213723" lon="21.2490817">
+      <ele>94</ele>
+      <time>2022-01-18T01:45:12Z</time>
+    </trkpt>
+    <trkpt lat="52.1218335" lon="21.250337">
+      <ele>94</ele>
+      <time>2022-01-18T01:46:58Z</time>
+    </trkpt>
+    <trkpt lat="52.1218138" lon="21.2504572">
+      <ele>94</ele>
+      <time>2022-01-18T01:47:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

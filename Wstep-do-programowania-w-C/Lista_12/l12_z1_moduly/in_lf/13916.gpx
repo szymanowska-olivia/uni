@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:27Z</time>
+    <bounds maxlat="50.1976776" maxlon="18.6497616" minlat="50.189942" minlon="18.6229358"/>
+  </metadata>
+  <wpt lat="50.189942" lon="18.622936">
+    <ele>238</ele>
+    <name>Szczyglowice, Aleja Piastow</name>
+    <link href="https://mapa-turystyczna.pl/node/9532">
+      <text>Szczyglowice, Aleja Piastow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.195294" lon="18.649762">
+    <ele>235</ele>
+    <name>Szczyglowice</name>
+    <link href="https://mapa-turystyczna.pl/node/9533">
+      <text>Szczyglowice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczyglowice, Aleja Piastow - Szczyglowice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.189942,18.6229358;50.194295003782464,18.63716350000001;50.1952943,18.6497616">
+    <text>Szczyglowice, Aleja Piastow - Szczyglowice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.189942" lon="18.6229358">
+      <ele>238</ele>
+      <time>2022-01-18T00:14:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1927736" lon="18.6325769">
+      <ele>230</ele>
+      <time>2022-01-18T00:26:03Z</time>
+    </trkpt>
+    <trkpt lat="50.193694" lon="18.6354415">
+      <ele>228</ele>
+      <time>2022-01-18T00:29:33Z</time>
+    </trkpt>
+    <trkpt lat="50.194896" lon="18.6388855">
+      <ele>227</ele>
+      <time>2022-01-18T00:33:50Z</time>
+    </trkpt>
+    <trkpt lat="50.197451" lon="18.6451189">
+      <ele>235</ele>
+      <time>2022-01-18T00:41:56Z</time>
+    </trkpt>
+    <trkpt lat="50.1976227" lon="18.6457948">
+      <ele>233</ele>
+      <time>2022-01-18T00:42:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1976776" lon="18.6466317">
+      <ele>230</ele>
+      <time>2022-01-18T00:43:38Z</time>
+    </trkpt>
+    <trkpt lat="50.1976776" lon="18.6472647">
+      <ele>229</ele>
+      <time>2022-01-18T00:44:20Z</time>
+    </trkpt>
+    <trkpt lat="50.1975815" lon="18.6478977">
+      <ele>229</ele>
+      <time>2022-01-18T00:45:03Z</time>
+    </trkpt>
+    <trkpt lat="50.1952943" lon="18.6497616">
+      <ele>235</ele>
+      <time>2022-01-18T00:49:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

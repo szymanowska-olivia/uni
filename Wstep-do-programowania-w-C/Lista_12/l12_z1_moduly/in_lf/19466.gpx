@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:55Z</time>
+    <bounds maxlat="50.7675885" maxlon="15.2985798" minlat="50.7669515" minlon="15.2975432"/>
+  </metadata>
+  <wpt lat="50.767422" lon="15.297576">
+    <ele>591</ele>
+    <name>Pod Marianskymi schody, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/13142">
+      <text>Pod Marianskymi schody, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.766951" lon="15.29858">
+    <ele>567</ele>
+    <name>Pod Marianskymi schody</name>
+    <link href="https://mapa-turystyczna.pl/node/13141">
+      <text>Pod Marianskymi schody</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Marianskymi schody, rozc. - Pod Marianskymi schody</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.767422,15.2975764;50.76736120055216,15.297891899999989;50.7669515,15.2985798">
+    <text>Pod Marianskymi schody, rozc. - Pod Marianskymi schody</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.767422" lon="15.2975764">
+      <ele>591</ele>
+      <time>2022-01-18T01:48:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7675885" lon="15.2975432">
+      <ele>590</ele>
+      <time>2022-01-18T01:49:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7671339" lon="15.2982406">
+      <ele>573</ele>
+      <time>2022-01-18T01:50:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7670185" lon="15.2985302">
+      <ele>568</ele>
+      <time>2022-01-18T01:50:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7669515" lon="15.2985798">
+      <ele>567</ele>
+      <time>2022-01-18T01:50:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

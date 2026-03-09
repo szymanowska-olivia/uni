@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:21Z</time>
+    <bounds maxlat="49.583355" maxlon="18.975553" minlat="49.582817" minlon="18.974971"/>
+  </metadata>
+  <wpt lat="49.583355" lon="18.974971">
+    <ele>820</ele>
+    <name>Pietraszonka, odejscie do chatki</name>
+    <link href="https://mapa-turystyczna.pl/node/7077">
+      <text>Pietraszonka, odejscie do chatki</text>
+    </link>
+  </wpt>
+  <wpt lat="49.582817" lon="18.9754">
+    <ele>806</ele>
+    <name>Chatka AKT na Pietraszonce</name>
+    <link href="https://mapa-turystyczna.pl/node/734">
+      <text>Chatka AKT na Pietraszonce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pietraszonka, odejscie do chatki - Chatka AKT na Pietraszonce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.583355,18.974971;49.583173000075796,18.97550299999998;49.582817,18.9754">
+    <text>Pietraszonka, odejscie do chatki - Chatka AKT na Pietraszonce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.583355" lon="18.974971">
+      <ele>820</ele>
+      <time>2022-01-17T23:09:21Z</time>
+    </trkpt>
+    <trkpt lat="49.583344" lon="18.975347">
+      <ele>821</ele>
+      <time>2022-01-17T23:09:55Z</time>
+    </trkpt>
+    <trkpt lat="49.583259" lon="18.975464">
+      <ele>818</ele>
+      <time>2022-01-17T23:10:11Z</time>
+    </trkpt>
+    <trkpt lat="49.583087" lon="18.975542">
+      <ele>814</ele>
+      <time>2022-01-17T23:10:36Z</time>
+    </trkpt>
+    <trkpt lat="49.582913" lon="18.975553">
+      <ele>809</ele>
+      <time>2022-01-17T23:11:01Z</time>
+    </trkpt>
+    <trkpt lat="49.582859" lon="18.975513">
+      <ele>807</ele>
+      <time>2022-01-17T23:11:09Z</time>
+    </trkpt>
+    <trkpt lat="49.582817" lon="18.9754">
+      <ele>806</ele>
+      <time>2022-01-17T23:11:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

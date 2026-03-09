@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:18:59Z</time>
+    <bounds maxlat="50.1960059" maxlon="16.3936293" minlat="50.1850189" minlon="16.3880932"/>
+  </metadata>
+  <wpt lat="50.185019" lon="16.390647">
+    <ele>558</ele>
+    <name>Zadni Ochoz</name>
+    <link href="https://mapa-turystyczna.pl/node/1947">
+      <text>Zadni Ochoz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.196006" lon="16.392851">
+    <ele>617</ele>
+    <name>Nad Belou</name>
+    <link href="https://mapa-turystyczna.pl/node/1939">
+      <text>Nad Belou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zadni Ochoz - Nad Belou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1850189,16.3906467;50.19011046624108,16.38956695;50.1960059,16.3928515">
+    <text>Zadni Ochoz - Nad Belou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1850189" lon="16.3906467">
+      <ele>558</ele>
+      <time>2022-01-17T21:18:59Z</time>
+    </trkpt>
+    <trkpt lat="50.1867844" lon="16.3895631">
+      <ele>566</ele>
+      <time>2022-01-17T21:22:44Z</time>
+    </trkpt>
+    <trkpt lat="50.1874061" lon="16.3889623">
+      <ele>570</ele>
+      <time>2022-01-17T21:24:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1883094" lon="16.3882113">
+      <ele>575</ele>
+      <time>2022-01-17T21:26:13Z</time>
+    </trkpt>
+    <trkpt lat="50.1886014" lon="16.3880932">
+      <ele>576</ele>
+      <time>2022-01-17T21:26:49Z</time>
+    </trkpt>
+    <trkpt lat="50.188865" lon="16.3882351">
+      <ele>577</ele>
+      <time>2022-01-17T21:27:22Z</time>
+    </trkpt>
+    <trkpt lat="50.1913559" lon="16.3908988">
+      <ele>603</ele>
+      <time>2022-01-17T21:33:21Z</time>
+    </trkpt>
+    <trkpt lat="50.1919019" lon="16.3916874">
+      <ele>607</ele>
+      <time>2022-01-17T21:34:49Z</time>
+    </trkpt>
+    <trkpt lat="50.1928292" lon="16.3931572">
+      <ele>614</ele>
+      <time>2022-01-17T21:37:26Z</time>
+    </trkpt>
+    <trkpt lat="50.1936363" lon="16.3936239">
+      <ele>614</ele>
+      <time>2022-01-17T21:39:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1944364" lon="16.3936293">
+      <ele>611</ele>
+      <time>2022-01-17T21:40:43Z</time>
+    </trkpt>
+    <trkpt lat="50.1960059" lon="16.3928515">
+      <ele>617</ele>
+      <time>2022-01-17T21:43:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

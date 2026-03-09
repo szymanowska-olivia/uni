@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:03:28Z</time>
+    <bounds maxlat="52.2477371" maxlon="21.2758907" minlat="52.2458781" minlon="21.2742599"/>
+  </metadata>
+  <wpt lat="52.245878" lon="21.27426">
+    <ele>102</ele>
+    <name>Sulejowek</name>
+    <link href="https://mapa-turystyczna.pl/node/11504">
+      <text>Sulejowek</text>
+    </link>
+  </wpt>
+  <wpt lat="52.247737" lon="21.275891">
+    <ele>102</ele>
+    <name>Sulejowek, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/11503">
+      <text>Sulejowek, dworzec kolejowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sulejowek - Sulejowek, dworzec kolejowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2458781,21.2742599;52.24680760973635,21.275075300000005;52.2477371,21.2758907">
+    <text>Sulejowek - Sulejowek, dworzec kolejowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2458781" lon="21.2742599">
+      <ele>102</ele>
+      <time>2022-01-18T01:03:28Z</time>
+    </trkpt>
+    <trkpt lat="52.2477371" lon="21.2758907">
+      <ele>102</ele>
+      <time>2022-01-18T01:08:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

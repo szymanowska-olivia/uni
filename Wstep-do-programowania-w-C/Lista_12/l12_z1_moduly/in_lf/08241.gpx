@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:16Z</time>
+    <bounds maxlat="50.6667556" maxlon="16.0697901" minlat="50.6661719" minlon="16.0686751"/>
+  </metadata>
+  <wpt lat="50.666172" lon="16.06979">
+    <ele>509</ele>
+    <name>Chelmsko Slaskie</name>
+    <link href="https://mapa-turystyczna.pl/node/2377">
+      <text>Chelmsko Slaskie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.666756" lon="16.068675">
+    <ele>508</ele>
+    <name>Chelmsko Slaskie, ul. Lubawska</name>
+    <link href="https://mapa-turystyczna.pl/node/5730">
+      <text>Chelmsko Slaskie, ul. Lubawska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmsko Slaskie - Chelmsko Slaskie, ul. Lubawska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6661719,16.0697901;50.66641260002901,16.068951100000024;50.6667556,16.0686751">
+    <text>Chelmsko Slaskie - Chelmsko Slaskie, ul. Lubawska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6661719" lon="16.0697901">
+      <ele>509</ele>
+      <time>2022-01-17T22:35:16Z</time>
+    </trkpt>
+    <trkpt lat="50.6663604" lon="16.0690867">
+      <ele>508</ele>
+      <time>2022-01-17T22:36:14Z</time>
+    </trkpt>
+    <trkpt lat="50.6664648" lon="16.0688155">
+      <ele>508</ele>
+      <time>2022-01-17T22:36:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6665647" lon="16.0687067">
+      <ele>508</ele>
+      <time>2022-01-17T22:36:53Z</time>
+    </trkpt>
+    <trkpt lat="50.6667556" lon="16.0686751">
+      <ele>508</ele>
+      <time>2022-01-17T22:37:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

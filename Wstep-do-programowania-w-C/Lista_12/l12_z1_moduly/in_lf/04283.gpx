@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:40:20Z</time>
+    <bounds maxlat="50.8519183" maxlon="15.8676481" minlat="50.8505941" minlon="15.8654594"/>
+  </metadata>
+  <wpt lat="50.850594" lon="15.865459">
+    <ele>399</ele>
+    <name>Karpniki, kosciol</name>
+    <link href="https://mapa-turystyczna.pl/node/2982">
+      <text>Karpniki, kosciol</text>
+    </link>
+  </wpt>
+  <wpt lat="50.851918" lon="15.867648">
+    <ele>393</ele>
+    <name>Karpniki, ul. Turystyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/2983">
+      <text>Karpniki, ul. Turystyczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karpniki, kosciol - Karpniki, ul. Turystyczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8505941,15.8654594;50.85085060070524,15.866187049999994;50.8519183,15.8676481">
+    <text>Karpniki, kosciol - Karpniki, ul. Turystyczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8505941" lon="15.8654594">
+      <ele>399</ele>
+      <time>2022-01-17T21:40:20Z</time>
+    </trkpt>
+    <trkpt lat="50.8511071" lon="15.8669147">
+      <ele>400</ele>
+      <time>2022-01-17T21:41:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8512053" lon="15.8671453">
+      <ele>399</ele>
+      <time>2022-01-17T21:42:09Z</time>
+    </trkpt>
+    <trkpt lat="50.851285" lon="15.8672673">
+      <ele>399</ele>
+      <time>2022-01-17T21:42:19Z</time>
+    </trkpt>
+    <trkpt lat="50.8513712" lon="15.8673385">
+      <ele>398</ele>
+      <time>2022-01-17T21:42:28Z</time>
+    </trkpt>
+    <trkpt lat="50.8519183" lon="15.8676481">
+      <ele>393</ele>
+      <time>2022-01-17T21:43:20Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

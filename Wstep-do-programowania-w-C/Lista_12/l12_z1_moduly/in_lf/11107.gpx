@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:28:35Z</time>
+    <bounds maxlat="50.5891214" maxlon="16.4216334" minlat="50.5883211" minlon="16.4207621"/>
+  </metadata>
+  <wpt lat="50.589121" lon="16.420762">
+    <ele>518</ele>
+    <name>Mala Homole, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2425">
+      <text>Mala Homole, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.588321" lon="16.421633">
+    <ele>529</ele>
+    <name>Vyhlidka pod Malou Homoli</name>
+    <link href="https://mapa-turystyczna.pl/node/7825">
+      <text>Vyhlidka pod Malou Homoli</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Homole, rozc. - Vyhlidka pod Malou Homoli</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5891214,16.4207621;50.588713500345996,16.421174550000035;50.5883211,16.4216334">
+    <text>Mala Homole, rozc. - Vyhlidka pod Malou Homoli</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5891214" lon="16.4207621">
+      <ele>518</ele>
+      <time>2022-01-17T23:28:35Z</time>
+    </trkpt>
+    <trkpt lat="50.588894" lon="16.4210458">
+      <ele>525</ele>
+      <time>2022-01-17T23:29:29Z</time>
+    </trkpt>
+    <trkpt lat="50.588533" lon="16.4213033">
+      <ele>526</ele>
+      <time>2022-01-17T23:30:41Z</time>
+    </trkpt>
+    <trkpt lat="50.5883211" lon="16.4216334">
+      <ele>529</ele>
+      <time>2022-01-17T23:31:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

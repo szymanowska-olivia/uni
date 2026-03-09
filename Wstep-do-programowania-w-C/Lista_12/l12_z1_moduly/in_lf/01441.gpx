@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:00:29Z</time>
+    <bounds maxlat="50.6616346" maxlon="15.8980108" minlat="50.6600259" minlon="15.8948672"/>
+  </metadata>
+  <wpt lat="50.660026" lon="15.894867">
+    <ele>782</ele>
+    <name>Bily kriz</name>
+    <link href="https://mapa-turystyczna.pl/node/1087">
+      <text>Bily kriz</text>
+    </link>
+  </wpt>
+  <wpt lat="50.661635" lon="15.898011">
+    <ele>765</ele>
+    <name>Nad Porcelankou</name>
+    <link href="https://mapa-turystyczna.pl/node/1237">
+      <text>Nad Porcelankou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Bily kriz - Nad Porcelankou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6600259,15.8948672;50.66060865361569,15.89624585000002;50.6616346,15.8980108">
+    <text>Bily kriz - Nad Porcelankou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6600259" lon="15.8948672">
+      <ele>782</ele>
+      <time>2022-01-17T21:00:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6611914" lon="15.8976245">
+      <ele>765</ele>
+      <time>2022-01-17T21:04:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6616346" lon="15.8980108">
+      <ele>765</ele>
+      <time>2022-01-17T21:05:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:17:54Z</time>
+    <bounds maxlat="50.2703839" maxlon="18.7739423" minlat="50.2673705" minlon="18.7676679"/>
+  </metadata>
+  <wpt lat="50.270384" lon="18.773942">
+    <ele>236</ele>
+    <name>Zabrze, Makoszowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9595">
+      <text>Zabrze, Makoszowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.26737" lon="18.767668">
+    <ele>230</ele>
+    <name>Zabrze, Wymyslow</name>
+    <link href="https://mapa-turystyczna.pl/node/9678">
+      <text>Zabrze, Wymyslow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zabrze, Makoszowy - Zabrze, Wymyslow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2703839,18.7739423;50.26872565034684,18.771183049999987;50.2673705,18.7676679">
+    <text>Zabrze, Makoszowy - Zabrze, Wymyslow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2703839" lon="18.7739423">
+      <ele>236</ele>
+      <time>2022-01-18T00:17:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2702926" lon="18.7737901">
+      <ele>236</ele>
+      <time>2022-01-18T00:18:10Z</time>
+    </trkpt>
+    <trkpt lat="50.2692297" lon="18.7722452">
+      <ele>230</ele>
+      <time>2022-01-18T00:21:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2689074" lon="18.7716551">
+      <ele>230</ele>
+      <time>2022-01-18T00:22:00Z</time>
+    </trkpt>
+    <trkpt lat="50.2685439" lon="18.770711">
+      <ele>228</ele>
+      <time>2022-01-18T00:23:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2681188" lon="18.7692411">
+      <ele>230</ele>
+      <time>2022-01-18T00:25:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2678513" lon="18.7686081">
+      <ele>229</ele>
+      <time>2022-01-18T00:26:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2673705" lon="18.7676679">
+      <ele>230</ele>
+      <time>2022-01-18T00:27:54Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

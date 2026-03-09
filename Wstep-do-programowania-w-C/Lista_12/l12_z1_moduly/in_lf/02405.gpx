@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:15:58Z</time>
+    <bounds maxlat="50.252803" maxlon="16.7454386" minlat="50.2492562" minlon="16.7326498"/>
+  </metadata>
+  <wpt lat="50.249256" lon="16.745439">
+    <ele>577</ele>
+    <name>Marianowka</name>
+    <link href="https://mapa-turystyczna.pl/node/1753">
+      <text>Marianowka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.252803" lon="16.73265">
+    <ele>503</ele>
+    <name>Plawny Dol</name>
+    <link href="https://mapa-turystyczna.pl/node/1756">
+      <text>Plawny Dol</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Marianowka - Plawny Dol</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2492562,16.7454386;50.25145865002779,16.73956215000002;50.252803,16.7326498">
+    <text>Marianowka - Plawny Dol</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2492562" lon="16.7454386">
+      <ele>577</ele>
+      <time>2022-01-17T21:15:58Z</time>
+    </trkpt>
+    <trkpt lat="50.2496167" lon="16.7450338">
+      <ele>564</ele>
+      <time>2022-01-17T21:16:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2496921" lon="16.7445403">
+      <ele>561</ele>
+      <time>2022-01-17T21:17:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2500351" lon="16.7435425">
+      <ele>546</ele>
+      <time>2022-01-17T21:18:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2502478" lon="16.7429846">
+      <ele>541</ele>
+      <time>2022-01-17T21:19:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2505908" lon="16.7425555">
+      <ele>538</ele>
+      <time>2022-01-17T21:19:52Z</time>
+    </trkpt>
+    <trkpt lat="50.2509954" lon="16.7417533">
+      <ele>532</ele>
+      <time>2022-01-17T21:20:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2511808" lon="16.7409891">
+      <ele>529</ele>
+      <time>2022-01-17T21:21:48Z</time>
+    </trkpt>
+    <trkpt lat="50.2514072" lon="16.7399269">
+      <ele>524</ele>
+      <time>2022-01-17T21:22:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2515101" lon="16.7391974">
+      <ele>521</ele>
+      <time>2022-01-17T21:23:46Z</time>
+    </trkpt>
+    <trkpt lat="50.2519867" lon="16.7374456">
+      <ele>517</ele>
+      <time>2022-01-17T21:25:46Z</time>
+    </trkpt>
+    <trkpt lat="50.252803" lon="16.7326498">
+      <ele>503</ele>
+      <time>2022-01-17T21:30:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

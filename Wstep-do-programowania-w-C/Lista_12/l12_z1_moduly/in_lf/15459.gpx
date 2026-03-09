@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:39:46Z</time>
+    <bounds maxlat="51.4979391" maxlon="17.3373559" minlat="51.4973207" minlon="17.3365874"/>
+  </metadata>
+  <wpt lat="51.497939" lon="17.336592">
+    <ele>163</ele>
+    <name>Wabnice</name>
+    <link href="https://mapa-turystyczna.pl/node/10497">
+      <text>Wabnice</text>
+    </link>
+  </wpt>
+  <wpt lat="51.497321" lon="17.337356">
+    <ele>164</ele>
+    <name>Wierzchowice, szlak niebieski</name>
+    <link href="https://mapa-turystyczna.pl/node/10561">
+      <text>Wierzchowice, szlak niebieski</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wabnice - Wierzchowice, szlak niebieski</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4979391,17.3365918;51.4974714502493,17.336971650000002;51.4973207,17.3373559">
+    <text>Wabnice - Wierzchowice, szlak niebieski</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4979391" lon="17.3365918">
+      <ele>163</ele>
+      <time>2022-01-18T00:39:46Z</time>
+    </trkpt>
+    <trkpt lat="51.4979327" lon="17.3366733">
+      <ele>162</ele>
+      <time>2022-01-18T00:39:53Z</time>
+    </trkpt>
+    <trkpt lat="51.4977123" lon="17.3366411">
+      <ele>163</ele>
+      <time>2022-01-18T00:40:21Z</time>
+    </trkpt>
+    <trkpt lat="51.4976222" lon="17.3365874">
+      <ele>164</ele>
+      <time>2022-01-18T00:40:33Z</time>
+    </trkpt>
+    <trkpt lat="51.4973207" lon="17.3373559">
+      <ele>164</ele>
+      <time>2022-01-18T00:41:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

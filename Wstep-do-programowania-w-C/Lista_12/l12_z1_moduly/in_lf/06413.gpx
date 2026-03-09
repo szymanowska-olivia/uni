@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:06:45Z</time>
+    <bounds maxlat="50.5831276" maxlon="19.5336378" minlat="50.5815063" minlon="19.5319587"/>
+  </metadata>
+  <wpt lat="50.581506" lon="19.533638">
+    <ele>351</ele>
+    <name>Skaly Kroczyckie, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/4475">
+      <text>Skaly Kroczyckie, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.583128" lon="19.531959">
+    <ele>344</ele>
+    <name>Skaly Kroczyckie, odejscie szlaku czerwonego</name>
+    <link href="https://mapa-turystyczna.pl/node/4477">
+      <text>Skaly Kroczyckie, odejscie szlaku czerwonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skaly Kroczyckie, odejscie szlaku zoltego - Skaly Kroczyckie, odejscie szlaku czerwonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5815063,19.5336378;50.58224075080557,19.53267154999999;50.5831276,19.5319587">
+    <text>Skaly Kroczyckie, odejscie szlaku zoltego - Skaly Kroczyckie, odejscie szlaku czerwonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5815063" lon="19.5336378">
+      <ele>351</ele>
+      <time>2022-01-17T22:06:45Z</time>
+    </trkpt>
+    <trkpt lat="50.5819653" lon="19.5330384">
+      <ele>351</ele>
+      <time>2022-01-17T22:07:40Z</time>
+    </trkpt>
+    <trkpt lat="50.5825162" lon="19.5323047">
+      <ele>347</ele>
+      <time>2022-01-17T22:08:46Z</time>
+    </trkpt>
+    <trkpt lat="50.5831276" lon="19.5319587">
+      <ele>344</ele>
+      <time>2022-01-17T22:09:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

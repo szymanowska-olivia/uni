@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:14:24Z</time>
+    <bounds maxlat="50.3500058" maxlon="19.0950322" minlat="50.349534" minlon="19.0907541"/>
+  </metadata>
+  <wpt lat="50.349945" lon="19.090754">
+    <ele>312</ele>
+    <name>Grodziec, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9526">
+      <text>Grodziec, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.349534" lon="19.095032">
+    <ele>338</ele>
+    <name>Grodziec, ul. Chopina</name>
+    <link href="https://mapa-turystyczna.pl/node/9527">
+      <text>Grodziec, ul. Chopina</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodziec, ul. Wojska Polskiego - Grodziec, ul. Chopina</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3499447,19.0907541;50.34985520023883,19.09248250000001;50.349534,19.0950322">
+    <text>Grodziec, ul. Wojska Polskiego - Grodziec, ul. Chopina</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3499447" lon="19.0907541">
+      <ele>312</ele>
+      <time>2022-01-18T00:14:24Z</time>
+    </trkpt>
+    <trkpt lat="50.3500058" lon="19.0909295">
+      <ele>314</ele>
+      <time>2022-01-18T00:14:38Z</time>
+    </trkpt>
+    <trkpt lat="50.3497046" lon="19.0940355">
+      <ele>332</ele>
+      <time>2022-01-18T00:18:12Z</time>
+    </trkpt>
+    <trkpt lat="50.3495471" lon="19.0945666">
+      <ele>333</ele>
+      <time>2022-01-18T00:18:52Z</time>
+    </trkpt>
+    <trkpt lat="50.349534" lon="19.0950322">
+      <ele>338</ele>
+      <time>2022-01-18T00:19:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:52:08Z</time>
+    <bounds maxlat="50.2236424" maxlon="17.6084125" minlat="50.2222043" minlon="17.603091"/>
+  </metadata>
+  <wpt lat="50.222204" lon="17.603091">
+    <ele>352</ele>
+    <name>Liptan</name>
+    <link href="https://mapa-turystyczna.pl/node/6383">
+      <text>Liptan</text>
+    </link>
+  </wpt>
+  <wpt lat="50.223642" lon="17.608413">
+    <ele>341</ele>
+    <name>Liptan, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6384">
+      <text>Liptan, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Liptan - Liptan, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2222043,17.603091;50.22240335002421,17.605108050000013;50.2236424,17.6084125">
+    <text>Liptan - Liptan, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2222043" lon="17.603091">
+      <ele>352</ele>
+      <time>2022-01-17T22:52:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2222592" lon="17.6034665">
+      <ele>350</ele>
+      <time>2022-01-17T22:52:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2223553" lon="17.6036704">
+      <ele>350</ele>
+      <time>2022-01-17T22:52:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2224514" lon="17.6065457">
+      <ele>343</ele>
+      <time>2022-01-17T22:54:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2231722" lon="17.6071036">
+      <ele>344</ele>
+      <time>2022-01-17T22:55:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2235017" lon="17.6075757">
+      <ele>343</ele>
+      <time>2022-01-17T22:56:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2235875" lon="17.6082516">
+      <ele>341</ele>
+      <time>2022-01-17T22:56:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2236424" lon="17.6084125">
+      <ele>341</ele>
+      <time>2022-01-17T22:57:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

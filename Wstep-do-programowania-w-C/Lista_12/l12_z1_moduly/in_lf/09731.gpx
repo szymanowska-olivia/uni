@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:03:05Z</time>
+    <bounds maxlat="50.1259388" maxlon="17.1545344" minlat="50.1245299" minlon="17.1530646"/>
+  </metadata>
+  <wpt lat="50.125827" lon="17.153065">
+    <ele>1014</ele>
+    <name>Cervenohorske sedlo, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6831">
+      <text>Cervenohorske sedlo, bus</text>
+    </link>
+  </wpt>
+  <wpt lat="50.12453" lon="17.154534">
+    <ele>1008</ele>
+    <name>Cervenohorske sedlo, lavka, bus Jesenik</name>
+    <link href="https://mapa-turystyczna.pl/node/6833">
+      <text>Cervenohorske sedlo, lavka, bus Jesenik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cervenohorske sedlo, bus - Cervenohorske sedlo, lavka, bus Jesenik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1258265,17.1530646;50.12562020017495,17.154268050000024;50.1245299,17.1545344">
+    <text>Cervenohorske sedlo, bus - Cervenohorske sedlo, lavka, bus Jesenik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1258265" lon="17.1530646">
+      <ele>1014</ele>
+      <time>2022-01-17T23:03:05Z</time>
+    </trkpt>
+    <trkpt lat="50.1259216" lon="17.153349">
+      <ele>1013</ele>
+      <time>2022-01-17T23:03:23Z</time>
+    </trkpt>
+    <trkpt lat="50.1259388" lon="17.1535422">
+      <ele>1012</ele>
+      <time>2022-01-17T23:03:34Z</time>
+    </trkpt>
+    <trkpt lat="50.1257496" lon="17.1541161">
+      <ele>1011</ele>
+      <time>2022-01-17T23:04:11Z</time>
+    </trkpt>
+    <trkpt lat="50.1254908" lon="17.15442">
+      <ele>1010</ele>
+      <time>2022-01-17T23:04:39Z</time>
+    </trkpt>
+    <trkpt lat="50.1252528" lon="17.154492">
+      <ele>1009</ele>
+      <time>2022-01-17T23:05:01Z</time>
+    </trkpt>
+    <trkpt lat="50.1249543" lon="17.1544521">
+      <ele>1009</ele>
+      <time>2022-01-17T23:05:27Z</time>
+    </trkpt>
+    <trkpt lat="50.1245299" lon="17.1545344">
+      <ele>1008</ele>
+      <time>2022-01-17T23:06:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

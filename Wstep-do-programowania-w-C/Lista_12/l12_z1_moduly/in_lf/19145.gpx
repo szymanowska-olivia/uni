@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:02Z</time>
+    <bounds maxlat="52.1102421" maxlon="21.2709528" minlat="52.1094177" minlon="21.2686937"/>
+  </metadata>
+  <wpt lat="52.110242" lon="21.268694">
+    <ele>99</ele>
+    <name>Otwock, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/12928">
+      <text>Otwock, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.110011" lon="21.270953">
+    <ele>99</ele>
+    <name>Otwock, ul. Kopernika</name>
+    <link href="https://mapa-turystyczna.pl/node/12929">
+      <text>Otwock, ul. Kopernika</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Kosciuszki - Otwock, ul. Kopernika</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1102421,21.2686937;52.10971420098584,21.270224649999978;52.1100107,21.2709528">
+    <text>Otwock, ul. Kosciuszki - Otwock, ul. Kopernika</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1102421" lon="21.2686937">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1094177" lon="21.2694965">
+      <ele>99</ele>
+      <time>2022-01-18T01:44:27Z</time>
+    </trkpt>
+    <trkpt lat="52.1100107" lon="21.2709528">
+      <ele>99</ele>
+      <time>2022-01-18T01:46:02Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

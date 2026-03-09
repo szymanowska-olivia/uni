@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:32:51Z</time>
+    <bounds maxlat="50.7117528" maxlon="16.2337052" minlat="50.7109858" minlon="16.2317176"/>
+  </metadata>
+  <wpt lat="50.711753" lon="16.233705">
+    <ele>563</ele>
+    <name>Unislaw Slaski</name>
+    <link href="https://mapa-turystyczna.pl/node/2328">
+      <text>Unislaw Slaski</text>
+    </link>
+  </wpt>
+  <wpt lat="50.710986" lon="16.231718">
+    <ele>564</ele>
+    <name>Unislaw Slaski, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2527">
+      <text>Unislaw Slaski, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Unislaw Slaski - Unislaw Slaski, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7117528,16.2337052;50.711245350718535,16.23222059999997;50.7109858,16.2317176">
+    <text>Unislaw Slaski - Unislaw Slaski, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7117528" lon="16.2337052">
+      <ele>563</ele>
+      <time>2022-01-17T21:32:51Z</time>
+    </trkpt>
+    <trkpt lat="50.7115049" lon="16.2327236">
+      <ele>563</ele>
+      <time>2022-01-17T21:34:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7109858" lon="16.2317176">
+      <ele>564</ele>
+      <time>2022-01-17T21:35:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

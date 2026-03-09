@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:28:53Z</time>
+    <bounds maxlat="52.288881" maxlon="20.4479212" minlat="52.2874563" minlon="20.4470916"/>
+  </metadata>
+  <wpt lat="52.288881" lon="20.447921">
+    <ele>80</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12422">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.287456" lon="20.447423">
+    <ele>74</ele>
+    <name>Granica</name>
+    <link href="https://mapa-turystyczna.pl/node/4966">
+      <text>Granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.288881,20.4479212;52.288032251443646,20.4473152;52.2874563,20.4474235">
+    <text>Odejscie sciezki dydaktycznej - Granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.288881" lon="20.4479212">
+      <ele>80</ele>
+      <time>2022-01-18T01:28:53Z</time>
+    </trkpt>
+    <trkpt lat="52.2883899" lon="20.4475388">
+      <ele>80</ele>
+      <time>2022-01-18T01:29:52Z</time>
+    </trkpt>
+    <trkpt lat="52.2876746" lon="20.4470916">
+      <ele>75</ele>
+      <time>2022-01-18T01:31:15Z</time>
+    </trkpt>
+    <trkpt lat="52.2875843" lon="20.4471177">
+      <ele>75</ele>
+      <time>2022-01-18T01:31:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2874909" lon="20.4471559">
+      <ele>74</ele>
+      <time>2022-01-18T01:31:35Z</time>
+    </trkpt>
+    <trkpt lat="52.2874563" lon="20.4474235">
+      <ele>74</ele>
+      <time>2022-01-18T01:31:53Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

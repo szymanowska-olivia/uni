@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:30:00Z</time>
+    <bounds maxlat="50.0719258" maxlon="16.9304237" minlat="50.0680392" minlon="16.9299249"/>
+  </metadata>
+  <wpt lat="50.071926" lon="16.930329">
+    <ele>394</ele>
+    <name>Hanusovice, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/7779">
+      <text>Hanusovice, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.068039" lon="16.930424">
+    <ele>392</ele>
+    <name>Hanusovice, u pivovaru</name>
+    <link href="https://mapa-turystyczna.pl/node/7881">
+      <text>Hanusovice, u pivovaru</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Hanusovice, zeleznicni stanice - Hanusovice, u pivovaru</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0719258,16.9303291;50.07037840265259,16.929948999999976;50.0680392,16.9304237">
+    <text>Hanusovice, zeleznicni stanice - Hanusovice, u pivovaru</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0719258" lon="16.9303291">
+      <ele>394</ele>
+      <time>2022-01-17T23:30:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0711376" lon="16.9301126">
+      <ele>390</ele>
+      <time>2022-01-17T23:31:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0708828" lon="16.9299731">
+      <ele>389</ele>
+      <time>2022-01-17T23:31:20Z</time>
+    </trkpt>
+    <trkpt lat="50.069874" lon="16.9299249">
+      <ele>391</ele>
+      <time>2022-01-17T23:32:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0691681" lon="16.9299302">
+      <ele>393</ele>
+      <time>2022-01-17T23:33:27Z</time>
+    </trkpt>
+    <trkpt lat="50.0689202" lon="16.9300268">
+      <ele>391</ele>
+      <time>2022-01-17T23:33:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0686727" lon="16.9300161">
+      <ele>389</ele>
+      <time>2022-01-17T23:34:05Z</time>
+    </trkpt>
+    <trkpt lat="50.068652" lon="16.9301823">
+      <ele>389</ele>
+      <time>2022-01-17T23:34:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0680392" lon="16.9304237">
+      <ele>392</ele>
+      <time>2022-01-17T23:35:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

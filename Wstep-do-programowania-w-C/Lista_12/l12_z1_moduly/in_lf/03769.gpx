@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:34:13Z</time>
+    <bounds maxlat="50.2519215" maxlon="17.440871" minlat="50.2516368" minlon="17.4394763"/>
+  </metadata>
+  <wpt lat="50.251637" lon="17.439476">
+    <ele>724</ele>
+    <name>Przelecz pod Kopa</name>
+    <link href="https://mapa-turystyczna.pl/node/2635">
+      <text>Przelecz pod Kopa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.251922" lon="17.440871">
+    <ele>718</ele>
+    <name>Przelecz pod Kopa, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/2636">
+      <text>Przelecz pod Kopa, skrzyzowanie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz pod Kopa - Przelecz pod Kopa, skrzyzowanie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2516368,17.4394763;50.251714000062535,17.439934949999998;50.2519215,17.440871">
+    <text>Przelecz pod Kopa - Przelecz pod Kopa, skrzyzowanie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2516368" lon="17.4394763">
+      <ele>724</ele>
+      <time>2022-01-17T21:34:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2517912" lon="17.4403936">
+      <ele>720</ele>
+      <time>2022-01-17T21:35:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2519215" lon="17.440871">
+      <ele>718</ele>
+      <time>2022-01-17T21:36:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

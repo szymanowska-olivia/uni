@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:25Z</time>
+    <bounds maxlat="54.0738134" maxlon="15.2624176" minlat="54.0651525" minlon="15.2569902"/>
+  </metadata>
+  <wpt lat="54.065153" lon="15.262418">
+    <ele>4</ele>
+    <name>Trzebiatow, ul. Polwiejska</name>
+    <link href="https://mapa-turystyczna.pl/node/12582">
+      <text>Trzebiatow, ul. Polwiejska</text>
+    </link>
+  </wpt>
+  <wpt lat="54.073813" lon="15.25699">
+    <ele>6</ele>
+    <name>Nowielice, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12589">
+      <text>Nowielice, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebiatow, ul. Polwiejska - Nowielice, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0651525,15.2624176;54.069160005286804,15.259033000000017;54.0738134,15.2569902">
+    <text>Trzebiatow, ul. Polwiejska - Nowielice, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0651525" lon="15.2624176">
+      <ele>4</ele>
+      <time>2022-01-18T01:33:25Z</time>
+    </trkpt>
+    <trkpt lat="54.0680751" lon="15.2602936">
+      <ele>2</ele>
+      <time>2022-01-18T01:38:30Z</time>
+    </trkpt>
+    <trkpt lat="54.0684974" lon="15.2598484">
+      <ele>2</ele>
+      <time>2022-01-18T01:39:18Z</time>
+    </trkpt>
+    <trkpt lat="54.0698226" lon="15.2582176">
+      <ele>4</ele>
+      <time>2022-01-18T01:41:55Z</time>
+    </trkpt>
+    <trkpt lat="54.0700681" lon="15.2580406">
+      <ele>5</ele>
+      <time>2022-01-18T01:42:20Z</time>
+    </trkpt>
+    <trkpt lat="54.0704868" lon="15.2578314">
+      <ele>7</ele>
+      <time>2022-01-18T01:43:02Z</time>
+    </trkpt>
+    <trkpt lat="54.0738134" lon="15.2569902">
+      <ele>6</ele>
+      <time>2022-01-18T01:48:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

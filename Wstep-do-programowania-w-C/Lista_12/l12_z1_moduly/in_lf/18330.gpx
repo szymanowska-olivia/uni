@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:09Z</time>
+    <bounds maxlat="52.351933" maxlon="20.3089872" minlat="52.3505604" minlon="20.3085506"/>
+  </metadata>
+  <wpt lat="52.351933" lon="20.308551">
+    <ele>90</ele>
+    <name>Skrzyzowanie ze sciezka dydaktyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12423">
+      <text>Skrzyzowanie ze sciezka dydaktyczna</text>
+    </link>
+  </wpt>
+  <wpt lat="52.35056" lon="20.308987">
+    <ele>81</ele>
+    <name>Rozejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12429">
+      <text>Rozejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie ze sciezka dydaktyczna - Rozejscie sciezki dydaktycznej</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.351933,20.3085506;52.351339950198145,20.308680100000025;52.3505604,20.3089872">
+    <text>Skrzyzowanie ze sciezka dydaktyczna - Rozejscie sciezki dydaktycznej</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.351933" lon="20.3085506">
+      <ele>90</ele>
+      <time>2022-01-18T01:29:09Z</time>
+    </trkpt>
+    <trkpt lat="52.3514723" lon="20.3086248">
+      <ele>90</ele>
+      <time>2022-01-18T01:29:48Z</time>
+    </trkpt>
+    <trkpt lat="52.3512076" lon="20.3087354">
+      <ele>88</ele>
+      <time>2022-01-18T01:30:12Z</time>
+    </trkpt>
+    <trkpt lat="52.3510093" lon="20.3088689">
+      <ele>86</ele>
+      <time>2022-01-18T01:30:30Z</time>
+    </trkpt>
+    <trkpt lat="52.3505604" lon="20.3089872">
+      <ele>81</ele>
+      <time>2022-01-18T01:31:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

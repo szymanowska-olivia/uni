@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:30:22Z</time>
+    <bounds maxlat="51.2771208" maxlon="15.6744864" minlat="51.2756374" minlon="15.6436938"/>
+  </metadata>
+  <wpt lat="51.277121" lon="15.643694">
+    <ele>201</ele>
+    <name>Gozdow</name>
+    <link href="https://mapa-turystyczna.pl/node/10162">
+      <text>Gozdow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.276522" lon="15.674486">
+    <ele>191</ele>
+    <name>Tomaszow Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/10163">
+      <text>Tomaszow Dolny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gozdow - Tomaszow Dolny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2771208,15.6436938;51.276672602186316,15.65405114999999;51.2765219,15.6744864">
+    <text>Gozdow - Tomaszow Dolny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2771208" lon="15.6436938">
+      <ele>201</ele>
+      <time>2022-01-18T00:30:22Z</time>
+    </trkpt>
+    <trkpt lat="51.2762244" lon="15.6644085">
+      <ele>192</ele>
+      <time>2022-01-18T00:53:36Z</time>
+    </trkpt>
+    <trkpt lat="51.2762042" lon="15.6648591">
+      <ele>192</ele>
+      <time>2022-01-18T00:54:06Z</time>
+    </trkpt>
+    <trkpt lat="51.2761572" lon="15.665138">
+      <ele>192</ele>
+      <time>2022-01-18T00:54:26Z</time>
+    </trkpt>
+    <trkpt lat="51.2760499" lon="15.6653204">
+      <ele>193</ele>
+      <time>2022-01-18T00:54:42Z</time>
+    </trkpt>
+    <trkpt lat="51.275768" lon="15.6657818">
+      <ele>195</ele>
+      <time>2022-01-18T00:55:26Z</time>
+    </trkpt>
+    <trkpt lat="51.2756557" lon="15.6660617">
+      <ele>195</ele>
+      <time>2022-01-18T00:55:48Z</time>
+    </trkpt>
+    <trkpt lat="51.2756374" lon="15.6663415">
+      <ele>195</ele>
+      <time>2022-01-18T00:56:07Z</time>
+    </trkpt>
+    <trkpt lat="51.2765219" lon="15.6744864">
+      <ele>191</ele>
+      <time>2022-01-18T01:05:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

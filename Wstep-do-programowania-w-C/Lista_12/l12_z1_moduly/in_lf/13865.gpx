@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:35Z</time>
+    <bounds maxlat="50.4484081" maxlon="18.8647121" minlat="50.447115" minlon="18.8633682"/>
+  </metadata>
+  <wpt lat="50.447115" lon="18.863368">
+    <ele>296</ele>
+    <name>Tarnowskie Gory, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9496">
+      <text>Tarnowskie Gory, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.448408" lon="18.864712">
+    <ele>296</ele>
+    <name>Tarnowskie Gory, wieza</name>
+    <link href="https://mapa-turystyczna.pl/node/9505">
+      <text>Tarnowskie Gory, wieza</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, dworzec kolejowy - Tarnowskie Gory, wieza</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.447115,18.8633682;50.44797465198526,18.86441470000002;50.4484081,18.8647121">
+    <text>Tarnowskie Gory, dworzec kolejowy - Tarnowskie Gory, wieza</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.447115" lon="18.8633682">
+      <ele>296</ele>
+      <time>2022-01-18T00:13:35Z</time>
+    </trkpt>
+    <trkpt lat="50.4473977" lon="18.8639081">
+      <ele>295</ele>
+      <time>2022-01-18T00:14:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4475412" lon="18.8641173">
+      <ele>295</ele>
+      <time>2022-01-18T00:14:48Z</time>
+    </trkpt>
+    <trkpt lat="50.4484081" lon="18.8647121">
+      <ele>296</ele>
+      <time>2022-01-18T00:16:35Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

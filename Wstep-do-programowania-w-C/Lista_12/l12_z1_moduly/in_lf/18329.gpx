@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:29:08Z</time>
+    <bounds maxlat="52.3543399" maxlon="20.3087405" minlat="52.351933" minlon="20.3060933"/>
+  </metadata>
+  <wpt lat="52.35434" lon="20.306093">
+    <ele>80</ele>
+    <name>Odejscie sciezki dydaktycznej</name>
+    <link href="https://mapa-turystyczna.pl/node/12424">
+      <text>Odejscie sciezki dydaktycznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.351933" lon="20.308551">
+    <ele>90</ele>
+    <name>Skrzyzowanie ze sciezka dydaktyczna</name>
+    <link href="https://mapa-turystyczna.pl/node/12423">
+      <text>Skrzyzowanie ze sciezka dydaktyczna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Odejscie sciezki dydaktycznej - Skrzyzowanie ze sciezka dydaktyczna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3543399,20.3060933;52.35346930005559,20.30825290000001;52.351933,20.3085506">
+    <text>Odejscie sciezki dydaktycznej - Skrzyzowanie ze sciezka dydaktyczna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3543399" lon="20.3060933">
+      <ele>80</ele>
+      <time>2022-01-18T01:29:08Z</time>
+    </trkpt>
+    <trkpt lat="52.3540391" lon="20.3068659">
+      <ele>83</ele>
+      <time>2022-01-18T01:30:00Z</time>
+    </trkpt>
+    <trkpt lat="52.3537518" lon="20.3076135">
+      <ele>84</ele>
+      <time>2022-01-18T01:30:51Z</time>
+    </trkpt>
+    <trkpt lat="52.3535394" lon="20.3081388">
+      <ele>85</ele>
+      <time>2022-01-18T01:31:27Z</time>
+    </trkpt>
+    <trkpt lat="52.3533992" lon="20.308367">
+      <ele>86</ele>
+      <time>2022-01-18T01:31:46Z</time>
+    </trkpt>
+    <trkpt lat="52.3531685" lon="20.3085638">
+      <ele>87</ele>
+      <time>2022-01-18T01:32:10Z</time>
+    </trkpt>
+    <trkpt lat="52.3527647" lon="20.3087405">
+      <ele>88</ele>
+      <time>2022-01-18T01:32:49Z</time>
+    </trkpt>
+    <trkpt lat="52.3524787" lon="20.3087168">
+      <ele>88</ele>
+      <time>2022-01-18T01:33:16Z</time>
+    </trkpt>
+    <trkpt lat="52.3522622" lon="20.3086919">
+      <ele>89</ele>
+      <time>2022-01-18T01:33:36Z</time>
+    </trkpt>
+    <trkpt lat="52.351933" lon="20.3085506">
+      <ele>90</ele>
+      <time>2022-01-18T01:34:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

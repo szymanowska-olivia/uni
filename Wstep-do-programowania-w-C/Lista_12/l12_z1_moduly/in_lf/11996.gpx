@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:43:05Z</time>
+    <bounds maxlat="50.7185083" maxlon="16.299286" minlat="50.7181179" minlon="16.2988716"/>
+  </metadata>
+  <wpt lat="50.718508" lon="16.299286">
+    <ele>736</ele>
+    <name>Ptasie Rozdroze</name>
+    <link href="https://mapa-turystyczna.pl/node/7871">
+      <text>Ptasie Rozdroze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.718118" lon="16.298872">
+    <ele>741</ele>
+    <name>Ptasie Rozdroze, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8308">
+      <text>Ptasie Rozdroze, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ptasie Rozdroze - Ptasie Rozdroze, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7185083,16.299286;50.71830350036752,16.299076199999973;50.7181179,16.2988716">
+    <text>Ptasie Rozdroze - Ptasie Rozdroze, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7185083" lon="16.299286">
+      <ele>736</ele>
+      <time>2022-01-17T23:43:05Z</time>
+    </trkpt>
+    <trkpt lat="50.7184891" lon="16.2992808">
+      <ele>736</ele>
+      <time>2022-01-17T23:43:07Z</time>
+    </trkpt>
+    <trkpt lat="50.7181179" lon="16.2988716">
+      <ele>741</ele>
+      <time>2022-01-17T23:44:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

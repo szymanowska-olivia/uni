@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:01Z</time>
+    <bounds maxlat="50.0583901" maxlon="16.836513" minlat="50.0583791" minlon="16.8360138"/>
+  </metadata>
+  <wpt lat="50.05839" lon="16.836014">
+    <ele>869</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13550">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.058379" lon="16.836513">
+    <ele>869</ele>
+    <name>Svata Trojice</name>
+    <link href="https://mapa-turystyczna.pl/node/7766">
+      <text>Svata Trojice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Svata Trojice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0583901,16.8360138;50.05838460000031,16.836263399999996;50.0583791,16.836513">
+    <text>Rozejscie szlakow - Svata Trojice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0583901" lon="16.8360138">
+      <ele>869</ele>
+      <time>2022-01-18T02:01:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0583791" lon="16.836513">
+      <ele>869</ele>
+      <time>2022-01-18T02:02:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

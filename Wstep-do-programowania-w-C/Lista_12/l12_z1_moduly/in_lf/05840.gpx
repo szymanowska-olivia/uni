@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:40Z</time>
+    <bounds maxlat="50.4295231" maxlon="16.4575116" minlat="50.4286245" minlon="16.4543378"/>
+  </metadata>
+  <wpt lat="50.428624" lon="16.457512">
+    <ele>569</ele>
+    <name>Droga Hugona, II</name>
+    <link href="https://mapa-turystyczna.pl/node/4036">
+      <text>Droga Hugona, II</text>
+    </link>
+  </wpt>
+  <wpt lat="50.429523" lon="16.454338">
+    <ele>550</ele>
+    <name>Droga Hugona, I</name>
+    <link href="https://mapa-turystyczna.pl/node/4037">
+      <text>Droga Hugona, I</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Droga Hugona, II - Droga Hugona, I</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4286245,16.4575116;50.429262550716864,16.45516475000001;50.4295231,16.4543378">
+    <text>Droga Hugona, II - Droga Hugona, I</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4286245" lon="16.4575116">
+      <ele>569</ele>
+      <time>2022-01-17T22:01:40Z</time>
+    </trkpt>
+    <trkpt lat="50.429002" lon="16.4559917">
+      <ele>558</ele>
+      <time>2022-01-17T22:04:01Z</time>
+    </trkpt>
+    <trkpt lat="50.4295231" lon="16.4543378">
+      <ele>550</ele>
+      <time>2022-01-17T22:06:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

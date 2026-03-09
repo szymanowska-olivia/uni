@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:45:28Z</time>
+    <bounds maxlat="50.2429098" maxlon="17.1883196" minlat="50.2416199" minlon="17.1806377"/>
+  </metadata>
+  <wpt lat="50.24291" lon="17.180638">
+    <ele>705</ele>
+    <name>U Mnicha</name>
+    <link href="https://mapa-turystyczna.pl/node/6123">
+      <text>U Mnicha</text>
+    </link>
+  </wpt>
+  <wpt lat="50.24162" lon="17.18832">
+    <ele>626</ele>
+    <name>Lazne Jesenik, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6122">
+      <text>Lazne Jesenik, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U Mnicha - Lazne Jesenik, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2429098,17.1806377;50.24247925006825,17.18449205000001;50.2416199,17.1883196">
+    <text>U Mnicha - Lazne Jesenik, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2429098" lon="17.1806377">
+      <ele>705</ele>
+      <time>2022-01-17T22:45:28Z</time>
+    </trkpt>
+    <trkpt lat="50.2424261" lon="17.1810293">
+      <ele>695</ele>
+      <time>2022-01-17T22:46:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2423163" lon="17.1815014">
+      <ele>691</ele>
+      <time>2022-01-17T22:47:02Z</time>
+    </trkpt>
+    <trkpt lat="50.242282" lon="17.1818233">
+      <ele>688</ele>
+      <time>2022-01-17T22:47:24Z</time>
+    </trkpt>
+    <trkpt lat="50.2423986" lon="17.1840066">
+      <ele>675</ele>
+      <time>2022-01-17T22:49:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2425599" lon="17.1849775">
+      <ele>666</ele>
+      <time>2022-01-17T22:51:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2424878" lon="17.1858197">
+      <ele>650</ele>
+      <time>2022-01-17T22:52:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2418977" lon="17.1868175">
+      <ele>629</ele>
+      <time>2022-01-17T22:53:40Z</time>
+    </trkpt>
+    <trkpt lat="50.2417022" lon="17.1880513">
+      <ele>627</ele>
+      <time>2022-01-17T22:55:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2416199" lon="17.1883196">
+      <ele>626</ele>
+      <time>2022-01-17T22:55:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

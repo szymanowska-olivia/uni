@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:38:42Z</time>
+    <bounds maxlat="50.2083301" maxlon="16.8324898" minlat="50.2079351" minlon="16.8321758"/>
+  </metadata>
+  <wpt lat="50.20833" lon="16.832176">
+    <ele>1213</ele>
+    <name>Schronisko PTTK Na Sniezniku</name>
+    <link href="https://mapa-turystyczna.pl/node/1713">
+      <text>Schronisko PTTK Na Sniezniku</text>
+    </link>
+  </wpt>
+  <wpt lat="50.207935" lon="16.83249">
+    <ele>1217</ele>
+    <name>Rozejscie przy Schronisku Na Sniezniku</name>
+    <link href="https://mapa-turystyczna.pl/node/5868">
+      <text>Rozejscie przy Schronisku Na Sniezniku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Na Sniezniku - Rozejscie przy Schronisku Na Sniezniku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2083301,16.8321758;50.2082013001738,16.83229725000001;50.2079351,16.8324898">
+    <text>Schronisko PTTK Na Sniezniku - Rozejscie przy Schronisku Na Sniezniku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2083301" lon="16.8321758">
+      <ele>1213</ele>
+      <time>2022-01-17T22:38:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2080725" lon="16.8324187">
+      <ele>1216</ele>
+      <time>2022-01-17T22:39:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2079351" lon="16.8324898">
+      <ele>1217</ele>
+      <time>2022-01-17T22:39:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

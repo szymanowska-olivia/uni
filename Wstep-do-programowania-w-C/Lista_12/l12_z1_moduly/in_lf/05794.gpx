@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:00Z</time>
+    <bounds maxlat="49.602909" maxlon="18.915605" minlat="49.602026" minlon="18.914685"/>
+  </metadata>
+  <wpt lat="49.602909" lon="18.914685">
+    <ele>765</ele>
+    <name>Przelecz Szarcula</name>
+    <link href="https://mapa-turystyczna.pl/node/804">
+      <text>Przelecz Szarcula</text>
+    </link>
+  </wpt>
+  <wpt lat="49.602026" lon="18.915605">
+    <ele>773</ele>
+    <name>Skrzyzowanie przy Przeleczy Szarcula</name>
+    <link href="https://mapa-turystyczna.pl/node/4016">
+      <text>Skrzyzowanie przy Przeleczy Szarcula</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Szarcula - Skrzyzowanie przy Przeleczy Szarcula</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.602909,18.914685;49.60250500012407,18.914918499999985;49.602026,18.915605">
+    <text>Przelecz Szarcula - Skrzyzowanie przy Przeleczy Szarcula</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.602909" lon="18.914685">
+      <ele>765</ele>
+      <time>2022-01-17T22:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.602842" lon="18.914698">
+      <ele>765</ele>
+      <time>2022-01-17T22:01:11Z</time>
+    </trkpt>
+    <trkpt lat="49.60276" lon="18.914739">
+      <ele>765</ele>
+      <time>2022-01-17T22:01:25Z</time>
+    </trkpt>
+    <trkpt lat="49.602615" lon="18.914829">
+      <ele>766</ele>
+      <time>2022-01-17T22:01:51Z</time>
+    </trkpt>
+    <trkpt lat="49.602395" lon="18.915008">
+      <ele>768</ele>
+      <time>2022-01-17T22:02:31Z</time>
+    </trkpt>
+    <trkpt lat="49.602269" lon="18.915132">
+      <ele>769</ele>
+      <time>2022-01-17T22:02:56Z</time>
+    </trkpt>
+    <trkpt lat="49.60213" lon="18.915354">
+      <ele>770</ele>
+      <time>2022-01-17T22:03:28Z</time>
+    </trkpt>
+    <trkpt lat="49.602026" lon="18.915605">
+      <ele>773</ele>
+      <time>2022-01-17T22:04:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

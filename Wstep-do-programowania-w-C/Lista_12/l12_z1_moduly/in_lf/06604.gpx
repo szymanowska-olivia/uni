@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:52Z</time>
+    <bounds maxlat="50.6901044" maxlon="16.3005484" minlat="50.6900452" minlon="16.299752"/>
+  </metadata>
+  <wpt lat="50.690082" lon="16.300548">
+    <ele>849</ele>
+    <name>Pod Turzyna</name>
+    <link href="https://mapa-turystyczna.pl/node/4590">
+      <text>Pod Turzyna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.690045" lon="16.299752">
+    <ele>860</ele>
+    <name>Pod Turzyna</name>
+    <link href="https://mapa-turystyczna.pl/node/2338">
+      <text>Pod Turzyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Turzyna - Pod Turzyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6900821,16.3005484;50.690093250001325,16.300325149999995;50.6900452,16.299752">
+    <text>Pod Turzyna - Pod Turzyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6900821" lon="16.3005484">
+      <ele>849</ele>
+      <time>2022-01-17T22:09:52Z</time>
+    </trkpt>
+    <trkpt lat="50.6901044" lon="16.3001019">
+      <ele>854</ele>
+      <time>2022-01-17T22:10:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6900452" lon="16.299752">
+      <ele>860</ele>
+      <time>2022-01-17T22:11:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

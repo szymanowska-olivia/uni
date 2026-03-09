@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:51:45Z</time>
+    <bounds maxlat="49.8481116" maxlon="21.0859072" minlat="49.8456903" minlon="21.0787082"/>
+  </metadata>
+  <wpt lat="49.84569" lon="21.085907">
+    <ele>526</ele>
+    <name>Brzanka</name>
+    <link href="https://mapa-turystyczna.pl/node/3626">
+      <text>Brzanka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.848112" lon="21.078708">
+    <ele>501</ele>
+    <name>Pod Brzanka</name>
+    <link href="https://mapa-turystyczna.pl/node/3627">
+      <text>Pod Brzanka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzanka - Pod Brzanka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8456903,21.0859072;49.847224600148955,21.082473999999994;49.8481116,21.0787082">
+    <text>Brzanka - Pod Brzanka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8456903" lon="21.0859072">
+      <ele>526</ele>
+      <time>2022-01-17T21:51:45Z</time>
+    </trkpt>
+    <trkpt lat="49.8458291" lon="21.0857342">
+      <ele>527</ele>
+      <time>2022-01-17T21:52:05Z</time>
+    </trkpt>
+    <trkpt lat="49.8461339" lon="21.0853681">
+      <ele>529</ele>
+      <time>2022-01-17T21:52:48Z</time>
+    </trkpt>
+    <trkpt lat="49.8463354" lon="21.0850436">
+      <ele>530</ele>
+      <time>2022-01-17T21:53:20Z</time>
+    </trkpt>
+    <trkpt lat="49.8471046" lon="21.0828924">
+      <ele>519</ele>
+      <time>2022-01-17T21:56:16Z</time>
+    </trkpt>
+    <trkpt lat="49.8473446" lon="21.0820556">
+      <ele>514</ele>
+      <time>2022-01-17T21:57:22Z</time>
+    </trkpt>
+    <trkpt lat="49.8474441" lon="21.0808003">
+      <ele>512</ele>
+      <time>2022-01-17T21:58:53Z</time>
+    </trkpt>
+    <trkpt lat="49.8477203" lon="21.079317">
+      <ele>507</ele>
+      <time>2022-01-17T22:00:43Z</time>
+    </trkpt>
+    <trkpt lat="49.8481116" lon="21.0787082">
+      <ele>501</ele>
+      <time>2022-01-17T22:01:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:35:18Z</time>
+    <bounds maxlat="50.7760827" maxlon="16.2053058" minlat="50.7748513" minlon="16.2036914"/>
+  </metadata>
+  <wpt lat="50.776075" lon="16.205306">
+    <ele>779</ele>
+    <name>Chelmiec Maly, stacja X</name>
+    <link href="https://mapa-turystyczna.pl/node/8060">
+      <text>Chelmiec Maly, stacja X</text>
+    </link>
+  </wpt>
+  <wpt lat="50.774851" lon="16.203691">
+    <ele>776</ele>
+    <name>Chelmiec Maly</name>
+    <link href="https://mapa-turystyczna.pl/node/2569">
+      <text>Chelmiec Maly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chelmiec Maly, stacja X - Chelmiec Maly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7760748,16.2053058;50.77546700405265,16.204449099999987;50.7748513,16.2036914">
+    <text>Chelmiec Maly, stacja X - Chelmiec Maly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7760748" lon="16.2053058">
+      <ele>779</ele>
+      <time>2022-01-17T23:35:18Z</time>
+    </trkpt>
+    <trkpt lat="50.7760827" lon="16.2052068">
+      <ele>779</ele>
+      <time>2022-01-17T23:35:25Z</time>
+    </trkpt>
+    <trkpt lat="50.7748513" lon="16.2036914">
+      <ele>776</ele>
+      <time>2022-01-17T23:38:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

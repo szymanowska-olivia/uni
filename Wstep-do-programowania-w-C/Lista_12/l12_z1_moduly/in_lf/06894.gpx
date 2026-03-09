@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:14:31Z</time>
+    <bounds maxlat="49.2396778" maxlon="22.2514772" minlat="49.2374536" minlon="22.2499083"/>
+  </metadata>
+  <wpt lat="49.239678" lon="22.249991">
+    <ele>1071</ele>
+    <name>Wolosan</name>
+    <link href="https://mapa-turystyczna.pl/node/405">
+      <text>Wolosan</text>
+    </link>
+  </wpt>
+  <wpt lat="49.237454" lon="22.251477">
+    <ele>1042</ele>
+    <name>Skrzyzowanie pod Wolosaniem</name>
+    <link href="https://mapa-turystyczna.pl/node/4731">
+      <text>Skrzyzowanie pod Wolosaniem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wolosan - Skrzyzowanie pod Wolosaniem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.2396778,22.2499913;49.238418550161356,22.25017509999998;49.2374536,22.2514772">
+    <text>Wolosan - Skrzyzowanie pod Wolosaniem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.2396778" lon="22.2499913">
+      <ele>1071</ele>
+      <time>2022-01-17T22:14:31Z</time>
+    </trkpt>
+    <trkpt lat="49.2394625" lon="22.2499083">
+      <ele>1069</ele>
+      <time>2022-01-17T22:14:56Z</time>
+    </trkpt>
+    <trkpt lat="49.2391052" lon="22.2499512">
+      <ele>1068</ele>
+      <time>2022-01-17T22:15:37Z</time>
+    </trkpt>
+    <trkpt lat="49.238797" lon="22.2501336">
+      <ele>1068</ele>
+      <time>2022-01-17T22:16:15Z</time>
+    </trkpt>
+    <trkpt lat="49.2385448" lon="22.2501336">
+      <ele>1065</ele>
+      <time>2022-01-17T22:16:43Z</time>
+    </trkpt>
+    <trkpt lat="49.2382923" lon="22.2502166">
+      <ele>1061</ele>
+      <time>2022-01-17T22:17:13Z</time>
+    </trkpt>
+    <trkpt lat="49.2380895" lon="22.2503911">
+      <ele>1056</ele>
+      <time>2022-01-17T22:17:40Z</time>
+    </trkpt>
+    <trkpt lat="49.2378793" lon="22.2506164">
+      <ele>1050</ele>
+      <time>2022-01-17T22:18:10Z</time>
+    </trkpt>
+    <trkpt lat="49.2376342" lon="22.2512065">
+      <ele>1045</ele>
+      <time>2022-01-17T22:19:02Z</time>
+    </trkpt>
+    <trkpt lat="49.2374536" lon="22.2514772">
+      <ele>1042</ele>
+      <time>2022-01-17T22:19:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:35:24Z</time>
+    <bounds maxlat="54.0607854" maxlon="14.9342469" minlat="54.0603501" minlon="14.9324595"/>
+  </metadata>
+  <wpt lat="54.060785" lon="14.934247">
+    <ele>12</ele>
+    <name>Pobierowo, ul. Grunwaldzka</name>
+    <link href="https://mapa-turystyczna.pl/node/12652">
+      <text>Pobierowo, ul. Grunwaldzka</text>
+    </link>
+  </wpt>
+  <wpt lat="54.06035" lon="14.93246">
+    <ele>9</ele>
+    <name>Pobierowo, ul. Wojska Polskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12653">
+      <text>Pobierowo, ul. Wojska Polskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pobierowo, ul. Grunwaldzka - Pobierowo, ul. Wojska Polskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0607854,14.9342469;54.06056775057025,14.933353199999994;54.0603501,14.9324595">
+    <text>Pobierowo, ul. Grunwaldzka - Pobierowo, ul. Wojska Polskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0607854" lon="14.9342469">
+      <ele>12</ele>
+      <time>2022-01-18T01:35:24Z</time>
+    </trkpt>
+    <trkpt lat="54.0603501" lon="14.9324595">
+      <ele>9</ele>
+      <time>2022-01-18T01:37:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

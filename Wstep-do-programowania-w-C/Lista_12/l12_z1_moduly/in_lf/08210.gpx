@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:41Z</time>
+    <bounds maxlat="50.3583887" maxlon="16.2434578" minlat="50.3576769" minlon="16.2398744"/>
+  </metadata>
+  <wpt lat="50.358389" lon="16.239874">
+    <ele>548</ele>
+    <name>Novy Hradek, ulice Hradni</name>
+    <link href="https://mapa-turystyczna.pl/node/5709">
+      <text>Novy Hradek, ulice Hradni</text>
+    </link>
+  </wpt>
+  <wpt lat="50.357677" lon="16.243458">
+    <ele>572</ele>
+    <name>Novy Hradek, namesti rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5707">
+      <text>Novy Hradek, namesti rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Novy Hradek, ulice Hradni - Novy Hradek, namesti rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3583887,16.2398744;50.35809950088093,16.24146225;50.3576769,16.2434578">
+    <text>Novy Hradek, ulice Hradni - Novy Hradek, namesti rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3583887" lon="16.2398744">
+      <ele>548</ele>
+      <time>2022-01-17T22:34:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3578103" lon="16.2430501">
+      <ele>572</ele>
+      <time>2022-01-17T22:39:05Z</time>
+    </trkpt>
+    <trkpt lat="50.3576769" lon="16.2434578">
+      <ele>572</ele>
+      <time>2022-01-17T22:39:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

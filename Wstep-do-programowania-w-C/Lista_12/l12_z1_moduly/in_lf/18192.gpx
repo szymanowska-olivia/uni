@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:26:49Z</time>
+    <bounds maxlat="49.60925" maxlon="19.518184" minlat="49.608676" minlon="19.516966"/>
+  </metadata>
+  <wpt lat="49.608676" lon="19.518184">
+    <ele>714</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12878">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.60925" lon="19.516966">
+    <ele>703</ele>
+    <name>Polanka Odkrywcow</name>
+    <link href="https://mapa-turystyczna.pl/node/12351">
+      <text>Polanka Odkrywcow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Polanka Odkrywcow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.608676,19.518184;49.60907000001985,19.517666499999994;49.60925,19.516966">
+    <text>Rozejscie szlakow - Polanka Odkrywcow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.608676" lon="19.518184">
+      <ele>714</ele>
+      <time>2022-01-18T01:26:49Z</time>
+    </trkpt>
+    <trkpt lat="49.608763" lon="19.518135">
+      <ele>712</ele>
+      <time>2022-01-18T01:27:00Z</time>
+    </trkpt>
+    <trkpt lat="49.60888" lon="19.518046">
+      <ele>709</ele>
+      <time>2022-01-18T01:27:15Z</time>
+    </trkpt>
+    <trkpt lat="49.608967" lon="19.517949">
+      <ele>708</ele>
+      <time>2022-01-18T01:27:28Z</time>
+    </trkpt>
+    <trkpt lat="49.609026" lon="19.517821">
+      <ele>706</ele>
+      <time>2022-01-18T01:27:40Z</time>
+    </trkpt>
+    <trkpt lat="49.609114" lon="19.517512">
+      <ele>704</ele>
+      <time>2022-01-18T01:28:05Z</time>
+    </trkpt>
+    <trkpt lat="49.609201" lon="19.517188">
+      <ele>704</ele>
+      <time>2022-01-18T01:28:31Z</time>
+    </trkpt>
+    <trkpt lat="49.60925" lon="19.516966">
+      <ele>703</ele>
+      <time>2022-01-18T01:28:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

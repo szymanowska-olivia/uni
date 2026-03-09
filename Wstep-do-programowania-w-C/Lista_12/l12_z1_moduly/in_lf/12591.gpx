@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:41Z</time>
+    <bounds maxlat="49.336745" maxlon="20.712988" minlat="49.335549" minlon="20.711757"/>
+  </metadata>
+  <wpt lat="49.335549" lon="20.711757">
+    <ele>841</ele>
+    <name>Osly, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8649">
+      <text>Osly, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.336745" lon="20.712914">
+    <ele>853</ele>
+    <name>Osly</name>
+    <link href="https://mapa-turystyczna.pl/node/8650">
+      <text>Osly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Osly, razc. - Osly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.335549,20.711757;49.335999500291855,20.71247849999998;49.336745,20.712914">
+    <text>Osly, razc. - Osly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.335549" lon="20.711757">
+      <ele>841</ele>
+      <time>2022-01-17T23:52:41Z</time>
+    </trkpt>
+    <trkpt lat="49.335675" lon="20.712173">
+      <ele>843</ele>
+      <time>2022-01-17T23:53:39Z</time>
+    </trkpt>
+    <trkpt lat="49.33583" lon="20.712319">
+      <ele>845</ele>
+      <time>2022-01-17T23:54:15Z</time>
+    </trkpt>
+    <trkpt lat="49.336169" lon="20.712638">
+      <ele>850</ele>
+      <time>2022-01-17T23:55:32Z</time>
+    </trkpt>
+    <trkpt lat="49.336312" lon="20.712861">
+      <ele>852</ele>
+      <time>2022-01-17T23:56:12Z</time>
+    </trkpt>
+    <trkpt lat="49.336423" lon="20.712944">
+      <ele>853</ele>
+      <time>2022-01-17T23:56:36Z</time>
+    </trkpt>
+    <trkpt lat="49.3366" lon="20.712988">
+      <ele>854</ele>
+      <time>2022-01-17T23:57:11Z</time>
+    </trkpt>
+    <trkpt lat="49.336697" lon="20.712951">
+      <ele>854</ele>
+      <time>2022-01-17T23:57:31Z</time>
+    </trkpt>
+    <trkpt lat="49.336745" lon="20.712914">
+      <ele>853</ele>
+      <time>2022-01-17T23:57:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:36Z</time>
+    <bounds maxlat="50.7510881" maxlon="16.4556432" minlat="50.7509558" minlon="16.4554916"/>
+  </metadata>
+  <wpt lat="50.750956" lon="16.455492">
+    <ele>480</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13568">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.751088" lon="16.455643">
+    <ele>476</ele>
+    <name>Kanciarski Buk</name>
+    <link href="https://mapa-turystyczna.pl/node/8135">
+      <text>Kanciarski Buk</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Kanciarski Buk</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7509558,16.4554916;50.75103890002587,16.45559254999999;50.7510881,16.4556432">
+    <text>Rozejscie szlakow - Kanciarski Buk</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7509558" lon="16.4554916">
+      <ele>480</ele>
+      <time>2022-01-18T02:01:36Z</time>
+    </trkpt>
+    <trkpt lat="50.7509897" lon="16.4555419">
+      <ele>479</ele>
+      <time>2022-01-18T02:01:53Z</time>
+    </trkpt>
+    <trkpt lat="50.7510881" lon="16.4556432">
+      <ele>476</ele>
+      <time>2022-01-18T02:02:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

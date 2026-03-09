@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:09:51Z</time>
+    <bounds maxlat="48.8710382" maxlon="20.4797521" minlat="48.8699655" minlon="20.4789448"/>
+  </metadata>
+  <wpt lat="48.871038" lon="20.478945">
+    <ele>1180</ele>
+    <name>Pod Muranom</name>
+    <link href="https://mapa-turystyczna.pl/node/7087">
+      <text>Pod Muranom</text>
+    </link>
+  </wpt>
+  <wpt lat="48.869965" lon="20.479752">
+    <ele>1202</ele>
+    <name>Pod Muranom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7094">
+      <text>Pod Muranom, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Muranom - Pod Muranom, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8710382,20.4789448;48.87042955002803,20.479273350000025;48.8699655,20.4797521">
+    <text>Pod Muranom - Pod Muranom, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8710382" lon="20.4789448">
+      <ele>1180</ele>
+      <time>2022-01-17T23:09:51Z</time>
+    </trkpt>
+    <trkpt lat="48.8708812" lon="20.4790494">
+      <ele>1181</ele>
+      <time>2022-01-17T23:10:33Z</time>
+    </trkpt>
+    <trkpt lat="48.8707471" lon="20.4790896">
+      <ele>1184</ele>
+      <time>2022-01-17T23:11:07Z</time>
+    </trkpt>
+    <trkpt lat="48.8705936" lon="20.479162">
+      <ele>1188</ele>
+      <time>2022-01-17T23:11:47Z</time>
+    </trkpt>
+    <trkpt lat="48.8704825" lon="20.4792264">
+      <ele>1191</ele>
+      <time>2022-01-17T23:12:16Z</time>
+    </trkpt>
+    <trkpt lat="48.8703766" lon="20.4793203">
+      <ele>1193</ele>
+      <time>2022-01-17T23:12:47Z</time>
+    </trkpt>
+    <trkpt lat="48.8702831" lon="20.479441">
+      <ele>1195</ele>
+      <time>2022-01-17T23:13:17Z</time>
+    </trkpt>
+    <trkpt lat="48.8701896" lon="20.4795671">
+      <ele>1197</ele>
+      <time>2022-01-17T23:13:48Z</time>
+    </trkpt>
+    <trkpt lat="48.8700696" lon="20.4796851">
+      <ele>1200</ele>
+      <time>2022-01-17T23:14:23Z</time>
+    </trkpt>
+    <trkpt lat="48.8699655" lon="20.4797521">
+      <ele>1202</ele>
+      <time>2022-01-17T23:14:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

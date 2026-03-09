@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:27:24Z</time>
+    <bounds maxlat="49.0600745" maxlon="18.881346" minlat="49.0503278" minlon="18.8676023"/>
+  </metadata>
+  <wpt lat="49.060074" lon="18.867602">
+    <ele>523</ele>
+    <name>Lazky, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5244">
+      <text>Lazky, razc.</text>
+    </link>
+  </wpt>
+  <wpt lat="49.050328" lon="18.881346">
+    <ele>450</ele>
+    <name>Bystricka</name>
+    <link href="https://mapa-turystyczna.pl/node/5243">
+      <text>Bystricka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lazky, razc. - Bystricka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.0600745,18.8676023;49.053902628468734,18.874129499999988;49.0503278,18.881346">
+    <text>Lazky, razc. - Bystricka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.0600745" lon="18.8676023">
+      <ele>523</ele>
+      <time>2022-01-17T22:27:24Z</time>
+    </trkpt>
+    <trkpt lat="49.055585" lon="18.8715532">
+      <ele>491</ele>
+      <time>2022-01-17T22:36:54Z</time>
+    </trkpt>
+    <trkpt lat="49.0522202" lon="18.8767058">
+      <ele>466</ele>
+      <time>2022-01-17T22:45:38Z</time>
+    </trkpt>
+    <trkpt lat="49.0511615" lon="18.880485">
+      <ele>455</ele>
+      <time>2022-01-17T22:50:33Z</time>
+    </trkpt>
+    <trkpt lat="49.0503278" lon="18.881346">
+      <ele>450</ele>
+      <time>2022-01-17T22:52:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:07Z</time>
+    <bounds maxlat="50.4809912" maxlon="16.3398296" minlat="50.4808382" minlon="16.3398184"/>
+  </metadata>
+  <wpt lat="50.480991" lon="16.339818">
+    <ele>796</ele>
+    <name>Wejscie na trase turystyczna im. Franciszka Pabla</name>
+    <link href="https://mapa-turystyczna.pl/node/13553">
+      <text>Wejscie na trase turystyczna im. Franciszka Pabla</text>
+    </link>
+  </wpt>
+  <wpt lat="50.480838" lon="16.33983">
+    <ele>790</ele>
+    <name>Obejscie Szczelinca Malego</name>
+    <link href="https://mapa-turystyczna.pl/node/1821">
+      <text>Obejscie Szczelinca Malego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wejscie na trase turystyczna im. Franciszka Pabla - Obejscie Szczelinca Malego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4809912,16.3398184;50.4809147000619,16.339823999999997;50.4808382,16.3398296">
+    <text>Wejscie na trase turystyczna im. Franciszka Pabla - Obejscie Szczelinca Malego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4809912" lon="16.3398184">
+      <ele>796</ele>
+      <time>2022-01-18T02:01:07Z</time>
+    </trkpt>
+    <trkpt lat="50.4808382" lon="16.3398296">
+      <ele>790</ele>
+      <time>2022-01-18T02:02:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

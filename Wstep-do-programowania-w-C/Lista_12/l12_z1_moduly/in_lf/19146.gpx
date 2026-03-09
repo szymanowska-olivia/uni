@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:04Z</time>
+    <bounds maxlat="52.1113516" maxlon="21.2710517" minlat="52.1107969" minlon="21.27011"/>
+  </metadata>
+  <wpt lat="52.110797" lon="21.27011">
+    <ele>99</ele>
+    <name>Otwock, kosciol sw. Wincentego a Paulo</name>
+    <link href="https://mapa-turystyczna.pl/node/12930">
+      <text>Otwock, kosciol sw. Wincentego a Paulo</text>
+    </link>
+  </wpt>
+  <wpt lat="52.111315" lon="21.271052">
+    <ele>100</ele>
+    <name>Otwock, ul. Reymonta</name>
+    <link href="https://mapa-turystyczna.pl/node/12931">
+      <text>Otwock, ul. Reymonta</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, kosciol sw. Wincentego a Paulo - Otwock, ul. Reymonta</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1107969,21.27011;52.111214850209706,21.270657900000014;52.1113151,21.2710517">
+    <text>Otwock, kosciol sw. Wincentego a Paulo - Otwock, ul. Reymonta</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1107969" lon="21.27011">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1108837" lon="21.2702797">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:22Z</time>
+    </trkpt>
+    <trkpt lat="52.1109958" lon="21.2702529">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1110781" lon="21.2703226">
+      <ele>99</ele>
+      <time>2022-01-18T01:43:50Z</time>
+    </trkpt>
+    <trkpt lat="52.1113516" lon="21.2709932">
+      <ele>100</ele>
+      <time>2022-01-18T01:44:57Z</time>
+    </trkpt>
+    <trkpt lat="52.1113151" lon="21.2710517">
+      <ele>100</ele>
+      <time>2022-01-18T01:45:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:34:07Z</time>
+    <bounds maxlat="50.346095" maxlon="16.8756281" minlat="50.3458852" minlon="16.8720764"/>
+  </metadata>
+  <wpt lat="50.346032" lon="16.872076">
+    <ele>429</ele>
+    <name>Ladek Zdroj</name>
+    <link href="https://mapa-turystyczna.pl/node/2100">
+      <text>Ladek Zdroj</text>
+    </link>
+  </wpt>
+  <wpt lat="50.345885" lon="16.875628">
+    <ele>429</ele>
+    <name>Ladek Zdroj, ul. Krotka</name>
+    <link href="https://mapa-turystyczna.pl/node/5686">
+      <text>Ladek Zdroj, ul. Krotka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Ladek Zdroj - Ladek Zdroj, ul. Krotka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3460321,16.8720764;50.34607765000318,16.87351874999998;50.3458852,16.8756281">
+    <text>Ladek Zdroj - Ladek Zdroj, ul. Krotka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3460321" lon="16.8720764">
+      <ele>429</ele>
+      <time>2022-01-17T22:34:07Z</time>
+    </trkpt>
+    <trkpt lat="50.3460291" lon="16.8728207">
+      <ele>429</ele>
+      <time>2022-01-17T22:35:09Z</time>
+    </trkpt>
+    <trkpt lat="50.3460603" lon="16.8729588">
+      <ele>429</ele>
+      <time>2022-01-17T22:35:21Z</time>
+    </trkpt>
+    <trkpt lat="50.346095" lon="16.8740787">
+      <ele>428</ele>
+      <time>2022-01-17T22:36:55Z</time>
+    </trkpt>
+    <trkpt lat="50.3460612" lon="16.8746299">
+      <ele>428</ele>
+      <time>2022-01-17T22:37:41Z</time>
+    </trkpt>
+    <trkpt lat="50.3458852" lon="16.8756281">
+      <ele>429</ele>
+      <time>2022-01-17T22:39:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

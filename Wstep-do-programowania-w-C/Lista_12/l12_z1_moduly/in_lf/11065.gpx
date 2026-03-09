@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:48Z</time>
+    <bounds maxlat="49.424858" maxlon="18.926785" minlat="49.423734" minlon="18.925924"/>
+  </metadata>
+  <wpt lat="49.424858" lon="18.925924">
+    <ele>822</ele>
+    <name>Prislop</name>
+    <link href="https://mapa-turystyczna.pl/node/7792">
+      <text>Prislop</text>
+    </link>
+  </wpt>
+  <wpt lat="49.423734" lon="18.926785">
+    <ele>815</ele>
+    <name>Prislop, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7793">
+      <text>Prislop, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Prislop - Prislop, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.424858,18.925924;49.42426850016827,18.926312000000003;49.423734,18.926785">
+    <text>Prislop - Prislop, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.424858" lon="18.925924">
+      <ele>822</ele>
+      <time>2022-01-17T23:27:48Z</time>
+    </trkpt>
+    <trkpt lat="49.424533" lon="18.92615">
+      <ele>819</ele>
+      <time>2022-01-17T23:28:22Z</time>
+    </trkpt>
+    <trkpt lat="49.424397" lon="18.926244">
+      <ele>818</ele>
+      <time>2022-01-17T23:28:36Z</time>
+    </trkpt>
+    <trkpt lat="49.42414" lon="18.92638">
+      <ele>815</ele>
+      <time>2022-01-17T23:29:02Z</time>
+    </trkpt>
+    <trkpt lat="49.423952" lon="18.92652">
+      <ele>813</ele>
+      <time>2022-01-17T23:29:22Z</time>
+    </trkpt>
+    <trkpt lat="49.423845" lon="18.926619">
+      <ele>813</ele>
+      <time>2022-01-17T23:29:33Z</time>
+    </trkpt>
+    <trkpt lat="49.423734" lon="18.926785">
+      <ele>815</ele>
+      <time>2022-01-17T23:29:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

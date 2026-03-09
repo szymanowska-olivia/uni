@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:44:56Z</time>
+    <bounds maxlat="50.6601225" maxlon="15.7451382" minlat="50.6597173" minlon="15.7442021"/>
+  </metadata>
+  <wpt lat="50.660122" lon="15.745138">
+    <ele>1192</ele>
+    <name>Vaclavak, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/10758">
+      <text>Vaclavak, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.659717" lon="15.744202">
+    <ele>1197</ele>
+    <name>Vaclavak, naucna stezka</name>
+    <link href="https://mapa-turystyczna.pl/node/1154">
+      <text>Vaclavak, naucna stezka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vaclavak, rozc. - Vaclavak, naucna stezka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6601225,15.7451382;50.65984020004664,15.744703699999976;50.6597173,15.7442021">
+    <text>Vaclavak, rozc. - Vaclavak, naucna stezka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6601225" lon="15.7451382">
+      <ele>1192</ele>
+      <time>2022-01-18T00:44:56Z</time>
+    </trkpt>
+    <trkpt lat="50.6601134" lon="15.7451301">
+      <ele>1192</ele>
+      <time>2022-01-18T00:44:58Z</time>
+    </trkpt>
+    <trkpt lat="50.6599064" lon="15.7448513">
+      <ele>1194</ele>
+      <time>2022-01-18T00:45:42Z</time>
+    </trkpt>
+    <trkpt lat="50.659774" lon="15.7445561">
+      <ele>1195</ele>
+      <time>2022-01-18T00:46:19Z</time>
+    </trkpt>
+    <trkpt lat="50.6597173" lon="15.7442021">
+      <ele>1197</ele>
+      <time>2022-01-18T00:46:56Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

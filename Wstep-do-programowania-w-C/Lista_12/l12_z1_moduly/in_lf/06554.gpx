@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:09:09Z</time>
+    <bounds maxlat="50.5614116" maxlon="19.5700139" minlat="50.5602427" minlon="19.5697671"/>
+  </metadata>
+  <wpt lat="50.560243" lon="19.569767">
+    <ele>315</ele>
+    <name>Kroczyce, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/4459">
+      <text>Kroczyce, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.561412" lon="19.570014">
+    <ele>317</ele>
+    <name>Kroczyce</name>
+    <link href="https://mapa-turystyczna.pl/node/4566">
+      <text>Kroczyce</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kroczyce, rozejscie szlakow - Kroczyce</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5602427,19.5697671;50.56068745209852,19.569811349999966;50.5614116,19.5700139">
+    <text>Kroczyce, rozejscie szlakow - Kroczyce</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5602427" lon="19.5697671">
+      <ele>315</ele>
+      <time>2022-01-17T22:09:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5611322" lon="19.5698556">
+      <ele>317</ele>
+      <time>2022-01-17T22:10:39Z</time>
+    </trkpt>
+    <trkpt lat="50.5614116" lon="19.5700139">
+      <ele>317</ele>
+      <time>2022-01-17T22:11:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

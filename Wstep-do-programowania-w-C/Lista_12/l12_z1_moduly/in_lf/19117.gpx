@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:42:39Z</time>
+    <bounds maxlat="52.1107969" maxlon="21.27011" minlat="52.1102421" minlon="21.2686937"/>
+  </metadata>
+  <wpt lat="52.110242" lon="21.268694">
+    <ele>99</ele>
+    <name>Otwock, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/12928">
+      <text>Otwock, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.110797" lon="21.27011">
+    <ele>99</ele>
+    <name>Otwock, kosciol sw. Wincentego a Paulo</name>
+    <link href="https://mapa-turystyczna.pl/node/12930">
+      <text>Otwock, kosciol sw. Wincentego a Paulo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Kosciuszki - Otwock, kosciol sw. Wincentego a Paulo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1102421,21.2686937;52.11051950086294,21.269401850000005;52.1107969,21.27011">
+    <text>Otwock, ul. Kosciuszki - Otwock, kosciol sw. Wincentego a Paulo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1102421" lon="21.2686937">
+      <ele>99</ele>
+      <time>2022-01-18T01:42:39Z</time>
+    </trkpt>
+    <trkpt lat="52.1107969" lon="21.27011">
+      <ele>99</ele>
+      <time>2022-01-18T01:44:39Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

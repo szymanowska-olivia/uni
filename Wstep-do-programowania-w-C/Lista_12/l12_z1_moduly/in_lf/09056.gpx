@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:10Z</time>
+    <bounds maxlat="49.422988" maxlon="20.934216" minlat="49.422828" minlon="20.933531"/>
+  </metadata>
+  <wpt lat="49.422828" lon="20.934216">
+    <ele>776</ele>
+    <name>Przelecz Krzyzowa, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/6303">
+      <text>Przelecz Krzyzowa, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.422988" lon="20.933531">
+    <ele>768</ele>
+    <name>Przelecz Krzyzowa</name>
+    <link href="https://mapa-turystyczna.pl/node/156">
+      <text>Przelecz Krzyzowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Krzyzowa, rozejscie szlakow - Przelecz Krzyzowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.422828,20.934216;49.42286200000979,20.93395600000001;49.422988,20.933531">
+    <text>Przelecz Krzyzowa, rozejscie szlakow - Przelecz Krzyzowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.422828" lon="20.934216">
+      <ele>776</ele>
+      <time>2022-01-17T22:50:10Z</time>
+    </trkpt>
+    <trkpt lat="49.422831" lon="20.934091">
+      <ele>775</ele>
+      <time>2022-01-17T22:50:20Z</time>
+    </trkpt>
+    <trkpt lat="49.422893" lon="20.933821">
+      <ele>772</ele>
+      <time>2022-01-17T22:50:44Z</time>
+    </trkpt>
+    <trkpt lat="49.422988" lon="20.933531">
+      <ele>768</ele>
+      <time>2022-01-17T22:51:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

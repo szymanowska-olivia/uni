@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:27:23Z</time>
+    <bounds maxlat="50.0861219" maxlon="16.9067945" minlat="50.0860187" minlon="16.9056304"/>
+  </metadata>
+  <wpt lat="50.086122" lon="16.90563">
+    <ele>512</ele>
+    <name>Zamecek u Hanusovic</name>
+    <link href="https://mapa-turystyczna.pl/node/7775">
+      <text>Zamecek u Hanusovic</text>
+    </link>
+  </wpt>
+  <wpt lat="50.086019" lon="16.906795">
+    <ele>504</ele>
+    <name>Vyhlidka Morava</name>
+    <link href="https://mapa-turystyczna.pl/node/7776">
+      <text>Vyhlidka Morava</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamecek u Hanusovic - Vyhlidka Morava</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0861219,16.9056304;50.08608410001491,16.906029799999992;50.0860187,16.9067945">
+    <text>Zamecek u Hanusovic - Vyhlidka Morava</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0861219" lon="16.9056304">
+      <ele>512</ele>
+      <time>2022-01-17T23:27:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0860463" lon="16.9064292">
+      <ele>507</ele>
+      <time>2022-01-17T23:28:04Z</time>
+    </trkpt>
+    <trkpt lat="50.0860187" lon="16.9067945">
+      <ele>504</ele>
+      <time>2022-01-17T23:28:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

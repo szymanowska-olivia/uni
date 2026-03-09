@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:27:25Z</time>
+    <bounds maxlat="51.8692294" maxlon="21.4368104" minlat="51.8622277" minlon="21.433377"/>
+  </metadata>
+  <wpt lat="51.869229" lon="21.43681">
+    <ele>109</ele>
+    <name>Rozejscie szlakow zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12379">
+      <text>Rozejscie szlakow zielony / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="51.862247" lon="21.433377">
+    <ele>107</ele>
+    <name>Cyganowka</name>
+    <link href="https://mapa-turystyczna.pl/node/12380">
+      <text>Cyganowka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zielony / zolty - Cyganowka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.8692294,21.4368104;51.86503400144941,21.435001199999995;51.8622471,21.433377">
+    <text>Rozejscie szlakow zielony / zolty - Cyganowka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.8692294" lon="21.4368104">
+      <ele>109</ele>
+      <time>2022-01-18T01:27:25Z</time>
+    </trkpt>
+    <trkpt lat="51.8692044" lon="21.4367983">
+      <ele>109</ele>
+      <time>2022-01-18T01:27:28Z</time>
+    </trkpt>
+    <trkpt lat="51.8676939" lon="21.4354035">
+      <ele>110</ele>
+      <time>2022-01-18T01:30:39Z</time>
+    </trkpt>
+    <trkpt lat="51.8673693" lon="21.4352211">
+      <ele>111</ele>
+      <time>2022-01-18T01:31:16Z</time>
+    </trkpt>
+    <trkpt lat="51.8670381" lon="21.4351353">
+      <ele>111</ele>
+      <time>2022-01-18T01:31:53Z</time>
+    </trkpt>
+    <trkpt lat="51.8662298" lon="21.4350066">
+      <ele>108</ele>
+      <time>2022-01-18T01:33:23Z</time>
+    </trkpt>
+    <trkpt lat="51.8653951" lon="21.4350066">
+      <ele>106</ele>
+      <time>2022-01-18T01:34:54Z</time>
+    </trkpt>
+    <trkpt lat="51.8646729" lon="21.4349958">
+      <ele>108</ele>
+      <time>2022-01-18T01:36:14Z</time>
+    </trkpt>
+    <trkpt lat="51.8622277" lon="21.4348945">
+      <ele>106</ele>
+      <time>2022-01-18T01:40:42Z</time>
+    </trkpt>
+    <trkpt lat="51.8622471" lon="21.433377">
+      <ele>107</ele>
+      <time>2022-01-18T01:42:25Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

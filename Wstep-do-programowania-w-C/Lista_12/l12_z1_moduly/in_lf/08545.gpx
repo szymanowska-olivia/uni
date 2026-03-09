@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:38Z</time>
+    <bounds maxlat="49.487796" maxlon="20.34088" minlat="49.487297" minlon="20.339859"/>
+  </metadata>
+  <wpt lat="49.487796" lon="20.34088">
+    <ele>1189</ele>
+    <name>Baza namiotowa Luban</name>
+    <link href="https://mapa-turystyczna.pl/node/60">
+      <text>Baza namiotowa Luban</text>
+    </link>
+  </wpt>
+  <wpt lat="49.487344" lon="20.339859">
+    <ele>1174</ele>
+    <name>Skrzyzowanie szlakow niebieski / zielony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/5945">
+      <text>Skrzyzowanie szlakow niebieski / zielony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Baza namiotowa Luban - Skrzyzowanie szlakow niebieski / zielony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.487796,20.34088;49.48735650000279,20.340530000000005;49.487344,20.339859">
+    <text>Baza namiotowa Luban - Skrzyzowanie szlakow niebieski / zielony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.487796" lon="20.34088">
+      <ele>1189</ele>
+      <time>2022-01-17T22:40:38Z</time>
+    </trkpt>
+    <trkpt lat="49.487697" lon="20.340853">
+      <ele>1187</ele>
+      <time>2022-01-17T22:40:50Z</time>
+    </trkpt>
+    <trkpt lat="49.487672" lon="20.34081">
+      <ele>1187</ele>
+      <time>2022-01-17T22:40:54Z</time>
+    </trkpt>
+    <trkpt lat="49.487633" lon="20.340778">
+      <ele>1186</ele>
+      <time>2022-01-17T22:41:00Z</time>
+    </trkpt>
+    <trkpt lat="49.487547" lon="20.340773">
+      <ele>1184</ele>
+      <time>2022-01-17T22:41:10Z</time>
+    </trkpt>
+    <trkpt lat="49.487475" lon="20.340657">
+      <ele>1182</ele>
+      <time>2022-01-17T22:41:22Z</time>
+    </trkpt>
+    <trkpt lat="49.487399" lon="20.340601">
+      <ele>1179</ele>
+      <time>2022-01-17T22:41:33Z</time>
+    </trkpt>
+    <trkpt lat="49.487373" lon="20.340545">
+      <ele>1178</ele>
+      <time>2022-01-17T22:41:38Z</time>
+    </trkpt>
+    <trkpt lat="49.48734" lon="20.340515">
+      <ele>1177</ele>
+      <time>2022-01-17T22:41:43Z</time>
+    </trkpt>
+    <trkpt lat="49.487297" lon="20.340501">
+      <ele>1176</ele>
+      <time>2022-01-17T22:41:48Z</time>
+    </trkpt>
+    <trkpt lat="49.487323" lon="20.340012">
+      <ele>1174</ele>
+      <time>2022-01-17T22:42:26Z</time>
+    </trkpt>
+    <trkpt lat="49.487344" lon="20.339859">
+      <ele>1174</ele>
+      <time>2022-01-17T22:42:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

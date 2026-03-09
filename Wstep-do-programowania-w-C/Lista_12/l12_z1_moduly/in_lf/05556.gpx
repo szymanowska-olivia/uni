@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:57:30Z</time>
+    <bounds maxlat="49.598785" maxlon="18.82653" minlat="49.597505" minlon="18.825744"/>
+  </metadata>
+  <wpt lat="49.598785" lon="18.825744">
+    <ele>953</ele>
+    <name>Pod Kyrkawica</name>
+    <link href="https://mapa-turystyczna.pl/node/767">
+      <text>Pod Kyrkawica</text>
+    </link>
+  </wpt>
+  <wpt lat="49.597505" lon="18.82653">
+    <ele>973</ele>
+    <name>Kyrkawica</name>
+    <link href="https://mapa-turystyczna.pl/node/3894">
+      <text>Kyrkawica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Kyrkawica - Kyrkawica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.598785,18.825744;49.59800550019385,18.826187499999996;49.597505,18.82653">
+    <text>Pod Kyrkawica - Kyrkawica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.598785" lon="18.825744">
+      <ele>953</ele>
+      <time>2022-01-17T21:57:30Z</time>
+    </trkpt>
+    <trkpt lat="49.598143" lon="18.826065">
+      <ele>965</ele>
+      <time>2022-01-17T21:59:57Z</time>
+    </trkpt>
+    <trkpt lat="49.597868" lon="18.82631">
+      <ele>968</ele>
+      <time>2022-01-17T22:01:06Z</time>
+    </trkpt>
+    <trkpt lat="49.597505" lon="18.82653">
+      <ele>973</ele>
+      <time>2022-01-17T22:02:30Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:25:08Z</time>
+    <bounds maxlat="50.1238559" maxlon="16.3480425" minlat="50.1237664" minlon="16.3473934"/>
+  </metadata>
+  <wpt lat="50.123766" lon="16.347393">
+    <ele>354</ele>
+    <name>Pekelec, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7689">
+      <text>Pekelec, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.123856" lon="16.348042">
+    <ele>353</ele>
+    <name>Pekelec</name>
+    <link href="https://mapa-turystyczna.pl/node/7688">
+      <text>Pekelec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pekelec, rozc. - Pekelec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1237664,16.3473934;50.1238111500209,16.34771794999999;50.1238559,16.3480425">
+    <text>Pekelec, rozc. - Pekelec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1237664" lon="16.3473934">
+      <ele>354</ele>
+      <time>2022-01-17T23:25:08Z</time>
+    </trkpt>
+    <trkpt lat="50.1238559" lon="16.3480425">
+      <ele>353</ele>
+      <time>2022-01-17T23:26:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

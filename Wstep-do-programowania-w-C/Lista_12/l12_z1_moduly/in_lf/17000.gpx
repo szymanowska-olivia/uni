@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:27Z</time>
+    <bounds maxlat="52.2944696" maxlon="16.8753152" minlat="52.2935082" minlon="16.8707559"/>
+  </metadata>
+  <wpt lat="52.29447" lon="16.870756">
+    <ele>64</ele>
+    <name>Puszczykowo, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/10239">
+      <text>Puszczykowo, stacja kolejowa</text>
+    </link>
+  </wpt>
+  <wpt lat="52.293508" lon="16.875315">
+    <ele>69</ele>
+    <name>Puszczykowo, ul. Wodziczki</name>
+    <link href="https://mapa-turystyczna.pl/node/11623">
+      <text>Puszczykowo, ul. Wodziczki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Puszczykowo, stacja kolejowa - Puszczykowo, ul. Wodziczki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2944696,16.8707559;52.2941451011887,16.872273549999992;52.2935082,16.8753152">
+    <text>Puszczykowo, stacja kolejowa - Puszczykowo, ul. Wodziczki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2944696" lon="16.8707559">
+      <ele>64</ele>
+      <time>2022-01-18T01:06:27Z</time>
+    </trkpt>
+    <trkpt lat="52.2938206" lon="16.8737912">
+      <ele>72</ele>
+      <time>2022-01-18T01:09:47Z</time>
+    </trkpt>
+    <trkpt lat="52.2936631" lon="16.8745529">
+      <ele>70</ele>
+      <time>2022-01-18T01:10:37Z</time>
+    </trkpt>
+    <trkpt lat="52.2935082" lon="16.8753152">
+      <ele>69</ele>
+      <time>2022-01-18T01:11:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

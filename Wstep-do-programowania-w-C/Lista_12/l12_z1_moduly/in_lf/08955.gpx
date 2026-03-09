@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:21Z</time>
+    <bounds maxlat="50.5054061" maxlon="16.1335731" minlat="50.5038537" minlon="16.1313522"/>
+  </metadata>
+  <wpt lat="50.503854" lon="16.131352">
+    <ele>529</ele>
+    <name>Nad Chlivci, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6235">
+      <text>Nad Chlivci, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.505406" lon="16.132704">
+    <ele>540</ele>
+    <name>Nad Chlivci, bus</name>
+    <link href="https://mapa-turystyczna.pl/node/6234">
+      <text>Nad Chlivci, bus</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Chlivci, rozc. - Nad Chlivci, bus</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5038537,16.1313522;50.504479750013616,16.13317880000002;50.5054061,16.132704">
+    <text>Nad Chlivci, rozc. - Nad Chlivci, bus</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5038537" lon="16.1313522">
+      <ele>529</ele>
+      <time>2022-01-17T22:48:21Z</time>
+    </trkpt>
+    <trkpt lat="50.504188" lon="16.1320657">
+      <ele>524</ele>
+      <time>2022-01-17T22:49:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5044098" lon="16.1326236">
+      <ele>522</ele>
+      <time>2022-01-17T22:50:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5044439" lon="16.1328918">
+      <ele>522</ele>
+      <time>2022-01-17T22:50:28Z</time>
+    </trkpt>
+    <trkpt lat="50.5045156" lon="16.1334658">
+      <ele>529</ele>
+      <time>2022-01-17T22:51:09Z</time>
+    </trkpt>
+    <trkpt lat="50.5046793" lon="16.1335731">
+      <ele>535</ele>
+      <time>2022-01-17T22:51:30Z</time>
+    </trkpt>
+    <trkpt lat="50.5048329" lon="16.1334604">
+      <ele>538</ele>
+      <time>2022-01-17T22:51:49Z</time>
+    </trkpt>
+    <trkpt lat="50.5053992" lon="16.1330366">
+      <ele>543</ele>
+      <time>2022-01-17T22:52:58Z</time>
+    </trkpt>
+    <trkpt lat="50.5054061" lon="16.132704">
+      <ele>540</ele>
+      <time>2022-01-17T22:53:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

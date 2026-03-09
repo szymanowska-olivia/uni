@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:27:15Z</time>
+    <bounds maxlat="50.816935" maxlon="15.370219" minlat="50.8160427" minlon="15.3684247"/>
+  </metadata>
+  <wpt lat="50.816935" lon="15.368425">
+    <ele>799</ele>
+    <name>Karlovsky most</name>
+    <link href="https://mapa-turystyczna.pl/node/2316">
+      <text>Karlovsky most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.816043" lon="15.370219">
+    <ele>781</ele>
+    <name>Karlovsky most, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/2289">
+      <text>Karlovsky most, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karlovsky most - Karlovsky most, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.816935,15.3684247;50.81671140004332,15.369497500000001;50.8160427,15.370219">
+    <text>Karlovsky most - Karlovsky most, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.816935" lon="15.3684247">
+      <ele>799</ele>
+      <time>2022-01-17T21:27:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8168396" lon="15.3689933">
+      <ele>794</ele>
+      <time>2022-01-17T21:27:58Z</time>
+    </trkpt>
+    <trkpt lat="50.816775" lon="15.3693473">
+      <ele>789</ele>
+      <time>2022-01-17T21:28:26Z</time>
+    </trkpt>
+    <trkpt lat="50.8166478" lon="15.3696477">
+      <ele>785</ele>
+      <time>2022-01-17T21:28:52Z</time>
+    </trkpt>
+    <trkpt lat="50.8163334" lon="15.3700286">
+      <ele>781</ele>
+      <time>2022-01-17T21:29:38Z</time>
+    </trkpt>
+    <trkpt lat="50.8161389" lon="15.3701788">
+      <ele>780</ele>
+      <time>2022-01-17T21:30:03Z</time>
+    </trkpt>
+    <trkpt lat="50.8160806" lon="15.3701855">
+      <ele>780</ele>
+      <time>2022-01-17T21:30:10Z</time>
+    </trkpt>
+    <trkpt lat="50.8160427" lon="15.370219">
+      <ele>781</ele>
+      <time>2022-01-17T21:30:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

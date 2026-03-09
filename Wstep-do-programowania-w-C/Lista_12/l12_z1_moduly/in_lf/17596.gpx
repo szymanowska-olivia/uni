@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:16:09Z</time>
+    <bounds maxlat="52.1173901" maxlon="21.0861856" minlat="52.1155224" minlon="21.0855457"/>
+  </metadata>
+  <wpt lat="52.115522" lon="21.08596">
+    <ele>102</ele>
+    <name>Powsin, Park Kultury</name>
+    <link href="https://mapa-turystyczna.pl/node/11940">
+      <text>Powsin, Park Kultury</text>
+    </link>
+  </wpt>
+  <wpt lat="52.11739" lon="21.086186">
+    <ele>103</ele>
+    <name>Las Kabacki, Trakt Lesny</name>
+    <link href="https://mapa-turystyczna.pl/node/11941">
+      <text>Las Kabacki, Trakt Lesny</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Powsin, Park Kultury - Las Kabacki, Trakt Lesny</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1155224,21.0859603;52.11643765002922,21.08555909999998;52.1173901,21.0861856">
+    <text>Powsin, Park Kultury - Las Kabacki, Trakt Lesny</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1155224" lon="21.0859603">
+      <ele>102</ele>
+      <time>2022-01-18T01:16:09Z</time>
+    </trkpt>
+    <trkpt lat="52.1159584" lon="21.0858407">
+      <ele>99</ele>
+      <time>2022-01-18T01:17:15Z</time>
+    </trkpt>
+    <trkpt lat="52.1161132" lon="21.0857281">
+      <ele>98</ele>
+      <time>2022-01-18T01:17:41Z</time>
+    </trkpt>
+    <trkpt lat="52.1162483" lon="21.0855886">
+      <ele>98</ele>
+      <time>2022-01-18T01:18:05Z</time>
+    </trkpt>
+    <trkpt lat="52.1163175" lon="21.0855457">
+      <ele>98</ele>
+      <time>2022-01-18T01:18:16Z</time>
+    </trkpt>
+    <trkpt lat="52.1163866" lon="21.0855457">
+      <ele>98</ele>
+      <time>2022-01-18T01:18:26Z</time>
+    </trkpt>
+    <trkpt lat="52.1164887" lon="21.0855725">
+      <ele>99</ele>
+      <time>2022-01-18T01:18:42Z</time>
+    </trkpt>
+    <trkpt lat="52.116604" lon="21.0857227">
+      <ele>100</ele>
+      <time>2022-01-18T01:19:04Z</time>
+    </trkpt>
+    <trkpt lat="52.116716" lon="21.0858085">
+      <ele>101</ele>
+      <time>2022-01-18T01:19:22Z</time>
+    </trkpt>
+    <trkpt lat="52.116805" lon="21.0858729">
+      <ele>101</ele>
+      <time>2022-01-18T01:19:37Z</time>
+    </trkpt>
+    <trkpt lat="52.1173901" lon="21.0861856">
+      <ele>103</ele>
+      <time>2022-01-18T01:21:09Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

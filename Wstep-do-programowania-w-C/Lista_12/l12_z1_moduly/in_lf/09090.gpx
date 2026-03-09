@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:50:47Z</time>
+    <bounds maxlat="50.5789106" maxlon="15.9611982" minlat="50.5779261" minlon="15.9583873"/>
+  </metadata>
+  <wpt lat="50.578911" lon="15.958387">
+    <ele>403</ele>
+    <name>Trutnov-Porici, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6325">
+      <text>Trutnov-Porici, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.577926" lon="15.961198">
+    <ele>395</ele>
+    <name>Trutnov zastavka, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6324">
+      <text>Trutnov zastavka, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trutnov-Porici, zeleznicni stanice - Trutnov zastavka, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5789106,15.9583873;50.57861085000788,15.960109200000003;50.5779261,15.9611982">
+    <text>Trutnov-Porici, zeleznicni stanice - Trutnov zastavka, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5789106" lon="15.9583873">
+      <ele>403</ele>
+      <time>2022-01-17T22:50:47Z</time>
+    </trkpt>
+    <trkpt lat="50.5788561" lon="15.958634">
+      <ele>402</ele>
+      <time>2022-01-17T22:51:10Z</time>
+    </trkpt>
+    <trkpt lat="50.5787845" lon="15.959428">
+      <ele>401</ele>
+      <time>2022-01-17T22:52:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5786381" lon="15.9600019">
+      <ele>402</ele>
+      <time>2022-01-17T22:53:16Z</time>
+    </trkpt>
+    <trkpt lat="50.5785836" lon="15.9602165">
+      <ele>402</ele>
+      <time>2022-01-17T22:53:37Z</time>
+    </trkpt>
+    <trkpt lat="50.5783723" lon="15.9606242">
+      <ele>400</ele>
+      <time>2022-01-17T22:54:23Z</time>
+    </trkpt>
+    <trkpt lat="50.5782225" lon="15.9609675">
+      <ele>399</ele>
+      <time>2022-01-17T22:55:00Z</time>
+    </trkpt>
+    <trkpt lat="50.5779261" lon="15.9611982">
+      <ele>395</ele>
+      <time>2022-01-17T22:55:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

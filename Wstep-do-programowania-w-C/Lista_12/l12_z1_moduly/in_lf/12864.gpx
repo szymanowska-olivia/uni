@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:57:46Z</time>
+    <bounds maxlat="50.7735476" maxlon="15.1688157" minlat="50.7706116" minlon="15.1661925"/>
+  </metadata>
+  <wpt lat="50.773548" lon="15.166192">
+    <ele>553</ele>
+    <name>Janov nad Nisou</name>
+    <link href="https://mapa-turystyczna.pl/node/8851">
+      <text>Janov nad Nisou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.770612" lon="15.168816">
+    <ele>539</ele>
+    <name>Janov nad Nisou, Za Prahou</name>
+    <link href="https://mapa-turystyczna.pl/node/8852">
+      <text>Janov nad Nisou, Za Prahou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Janov nad Nisou - Janov nad Nisou, Za Prahou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7735476,15.1661925;50.77211605013805,15.16731505000001;50.7706116,15.1688157">
+    <text>Janov nad Nisou - Janov nad Nisou, Za Prahou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7735476" lon="15.1661925">
+      <ele>553</ele>
+      <time>2022-01-17T23:57:46Z</time>
+    </trkpt>
+    <trkpt lat="50.7727725" lon="15.1665158">
+      <ele>548</ele>
+      <time>2022-01-17T23:58:55Z</time>
+    </trkpt>
+    <trkpt lat="50.7725452" lon="15.1666391">
+      <ele>547</ele>
+      <time>2022-01-17T23:59:15Z</time>
+    </trkpt>
+    <trkpt lat="50.7723756" lon="15.1668054">
+      <ele>547</ele>
+      <time>2022-01-17T23:59:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7722297" lon="15.1671863">
+      <ele>543</ele>
+      <time>2022-01-17T23:59:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7720024" lon="15.1674438">
+      <ele>540</ele>
+      <time>2022-01-18T00:00:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7718633" lon="15.1675726">
+      <ele>539</ele>
+      <time>2022-01-18T00:00:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7714333" lon="15.1678032">
+      <ele>539</ele>
+      <time>2022-01-18T00:01:13Z</time>
+    </trkpt>
+    <trkpt lat="50.7710575" lon="15.1680553">
+      <ele>537</ele>
+      <time>2022-01-18T00:01:48Z</time>
+    </trkpt>
+    <trkpt lat="50.7706538" lon="15.1686079">
+      <ele>536</ele>
+      <time>2022-01-18T00:02:34Z</time>
+    </trkpt>
+    <trkpt lat="50.7706116" lon="15.1688157">
+      <ele>539</ele>
+      <time>2022-01-18T00:02:46Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

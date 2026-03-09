@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:28Z</time>
+    <bounds maxlat="52.5736851" maxlon="17.1071935" minlat="52.5727628" minlon="17.1059371"/>
+  </metadata>
+  <wpt lat="52.573685" lon="17.107194">
+    <ele>89</ele>
+    <name>Gleboczek, cmentarz</name>
+    <link href="https://mapa-turystyczna.pl/node/12988">
+      <text>Gleboczek, cmentarz</text>
+    </link>
+  </wpt>
+  <wpt lat="52.572763" lon="17.105937">
+    <ele>82</ele>
+    <name>Gleboczek</name>
+    <link href="https://mapa-turystyczna.pl/node/12829">
+      <text>Gleboczek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gleboczek, cmentarz - Gleboczek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.5736851,17.1071935;52.57327220040774,17.10642140000001;52.5727628,17.1059371">
+    <text>Gleboczek, cmentarz - Gleboczek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.5736851" lon="17.1071935">
+      <ele>89</ele>
+      <time>2022-01-18T01:44:28Z</time>
+    </trkpt>
+    <trkpt lat="52.573683" lon="17.1071831">
+      <ele>89</ele>
+      <time>2022-01-18T01:44:29Z</time>
+    </trkpt>
+    <trkpt lat="52.5734613" lon="17.1066628">
+      <ele>86</ele>
+      <time>2022-01-18T01:45:07Z</time>
+    </trkpt>
+    <trkpt lat="52.5730831" lon="17.10618">
+      <ele>83</ele>
+      <time>2022-01-18T01:45:53Z</time>
+    </trkpt>
+    <trkpt lat="52.5727628" lon="17.1059371">
+      <ele>82</ele>
+      <time>2022-01-18T01:46:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

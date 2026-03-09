@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:15Z</time>
+    <bounds maxlat="50.8888584" maxlon="15.292722" minlat="50.8885243" minlon="15.2909816"/>
+  </metadata>
+  <wpt lat="50.888858" lon="15.290982">
+    <ele>1058</ele>
+    <name>Lacznik, odejscie szlaku zoltego</name>
+    <link href="https://mapa-turystyczna.pl/node/5658">
+      <text>Lacznik, odejscie szlaku zoltego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.888524" lon="15.292722">
+    <ele>1059</ele>
+    <name>Lacznik</name>
+    <link href="https://mapa-turystyczna.pl/node/2299">
+      <text>Lacznik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lacznik, odejscie szlaku zoltego - Lacznik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8888584,15.2909816;50.8886860500368,15.292050449999998;50.8885243,15.292722">
+    <text>Lacznik, odejscie szlaku zoltego - Lacznik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8888584" lon="15.2909816">
+      <ele>1058</ele>
+      <time>2022-01-17T22:33:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8887446" lon="15.2917115">
+      <ele>1057</ele>
+      <time>2022-01-17T22:34:04Z</time>
+    </trkpt>
+    <trkpt lat="50.8886275" lon="15.2923894">
+      <ele>1058</ele>
+      <time>2022-01-17T22:34:51Z</time>
+    </trkpt>
+    <trkpt lat="50.8885243" lon="15.292722">
+      <ele>1059</ele>
+      <time>2022-01-17T22:35:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

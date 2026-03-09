@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:07:57Z</time>
+    <bounds maxlat="49.9778216" maxlon="18.9416509" minlat="49.977551" minlon="18.9405141"/>
+  </metadata>
+  <wpt lat="49.977553" lon="18.940514">
+    <ele>250</ele>
+    <name>Pszczyna, ul. Warowna</name>
+    <link href="https://mapa-turystyczna.pl/node/9284">
+      <text>Pszczyna, ul. Warowna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.977822" lon="18.941651">
+    <ele>250</ele>
+    <name>Pszczyna</name>
+    <link href="https://mapa-turystyczna.pl/node/9305">
+      <text>Pszczyna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pszczyna, ul. Warowna - Pszczyna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.9775532,18.9405141;49.977637250020905,18.941178949999962;49.9778216,18.9416509">
+    <text>Pszczyna, ul. Warowna - Pszczyna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.9775532" lon="18.9405141">
+      <ele>250</ele>
+      <time>2022-01-18T00:07:57Z</time>
+    </trkpt>
+    <trkpt lat="49.977551" lon="18.9408624">
+      <ele>251</ele>
+      <time>2022-01-18T00:08:14Z</time>
+    </trkpt>
+    <trkpt lat="49.9775924" lon="18.9410502">
+      <ele>251</ele>
+      <time>2022-01-18T00:08:23Z</time>
+    </trkpt>
+    <trkpt lat="49.9776821" lon="18.9413077">
+      <ele>251</ele>
+      <time>2022-01-18T00:08:37Z</time>
+    </trkpt>
+    <trkpt lat="49.9778216" lon="18.9416509">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

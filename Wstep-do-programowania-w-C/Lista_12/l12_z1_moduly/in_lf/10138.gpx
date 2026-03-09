@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:10:57Z</time>
+    <bounds maxlat="50.8637465" maxlon="21.0898018" minlat="50.8621057" minlon="21.0868639"/>
+  </metadata>
+  <wpt lat="50.862106" lon="21.086864">
+    <ele>295</ele>
+    <name>Nowa Slupia, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/7134">
+      <text>Nowa Slupia, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.863746" lon="21.089802">
+    <ele>287</ele>
+    <name>Nowa Slupia</name>
+    <link href="https://mapa-turystyczna.pl/node/3114">
+      <text>Nowa Slupia</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nowa Slupia, rozejscie szlakow - Nowa Slupia</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8621057,21.0868639;50.86292610721781,21.088332849999983;50.8637465,21.0898018">
+    <text>Nowa Slupia, rozejscie szlakow - Nowa Slupia</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8621057" lon="21.0868639">
+      <ele>295</ele>
+      <time>2022-01-17T23:10:57Z</time>
+    </trkpt>
+    <trkpt lat="50.8637465" lon="21.0898018">
+      <ele>287</ele>
+      <time>2022-01-17T23:15:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

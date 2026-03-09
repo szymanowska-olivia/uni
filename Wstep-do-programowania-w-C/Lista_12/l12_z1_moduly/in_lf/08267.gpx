@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:35:45Z</time>
+    <bounds maxlat="50.5232397" maxlon="16.3159955" minlat="50.5230624" minlon="16.3149065"/>
+  </metadata>
+  <wpt lat="50.52324" lon="16.314906">
+    <ele>721</ele>
+    <name>Zeleny hajek, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5747">
+      <text>Zeleny hajek, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.523062" lon="16.315995">
+    <ele>722</ele>
+    <name>U Zeleneho hajku</name>
+    <link href="https://mapa-turystyczna.pl/node/5746">
+      <text>U Zeleneho hajku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zeleny hajek, rozc. - U Zeleneho hajku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5232397,16.3149065;50.523162950062414,16.315197500000004;50.5230624,16.3159955">
+    <text>Zeleny hajek, rozc. - U Zeleneho hajku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5232397" lon="16.3149065">
+      <ele>721</ele>
+      <time>2022-01-17T22:35:45Z</time>
+    </trkpt>
+    <trkpt lat="50.5230862" lon="16.3154885">
+      <ele>722</ele>
+      <time>2022-01-17T22:36:18Z</time>
+    </trkpt>
+    <trkpt lat="50.5230624" lon="16.3159955">
+      <ele>722</ele>
+      <time>2022-01-17T22:36:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

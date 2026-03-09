@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:17:21Z</time>
+    <bounds maxlat="49.5133608" maxlon="18.4210682" minlat="49.5117586" minlon="18.4169537"/>
+  </metadata>
+  <wpt lat="49.513361" lon="18.416954">
+    <ele>535</ele>
+    <name>Sance, prehrada</name>
+    <link href="https://mapa-turystyczna.pl/node/7455">
+      <text>Sance, prehrada</text>
+    </link>
+  </wpt>
+  <wpt lat="49.511759" lon="18.421068">
+    <ele>552</ele>
+    <name>Sance, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7456">
+      <text>Sance, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sance, prehrada - Sance, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.5133608,18.4169537;49.51201365004596,18.418624700000006;49.5117586,18.4210682">
+    <text>Sance, prehrada - Sance, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.5133608" lon="18.4169537">
+      <ele>535</ele>
+      <time>2022-01-17T23:17:21Z</time>
+    </trkpt>
+    <trkpt lat="49.5130856" lon="18.4171897">
+      <ele>537</ele>
+      <time>2022-01-17T23:18:17Z</time>
+    </trkpt>
+    <trkpt lat="49.512807" lon="18.4174204">
+      <ele>534</ele>
+      <time>2022-01-17T23:19:13Z</time>
+    </trkpt>
+    <trkpt lat="49.5124378" lon="18.4177905">
+      <ele>535</ele>
+      <time>2022-01-17T23:20:30Z</time>
+    </trkpt>
+    <trkpt lat="49.5122497" lon="18.4180534">
+      <ele>534</ele>
+      <time>2022-01-17T23:21:15Z</time>
+    </trkpt>
+    <trkpt lat="49.5120807" lon="18.418445">
+      <ele>537</ele>
+      <time>2022-01-17T23:22:09Z</time>
+    </trkpt>
+    <trkpt lat="49.5119466" lon="18.4188044">
+      <ele>541</ele>
+      <time>2022-01-17T23:22:57Z</time>
+    </trkpt>
+    <trkpt lat="49.5118491" lon="18.4192336">
+      <ele>545</ele>
+      <time>2022-01-17T23:23:50Z</time>
+    </trkpt>
+    <trkpt lat="49.5117829" lon="18.4203064">
+      <ele>550</ele>
+      <time>2022-01-17T23:25:54Z</time>
+    </trkpt>
+    <trkpt lat="49.5117586" lon="18.4210682">
+      <ele>552</ele>
+      <time>2022-01-17T23:27:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

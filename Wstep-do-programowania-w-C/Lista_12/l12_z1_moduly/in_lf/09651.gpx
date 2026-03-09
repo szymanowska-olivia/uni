@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:01:38Z</time>
+    <bounds maxlat="50.209445" maxlon="17.3344409" minlat="50.2036187" minlon="17.3264587"/>
+  </metadata>
+  <wpt lat="50.203619" lon="17.326459">
+    <ele>917</ele>
+    <name>Kobrstejn, zricenina rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6770">
+      <text>Kobrstejn, zricenina rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.209445" lon="17.334377">
+    <ele>730</ele>
+    <name>Pod Kobrstejnem</name>
+    <link href="https://mapa-turystyczna.pl/node/6768">
+      <text>Pod Kobrstejnem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Kobrstejn, zricenina rozc. - Pod Kobrstejnem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2036187,17.3264587;50.20674480134875,17.33149319999999;50.209445,17.3343766">
+    <text>Kobrstejn, zricenina rozc. - Pod Kobrstejnem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2036187" lon="17.3264587">
+      <ele>917</ele>
+      <time>2022-01-17T23:01:38Z</time>
+    </trkpt>
+    <trkpt lat="50.2039345" lon="17.3269844">
+      <ele>903</ele>
+      <time>2022-01-17T23:02:31Z</time>
+    </trkpt>
+    <trkpt lat="50.2050779" lon="17.3287922">
+      <ele>840</ele>
+      <time>2022-01-17T23:05:40Z</time>
+    </trkpt>
+    <trkpt lat="50.206386" lon="17.3309004">
+      <ele>798</ele>
+      <time>2022-01-17T23:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.2071036" lon="17.332086">
+      <ele>775</ele>
+      <time>2022-01-17T23:11:09Z</time>
+    </trkpt>
+    <trkpt lat="50.2075259" lon="17.3327726">
+      <ele>760</ele>
+      <time>2022-01-17T23:12:17Z</time>
+    </trkpt>
+    <trkpt lat="50.2078177" lon="17.3332018">
+      <ele>752</ele>
+      <time>2022-01-17T23:13:02Z</time>
+    </trkpt>
+    <trkpt lat="50.2083155" lon="17.3340279">
+      <ele>743</ele>
+      <time>2022-01-17T23:14:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2085559" lon="17.3343605">
+      <ele>737</ele>
+      <time>2022-01-17T23:14:59Z</time>
+    </trkpt>
+    <trkpt lat="50.2087721" lon="17.3344409">
+      <ele>735</ele>
+      <time>2022-01-17T23:15:23Z</time>
+    </trkpt>
+    <trkpt lat="50.2090296" lon="17.3343819">
+      <ele>735</ele>
+      <time>2022-01-17T23:15:52Z</time>
+    </trkpt>
+    <trkpt lat="50.209445" lon="17.3343766">
+      <ele>730</ele>
+      <time>2022-01-17T23:16:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:05:10Z</time>
+    <bounds maxlat="50.0184737" maxlon="17.0699215" minlat="50.0173948" minlon="17.0668262"/>
+  </metadata>
+  <wpt lat="50.017395" lon="17.066826">
+    <ele>404</ele>
+    <name>Sobotin, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6921">
+      <text>Sobotin, zeleznicni stanice</text>
+    </link>
+  </wpt>
+  <wpt lat="50.018474" lon="17.069921">
+    <ele>407</ele>
+    <name>Sobotin, Diakonie</name>
+    <link href="https://mapa-turystyczna.pl/node/6920">
+      <text>Sobotin, Diakonie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sobotin, zeleznicni stanice - Sobotin, Diakonie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0173948,17.0668262;50.01793945146929,17.068666249999996;50.0184737,17.0699215">
+    <text>Sobotin, zeleznicni stanice - Sobotin, Diakonie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0173948" lon="17.0668262">
+      <ele>404</ele>
+      <time>2022-01-17T23:05:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0175327" lon="17.0677865">
+      <ele>406</ele>
+      <time>2022-01-17T23:06:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0175637" lon="17.0679474">
+      <ele>407</ele>
+      <time>2022-01-17T23:06:46Z</time>
+    </trkpt>
+    <trkpt lat="50.0183152" lon="17.0693851">
+      <ele>405</ele>
+      <time>2022-01-17T23:09:21Z</time>
+    </trkpt>
+    <trkpt lat="50.0184324" lon="17.069723">
+      <ele>406</ele>
+      <time>2022-01-17T23:09:53Z</time>
+    </trkpt>
+    <trkpt lat="50.0184737" lon="17.0699215">
+      <ele>407</ele>
+      <time>2022-01-17T23:10:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

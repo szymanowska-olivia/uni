@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:27Z</time>
+    <bounds maxlat="52.1083899" maxlon="21.2945934" minlat="52.1060762" minlon="21.2897525"/>
+  </metadata>
+  <wpt lat="52.108218" lon="21.294593">
+    <ele>105</ele>
+    <name>Otwock, ul. Orzeszkowej</name>
+    <link href="https://mapa-turystyczna.pl/node/12895">
+      <text>Otwock, ul. Orzeszkowej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.106076" lon="21.289763">
+    <ele>107</ele>
+    <name>Otwock, ul. Krasinskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/12894">
+      <text>Otwock, ul. Krasinskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, ul. Orzeszkowej - Otwock, ul. Krasinskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1082175,21.2945934;52.10835370001468,21.290859849999986;52.1060762,21.2897633">
+    <text>Otwock, ul. Orzeszkowej - Otwock, ul. Krasinskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1082175" lon="21.2945934">
+      <ele>105</ele>
+      <time>2022-01-18T01:41:27Z</time>
+    </trkpt>
+    <trkpt lat="52.1081593" lon="21.2917477">
+      <ele>106</ele>
+      <time>2022-01-18T01:45:02Z</time>
+    </trkpt>
+    <trkpt lat="52.1083043" lon="21.2914044">
+      <ele>106</ele>
+      <time>2022-01-18T01:45:34Z</time>
+    </trkpt>
+    <trkpt lat="52.1083175" lon="21.2911093">
+      <ele>105</ele>
+      <time>2022-01-18T01:45:56Z</time>
+    </trkpt>
+    <trkpt lat="52.1083899" lon="21.2906104">
+      <ele>103</ele>
+      <time>2022-01-18T01:46:35Z</time>
+    </trkpt>
+    <trkpt lat="52.1081533" lon="21.2905391">
+      <ele>102</ele>
+      <time>2022-01-18T01:47:04Z</time>
+    </trkpt>
+    <trkpt lat="52.1074635" lon="21.2903104">
+      <ele>102</ele>
+      <time>2022-01-18T01:48:31Z</time>
+    </trkpt>
+    <trkpt lat="52.1061126" lon="21.2897525">
+      <ele>107</ele>
+      <time>2022-01-18T01:51:22Z</time>
+    </trkpt>
+    <trkpt lat="52.1060762" lon="21.2897633">
+      <ele>107</ele>
+      <time>2022-01-18T01:51:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

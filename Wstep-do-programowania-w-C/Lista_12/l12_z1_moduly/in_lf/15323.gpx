@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:37:16Z</time>
+    <bounds maxlat="51.6305204" maxlon="17.356809" minlat="51.6285757" minlon="17.3547061"/>
+  </metadata>
+  <wpt lat="51.628576" lon="17.354706">
+    <ele>132</ele>
+    <name>Cieszkow, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/10458">
+      <text>Cieszkow, rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.63052" lon="17.356809">
+    <ele>134</ele>
+    <name>Cieszkow</name>
+    <link href="https://mapa-turystyczna.pl/node/10457">
+      <text>Cieszkow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Cieszkow, rozejscie szlakow - Cieszkow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.6285757,17.3547061;51.629907704137715,17.356272550000003;51.6305204,17.356809">
+    <text>Cieszkow, rozejscie szlakow - Cieszkow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.6285757" lon="17.3547061">
+      <ele>132</ele>
+      <time>2022-01-18T00:37:16Z</time>
+    </trkpt>
+    <trkpt lat="51.6291618" lon="17.355602">
+      <ele>134</ele>
+      <time>2022-01-18T00:38:59Z</time>
+    </trkpt>
+    <trkpt lat="51.629295" lon="17.3557361">
+      <ele>134</ele>
+      <time>2022-01-18T00:39:19Z</time>
+    </trkpt>
+    <trkpt lat="51.6305204" lon="17.356809">
+      <ele>134</ele>
+      <time>2022-01-18T00:42:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

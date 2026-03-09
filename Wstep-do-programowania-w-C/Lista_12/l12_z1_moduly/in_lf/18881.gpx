@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:38:49Z</time>
+    <bounds maxlat="50.2773536" maxlon="16.5385544" minlat="50.2752087" minlon="16.5315363"/>
+  </metadata>
+  <wpt lat="50.276972" lon="16.538554">
+    <ele>808</ele>
+    <name>Schronisko PTTK Jagodna</name>
+    <link href="https://mapa-turystyczna.pl/node/1908">
+      <text>Schronisko PTTK Jagodna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.275209" lon="16.531536">
+    <ele>819</ele>
+    <name>Autostrada Sudecka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12784">
+      <text>Autostrada Sudecka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK Jagodna - Autostrada Sudecka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2769716,16.5385544;50.275942651170546,16.534818300000005;50.2752087,16.5315363">
+    <text>Schronisko PTTK Jagodna - Autostrada Sudecka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2769716" lon="16.5385544">
+      <ele>808</ele>
+      <time>2022-01-18T01:38:49Z</time>
+    </trkpt>
+    <trkpt lat="50.2771283" lon="16.538278">
+      <ele>806</ele>
+      <time>2022-01-18T01:39:15Z</time>
+    </trkpt>
+    <trkpt lat="50.2773536" lon="16.5376798">
+      <ele>805</ele>
+      <time>2022-01-18T01:40:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2767365" lon="16.5372828">
+      <ele>808</ele>
+      <time>2022-01-18T01:41:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2765445" lon="16.5370575">
+      <ele>809</ele>
+      <time>2022-01-18T01:41:47Z</time>
+    </trkpt>
+    <trkpt lat="50.2762765" lon="16.5361066">
+      <ele>808</ele>
+      <time>2022-01-18T01:43:01Z</time>
+    </trkpt>
+    <trkpt lat="50.2756088" lon="16.53353">
+      <ele>815</ele>
+      <time>2022-01-18T01:46:20Z</time>
+    </trkpt>
+    <trkpt lat="50.2752087" lon="16.5315363">
+      <ele>819</ele>
+      <time>2022-01-18T01:48:49Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

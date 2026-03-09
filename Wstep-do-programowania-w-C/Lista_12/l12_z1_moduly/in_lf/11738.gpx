@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:39:06Z</time>
+    <bounds maxlat="50.2801964" maxlon="17.52686" minlat="50.2789977" minlon="17.511574"/>
+  </metadata>
+  <wpt lat="50.280196" lon="17.52686">
+    <ele>454</ele>
+    <name>Dlugota</name>
+    <link href="https://mapa-turystyczna.pl/node/8179">
+      <text>Dlugota</text>
+    </link>
+  </wpt>
+  <wpt lat="50.278998" lon="17.511574">
+    <ele>340</ele>
+    <name>Wieszczyna, SSM</name>
+    <link href="https://mapa-turystyczna.pl/node/2623">
+      <text>Wieszczyna, SSM</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dlugota - Wieszczyna, SSM</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2801964,17.52686;50.27957805032221,17.515969349999985;50.2789977,17.511574">
+    <text>Dlugota - Wieszczyna, SSM</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2801964" lon="17.52686">
+      <ele>454</ele>
+      <time>2022-01-17T23:39:06Z</time>
+    </trkpt>
+    <trkpt lat="50.2798573" lon="17.5214727">
+      <ele>418</ele>
+      <time>2022-01-17T23:44:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2797532" lon="17.5191439">
+      <ele>398</ele>
+      <time>2022-01-17T23:46:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2794029" lon="17.5127948">
+      <ele>371</ele>
+      <time>2022-01-17T23:52:43Z</time>
+    </trkpt>
+    <trkpt lat="50.2789977" lon="17.511574">
+      <ele>340</ele>
+      <time>2022-01-17T23:54:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

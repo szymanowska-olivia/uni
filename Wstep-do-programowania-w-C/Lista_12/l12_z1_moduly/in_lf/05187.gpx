@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:52:13Z</time>
+    <bounds maxlat="49.9877585" maxlon="21.0113686" minlat="49.986259" minlon="21.005559"/>
+  </metadata>
+  <wpt lat="49.986259" lon="21.011369">
+    <ele>359</ele>
+    <name>Gora Sw. Marcina</name>
+    <link href="https://mapa-turystyczna.pl/node/3649">
+      <text>Gora Sw. Marcina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.987752" lon="21.005559">
+    <ele>328</ele>
+    <name>Tarnow, Wolka</name>
+    <link href="https://mapa-turystyczna.pl/node/3651">
+      <text>Tarnow, Wolka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Sw. Marcina - Tarnow, Wolka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.986259,21.0113686;49.98763045017046,21.007426450000004;49.9877524,21.005559">
+    <text>Gora Sw. Marcina - Tarnow, Wolka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.986259" lon="21.0113686">
+      <ele>359</ele>
+      <time>2022-01-17T21:52:13Z</time>
+    </trkpt>
+    <trkpt lat="49.9864861" lon="21.0112421">
+      <ele>357</ele>
+      <time>2022-01-17T21:52:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9866856" lon="21.0110727">
+      <ele>357</ele>
+      <time>2022-01-17T21:52:46Z</time>
+    </trkpt>
+    <trkpt lat="49.9868915" lon="21.0108089">
+      <ele>354</ele>
+      <time>2022-01-17T21:53:04Z</time>
+    </trkpt>
+    <trkpt lat="49.9871516" lon="21.0103886">
+      <ele>352</ele>
+      <time>2022-01-17T21:53:30Z</time>
+    </trkpt>
+    <trkpt lat="49.9873407" lon="21.0098807">
+      <ele>352</ele>
+      <time>2022-01-17T21:53:56Z</time>
+    </trkpt>
+    <trkpt lat="49.987436" lon="21.0095407">
+      <ele>350</ele>
+      <time>2022-01-17T21:54:13Z</time>
+    </trkpt>
+    <trkpt lat="49.9875024" lon="21.0091397">
+      <ele>347</ele>
+      <time>2022-01-17T21:54:32Z</time>
+    </trkpt>
+    <trkpt lat="49.9877585" lon="21.0057132">
+      <ele>328</ele>
+      <time>2022-01-17T21:57:06Z</time>
+    </trkpt>
+    <trkpt lat="49.9877524" lon="21.005559">
+      <ele>328</ele>
+      <time>2022-01-17T21:57:13Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:15:18Z</time>
+    <bounds maxlat="51.0774654" maxlon="20.7449309" minlat="51.0773816" minlon="20.7443162"/>
+  </metadata>
+  <wpt lat="51.077382" lon="20.744931">
+    <ele>327</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/7304">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="51.077465" lon="20.744316">
+    <ele>326</ele>
+    <name>Brama Piekielna</name>
+    <link href="https://mapa-turystyczna.pl/node/7305">
+      <text>Brama Piekielna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Brama Piekielna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.0773816,20.7449309;51.077444200004855,20.74449104999999;51.0774654,20.7443162">
+    <text>Rozejscie szlakow czerwony / zielony - Brama Piekielna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.0773816" lon="20.7449309">
+      <ele>327</ele>
+      <time>2022-01-17T23:15:18Z</time>
+    </trkpt>
+    <trkpt lat="51.077423" lon="20.7446659">
+      <ele>327</ele>
+      <time>2022-01-17T23:15:44Z</time>
+    </trkpt>
+    <trkpt lat="51.0774654" lon="20.7443162">
+      <ele>326</ele>
+      <time>2022-01-17T23:16:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

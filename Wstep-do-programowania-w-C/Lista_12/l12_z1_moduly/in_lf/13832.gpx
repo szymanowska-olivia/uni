@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:13:07Z</time>
+    <bounds maxlat="50.2099827" maxlon="18.9226867" minlat="50.2084899" minlon="18.9179992"/>
+  </metadata>
+  <wpt lat="50.209286" lon="18.917999">
+    <ele>267</ele>
+    <name>Rozejscie szlakow czerwony / zielony</name>
+    <link href="https://mapa-turystyczna.pl/node/9481">
+      <text>Rozejscie szlakow czerwony / zielony</text>
+    </link>
+  </wpt>
+  <wpt lat="50.20849" lon="18.922687">
+    <ele>269</ele>
+    <name>Starganiec, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9138">
+      <text>Starganiec, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow czerwony / zielony - Starganiec, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.209286,18.9179992;50.20970290082028,18.919911100000007;50.2084899,18.9226867">
+    <text>Rozejscie szlakow czerwony / zielony - Starganiec, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.209286" lon="18.9179992">
+      <ele>267</ele>
+      <time>2022-01-18T00:13:07Z</time>
+    </trkpt>
+    <trkpt lat="50.2093647" lon="18.9180543">
+      <ele>268</ele>
+      <time>2022-01-18T00:13:13Z</time>
+    </trkpt>
+    <trkpt lat="50.2094231" lon="18.9181079">
+      <ele>269</ele>
+      <time>2022-01-18T00:13:18Z</time>
+    </trkpt>
+    <trkpt lat="50.2099827" lon="18.9217143">
+      <ele>272</ele>
+      <time>2022-01-18T00:16:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2099003" lon="18.9219289">
+      <ele>271</ele>
+      <time>2022-01-18T00:16:19Z</time>
+    </trkpt>
+    <trkpt lat="50.2097939" lon="18.9220737">
+      <ele>271</ele>
+      <time>2022-01-18T00:16:29Z</time>
+    </trkpt>
+    <trkpt lat="50.2094334" lon="18.922299">
+      <ele>272</ele>
+      <time>2022-01-18T00:16:57Z</time>
+    </trkpt>
+    <trkpt lat="50.2084899" lon="18.9226867">
+      <ele>269</ele>
+      <time>2022-01-18T00:18:07Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

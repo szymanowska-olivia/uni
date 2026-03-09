@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:46:24Z</time>
+    <bounds maxlat="51.0700549" maxlon="16.0115755" minlat="51.069974" minlon="16.0100627"/>
+  </metadata>
+  <wpt lat="51.069974" lon="16.011575">
+    <ele>385</ele>
+    <name>Stanislawow</name>
+    <link href="https://mapa-turystyczna.pl/node/3345">
+      <text>Stanislawow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.070055" lon="16.010063">
+    <ele>398</ele>
+    <name>Stanislawow, lupki</name>
+    <link href="https://mapa-turystyczna.pl/node/3346">
+      <text>Stanislawow, lupki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stanislawow - Stanislawow, lupki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.069974,16.0115755;51.07005320000003,16.01062595;51.0700549,16.0100627">
+    <text>Stanislawow - Stanislawow, lupki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.069974" lon="16.0115755">
+      <ele>385</ele>
+      <time>2022-01-17T21:46:24Z</time>
+    </trkpt>
+    <trkpt lat="51.0700515" lon="16.0111892">
+      <ele>390</ele>
+      <time>2022-01-17T21:47:12Z</time>
+    </trkpt>
+    <trkpt lat="51.0700549" lon="16.0100627">
+      <ele>398</ele>
+      <time>2022-01-17T21:49:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

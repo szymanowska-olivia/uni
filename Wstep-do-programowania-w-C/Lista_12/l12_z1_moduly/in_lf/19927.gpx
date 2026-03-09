@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:57:28Z</time>
+    <bounds maxlat="51.3457889" maxlon="17.5685093" minlat="51.3184636" minlon="17.5494549"/>
+  </metadata>
+  <wpt lat="51.318464" lon="17.549455">
+    <ele>210</ele>
+    <name>Dojscie do zrodel Olesnicy</name>
+    <link href="https://mapa-turystyczna.pl/node/13443">
+      <text>Dojscie do zrodel Olesnicy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.345789" lon="17.568509">
+    <ele>216</ele>
+    <name>Dojscie do zrodel Widawy</name>
+    <link href="https://mapa-turystyczna.pl/node/13445">
+      <text>Dojscie do zrodel Widawy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dojscie do zrodel Olesnicy - Dojscie do zrodel Widawy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.3184636,17.5494549;51.33218953312668,17.559198300000023;51.3457889,17.5685093">
+    <text>Dojscie do zrodel Olesnicy - Dojscie do zrodel Widawy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.3184636" lon="17.5494549">
+      <ele>210</ele>
+      <time>2022-01-18T01:57:28Z</time>
+    </trkpt>
+    <trkpt lat="51.3241447" lon="17.5604858">
+      <ele>207</ele>
+      <time>2022-01-18T02:13:06Z</time>
+    </trkpt>
+    <trkpt lat="51.3275371" lon="17.5559153">
+      <ele>215</ele>
+      <time>2022-01-18T02:20:52Z</time>
+    </trkpt>
+    <trkpt lat="51.3304466" lon="17.5615157">
+      <ele>222</ele>
+      <time>2022-01-18T02:28:50Z</time>
+    </trkpt>
+    <trkpt lat="51.3339324" lon="17.5568809">
+      <ele>223</ele>
+      <time>2022-01-18T02:36:46Z</time>
+    </trkpt>
+    <trkpt lat="51.3367074" lon="17.5622882">
+      <ele>221</ele>
+      <time>2022-01-18T02:44:25Z</time>
+    </trkpt>
+    <trkpt lat="51.3402597" lon="17.5578465">
+      <ele>224</ele>
+      <time>2022-01-18T02:52:19Z</time>
+    </trkpt>
+    <trkpt lat="51.3457889" lon="17.5685093">
+      <ele>216</ele>
+      <time>2022-01-18T03:07:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

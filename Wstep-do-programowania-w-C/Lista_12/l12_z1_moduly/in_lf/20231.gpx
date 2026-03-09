@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:02:58Z</time>
+    <bounds maxlat="49.770619" maxlon="19.00068" minlat="49.770492" minlon="19.000547"/>
+  </metadata>
+  <wpt lat="49.770492" lon="19.000547">
+    <ele>719</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13613">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.770619" lon="19.00068">
+    <ele>716</ele>
+    <name>Pod Przelecza Dylowki</name>
+    <link href="https://mapa-turystyczna.pl/node/3881">
+      <text>Pod Przelecza Dylowki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Pod Przelecza Dylowki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.770492,19.000547;49.77055550004158,19.000613500000014;49.770619,19.00068">
+    <text>Rozejscie szlakow - Pod Przelecza Dylowki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.770492" lon="19.000547">
+      <ele>719</ele>
+      <time>2022-01-18T02:02:58Z</time>
+    </trkpt>
+    <trkpt lat="49.770619" lon="19.00068">
+      <ele>716</ele>
+      <time>2022-01-18T02:03:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

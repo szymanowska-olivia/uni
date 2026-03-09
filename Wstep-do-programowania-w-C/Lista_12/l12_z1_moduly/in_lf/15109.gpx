@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:33:21Z</time>
+    <bounds maxlat="51.2636605" maxlon="16.726732" minlat="51.2634735" minlon="16.7256323"/>
+  </metadata>
+  <wpt lat="51.263474" lon="16.725632">
+    <ele>111</ele>
+    <name>Brzeg Dolny</name>
+    <link href="https://mapa-turystyczna.pl/node/10051">
+      <text>Brzeg Dolny</text>
+    </link>
+  </wpt>
+  <wpt lat="51.263661" lon="16.726732">
+    <ele>111</ele>
+    <name>Brzeg Dolny, ul Urazka</name>
+    <link href="https://mapa-turystyczna.pl/node/10297">
+      <text>Brzeg Dolny, ul Urazka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzeg Dolny - Brzeg Dolny, ul Urazka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.2634735,16.7256323;51.26360375003504,16.72645345000001;51.2636605,16.726732">
+    <text>Brzeg Dolny - Brzeg Dolny, ul Urazka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.2634735" lon="16.7256323">
+      <ele>111</ele>
+      <time>2022-01-18T00:33:21Z</time>
+    </trkpt>
+    <trkpt lat="51.263547" lon="16.7261749">
+      <ele>110</ele>
+      <time>2022-01-18T00:33:50Z</time>
+    </trkpt>
+    <trkpt lat="51.2636605" lon="16.726732">
+      <ele>111</ele>
+      <time>2022-01-18T00:34:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

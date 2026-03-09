@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:34:31Z</time>
+    <bounds maxlat="54.1987377" maxlon="16.2645215" minlat="54.196996" minlon="16.2613351"/>
+  </metadata>
+  <wpt lat="54.198738" lon="16.264522">
+    <ele>92</ele>
+    <name>Rozejscie szlakow zolty / czarny</name>
+    <link href="https://mapa-turystyczna.pl/node/12623">
+      <text>Rozejscie szlakow zolty / czarny</text>
+    </link>
+  </wpt>
+  <wpt lat="54.196996" lon="16.261335">
+    <ele>92</ele>
+    <name>Skrzyzowanie szlakow czerwony / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/12624">
+      <text>Skrzyzowanie szlakow czerwony / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow zolty / czarny - Skrzyzowanie szlakow czerwony / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.1987377,16.2645215;54.19786685917552,16.26292830000001;54.196996,16.2613351">
+    <text>Rozejscie szlakow zolty / czarny - Skrzyzowanie szlakow czerwony / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.1987377" lon="16.2645215">
+      <ele>92</ele>
+      <time>2022-01-18T01:34:31Z</time>
+    </trkpt>
+    <trkpt lat="54.196996" lon="16.2613351">
+      <ele>92</ele>
+      <time>2022-01-18T01:39:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

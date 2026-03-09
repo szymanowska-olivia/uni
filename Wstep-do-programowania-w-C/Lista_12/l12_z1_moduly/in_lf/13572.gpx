@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:29Z</time>
+    <bounds maxlat="50.6434055" maxlon="15.7907002" minlat="50.6427355" minlon="15.7894391"/>
+  </metadata>
+  <wpt lat="50.643406" lon="15.7907">
+    <ele>797</ele>
+    <name>Modrokamenna bouda, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/9364">
+      <text>Modrokamenna bouda, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.642736" lon="15.789439">
+    <ele>807</ele>
+    <name>Modrokamenna bouda</name>
+    <link href="https://mapa-turystyczna.pl/node/1211">
+      <text>Modrokamenna bouda</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Modrokamenna bouda, rozc. - Modrokamenna bouda</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6434055,15.7907002;50.64295230050013,15.789909200000007;50.6427355,15.7894391">
+    <text>Modrokamenna bouda, rozc. - Modrokamenna bouda</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6434055" lon="15.7907002">
+      <ele>797</ele>
+      <time>2022-01-18T00:09:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6431691" lon="15.7903793">
+      <ele>801</ele>
+      <time>2022-01-18T00:10:23Z</time>
+    </trkpt>
+    <trkpt lat="50.6427355" lon="15.7894391">
+      <ele>807</ele>
+      <time>2022-01-18T00:12:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

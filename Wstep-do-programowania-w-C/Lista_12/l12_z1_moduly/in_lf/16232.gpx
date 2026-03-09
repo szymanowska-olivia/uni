@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:53:17Z</time>
+    <bounds maxlat="49.1416376" maxlon="22.5697695" minlat="49.1408392" minlon="22.5686679"/>
+  </metadata>
+  <wpt lat="49.141638" lon="22.568668">
+    <ele>738</ele>
+    <name>Brzegi Gorne</name>
+    <link href="https://mapa-turystyczna.pl/node/320">
+      <text>Brzegi Gorne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.140839" lon="22.569769">
+    <ele>759</ele>
+    <name>Nieistniejaca cerkiew</name>
+    <link href="https://mapa-turystyczna.pl/node/11075">
+      <text>Nieistniejaca cerkiew</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Brzegi Gorne - Nieistniejaca cerkiew</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1416376,22.5686679;49.1411592501165,22.569262700000007;49.1408392,22.5697695">
+    <text>Brzegi Gorne - Nieistniejaca cerkiew</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1416376" lon="22.5686679">
+      <ele>738</ele>
+      <time>2022-01-18T00:53:17Z</time>
+    </trkpt>
+    <trkpt lat="49.1416092" lon="22.5689005">
+      <ele>741</ele>
+      <time>2022-01-18T00:53:57Z</time>
+    </trkpt>
+    <trkpt lat="49.1415041" lon="22.5690455">
+      <ele>743</ele>
+      <time>2022-01-18T00:54:34Z</time>
+    </trkpt>
+    <trkpt lat="49.1412667" lon="22.569201">
+      <ele>747</ele>
+      <time>2022-01-18T00:55:41Z</time>
+    </trkpt>
+    <trkpt lat="49.1410518" lon="22.5693244">
+      <ele>750</ele>
+      <time>2022-01-18T00:56:41Z</time>
+    </trkpt>
+    <trkpt lat="49.1409526" lon="22.5696006">
+      <ele>755</ele>
+      <time>2022-01-18T00:57:35Z</time>
+    </trkpt>
+    <trkpt lat="49.1408392" lon="22.5697695">
+      <ele>759</ele>
+      <time>2022-01-18T00:58:17Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

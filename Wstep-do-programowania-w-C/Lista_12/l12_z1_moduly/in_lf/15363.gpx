@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:38:01Z</time>
+    <bounds maxlat="51.5608213" maxlon="17.4407783" minlat="51.5585819" minlon="17.4377743"/>
+  </metadata>
+  <wpt lat="51.558582" lon="17.440548">
+    <ele>106</ele>
+    <name>Lelikow, odejscie szlaku</name>
+    <link href="https://mapa-turystyczna.pl/node/10493">
+      <text>Lelikow, odejscie szlaku</text>
+    </link>
+  </wpt>
+  <wpt lat="51.560821" lon="17.437774">
+    <ele>115</ele>
+    <name>Grodziszcze</name>
+    <link href="https://mapa-turystyczna.pl/node/10494">
+      <text>Grodziszcze</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lelikow, odejscie szlaku - Grodziszcze</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.5585819,17.4405484;51.560264350167564,17.440433299999984;51.5608213,17.4377743">
+    <text>Lelikow, odejscie szlaku - Grodziszcze</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.5585819" lon="17.4405484">
+      <ele>106</ele>
+      <time>2022-01-18T00:38:01Z</time>
+    </trkpt>
+    <trkpt lat="51.5587335" lon="17.4407783">
+      <ele>106</ele>
+      <time>2022-01-18T00:38:18Z</time>
+    </trkpt>
+    <trkpt lat="51.5597207" lon="17.4406067">
+      <ele>108</ele>
+      <time>2022-01-18T00:39:41Z</time>
+    </trkpt>
+    <trkpt lat="51.5601409" lon="17.440671">
+      <ele>109</ele>
+      <time>2022-01-18T00:40:16Z</time>
+    </trkpt>
+    <trkpt lat="51.5603878" lon="17.4401956">
+      <ele>109</ele>
+      <time>2022-01-18T00:40:48Z</time>
+    </trkpt>
+    <trkpt lat="51.5606079" lon="17.4393909">
+      <ele>111</ele>
+      <time>2022-01-18T00:41:34Z</time>
+    </trkpt>
+    <trkpt lat="51.5607746" lon="17.4387935">
+      <ele>112</ele>
+      <time>2022-01-18T00:42:08Z</time>
+    </trkpt>
+    <trkpt lat="51.5608147" lon="17.4382536">
+      <ele>113</ele>
+      <time>2022-01-18T00:42:36Z</time>
+    </trkpt>
+    <trkpt lat="51.5608213" lon="17.4377743">
+      <ele>115</ele>
+      <time>2022-01-18T00:43:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

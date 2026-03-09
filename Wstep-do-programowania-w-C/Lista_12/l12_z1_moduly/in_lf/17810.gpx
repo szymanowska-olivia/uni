@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:20:04Z</time>
+    <bounds maxlat="49.4151246" maxlon="21.7350754" minlat="49.4144187" minlon="21.7342324"/>
+  </metadata>
+  <wpt lat="49.414419" lon="21.735075">
+    <ele>468</ele>
+    <name>Chatka Studencka w Zyndranowej</name>
+    <link href="https://mapa-turystyczna.pl/node/437">
+      <text>Chatka Studencka w Zyndranowej</text>
+    </link>
+  </wpt>
+  <wpt lat="49.415125" lon="21.734232">
+    <ele>460</ele>
+    <name>Zyndranowa, odejscie szlaku spacerowego</name>
+    <link href="https://mapa-turystyczna.pl/node/12103">
+      <text>Zyndranowa, odejscie szlaku spacerowego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Chatka Studencka w Zyndranowej - Zyndranowa, odejscie szlaku spacerowego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.4144187,21.7350754;49.41496355026422,21.73447254999999;49.4151246,21.7342324">
+    <text>Chatka Studencka w Zyndranowej - Zyndranowa, odejscie szlaku spacerowego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.4144187" lon="21.7350754">
+      <ele>468</ele>
+      <time>2022-01-18T01:20:04Z</time>
+    </trkpt>
+    <trkpt lat="49.4146384" lon="21.734895">
+      <ele>467</ele>
+      <time>2022-01-18T01:20:37Z</time>
+    </trkpt>
+    <trkpt lat="49.4148025" lon="21.7347127">
+      <ele>465</ele>
+      <time>2022-01-18T01:21:04Z</time>
+    </trkpt>
+    <trkpt lat="49.4151246" lon="21.7342324">
+      <ele>460</ele>
+      <time>2022-01-18T01:22:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:33:38Z</time>
+    <bounds maxlat="49.8526946" maxlon="19.6536034" minlat="49.8517579" minlon="19.6525268"/>
+  </metadata>
+  <wpt lat="49.851758" lon="19.653603">
+    <ele>491</ele>
+    <name>Pod Zarem</name>
+    <link href="https://mapa-turystyczna.pl/node/4617">
+      <text>Pod Zarem</text>
+    </link>
+  </wpt>
+  <wpt lat="49.852695" lon="19.652637">
+    <ele>507</ele>
+    <name>Ruiny zamku Skrzynskich</name>
+    <link href="https://mapa-turystyczna.pl/node/1687">
+      <text>Ruiny zamku Skrzynskich</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Zarem - Ruiny zamku Skrzynskich</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8517579,19.6536034;49.85202950007196,19.65292940000001;49.8526946,19.6526366">
+    <text>Pod Zarem - Ruiny zamku Skrzynskich</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8517579" lon="19.6536034">
+      <ele>491</ele>
+      <time>2022-01-17T23:33:38Z</time>
+    </trkpt>
+    <trkpt lat="49.8519461" lon="19.6532487">
+      <ele>492</ele>
+      <time>2022-01-17T23:34:43Z</time>
+    </trkpt>
+    <trkpt lat="49.8521129" lon="19.6526101">
+      <ele>494</ele>
+      <time>2022-01-17T23:36:21Z</time>
+    </trkpt>
+    <trkpt lat="49.8521962" lon="19.6525268">
+      <ele>496</ele>
+      <time>2022-01-17T23:36:43Z</time>
+    </trkpt>
+    <trkpt lat="49.8522744" lon="19.6525339">
+      <ele>499</ele>
+      <time>2022-01-17T23:37:01Z</time>
+    </trkpt>
+    <trkpt lat="49.8523747" lon="19.652609">
+      <ele>502</ele>
+      <time>2022-01-17T23:37:26Z</time>
+    </trkpt>
+    <trkpt lat="49.8525001" lon="19.652655">
+      <ele>505</ele>
+      <time>2022-01-17T23:37:55Z</time>
+    </trkpt>
+    <trkpt lat="49.8526946" lon="19.6526366">
+      <ele>507</ele>
+      <time>2022-01-17T23:38:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:22Z</time>
+    <bounds maxlat="50.8512917" maxlon="15.9197473" minlat="50.8478338" minlon="15.9143883"/>
+  </metadata>
+  <wpt lat="50.851292" lon="15.914388">
+    <ele>554</ele>
+    <name>Dolina Janowki</name>
+    <link href="https://mapa-turystyczna.pl/node/3025">
+      <text>Dolina Janowki</text>
+    </link>
+  </wpt>
+  <wpt lat="50.847834" lon="15.919747">
+    <ele>619</ele>
+    <name>Sciezka dydaktyczna, Miedziane Skaly</name>
+    <link href="https://mapa-turystyczna.pl/node/3026">
+      <text>Sciezka dydaktyczna, Miedziane Skaly</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dolina Janowki - Sciezka dydaktyczna, Miedziane Skaly</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8512917,15.9143883;50.84959160143429,15.91721135000002;50.8478338,15.9197473">
+    <text>Dolina Janowki - Sciezka dydaktyczna, Miedziane Skaly</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8512917" lon="15.9143883">
+      <ele>554</ele>
+      <time>2022-01-17T21:41:22Z</time>
+    </trkpt>
+    <trkpt lat="50.8499574" lon="15.916805">
+      <ele>586</ele>
+      <time>2022-01-17T21:47:31Z</time>
+    </trkpt>
+    <trkpt lat="50.8492258" lon="15.9176177">
+      <ele>602</ele>
+      <time>2022-01-17T21:50:13Z</time>
+    </trkpt>
+    <trkpt lat="50.8484903" lon="15.9181493">
+      <ele>611</ele>
+      <time>2022-01-17T21:52:40Z</time>
+    </trkpt>
+    <trkpt lat="50.8482724" lon="15.9183862">
+      <ele>609</ele>
+      <time>2022-01-17T21:53:27Z</time>
+    </trkpt>
+    <trkpt lat="50.8481521" lon="15.9188434">
+      <ele>613</ele>
+      <time>2022-01-17T21:54:24Z</time>
+    </trkpt>
+    <trkpt lat="50.8478338" lon="15.9197473">
+      <ele>619</ele>
+      <time>2022-01-17T21:56:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:01Z</time>
+    <bounds maxlat="49.3411605" maxlon="22.4035971" minlat="49.33908" minlon="22.4018258"/>
+  </metadata>
+  <wpt lat="49.341161" lon="22.401826">
+    <ele>457</ele>
+    <name>Rybne</name>
+    <link href="https://mapa-turystyczna.pl/node/12496">
+      <text>Rybne</text>
+    </link>
+  </wpt>
+  <wpt lat="49.33908" lon="22.403597">
+    <ele>452</ele>
+    <name>Wolkowyja, ul. Cicha</name>
+    <link href="https://mapa-turystyczna.pl/node/11279">
+      <text>Wolkowyja, ul. Cicha</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybne - Wolkowyja, ul. Cicha</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.3411605,22.4018258;49.33998605036198,22.402823600000037;49.33908,22.4035971">
+    <text>Rybne - Wolkowyja, ul. Cicha</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.3411605" lon="22.4018258">
+      <ele>457</ele>
+      <time>2022-01-18T01:31:01Z</time>
+    </trkpt>
+    <trkpt lat="49.3406082" lon="22.4022335">
+      <ele>457</ele>
+      <time>2022-01-18T01:32:18Z</time>
+    </trkpt>
+    <trkpt lat="49.3401748" lon="22.4025983">
+      <ele>455</ele>
+      <time>2022-01-18T01:33:20Z</time>
+    </trkpt>
+    <trkpt lat="49.3397973" lon="22.4030489">
+      <ele>455</ele>
+      <time>2022-01-18T01:34:20Z</time>
+    </trkpt>
+    <trkpt lat="49.33908" lon="22.4035971">
+      <ele>452</ele>
+      <time>2022-01-18T01:36:01Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

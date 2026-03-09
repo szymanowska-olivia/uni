@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T20:49:27Z</time>
+    <bounds maxlat="49.1480347" maxlon="22.4895732" minlat="49.1431954" minlon="22.4776304"/>
+  </metadata>
+  <wpt lat="49.148035" lon="22.47763">
+    <ele>651</ele>
+    <name>Wetlina</name>
+    <link href="https://mapa-turystyczna.pl/node/400">
+      <text>Wetlina</text>
+    </link>
+  </wpt>
+  <wpt lat="49.143195" lon="22.489573">
+    <ele>674</ele>
+    <name>Wetlina, Moczarne</name>
+    <link href="https://mapa-turystyczna.pl/node/401">
+      <text>Wetlina, Moczarne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wetlina - Wetlina, Moczarne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.1480347,22.4776304;49.143984701287394,22.48202655;49.1431954,22.4895732">
+    <text>Wetlina - Wetlina, Moczarne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.1480347" lon="22.4776304">
+      <ele>651</ele>
+      <time>2022-01-17T20:49:27Z</time>
+    </trkpt>
+    <trkpt lat="49.1462685" lon="22.47976">
+      <ele>653</ele>
+      <time>2022-01-17T20:53:53Z</time>
+    </trkpt>
+    <trkpt lat="49.1446773" lon="22.4808813">
+      <ele>657</ele>
+      <time>2022-01-17T20:57:20Z</time>
+    </trkpt>
+    <trkpt lat="49.1443419" lon="22.4813909">
+      <ele>658</ele>
+      <time>2022-01-17T20:58:16Z</time>
+    </trkpt>
+    <trkpt lat="49.1436275" lon="22.4826622">
+      <ele>656</ele>
+      <time>2022-01-17T21:00:25Z</time>
+    </trkpt>
+    <trkpt lat="49.1434913" lon="22.4831718">
+      <ele>654</ele>
+      <time>2022-01-17T21:01:08Z</time>
+    </trkpt>
+    <trkpt lat="49.1434183" lon="22.4854517">
+      <ele>658</ele>
+      <time>2022-01-17T21:04:04Z</time>
+    </trkpt>
+    <trkpt lat="49.1432007" lon="22.4867713">
+      <ele>670</ele>
+      <time>2022-01-17T21:05:50Z</time>
+    </trkpt>
+    <trkpt lat="49.1431954" lon="22.4895732">
+      <ele>674</ele>
+      <time>2022-01-17T21:09:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

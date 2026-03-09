@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:48:10Z</time>
+    <bounds maxlat="49.508974" maxlon="19.047408" minlat="49.507495" minlon="19.042756"/>
+  </metadata>
+  <wpt lat="49.507495" lon="19.047408">
+    <ele>549</ele>
+    <name>Sol-Kiczora</name>
+    <link href="https://mapa-turystyczna.pl/node/13118">
+      <text>Sol-Kiczora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.508748" lon="19.042756">
+    <ele>550</ele>
+    <name>Kiczora, punkt odpoczynkowy</name>
+    <link href="https://mapa-turystyczna.pl/node/13119">
+      <text>Kiczora, punkt odpoczynkowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Sol-Kiczora - Kiczora, punkt odpoczynkowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.507495,19.047408;49.508127000312996,19.044549500000002;49.508748,19.042756">
+    <text>Sol-Kiczora - Kiczora, punkt odpoczynkowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.507495" lon="19.047408">
+      <ele>549</ele>
+      <time>2022-01-18T01:48:10Z</time>
+    </trkpt>
+    <trkpt lat="49.507509" lon="19.047258">
+      <ele>548</ele>
+      <time>2022-01-18T01:48:18Z</time>
+    </trkpt>
+    <trkpt lat="49.507528" lon="19.047069">
+      <ele>548</ele>
+      <time>2022-01-18T01:48:29Z</time>
+    </trkpt>
+    <trkpt lat="49.507539" lon="19.046954">
+      <ele>548</ele>
+      <time>2022-01-18T01:48:35Z</time>
+    </trkpt>
+    <trkpt lat="49.507674" lon="19.045996">
+      <ele>548</ele>
+      <time>2022-01-18T01:49:28Z</time>
+    </trkpt>
+    <trkpt lat="49.507795" lon="19.045437">
+      <ele>548</ele>
+      <time>2022-01-18T01:50:00Z</time>
+    </trkpt>
+    <trkpt lat="49.507952" lon="19.044938">
+      <ele>549</ele>
+      <time>2022-01-18T01:50:30Z</time>
+    </trkpt>
+    <trkpt lat="49.508302" lon="19.044161">
+      <ele>551</ele>
+      <time>2022-01-18T01:51:22Z</time>
+    </trkpt>
+    <trkpt lat="49.508539" lon="19.043669">
+      <ele>551</ele>
+      <time>2022-01-18T01:51:55Z</time>
+    </trkpt>
+    <trkpt lat="49.508719" lon="19.043415">
+      <ele>551</ele>
+      <time>2022-01-18T01:52:16Z</time>
+    </trkpt>
+    <trkpt lat="49.508974" lon="19.042989">
+      <ele>552</ele>
+      <time>2022-01-18T01:52:47Z</time>
+    </trkpt>
+    <trkpt lat="49.508748" lon="19.042756">
+      <ele>550</ele>
+      <time>2022-01-18T01:53:10Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

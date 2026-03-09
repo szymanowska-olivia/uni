@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:21Z</time>
+    <bounds maxlat="50.2064272" maxlon="19.0761613" minlat="50.2063776" minlon="19.0734243"/>
+  </metadata>
+  <wpt lat="50.206427" lon="19.073424">
+    <ele>303</ele>
+    <name>Stara Wesola, odejscie szlaku niebieskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9361">
+      <text>Stara Wesola, odejscie szlaku niebieskiego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.206395" lon="19.076161">
+    <ele>299</ele>
+    <name>Stara Wesola, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/9360">
+      <text>Stara Wesola, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stara Wesola, odejscie szlaku niebieskiego - Stara Wesola, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2064272,19.0734243;50.20640240000643,19.074429549999987;50.2063947,19.0761613">
+    <text>Stara Wesola, odejscie szlaku niebieskiego - Stara Wesola, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2064272" lon="19.0734243">
+      <ele>303</ele>
+      <time>2022-01-18T00:09:21Z</time>
+    </trkpt>
+    <trkpt lat="50.2063776" lon="19.0754348">
+      <ele>298</ele>
+      <time>2022-01-18T00:11:33Z</time>
+    </trkpt>
+    <trkpt lat="50.2063947" lon="19.0761613">
+      <ele>299</ele>
+      <time>2022-01-18T00:12:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

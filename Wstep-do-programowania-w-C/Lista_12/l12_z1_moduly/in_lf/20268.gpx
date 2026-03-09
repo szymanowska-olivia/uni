@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:34Z</time>
+    <bounds maxlat="50.202141" maxlon="19.275627" minlat="50.201987" minlon="19.275619"/>
+  </metadata>
+  <wpt lat="50.201987" lon="19.275622">
+    <ele>305</ele>
+    <name>Jaworzno, ul. Zielona</name>
+    <link href="https://mapa-turystyczna.pl/node/13630">
+      <text>Jaworzno, ul. Zielona</text>
+    </link>
+  </wpt>
+  <wpt lat="50.202141" lon="19.275619">
+    <ele>305</ele>
+    <name>Jaworzno, muzeum</name>
+    <link href="https://mapa-turystyczna.pl/node/10762">
+      <text>Jaworzno, muzeum</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaworzno, ul. Zielona - Jaworzno, muzeum</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.201987,19.275622;50.202079000040264,19.275623000000003;50.202141,19.275619">
+    <text>Jaworzno, ul. Zielona - Jaworzno, muzeum</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.201987" lon="19.275622">
+      <ele>305</ele>
+      <time>2022-01-18T02:03:34Z</time>
+    </trkpt>
+    <trkpt lat="50.202017" lon="19.275627">
+      <ele>305</ele>
+      <time>2022-01-18T02:03:46Z</time>
+    </trkpt>
+    <trkpt lat="50.202141" lon="19.275619">
+      <ele>305</ele>
+      <time>2022-01-18T02:04:34Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

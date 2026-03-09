@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:17:08Z</time>
+    <bounds maxlat="52.0378322" maxlon="20.3942568" minlat="52.0301125" minlon="20.3626042"/>
+  </metadata>
+  <wpt lat="52.037832" lon="20.394257">
+    <ele>125</ele>
+    <name>Granica Bolimowskiego Parku Krajobrazowego</name>
+    <link href="https://mapa-turystyczna.pl/node/11974">
+      <text>Granica Bolimowskiego Parku Krajobrazowego</text>
+    </link>
+  </wpt>
+  <wpt lat="52.030113" lon="20.362604">
+    <ele>114</ele>
+    <name>Jesionka</name>
+    <link href="https://mapa-turystyczna.pl/node/11975">
+      <text>Jesionka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Granica Bolimowskiego Parku Krajobrazowego - Jesionka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.0378322,20.3942568;52.03274353984458,20.374483000000016;52.0301125,20.3626042">
+    <text>Granica Bolimowskiego Parku Krajobrazowego - Jesionka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.0378322" lon="20.3942568">
+      <ele>125</ele>
+      <time>2022-01-18T01:17:08Z</time>
+    </trkpt>
+    <trkpt lat="52.0361597" lon="20.3876887">
+      <ele>122</ele>
+      <time>2022-01-18T01:24:26Z</time>
+    </trkpt>
+    <trkpt lat="52.0346311" lon="20.3817534">
+      <ele>119</ele>
+      <time>2022-01-18T01:31:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0308559" lon="20.3672126">
+      <ele>116</ele>
+      <time>2022-01-18T01:47:14Z</time>
+    </trkpt>
+    <trkpt lat="52.0306843" lon="20.366483">
+      <ele>115</ele>
+      <time>2022-01-18T01:48:02Z</time>
+    </trkpt>
+    <trkpt lat="52.0301125" lon="20.3626042">
+      <ele>114</ele>
+      <time>2022-01-18T01:52:08Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

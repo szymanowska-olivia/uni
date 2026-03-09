@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:19:29Z</time>
+    <bounds maxlat="50.3544723" maxlon="16.362737" minlat="50.3540111" minlon="16.3604826"/>
+  </metadata>
+  <wpt lat="50.354011" lon="16.360483">
+    <ele>1071</ele>
+    <name>Vrchmezi</name>
+    <link href="https://mapa-turystyczna.pl/node/1867">
+      <text>Vrchmezi</text>
+    </link>
+  </wpt>
+  <wpt lat="50.354467" lon="16.362737">
+    <ele>1058</ele>
+    <name>Pod Orlica</name>
+    <link href="https://mapa-turystyczna.pl/node/4895">
+      <text>Pod Orlica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vrchmezi - Pod Orlica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.3540111,16.3604826;50.35434910002508,16.3614455;50.3544669,16.362737">
+    <text>Vrchmezi - Pod Orlica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.3540111" lon="16.3604826">
+      <ele>1071</ele>
+      <time>2022-01-17T22:19:29Z</time>
+    </trkpt>
+    <trkpt lat="50.3542413" lon="16.3608662">
+      <ele>1069</ele>
+      <time>2022-01-17T22:20:08Z</time>
+    </trkpt>
+    <trkpt lat="50.3543003" lon="16.3610995">
+      <ele>1070</ele>
+      <time>2022-01-17T22:20:26Z</time>
+    </trkpt>
+    <trkpt lat="50.3543979" lon="16.3617915">
+      <ele>1066</ele>
+      <time>2022-01-17T22:21:18Z</time>
+    </trkpt>
+    <trkpt lat="50.3544572" lon="16.3623152">
+      <ele>1060</ele>
+      <time>2022-01-17T22:21:58Z</time>
+    </trkpt>
+    <trkpt lat="50.3544723" lon="16.3625569">
+      <ele>1059</ele>
+      <time>2022-01-17T22:22:16Z</time>
+    </trkpt>
+    <trkpt lat="50.3544669" lon="16.362737">
+      <ele>1058</ele>
+      <time>2022-01-17T22:22:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

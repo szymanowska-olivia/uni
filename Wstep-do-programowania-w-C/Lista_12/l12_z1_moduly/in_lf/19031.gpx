@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:41:23Z</time>
+    <bounds maxlat="52.1047416" maxlon="21.292935" minlat="52.1034796" minlon="21.2879353"/>
+  </metadata>
+  <wpt lat="52.104742" lon="21.287935">
+    <ele>105</ele>
+    <name>Otwock, Dom Pomocy Spolecznej</name>
+    <link href="https://mapa-turystyczna.pl/node/11535">
+      <text>Otwock, Dom Pomocy Spolecznej</text>
+    </link>
+  </wpt>
+  <wpt lat="52.10348" lon="21.292935">
+    <ele>107</ele>
+    <name>Otwock, ul. Norwida</name>
+    <link href="https://mapa-turystyczna.pl/node/12892">
+      <text>Otwock, ul. Norwida</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Otwock, Dom Pomocy Spolecznej - Otwock, ul. Norwida</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.1047416,21.2879353;52.10367040004393,21.289479149999977;52.1034796,21.292935">
+    <text>Otwock, Dom Pomocy Spolecznej - Otwock, ul. Norwida</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.1047416" lon="21.2879353">
+      <ele>105</ele>
+      <time>2022-01-18T01:41:23Z</time>
+    </trkpt>
+    <trkpt lat="52.103733" lon="21.2882534">
+      <ele>104</ele>
+      <time>2022-01-18T01:42:42Z</time>
+    </trkpt>
+    <trkpt lat="52.1036078" lon="21.2907049">
+      <ele>104</ele>
+      <time>2022-01-18T01:44:38Z</time>
+    </trkpt>
+    <trkpt lat="52.1034796" lon="21.292935">
+      <ele>107</ele>
+      <time>2022-01-18T01:46:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

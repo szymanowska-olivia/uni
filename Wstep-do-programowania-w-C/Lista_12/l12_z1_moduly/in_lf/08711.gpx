@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:43:47Z</time>
+    <bounds maxlat="50.6253182" maxlon="16.1264947" minlat="50.6240573" minlon="16.1247647"/>
+  </metadata>
+  <wpt lat="50.625318" lon="16.124765">
+    <ele>594</ele>
+    <name>Pod Krizovym vrchem</name>
+    <link href="https://mapa-turystyczna.pl/node/6061">
+      <text>Pod Krizovym vrchem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.624416" lon="16.12646">
+    <ele>640</ele>
+    <name>Krizovy vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/6062">
+      <text>Krizovy vrch</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Krizovym vrchem - Krizovy vrch</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6253182,16.1247647;50.6244367005283,16.125443250000025;50.6244164,16.1264598">
+    <text>Pod Krizovym vrchem - Krizovy vrch</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6253182" lon="16.1247647">
+      <ele>594</ele>
+      <time>2022-01-17T22:43:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6248638" lon="16.1250114">
+      <ele>603</ele>
+      <time>2022-01-17T22:45:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6246596" lon="16.1250865">
+      <ele>609</ele>
+      <time>2022-01-17T22:46:55Z</time>
+    </trkpt>
+    <trkpt lat="50.6242138" lon="16.1258">
+      <ele>627</ele>
+      <time>2022-01-17T22:49:50Z</time>
+    </trkpt>
+    <trkpt lat="50.6242274" lon="16.1258698">
+      <ele>629</ele>
+      <time>2022-01-17T22:50:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6240573" lon="16.1260468">
+      <ele>632</ele>
+      <time>2022-01-17T22:50:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6242342" lon="16.1261541">
+      <ele>635</ele>
+      <time>2022-01-17T22:51:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6242887" lon="16.1261702">
+      <ele>634</ele>
+      <time>2022-01-17T22:52:03Z</time>
+    </trkpt>
+    <trkpt lat="50.6242547" lon="16.1262828">
+      <ele>637</ele>
+      <time>2022-01-17T22:52:26Z</time>
+    </trkpt>
+    <trkpt lat="50.6242887" lon="16.1263955">
+      <ele>640</ele>
+      <time>2022-01-17T22:52:48Z</time>
+    </trkpt>
+    <trkpt lat="50.6242674" lon="16.1264947">
+      <ele>642</ele>
+      <time>2022-01-17T22:53:06Z</time>
+    </trkpt>
+    <trkpt lat="50.6244164" lon="16.1264598">
+      <ele>640</ele>
+      <time>2022-01-17T22:53:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

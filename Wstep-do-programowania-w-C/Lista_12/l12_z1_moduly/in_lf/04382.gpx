@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:41:42Z</time>
+    <bounds maxlat="50.7752216" maxlon="15.715642" minlat="50.7740612" minlon="15.7146305"/>
+  </metadata>
+  <wpt lat="50.775222" lon="15.715642">
+    <ele>957</ele>
+    <name>Karpacz, Rowienka</name>
+    <link href="https://mapa-turystyczna.pl/node/1170">
+      <text>Karpacz, Rowienka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.774061" lon="15.714631">
+    <ele>964</ele>
+    <name>Budnicza Struga</name>
+    <link href="https://mapa-turystyczna.pl/node/3042">
+      <text>Budnicza Struga</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Karpacz, Rowienka - Budnicza Struga</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7752216,15.715642;50.77476775086012,15.715177850000002;50.7740612,15.7146305">
+    <text>Karpacz, Rowienka - Budnicza Struga</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7752216" lon="15.715642">
+      <ele>957</ele>
+      <time>2022-01-17T21:41:42Z</time>
+    </trkpt>
+    <trkpt lat="50.7750514" lon="15.7154273">
+      <ele>958</ele>
+      <time>2022-01-17T21:42:11Z</time>
+    </trkpt>
+    <trkpt lat="50.7744841" lon="15.7149284">
+      <ele>960</ele>
+      <time>2022-01-17T21:43:39Z</time>
+    </trkpt>
+    <trkpt lat="50.7742935" lon="15.7147354">
+      <ele>961</ele>
+      <time>2022-01-17T21:44:09Z</time>
+    </trkpt>
+    <trkpt lat="50.7740612" lon="15.7146305">
+      <ele>964</ele>
+      <time>2022-01-17T21:44:42Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

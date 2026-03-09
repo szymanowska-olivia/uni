@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:43:21Z</time>
+    <bounds maxlat="50.0896294" maxlon="18.23337" minlat="50.0882439" minlon="18.2250956"/>
+  </metadata>
+  <wpt lat="50.088244" lon="18.23337">
+    <ele>185</ele>
+    <name>Raciborz, u. Kanalowa</name>
+    <link href="https://mapa-turystyczna.pl/node/12948">
+      <text>Raciborz, u. Kanalowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.089629" lon="18.225096">
+    <ele>189</ele>
+    <name>Raciborz, Plac Dworcowy</name>
+    <link href="https://mapa-turystyczna.pl/node/12947">
+      <text>Raciborz, Plac Dworcowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Raciborz, u. Kanalowa - Raciborz, Plac Dworcowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0882439,18.23337;50.08869165014861,18.228649299999997;50.0896294,18.2250956">
+    <text>Raciborz, u. Kanalowa - Raciborz, Plac Dworcowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0882439" lon="18.23337">
+      <ele>185</ele>
+      <time>2022-01-18T01:43:21Z</time>
+    </trkpt>
+    <trkpt lat="50.088352" lon="18.232448">
+      <ele>185</ele>
+      <time>2022-01-18T01:44:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0884553" lon="18.2309138">
+      <ele>182</ele>
+      <time>2022-01-18T01:46:13Z</time>
+    </trkpt>
+    <trkpt lat="50.0885723" lon="18.2296263">
+      <ele>186</ele>
+      <time>2022-01-18T01:47:43Z</time>
+    </trkpt>
+    <trkpt lat="50.088811" lon="18.2276723">
+      <ele>188</ele>
+      <time>2022-01-18T01:50:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0889172" lon="18.2273015">
+      <ele>188</ele>
+      <time>2022-01-18T01:50:30Z</time>
+    </trkpt>
+    <trkpt lat="50.0896294" lon="18.2250956">
+      <ele>189</ele>
+      <time>2022-01-18T01:53:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

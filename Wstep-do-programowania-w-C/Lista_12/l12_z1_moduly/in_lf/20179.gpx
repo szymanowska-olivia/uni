@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:01:58Z</time>
+    <bounds maxlat="50.7191167" maxlon="16.1967767" minlat="50.7188765" minlon="16.1967015"/>
+  </metadata>
+  <wpt lat="50.719117" lon="16.196777">
+    <ele>683</ele>
+    <name>Przelecz Polanka</name>
+    <link href="https://mapa-turystyczna.pl/node/2363">
+      <text>Przelecz Polanka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.718877" lon="16.196758">
+    <ele>688</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13579">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Przelecz Polanka - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7191167,16.1967767;50.71898355001535,16.196702100000007;50.7188765,16.1967576">
+    <text>Przelecz Polanka - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7191167" lon="16.1967767">
+      <ele>683</ele>
+      <time>2022-01-18T02:01:58Z</time>
+    </trkpt>
+    <trkpt lat="50.7190215" lon="16.1967015">
+      <ele>685</ele>
+      <time>2022-01-18T02:02:23Z</time>
+    </trkpt>
+    <trkpt lat="50.7189456" lon="16.1967027">
+      <ele>686</ele>
+      <time>2022-01-18T02:02:40Z</time>
+    </trkpt>
+    <trkpt lat="50.7188765" lon="16.1967576">
+      <ele>688</ele>
+      <time>2022-01-18T02:02:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

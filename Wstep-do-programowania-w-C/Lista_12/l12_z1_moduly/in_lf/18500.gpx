@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:31:55Z</time>
+    <bounds maxlat="50.441624" maxlon="18.8579643" minlat="50.4413307" minlon="18.8554965"/>
+  </metadata>
+  <wpt lat="50.441624" lon="18.855497">
+    <ele>301</ele>
+    <name>Tarnowskie Gory, ul. Gornicza</name>
+    <link href="https://mapa-turystyczna.pl/node/12522">
+      <text>Tarnowskie Gory, ul. Gornicza</text>
+    </link>
+  </wpt>
+  <wpt lat="50.441336" lon="18.857964">
+    <ele>303</ele>
+    <name>Tarnowskie Gory, ul. Legionow</name>
+    <link href="https://mapa-turystyczna.pl/node/12516">
+      <text>Tarnowskie Gory, ul. Legionow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarnowskie Gory, ul. Gornicza - Tarnowskie Gory, ul. Legionow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.441624,18.8554965;50.44135620000687,18.856851950000014;50.4413356,18.8579643">
+    <text>Tarnowskie Gory, ul. Gornicza - Tarnowskie Gory, ul. Legionow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.441624" lon="18.8554965">
+      <ele>301</ele>
+      <time>2022-01-18T01:31:55Z</time>
+    </trkpt>
+    <trkpt lat="50.4415721" lon="18.8556294">
+      <ele>301</ele>
+      <time>2022-01-18T01:32:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4413817" lon="18.8566022">
+      <ele>299</ele>
+      <time>2022-01-18T01:33:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4413307" lon="18.8571017">
+      <ele>300</ele>
+      <time>2022-01-18T01:33:54Z</time>
+    </trkpt>
+    <trkpt lat="50.4413356" lon="18.8579643">
+      <ele>303</ele>
+      <time>2022-01-18T01:34:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

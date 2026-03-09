@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:44:18Z</time>
+    <bounds maxlat="51.4918117" maxlon="23.5537969" minlat="51.4911288" minlon="23.5493653"/>
+  </metadata>
+  <wpt lat="51.491812" lon="23.553797">
+    <ele>161</ele>
+    <name>Tarasiuki</name>
+    <link href="https://mapa-turystyczna.pl/node/12982">
+      <text>Tarasiuki</text>
+    </link>
+  </wpt>
+  <wpt lat="51.491755" lon="23.549365">
+    <ele>163</ele>
+    <name>Okuninka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/12974">
+      <text>Okuninka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Tarasiuki - Okuninka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4918117,23.5537969;51.49113885000111,23.5513279;51.4917553,23.5493653">
+    <text>Tarasiuki - Okuninka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4918117" lon="23.5537969">
+      <ele>161</ele>
+      <time>2022-01-18T01:44:18Z</time>
+    </trkpt>
+    <trkpt lat="51.4915964" lon="23.553361">
+      <ele>160</ele>
+      <time>2022-01-18T01:44:51Z</time>
+    </trkpt>
+    <trkpt lat="51.4914461" lon="23.5529855">
+      <ele>160</ele>
+      <time>2022-01-18T01:45:18Z</time>
+    </trkpt>
+    <trkpt lat="51.4913493" lon="23.5526958">
+      <ele>160</ele>
+      <time>2022-01-18T01:45:37Z</time>
+    </trkpt>
+    <trkpt lat="51.4912257" lon="23.5522452">
+      <ele>161</ele>
+      <time>2022-01-18T01:46:07Z</time>
+    </trkpt>
+    <trkpt lat="51.4911489" lon="23.5516283">
+      <ele>160</ele>
+      <time>2022-01-18T01:46:44Z</time>
+    </trkpt>
+    <trkpt lat="51.4911288" lon="23.5510275">
+      <ele>161</ele>
+      <time>2022-01-18T01:47:20Z</time>
+    </trkpt>
+    <trkpt lat="51.491229" lon="23.550491">
+      <ele>161</ele>
+      <time>2022-01-18T01:47:54Z</time>
+    </trkpt>
+    <trkpt lat="51.4917447" lon="23.549442">
+      <ele>163</ele>
+      <time>2022-01-18T01:49:13Z</time>
+    </trkpt>
+    <trkpt lat="51.4917553" lon="23.5493653">
+      <ele>163</ele>
+      <time>2022-01-18T01:49:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

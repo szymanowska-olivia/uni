@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:12:40Z</time>
+    <bounds maxlat="50.0098593" maxlon="16.7286694" minlat="50.0083665" minlon="16.7255312"/>
+  </metadata>
+  <wpt lat="50.009859" lon="16.725531">
+    <ele>678</ele>
+    <name>U hajovny, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/7200">
+      <text>U hajovny, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.008367" lon="16.728669">
+    <ele>634</ele>
+    <name>Mlynicky Dvur, uvoz</name>
+    <link href="https://mapa-turystyczna.pl/node/7202">
+      <text>Mlynicky Dvur, uvoz</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>U hajovny, rozc. - Mlynicky Dvur, uvoz</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0098593,16.7255312;50.00899050000199,16.726848150000016;50.0083665,16.7286694">
+    <text>U hajovny, rozc. - Mlynicky Dvur, uvoz</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0098593" lon="16.7255312">
+      <ele>678</ele>
+      <time>2022-01-17T23:12:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0088974" lon="16.7261589">
+      <ele>667</ele>
+      <time>2022-01-17T23:14:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0088664" lon="16.7263252">
+      <ele>664</ele>
+      <time>2022-01-17T23:14:36Z</time>
+    </trkpt>
+    <trkpt lat="50.0089767" lon="16.7264646">
+      <ele>662</ele>
+      <time>2022-01-17T23:14:50Z</time>
+    </trkpt>
+    <trkpt lat="50.0090043" lon="16.7272317">
+      <ele>651</ele>
+      <time>2022-01-17T23:15:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0089767" lon="16.7278057">
+      <ele>646</ele>
+      <time>2022-01-17T23:16:17Z</time>
+    </trkpt>
+    <trkpt lat="50.0086423" lon="16.7283636">
+      <ele>640</ele>
+      <time>2022-01-17T23:17:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0083665" lon="16.7286694">
+      <ele>634</ele>
+      <time>2022-01-17T23:17:40Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

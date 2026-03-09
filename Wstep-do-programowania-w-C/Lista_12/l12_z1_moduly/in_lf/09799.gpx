@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:23Z</time>
+    <bounds maxlat="50.0873476" maxlon="17.1397233" minlat="50.0864045" minlon="17.1395248"/>
+  </metadata>
+  <wpt lat="50.087348" lon="17.139525">
+    <ele>1094</ele>
+    <name>Medvedi hora, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6884">
+      <text>Medvedi hora, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.086405" lon="17.139723">
+    <ele>1107</ele>
+    <name>Medvedi hora, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/6886">
+      <text>Medvedi hora, rozhledna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Medvedi hora, rozc. - Medvedi hora, rozhledna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0873476,17.1395248;50.08688295016918,17.139621399999985;50.0864045,17.1397233">
+    <text>Medvedi hora, rozc. - Medvedi hora, rozhledna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0873476" lon="17.1395248">
+      <ele>1094</ele>
+      <time>2022-01-17T23:04:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0870103" lon="17.1396053">
+      <ele>1097</ele>
+      <time>2022-01-17T23:05:26Z</time>
+    </trkpt>
+    <trkpt lat="50.0867556" lon="17.1396375">
+      <ele>1102</ele>
+      <time>2022-01-17T23:06:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0865491" lon="17.1396053">
+      <ele>1104</ele>
+      <time>2022-01-17T23:06:52Z</time>
+    </trkpt>
+    <trkpt lat="50.0864045" lon="17.1397233">
+      <ele>1107</ele>
+      <time>2022-01-17T23:07:23Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

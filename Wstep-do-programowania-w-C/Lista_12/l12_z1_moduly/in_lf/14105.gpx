@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:16:55Z</time>
+    <bounds maxlat="50.0989545" maxlon="18.5528445" minlat="50.0893748" minlon="18.5467569"/>
+  </metadata>
+  <wpt lat="50.089428" lon="18.546757">
+    <ele>246</ele>
+    <name>Rybnik, dworzec kolejowy</name>
+    <link href="https://mapa-turystyczna.pl/node/9351">
+      <text>Rybnik, dworzec kolejowy</text>
+    </link>
+  </wpt>
+  <wpt lat="50.098954" lon="18.552603">
+    <ele>250</ele>
+    <name>Rybnik, ul. Mikolowska</name>
+    <link href="https://mapa-turystyczna.pl/node/9630">
+      <text>Rybnik, ul. Mikolowska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rybnik, dworzec kolejowy - Rybnik, ul. Mikolowska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0894277,18.5467569;50.09457488315949,18.548529149999986;50.0989545,18.5526032">
+    <text>Rybnik, dworzec kolejowy - Rybnik, ul. Mikolowska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0894277" lon="18.5467569">
+      <ele>246</ele>
+      <time>2022-01-18T00:16:55Z</time>
+    </trkpt>
+    <trkpt lat="50.0893748" lon="18.5470131">
+      <ele>244</ele>
+      <time>2022-01-18T00:17:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0917518" lon="18.5476877">
+      <ele>249</ele>
+      <time>2022-01-18T00:21:06Z</time>
+    </trkpt>
+    <trkpt lat="50.0973978" lon="18.5493706">
+      <ele>252</ele>
+      <time>2022-01-18T00:30:23Z</time>
+    </trkpt>
+    <trkpt lat="50.0974799" lon="18.5494529">
+      <ele>252</ele>
+      <time>2022-01-18T00:30:33Z</time>
+    </trkpt>
+    <trkpt lat="50.0975042" lon="18.54957">
+      <ele>252</ele>
+      <time>2022-01-18T00:30:40Z</time>
+    </trkpt>
+    <trkpt lat="50.0975079" lon="18.5496871">
+      <ele>252</ele>
+      <time>2022-01-18T00:30:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0970639" lon="18.5525104">
+      <ele>249</ele>
+      <time>2022-01-18T00:33:48Z</time>
+    </trkpt>
+    <trkpt lat="50.0979254" lon="18.552801">
+      <ele>250</ele>
+      <time>2022-01-18T00:35:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0981102" lon="18.5528445">
+      <ele>250</ele>
+      <time>2022-01-18T00:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.0989545" lon="18.5526032">
+      <ele>250</ele>
+      <time>2022-01-18T00:36:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

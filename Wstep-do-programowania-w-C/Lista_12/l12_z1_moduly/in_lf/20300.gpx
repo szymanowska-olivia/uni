@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:04:05Z</time>
+    <bounds maxlat="51.024452" maxlon="16.11768" minlat="51.023222" minlon="16.115519"/>
+  </metadata>
+  <wpt lat="51.024452" lon="16.11768">
+    <ele>260</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13644">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="51.023222" lon="16.115519">
+    <ele>272</ele>
+    <name>Wawoz Mysliborski, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/12456">
+      <text>Wawoz Mysliborski, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Wawoz Mysliborski, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.024452,16.11768;51.024011500012826,16.11640949999997;51.023222,16.115519">
+    <text>Rozejscie szlakow - Wawoz Mysliborski, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.024452" lon="16.11768">
+      <ele>260</ele>
+      <time>2022-01-18T02:04:05Z</time>
+    </trkpt>
+    <trkpt lat="51.024412" lon="16.117549">
+      <ele>261</ele>
+      <time>2022-01-18T02:04:19Z</time>
+    </trkpt>
+    <trkpt lat="51.024382" lon="16.117386">
+      <ele>261</ele>
+      <time>2022-01-18T02:04:36Z</time>
+    </trkpt>
+    <trkpt lat="51.024359" lon="16.117138">
+      <ele>261</ele>
+      <time>2022-01-18T02:05:00Z</time>
+    </trkpt>
+    <trkpt lat="51.02431" lon="16.116979">
+      <ele>261</ele>
+      <time>2022-01-18T02:05:18Z</time>
+    </trkpt>
+    <trkpt lat="51.024246" lon="16.116818">
+      <ele>262</ele>
+      <time>2022-01-18T02:05:37Z</time>
+    </trkpt>
+    <trkpt lat="51.02414" lon="16.116639">
+      <ele>262</ele>
+      <time>2022-01-18T02:06:01Z</time>
+    </trkpt>
+    <trkpt lat="51.024046" lon="16.116487">
+      <ele>263</ele>
+      <time>2022-01-18T02:06:22Z</time>
+    </trkpt>
+    <trkpt lat="51.023977" lon="16.116332">
+      <ele>264</ele>
+      <time>2022-01-18T02:06:40Z</time>
+    </trkpt>
+    <trkpt lat="51.023947" lon="16.116268">
+      <ele>265</ele>
+      <time>2022-01-18T02:06:48Z</time>
+    </trkpt>
+    <trkpt lat="51.023907" lon="16.116164">
+      <ele>266</ele>
+      <time>2022-01-18T02:07:00Z</time>
+    </trkpt>
+    <trkpt lat="51.023814" lon="16.116023">
+      <ele>267</ele>
+      <time>2022-01-18T02:07:20Z</time>
+    </trkpt>
+    <trkpt lat="51.023222" lon="16.115519">
+      <ele>272</ele>
+      <time>2022-01-18T02:09:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

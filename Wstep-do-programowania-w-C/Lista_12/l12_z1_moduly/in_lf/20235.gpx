@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:03:03Z</time>
+    <bounds maxlat="49.762464" maxlon="19.087034" minlat="49.761014" minlon="19.086533"/>
+  </metadata>
+  <wpt lat="49.762464" lon="19.086533">
+    <ele>396</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/13615">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.761014" lon="19.087034">
+    <ele>398</ele>
+    <name>Wilkowice, stacja kolejowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8155">
+      <text>Wilkowice, stacja kolejowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozejscie szlakow - Wilkowice, stacja kolejowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.762464,19.086533;49.761870500699835,19.086704999999995;49.761014,19.087034">
+    <text>Rozejscie szlakow - Wilkowice, stacja kolejowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.762464" lon="19.086533">
+      <ele>396</ele>
+      <time>2022-01-18T02:03:03Z</time>
+    </trkpt>
+    <trkpt lat="49.762131" lon="19.086628">
+      <ele>397</ele>
+      <time>2022-01-18T02:03:44Z</time>
+    </trkpt>
+    <trkpt lat="49.76161" lon="19.086782">
+      <ele>396</ele>
+      <time>2022-01-18T02:04:48Z</time>
+    </trkpt>
+    <trkpt lat="49.761173" lon="19.086941">
+      <ele>398</ele>
+      <time>2022-01-18T02:05:42Z</time>
+    </trkpt>
+    <trkpt lat="49.761014" lon="19.087034">
+      <ele>398</ele>
+      <time>2022-01-18T02:06:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

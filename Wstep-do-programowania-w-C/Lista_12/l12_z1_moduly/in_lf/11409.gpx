@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:11Z</time>
+    <bounds maxlat="50.6944765" maxlon="16.31702" minlat="50.6943135" minlon="16.316607"/>
+  </metadata>
+  <wpt lat="50.694477" lon="16.31702">
+    <ele>821</ele>
+    <name>Pod Rogowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/2333">
+      <text>Pod Rogowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.694313" lon="16.316607">
+    <ele>825</ele>
+    <name>Pod Rogowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/8023">
+      <text>Pod Rogowcem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Rogowcem - Pod Rogowcem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6944765,16.31702;50.69439580006942,16.316814149999992;50.6943135,16.316607">
+    <text>Pod Rogowcem - Pod Rogowcem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6944765" lon="16.31702">
+      <ele>821</ele>
+      <time>2022-01-17T23:34:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6943151" lon="16.3166083">
+      <ele>825</ele>
+      <time>2022-01-17T23:35:11Z</time>
+    </trkpt>
+    <trkpt lat="50.6943135" lon="16.316607">
+      <ele>825</ele>
+      <time>2022-01-17T23:35:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

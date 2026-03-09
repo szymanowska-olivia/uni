@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:21:33Z</time>
+    <bounds maxlat="52.3249503" maxlon="20.6714362" minlat="52.3246125" minlon="20.6706798"/>
+  </metadata>
+  <wpt lat="52.324613" lon="20.67068">
+    <ele>83</ele>
+    <name>Wiersze, cmentarz partyzancki</name>
+    <link href="https://mapa-turystyczna.pl/node/4955">
+      <text>Wiersze, cmentarz partyzancki</text>
+    </link>
+  </wpt>
+  <wpt lat="52.32495" lon="20.671436">
+    <ele>82</ele>
+    <name>Wiersze, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/4940">
+      <text>Wiersze, pomnik</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wiersze, cmentarz partyzancki - Wiersze, pomnik</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.3246125,20.6706798;52.32471010010765,20.67086890000003;52.3249503,20.6714362">
+    <text>Wiersze, cmentarz partyzancki - Wiersze, pomnik</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.3246125" lon="20.6706798">
+      <ele>83</ele>
+      <time>2022-01-17T22:21:33Z</time>
+    </trkpt>
+    <trkpt lat="52.3248077" lon="20.671058">
+      <ele>83</ele>
+      <time>2022-01-17T22:22:05Z</time>
+    </trkpt>
+    <trkpt lat="52.3249503" lon="20.6714362">
+      <ele>82</ele>
+      <time>2022-01-17T22:22:33Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

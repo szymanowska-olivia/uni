@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:21:14Z</time>
+    <bounds maxlat="50.163003" maxlon="16.9498873" minlat="50.1621943" minlon="16.9461441"/>
+  </metadata>
+  <wpt lat="50.162194" lon="16.946144">
+    <ele>544</ele>
+    <name>Stare Mesto, Jesenicka</name>
+    <link href="https://mapa-turystyczna.pl/node/7535">
+      <text>Stare Mesto, Jesenicka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.163003" lon="16.949887">
+    <ele>561</ele>
+    <name>Stare Mesto, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/2190">
+      <text>Stare Mesto, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Stare Mesto, Jesenicka - Stare Mesto, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.1621943,16.9461441;50.162604401661945,16.948058;50.163003,16.9498873">
+    <text>Stare Mesto, Jesenicka - Stare Mesto, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.1621943" lon="16.9461441">
+      <ele>544</ele>
+      <time>2022-01-17T23:21:14Z</time>
+    </trkpt>
+    <trkpt lat="50.1622058" lon="16.9462287">
+      <ele>544</ele>
+      <time>2022-01-17T23:21:21Z</time>
+    </trkpt>
+    <trkpt lat="50.163003" lon="16.9498873">
+      <ele>561</ele>
+      <time>2022-01-17T23:26:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

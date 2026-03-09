@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:16:59Z</time>
+    <bounds maxlat="50.5043518" maxlon="16.4033175" minlat="50.5042768" minlon="16.4008283"/>
+  </metadata>
+  <wpt lat="50.504352" lon="16.403317">
+    <ele>371</ele>
+    <name>Radkow</name>
+    <link href="https://mapa-turystyczna.pl/node/1808">
+      <text>Radkow</text>
+    </link>
+  </wpt>
+  <wpt lat="50.504277" lon="16.400828">
+    <ele>383</ele>
+    <name>Radkow, Rynek</name>
+    <link href="https://mapa-turystyczna.pl/node/1803">
+      <text>Radkow, Rynek</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Radkow - Radkow, Rynek</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5043518,16.4033175;50.504319400011106,16.40254499999999;50.5042768,16.4008283">
+    <text>Radkow - Radkow, Rynek</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5043518" lon="16.4033175">
+      <ele>371</ele>
+      <time>2022-01-17T21:16:59Z</time>
+    </trkpt>
+    <trkpt lat="50.504287" lon="16.4017725">
+      <ele>379</ele>
+      <time>2022-01-17T21:20:05Z</time>
+    </trkpt>
+    <trkpt lat="50.5042768" lon="16.4008283">
+      <ele>383</ele>
+      <time>2022-01-17T21:21:59Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

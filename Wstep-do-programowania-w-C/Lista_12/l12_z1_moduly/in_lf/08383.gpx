@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:37:48Z</time>
+    <bounds maxlat="50.5607131" maxlon="16.2691426" minlat="50.5605632" minlon="16.2685096"/>
+  </metadata>
+  <wpt lat="50.560713" lon="16.26851">
+    <ele>602</ele>
+    <name>Marianska jeskyne, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/5833">
+      <text>Marianska jeskyne, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.560563" lon="16.269143">
+    <ele>600</ele>
+    <name>Marianska jeskyne</name>
+    <link href="https://mapa-turystyczna.pl/node/5834">
+      <text>Marianska jeskyne</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Marianska jeskyne, odbocka - Marianska jeskyne</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5607131,16.2685096;50.560692650004434,16.268694700000026;50.5605632,16.2691426">
+    <text>Marianska jeskyne, odbocka - Marianska jeskyne</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5607131" lon="16.2685096">
+      <ele>602</ele>
+      <time>2022-01-17T22:37:48Z</time>
+    </trkpt>
+    <trkpt lat="50.5606722" lon="16.2688798">
+      <ele>599</ele>
+      <time>2022-01-17T22:38:21Z</time>
+    </trkpt>
+    <trkpt lat="50.5605632" lon="16.2691426">
+      <ele>600</ele>
+      <time>2022-01-17T22:38:48Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

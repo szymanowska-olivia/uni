@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:34:14Z</time>
+    <bounds maxlat="50.6943135" maxlon="16.316607" minlat="50.6922746" minlon="16.3147231"/>
+  </metadata>
+  <wpt lat="50.694313" lon="16.316607">
+    <ele>825</ele>
+    <name>Pod Rogowcem</name>
+    <link href="https://mapa-turystyczna.pl/node/8023">
+      <text>Pod Rogowcem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.692275" lon="16.314853">
+    <ele>826</ele>
+    <name>Skalna Brama</name>
+    <link href="https://mapa-turystyczna.pl/node/2336">
+      <text>Skalna Brama</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Rogowcem - Skalna Brama</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6943135,16.316607;50.6936402000708,16.315285950000007;50.6922746,16.3148528">
+    <text>Pod Rogowcem - Skalna Brama</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6943135" lon="16.316607">
+      <ele>825</ele>
+      <time>2022-01-17T23:34:14Z</time>
+    </trkpt>
+    <trkpt lat="50.694261" lon="16.3162836">
+      <ele>824</ele>
+      <time>2022-01-17T23:34:37Z</time>
+    </trkpt>
+    <trkpt lat="50.6941419" lon="16.3160006">
+      <ele>825</ele>
+      <time>2022-01-17T23:35:00Z</time>
+    </trkpt>
+    <trkpt lat="50.6939135" lon="16.3157221">
+      <ele>830</ele>
+      <time>2022-01-17T23:35:32Z</time>
+    </trkpt>
+    <trkpt lat="50.6937217" lon="16.3156371">
+      <ele>835</ele>
+      <time>2022-01-17T23:35:54Z</time>
+    </trkpt>
+    <trkpt lat="50.6935587" lon="16.3149348">
+      <ele>840</ele>
+      <time>2022-01-17T23:36:45Z</time>
+    </trkpt>
+    <trkpt lat="50.6933549" lon="16.3147231">
+      <ele>836</ele>
+      <time>2022-01-17T23:37:12Z</time>
+    </trkpt>
+    <trkpt lat="50.693185" lon="16.3148011">
+      <ele>838</ele>
+      <time>2022-01-17T23:37:31Z</time>
+    </trkpt>
+    <trkpt lat="50.6930697" lon="16.3149199">
+      <ele>841</ele>
+      <time>2022-01-17T23:37:46Z</time>
+    </trkpt>
+    <trkpt lat="50.692426" lon="16.3148995">
+      <ele>828</ele>
+      <time>2022-01-17T23:38:57Z</time>
+    </trkpt>
+    <trkpt lat="50.6923527" lon="16.3148689">
+      <ele>827</ele>
+      <time>2022-01-17T23:39:05Z</time>
+    </trkpt>
+    <trkpt lat="50.6922746" lon="16.3148528">
+      <ele>826</ele>
+      <time>2022-01-17T23:39:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

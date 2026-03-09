@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:50:51Z</time>
+    <bounds maxlat="53.9323648" maxlon="14.4645826" minlat="53.9288712" minlon="14.4557815"/>
+  </metadata>
+  <wpt lat="53.928871" lon="14.455782">
+    <ele>23</ele>
+    <name>Miedzyzdroje, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8592">
+      <text>Miedzyzdroje, ul. Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="53.932358" lon="14.464583">
+    <ele>50</ele>
+    <name>Miedzyzdroje, Droga Zubrowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8536">
+      <text>Miedzyzdroje, Droga Zubrowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Miedzyzdroje, ul. Lesna - Miedzyzdroje, Droga Zubrowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9288712,14.4557815;53.93146015438173,14.461223949999997;53.9323582,14.4645826">
+    <text>Miedzyzdroje, ul. Lesna - Miedzyzdroje, Droga Zubrowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9288712" lon="14.4557815">
+      <ele>23</ele>
+      <time>2022-01-17T23:50:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9288718" lon="14.4557816">
+      <ele>23</ele>
+      <time>2022-01-17T23:50:51Z</time>
+    </trkpt>
+    <trkpt lat="53.9293645" lon="14.457477">
+      <ele>29</ele>
+      <time>2022-01-17T23:53:27Z</time>
+    </trkpt>
+    <trkpt lat="53.9301478" lon="14.4586625">
+      <ele>36</ele>
+      <time>2022-01-17T23:55:54Z</time>
+    </trkpt>
+    <trkpt lat="53.9308554" lon="14.459907">
+      <ele>43</ele>
+      <time>2022-01-17T23:58:17Z</time>
+    </trkpt>
+    <trkpt lat="53.9320649" lon="14.4625409">
+      <ele>44</ele>
+      <time>2022-01-18T00:02:52Z</time>
+    </trkpt>
+    <trkpt lat="53.9323145" lon="14.4631658">
+      <ele>46</ele>
+      <time>2022-01-18T00:03:54Z</time>
+    </trkpt>
+    <trkpt lat="53.9323648" lon="14.4637991">
+      <ele>48</ele>
+      <time>2022-01-18T00:04:46Z</time>
+    </trkpt>
+    <trkpt lat="53.9323582" lon="14.4645826">
+      <ele>50</ele>
+      <time>2022-01-18T00:05:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

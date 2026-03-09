@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:26:21Z</time>
+    <bounds maxlat="50.8808351" maxlon="15.2844957" minlat="50.8740248" minlon="15.2750731"/>
+  </metadata>
+  <wpt lat="50.880835" lon="15.275073">
+    <ele>931</ele>
+    <name>Nebesky zebrik</name>
+    <link href="https://mapa-turystyczna.pl/node/2275">
+      <text>Nebesky zebrik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.874025" lon="15.284364">
+    <ele>876</ele>
+    <name>Na Piscinach</name>
+    <link href="https://mapa-turystyczna.pl/node/2278">
+      <text>Na Piscinach</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nebesky zebrik - Na Piscinach</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.8808351,15.2750731;50.87795900031669,15.281747750000028;50.8740248,15.2843642">
+    <text>Nebesky zebrik - Na Piscinach</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.8808351" lon="15.2750731">
+      <ele>931</ele>
+      <time>2022-01-17T21:26:21Z</time>
+    </trkpt>
+    <trkpt lat="50.8796031" lon="15.2784419">
+      <ele>917</ele>
+      <time>2022-01-17T21:30:02Z</time>
+    </trkpt>
+    <trkpt lat="50.8781308" lon="15.2813441">
+      <ele>908</ele>
+      <time>2022-01-17T21:33:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8777872" lon="15.2821514">
+      <ele>904</ele>
+      <time>2022-01-17T21:34:29Z</time>
+    </trkpt>
+    <trkpt lat="50.8772947" lon="15.2829802">
+      <ele>898</ele>
+      <time>2022-01-17T21:35:34Z</time>
+    </trkpt>
+    <trkpt lat="50.8768953" lon="15.2842355">
+      <ele>894</ele>
+      <time>2022-01-17T21:36:54Z</time>
+    </trkpt>
+    <trkpt lat="50.8767387" lon="15.2844943">
+      <ele>891</ele>
+      <time>2022-01-17T21:37:15Z</time>
+    </trkpt>
+    <trkpt lat="50.8763656" lon="15.2844957">
+      <ele>888</ele>
+      <time>2022-01-17T21:37:48Z</time>
+    </trkpt>
+    <trkpt lat="50.875565" lon="15.2843267">
+      <ele>883</ele>
+      <time>2022-01-17T21:39:01Z</time>
+    </trkpt>
+    <trkpt lat="50.8749253" lon="15.2842033">
+      <ele>881</ele>
+      <time>2022-01-17T21:39:59Z</time>
+    </trkpt>
+    <trkpt lat="50.8740248" lon="15.2843642">
+      <ele>876</ele>
+      <time>2022-01-17T21:41:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:06:05Z</time>
+    <bounds maxlat="48.8801197" maxlon="20.3969228" minlat="48.8795905" minlon="20.3966331"/>
+  </metadata>
+  <wpt lat="48.88012" lon="20.396633">
+    <ele>1032</ele>
+    <name>Geravy</name>
+    <link href="https://mapa-turystyczna.pl/node/6963">
+      <text>Geravy</text>
+    </link>
+  </wpt>
+  <wpt lat="48.87959" lon="20.396923">
+    <ele>1032</ele>
+    <name>Geravy, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6964">
+      <text>Geravy, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Geravy - Geravy, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.8801197,20.3966331;48.8797298501941,20.39687185;48.8795905,20.3969228">
+    <text>Geravy - Geravy, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.8801197" lon="20.3966331">
+      <ele>1032</ele>
+      <time>2022-01-17T23:06:05Z</time>
+    </trkpt>
+    <trkpt lat="48.8798692" lon="20.3968209">
+      <ele>1031</ele>
+      <time>2022-01-17T23:06:35Z</time>
+    </trkpt>
+    <trkpt lat="48.8795905" lon="20.3969228">
+      <ele>1032</ele>
+      <time>2022-01-17T23:07:05Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

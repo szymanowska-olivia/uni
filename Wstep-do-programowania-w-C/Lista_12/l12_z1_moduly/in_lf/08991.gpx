@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:49:00Z</time>
+    <bounds maxlat="50.2295659" maxlon="17.2291803" minlat="50.2264807" minlon="17.2251731"/>
+  </metadata>
+  <wpt lat="50.226481" lon="17.225173">
+    <ele>670</ele>
+    <name>Krizovy vrch</name>
+    <link href="https://mapa-turystyczna.pl/node/6260">
+      <text>Krizovy vrch</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229566" lon="17.22918">
+    <ele>681</ele>
+    <name>Krizovy Vrch, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6261">
+      <text>Krizovy Vrch, rozc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Krizovy vrch - Krizovy Vrch, rozc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2264807,17.2251731;50.22769040164742,17.226879000000007;50.2295659,17.2291803">
+    <text>Krizovy vrch - Krizovy Vrch, rozc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2264807" lon="17.2251731">
+      <ele>670</ele>
+      <time>2022-01-17T22:49:00Z</time>
+    </trkpt>
+    <trkpt lat="50.226642" lon="17.2254521">
+      <ele>670</ele>
+      <time>2022-01-17T22:49:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2269302" lon="17.2257203">
+      <ele>671</ele>
+      <time>2022-01-17T22:50:25Z</time>
+    </trkpt>
+    <trkpt lat="50.227294" lon="17.2261441">
+      <ele>672</ele>
+      <time>2022-01-17T22:51:32Z</time>
+    </trkpt>
+    <trkpt lat="50.2280868" lon="17.2276139">
+      <ele>674</ele>
+      <time>2022-01-17T22:54:33Z</time>
+    </trkpt>
+    <trkpt lat="50.228176" lon="17.227807">
+      <ele>673</ele>
+      <time>2022-01-17T22:54:56Z</time>
+    </trkpt>
+    <trkpt lat="50.2288761" lon="17.2286761">
+      <ele>677</ele>
+      <time>2022-01-17T22:57:08Z</time>
+    </trkpt>
+    <trkpt lat="50.2290408" lon="17.2288156">
+      <ele>679</ele>
+      <time>2022-01-17T22:57:35Z</time>
+    </trkpt>
+    <trkpt lat="50.2295659" lon="17.2291803">
+      <ele>681</ele>
+      <time>2022-01-17T22:59:00Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:32:14Z</time>
+    <bounds maxlat="50.0153822" maxlon="17.0129996" minlat="50.014145" minlon="17.0119643"/>
+  </metadata>
+  <wpt lat="50.015382" lon="17.011964">
+    <ele>609</ele>
+    <name>Pod Bukovym</name>
+    <link href="https://mapa-turystyczna.pl/node/7967">
+      <text>Pod Bukovym</text>
+    </link>
+  </wpt>
+  <wpt lat="50.014145" lon="17.013">
+    <ele>618</ele>
+    <name>Predni Bukovy, rozhledna</name>
+    <link href="https://mapa-turystyczna.pl/node/7965">
+      <text>Predni Bukovy, rozhledna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bukovym - Predni Bukovy, rozhledna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0153822,17.0119643;50.01465460020776,17.012149949999994;50.014145,17.0129996">
+    <text>Pod Bukovym - Predni Bukovy, rozhledna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0153822" lon="17.0119643">
+      <ele>609</ele>
+      <time>2022-01-17T23:32:14Z</time>
+    </trkpt>
+    <trkpt lat="50.0147959" lon="17.011989">
+      <ele>612</ele>
+      <time>2022-01-17T23:34:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0145133" lon="17.0123109">
+      <ele>615</ele>
+      <time>2022-01-17T23:35:20Z</time>
+    </trkpt>
+    <trkpt lat="50.0143064" lon="17.0127293">
+      <ele>620</ele>
+      <time>2022-01-17T23:36:27Z</time>
+    </trkpt>
+    <trkpt lat="50.014145" lon="17.0129996">
+      <ele>618</ele>
+      <time>2022-01-17T23:37:14Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

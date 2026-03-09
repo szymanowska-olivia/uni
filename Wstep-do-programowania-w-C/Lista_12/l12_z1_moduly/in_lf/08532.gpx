@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:40:26Z</time>
+    <bounds maxlat="48.9864667" maxlon="19.1066601" minlat="48.9845966" minlon="19.10236"/>
+  </metadata>
+  <wpt lat="48.986467" lon="19.10666">
+    <ele>1283</ele>
+    <name>Maly Lysec</name>
+    <link href="https://mapa-turystyczna.pl/node/5938">
+      <text>Maly Lysec</text>
+    </link>
+  </wpt>
+  <wpt lat="48.984597" lon="19.10236">
+    <ele>1275</ele>
+    <name>Maly Lysec, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/5564">
+      <text>Maly Lysec, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Maly Lysec - Maly Lysec, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9864667,19.1066601;48.98558940007167,19.10433945;48.9845966,19.10236">
+    <text>Maly Lysec - Maly Lysec, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9864667" lon="19.1066601">
+      <ele>1283</ele>
+      <time>2022-01-17T22:40:26Z</time>
+    </trkpt>
+    <trkpt lat="48.9864132" lon="19.1064155">
+      <ele>1280</ele>
+      <time>2022-01-17T22:40:56Z</time>
+    </trkpt>
+    <trkpt lat="48.9859555" lon="19.1052675">
+      <ele>1259</ele>
+      <time>2022-01-17T22:43:31Z</time>
+    </trkpt>
+    <trkpt lat="48.9857936" lon="19.1046667">
+      <ele>1257</ele>
+      <time>2022-01-17T22:44:45Z</time>
+    </trkpt>
+    <trkpt lat="48.9856739" lon="19.1044092">
+      <ele>1258</ele>
+      <time>2022-01-17T22:45:21Z</time>
+    </trkpt>
+    <trkpt lat="48.9855049" lon="19.1042697">
+      <ele>1262</ele>
+      <time>2022-01-17T22:45:55Z</time>
+    </trkpt>
+    <trkpt lat="48.9853007" lon="19.1039586">
+      <ele>1267</ele>
+      <time>2022-01-17T22:46:45Z</time>
+    </trkpt>
+    <trkpt lat="48.9850965" lon="19.1034544">
+      <ele>1274</ele>
+      <time>2022-01-17T22:47:53Z</time>
+    </trkpt>
+    <trkpt lat="48.9849135" lon="19.1029394">
+      <ele>1276</ele>
+      <time>2022-01-17T22:49:00Z</time>
+    </trkpt>
+    <trkpt lat="48.9847058" lon="19.1025102">
+      <ele>1277</ele>
+      <time>2022-01-17T22:50:00Z</time>
+    </trkpt>
+    <trkpt lat="48.9845966" lon="19.10236">
+      <ele>1275</ele>
+      <time>2022-01-17T22:50:26Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

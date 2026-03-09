@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:33:22Z</time>
+    <bounds maxlat="54.0651525" maxlon="15.265835" minlat="54.0629681" minlon="15.2624176"/>
+  </metadata>
+  <wpt lat="54.062968" lon="15.265835">
+    <ele>17</ele>
+    <name>Trzebiatow</name>
+    <link href="https://mapa-turystyczna.pl/node/12570">
+      <text>Trzebiatow</text>
+    </link>
+  </wpt>
+  <wpt lat="54.065153" lon="15.262418">
+    <ele>4</ele>
+    <name>Trzebiatow, ul. Polwiejska</name>
+    <link href="https://mapa-turystyczna.pl/node/12582">
+      <text>Trzebiatow, ul. Polwiejska</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebiatow - Trzebiatow, ul. Polwiejska</name>
+  <link href="https://mapa-turystyczna.pl/route?q=54.0629681,15.265835;54.06409965319008,15.26429530000001;54.0651525,15.2624176">
+    <text>Trzebiatow - Trzebiatow, ul. Polwiejska</text>
+  </link>
+  <trkseg>
+    <trkpt lat="54.0629681" lon="15.265835">
+      <ele>17</ele>
+      <time>2022-01-18T01:33:22Z</time>
+    </trkpt>
+    <trkpt lat="54.0635849" lon="15.2649739">
+      <ele>16</ele>
+      <time>2022-01-18T01:34:41Z</time>
+    </trkpt>
+    <trkpt lat="54.0646144" lon="15.2636167">
+      <ele>5</ele>
+      <time>2022-01-18T01:36:50Z</time>
+    </trkpt>
+    <trkpt lat="54.0648096" lon="15.2628335">
+      <ele>4</ele>
+      <time>2022-01-18T01:37:40Z</time>
+    </trkpt>
+    <trkpt lat="54.0649954" lon="15.2625492">
+      <ele>4</ele>
+      <time>2022-01-18T01:38:05Z</time>
+    </trkpt>
+    <trkpt lat="54.0651525" lon="15.2624176">
+      <ele>4</ele>
+      <time>2022-01-18T01:38:22Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

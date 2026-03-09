@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:57Z</time>
+    <bounds maxlat="50.7278716" maxlon="19.3016911" minlat="50.7249682" minlon="19.300071"/>
+  </metadata>
+  <wpt lat="50.724968" lon="19.300071">
+    <ele>319</ele>
+    <name>Pod Karzelkiem</name>
+    <link href="https://mapa-turystyczna.pl/node/4532">
+      <text>Pod Karzelkiem</text>
+    </link>
+  </wpt>
+  <wpt lat="50.727872" lon="19.301691">
+    <ele>319</ele>
+    <name>Skrzyzowanie przy Jaskini Maurycego</name>
+    <link href="https://mapa-turystyczna.pl/node/4531">
+      <text>Skrzyzowanie przy Jaskini Maurycego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Karzelkiem - Skrzyzowanie przy Jaskini Maurycego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7249682,19.300071;50.72664570251653,19.30069595000001;50.7278716,19.3016911">
+    <text>Pod Karzelkiem - Skrzyzowanie przy Jaskini Maurycego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7249682" lon="19.300071">
+      <ele>319</ele>
+      <time>2022-01-17T22:07:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7251228" lon="19.3003979">
+      <ele>318</ele>
+      <time>2022-01-17T22:08:21Z</time>
+    </trkpt>
+    <trkpt lat="50.7253146" lon="19.3005324">
+      <ele>318</ele>
+      <time>2022-01-17T22:08:41Z</time>
+    </trkpt>
+    <trkpt lat="50.7261601" lon="19.3005001">
+      <ele>318</ele>
+      <time>2022-01-17T22:10:00Z</time>
+    </trkpt>
+    <trkpt lat="50.7271313" lon="19.3008918">
+      <ele>316</ele>
+      <time>2022-01-17T22:11:33Z</time>
+    </trkpt>
+    <trkpt lat="50.7273045" lon="19.3010661">
+      <ele>316</ele>
+      <time>2022-01-17T22:11:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7274607" lon="19.3012136">
+      <ele>317</ele>
+      <time>2022-01-17T22:12:09Z</time>
+    </trkpt>
+    <trkpt lat="50.727643" lon="19.3014793">
+      <ele>318</ele>
+      <time>2022-01-17T22:12:32Z</time>
+    </trkpt>
+    <trkpt lat="50.7278716" lon="19.3016911">
+      <ele>319</ele>
+      <time>2022-01-17T22:12:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

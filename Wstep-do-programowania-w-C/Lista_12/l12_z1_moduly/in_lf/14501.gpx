@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:23:24Z</time>
+    <bounds maxlat="51.022299" maxlon="16.130377" minlat="51.020628" minlon="16.126943"/>
+  </metadata>
+  <wpt lat="51.022299" lon="16.126943">
+    <ele>329</ele>
+    <name>Pod Ratajem</name>
+    <link href="https://mapa-turystyczna.pl/node/9886">
+      <text>Pod Ratajem</text>
+    </link>
+  </wpt>
+  <wpt lat="51.020628" lon="16.130377">
+    <ele>280</ele>
+    <name>Rozejscie szlakow pod Ratajem</name>
+    <link href="https://mapa-turystyczna.pl/node/2846">
+      <text>Rozejscie szlakow pod Ratajem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Ratajem - Rozejscie szlakow pod Ratajem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.022299,16.126943;51.02144150008447,16.128474000000033;51.020628,16.130377">
+    <text>Pod Ratajem - Rozejscie szlakow pod Ratajem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.022299" lon="16.126943">
+      <ele>329</ele>
+      <time>2022-01-18T00:23:24Z</time>
+    </trkpt>
+    <trkpt lat="51.022266" lon="16.127122">
+      <ele>328</ele>
+      <time>2022-01-18T00:23:37Z</time>
+    </trkpt>
+    <trkpt lat="51.022215" lon="16.127318">
+      <ele>325</ele>
+      <time>2022-01-18T00:23:51Z</time>
+    </trkpt>
+    <trkpt lat="51.022134" lon="16.127473">
+      <ele>324</ele>
+      <time>2022-01-18T00:24:05Z</time>
+    </trkpt>
+    <trkpt lat="51.022079" lon="16.127588">
+      <ele>322</ele>
+      <time>2022-01-18T00:24:14Z</time>
+    </trkpt>
+    <trkpt lat="51.02153" lon="16.128367">
+      <ele>313</ele>
+      <time>2022-01-18T00:25:34Z</time>
+    </trkpt>
+    <trkpt lat="51.021353" lon="16.128581">
+      <ele>309</ele>
+      <time>2022-01-18T00:25:58Z</time>
+    </trkpt>
+    <trkpt lat="51.021298" lon="16.128691">
+      <ele>306</ele>
+      <time>2022-01-18T00:26:08Z</time>
+    </trkpt>
+    <trkpt lat="51.02102" lon="16.129458">
+      <ele>293</ele>
+      <time>2022-01-18T00:27:08Z</time>
+    </trkpt>
+    <trkpt lat="51.020794" lon="16.130008">
+      <ele>285</ele>
+      <time>2022-01-18T00:27:53Z</time>
+    </trkpt>
+    <trkpt lat="51.020628" lon="16.130377">
+      <ele>280</ele>
+      <time>2022-01-18T00:28:24Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

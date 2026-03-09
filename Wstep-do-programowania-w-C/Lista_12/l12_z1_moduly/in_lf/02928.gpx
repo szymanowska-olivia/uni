@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:22:28Z</time>
+    <bounds maxlat="50.4441451" maxlon="16.8753863" minlat="50.4431031" minlon="16.8741792"/>
+  </metadata>
+  <wpt lat="50.443103" lon="16.874179">
+    <ele>359</ele>
+    <name>Zloty Stok</name>
+    <link href="https://mapa-turystyczna.pl/node/2070">
+      <text>Zloty Stok</text>
+    </link>
+  </wpt>
+  <wpt lat="50.444145" lon="16.875386">
+    <ele>353</ele>
+    <name>Zloty Stok, Klodzka</name>
+    <link href="https://mapa-turystyczna.pl/node/2071">
+      <text>Zloty Stok, Klodzka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zloty Stok - Zloty Stok, Klodzka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4431031,16.8741792;50.44357635003357,16.874694299999966;50.4441451,16.8753863">
+    <text>Zloty Stok - Zloty Stok, Klodzka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4431031" lon="16.8741792">
+      <ele>359</ele>
+      <time>2022-01-17T21:22:28Z</time>
+    </trkpt>
+    <trkpt lat="50.443303" lon="16.8742786">
+      <ele>359</ele>
+      <time>2022-01-17T21:22:53Z</time>
+    </trkpt>
+    <trkpt lat="50.4435882" lon="16.8745119">
+      <ele>357</ele>
+      <time>2022-01-17T21:23:31Z</time>
+    </trkpt>
+    <trkpt lat="50.4436327" lon="16.8745602">
+      <ele>357</ele>
+      <time>2022-01-17T21:23:38Z</time>
+    </trkpt>
+    <trkpt lat="50.44352" lon="16.8748284">
+      <ele>357</ele>
+      <time>2022-01-17T21:24:02Z</time>
+    </trkpt>
+    <trkpt lat="50.4436344" lon="16.8749439">
+      <ele>356</ele>
+      <time>2022-01-17T21:24:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4439743" lon="16.8752844">
+      <ele>353</ele>
+      <time>2022-01-17T21:25:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4440563" lon="16.8753192">
+      <ele>353</ele>
+      <time>2022-01-17T21:25:16Z</time>
+    </trkpt>
+    <trkpt lat="50.4441451" lon="16.8753863">
+      <ele>353</ele>
+      <time>2022-01-17T21:25:28Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

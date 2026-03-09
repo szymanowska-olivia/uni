@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:42:03Z</time>
+    <bounds maxlat="49.623848" maxlon="18.888167" minlat="49.622498" minlon="18.88529"/>
+  </metadata>
+  <wpt lat="49.623848" lon="18.88529">
+    <ele>584</ele>
+    <name>Wisla, Gron</name>
+    <link href="https://mapa-turystyczna.pl/node/856">
+      <text>Wisla, Gron</text>
+    </link>
+  </wpt>
+  <wpt lat="49.622498" lon="18.888167">
+    <ele>610</ele>
+    <name>Wisla, Gron, ul. Kasztanowa</name>
+    <link href="https://mapa-turystyczna.pl/node/3057">
+      <text>Wisla, Gron, ul. Kasztanowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wisla, Gron - Wisla, Gron, ul. Kasztanowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.623848,18.88529;49.62326150015651,18.886884499999987;49.622498,18.888167">
+    <text>Wisla, Gron - Wisla, Gron, ul. Kasztanowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.623848" lon="18.88529">
+      <ele>584</ele>
+      <time>2022-01-17T21:42:03Z</time>
+    </trkpt>
+    <trkpt lat="49.623835" lon="18.885494">
+      <ele>585</ele>
+      <time>2022-01-17T21:42:20Z</time>
+    </trkpt>
+    <trkpt lat="49.623708" lon="18.885858">
+      <ele>586</ele>
+      <time>2022-01-17T21:42:54Z</time>
+    </trkpt>
+    <trkpt lat="49.623575" lon="18.886276">
+      <ele>589</ele>
+      <time>2022-01-17T21:43:32Z</time>
+    </trkpt>
+    <trkpt lat="49.623485" lon="18.886493">
+      <ele>590</ele>
+      <time>2022-01-17T21:43:54Z</time>
+    </trkpt>
+    <trkpt lat="49.623385" lon="18.886687">
+      <ele>592</ele>
+      <time>2022-01-17T21:44:14Z</time>
+    </trkpt>
+    <trkpt lat="49.623138" lon="18.887082">
+      <ele>594</ele>
+      <time>2022-01-17T21:45:00Z</time>
+    </trkpt>
+    <trkpt lat="49.623023" lon="18.887232">
+      <ele>595</ele>
+      <time>2022-01-17T21:45:19Z</time>
+    </trkpt>
+    <trkpt lat="49.622885" lon="18.887399">
+      <ele>596</ele>
+      <time>2022-01-17T21:45:41Z</time>
+    </trkpt>
+    <trkpt lat="49.622755" lon="18.887625">
+      <ele>599</ele>
+      <time>2022-01-17T21:46:06Z</time>
+    </trkpt>
+    <trkpt lat="49.622611" lon="18.887929">
+      <ele>606</ele>
+      <time>2022-01-17T21:46:38Z</time>
+    </trkpt>
+    <trkpt lat="49.622498" lon="18.888167">
+      <ele>610</ele>
+      <time>2022-01-17T21:47:03Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

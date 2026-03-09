@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:37:38Z</time>
+    <bounds maxlat="50.7261772" maxlon="17.1365877" minlat="50.7238203" minlon="17.1329802"/>
+  </metadata>
+  <wpt lat="50.72382" lon="17.136588">
+    <ele>193</ele>
+    <name>Rozdroze nad Jeglowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2862">
+      <text>Rozdroze nad Jeglowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.726177" lon="17.13298">
+    <ele>191</ele>
+    <name>Droga nad Jeglowa</name>
+    <link href="https://mapa-turystyczna.pl/node/2863">
+      <text>Droga nad Jeglowa</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Rozdroze nad Jeglowa - Droga nad Jeglowa</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7238203,17.1365877;50.724500503766464,17.13558769999997;50.7261772,17.1329802">
+    <text>Rozdroze nad Jeglowa - Droga nad Jeglowa</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7238203" lon="17.1365877">
+      <ele>193</ele>
+      <time>2022-01-17T21:37:38Z</time>
+    </trkpt>
+    <trkpt lat="50.7239064" lon="17.1365289">
+      <ele>192</ele>
+      <time>2022-01-17T21:37:47Z</time>
+    </trkpt>
+    <trkpt lat="50.7250946" lon="17.1346465">
+      <ele>194</ele>
+      <time>2022-01-17T21:40:20Z</time>
+    </trkpt>
+    <trkpt lat="50.7261772" lon="17.1329802">
+      <ele>191</ele>
+      <time>2022-01-17T21:42:38Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

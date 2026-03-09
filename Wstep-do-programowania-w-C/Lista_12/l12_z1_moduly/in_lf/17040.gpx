@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:06:58Z</time>
+    <bounds maxlat="52.288362" maxlon="16.8035349" minlat="52.283121" minlon="16.7954886"/>
+  </metadata>
+  <wpt lat="52.283121" lon="16.803527">
+    <ele>89</ele>
+    <name>Jaroslawiec</name>
+    <link href="https://mapa-turystyczna.pl/node/10237">
+      <text>Jaroslawiec</text>
+    </link>
+  </wpt>
+  <wpt lat="52.288362" lon="16.795489">
+    <ele>91</ele>
+    <name>Jezioro Jaroslawieckie</name>
+    <link href="https://mapa-turystyczna.pl/node/11640">
+      <text>Jezioro Jaroslawieckie</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jaroslawiec - Jezioro Jaroslawieckie</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.283121,16.8035267;52.28639690457355,16.798878700000017;52.288362,16.7954886">
+    <text>Jaroslawiec - Jezioro Jaroslawieckie</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.283121" lon="16.8035267">
+      <ele>89</ele>
+      <time>2022-01-18T01:06:58Z</time>
+    </trkpt>
+    <trkpt lat="52.2831608" lon="16.8035349">
+      <ele>89</ele>
+      <time>2022-01-18T01:07:03Z</time>
+    </trkpt>
+    <trkpt lat="52.2832857" lon="16.8031527">
+      <ele>90</ele>
+      <time>2022-01-18T01:07:36Z</time>
+    </trkpt>
+    <trkpt lat="52.28345" lon="16.8027706">
+      <ele>90</ele>
+      <time>2022-01-18T01:08:11Z</time>
+    </trkpt>
+    <trkpt lat="52.284172" lon="16.8019552">
+      <ele>89</ele>
+      <time>2022-01-18T01:10:00Z</time>
+    </trkpt>
+    <trkpt lat="52.2850908" lon="16.8006999">
+      <ele>84</ele>
+      <time>2022-01-18T01:12:29Z</time>
+    </trkpt>
+    <trkpt lat="52.2857603" lon="16.7999811">
+      <ele>85</ele>
+      <time>2022-01-18T01:14:08Z</time>
+    </trkpt>
+    <trkpt lat="52.2870335" lon="16.7977763">
+      <ele>85</ele>
+      <time>2022-01-18T01:17:58Z</time>
+    </trkpt>
+    <trkpt lat="52.288362" lon="16.7954886">
+      <ele>91</ele>
+      <time>2022-01-18T01:21:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:29:16Z</time>
+    <bounds maxlat="48.9436456" maxlon="19.0055859" minlat="48.9394932" minlon="19.0048651"/>
+  </metadata>
+  <wpt lat="48.943646" lon="19.005377">
+    <ele>621</ele>
+    <name>Dedosova dolina, ustie</name>
+    <link href="https://mapa-turystyczna.pl/node/5597">
+      <text>Dedosova dolina, ustie</text>
+    </link>
+  </wpt>
+  <wpt lat="48.939493" lon="19.005586">
+    <ele>675</ele>
+    <name>Certova brana</name>
+    <link href="https://mapa-turystyczna.pl/node/5596">
+      <text>Certova brana</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dedosova dolina, ustie - Certova brana</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.9436456,19.0053767;48.94176700137298,19.005253999999997;48.9394932,19.0055859">
+    <text>Dedosova dolina, ustie - Certova brana</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.9436456" lon="19.0053767">
+      <ele>621</ele>
+      <time>2022-01-17T22:29:16Z</time>
+    </trkpt>
+    <trkpt lat="48.9431733" lon="19.0053787">
+      <ele>627</ele>
+      <time>2022-01-17T22:30:54Z</time>
+    </trkpt>
+    <trkpt lat="48.9421372" lon="19.0052949">
+      <ele>644</ele>
+      <time>2022-01-17T22:34:28Z</time>
+    </trkpt>
+    <trkpt lat="48.9413968" lon="19.0052131">
+      <ele>665</ele>
+      <time>2022-01-17T22:37:05Z</time>
+    </trkpt>
+    <trkpt lat="48.9409771" lon="19.0049596">
+      <ele>660</ele>
+      <time>2022-01-17T22:38:38Z</time>
+    </trkpt>
+    <trkpt lat="48.9401506" lon="19.0048651">
+      <ele>673</ele>
+      <time>2022-01-17T22:41:30Z</time>
+    </trkpt>
+    <trkpt lat="48.9394932" lon="19.0055859">
+      <ele>675</ele>
+      <time>2022-01-17T22:44:16Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

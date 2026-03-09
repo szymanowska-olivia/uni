@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:31Z</time>
+    <bounds maxlat="50.0794684" maxlon="16.6564536" minlat="50.0790278" minlon="16.6561317"/>
+  </metadata>
+  <wpt lat="50.079028" lon="16.656164">
+    <ele>842</ele>
+    <name>Vysoky kamen, odbocka</name>
+    <link href="https://mapa-turystyczna.pl/node/7156">
+      <text>Vysoky kamen, odbocka</text>
+    </link>
+  </wpt>
+  <wpt lat="50.079468" lon="16.656454">
+    <ele>843</ele>
+    <name>Vysoky kamen</name>
+    <link href="https://mapa-turystyczna.pl/node/7157">
+      <text>Vysoky kamen</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Vysoky kamen, odbocka - Vysoky kamen</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0790278,16.6561639;50.079356550047045,16.65624704999998;50.0794684,16.6564536">
+    <text>Vysoky kamen, odbocka - Vysoky kamen</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0790278" lon="16.6561639">
+      <ele>842</ele>
+      <time>2022-01-17T23:11:31Z</time>
+    </trkpt>
+    <trkpt lat="50.0791139" lon="16.6561317">
+      <ele>842</ele>
+      <time>2022-01-17T23:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0792894" lon="16.6561478">
+      <ele>842</ele>
+      <time>2022-01-17T23:12:01Z</time>
+    </trkpt>
+    <trkpt lat="50.0794237" lon="16.6563463">
+      <ele>842</ele>
+      <time>2022-01-17T23:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0794684" lon="16.6564536">
+      <ele>843</ele>
+      <time>2022-01-17T23:12:31Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

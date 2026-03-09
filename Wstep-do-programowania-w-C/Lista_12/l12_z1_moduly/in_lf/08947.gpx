@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:48:12Z</time>
+    <bounds maxlat="50.5091555" maxlon="16.1080492" minlat="50.5090736" minlon="16.1077058"/>
+  </metadata>
+  <wpt lat="50.509074" lon="16.107706">
+    <ele>618</ele>
+    <name>Pod Vetrnym dolem, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6230">
+      <text>Pod Vetrnym dolem, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.509155" lon="16.108049">
+    <ele>622</ele>
+    <name>Pod Vetrnym dolem</name>
+    <link href="https://mapa-turystyczna.pl/node/6229">
+      <text>Pod Vetrnym dolem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Vetrnym dolem, rozc. - Pod Vetrnym dolem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.5090736,16.1077058;50.50911455001777,16.107877500000026;50.5091555,16.1080492">
+    <text>Pod Vetrnym dolem, rozc. - Pod Vetrnym dolem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.5090736" lon="16.1077058">
+      <ele>618</ele>
+      <time>2022-01-17T22:48:12Z</time>
+    </trkpt>
+    <trkpt lat="50.5091555" lon="16.1080492">
+      <ele>622</ele>
+      <time>2022-01-17T22:49:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:03:29Z</time>
+    <bounds maxlat="50.723849" maxlon="15.8191002" minlat="50.7210135" minlon="15.8139235"/>
+  </metadata>
+  <wpt lat="50.723849" lon="15.813923">
+    <ele>976</ele>
+    <name>Mala Upa</name>
+    <link href="https://mapa-turystyczna.pl/node/1202">
+      <text>Mala Upa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.721013" lon="15.8191">
+    <ele>990</ele>
+    <name>Nad Dolni Malou Upou</name>
+    <link href="https://mapa-turystyczna.pl/node/1224">
+      <text>Nad Dolni Malou Upou</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mala Upa - Nad Dolni Malou Upou</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.723849,15.8139235;50.722175700740316,15.816674099999997;50.7210135,15.8191002">
+    <text>Mala Upa - Nad Dolni Malou Upou</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.723849" lon="15.8139235">
+      <ele>976</ele>
+      <time>2022-01-17T21:03:29Z</time>
+    </trkpt>
+    <trkpt lat="50.723666" lon="15.8143315">
+      <ele>975</ele>
+      <time>2022-01-17T21:04:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7234286" lon="15.8145894">
+      <ele>974</ele>
+      <time>2022-01-17T21:04:52Z</time>
+    </trkpt>
+    <trkpt lat="50.7231441" lon="15.8149763">
+      <ele>974</ele>
+      <time>2022-01-17T21:05:44Z</time>
+    </trkpt>
+    <trkpt lat="50.7224391" lon="15.8162329">
+      <ele>980</ele>
+      <time>2022-01-17T21:08:10Z</time>
+    </trkpt>
+    <trkpt lat="50.7219123" lon="15.8171153">
+      <ele>990</ele>
+      <time>2022-01-17T21:09:56Z</time>
+    </trkpt>
+    <trkpt lat="50.7215048" lon="15.8178717">
+      <ele>990</ele>
+      <time>2022-01-17T21:11:22Z</time>
+    </trkpt>
+    <trkpt lat="50.7210566" lon="15.8189177">
+      <ele>990</ele>
+      <time>2022-01-17T21:13:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7210135" lon="15.8191002">
+      <ele>990</ele>
+      <time>2022-01-17T21:13:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

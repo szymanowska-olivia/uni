@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:04:29Z</time>
+    <bounds maxlat="50.0754853" maxlon="17.1508974" minlat="50.0707651" minlon="17.1446586"/>
+  </metadata>
+  <wpt lat="50.075485" lon="17.144659">
+    <ele>1272</ele>
+    <name>Mravenecnik, rozc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6890">
+      <text>Mravenecnik, rozc.</text>
+    </link>
+  </wpt>
+  <wpt lat="50.070765" lon="17.150897">
+    <ele>1300</ele>
+    <name>Mravenecnik, sedlo</name>
+    <link href="https://mapa-turystyczna.pl/node/6888">
+      <text>Mravenecnik, sedlo</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mravenecnik, rozc. - Mravenecnik, sedlo</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0754853,17.1446586;50.0735969529506,17.147472200000003;50.0707651,17.1508974">
+    <text>Mravenecnik, rozc. - Mravenecnik, sedlo</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0754853" lon="17.1446586">
+      <ele>1272</ele>
+      <time>2022-01-17T23:04:29Z</time>
+    </trkpt>
+    <trkpt lat="50.0748243" lon="17.1459085">
+      <ele>1284</ele>
+      <time>2022-01-17T23:07:00Z</time>
+    </trkpt>
+    <trkpt lat="50.0741289" lon="17.1469331">
+      <ele>1288</ele>
+      <time>2022-01-17T23:09:18Z</time>
+    </trkpt>
+    <trkpt lat="50.073065" lon="17.1480113">
+      <ele>1294</ele>
+      <time>2022-01-17T23:12:22Z</time>
+    </trkpt>
+    <trkpt lat="50.0724831" lon="17.1486604">
+      <ele>1296</ele>
+      <time>2022-01-17T23:14:05Z</time>
+    </trkpt>
+    <trkpt lat="50.0717463" lon="17.1496153">
+      <ele>1297</ele>
+      <time>2022-01-17T23:16:24Z</time>
+    </trkpt>
+    <trkpt lat="50.0707651" lon="17.1508974">
+      <ele>1300</ele>
+      <time>2022-01-17T23:19:29Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

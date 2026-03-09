@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:52:51Z</time>
+    <bounds maxlat="49.41478" maxlon="20.729215" minlat="49.414384" minlon="20.726907"/>
+  </metadata>
+  <wpt lat="49.41478" lon="20.726907">
+    <ele>384</ele>
+    <name>Mnisek nad Popradom, Kace</name>
+    <link href="https://mapa-turystyczna.pl/node/8658">
+      <text>Mnisek nad Popradom, Kace</text>
+    </link>
+  </wpt>
+  <wpt lat="49.414384" lon="20.729215">
+    <ele>402</ele>
+    <name>Mnisek nad Popradom, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/8657">
+      <text>Mnisek nad Popradom, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Mnisek nad Popradom, Kace - Mnisek nad Popradom, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.41478,20.726907;49.41443300000005,20.72836999999998;49.414384,20.729215">
+    <text>Mnisek nad Popradom, Kace - Mnisek nad Popradom, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.41478" lon="20.726907">
+      <ele>384</ele>
+      <time>2022-01-17T23:52:51Z</time>
+    </trkpt>
+    <trkpt lat="49.414522" lon="20.727435">
+      <ele>396</ele>
+      <time>2022-01-17T23:54:13Z</time>
+    </trkpt>
+    <trkpt lat="49.41445" lon="20.727699">
+      <ele>399</ele>
+      <time>2022-01-17T23:54:48Z</time>
+    </trkpt>
+    <trkpt lat="49.414431" lon="20.727922">
+      <ele>402</ele>
+      <time>2022-01-17T23:55:15Z</time>
+    </trkpt>
+    <trkpt lat="49.414435" lon="20.728818">
+      <ele>401</ele>
+      <time>2022-01-17T23:57:02Z</time>
+    </trkpt>
+    <trkpt lat="49.414384" lon="20.729215">
+      <ele>402</ele>
+      <time>2022-01-17T23:57:51Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

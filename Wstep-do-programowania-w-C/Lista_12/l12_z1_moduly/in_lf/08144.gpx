@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:33:41Z</time>
+    <bounds maxlat="50.4880982" maxlon="16.3532062" minlat="50.4879729" minlon="16.3529295"/>
+  </metadata>
+  <wpt lat="50.488098" lon="16.352929">
+    <ele>675</ele>
+    <name>Skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/1809">
+      <text>Skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+  <wpt lat="50.487973" lon="16.353206">
+    <ele>672</ele>
+    <name>Skalne Wrota, skrzyzowanie szlakow niebieski / zolty</name>
+    <link href="https://mapa-turystyczna.pl/node/5670">
+      <text>Skalne Wrota, skrzyzowanie szlakow niebieski / zolty</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Skrzyzowanie szlakow niebieski / zolty - Skalne Wrota, skrzyzowanie szlakow niebieski / zolty</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4880982,16.3529295;50.48805150002309,16.35301609999999;50.4879729,16.3532062">
+    <text>Skrzyzowanie szlakow niebieski / zolty - Skalne Wrota, skrzyzowanie szlakow niebieski / zolty</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4880982" lon="16.3529295">
+      <ele>675</ele>
+      <time>2022-01-17T22:33:41Z</time>
+    </trkpt>
+    <trkpt lat="50.4880048" lon="16.3531027">
+      <ele>673</ele>
+      <time>2022-01-17T22:34:21Z</time>
+    </trkpt>
+    <trkpt lat="50.4879729" lon="16.3532062">
+      <ele>672</ele>
+      <time>2022-01-17T22:34:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

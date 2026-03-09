@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:51:41Z</time>
+    <bounds maxlat="50.2492528" maxlon="17.5376344" minlat="50.2485084" minlon="17.53573"/>
+  </metadata>
+  <wpt lat="50.249253" lon="17.53573">
+    <ele>345</ele>
+    <name>Jindrichov, most</name>
+    <link href="https://mapa-turystyczna.pl/node/6360">
+      <text>Jindrichov, most</text>
+    </link>
+  </wpt>
+  <wpt lat="50.248508" lon="17.537634">
+    <ele>353</ele>
+    <name>Jindrichov ve Slezsku, zeleznicni stanice</name>
+    <link href="https://mapa-turystyczna.pl/node/6361">
+      <text>Jindrichov ve Slezsku, zeleznicni stanice</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jindrichov, most - Jindrichov ve Slezsku, zeleznicni stanice</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2492528,17.53573;50.24888060145352,17.536682200000023;50.2485084,17.5376344">
+    <text>Jindrichov, most - Jindrichov ve Slezsku, zeleznicni stanice</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2492528" lon="17.53573">
+      <ele>345</ele>
+      <time>2022-01-17T22:51:41Z</time>
+    </trkpt>
+    <trkpt lat="50.2485084" lon="17.5376344">
+      <ele>353</ele>
+      <time>2022-01-17T22:54:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

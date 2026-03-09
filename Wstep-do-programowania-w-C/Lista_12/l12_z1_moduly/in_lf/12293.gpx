@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:47:57Z</time>
+    <bounds maxlat="50.9689077" maxlon="20.5846131" minlat="50.9651031" minlon="20.5742636"/>
+  </metadata>
+  <wpt lat="50.968908" lon="20.574264">
+    <ele>404</ele>
+    <name>Grodowa</name>
+    <link href="https://mapa-turystyczna.pl/node/8462">
+      <text>Grodowa</text>
+    </link>
+  </wpt>
+  <wpt lat="50.965103" lon="20.584613">
+    <ele>341</ele>
+    <name>Tumlin-Wegle</name>
+    <link href="https://mapa-turystyczna.pl/node/3123">
+      <text>Tumlin-Wegle</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Grodowa - Tumlin-Wegle</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.9689077,20.5742636;50.966492450381836,20.579018000000016;50.9651031,20.5846131">
+    <text>Grodowa - Tumlin-Wegle</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.9689077" lon="20.5742636">
+      <ele>404</ele>
+      <time>2022-01-17T23:47:57Z</time>
+    </trkpt>
+    <trkpt lat="50.9682619" lon="20.5764592">
+      <ele>384</ele>
+      <time>2022-01-17T23:50:49Z</time>
+    </trkpt>
+    <trkpt lat="50.9679409" lon="20.5771565">
+      <ele>385</ele>
+      <time>2022-01-17T23:51:50Z</time>
+    </trkpt>
+    <trkpt lat="50.9677314" lon="20.5780363">
+      <ele>384</ele>
+      <time>2022-01-17T23:52:56Z</time>
+    </trkpt>
+    <trkpt lat="50.9675119" lon="20.5784601">
+      <ele>382</ele>
+      <time>2022-01-17T23:53:35Z</time>
+    </trkpt>
+    <trkpt lat="50.9670018" lon="20.5786371">
+      <ele>373</ele>
+      <time>2022-01-17T23:54:34Z</time>
+    </trkpt>
+    <trkpt lat="50.9666808" lon="20.5788732">
+      <ele>365</ele>
+      <time>2022-01-17T23:55:15Z</time>
+    </trkpt>
+    <trkpt lat="50.9663041" lon="20.5791628">
+      <ele>353</ele>
+      <time>2022-01-17T23:56:03Z</time>
+    </trkpt>
+    <trkpt lat="50.9659477" lon="20.5797637">
+      <ele>344</ele>
+      <time>2022-01-17T23:57:02Z</time>
+    </trkpt>
+    <trkpt lat="50.9654308" lon="20.5823171">
+      <ele>340</ele>
+      <time>2022-01-18T00:00:11Z</time>
+    </trkpt>
+    <trkpt lat="50.9651031" lon="20.5846131">
+      <ele>341</ele>
+      <time>2022-01-18T00:02:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

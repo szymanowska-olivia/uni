@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:29:27Z</time>
+    <bounds maxlat="51.4031558" maxlon="16.2018353" minlat="51.4020018" minlon="16.2016985"/>
+  </metadata>
+  <wpt lat="51.402002" lon="16.201698">
+    <ele>127</ele>
+    <name>Lubin, dworzec autobusowy</name>
+    <link href="https://mapa-turystyczna.pl/node/10129">
+      <text>Lubin, dworzec autobusowy</text>
+    </link>
+  </wpt>
+  <wpt lat="51.403156" lon="16.201835">
+    <ele>130</ele>
+    <name>Lubin, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/10130">
+      <text>Lubin, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lubin, dworzec autobusowy - Lubin, ul. Kosciuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4020018,16.2016985;51.40231225105369,16.201737799999997;51.4031558,16.2018353">
+    <text>Lubin, dworzec autobusowy - Lubin, ul. Kosciuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4020018" lon="16.2016985">
+      <ele>127</ele>
+      <time>2022-01-18T00:29:27Z</time>
+    </trkpt>
+    <trkpt lat="51.4026227" lon="16.2017771">
+      <ele>129</ele>
+      <time>2022-01-18T00:30:32Z</time>
+    </trkpt>
+    <trkpt lat="51.4031558" lon="16.2018353">
+      <ele>130</ele>
+      <time>2022-01-18T00:31:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

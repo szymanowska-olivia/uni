@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:18Z</time>
+    <bounds maxlat="50.4305458" maxlon="18.1892492" minlat="50.4267004" minlon="18.1872661"/>
+  </metadata>
+  <wpt lat="50.430546" lon="18.187266">
+    <ele>225</ele>
+    <name>Lesnica</name>
+    <link href="https://mapa-turystyczna.pl/node/9783">
+      <text>Lesnica</text>
+    </link>
+  </wpt>
+  <wpt lat="50.4267" lon="18.187288">
+    <ele>213</ele>
+    <name>Lesnica, ul. Kosciuszki</name>
+    <link href="https://mapa-turystyczna.pl/node/9955">
+      <text>Lesnica, ul. Kosciuszki</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lesnica - Lesnica, ul. Kosciuszki</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4305458,18.1872661;50.4291221007698,18.188506200000006;50.4267004,18.1872879">
+    <text>Lesnica - Lesnica, ul. Kosciuszki</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4305458" lon="18.1872661">
+      <ele>225</ele>
+      <time>2022-01-18T00:25:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4304822" lon="18.1875862">
+      <ele>226</ele>
+      <time>2022-01-18T00:25:44Z</time>
+    </trkpt>
+    <trkpt lat="50.4304138" lon="18.1881173">
+      <ele>226</ele>
+      <time>2022-01-18T00:26:25Z</time>
+    </trkpt>
+    <trkpt lat="50.4304073" lon="18.1882812">
+      <ele>226</ele>
+      <time>2022-01-18T00:26:38Z</time>
+    </trkpt>
+    <trkpt lat="50.430315" lon="18.1886996">
+      <ele>226</ele>
+      <time>2022-01-18T00:27:12Z</time>
+    </trkpt>
+    <trkpt lat="50.4301814" lon="18.1890722">
+      <ele>226</ele>
+      <time>2022-01-18T00:27:45Z</time>
+    </trkpt>
+    <trkpt lat="50.4300687" lon="18.1892492">
+      <ele>225</ele>
+      <time>2022-01-18T00:28:04Z</time>
+    </trkpt>
+    <trkpt lat="50.4297714" lon="18.1889434">
+      <ele>224</ele>
+      <time>2022-01-18T00:28:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4293921" lon="18.1886698">
+      <ele>221</ele>
+      <time>2022-01-18T00:29:37Z</time>
+    </trkpt>
+    <trkpt lat="50.4288521" lon="18.1883426">
+      <ele>219</ele>
+      <time>2022-01-18T00:30:47Z</time>
+    </trkpt>
+    <trkpt lat="50.4281618" lon="18.1879778">
+      <ele>219</ele>
+      <time>2022-01-18T00:32:14Z</time>
+    </trkpt>
+    <trkpt lat="50.4272804" lon="18.1875409">
+      <ele>215</ele>
+      <time>2022-01-18T00:34:06Z</time>
+    </trkpt>
+    <trkpt lat="50.4267004" lon="18.1872879">
+      <ele>213</ele>
+      <time>2022-01-18T00:35:18Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

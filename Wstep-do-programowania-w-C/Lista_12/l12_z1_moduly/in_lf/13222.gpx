@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:04:04Z</time>
+    <bounds maxlat="50.2293793" maxlon="19.1506138" minlat="50.2280445" minlon="19.1466206"/>
+  </metadata>
+  <wpt lat="50.228283" lon="19.146621">
+    <ele>257</ele>
+    <name>Myslowice, ul. Oswiecimska</name>
+    <link href="https://mapa-turystyczna.pl/node/9123">
+      <text>Myslowice, ul. Oswiecimska</text>
+    </link>
+  </wpt>
+  <wpt lat="50.229379" lon="19.150614">
+    <ele>249</ele>
+    <name>Myslowice, ul. Sulkowskiego</name>
+    <link href="https://mapa-turystyczna.pl/node/9124">
+      <text>Myslowice, ul. Sulkowskiego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Myslowice, ul. Oswiecimska - Myslowice, ul. Sulkowskiego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2282834,19.1466206;50.22845975005443,19.148491100000008;50.2293793,19.1506138">
+    <text>Myslowice, ul. Oswiecimska - Myslowice, ul. Sulkowskiego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2282834" lon="19.1466206">
+      <ele>257</ele>
+      <time>2022-01-18T00:04:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2280995" lon="19.1468658">
+      <ele>257</ele>
+      <time>2022-01-18T00:04:26Z</time>
+    </trkpt>
+    <trkpt lat="50.2280445" lon="19.1470427">
+      <ele>257</ele>
+      <time>2022-01-18T00:04:37Z</time>
+    </trkpt>
+    <trkpt lat="50.228072" lon="19.1473431">
+      <ele>257</ele>
+      <time>2022-01-18T00:04:55Z</time>
+    </trkpt>
+    <trkpt lat="50.2284838" lon="19.1478152">
+      <ele>256</ele>
+      <time>2022-01-18T00:05:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2285456" lon="19.1480083">
+      <ele>255</ele>
+      <time>2022-01-18T00:05:54Z</time>
+    </trkpt>
+    <trkpt lat="50.2285318" lon="19.1481907">
+      <ele>255</ele>
+      <time>2022-01-18T00:06:05Z</time>
+    </trkpt>
+    <trkpt lat="50.2283877" lon="19.1487915">
+      <ele>253</ele>
+      <time>2022-01-18T00:06:42Z</time>
+    </trkpt>
+    <trkpt lat="50.2290878" lon="19.1497464">
+      <ele>251</ele>
+      <time>2022-01-18T00:08:07Z</time>
+    </trkpt>
+    <trkpt lat="50.229225" lon="19.150079">
+      <ele>250</ele>
+      <time>2022-01-18T00:08:30Z</time>
+    </trkpt>
+    <trkpt lat="50.2293793" lon="19.1506138">
+      <ele>249</ele>
+      <time>2022-01-18T00:09:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

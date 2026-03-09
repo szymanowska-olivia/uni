@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T02:00:04Z</time>
+    <bounds maxlat="50.2296295" maxlon="17.2138975" minlat="50.229257" minlon="17.2127063"/>
+  </metadata>
+  <wpt lat="50.229257" lon="17.212706">
+    <ele>478</ele>
+    <name>Pamatnik Priessnitze</name>
+    <link href="https://mapa-turystyczna.pl/node/6259">
+      <text>Pamatnik Priessnitze</text>
+    </link>
+  </wpt>
+  <wpt lat="50.22963" lon="17.213898">
+    <ele>492</ele>
+    <name>Pramen Skalka</name>
+    <link href="https://mapa-turystyczna.pl/node/13525">
+      <text>Pramen Skalka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pamatnik Priessnitze - Pramen Skalka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.229257,17.2127063;50.22962000000094,17.21345740000001;50.2296295,17.2138975">
+    <text>Pamatnik Priessnitze - Pramen Skalka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.229257" lon="17.2127063">
+      <ele>478</ele>
+      <time>2022-01-18T02:00:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2295338" lon="17.2127231">
+      <ele>477</ele>
+      <time>2022-01-18T02:00:51Z</time>
+    </trkpt>
+    <trkpt lat="50.2296105" lon="17.2130173">
+      <ele>482</ele>
+      <time>2022-01-18T02:01:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2296295" lon="17.2138975">
+      <ele>492</ele>
+      <time>2022-01-18T02:03:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

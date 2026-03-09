@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:49:55Z</time>
+    <bounds maxlat="49.9298855" maxlon="19.5878667" minlat="49.928765" minlon="19.5875153"/>
+  </metadata>
+  <wpt lat="49.928765" lon="19.587566">
+    <ele>409</ele>
+    <name>Trawna Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/3521">
+      <text>Trawna Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="49.929885" lon="19.587867">
+    <ele>400</ele>
+    <name>Trawna Gora, punkt widokowy</name>
+    <link href="https://mapa-turystyczna.pl/node/3533">
+      <text>Trawna Gora, punkt widokowy</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trawna Gora - Trawna Gora, punkt widokowy</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.928765,19.5875663;49.92929500019301,19.58756155;49.9298855,19.5878667">
+    <text>Trawna Gora - Trawna Gora, punkt widokowy</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.928765" lon="19.5875663">
+      <ele>409</ele>
+      <time>2022-01-17T21:49:55Z</time>
+    </trkpt>
+    <trkpt lat="49.9288996" lon="19.5875153">
+      <ele>409</ele>
+      <time>2022-01-17T21:50:09Z</time>
+    </trkpt>
+    <trkpt lat="49.9291586" lon="19.58753">
+      <ele>405</ele>
+      <time>2022-01-17T21:50:36Z</time>
+    </trkpt>
+    <trkpt lat="49.9294314" lon="19.5875931">
+      <ele>402</ele>
+      <time>2022-01-17T21:51:05Z</time>
+    </trkpt>
+    <trkpt lat="49.9298855" lon="19.5878667">
+      <ele>400</ele>
+      <time>2022-01-17T21:51:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

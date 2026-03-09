@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:11:41Z</time>
+    <bounds maxlat="50.0700661" maxlon="16.6815162" minlat="50.0671841" minlon="16.6806686"/>
+  </metadata>
+  <wpt lat="50.067184" lon="16.681264">
+    <ele>823</ele>
+    <name>Nad Boudou</name>
+    <link href="https://mapa-turystyczna.pl/node/7162">
+      <text>Nad Boudou</text>
+    </link>
+  </wpt>
+  <wpt lat="50.070066" lon="16.681516">
+    <ele>840</ele>
+    <name>Odranec</name>
+    <link href="https://mapa-turystyczna.pl/node/7161">
+      <text>Odranec</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Boudou - Odranec</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.0671841,16.681264;50.06883685274418,16.68067395000001;50.0700661,16.6815162">
+    <text>Nad Boudou - Odranec</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.0671841" lon="16.681264">
+      <ele>823</ele>
+      <time>2022-01-17T23:11:41Z</time>
+    </trkpt>
+    <trkpt lat="50.0678005" lon="16.6808724">
+      <ele>827</ele>
+      <time>2022-01-17T23:12:44Z</time>
+    </trkpt>
+    <trkpt lat="50.0683238" lon="16.6806686">
+      <ele>830</ele>
+      <time>2022-01-17T23:13:35Z</time>
+    </trkpt>
+    <trkpt lat="50.0693499" lon="16.6806793">
+      <ele>838</ele>
+      <time>2022-01-17T23:15:12Z</time>
+    </trkpt>
+    <trkpt lat="50.0699215" lon="16.6810656">
+      <ele>842</ele>
+      <time>2022-01-17T23:16:10Z</time>
+    </trkpt>
+    <trkpt lat="50.0700661" lon="16.6815162">
+      <ele>840</ele>
+      <time>2022-01-17T23:16:41Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

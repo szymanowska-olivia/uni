@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:06Z</time>
+    <bounds maxlat="52.2723089" maxlon="16.7636688" minlat="52.2634261" minlon="16.7581225"/>
+  </metadata>
+  <wpt lat="52.272309" lon="16.763669">
+    <ele>71</ele>
+    <name>Trzebaw, ul. Mosinska</name>
+    <link href="https://mapa-turystyczna.pl/node/11642">
+      <text>Trzebaw, ul. Mosinska</text>
+    </link>
+  </wpt>
+  <wpt lat="52.263426" lon="16.758122">
+    <ele>81</ele>
+    <name>Rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/11643">
+      <text>Rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebaw, ul. Mosinska - Rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.2723089,16.7636688;52.2680380521179,16.76118620000003;52.2634261,16.7581225">
+    <text>Trzebaw, ul. Mosinska - Rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.2723089" lon="16.7636688">
+      <ele>71</ele>
+      <time>2022-01-18T01:07:06Z</time>
+    </trkpt>
+    <trkpt lat="52.2720856" lon="16.7634151">
+      <ele>73</ele>
+      <time>2022-01-18T01:07:40Z</time>
+    </trkpt>
+    <trkpt lat="52.2684714" lon="16.7617414">
+      <ele>82</ele>
+      <time>2022-01-18T01:15:26Z</time>
+    </trkpt>
+    <trkpt lat="52.2676047" lon="16.760631">
+      <ele>84</ele>
+      <time>2022-01-18T01:17:42Z</time>
+    </trkpt>
+    <trkpt lat="52.2655758" lon="16.7593864">
+      <ele>80</ele>
+      <time>2022-01-18T01:22:11Z</time>
+    </trkpt>
+    <trkpt lat="52.2651031" lon="16.7586944">
+      <ele>80</ele>
+      <time>2022-01-18T01:23:30Z</time>
+    </trkpt>
+    <trkpt lat="52.2645712" lon="16.7583136">
+      <ele>78</ele>
+      <time>2022-01-18T01:24:42Z</time>
+    </trkpt>
+    <trkpt lat="52.263734" lon="16.7582975">
+      <ele>78</ele>
+      <time>2022-01-18T01:26:25Z</time>
+    </trkpt>
+    <trkpt lat="52.2634261" lon="16.7581225">
+      <ele>81</ele>
+      <time>2022-01-18T01:27:06Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

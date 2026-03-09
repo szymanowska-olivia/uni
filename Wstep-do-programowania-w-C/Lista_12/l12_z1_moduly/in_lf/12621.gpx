@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:53:11Z</time>
+    <bounds maxlat="49.356219" maxlon="20.896658" minlat="49.355083" minlon="20.894829"/>
+  </metadata>
+  <wpt lat="49.356219" lon="20.896658">
+    <ele>443</ele>
+    <name>Muszyna</name>
+    <link href="https://mapa-turystyczna.pl/node/145">
+      <text>Muszyna</text>
+    </link>
+  </wpt>
+  <wpt lat="49.355083" lon="20.894886">
+    <ele>449</ele>
+    <name>Muszyna, ul. Krotka</name>
+    <link href="https://mapa-turystyczna.pl/node/8670">
+      <text>Muszyna, ul. Krotka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Muszyna - Muszyna, ul. Krotka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.356219,20.896658;49.35562050005196,20.895648499999975;49.355083,20.894886">
+    <text>Muszyna - Muszyna, ul. Krotka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.356219" lon="20.896658">
+      <ele>443</ele>
+      <time>2022-01-17T23:53:11Z</time>
+    </trkpt>
+    <trkpt lat="49.356074" lon="20.896451">
+      <ele>444</ele>
+      <time>2022-01-17T23:53:32Z</time>
+    </trkpt>
+    <trkpt lat="49.35598" lon="20.896304">
+      <ele>444</ele>
+      <time>2022-01-17T23:53:47Z</time>
+    </trkpt>
+    <trkpt lat="49.355786" lon="20.895954">
+      <ele>445</ele>
+      <time>2022-01-17T23:54:19Z</time>
+    </trkpt>
+    <trkpt lat="49.355726" lon="20.895848">
+      <ele>445</ele>
+      <time>2022-01-17T23:54:29Z</time>
+    </trkpt>
+    <trkpt lat="49.355692" lon="20.89578">
+      <ele>446</ele>
+      <time>2022-01-17T23:54:35Z</time>
+    </trkpt>
+    <trkpt lat="49.355549" lon="20.895517">
+      <ele>447</ele>
+      <time>2022-01-17T23:54:59Z</time>
+    </trkpt>
+    <trkpt lat="49.355462" lon="20.895366">
+      <ele>447</ele>
+      <time>2022-01-17T23:55:13Z</time>
+    </trkpt>
+    <trkpt lat="49.355416" lon="20.895303">
+      <ele>448</ele>
+      <time>2022-01-17T23:55:19Z</time>
+    </trkpt>
+    <trkpt lat="49.355309" lon="20.895137">
+      <ele>448</ele>
+      <time>2022-01-17T23:55:36Z</time>
+    </trkpt>
+    <trkpt lat="49.355222" lon="20.895006">
+      <ele>449</ele>
+      <time>2022-01-17T23:55:49Z</time>
+    </trkpt>
+    <trkpt lat="49.355113" lon="20.894829">
+      <ele>449</ele>
+      <time>2022-01-17T23:56:06Z</time>
+    </trkpt>
+    <trkpt lat="49.355083" lon="20.894886">
+      <ele>449</ele>
+      <time>2022-01-17T23:56:11Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

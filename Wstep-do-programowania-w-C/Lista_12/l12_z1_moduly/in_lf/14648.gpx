@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:25:52Z</time>
+    <bounds maxlat="50.4551508" maxlon="18.1623388" minlat="50.4551359" minlon="18.161498"/>
+  </metadata>
+  <wpt lat="50.455136" lon="18.161498">
+    <ele>340</ele>
+    <name>Gora Swietej Anny, pomnik</name>
+    <link href="https://mapa-turystyczna.pl/node/9988">
+      <text>Gora Swietej Anny, pomnik</text>
+    </link>
+  </wpt>
+  <wpt lat="50.455151" lon="18.162339">
+    <ele>345</ele>
+    <name>Gora Swietej Anny, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/9989">
+      <text>Gora Swietej Anny, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Gora Swietej Anny, pomnik - Gora Swietej Anny, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4551359,18.161498;50.455143350000576,18.1619184;50.4551508,18.1623388">
+    <text>Gora Swietej Anny, pomnik - Gora Swietej Anny, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4551359" lon="18.161498">
+      <ele>340</ele>
+      <time>2022-01-18T00:25:52Z</time>
+    </trkpt>
+    <trkpt lat="50.4551508" lon="18.1623388">
+      <ele>345</ele>
+      <time>2022-01-18T00:26:52Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

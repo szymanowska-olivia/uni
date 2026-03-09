@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:07:58Z</time>
+    <bounds maxlat="50.4113915" maxlon="16.4573825" minlat="50.4109147" minlon="16.4572154"/>
+  </metadata>
+  <wpt lat="50.411392" lon="16.457215">
+    <ele>566</ele>
+    <name>Zamek Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/8523">
+      <text>Zamek Lesna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.410915" lon="16.457383">
+    <ele>566</ele>
+    <name>Szczytnik, parking</name>
+    <link href="https://mapa-turystyczna.pl/node/11669">
+      <text>Szczytnik, parking</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Zamek Lesna - Szczytnik, parking</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4113915,16.4572154;50.411142800080626,16.4572819;50.4109147,16.4573825">
+    <text>Zamek Lesna - Szczytnik, parking</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4113915" lon="16.4572154">
+      <ele>566</ele>
+      <time>2022-01-18T01:07:58Z</time>
+    </trkpt>
+    <trkpt lat="50.4112302" lon="16.4572627">
+      <ele>566</ele>
+      <time>2022-01-18T01:08:18Z</time>
+    </trkpt>
+    <trkpt lat="50.4110554" lon="16.4573011">
+      <ele>565</ele>
+      <time>2022-01-18T01:08:40Z</time>
+    </trkpt>
+    <trkpt lat="50.4109147" lon="16.4573825">
+      <ele>566</ele>
+      <time>2022-01-18T01:08:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

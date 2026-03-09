@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:00:04Z</time>
+    <bounds maxlat="49.412638" maxlon="18.969704" minlat="49.411582" minlon="18.968754"/>
+  </metadata>
+  <wpt lat="49.412556" lon="18.969704">
+    <ele>1223</ele>
+    <name>Schronisko PTTK na Wielkiej Raczy</name>
+    <link href="https://mapa-turystyczna.pl/node/662">
+      <text>Schronisko PTTK na Wielkiej Raczy</text>
+    </link>
+  </wpt>
+  <wpt lat="49.411582" lon="18.968754">
+    <ele>1219</ele>
+    <name>Wielka Racza, granica</name>
+    <link href="https://mapa-turystyczna.pl/node/3976">
+      <text>Wielka Racza, granica</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Schronisko PTTK na Wielkiej Raczy - Wielka Racza, granica</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.412556,18.969704;49.41216350004503,18.969094500000033;49.411582,18.968754">
+    <text>Schronisko PTTK na Wielkiej Raczy - Wielka Racza, granica</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.412556" lon="18.969704">
+      <ele>1223</ele>
+      <time>2022-01-17T22:00:04Z</time>
+    </trkpt>
+    <trkpt lat="49.412577" lon="18.969679">
+      <ele>1224</ele>
+      <time>2022-01-17T22:00:06Z</time>
+    </trkpt>
+    <trkpt lat="49.412638" lon="18.969549">
+      <ele>1224</ele>
+      <time>2022-01-17T22:00:16Z</time>
+    </trkpt>
+    <trkpt lat="49.412488" lon="18.969367">
+      <ele>1225</ele>
+      <time>2022-01-17T22:00:33Z</time>
+    </trkpt>
+    <trkpt lat="49.41223" lon="18.969143">
+      <ele>1222</ele>
+      <time>2022-01-17T22:01:00Z</time>
+    </trkpt>
+    <trkpt lat="49.412097" lon="18.969046">
+      <ele>1222</ele>
+      <time>2022-01-17T22:01:13Z</time>
+    </trkpt>
+    <trkpt lat="49.411884" lon="18.968998">
+      <ele>1221</ele>
+      <time>2022-01-17T22:01:33Z</time>
+    </trkpt>
+    <trkpt lat="49.411821" lon="18.968942">
+      <ele>1222</ele>
+      <time>2022-01-17T22:01:40Z</time>
+    </trkpt>
+    <trkpt lat="49.411582" lon="18.968754">
+      <ele>1219</ele>
+      <time>2022-01-17T22:02:04Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

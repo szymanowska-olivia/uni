@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:01:36Z</time>
+    <bounds maxlat="50.41337" maxlon="16.4473807" minlat="50.4129686" minlon="16.4470267"/>
+  </metadata>
+  <wpt lat="50.412969" lon="16.447027">
+    <ele>453</ele>
+    <name>Szczytna</name>
+    <link href="https://mapa-turystyczna.pl/node/1780">
+      <text>Szczytna</text>
+    </link>
+  </wpt>
+  <wpt lat="50.41337" lon="16.447381">
+    <ele>453</ele>
+    <name>Szczytna, ul. Lesna</name>
+    <link href="https://mapa-turystyczna.pl/node/4034">
+      <text>Szczytna, ul. Lesna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Szczytna - Szczytna, ul. Lesna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.4129686,16.4470267;50.41316930042513,16.44720369999998;50.41337,16.4473807">
+    <text>Szczytna - Szczytna, ul. Lesna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.4129686" lon="16.4470267">
+      <ele>453</ele>
+      <time>2022-01-17T22:01:36Z</time>
+    </trkpt>
+    <trkpt lat="50.41337" lon="16.4473807">
+      <ele>453</ele>
+      <time>2022-01-17T22:02:36Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

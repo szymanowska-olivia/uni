@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:09:12Z</time>
+    <bounds maxlat="50.7482026" maxlon="15.8221628" minlat="50.7470895" minlon="15.8198616"/>
+  </metadata>
+  <wpt lat="50.74709" lon="15.819862">
+    <ele>1077</ele>
+    <name>Nad Pomeznimi Boudami</name>
+    <link href="https://mapa-turystyczna.pl/node/9354">
+      <text>Nad Pomeznimi Boudami</text>
+    </link>
+  </wpt>
+  <wpt lat="50.748127" lon="15.822163">
+    <ele>1065</ele>
+    <name>Przelecz Okraj, odejscie szlaku czerwonego</name>
+    <link href="https://mapa-turystyczna.pl/node/9353">
+      <text>Przelecz Okraj, odejscie szlaku czerwonego</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Nad Pomeznimi Boudami - Przelecz Okraj, odejscie szlaku czerwonego</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.7470895,15.8198616;50.74764605330811,15.820801400000004;50.7481268,15.8221628">
+    <text>Nad Pomeznimi Boudami - Przelecz Okraj, odejscie szlaku czerwonego</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.7470895" lon="15.8198616">
+      <ele>1077</ele>
+      <time>2022-01-18T00:09:12Z</time>
+    </trkpt>
+    <trkpt lat="50.7482026" lon="15.8217412">
+      <ele>1072</ele>
+      <time>2022-01-18T00:11:45Z</time>
+    </trkpt>
+    <trkpt lat="50.7481653" lon="15.8219236">
+      <ele>1068</ele>
+      <time>2022-01-18T00:11:57Z</time>
+    </trkpt>
+    <trkpt lat="50.7481268" lon="15.8221628">
+      <ele>1065</ele>
+      <time>2022-01-18T00:12:12Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

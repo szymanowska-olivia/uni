@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T21:51:32Z</time>
+    <bounds maxlat="49.7724825" maxlon="20.8383232" minlat="49.7719853" minlon="20.8374327"/>
+  </metadata>
+  <wpt lat="49.771985" lon="20.837433">
+    <ele>478</ele>
+    <name>Jamna, skrzyzowanie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/3581">
+      <text>Jamna, skrzyzowanie szlakow</text>
+    </link>
+  </wpt>
+  <wpt lat="49.772483" lon="20.838323">
+    <ele>479</ele>
+    <name>Jamna</name>
+    <link href="https://mapa-turystyczna.pl/node/3619">
+      <text>Jamna</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Jamna, skrzyzowanie szlakow - Jamna</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.7719853,20.8374327;49.77223555022766,20.837963800000026;49.7724825,20.8383232">
+    <text>Jamna, skrzyzowanie szlakow - Jamna</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.7719853" lon="20.8374327">
+      <ele>478</ele>
+      <time>2022-01-17T21:51:32Z</time>
+    </trkpt>
+    <trkpt lat="49.772087" lon="20.8376795">
+      <ele>480</ele>
+      <time>2022-01-17T21:51:47Z</time>
+    </trkpt>
+    <trkpt lat="49.7723841" lon="20.8382481">
+      <ele>479</ele>
+      <time>2022-01-17T21:52:23Z</time>
+    </trkpt>
+    <trkpt lat="49.7724825" lon="20.8383232">
+      <ele>479</ele>
+      <time>2022-01-17T21:52:32Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

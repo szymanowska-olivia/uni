@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T22:07:47Z</time>
+    <bounds maxlat="50.6661855" maxlon="19.4360939" minlat="50.6609149" minlon="19.434117"/>
+  </metadata>
+  <wpt lat="50.666185" lon="19.434117">
+    <ele>339</ele>
+    <name>Trzebniow, skrzyzowanie</name>
+    <link href="https://mapa-turystyczna.pl/node/4524">
+      <text>Trzebniow, skrzyzowanie</text>
+    </link>
+  </wpt>
+  <wpt lat="50.660915" lon="19.435866">
+    <ele>348</ele>
+    <name>Trzebniow</name>
+    <link href="https://mapa-turystyczna.pl/node/4491">
+      <text>Trzebniow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Trzebniow, skrzyzowanie - Trzebniow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.6661855,19.434117;50.66440888361142,19.435105449999995;50.6609149,19.4358658">
+    <text>Trzebniow, skrzyzowanie - Trzebniow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.6661855" lon="19.434117">
+      <ele>339</ele>
+      <time>2022-01-17T22:07:47Z</time>
+    </trkpt>
+    <trkpt lat="50.6626322" lon="19.4360939">
+      <ele>348</ele>
+      <time>2022-01-17T22:14:38Z</time>
+    </trkpt>
+    <trkpt lat="50.6616205" lon="19.4360255">
+      <ele>350</ele>
+      <time>2022-01-17T22:16:29Z</time>
+    </trkpt>
+    <trkpt lat="50.6611215" lon="19.435943">
+      <ele>348</ele>
+      <time>2022-01-17T22:17:24Z</time>
+    </trkpt>
+    <trkpt lat="50.6609149" lon="19.4358658">
+      <ele>348</ele>
+      <time>2022-01-17T22:17:47Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

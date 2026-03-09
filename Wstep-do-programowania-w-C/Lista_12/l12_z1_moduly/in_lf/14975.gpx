@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:31:21Z</time>
+    <bounds maxlat="51.4708867" maxlon="16.6150671" minlat="51.470832" minlon="16.6139676"/>
+  </metadata>
+  <wpt lat="51.470887" lon="16.613968">
+    <ele>180</ele>
+    <name>Winsko</name>
+    <link href="https://mapa-turystyczna.pl/node/10040">
+      <text>Winsko</text>
+    </link>
+  </wpt>
+  <wpt lat="51.470832" lon="16.615067">
+    <ele>180</ele>
+    <name>Winsko, Plac Wolnosci</name>
+    <link href="https://mapa-turystyczna.pl/node/10201">
+      <text>Winsko, Plac Wolnosci</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Winsko - Winsko, Plac Wolnosci</name>
+  <link href="https://mapa-turystyczna.pl/route?q=51.4708867,16.6139676;51.47085990000789,16.614351250000013;51.470832,16.6150671">
+    <text>Winsko - Winsko, Plac Wolnosci</text>
+  </link>
+  <trkseg>
+    <trkpt lat="51.4708867" lon="16.6139676">
+      <ele>180</ele>
+      <time>2022-01-18T00:31:21Z</time>
+    </trkpt>
+    <trkpt lat="51.4708331" lon="16.6147349">
+      <ele>180</ele>
+      <time>2022-01-18T00:32:03Z</time>
+    </trkpt>
+    <trkpt lat="51.470832" lon="16.6150671">
+      <ele>180</ele>
+      <time>2022-01-18T00:32:21Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

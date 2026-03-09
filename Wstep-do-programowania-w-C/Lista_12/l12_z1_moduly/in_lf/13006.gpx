@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:00:27Z</time>
+    <bounds maxlat="50.2440681" maxlon="19.782062" minlat="50.2438722" minlon="19.7818338"/>
+  </metadata>
+  <wpt lat="50.243872" lon="19.782062">
+    <ele>421</ele>
+    <name>Pieskowa Skala, odejscie szlaku czarnego</name>
+    <link href="https://mapa-turystyczna.pl/node/8959">
+      <text>Pieskowa Skala, odejscie szlaku czarnego</text>
+    </link>
+  </wpt>
+  <wpt lat="50.244068" lon="19.781834">
+    <ele>424</ele>
+    <name>Pieskowa Skala, wejscie do zamku</name>
+    <link href="https://mapa-turystyczna.pl/node/8958">
+      <text>Pieskowa Skala, wejscie do zamku</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pieskowa Skala, odejscie szlaku czarnego - Pieskowa Skala, wejscie do zamku</name>
+  <link href="https://mapa-turystyczna.pl/route?q=50.2438722,19.782062;50.24393035001632,19.78193035000001;50.2440681,19.7818338">
+    <text>Pieskowa Skala, odejscie szlaku czarnego - Pieskowa Skala, wejscie do zamku</text>
+  </link>
+  <trkseg>
+    <trkpt lat="50.2438722" lon="19.782062">
+      <ele>421</ele>
+      <time>2022-01-18T00:00:27Z</time>
+    </trkpt>
+    <trkpt lat="50.2438909" lon="19.7820028">
+      <ele>421</ele>
+      <time>2022-01-18T00:00:37Z</time>
+    </trkpt>
+    <trkpt lat="50.2439698" lon="19.7818579">
+      <ele>422</ele>
+      <time>2022-01-18T00:01:04Z</time>
+    </trkpt>
+    <trkpt lat="50.2440681" lon="19.7818338">
+      <ele>424</ele>
+      <time>2022-01-18T00:01:27Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

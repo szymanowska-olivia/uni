@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:51:45Z</time>
+    <bounds maxlat="53.9679411" maxlon="14.5724159" minlat="53.9656714" minlon="14.5645777"/>
+  </metadata>
+  <wpt lat="53.965671" lon="14.572416">
+    <ele>18</ele>
+    <name>Wiselka</name>
+    <link href="https://mapa-turystyczna.pl/node/8622">
+      <text>Wiselka</text>
+    </link>
+  </wpt>
+  <wpt lat="53.967941" lon="14.564578">
+    <ele>34</ele>
+    <name>Wiselka, rozejscie szlakow</name>
+    <link href="https://mapa-turystyczna.pl/node/8542">
+      <text>Wiselka, rozejscie szlakow</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Wiselka - Wiselka, rozejscie szlakow</name>
+  <link href="https://mapa-turystyczna.pl/route?q=53.9656714,14.5724159;53.96686895000361,14.568642000000036;53.9679411,14.5645777">
+    <text>Wiselka - Wiselka, rozejscie szlakow</text>
+  </link>
+  <trkseg>
+    <trkpt lat="53.9656714" lon="14.5724159">
+      <ele>18</ele>
+      <time>2022-01-17T23:51:45Z</time>
+    </trkpt>
+    <trkpt lat="53.9667191" lon="14.5714885">
+      <ele>17</ele>
+      <time>2022-01-17T23:53:49Z</time>
+    </trkpt>
+    <trkpt lat="53.9668106" lon="14.5713329">
+      <ele>18</ele>
+      <time>2022-01-17T23:54:03Z</time>
+    </trkpt>
+    <trkpt lat="53.9668327" lon="14.5711881">
+      <ele>18</ele>
+      <time>2022-01-17T23:54:12Z</time>
+    </trkpt>
+    <trkpt lat="53.9668863" lon="14.5687949">
+      <ele>16</ele>
+      <time>2022-01-17T23:56:40Z</time>
+    </trkpt>
+    <trkpt lat="53.9668516" lon="14.5684891">
+      <ele>16</ele>
+      <time>2022-01-17T23:56:59Z</time>
+    </trkpt>
+    <trkpt lat="53.9667727" lon="14.5681565">
+      <ele>17</ele>
+      <time>2022-01-17T23:57:21Z</time>
+    </trkpt>
+    <trkpt lat="53.9668106" lon="14.5678561">
+      <ele>19</ele>
+      <time>2022-01-17T23:57:40Z</time>
+    </trkpt>
+    <trkpt lat="53.9668958" lon="14.5670997">
+      <ele>24</ele>
+      <time>2022-01-17T23:58:28Z</time>
+    </trkpt>
+    <trkpt lat="53.9669557" lon="14.566397">
+      <ele>29</ele>
+      <time>2022-01-17T23:59:12Z</time>
+    </trkpt>
+    <trkpt lat="53.9675427" lon="14.5653831">
+      <ele>32</ele>
+      <time>2022-01-18T00:00:40Z</time>
+    </trkpt>
+    <trkpt lat="53.9679411" lon="14.5645777">
+      <ele>34</ele>
+      <time>2022-01-18T00:01:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

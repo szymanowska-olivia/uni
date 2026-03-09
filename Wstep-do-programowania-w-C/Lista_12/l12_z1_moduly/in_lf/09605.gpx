@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-17T23:00:45Z</time>
+    <bounds maxlat="48.980136" maxlon="19.3629634" minlat="48.9795586" minlon="19.3624645"/>
+  </metadata>
+  <wpt lat="48.980136" lon="19.362465">
+    <ele>1630</ele>
+    <name>Salatin</name>
+    <link href="https://mapa-turystyczna.pl/node/6463">
+      <text>Salatin</text>
+    </link>
+  </wpt>
+  <wpt lat="48.979559" lon="19.362963">
+    <ele>1610</ele>
+    <name>Salatin, razc.</name>
+    <link href="https://mapa-turystyczna.pl/node/6740">
+      <text>Salatin, razc.</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Salatin - Salatin, razc.</name>
+  <link href="https://mapa-turystyczna.pl/route?q=48.980136,19.3624645;48.97982660001033,19.36270024999997;48.9795586,19.3629634">
+    <text>Salatin - Salatin, razc.</text>
+  </link>
+  <trkseg>
+    <trkpt lat="48.980136" lon="19.3624645">
+      <ele>1630</ele>
+      <time>2022-01-17T23:00:45Z</time>
+    </trkpt>
+    <trkpt lat="48.9800357" lon="19.3625195">
+      <ele>1628</ele>
+      <time>2022-01-17T23:00:54Z</time>
+    </trkpt>
+    <trkpt lat="48.9799687" lon="19.3625377">
+      <ele>1626</ele>
+      <time>2022-01-17T23:01:00Z</time>
+    </trkpt>
+    <trkpt lat="48.9799439" lon="19.3625988">
+      <ele>1625</ele>
+      <time>2022-01-17T23:01:04Z</time>
+    </trkpt>
+    <trkpt lat="48.9799155" lon="19.3626567">
+      <ele>1623</ele>
+      <time>2022-01-17T23:01:08Z</time>
+    </trkpt>
+    <trkpt lat="48.9798587" lon="19.3626758">
+      <ele>1621</ele>
+      <time>2022-01-17T23:01:13Z</time>
+    </trkpt>
+    <trkpt lat="48.9797945" lon="19.3627247">
+      <ele>1619</ele>
+      <time>2022-01-17T23:01:20Z</time>
+    </trkpt>
+    <trkpt lat="48.9797408" lon="19.3628246">
+      <ele>1616</ele>
+      <time>2022-01-17T23:01:27Z</time>
+    </trkpt>
+    <trkpt lat="48.979673" lon="19.3628494">
+      <ele>1614</ele>
+      <time>2022-01-17T23:01:33Z</time>
+    </trkpt>
+    <trkpt lat="48.9795586" lon="19.3629634">
+      <ele>1610</ele>
+      <time>2022-01-17T23:01:45Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

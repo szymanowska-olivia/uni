@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:21:57Z</time>
+    <bounds maxlat="49.8138063" maxlon="21.3512289" minlat="49.8131479" minlon="21.3503409"/>
+  </metadata>
+  <wpt lat="49.813148" lon="21.351229">
+    <ele>562</ele>
+    <name>Liwocz</name>
+    <link href="https://mapa-turystyczna.pl/node/9844">
+      <text>Liwocz</text>
+    </link>
+  </wpt>
+  <wpt lat="49.813806" lon="21.350341">
+    <ele>559</ele>
+    <name>Pod Liwoczem</name>
+    <link href="https://mapa-turystyczna.pl/node/3655">
+      <text>Pod Liwoczem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Liwocz - Pod Liwoczem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.8131479,21.3512289;49.81359130047759,21.350747799999983;49.8138063,21.3503409">
+    <text>Liwocz - Pod Liwoczem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.8131479" lon="21.3512289">
+      <ele>562</ele>
+      <time>2022-01-18T00:21:57Z</time>
+    </trkpt>
+    <trkpt lat="49.8132378" lon="21.3511118">
+      <ele>563</ele>
+      <time>2022-01-18T00:22:12Z</time>
+    </trkpt>
+    <trkpt lat="49.8133763" lon="21.3511547">
+      <ele>562</ele>
+      <time>2022-01-18T00:22:30Z</time>
+    </trkpt>
+    <trkpt lat="49.8138063" lon="21.3503409">
+      <ele>559</ele>
+      <time>2022-01-18T00:23:57Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

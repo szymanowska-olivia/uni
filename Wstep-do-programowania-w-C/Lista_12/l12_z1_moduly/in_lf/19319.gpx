@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:46:15Z</time>
+    <bounds maxlat="49.642731" maxlon="20.465321" minlat="49.641797" minlon="20.462198"/>
+  </metadata>
+  <wpt lat="49.642731" lon="20.462198">
+    <ele>800</ele>
+    <name>Lyzka</name>
+    <link href="https://mapa-turystyczna.pl/node/13057">
+      <text>Lyzka</text>
+    </link>
+  </wpt>
+  <wpt lat="49.641797" lon="20.465321">
+    <ele>778</ele>
+    <name>Pod Lyzka</name>
+    <link href="https://mapa-turystyczna.pl/node/896">
+      <text>Pod Lyzka</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Lyzka - Pod Lyzka</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.642731,20.462198;49.642225500107884,20.463795500000035;49.641797,20.465321">
+    <text>Lyzka - Pod Lyzka</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.642731" lon="20.462198">
+      <ele>800</ele>
+      <time>2022-01-18T01:46:15Z</time>
+    </trkpt>
+    <trkpt lat="49.642719" lon="20.462379">
+      <ele>800</ele>
+      <time>2022-01-18T01:46:31Z</time>
+    </trkpt>
+    <trkpt lat="49.642694" lon="20.462504">
+      <ele>800</ele>
+      <time>2022-01-18T01:46:42Z</time>
+    </trkpt>
+    <trkpt lat="49.642647" lon="20.462603">
+      <ele>800</ele>
+      <time>2022-01-18T01:46:52Z</time>
+    </trkpt>
+    <trkpt lat="49.642599" lon="20.462702">
+      <ele>799</ele>
+      <time>2022-01-18T01:47:03Z</time>
+    </trkpt>
+    <trkpt lat="49.642516" lon="20.46283">
+      <ele>799</ele>
+      <time>2022-01-18T01:47:19Z</time>
+    </trkpt>
+    <trkpt lat="49.64245" lon="20.462996">
+      <ele>797</ele>
+      <time>2022-01-18T01:47:36Z</time>
+    </trkpt>
+    <trkpt lat="49.642328" lon="20.463377">
+      <ele>795</ele>
+      <time>2022-01-18T01:48:12Z</time>
+    </trkpt>
+    <trkpt lat="49.642123" lon="20.464214">
+      <ele>787</ele>
+      <time>2022-01-18T01:49:30Z</time>
+    </trkpt>
+    <trkpt lat="49.641945" lon="20.464883">
+      <ele>780</ele>
+      <time>2022-01-18T01:50:32Z</time>
+    </trkpt>
+    <trkpt lat="49.641797" lon="20.465321">
+      <ele>778</ele>
+      <time>2022-01-18T01:51:15Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T00:57:55Z</time>
+    <bounds maxlat="49.2929896" maxlon="22.4422108" minlat="49.28555" minlon="22.4386955"/>
+  </metadata>
+  <wpt lat="49.28555" lon="22.438702">
+    <ele>591</ele>
+    <name>Pod Bedrycia</name>
+    <link href="https://mapa-turystyczna.pl/node/11270">
+      <text>Pod Bedrycia</text>
+    </link>
+  </wpt>
+  <wpt lat="49.29299" lon="22.442211">
+    <ele>610</ele>
+    <name>Pod Korbem</name>
+    <link href="https://mapa-turystyczna.pl/node/11271">
+      <text>Pod Korbem</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Pod Bedrycia - Pod Korbem</name>
+  <link href="https://mapa-turystyczna.pl/route?q=49.28555,22.4387024;49.28950550050843,22.439596749999975;49.2929896,22.4422108">
+    <text>Pod Bedrycia - Pod Korbem</text>
+  </link>
+  <trkseg>
+    <trkpt lat="49.28555" lon="22.4387024">
+      <ele>591</ele>
+      <time>2022-01-18T00:57:55Z</time>
+    </trkpt>
+    <trkpt lat="49.2871687" lon="22.4386955">
+      <ele>581</ele>
+      <time>2022-01-18T01:00:57Z</time>
+    </trkpt>
+    <trkpt lat="49.2881059" lon="22.4389637">
+      <ele>581</ele>
+      <time>2022-01-18T01:02:44Z</time>
+    </trkpt>
+    <trkpt lat="49.2892816" lon="22.4395324">
+      <ele>597</ele>
+      <time>2022-01-18T01:05:03Z</time>
+    </trkpt>
+    <trkpt lat="49.2897294" lon="22.4396611">
+      <ele>607</ele>
+      <time>2022-01-18T01:05:55Z</time>
+    </trkpt>
+    <trkpt lat="49.2905481" lon="22.4399186">
+      <ele>619</ele>
+      <time>2022-01-18T01:07:29Z</time>
+    </trkpt>
+    <trkpt lat="49.2910811" lon="22.4401654">
+      <ele>614</ele>
+      <time>2022-01-18T01:08:32Z</time>
+    </trkpt>
+    <trkpt lat="49.291361" lon="22.440337">
+      <ele>611</ele>
+      <time>2022-01-18T01:09:06Z</time>
+    </trkpt>
+    <trkpt lat="49.2928164" lon="22.4421073">
+      <ele>612</ele>
+      <time>2022-01-18T01:12:34Z</time>
+    </trkpt>
+    <trkpt lat="49.2929896" lon="22.4422108">
+      <ele>610</ele>
+      <time>2022-01-18T01:12:55Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>

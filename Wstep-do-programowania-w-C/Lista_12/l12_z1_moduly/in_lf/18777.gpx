@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><gpx creator="https://mapa-turystyczna.pl" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="https://mapa-turystyczna.pl">
+      <text>mapa-turystyczna.pl</text>
+    </link>
+    <time>2022-01-18T01:36:58Z</time>
+    <bounds maxlat="52.4806674" maxlon="17.0134937" minlat="52.480083" minlon="17.0110645"/>
+  </metadata>
+  <wpt lat="52.480083" lon="17.011064">
+    <ele>145</ele>
+    <name>Dziewicza Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/10637">
+      <text>Dziewicza Gora</text>
+    </link>
+  </wpt>
+  <wpt lat="52.480667" lon="17.013494">
+    <ele>143</ele>
+    <name>Rozwidlenie szlakow pod Dziewicza Gora</name>
+    <link href="https://mapa-turystyczna.pl/node/12701">
+      <text>Rozwidlenie szlakow pod Dziewicza Gora</text>
+    </link>
+  </wpt>
+
+<trk>
+  <name>Dziewicza Gora - Rozwidlenie szlakow pod Dziewicza Gora</name>
+  <link href="https://mapa-turystyczna.pl/route?q=52.480083,17.0110645;52.48031770006138,17.012072450000016;52.4806674,17.0134937">
+    <text>Dziewicza Gora - Rozwidlenie szlakow pod Dziewicza Gora</text>
+  </link>
+  <trkseg>
+    <trkpt lat="52.480083" lon="17.0110645">
+      <ele>145</ele>
+      <time>2022-01-18T01:36:58Z</time>
+    </trkpt>
+    <trkpt lat="52.4802442" lon="17.0117264">
+      <ele>147</ele>
+      <time>2022-01-18T01:37:47Z</time>
+    </trkpt>
+    <trkpt lat="52.4803912" lon="17.0124185">
+      <ele>147</ele>
+      <time>2022-01-18T01:38:38Z</time>
+    </trkpt>
+    <trkpt lat="52.4806674" lon="17.0134937">
+      <ele>143</ele>
+      <time>2022-01-18T01:39:58Z</time>
+    </trkpt>
+  </trkseg>
+</trk>
+</gpx>
